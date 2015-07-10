@@ -1,0 +1,109 @@
+Scenario,urn,accyr,LAName,Age
+EnteringLeftCar,200505FF03727,2005,Merseyside,58
+EnteringLeftCar,200506M921949,2005,Trafford,72
+EnteringLeftCar,2.0051E+12,2005,South Tyneside,10
+EnteringLeftCar,200511DJ17220,2005,Darlington,24
+EnteringLeftCar,200520D365802,2005,Birmingham,73
+EnteringLeftCar,200522CE46985,2005,Worcestershire,19
+EnteringLeftCar,200530C000744,2005,Derbyshire,16
+EnteringLeftCar,2.00533E+12,2005,Rutland,
+EnteringLeftCar,2.00533E+12,2005,Leicestershire,19
+EnteringLeftCar,200534NW03241,2005,Northamptonshire,71
+EnteringLeftCar,200542C037807,2005,Essex,55
+EnteringLeftCar,2.00544E+12,2005,Hampshire,52
+EnteringLeftCar,2.00546E+12,2005,Kent,49
+EnteringLeftCar,2.00552E+12,2005,City of Bristol,42
+EnteringLeftCar,2.00553E+12,2005,Gloucestershire,33
+EnteringLeftCar,200554CE66405,2005,Wiltshire,19
+EnteringLeftCar,200604AX06063,2006,Blackpool,14
+EnteringLeftCar,200606A062750,2006,Manchester,25
+EnteringLeftCar,2.00607E+12,2006,Warrington,15
+EnteringLeftCar,2006160D08900,2006,Kingston Upon Hull,72
+EnteringLeftCar,2.00635E+12,2006,Cambridgeshire,25
+EnteringLeftCar,2.00635E+12,2006,Cambridgeshire,19
+EnteringLeftCar,2.00636E+12,2006,Norfolk,30
+EnteringLeftCar,2.00644E+12,2006,Portsmouth,53
+EnteringLeftCar,2.00652E+12,2006,South Gloucestershire,51
+EnteringLeftCar,2.00653E+12,2006,Gloucestershire,21
+EnteringLeftCar,200704AM07066,2007,Blackpool,19
+EnteringLeftCar,200706A079633,2007,Manchester,21
+EnteringLeftCar,2.00707E+12,2007,Warrington,58
+EnteringLeftCar,200730D000890,2007,Derby,24
+EnteringLeftCar,20073102C3939,2007,Nottingham,16
+EnteringLeftCar,20073102D3900,2007,Nottinghamshire,13
+EnteringLeftCar,2.00733E+12,2007,Leicestershire,16
+EnteringLeftCar,2.00736E+12,2007,Norfolk,34
+EnteringLeftCar,200745EP14185,2007,Surrey,31
+EnteringLeftCar,2.00746E+12,2007,Kent,
+EnteringLeftCar,2.00752E+12,2007,Somerset,21
+EnteringLeftCar,200801GD72856,2008,London,34
+EnteringLeftCar,200801PL60170,2008,London,
+EnteringLeftCar,200801PL69081,2008,London,31
+EnteringLeftCar,200801TX20155,2008,London,46
+EnteringLeftCar,200806G004748,2008,Tameside,33
+EnteringLeftCar,2.0081E+12,2008,Newcastle upon Tyne,6
+EnteringLeftCar,2008160D01140,2008,Kingston Upon Hull,52
+EnteringLeftCar,2.00822E+12,2008,Stoke on Trent,20
+EnteringLeftCar,200822DA88527,2008,Worcestershire,55
+EnteringLeftCar,20083102D1457,2008,Nottinghamshire,45
+EnteringLeftCar,2.00835E+12,2008,Cambridgeshire,24
+EnteringLeftCar,2008400C01362,2008,Luton,11
+EnteringLeftCar,2.00846E+12,2008,Kent,17
+EnteringLeftCar,2008558C03486,2008,Bournemouth,26
+EnteringLeftCar,200901BS70119,2009,London,29
+EnteringLeftCar,200901VW40006,2009,London,42
+EnteringLeftCar,200904BC09280,2009,Lancashire,42
+EnteringLeftCar,200906C021469,2009,Manchester,27
+EnteringLeftCar,2009160D02740,2009,Kingston Upon Hull,43
+EnteringLeftCar,200920F207802,2009,Birmingham,20
+EnteringLeftCar,200920H044902,2009,Walsall,33
+EnteringLeftCar,20093102C2277,2009,Nottingham,19
+EnteringLeftCar,20093102D2923,2009,Nottinghamshire,12
+EnteringLeftCar,2.00933E+12,2009,Leicestershire,29
+EnteringLeftCar,200943P294029,2009,Oxfordshire,45
+EnteringLeftCar,200943P326019,2009,Oxfordshire,72
+EnteringLeftCar,201001CP00157,2010,London,30
+EnteringLeftCar,201005AA01893,2010,Merseyside,64
+EnteringLeftCar,201006B039122,2010,Manchester,51
+EnteringLeftCar,201006G033533,2010,Tameside,27
+EnteringLeftCar,2.01013E+12,2010,Leeds,42
+EnteringLeftCar,201014A068610,2010,Doncaster,44
+EnteringLeftCar,2010160C06701,2010,East Riding of Yorkshire,48
+EnteringLeftCar,201020K009480,2010,Sandwell,61
+EnteringLeftCar,201030D001086,2010,Derby,28
+EnteringLeftCar,20103102C2345,2010,Nottingham,57
+EnteringLeftCar,20103102D2767,2010,Nottinghamshire,23
+EnteringLeftCar,2.01033E+12,2010,Leicestershire,36
+EnteringLeftCar,201043P202100,2010,Oxfordshire,50
+EnteringLeftCar,2.01046E+12,2010,Kent,15
+EnteringLeftCar,2011201105BB01797,2011,Merseyside,42
+EnteringLeftCar,2011201106L054542,2011,Wigan,39
+EnteringLeftCar,2.0112E+16,2011,Cheshire West and Chester,51
+EnteringLeftCar,2.0112E+16,2011,North Yorkshire,35
+EnteringLeftCar,20112011160B04541,2011,North Lincolnshire,12
+EnteringLeftCar,20112011160D06041,2011,Kingston Upon Hull,43
+EnteringLeftCar,2011201120S504641,2011,Birmingham,31
+EnteringLeftCar,2011201131C105311,2011,Nottingham,23
+EnteringLeftCar,2011201131C118211,2011,Nottingham,14
+EnteringLeftCar,2011201131D115711,2011,Nottinghamshire,40
+EnteringLeftCar,2011201131D241711,2011,Nottinghamshire,43
+EnteringLeftCar,2.0112E+16,2011,Leicestershire,41
+EnteringLeftCar,2012201201KF60208,2012,London,53
+EnteringLeftCar,2012201204BC12227,2012,Lancashire,36
+EnteringLeftCar,2012201205EE03050,2012,Merseyside,47
+EnteringLeftCar,2012201206A064560,2012,Manchester,29
+EnteringLeftCar,2012201206B058669,2012,Manchester,21
+EnteringLeftCar,2012201206G055986,2012,Tameside,36
+EnteringLeftCar,2012201206M064995,2012,Trafford,33
+EnteringLeftCar,2.0122E+16,2012,Cheshire West and Chester,36
+EnteringLeftCar,2.0122E+16,2012,Warrington,52
+EnteringLeftCar,2.0122E+16,2012,South Tyneside,30
+EnteringLeftCar,20122012160A03141,2012,North East Lincolnshire,23
+EnteringLeftCar,20122012160A04801,2012,North East Lincolnshire,34
+EnteringLeftCar,2012201231B300512,2012,Nottinghamshire,35
+EnteringLeftCar,2012201231D261312,2012,Nottinghamshire,61
+EnteringLeftCar,2.0122E+16,2012,Leicestershire,59
+EnteringLeftCar,2012201243P172122,2012,Oxfordshire,28
+EnteringLeftCar,2012201243P329122,2012,Oxfordshire,-1
+EnteringLeftCar,2.0122E+16,2012,Kent,60
+EnteringLeftCar,20122012552D50521,2012,Dorset,24

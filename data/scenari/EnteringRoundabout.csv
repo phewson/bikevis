@@ -1,0 +1,1080 @@
+Scenario,urn,accyr,LAName,Age
+EnteringRoundabout,199901AB00321,1999,London,31
+EnteringRoundabout,199901AB00359,1999,London,33
+EnteringRoundabout,199901CD00139,1999,London,36
+EnteringRoundabout,199901CX00115,1999,London,35
+EnteringRoundabout,199901FH00329,1999,London,31
+EnteringRoundabout,199901FH00833,1999,London,31
+EnteringRoundabout,199901GD00111,1999,London,31
+EnteringRoundabout,199901GD00492,1999,London,
+EnteringRoundabout,199901JC00173,1999,London,32
+EnteringRoundabout,199901KD00751,1999,London,73
+EnteringRoundabout,199901KF00575,1999,London,54
+EnteringRoundabout,199901KG00056,1999,London,33
+EnteringRoundabout,199901LX00500,1999,London,24
+EnteringRoundabout,199901MD00130,1999,London,30
+EnteringRoundabout,199901MD00427,1999,London,33
+EnteringRoundabout,199901MD00557,1999,London,33
+EnteringRoundabout,199901MM00362,1999,London,39
+EnteringRoundabout,199901MS00085,1999,London,43
+EnteringRoundabout,199901MS00149,1999,London,20
+EnteringRoundabout,199901MS00350,1999,London,20
+EnteringRoundabout,199901NI00541,1999,London,25
+EnteringRoundabout,199901QA00022,1999,London,23
+EnteringRoundabout,199901SA00231,1999,Hertfordshire,28
+EnteringRoundabout,199901TG00154,1999,Surrey,47
+EnteringRoundabout,199901TX01296,1999,London,60
+EnteringRoundabout,199901VK00381,1999,London,16
+EnteringRoundabout,199901XH00093,1999,London,13
+EnteringRoundabout,199901XH00098,1999,London,18
+EnteringRoundabout,199901XH00197,1999,London,21
+EnteringRoundabout,199901XH00983,1999,London,55
+EnteringRoundabout,199901YE00268,1999,London,13
+EnteringRoundabout,199901YE00571,1999,London,12
+EnteringRoundabout,199901YE00736,1999,London,12
+EnteringRoundabout,199901YT00139,1999,London,
+EnteringRoundabout,199901ZP00278,1999,London,7
+EnteringRoundabout,199901ZP01104,1999,Surrey,11
+EnteringRoundabout,199904A046299,1999,Blackpool,32
+EnteringRoundabout,199906C671999,1999,Manchester,13
+EnteringRoundabout,199906L006021,1999,Wigan,10
+EnteringRoundabout,199906M004444,1999,Trafford,17
+EnteringRoundabout,199906N254799,1999,Bury,29
+EnteringRoundabout,1999079A20583,1999,Cheshire West and Chester,37
+EnteringRoundabout,1999079B20252,1999,Warrington,64
+EnteringRoundabout,1999079C11094,1999,Cheshire West and Chester,38
+EnteringRoundabout,199910E327999,1999,Newcastle upon Tyne,20
+EnteringRoundabout,199910E347099,1999,Newcastle upon Tyne,34
+EnteringRoundabout,199910G159799,1999,Newcastle upon Tyne,48
+EnteringRoundabout,199913AA59799,1999,Leeds,28
+EnteringRoundabout,199913DC39699,1999,Wakefield,10
+EnteringRoundabout,199914JJ00850,1999,Sheffield,30
+EnteringRoundabout,199916A014399,1999,North East Lincolnshire,10
+EnteringRoundabout,199916A019299,1999,North East Lincolnshire,14
+EnteringRoundabout,199916C031699,1999,East Riding of Yorkshire,12
+EnteringRoundabout,199917H100245,1999,Hartlepool,53
+EnteringRoundabout,199917S100358,1999,Stockton on Tees,66
+EnteringRoundabout,199920F219201,1999,Birmingham,13
+EnteringRoundabout,199920G033302,1999,Wolverhampton,10
+EnteringRoundabout,199920G068202,1999,Wolverhampton,6
+EnteringRoundabout,199920K094901,1999,Sandwell,28
+EnteringRoundabout,199920L115901,1999,Solihull,36
+EnteringRoundabout,199920M197201,1999,Coventry,16
+EnteringRoundabout,1.99922E+12,1999,Stoke on Trent,35
+EnteringRoundabout,1.99922E+12,1999,Staffordshire,9
+EnteringRoundabout,1.99922E+12,1999,Staffordshire,45
+EnteringRoundabout,1.99922E+12,1999,Staffordshire,21
+EnteringRoundabout,1.99924E+12,1999,Warwickshire,8
+EnteringRoundabout,199930D000309,1999,Derby,18
+EnteringRoundabout,199930D000448,1999,Derby,18
+EnteringRoundabout,1999317C42744,1999,Nottingham,56
+EnteringRoundabout,1.99934E+12,1999,Leicestershire,14
+EnteringRoundabout,1.99934E+12,1999,Leicestershire,38
+EnteringRoundabout,1.99934E+12,1999,Leicestershire,46
+EnteringRoundabout,1.99935E+12,1999,Cambridgeshire,17
+EnteringRoundabout,1.99935E+12,1999,Cambridgeshire,30
+EnteringRoundabout,1.99935E+12,1999,Cambridgeshire,41
+EnteringRoundabout,199936N991468,1999,Norfolk,
+EnteringRoundabout,199940B270899,1999,Central Bedfordshire,11
+EnteringRoundabout,199940C305199,1999,Luton,20
+EnteringRoundabout,199940C310199,1999,Luton,30
+EnteringRoundabout,19994100G0159,1999,Hertfordshire,16
+EnteringRoundabout,19994200B0413,1999,Essex,
+EnteringRoundabout,2.00E+124,1999,Essex,43
+EnteringRoundabout,19994200F0477,1999,Thurrock,30
+EnteringRoundabout,19994200H0673,1999,Southend on Sea,22
+EnteringRoundabout,199943N246119,1999,Buckinghamshire,
+EnteringRoundabout,199943N293079,1999,Buckinghamshire,33
+EnteringRoundabout,199943R412119,1999,Windsor and Maidenhead,54
+EnteringRoundabout,1999440AA1387,1999,Hampshire,14
+EnteringRoundabout,1999440BB1070,1999,Hampshire,32
+EnteringRoundabout,1999440DT0030,1999,Hampshire,17
+EnteringRoundabout,1999440HF0316,1999,Hampshire,69
+EnteringRoundabout,1999440JH0018,1999,Hampshire,24
+EnteringRoundabout,1999440JH0404,1999,Hampshire,12
+EnteringRoundabout,1999440RC0020,1999,Portsmouth,25
+EnteringRoundabout,1999440SP0214,1999,Southampton ,39
+EnteringRoundabout,1999440YS0270,1999,Southampton ,21
+EnteringRoundabout,1999440ZD0619,1999,Isle of Wight,42
+EnteringRoundabout,1999440ZD0908,1999,Isle of Wight,11
+EnteringRoundabout,199945ED00268,1999,Surrey,24
+EnteringRoundabout,199945NA00106,1999,Surrey,
+EnteringRoundabout,199945NA00368,1999,Surrey,15
+EnteringRoundabout,199946MA03161,1999,Kent,9
+EnteringRoundabout,199946SW08072,1999,Kent,14
+EnteringRoundabout,199947X002409,1999,West Sussex,11
+EnteringRoundabout,199947X003865,1999,West Sussex,17
+EnteringRoundabout,199950E312672,1999,Plymouth,29
+EnteringRoundabout,1.99952E+12,1999,South Gloucestershire,42
+EnteringRoundabout,1.99952E+12,1999,City of Bristol,15
+EnteringRoundabout,1999530AI2626,1999,Gloucestershire,16
+EnteringRoundabout,1999530AI3976,1999,Gloucestershire,23
+EnteringRoundabout,1999530AI4388,1999,Gloucestershire,18
+EnteringRoundabout,199954DN32499,1999,Swindon,42
+EnteringRoundabout,199954DN47499,1999,Swindon,24
+EnteringRoundabout,1999550P00498,1999,Poole,21
+EnteringRoundabout,1999559E04995,1999,Dorset,16
+EnteringRoundabout,200001DM01262,2000,London,11
+EnteringRoundabout,200001DM02500,2000,London,29
+EnteringRoundabout,200001FH00217,2000,London,7
+EnteringRoundabout,200001FH00607,2000,London,27
+EnteringRoundabout,200001GD00471,2000,London,28
+EnteringRoundabout,200001GD00511,2000,London,57
+EnteringRoundabout,200001GD00513,2000,London,58
+EnteringRoundabout,200001KD00424,2000,London,53
+EnteringRoundabout,200001KD00856,2000,London,72
+EnteringRoundabout,200001KG00236,2000,London,22
+EnteringRoundabout,200001KO00697,2000,London,21
+EnteringRoundabout,200001MM01589,2000,London,28
+EnteringRoundabout,200001NI00659,2000,London,45
+EnteringRoundabout,200001NI00880,2000,London,23
+EnteringRoundabout,200001NI01457,2000,London,28
+EnteringRoundabout,200001PL00817,2000,London,31
+EnteringRoundabout,200001PY00669,2000,London,54
+EnteringRoundabout,200001RY00051,2000,London,51
+EnteringRoundabout,200001TX00273,2000,London,40
+EnteringRoundabout,200001VK00187,2000,London,24
+EnteringRoundabout,200001XD00088,2000,London,49
+EnteringRoundabout,200001XH00514,2000,London,39
+EnteringRoundabout,200001XS00254,2000,London,14
+EnteringRoundabout,200001YE00140,2000,London,55
+EnteringRoundabout,200001YR00057,2000,London,42
+EnteringRoundabout,200001ZD00135,2000,London,11
+EnteringRoundabout,200004A003200,2000,Blackpool,12
+EnteringRoundabout,200004A053600,2000,Lancashire,36
+EnteringRoundabout,200004E048100,2000,Lancashire,16
+EnteringRoundabout,200006G005479,2000,Tameside,20
+EnteringRoundabout,2.00007E+12,2000,Cheshire East,36
+EnteringRoundabout,2.00007E+12,2000,Cheshire West and Chester,57
+EnteringRoundabout,2.00007E+12,2000,Warrington,18
+EnteringRoundabout,200010L127500,2000,South Tyneside,20
+EnteringRoundabout,200011AK17390,2000,Durham,10
+EnteringRoundabout,200011CG02370,2000,Durham,59
+EnteringRoundabout,200011DJ02280,2000,Darlington,33
+EnteringRoundabout,2.00012E+12,2000,York,12
+EnteringRoundabout,2.00012E+12,2000,York,23
+EnteringRoundabout,2.00013E+12,2000,Leeds,38
+EnteringRoundabout,200013CB05000,2000,Leeds,34
+EnteringRoundabout,200014AA00010,2000,Doncaster,42
+EnteringRoundabout,200014CC00599,2000,Doncaster,11
+EnteringRoundabout,200014JJ00789,2000,Sheffield,26
+EnteringRoundabout,200016A035400,2000,North East Lincolnshire,12
+EnteringRoundabout,200016D027300,2000,Kingston Upon Hull,12
+EnteringRoundabout,200017M100040,2000,Middlesbrough,21
+EnteringRoundabout,200017S100225,2000,Stockton on Tees,17
+EnteringRoundabout,200020E129802,2000,Birmingham,12
+EnteringRoundabout,200020E141801,2000,Birmingham,8
+EnteringRoundabout,200020J070102,2000,Dudley,69
+EnteringRoundabout,200020J103001,2000,Dudley,21
+EnteringRoundabout,200020K128001,2000,Sandwell,50
+EnteringRoundabout,200020M100202,2000,Coventry,30
+EnteringRoundabout,2.00021E+12,2000,Staffordshire,35
+EnteringRoundabout,200022BC11415,2000,Worcestershire,22
+EnteringRoundabout,200030D000153,2000,Derby,46
+EnteringRoundabout,200030D000337,2000,Derby,11
+EnteringRoundabout,2.00033E+12,2000,Leicestershire,12
+EnteringRoundabout,2.00033E+12,2000,Leicestershire,43
+EnteringRoundabout,2.00033E+12,2000,Leicestershire,18
+EnteringRoundabout,2.00033E+12,2000,Leicestershire,34
+EnteringRoundabout,2.00033E+12,2000,Leicestershire,53
+EnteringRoundabout,200034ND00500,2000,Northamptonshire,41
+EnteringRoundabout,2.00035E+12,2000,Peterborough,38
+EnteringRoundabout,2.00035E+12,2000,Cambridgeshire,63
+EnteringRoundabout,200037G007229,2000,Suffolk,12
+EnteringRoundabout,200037L004939,2000,Suffolk,19
+EnteringRoundabout,20004100C0192,2000,Hertfordshire,23
+EnteringRoundabout,20004100C0613,2000,Hertfordshire,47
+EnteringRoundabout,20004100D0105,2000,Hertfordshire,24
+EnteringRoundabout,20004200C0012,2000,Essex,38
+EnteringRoundabout,20004200C0683,2000,Essex,57
+EnteringRoundabout,20004200D0165,2000,Essex,17
+EnteringRoundabout,20004200E0497,2000,Essex,
+EnteringRoundabout,20004200H0318,2000,Southend on Sea,14
+EnteringRoundabout,20004200H0332,2000,Southend on Sea,15
+EnteringRoundabout,200043P016100,2000,Oxfordshire,49
+EnteringRoundabout,200043W108110,2000,Windsor and Maidenhead,43
+EnteringRoundabout,200043W537030,2000,Reading,32
+EnteringRoundabout,200043W590050,2000,Reading,22
+EnteringRoundabout,2000440DT0041,2000,Hampshire,27
+EnteringRoundabout,200045NS00255,2000,Surrey,
+EnteringRoundabout,200045WG00307,2000,Surrey,
+EnteringRoundabout,200046SW24647,2000,Kent,16
+EnteringRoundabout,200046TH12816,2000,Kent,17
+EnteringRoundabout,200047C126104,2000,Brighton and Hove,27
+EnteringRoundabout,200047S126058,2000,East Sussex,11
+EnteringRoundabout,200047X004494,2000,West Sussex,12
+EnteringRoundabout,200047X125941,2000,West Sussex,30
+EnteringRoundabout,200047X127557,2000,West Sussex,11
+EnteringRoundabout,200047Y003666,2000,West Sussex,11
+EnteringRoundabout,200050A311559,2000,Cornwall and Isles of Scilly,8
+EnteringRoundabout,200050D214846,2000,Devon,38
+EnteringRoundabout,200050D215989,2000,Devon,48
+EnteringRoundabout,200050E210786,2000,Plymouth,24
+EnteringRoundabout,2.00052E+12,2000,South Gloucestershire,42
+EnteringRoundabout,2.00052E+12,2000,Somerset,47
+EnteringRoundabout,2.00052E+12,2000,Somerset,41
+EnteringRoundabout,2.00052E+12,2000,Somerset,20
+EnteringRoundabout,200052FT71404,2000,Somerset,57
+EnteringRoundabout,200052GT03426,2000,Somerset,52
+EnteringRoundabout,2000530AI0591,2000,Gloucestershire,35
+EnteringRoundabout,2000530AI1751,2000,Gloucestershire,64
+EnteringRoundabout,200054CT54200,2000,Wiltshire,9
+EnteringRoundabout,2000550B01456,2000,Bournemouth,22
+EnteringRoundabout,2000550P03914,2000,Poole,18
+EnteringRoundabout,200101DM00944,2001,London,16
+EnteringRoundabout,200101GD00224,2001,London,30
+EnteringRoundabout,200101KO01169,2001,London,35
+EnteringRoundabout,200101QA00471,2001,London,17
+EnteringRoundabout,200101VW00187,2001,London,19
+EnteringRoundabout,200101VW00540,2001,London,60
+EnteringRoundabout,200101WW01186,2001,London,
+EnteringRoundabout,200101XH00670,2001,London,
+EnteringRoundabout,200101XH00691,2001,London,16
+EnteringRoundabout,200104C040401,2001,Lancashire,39
+EnteringRoundabout,200104E079601,2001,Blackburn with Darwen,11
+EnteringRoundabout,2.00105E+12,2001,Merseyside,40
+EnteringRoundabout,2.00105E+12,2001,Merseyside,16
+EnteringRoundabout,200106Q008276,2001,Oldham,33
+EnteringRoundabout,2.00107E+12,2001,Cheshire West and Chester,16
+EnteringRoundabout,2.00107E+12,2001,Cheshire West and Chester,27
+EnteringRoundabout,200110G013701,2001,Newcastle upon Tyne,16
+EnteringRoundabout,200110L432501,2001,South Tyneside,45
+EnteringRoundabout,200111AK13150,2001,Durham,13
+EnteringRoundabout,2.00112E+12,2001,York,39
+EnteringRoundabout,2.00113E+12,2001,Leeds,47
+EnteringRoundabout,200114BB00318,2001,Doncaster,43
+EnteringRoundabout,200114DD00668,2001,Barnsley,13
+EnteringRoundabout,200116C002901,2001,East Riding of Yorkshire,14
+EnteringRoundabout,200116C030801,2001,East Riding of Yorkshire,22
+EnteringRoundabout,200116D008701,2001,Kingston Upon Hull,42
+EnteringRoundabout,200116D043201,2001,Kingston Upon Hull,28
+EnteringRoundabout,200117M100374,2001,Middlesbrough,15
+EnteringRoundabout,200120F227501,2001,Birmingham,9
+EnteringRoundabout,200120G078302,2001,Wolverhampton,25
+EnteringRoundabout,200120J607302,2001,Dudley,14
+EnteringRoundabout,200120L250001,2001,Solihull,16
+EnteringRoundabout,200120M095603,2001,Coventry,15
+EnteringRoundabout,200120M150902,2001,Coventry,21
+EnteringRoundabout,200120M155702,2001,Coventry,16
+EnteringRoundabout,2.00121E+12,2001,Staffordshire,20
+EnteringRoundabout,200122FA23965,2001,Shropshire,11
+EnteringRoundabout,200122FA25475,2001,Shropshire,34
+EnteringRoundabout,200132D167301,2001,Lincolnshire,13
+EnteringRoundabout,2.00133E+12,2001,Leicestershire,
+EnteringRoundabout,2.00133E+12,2001,Leicestershire,13
+EnteringRoundabout,2.00133E+12,2001,Leicestershire,31
+EnteringRoundabout,2.00133E+12,2001,Leicestershire,31
+EnteringRoundabout,2.00133E+12,2001,Leicestershire,45
+EnteringRoundabout,2.00133E+12,2001,Leicestershire,16
+EnteringRoundabout,200134NC00059,2001,Northamptonshire,18
+EnteringRoundabout,2.00135E+12,2001,Peterborough,39
+EnteringRoundabout,2.00135E+12,2001,Peterborough,33
+EnteringRoundabout,200136G011154,2001,Norfolk,10
+EnteringRoundabout,200137B011465,2001,Suffolk,42
+EnteringRoundabout,2001400D01913,2001,Central Bedfordshire,17
+EnteringRoundabout,20014100C0066,2001,Hertfordshire,20
+EnteringRoundabout,20014100F0204,2001,Hertfordshire,14
+EnteringRoundabout,20014200C0496,2001,Essex,42
+EnteringRoundabout,2.00E+259,2001,Essex,48
+EnteringRoundabout,20014200F0172,2001,Thurrock,46
+EnteringRoundabout,20014200H0126,2001,Southend on Sea,16
+EnteringRoundabout,200143S059031,2001,Milton Keynes,16
+EnteringRoundabout,200143S204071,2001,Milton Keynes,
+EnteringRoundabout,200143W229121,2001,Bracknell Forest,31
+EnteringRoundabout,200143W478081,2001,Windsor and Maidenhead,
+EnteringRoundabout,200143W519031,2001,Wokingham,42
+EnteringRoundabout,2001440AA0569,2001,Hampshire,26
+EnteringRoundabout,2001440JL0007,2001,Hampshire,43
+EnteringRoundabout,2001440KK0327,2001,Portsmouth,
+EnteringRoundabout,2001440SC0528,2001,Southampton ,22
+EnteringRoundabout,200145NS13724,2001,Surrey,16
+EnteringRoundabout,2.00146E+12,2001,Medway,41
+EnteringRoundabout,200146NK35965,2001,Kent,54
+EnteringRoundabout,200146WL35048,2001,Kent,13
+EnteringRoundabout,200147S138942,2001,East Sussex,26
+EnteringRoundabout,200147X134345,2001,West Sussex,15
+EnteringRoundabout,200147X136028,2001,West Sussex,48
+EnteringRoundabout,200150A510512,2001,Cornwall and Isles of Scilly,50
+EnteringRoundabout,200150E311052,2001,Plymouth,55
+EnteringRoundabout,200150E311635,2001,Plymouth,24
+EnteringRoundabout,2.00152E+12,2001,City of Bristol,38
+EnteringRoundabout,2.00152E+12,2001,South Gloucestershire,53
+EnteringRoundabout,2.00152E+12,2001,Somerset,19
+EnteringRoundabout,2001530AI2785,2001,Gloucestershire,18
+EnteringRoundabout,200154DS57801,2001,Swindon,36
+EnteringRoundabout,2001550B04088,2001,Bournemouth,22
+EnteringRoundabout,2001550P01032,2001,Poole,55
+EnteringRoundabout,2001550P03329,2001,Poole,33
+EnteringRoundabout,200201KD00307,2002,London,31
+EnteringRoundabout,200201KG00201,2002,London,9
+EnteringRoundabout,200201KG00323,2002,London,39
+EnteringRoundabout,200201MM01258,2002,London,30
+EnteringRoundabout,200201SX00164,2002,London,29
+EnteringRoundabout,200201TW00461,2002,London,27
+EnteringRoundabout,200201XH00521,2002,London,25
+EnteringRoundabout,2.00203E+12,2002,Cumbria,66
+EnteringRoundabout,200204F070902,2002,Lancashire,23
+EnteringRoundabout,200206C019039,2002,Manchester,27
+EnteringRoundabout,200206C019707,2002,Manchester,11
+EnteringRoundabout,200206J010805,2002,Stockport,30
+EnteringRoundabout,2.00207E+12,2002,Cheshire West and Chester,13
+EnteringRoundabout,2.00207E+12,2002,Warrington,35
+EnteringRoundabout,2.00207E+12,2002,Cheshire West and Chester,19
+EnteringRoundabout,2.0021E+12,2002,Gateshead,33
+EnteringRoundabout,200211BE19550,2002,Durham,15
+EnteringRoundabout,2.00212E+12,2002,North Yorkshire,50
+EnteringRoundabout,200214HH00399,2002,Sheffield,12
+EnteringRoundabout,200214II00426,2002,Sheffield,34
+EnteringRoundabout,200216A047802,2002,North East Lincolnshire,26
+EnteringRoundabout,200216B048902,2002,North Lincolnshire,82
+EnteringRoundabout,200216C053702,2002,East Riding of Yorkshire,55
+EnteringRoundabout,200216D045302,2002,Kingston Upon Hull,32
+EnteringRoundabout,2002170H11812,2002,Hartlepool,19
+EnteringRoundabout,2002170L31922,2002,Redcar and Cleveland,28
+EnteringRoundabout,200220G020802,2002,Wolverhampton,54
+EnteringRoundabout,200220L204901,2002,Solihull,59
+EnteringRoundabout,200220M081303,2002,Coventry,26
+EnteringRoundabout,2.00221E+12,2002,Staffordshire,13
+EnteringRoundabout,200222CF32287,2002,Worcestershire,19
+EnteringRoundabout,2.00223E+12,2002,Warwickshire,16
+EnteringRoundabout,2.00223E+12,2002,Warwickshire,29
+EnteringRoundabout,2.00223E+12,2002,Warwickshire,52
+EnteringRoundabout,200230D000064,2002,Derby,27
+EnteringRoundabout,200232C022102,2002,Lincolnshire,57
+EnteringRoundabout,2.00233E+12,2002,Leicestershire,20
+EnteringRoundabout,2.00233E+12,2002,Leicestershire,14
+EnteringRoundabout,200234NC02189,2002,Northamptonshire,16
+EnteringRoundabout,2.00235E+12,2002,Cambridgeshire,45
+EnteringRoundabout,2.00235E+12,2002,Cambridgeshire,67
+EnteringRoundabout,2.00235E+12,2002,Cambridgeshire,22
+EnteringRoundabout,2.00235E+12,2002,Cambridgeshire,31
+EnteringRoundabout,200236G020032,2002,Norfolk,13
+EnteringRoundabout,200237L007645,2002,Suffolk,71
+EnteringRoundabout,20024100K0627,2002,Hertfordshire,4
+EnteringRoundabout,20024200A0705,2002,Essex,
+EnteringRoundabout,20024200E0483,2002,Essex,
+EnteringRoundabout,20024200E0507,2002,Essex,16
+EnteringRoundabout,20024200G0022,2002,Essex,20
+EnteringRoundabout,20024200G0907,2002,Essex,14
+EnteringRoundabout,20024200H0457,2002,Southend on Sea,15
+EnteringRoundabout,20024200H0600,2002,Southend on Sea,50
+EnteringRoundabout,200243N067102,2002,Buckinghamshire,57
+EnteringRoundabout,200243P109122,2002,Oxfordshire,41
+EnteringRoundabout,200243S105052,2002,Milton Keynes,12
+EnteringRoundabout,200243W201062,2002,Wokingham,25
+EnteringRoundabout,200243W339022,2002,Bracknell Forest,16
+EnteringRoundabout,200243W492012,2002,Bracknell Forest,12
+EnteringRoundabout,200243W603102,2002,Reading,16
+EnteringRoundabout,2002440HP0315,2002,Hampshire,33
+EnteringRoundabout,2002440ZD0910,2002,Isle of Wight,22
+EnteringRoundabout,200245RE21864,2002,Surrey,
+EnteringRoundabout,200245RS26865,2002,Surrey,14
+EnteringRoundabout,200246MA58714,2002,Kent,
+EnteringRoundabout,200247K151051,2002,Brighton and Hove,45
+EnteringRoundabout,200247K152644,2002,Brighton and Hove,24
+EnteringRoundabout,200247K152673,2002,West Sussex,15
+EnteringRoundabout,200247K157024,2002,West Sussex,54
+EnteringRoundabout,200247K157067,2002,West Sussex,14
+EnteringRoundabout,200247K157679,2002,West Sussex,53
+EnteringRoundabout,200250B611763,2002,Cornwall and Isles of Scilly,20
+EnteringRoundabout,200250C231980,2002,Devon,48
+EnteringRoundabout,200250E210591,2002,Plymouth,18
+EnteringRoundabout,2.00252E+12,2002,South Gloucestershire,29
+EnteringRoundabout,2.00252E+12,2002,City of Bristol,37
+EnteringRoundabout,2.00252E+12,2002,Somerset,42
+EnteringRoundabout,2002530AI1414,2002,Gloucestershire,17
+EnteringRoundabout,2002530AI1691,2002,Gloucestershire,21
+EnteringRoundabout,200254DE70102,2002,Swindon,14
+EnteringRoundabout,2002550B06630,2002,Bournemouth,54
+EnteringRoundabout,2002552E03569,2002,Dorset,56
+EnteringRoundabout,200301DM00910,2003,London,25
+EnteringRoundabout,200301EO00316,2003,London,27
+EnteringRoundabout,200301FH00353,2003,London,23
+EnteringRoundabout,200301GD00596,2003,London,24
+EnteringRoundabout,200301GD00697,2003,London,33
+EnteringRoundabout,200301GD00919,2003,London,16
+EnteringRoundabout,200301KG00316,2003,London,38
+EnteringRoundabout,200301LX01153,2003,London,54
+EnteringRoundabout,200301RG00136,2003,London,12
+EnteringRoundabout,200301RG00861,2003,London,30
+EnteringRoundabout,200301TC00240,2003,London,35
+EnteringRoundabout,200301TC00358,2003,London,42
+EnteringRoundabout,200301TW00337,2003,London,18
+EnteringRoundabout,200301TX00910,2003,London,27
+EnteringRoundabout,200301XH00708,2003,London,39
+EnteringRoundabout,200301XH00744,2003,London,30
+EnteringRoundabout,200301XS00049,2003,London,38
+EnteringRoundabout,2.00303E+12,2003,Cumbria,32
+EnteringRoundabout,200304E064803,2003,Lancashire,36
+EnteringRoundabout,200305AO00138,2003,Merseyside,40
+EnteringRoundabout,200305BS02002,2003,Merseyside,46
+EnteringRoundabout,200306M010968,2003,Trafford,14
+EnteringRoundabout,2.00307E+12,2003,Warrington,35
+EnteringRoundabout,2.0031E+12,2003,North Tyneside,25
+EnteringRoundabout,2.0031E+12,2003,North Tyneside,15
+EnteringRoundabout,2.0031E+12,2003,South Tyneside,69
+EnteringRoundabout,2.0031E+12,2003,North Tyneside,37
+EnteringRoundabout,200311BD25280,2003,Durham,16
+EnteringRoundabout,2.00312E+12,2003,York,16
+EnteringRoundabout,2.00312E+12,2003,York,43
+EnteringRoundabout,2.00313E+12,2003,Wakefield,9
+EnteringRoundabout,2.00313E+12,2003,Calderdale,44
+EnteringRoundabout,2.00313E+12,2003,Leeds,21
+EnteringRoundabout,200316A037603,2003,North East Lincolnshire,22
+EnteringRoundabout,200316C045503,2003,East Riding of Yorkshire,21
+EnteringRoundabout,2003170M12393,2003,Middlesbrough,48
+EnteringRoundabout,2003170S24973,2003,Stockton on Tees,15
+EnteringRoundabout,200320G068002,2003,Wolverhampton,57
+EnteringRoundabout,200320M042801,2003,Coventry,24
+EnteringRoundabout,2.00321E+12,2003,Stoke on Trent,12
+EnteringRoundabout,2.00321E+12,2003,Staffordshire,65
+EnteringRoundabout,200322BB29991,2003,Worcestershire,38
+EnteringRoundabout,2.00323E+12,2003,Warwickshire,55
+EnteringRoundabout,200330C000340,2003,Derbyshire,35
+EnteringRoundabout,200330D000213,2003,Derby,13
+EnteringRoundabout,2.00333E+12,2003,Leicestershire,21
+EnteringRoundabout,2.00333E+12,2003,Leicestershire,19
+EnteringRoundabout,2.00333E+12,2003,Leicestershire,33
+EnteringRoundabout,2.00335E+12,2003,Cambridgeshire,14
+EnteringRoundabout,2.00335E+12,2003,Peterborough,53
+EnteringRoundabout,2.00335E+12,2003,Cambridgeshire,17
+EnteringRoundabout,2.00336E+12,2003,Norfolk,35
+EnteringRoundabout,2.00336E+12,2003,Norfolk,53
+EnteringRoundabout,200337B016912,2003,Suffolk,19
+EnteringRoundabout,200337G012601,2003,Suffolk,20
+EnteringRoundabout,200337G013005,2003,Suffolk,18
+EnteringRoundabout,200337L008145,2003,Suffolk,37
+EnteringRoundabout,2.00E+189,2003,Hertfordshire,53
+EnteringRoundabout,20034200B0315,2003,Essex,32
+EnteringRoundabout,20034200D0271,2003,Essex,38
+EnteringRoundabout,20034200J0294,2003,Essex,23
+EnteringRoundabout,200343W214023,2003,West Berkshire,11
+EnteringRoundabout,200343W470113,2003,Wokingham,18
+EnteringRoundabout,200343W471113,2003,Slough,35
+EnteringRoundabout,2003440AA1135,2003,Hampshire,10
+EnteringRoundabout,2003440DH0344,2003,Hampshire,15
+EnteringRoundabout,2003440KK0085,2003,Portsmouth,18
+EnteringRoundabout,2003440KK2029,2003,Portsmouth,12
+EnteringRoundabout,2003440SP0072,2003,Southampton ,41
+EnteringRoundabout,2003440SY0307,2003,Southampton ,29
+EnteringRoundabout,2.00347E+12,2003,Medway,
+EnteringRoundabout,200346MA70645,2003,Kent,29
+EnteringRoundabout,200346WL73574,2003,Kent,41
+EnteringRoundabout,200347K159575,2003,West Sussex,23
+EnteringRoundabout,200347K161358,2003,East Sussex,17
+EnteringRoundabout,200350A31E535,2003,Cornwall and Isles of Scilly,56
+EnteringRoundabout,200350D21Q015,2003,Devon,31
+EnteringRoundabout,200350D21S198,2003,Devon,21
+EnteringRoundabout,2.00352E+12,2003,Somerset,12
+EnteringRoundabout,2003530AI0639,2003,Gloucestershire,28
+EnteringRoundabout,200354DE40003,2003,Swindon,19
+EnteringRoundabout,2003550B00095,2003,Bournemouth,64
+EnteringRoundabout,2003550P03055,2003,Poole,14
+EnteringRoundabout,2003553P03642,2003,Dorset,37
+EnteringRoundabout,200401DM00659,2004,London,36
+EnteringRoundabout,200401EO00943,2004,London,30
+EnteringRoundabout,200401KD00073,2004,London,28
+EnteringRoundabout,200401LX50376,2004,London,23
+EnteringRoundabout,200401MM70517,2004,London,28
+EnteringRoundabout,200401MM70531,2004,London,22
+EnteringRoundabout,200401MM70595,2004,London,
+EnteringRoundabout,200401PL60276,2004,London,19
+EnteringRoundabout,200401PY20323,2004,London,44
+EnteringRoundabout,200401QA00299,2004,London,17
+EnteringRoundabout,200401XH00335,2004,London,40
+EnteringRoundabout,200401XH00439,2004,London,25
+EnteringRoundabout,200401ZD30121,2004,London,12
+EnteringRoundabout,200404B042404,2004,Lancashire,14
+EnteringRoundabout,200404B058504,2004,Lancashire,29
+EnteringRoundabout,200405AW00018,2004,Merseyside,53
+EnteringRoundabout,200405CH00391,2004,Merseyside,33
+EnteringRoundabout,200405DH01229,2004,Merseyside,45
+EnteringRoundabout,200406J015613,2004,Stockport,15
+EnteringRoundabout,200406Q915708,2004,Oldham,29
+EnteringRoundabout,2.00407E+12,2004,Warrington,12
+EnteringRoundabout,2.0041E+12,2004,Northumberland,32
+EnteringRoundabout,2.0041E+12,2004,Newcastle upon Tyne,13
+EnteringRoundabout,2.00413E+12,2004,Leeds,29
+EnteringRoundabout,200414EE00506,2004,Sheffield,13
+EnteringRoundabout,2004160A00120,2004,North East Lincolnshire,11
+EnteringRoundabout,2004160A02500,2004,North East Lincolnshire,14
+EnteringRoundabout,2004160B02930,2004,North Lincolnshire,16
+EnteringRoundabout,2004160C00150,2004,East Riding of Yorkshire,45
+EnteringRoundabout,2004160C07840,2004,East Riding of Yorkshire,15
+EnteringRoundabout,2004160D05120,2004,Kingston Upon Hull,16
+EnteringRoundabout,2004160D08830,2004,Kingston Upon Hull,23
+EnteringRoundabout,200420E194002,2004,Birmingham,40
+EnteringRoundabout,200420F039101,2004,Birmingham,40
+EnteringRoundabout,200420F131301,2004,Birmingham,42
+EnteringRoundabout,200420K068201,2004,Sandwell,20
+EnteringRoundabout,200420L211301,2004,Solihull,58
+EnteringRoundabout,200422CE44968,2004,Worcestershire,16
+EnteringRoundabout,2.00433E+12,2004,Leicestershire,7
+EnteringRoundabout,2.00433E+12,2004,Leicestershire,15
+EnteringRoundabout,2.00435E+12,2004,Cambridgeshire,12
+EnteringRoundabout,2.00435E+12,2004,Cambridgeshire,24
+EnteringRoundabout,2.00435E+12,2004,Cambridgeshire,18
+EnteringRoundabout,2.00436E+12,2004,Norfolk,13
+EnteringRoundabout,2.00436E+12,2004,Norfolk,40
+EnteringRoundabout,2.00436E+12,2004,Norfolk,44
+EnteringRoundabout,2.00436E+12,2004,Norfolk,13
+EnteringRoundabout,200437G015454,2004,Suffolk,75
+EnteringRoundabout,2004400B02029,2004,Bedford Borough Council,32
+EnteringRoundabout,20044100B0237,2004,Hertfordshire,13
+EnteringRoundabout,20044100B0883,2004,Hertfordshire,12
+EnteringRoundabout,20044100K0736,2004,Hertfordshire,19
+EnteringRoundabout,20044200B0595,2004,Essex,
+EnteringRoundabout,20044200C0112,2004,Essex,
+EnteringRoundabout,20044200C0818,2004,Essex,12
+EnteringRoundabout,20044200E0470,2004,Essex,32
+EnteringRoundabout,20044200E0529,2004,Essex,17
+EnteringRoundabout,20044200G0267,2004,Essex,
+EnteringRoundabout,20044200H0309,2004,Southend on Sea,
+EnteringRoundabout,200443S111024,2004,Milton Keynes,12
+EnteringRoundabout,2004440GG0195,2004,Hampshire,20
+EnteringRoundabout,2004440HF0188,2004,Hampshire,10
+EnteringRoundabout,2004440JH0318,2004,Hampshire,6
+EnteringRoundabout,2004440KK1555,2004,Portsmouth,26
+EnteringRoundabout,2004440LA0365,2004,Hampshire,35
+EnteringRoundabout,2004440ZD0393,2004,Isle of Wight,30
+EnteringRoundabout,200445EL52666,2004,Surrey,67
+EnteringRoundabout,200445EL56911,2004,Surrey,
+EnteringRoundabout,200445GU49913,2004,Surrey,56
+EnteringRoundabout,200445GU54501,2004,Surrey,13
+EnteringRoundabout,200446CT90038,2004,Kent,53
+EnteringRoundabout,200446WL01608,2004,Kent,17
+EnteringRoundabout,200446WL99744,2004,Kent,67
+EnteringRoundabout,200447K170597,2004,West Sussex,40
+EnteringRoundabout,200447K172253,2004,West Sussex,45
+EnteringRoundabout,200447K173477,2004,West Sussex,10
+EnteringRoundabout,200447K177421,2004,Brighton and Hove,25
+EnteringRoundabout,200447K177517,2004,West Sussex,38
+EnteringRoundabout,200447K178400,2004,West Sussex,22
+EnteringRoundabout,200447K179672,2004,West Sussex,12
+EnteringRoundabout,200447K182236,2004,West Sussex,51
+EnteringRoundabout,200447K182406,2004,West Sussex,25
+EnteringRoundabout,200450A33A928,2004,Cornwall and Isles of Scilly,37
+EnteringRoundabout,200450E21O725,2004,Plymouth,18
+EnteringRoundabout,200450E31C990,2004,Plymouth,35
+EnteringRoundabout,200450F31R211,2004,Torbay,10
+EnteringRoundabout,200450F41F114,2004,Devon,
+EnteringRoundabout,200450F41G804,2004,Devon,76
+EnteringRoundabout,2.00452E+12,2004,City of Bristol,38
+EnteringRoundabout,2.00452E+12,2004,South Gloucestershire,61
+EnteringRoundabout,2.00452E+12,2004,Somerset,34
+EnteringRoundabout,2.00452E+12,2004,City of Bristol,65
+EnteringRoundabout,2.00452E+12,2004,Somerset,41
+EnteringRoundabout,200454CR09904,2004,Wiltshire,13
+EnteringRoundabout,200454DW34704,2004,Swindon,40
+EnteringRoundabout,200501CW11650,2005,London,
+EnteringRoundabout,200501EO40355,2005,London,40
+EnteringRoundabout,200501FH10555,2005,London,31
+EnteringRoundabout,200501HT20877,2005,London,31
+EnteringRoundabout,200501KG70322,2005,London,4
+EnteringRoundabout,200501LX50603,2005,London,41
+EnteringRoundabout,200501MM70795,2005,London,27
+EnteringRoundabout,200501RY10375,2005,London,32
+EnteringRoundabout,200501XH30108,2005,London,26
+EnteringRoundabout,200506C032624,2005,Manchester,35
+EnteringRoundabout,200506J039741,2005,Stockport,13
+EnteringRoundabout,2.00507E+12,2005,Warrington,50
+EnteringRoundabout,2.00507E+12,2005,Warrington,20
+EnteringRoundabout,2.0051E+12,2005,Northumberland,4
+EnteringRoundabout,2.0051E+12,2005,North Tyneside,39
+EnteringRoundabout,2.00513E+12,2005,Wakefield,30
+EnteringRoundabout,2005160C09250,2005,East Riding of Yorkshire,24
+EnteringRoundabout,2005160D03350,2005,Kingston Upon Hull,9
+EnteringRoundabout,200520D145001,2005,Birmingham,36
+EnteringRoundabout,200520D210902,2005,Birmingham,8
+EnteringRoundabout,200520E095002,2005,Birmingham,14
+EnteringRoundabout,200520G036002,2005,Wolverhampton,52
+EnteringRoundabout,2.00522E+12,2005,Staffordshire,54
+EnteringRoundabout,200522CA51400,2005,Worcestershire,52
+EnteringRoundabout,200530A000093,2005,Derbyshire,45
+EnteringRoundabout,20053102B2166,2005,Nottinghamshire,61
+EnteringRoundabout,20053102B3446,2005,Nottinghamshire,32
+EnteringRoundabout,20053102C0747,2005,Nottingham,25
+EnteringRoundabout,20053102C1544,2005,Nottingham,
+EnteringRoundabout,200532D017405,2005,Lincolnshire,21
+EnteringRoundabout,2.00533E+12,2005,Leicestershire,18
+EnteringRoundabout,2.00535E+12,2005,Peterborough,48
+EnteringRoundabout,2.00535E+12,2005,Peterborough,28
+EnteringRoundabout,2.00535E+12,2005,Cambridgeshire,18
+EnteringRoundabout,200536T050175,2005,Norfolk,48
+EnteringRoundabout,20054100E0456,2005,Hertfordshire,16
+EnteringRoundabout,20054100K0804,2005,Hertfordshire,55
+EnteringRoundabout,200542E005302,2005,Essex,11
+EnteringRoundabout,200542F000701,2005,Thurrock,15
+EnteringRoundabout,200542G053107,2005,Essex,8
+EnteringRoundabout,200542H035909,2005,Southend on Sea,15
+EnteringRoundabout,200543N237095,2005,Milton Keynes,11
+EnteringRoundabout,200543N616125,2005,Milton Keynes,55
+EnteringRoundabout,200543P100085,2005,Oxfordshire,46
+EnteringRoundabout,200543W281035,2005,Bracknell Forest,17
+EnteringRoundabout,200543W512095,2005,Windsor and Maidenhead,
+EnteringRoundabout,2.00544E+12,2005,Hampshire,33
+EnteringRoundabout,2.00544E+12,2005,Hampshire,
+EnteringRoundabout,2.00544E+12,2005,Hampshire,47
+EnteringRoundabout,2.00544E+12,2005,Hampshire,
+EnteringRoundabout,2.00546E+12,2005,Medway,20
+EnteringRoundabout,2.00547E+12,2005,East Sussex,35
+EnteringRoundabout,2.00547E+12,2005,West Sussex,21
+EnteringRoundabout,200550E41O263,2005,Plymouth,41
+EnteringRoundabout,200550F41D293,2005,Devon,31
+EnteringRoundabout,2.00552E+12,2005,City of Bristol,35
+EnteringRoundabout,2.00553E+12,2005,Gloucestershire,67
+EnteringRoundabout,200554DC31705,2005,Swindon,29
+EnteringRoundabout,200554DN41505,2005,Swindon,32
+EnteringRoundabout,200554DW45905,2005,Swindon,15
+EnteringRoundabout,2005555B00153,2005,Bournemouth,
+EnteringRoundabout,2005555B01994,2005,Bournemouth,17
+EnteringRoundabout,2005555B03006,2005,Bournemouth,31
+EnteringRoundabout,2005555B04691,2005,Bournemouth,28
+EnteringRoundabout,2005555B05357,2005,Bournemouth,36
+EnteringRoundabout,200601BS70359,2006,London,56
+EnteringRoundabout,200601MM70131,2006,London,33
+EnteringRoundabout,200601MM70288,2006,London,37
+EnteringRoundabout,200601PL60826,2006,London,25
+EnteringRoundabout,200601VK30198,2006,London,43
+EnteringRoundabout,200604BC06267,2006,Lancashire,
+EnteringRoundabout,200604EA06340,2006,Blackburn with Darwen,12
+EnteringRoundabout,200605BB11491,2006,Merseyside,44
+EnteringRoundabout,200605BB12827,2006,Merseyside,51
+EnteringRoundabout,200605FF08510,2006,Merseyside,15
+EnteringRoundabout,200606C052174,2006,Manchester,18
+EnteringRoundabout,200606M053955,2006,Trafford,25
+EnteringRoundabout,200606X049570,2006,Manchester,45
+EnteringRoundabout,2.00607E+12,2006,Warrington,42
+EnteringRoundabout,2.00607E+12,2006,Cheshire West and Chester,15
+EnteringRoundabout,2.0061E+12,2006,South Tyneside,14
+EnteringRoundabout,2.0061E+12,2006,South Tyneside,22
+EnteringRoundabout,2.00613E+12,2006,Leeds,30
+EnteringRoundabout,2.00613E+12,2006,Leeds,13
+EnteringRoundabout,200614G023206,2006,Sheffield,28
+EnteringRoundabout,2006160A03080,2006,North East Lincolnshire,12
+EnteringRoundabout,200620H036501,2006,Walsall,32
+EnteringRoundabout,2.00622E+12,2006,Staffordshire,20
+EnteringRoundabout,2.00622E+12,2006,Staffordshire,41
+EnteringRoundabout,200622CA85150,2006,Worcestershire,16
+EnteringRoundabout,200622DE52235,2006,Worcestershire,20
+EnteringRoundabout,200622GA42868,2006,Telford and Wrekin,18
+EnteringRoundabout,200622GA43298,2006,Telford and Wrekin,18
+EnteringRoundabout,20063102C1843,2006,Nottingham,15
+EnteringRoundabout,20063102C2408,2006,Nottingham,
+EnteringRoundabout,20063102C2983,2006,Nottingham,19
+EnteringRoundabout,2.00633E+12,2006,Leicestershire,57
+EnteringRoundabout,2.00635E+12,2006,Cambridgeshire,45
+EnteringRoundabout,200640B013770,2006,Bedford Borough Council,74
+EnteringRoundabout,200640C006530,2006,Luton,40
+EnteringRoundabout,200640D032110,2006,Central Bedfordshire,14
+EnteringRoundabout,20064100B0525,2006,Hertfordshire,21
+EnteringRoundabout,20064100C1091,2006,Hertfordshire,37
+EnteringRoundabout,200642A026105,2006,Essex,31
+EnteringRoundabout,200642I316406,2006,Essex,43
+EnteringRoundabout,200643P294046,2006,Oxfordshire,30
+EnteringRoundabout,200643R210056,2006,Windsor and Maidenhead,29
+EnteringRoundabout,2.00644E+12,2006,Portsmouth,15
+EnteringRoundabout,2.00644E+12,2006,Hampshire,42
+EnteringRoundabout,2.00644E+12,2006,Southampton ,22
+EnteringRoundabout,200645MO83640,2006,Surrey,15
+EnteringRoundabout,200645MO95778,2006,Surrey,48
+EnteringRoundabout,200645RU84206,2006,Surrey,19
+EnteringRoundabout,2.00646E+12,2006,Medway,15
+EnteringRoundabout,2.00646E+12,2006,Kent,42
+EnteringRoundabout,2.00647E+12,2006,East Sussex,30
+EnteringRoundabout,2.00647E+12,2006,Brighton and Hove,25
+EnteringRoundabout,2.00647E+12,2006,West Sussex,41
+EnteringRoundabout,200650C21I423,2006,Devon,13
+EnteringRoundabout,200650D21G927,2006,Devon,22
+EnteringRoundabout,2.00653E+12,2006,Gloucestershire,18
+EnteringRoundabout,200654DE54206,2006,Swindon,30
+EnteringRoundabout,2006556B04566,2006,Bournemouth,60
+EnteringRoundabout,2006556E04987,2006,Dorset,48
+EnteringRoundabout,200701EO40140,2007,London,43
+EnteringRoundabout,200701KD50196,2007,London,39
+EnteringRoundabout,200701VW40138,2007,London,41
+EnteringRoundabout,200701XD80254,2007,London,7
+EnteringRoundabout,200701ZD30170,2007,London,61
+EnteringRoundabout,200704BC07211,2007,Lancashire,46
+EnteringRoundabout,200704BC07213,2007,Lancashire,36
+EnteringRoundabout,200705AA19193,2007,Merseyside,40
+EnteringRoundabout,200706B076897,2007,Manchester,49
+EnteringRoundabout,200706B083606,2007,Manchester,16
+EnteringRoundabout,200706L083480,2007,Wigan,59
+EnteringRoundabout,2.0071E+12,2007,North Tyneside,8
+EnteringRoundabout,2.0071E+12,2007,North Tyneside,
+EnteringRoundabout,2.0071E+12,2007,Newcastle upon Tyne,32
+EnteringRoundabout,200711DJ13920,2007,Darlington,41
+EnteringRoundabout,2.00712E+12,2007,North Yorkshire,18
+EnteringRoundabout,2.00713E+12,2007,Leeds,14
+EnteringRoundabout,200714H204507,2007,Sheffield,
+EnteringRoundabout,2007160A05170,2007,North East Lincolnshire,29
+EnteringRoundabout,2007160B03080,2007,North Lincolnshire,18
+EnteringRoundabout,2007160D01110,2007,Kingston Upon Hull,13
+EnteringRoundabout,2007160D06190,2007,Kingston Upon Hull,52
+EnteringRoundabout,200720G045201,2007,Wolverhampton,16
+EnteringRoundabout,200720G065902,2007,Wolverhampton,32
+EnteringRoundabout,200720J068302,2007,Dudley,17
+EnteringRoundabout,200720K019001,2007,Sandwell,44
+EnteringRoundabout,2.00722E+12,2007,Staffordshire,41
+EnteringRoundabout,200722FA86576,2007,Shropshire,45
+EnteringRoundabout,200730D000447,2007,Derby,31
+EnteringRoundabout,20073102B4495,2007,Nottinghamshire,15
+EnteringRoundabout,20073102D3618,2007,Nottinghamshire,
+EnteringRoundabout,20073104C3726,2007,Nottingham,13
+EnteringRoundabout,200732B094207,2007,Lincolnshire,92
+EnteringRoundabout,200734NW59457,2007,Northamptonshire,47
+EnteringRoundabout,200734WN19067,2007,Northamptonshire,27
+EnteringRoundabout,2.00735E+12,2007,Peterborough,41
+EnteringRoundabout,2.00736E+12,2007,Norfolk,25
+EnteringRoundabout,2.00736E+12,2007,Norfolk,12
+EnteringRoundabout,200742I141804,2007,Essex,38
+EnteringRoundabout,200742I244606,2007,Essex,14
+EnteringRoundabout,200743P227077,2007,Oxfordshire,28
+EnteringRoundabout,200743R020027,2007,Windsor and Maidenhead,26
+EnteringRoundabout,200743S116117,2007,Milton Keynes,26
+EnteringRoundabout,200743W274107,2007,West Berkshire,27
+EnteringRoundabout,2.00744E+12,2007,Hampshire,68
+EnteringRoundabout,2.00744E+12,2007,Portsmouth,20
+EnteringRoundabout,200745MO14638,2007,Surrey,36
+EnteringRoundabout,200745RU98576,2007,Surrey,16
+EnteringRoundabout,200745SP11265,2007,Surrey,
+EnteringRoundabout,2.00746E+12,2007,Medway,12
+EnteringRoundabout,2.00747E+12,2007,West Sussex,33
+EnteringRoundabout,200750D21F155,2007,Devon,26
+EnteringRoundabout,200750E31P330,2007,Plymouth,31
+EnteringRoundabout,200750E41L194,2007,Plymouth,42
+EnteringRoundabout,200750F21J494,2007,Torbay,11
+EnteringRoundabout,2.00752E+12,2007,City of Bristol,
+EnteringRoundabout,2.00752E+12,2007,City of Bristol,48
+EnteringRoundabout,2.00753E+12,2007,Gloucestershire,42
+EnteringRoundabout,2007557B00362,2007,Bournemouth,31
+EnteringRoundabout,2007557P02943,2007,Poole,25
+EnteringRoundabout,200801FH10340,2008,London,27
+EnteringRoundabout,200801HT74338,2008,London,24
+EnteringRoundabout,200801KF70085,2008,London,17
+EnteringRoundabout,200801MM70171,2008,London,31
+EnteringRoundabout,200801MM70336,2008,London,30
+EnteringRoundabout,200801XH30576,2008,London,
+EnteringRoundabout,2.00803E+12,2008,Cumbria,38
+EnteringRoundabout,200806L005407,2008,Wigan,19
+EnteringRoundabout,2.00807E+12,2008,Cheshire West and Chester,53
+EnteringRoundabout,2.0081E+12,2008,South Tyneside,28
+EnteringRoundabout,2.0081E+12,2008,North Tyneside,53
+EnteringRoundabout,2.0081E+12,2008,North Tyneside,15
+EnteringRoundabout,200811SA05098,2008,Durham,13
+EnteringRoundabout,2.00812E+12,2008,York,23
+EnteringRoundabout,2.00813E+12,2008,Leeds,29
+EnteringRoundabout,200814A017608,2008,Doncaster,58
+EnteringRoundabout,200814A044508,2008,Doncaster,40
+EnteringRoundabout,200814C127908,2008,Rotherham,45
+EnteringRoundabout,2008170H11218,2008,Hartlepool,17
+EnteringRoundabout,2008170M10868,2008,Middlesbrough,52
+EnteringRoundabout,2.00822E+12,2008,Staffordshire,60
+EnteringRoundabout,200830D000246,2008,Derby,61
+EnteringRoundabout,200830D000969,2008,Derby,
+EnteringRoundabout,20083102B1856,2008,Nottinghamshire,53
+EnteringRoundabout,200834WD27408,2008,Northamptonshire,6
+EnteringRoundabout,2.00835E+12,2008,Cambridgeshire,14
+EnteringRoundabout,2.00835E+12,2008,Peterborough,17
+EnteringRoundabout,2.00836E+12,2008,Norfolk,51
+EnteringRoundabout,200837L016290,2008,Suffolk,10
+EnteringRoundabout,200842I207406,2008,Southend on Sea,17
+EnteringRoundabout,200842I373310,2008,Essex,38
+EnteringRoundabout,200843R010028,2008,Windsor and Maidenhead,37
+EnteringRoundabout,200843W054108,2008,Reading,50
+EnteringRoundabout,2.00844E+12,2008,Portsmouth,12
+EnteringRoundabout,2.00844E+12,2008,Hampshire,23
+EnteringRoundabout,200845RE18847,2008,Surrey,31
+EnteringRoundabout,2.00847E+12,2008,West Sussex,65
+EnteringRoundabout,200850E51A385,2008,Devon,33
+EnteringRoundabout,2.00852E+12,2008,City of Bristol,23
+EnteringRoundabout,2.00852E+12,2008,South Gloucestershire,30
+EnteringRoundabout,2.00852E+12,2008,Bath and North East Somerset,58
+EnteringRoundabout,2.00853E+12,2008,Gloucestershire,35
+EnteringRoundabout,2.00853E+12,2008,Gloucestershire,82
+EnteringRoundabout,2.00853E+12,2008,Gloucestershire,35
+EnteringRoundabout,2008558C02013,2008,Bournemouth,22
+EnteringRoundabout,2008558C02705,2008,Poole,14
+EnteringRoundabout,2008558C04315,2008,Poole,62
+EnteringRoundabout,2008558C04990,2008,Bournemouth,17
+EnteringRoundabout,2008558C05733,2008,Poole,57
+EnteringRoundabout,200901FH10102,2009,London,49
+EnteringRoundabout,200901LX50957,2009,London,23
+EnteringRoundabout,200901SX20311,2009,London,
+EnteringRoundabout,200901TX20584,2009,London,45
+EnteringRoundabout,200901TX20640,2009,London,28
+EnteringRoundabout,200901XH30271,2009,London,19
+EnteringRoundabout,200904CL09064,2009,Lancashire,43
+EnteringRoundabout,200905CC32641,2009,Merseyside,29
+EnteringRoundabout,200905FF02272,2009,Merseyside,43
+EnteringRoundabout,200906B023924,2009,Manchester,28
+EnteringRoundabout,200906G021964,2009,Tameside,43
+EnteringRoundabout,200906P009598,2009,Rochdale,46
+EnteringRoundabout,2.00907E+12,2009,Warrington,16
+EnteringRoundabout,2.0091E+12,2009,Newcastle upon Tyne,13
+EnteringRoundabout,2.0091E+12,2009,Northumberland,31
+EnteringRoundabout,2.0091E+12,2009,South Tyneside,40
+EnteringRoundabout,2.0091E+12,2009,South Tyneside,45
+EnteringRoundabout,2.0091E+12,2009,Newcastle upon Tyne,43
+EnteringRoundabout,2.0091E+12,2009,Newcastle upon Tyne,39
+EnteringRoundabout,2.0091E+12,2009,South Tyneside,18
+EnteringRoundabout,2.00912E+12,2009,North Yorkshire,38
+EnteringRoundabout,200914K197209,2009,Sheffield,47
+EnteringRoundabout,2009160D04510,2009,Kingston Upon Hull,55
+EnteringRoundabout,2009170S11459,2009,Stockton on Tees,18
+EnteringRoundabout,2009170S31339,2009,Stockton on Tees,36
+EnteringRoundabout,200920F070102,2009,Birmingham,18
+EnteringRoundabout,200920F184902,2009,Birmingham,23
+EnteringRoundabout,2.00922E+12,2009,Staffordshire,35
+EnteringRoundabout,2.00922E+12,2009,Stoke on Trent,19
+EnteringRoundabout,2.00922E+12,2009,Staffordshire,44
+EnteringRoundabout,200922D903677,2009,Worcestershire,37
+EnteringRoundabout,200930C000259,2009,Derbyshire,
+EnteringRoundabout,200930C000573,2009,Derbyshire,46
+EnteringRoundabout,200930D000627,2009,Derby,47
+EnteringRoundabout,20093102C1052,2009,Nottingham,35
+EnteringRoundabout,20093104C2129,2009,Nottingham,19
+EnteringRoundabout,200934WN12779,2009,Northamptonshire,13
+EnteringRoundabout,2.00935E+12,2009,Cambridgeshire,14
+EnteringRoundabout,2.00935E+12,2009,Peterborough,12
+EnteringRoundabout,2.00936E+12,2009,Norfolk,44
+EnteringRoundabout,200937L017573,2009,Suffolk,56
+EnteringRoundabout,20094100D0572,2009,Hertfordshire,20
+EnteringRoundabout,20094100J2013,2009,Hertfordshire,51
+EnteringRoundabout,200942I044902,2009,Essex,
+EnteringRoundabout,200942I209707,2009,Essex,17
+EnteringRoundabout,200943N233069,2009,Buckinghamshire,55
+EnteringRoundabout,200943P239099,2009,Oxfordshire,20
+EnteringRoundabout,2.00944E+12,2009,Southampton ,28
+EnteringRoundabout,2.00944E+12,2009,Southampton ,24
+EnteringRoundabout,200945MO36059,2009,Surrey,43
+EnteringRoundabout,200945MO43224,2009,Surrey,26
+EnteringRoundabout,200945TA41299,2009,Surrey,27
+EnteringRoundabout,2.00946E+12,2009,Kent,25
+EnteringRoundabout,2.00946E+12,2009,Kent,26
+EnteringRoundabout,200950DE2F018,2009,Devon,17
+EnteringRoundabout,200950EC2D012,2009,Plymouth,55
+EnteringRoundabout,200950JS2B004,2009,Devon,28
+EnteringRoundabout,2.00952E+12,2009,North Somerset,25
+EnteringRoundabout,2.00952E+12,2009,Somerset,16
+EnteringRoundabout,2.00953E+12,2009,Gloucestershire,46
+EnteringRoundabout,2.00953E+12,2009,Gloucestershire,17
+EnteringRoundabout,2.00953E+12,2009,Gloucestershire,26
+EnteringRoundabout,200954DN15709,2009,Swindon,52
+EnteringRoundabout,2009559C00958,2009,Bournemouth,21
+EnteringRoundabout,2009559D01231,2009,Dorset,17
+EnteringRoundabout,201001KF60609,2010,London,30
+EnteringRoundabout,201001MM70513,2010,London,10
+EnteringRoundabout,201001QK50287,2010,London,34
+EnteringRoundabout,201001QK50389,2010,London,35
+EnteringRoundabout,201001TW60335,2010,London,57
+EnteringRoundabout,201005DD01114,2010,Merseyside,24
+EnteringRoundabout,201006J029223,2010,Stockport,46
+EnteringRoundabout,2.01007E+12,2010,Cheshire East,11
+EnteringRoundabout,2.01007E+12,2010,Warrington,35
+EnteringRoundabout,2.01007E+12,2010,Cheshire East,65
+EnteringRoundabout,2.0101E+12,2010,Newcastle upon Tyne,51
+EnteringRoundabout,2.0101E+12,2010,Northumberland,14
+EnteringRoundabout,2.0101E+12,2010,Newcastle upon Tyne,39
+EnteringRoundabout,2.0101E+12,2010,Newcastle upon Tyne,39
+EnteringRoundabout,2.01013E+12,2010,Calderdale,72
+EnteringRoundabout,2.01013E+12,2010,Leeds,51
+EnteringRoundabout,201014K175410,2010,Sheffield,46
+EnteringRoundabout,2010160D01021,2010,Kingston Upon Hull,47
+EnteringRoundabout,2010160D03991,2010,Kingston Upon Hull,15
+EnteringRoundabout,2010160D05921,2010,Kingston Upon Hull,15
+EnteringRoundabout,2010170H10800,2010,Hartlepool,20
+EnteringRoundabout,201020M003010,2010,Coventry,36
+EnteringRoundabout,201020W010480,2010,Birmingham,39
+EnteringRoundabout,2.01021E+12,2010,Staffordshire,57
+EnteringRoundabout,2.01021E+12,2010,Staffordshire,49
+EnteringRoundabout,201022C002556,2010,Worcestershire,12
+EnteringRoundabout,201022F005103,2010,Shropshire,54
+EnteringRoundabout,201022G003708,2010,Telford and Wrekin,15
+EnteringRoundabout,2.01023E+12,2010,Warwickshire,26
+EnteringRoundabout,2.01023E+12,2010,Warwickshire,12
+EnteringRoundabout,201030C000801,2010,Derbyshire,18
+EnteringRoundabout,201030D000540,2010,Derbyshire,53
+EnteringRoundabout,201030D001026,2010,Derby,21
+EnteringRoundabout,2.01033E+12,2010,Leicestershire,43
+EnteringRoundabout,2.01033E+12,2010,Leicestershire,28
+EnteringRoundabout,2010400B01829,2010,Bedford Borough Council,17
+EnteringRoundabout,2010400B02847,2010,Bedford Borough Council,22
+EnteringRoundabout,2010400D02700,2010,Central Bedfordshire,12
+EnteringRoundabout,20104100D0955,2010,Hertfordshire,32
+EnteringRoundabout,20104100F0554,2010,Hertfordshire,31
+EnteringRoundabout,201042I019601,2010,Essex,56
+EnteringRoundabout,201042I275208,2010,Southend on Sea,
+EnteringRoundabout,201042I408212,2010,Essex,38
+EnteringRoundabout,201043N072040,2010,Buckinghamshire,48
+EnteringRoundabout,201043R175050,2010,Windsor and Maidenhead,35
+EnteringRoundabout,201043S103090,2010,Milton Keynes,27
+EnteringRoundabout,201043W045060,2010,Reading,31
+EnteringRoundabout,2.01044E+12,2010,Hampshire,44
+EnteringRoundabout,2.01044E+12,2010,Hampshire,25
+EnteringRoundabout,201045MO51241,2010,Surrey,49
+EnteringRoundabout,201045SP56319,2010,Surrey,45
+EnteringRoundabout,201045WO48800,2010,Surrey,39
+EnteringRoundabout,2.01046E+12,2010,Kent,15
+EnteringRoundabout,2.01047E+12,2010,East Sussex,53
+EnteringRoundabout,201050CB2E003,2010,Devon,43
+EnteringRoundabout,201050ED2B007,2010,Plymouth,34
+EnteringRoundabout,201050ED2J001,2010,Plymouth,13
+EnteringRoundabout,201050KE2C004,2010,Devon,29
+EnteringRoundabout,2.01052E+12,2010,South Gloucestershire,45
+EnteringRoundabout,2.01052E+12,2010,South Gloucestershire,65
+EnteringRoundabout,2.01053E+12,2010,Gloucestershire,28
+EnteringRoundabout,2.01053E+12,2010,Gloucestershire,18
+EnteringRoundabout,201054DE16910,2010,Swindon,21
+EnteringRoundabout,20105500C0777,2010,Bournemouth,11
+EnteringRoundabout,2011201101HT20368,2011,London,28
+EnteringRoundabout,2011201101MM70584,2011,London,35
+EnteringRoundabout,2011201101MM70962,2011,London,27
+EnteringRoundabout,2011201101TB00085,2011,London,48
+EnteringRoundabout,2011201101TB00358,2011,London,34
+EnteringRoundabout,2011201105BB05832,2011,Merseyside,23
+EnteringRoundabout,2011201106J050543,2011,Stockport,56
+EnteringRoundabout,2011201106L054672,2011,Wigan,48
+EnteringRoundabout,2011201106M041792,2011,Trafford,28
+EnteringRoundabout,2011201106NA47603,2011,Bury,30
+EnteringRoundabout,2011201106Q051511,2011,Oldham,20
+EnteringRoundabout,2.0112E+16,2011,Cheshire East,16
+EnteringRoundabout,2.0112E+16,2011,Cheshire East,24
+EnteringRoundabout,2.0112E+16,2011,Warrington,33
+EnteringRoundabout,2.0112E+16,2011,North Tyneside,63
+EnteringRoundabout,2.0112E+16,2011,Northumberland,37
+EnteringRoundabout,2011201111SJ19771,2011,Darlington,26
+EnteringRoundabout,2.0112E+16,2011,Bradford,49
+EnteringRoundabout,2.0112E+16,2011,Leeds,40
+EnteringRoundabout,2.0112E+16,2011,Leeds,30
+EnteringRoundabout,2.0112E+16,2011,Leeds,32
+EnteringRoundabout,2011201114A011411,2011,Doncaster,25
+EnteringRoundabout,2011201114K205311,2011,Sheffield,25
+EnteringRoundabout,2011201114K293011,2011,Sheffield,29
+EnteringRoundabout,20112011160C08711,2011,East Riding of Yorkshire,14
+EnteringRoundabout,20112011170S11811,2011,Stockton on Tees,28
+EnteringRoundabout,2011201120L003331,2011,Solihull,17
+EnteringRoundabout,2011201120M009481,2011,Coventry,21
+EnteringRoundabout,2.0112E+16,2011,Staffordshire,49
+EnteringRoundabout,2.0112E+16,2011,Staffordshire,47
+EnteringRoundabout,2.0112E+16,2011,Staffordshire,14
+EnteringRoundabout,2.0112E+16,2011,Staffordshire,51
+EnteringRoundabout,2011201122F102819,2011,Shropshire,49
+EnteringRoundabout,2011201130D000407,2011,Derbyshire,55
+EnteringRoundabout,2011201130D001184,2011,Derbyshire,14
+EnteringRoundabout,2011201131C026011,2011,Nottingham,15
+EnteringRoundabout,2011201131C251111,2011,Nottingham,55
+EnteringRoundabout,2011201131C320011,2011,Nottingham,-1
+EnteringRoundabout,2011201132B178511,2011,Lincolnshire,17
+EnteringRoundabout,2.0112E+16,2011,Leicestershire,52
+EnteringRoundabout,2.0112E+16,2011,Leicestershire,25
+EnteringRoundabout,2011201134WN23551,2011,Northamptonshire,22
+EnteringRoundabout,2.0112E+16,2011,Cambridgeshire,22
+EnteringRoundabout,2.0112E+16,2011,Norfolk,54
+EnteringRoundabout,2.0112E+16,2011,Norfolk,28
+EnteringRoundabout,20112011400B00520,2011,Bedford Borough Council,46
+EnteringRoundabout,20112011400B01058,2011,Bedford Borough Council,53
+EnteringRoundabout,20112011400BA0004,2011,Central Bedfordshire,40
+EnteringRoundabout,20112011400BA0345,2011,Bedford Borough Council,28
+EnteringRoundabout,201120114100C0966,2011,Hertfordshire,30
+EnteringRoundabout,201120114100F0702,2011,Hertfordshire,33
+EnteringRoundabout,2011201142I122804,2011,Essex,41
+EnteringRoundabout,2011201142I410212,2011,Essex,39
+EnteringRoundabout,2011201142I428709,2011,Southend on Sea,39
+EnteringRoundabout,2011201143P029041,2011,Oxfordshire,25
+EnteringRoundabout,2011201143P266101,2011,Oxfordshire,47
+EnteringRoundabout,2011201143S059111,2011,Milton Keynes,17
+EnteringRoundabout,2011201143W088051,2011,Wokingham,10
+EnteringRoundabout,2.0112E+16,2011,Hampshire,11
+EnteringRoundabout,2.0112E+16,2011,Portsmouth,76
+EnteringRoundabout,2.0112E+16,2011,Hampshire,32
+EnteringRoundabout,2011201145MO64273,2011,Surrey,47
+EnteringRoundabout,2011201145RU64393,2011,Surrey,41
+EnteringRoundabout,2011201145SP61865,2011,Surrey,-1
+EnteringRoundabout,2011201145WO59937,2011,Surrey,33
+EnteringRoundabout,2.0112E+16,2011,Kent,13
+EnteringRoundabout,2.0112E+16,2011,East Sussex,40
+EnteringRoundabout,2011201150GT3W002,2011,Cornwall and Isles of Scilly,39
+EnteringRoundabout,2011201150KE3G003,2011,Devon,46
+EnteringRoundabout,2.0112E+16,2011,Somerset,45
+EnteringRoundabout,2.0112E+16,2011,Gloucestershire,38
+EnteringRoundabout,20112011551C23971,2011,Bournemouth,31
+EnteringRoundabout,20112011551C26002,2011,Bournemouth,29
+EnteringRoundabout,2012201201EK40651,2012,London,39
+EnteringRoundabout,2012201201GD10314,2012,London,22
+EnteringRoundabout,2012201201HT20525,2012,London,26
+EnteringRoundabout,2012201201KF60708,2012,London,45
+EnteringRoundabout,2012201201LX50139,2012,London,53
+EnteringRoundabout,2012201201LX50256,2012,London,29
+EnteringRoundabout,2012201201MM70520,2012,London,29
+EnteringRoundabout,2012201201MM70953,2012,London,45
+EnteringRoundabout,2012201201VK30202,2012,London,44
+EnteringRoundabout,2012201201VW40302,2012,London,52
+EnteringRoundabout,2012201201ZD30452,2012,London,39
+EnteringRoundabout,2012201201ZD30455,2012,London,52
+EnteringRoundabout,2012201205BB02679,2012,Merseyside,61
+EnteringRoundabout,2012201206F056512,2012,Salford,20
+EnteringRoundabout,2.0122E+16,2012,Warrington,12
+EnteringRoundabout,2.0122E+16,2012,Northumberland,79
+EnteringRoundabout,2.0122E+16,2012,South Tyneside,36
+EnteringRoundabout,2.0122E+16,2012,North Tyneside,46
+EnteringRoundabout,2.0122E+16,2012,North Tyneside,32
+EnteringRoundabout,2.0122E+16,2012,North Tyneside,42
+EnteringRoundabout,2.0122E+16,2012,York,39
+EnteringRoundabout,2.0122E+16,2012,North Yorkshire,49
+EnteringRoundabout,2.0122E+16,2012,York,43
+EnteringRoundabout,2.0122E+16,2012,York,23
+EnteringRoundabout,2.0122E+16,2012,Leeds,57
+EnteringRoundabout,2.0122E+16,2012,Leeds,32
+EnteringRoundabout,2.0122E+16,2012,Bradford,57
+EnteringRoundabout,2.0122E+16,2012,Leeds,39
+EnteringRoundabout,2.0122E+16,2012,Calderdale,48
+EnteringRoundabout,2012201214A055912,2012,Doncaster,58
+EnteringRoundabout,2012201214A115512,2012,Doncaster,34
+EnteringRoundabout,2012201214A132612,2012,Doncaster,29
+EnteringRoundabout,20122012160D01211,2012,Kingston Upon Hull,47
+EnteringRoundabout,20122012160D04961,2012,Kingston Upon Hull,46
+EnteringRoundabout,20122012170S20562,2012,Stockton on Tees,43
+EnteringRoundabout,2012201220L006302,2012,Solihull,48
+EnteringRoundabout,2012201220M003812,2012,Coventry,47
+EnteringRoundabout,2012201220S053502,2012,Birmingham,39
+EnteringRoundabout,2.0122E+16,2012,Staffordshire,29
+EnteringRoundabout,2.0122E+16,2012,Staffordshire,37
+EnteringRoundabout,2012201222F203069,2012,Shropshire,21
+EnteringRoundabout,2012201230C001712,2012,Derbyshire,32
+EnteringRoundabout,2012201231C121812,2012,Nottingham,46
+EnteringRoundabout,2012201231D026312,2012,Nottinghamshire,15
+EnteringRoundabout,2.0122E+16,2012,Leicestershire,46
+EnteringRoundabout,2012201234WN20162,2012,Northamptonshire,29
+EnteringRoundabout,2012201234WS00862,2012,Northamptonshire,56
+EnteringRoundabout,2.0122E+16,2012,Norfolk,30
+EnteringRoundabout,2.0122E+16,2012,Suffolk,22
+EnteringRoundabout,20122012400BA0700,2012,Bedford Borough Council,57
+EnteringRoundabout,201220124100D0619,2012,Hertfordshire,33
+EnteringRoundabout,2012201242I099504,2012,Essex,15
+EnteringRoundabout,2012201242I202207,2012,Essex,19
+EnteringRoundabout,2012201242I250608,2012,Essex,43
+EnteringRoundabout,2012201243N157032,2012,Buckinghamshire,38
+EnteringRoundabout,2012201243W179042,2012,Reading,17
+EnteringRoundabout,2.0122E+16,2012,Hampshire,34
+EnteringRoundabout,2.0122E+16,2012,Portsmouth,54
+EnteringRoundabout,2.0122E+16,2012,Hampshire,52
+EnteringRoundabout,2.0122E+16,2012,Hampshire,24
+EnteringRoundabout,2.0122E+16,2012,Hampshire,24
+EnteringRoundabout,2.0122E+16,2012,Southampton ,20
+EnteringRoundabout,2.0122E+16,2012,Hampshire,11
+EnteringRoundabout,2012201245EL74109,2012,Surrey,55
+EnteringRoundabout,2012201245SP68097,2012,Surrey,61
+EnteringRoundabout,2.0122E+16,2012,Kent,35
+EnteringRoundabout,2.0122E+16,2012,Kent,30
+EnteringRoundabout,2.0122E+16,2012,Kent,22
+EnteringRoundabout,2.0122E+16,2012,Medway,22
+EnteringRoundabout,2.0122E+16,2012,West Sussex,43
+EnteringRoundabout,2012201250ED2I002,2012,Plymouth,-1
+EnteringRoundabout,2012201250GT3W050,2012,Cornwall and Isles of Scilly,23
+EnteringRoundabout,2.0122E+16,2012,Gloucestershire,32
+EnteringRoundabout,2.0122E+16,2012,Swindon,19
+EnteringRoundabout,20122012552C01292,2012,Poole,75
+EnteringRoundabout,20122012552C17617,2012,Poole,31
+EnteringRoundabout,20122012552C38683,2012,Poole,54

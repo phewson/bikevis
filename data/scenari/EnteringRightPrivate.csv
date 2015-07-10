@@ -1,0 +1,449 @@
+Scenario,urn,accyr,LAName,Age
+EnteringRightPrivate,199901BS00324,1999,London,34
+EnteringRightPrivate,199901FH00307,1999,London,21
+EnteringRightPrivate,199901JI00496,1999,London,12
+EnteringRightPrivate,199901PY00373,1999,London,40
+EnteringRightPrivate,199901PY01030,1999,London,14
+EnteringRightPrivate,199901TX00441,1999,London,15
+EnteringRightPrivate,199901YE00321,1999,London,9
+EnteringRightPrivate,199901ZD00558,1999,London,24
+EnteringRightPrivate,199904B059899,1999,Lancashire,11
+EnteringRightPrivate,199904C055099,1999,Lancashire,9
+EnteringRightPrivate,199904C100199,1999,Lancashire,61
+EnteringRightPrivate,199904D030399,1999,Lancashire,53
+EnteringRightPrivate,1.99905E+12,1999,Merseyside,14
+EnteringRightPrivate,199906A005101,1999,Manchester,9
+EnteringRightPrivate,199906L006170,1999,Wigan,11
+EnteringRightPrivate,1999079B20466,1999,Warrington,14
+EnteringRightPrivate,1999079C21852,1999,Cheshire West and Chester,49
+EnteringRightPrivate,1999079C30916,1999,Cheshire West and Chester,10
+EnteringRightPrivate,199913AA07799,1999,Leeds,14
+EnteringRightPrivate,199920E130301,1999,Birmingham,9
+EnteringRightPrivate,199920J078202,1999,Dudley,17
+EnteringRightPrivate,199920M106301,1999,Coventry,11
+EnteringRightPrivate,1.99922E+12,1999,Stoke on Trent,24
+EnteringRightPrivate,1.99922E+12,1999,Stoke on Trent,7
+EnteringRightPrivate,1.99922E+12,1999,Stoke on Trent,42
+EnteringRightPrivate,1.99922E+12,1999,Staffordshire,14
+EnteringRightPrivate,199922AB10182,1999,Worcestershire,9
+EnteringRightPrivate,199922AD10224,1999,Worcestershire,11
+EnteringRightPrivate,199922BF01892,1999,Worcestershire,14
+EnteringRightPrivate,199922CC10172,1999,Worcestershire,14
+EnteringRightPrivate,199922EC10819,1999,Herefordshire,13
+EnteringRightPrivate,199922EQ01947,1999,Herefordshire,8
+EnteringRightPrivate,1999317C20104,1999,Nottingham,
+EnteringRightPrivate,1999317C21205,1999,Nottinghamshire,21
+EnteringRightPrivate,1999317C41936,1999,Nottinghamshire,59
+EnteringRightPrivate,1999317E80983,1999,Nottinghamshire,41
+EnteringRightPrivate,199932C004429,1999,Lincolnshire,6
+EnteringRightPrivate,199932D004749,1999,Lincolnshire,7
+EnteringRightPrivate,1.99934E+12,1999,Leicestershire,20
+EnteringRightPrivate,199934ND00689,1999,Northamptonshire,23
+EnteringRightPrivate,1.99935E+12,1999,Cambridgeshire,21
+EnteringRightPrivate,1.99935E+12,1999,Cambridgeshire,20
+EnteringRightPrivate,199936K991567,1999,Norfolk,14
+EnteringRightPrivate,199936N991385,1999,Norfolk,12
+EnteringRightPrivate,199936T990072,1999,Norfolk,15
+EnteringRightPrivate,199936T990400,1999,Norfolk,10
+EnteringRightPrivate,199937B006147,1999,Suffolk,14
+EnteringRightPrivate,199937G005556,1999,Suffolk,15
+EnteringRightPrivate,199940B160599,1999,Bedford Borough Council,9
+EnteringRightPrivate,199940B168899,1999,Bedford Borough Council,14
+EnteringRightPrivate,199940B183199,1999,Central Bedfordshire,14
+EnteringRightPrivate,19994100B0159,1999,Hertfordshire,15
+EnteringRightPrivate,19994100D0074,1999,Hertfordshire,44
+EnteringRightPrivate,19994200C0516,1999,Essex,83
+EnteringRightPrivate,19994200G0090,1999,Essex,50
+EnteringRightPrivate,19994200H0441,1999,Southend on Sea,10
+EnteringRightPrivate,199943P044049,1999,Oxfordshire,12
+EnteringRightPrivate,199943P229109,1999,Oxfordshire,13
+EnteringRightPrivate,199943R149049,1999,Windsor and Maidenhead,15
+EnteringRightPrivate,199943W017059,1999,Wokingham,33
+EnteringRightPrivate,199943W199059,1999,Reading,
+EnteringRightPrivate,199943W236079,1999,Reading,15
+EnteringRightPrivate,199943W325109,1999,Reading,20
+EnteringRightPrivate,1999440NA0596,1999,Hampshire,14
+EnteringRightPrivate,1999440RF0382,1999,Portsmouth,15
+EnteringRightPrivate,1999440SP0183,1999,Southampton ,35
+EnteringRightPrivate,1999440TL0071,1999,Hampshire,15
+EnteringRightPrivate,199945WG00003,1999,Surrey,38
+EnteringRightPrivate,199946WK06965,1999,Kent,7
+EnteringRightPrivate,199946WL09060,1999,Kent,77
+EnteringRightPrivate,199947N003930,1999,West Sussex,13
+EnteringRightPrivate,199947S003962,1999,East Sussex,74
+EnteringRightPrivate,199950A232006,1999,Cornwall and Isles of Scilly,14
+EnteringRightPrivate,199950C243907,1999,Devon,11
+EnteringRightPrivate,199950D213097,1999,Devon,8
+EnteringRightPrivate,199950D412069,1999,Devon,16
+EnteringRightPrivate,199950F423838,1999,Devon,12
+EnteringRightPrivate,1.99952E+12,1999,North Somerset,12
+EnteringRightPrivate,19995599E1292,1999,Dorset,47
+EnteringRightPrivate,200001FH00187,2000,London,11
+EnteringRightPrivate,200001NI00537,2000,London,12
+EnteringRightPrivate,200001RG01095,2000,London,16
+EnteringRightPrivate,200001TW00061,2000,London,60
+EnteringRightPrivate,200001TW00100,2000,London,28
+EnteringRightPrivate,200001YF00231,2000,Hertfordshire,13
+EnteringRightPrivate,200004C032400,2000,Lancashire,15
+EnteringRightPrivate,200004C067600,2000,Lancashire,67
+EnteringRightPrivate,200004C070500,2000,Lancashire,7
+EnteringRightPrivate,200006K007140,2000,Bolton,12
+EnteringRightPrivate,200006K007249,2000,Bolton,10
+EnteringRightPrivate,200006L007806,2000,Wigan,9
+EnteringRightPrivate,200006L007908,2000,Wigan,8
+EnteringRightPrivate,2.00007E+12,2000,Cheshire West and Chester,53
+EnteringRightPrivate,2.00007E+12,2000,Cheshire East,16
+EnteringRightPrivate,2.00013E+12,2000,Calderdale,11
+EnteringRightPrivate,200016B027900,2000,North Lincolnshire,13
+EnteringRightPrivate,200016D069300,2000,Kingston Upon Hull,9
+EnteringRightPrivate,200020G011502,2000,Wolverhampton,20
+EnteringRightPrivate,200020J017702,2000,Dudley,25
+EnteringRightPrivate,200020K097102,2000,Sandwell,12
+EnteringRightPrivate,2.00021E+12,2000,Staffordshire,10
+EnteringRightPrivate,2.00021E+12,2000,Stoke on Trent,12
+EnteringRightPrivate,2.00021E+12,2000,Staffordshire,13
+EnteringRightPrivate,2.00021E+12,2000,Staffordshire,14
+EnteringRightPrivate,20002103X0162,2000,Staffordshire,45
+EnteringRightPrivate,200022AD13827,2000,Shropshire,12
+EnteringRightPrivate,200022FA13706,2000,Shropshire,14
+EnteringRightPrivate,200022GA17337,2000,Telford and Wrekin,49
+EnteringRightPrivate,200022GB13663,2000,Telford and Wrekin,10
+EnteringRightPrivate,2.00023E+12,2000,Warwickshire,41
+EnteringRightPrivate,2.00023E+12,2000,Warwickshire,25
+EnteringRightPrivate,2.00023E+12,2000,Warwickshire,20
+EnteringRightPrivate,200030A000556,2000,Derbyshire,12
+EnteringRightPrivate,2.00033E+12,2000,Leicestershire,25
+EnteringRightPrivate,2.00033E+12,2000,Leicestershire,12
+EnteringRightPrivate,200034ND00499,2000,Northamptonshire,10
+EnteringRightPrivate,2.00035E+12,2000,Cambridgeshire,14
+EnteringRightPrivate,200036K001119,2000,Norfolk,16
+EnteringRightPrivate,200036K001273,2000,Norfolk,11
+EnteringRightPrivate,200036K001300,2000,Norfolk,49
+EnteringRightPrivate,200036K001617,2000,Norfolk,57
+EnteringRightPrivate,200036T000010,2000,Norfolk,14
+EnteringRightPrivate,200036T000150,2000,Norfolk,17
+EnteringRightPrivate,200036T000395,2000,Norfolk,70
+EnteringRightPrivate,200037B008533,2000,Suffolk,11
+EnteringRightPrivate,200037G007163,2000,Suffolk,18
+EnteringRightPrivate,200043P061090,2000,Oxfordshire,12
+EnteringRightPrivate,200043P308100,2000,Oxfordshire,20
+EnteringRightPrivate,200043W261120,2000,Bracknell Forest,41
+EnteringRightPrivate,200043W786110,2000,Reading,36
+EnteringRightPrivate,2000440LR0017,2000,Hampshire,15
+EnteringRightPrivate,2000440ZD1077,2000,Isle of Wight,41
+EnteringRightPrivate,200045NC00019,2000,Surrey,17
+EnteringRightPrivate,200045WF00054,2000,Surrey,16
+EnteringRightPrivate,200046SK24506,2000,Kent,19
+EnteringRightPrivate,200047N126987,2000,West Sussex,37
+EnteringRightPrivate,200047S005561,2000,East Sussex,37
+EnteringRightPrivate,200047Y127703,2000,West Sussex,10
+EnteringRightPrivate,200050D351343,2000,Devon,11
+EnteringRightPrivate,2.00052E+12,2000,City of Bristol,14
+EnteringRightPrivate,2.00052E+12,2000,Somerset,16
+EnteringRightPrivate,2000530AI0682,2000,Gloucestershire,20
+EnteringRightPrivate,2000530AI1181,2000,Gloucestershire,18
+EnteringRightPrivate,2000530AI3901,2000,Gloucestershire,18
+EnteringRightPrivate,2000550E00868,2000,Dorset,67
+EnteringRightPrivate,2000550E03962,2000,Dorset,14
+EnteringRightPrivate,200104A059201,2001,Lancashire,13
+EnteringRightPrivate,200104A081201,2001,Lancashire,16
+EnteringRightPrivate,200104B072101,2001,Lancashire,19
+EnteringRightPrivate,2.00105E+12,2001,Merseyside,13
+EnteringRightPrivate,200106L010215,2001,Wigan,15
+EnteringRightPrivate,2.00107E+12,2001,Cheshire West and Chester,13
+EnteringRightPrivate,2.00112E+12,2001,North Yorkshire,17
+EnteringRightPrivate,2.00112E+12,2001,York,29
+EnteringRightPrivate,2.00113E+12,2001,Bradford,13
+EnteringRightPrivate,200114BB00327,2001,Doncaster,25
+EnteringRightPrivate,200116A003401,2001,North East Lincolnshire,15
+EnteringRightPrivate,200116C004401,2001,East Riding of Yorkshire,14
+EnteringRightPrivate,200116D021101,2001,Kingston Upon Hull,18
+EnteringRightPrivate,200116D051401,2001,Kingston Upon Hull,14
+EnteringRightPrivate,200120D262602,2001,Birmingham,27
+EnteringRightPrivate,200120D417403,2001,Birmingham,12
+EnteringRightPrivate,200120G148402,2001,Wolverhampton,25
+EnteringRightPrivate,200120K067801,2001,Sandwell,12
+EnteringRightPrivate,2.00121E+12,2001,Staffordshire,13
+EnteringRightPrivate,2.00121E+12,2001,Staffordshire,13
+EnteringRightPrivate,200122BJ20290,2001,Worcestershire,14
+EnteringRightPrivate,200122FD22705,2001,Shropshire,12
+EnteringRightPrivate,200122GB21354,2001,Telford and Wrekin,5
+EnteringRightPrivate,2.00123E+12,2001,Warwickshire,13
+EnteringRightPrivate,200130A000089,2001,Derbyshire,18
+EnteringRightPrivate,20013102A0132,2001,Nottinghamshire,10
+EnteringRightPrivate,20013102A0305,2001,Nottinghamshire,17
+EnteringRightPrivate,20013108A1569,2001,Nottinghamshire,14
+EnteringRightPrivate,2.00133E+12,2001,Leicestershire,18
+EnteringRightPrivate,2.00135E+12,2001,Cambridgeshire,24
+EnteringRightPrivate,2.00135E+12,2001,Cambridgeshire,15
+EnteringRightPrivate,2.00135E+12,2001,Cambridgeshire,15
+EnteringRightPrivate,2.00135E+12,2001,Cambridgeshire,12
+EnteringRightPrivate,200136K010440,2001,Norfolk,15
+EnteringRightPrivate,200136K010787,2001,Norfolk,15
+EnteringRightPrivate,200136T010203,2001,Norfolk,10
+EnteringRightPrivate,20014100F0137,2001,Hertfordshire,15
+EnteringRightPrivate,20014200J0259,2001,Essex,11
+EnteringRightPrivate,200143P346091,2001,Oxfordshire,18
+EnteringRightPrivate,200143W040081,2001,Wokingham,20
+EnteringRightPrivate,200143W321041,2001,Windsor and Maidenhead,19
+EnteringRightPrivate,2001440NA0278,2001,Hampshire,13
+EnteringRightPrivate,200147T144195,2001,East Sussex,34
+EnteringRightPrivate,2.00152E+12,2001,City of Bristol,22
+EnteringRightPrivate,2.00152E+12,2001,North Somerset,9
+EnteringRightPrivate,2.00152E+12,2001,South Gloucestershire,12
+EnteringRightPrivate,200152G857587,2001,Somerset,14
+EnteringRightPrivate,2001530AI1314,2001,Gloucestershire,17
+EnteringRightPrivate,2001530AI1777,2001,Gloucestershire,65
+EnteringRightPrivate,2001530AI2876,2001,Gloucestershire,11
+EnteringRightPrivate,2001530AI3396,2001,Gloucestershire,31
+EnteringRightPrivate,200154DN24801,2001,Swindon,45
+EnteringRightPrivate,200154DS50601,2001,Swindon,21
+EnteringRightPrivate,2001551E00982,2001,Dorset,13
+EnteringRightPrivate,2001551E03760,2001,Dorset,62
+EnteringRightPrivate,200201EO00401,2002,London,
+EnteringRightPrivate,200201HT00226,2002,London,24
+EnteringRightPrivate,200201LX01667,2002,London,37
+EnteringRightPrivate,200201YR00338,2002,London,
+EnteringRightPrivate,200204C093602,2002,Lancashire,48
+EnteringRightPrivate,200206F010650,2002,Salford,13
+EnteringRightPrivate,200206L014033,2002,Wigan,39
+EnteringRightPrivate,2.00207E+12,2002,Cheshire West and Chester,78
+EnteringRightPrivate,2.00207E+12,2002,Cheshire West and Chester,18
+EnteringRightPrivate,2.0021E+12,2002,South Tyneside,9
+EnteringRightPrivate,200210C100902,2002,Northumberland,14
+EnteringRightPrivate,200211AK20050,2002,Durham,68
+EnteringRightPrivate,2.00213E+12,2002,Kirklees,7
+EnteringRightPrivate,200216A003302,2002,North East Lincolnshire,15
+EnteringRightPrivate,200216A054902,2002,North East Lincolnshire,31
+EnteringRightPrivate,200216C116802,2002,East Riding of Yorkshire,13
+EnteringRightPrivate,200216D085902,2002,Kingston Upon Hull,72
+EnteringRightPrivate,200220F188601,2002,Birmingham,25
+EnteringRightPrivate,200220G007602,2002,Wolverhampton,30
+EnteringRightPrivate,2.00221E+12,2002,Stoke on Trent,55
+EnteringRightPrivate,2.00221E+12,2002,Stoke on Trent,11
+EnteringRightPrivate,200222CC28341,2002,Worcestershire,16
+EnteringRightPrivate,2.00223E+12,2002,Warwickshire,66
+EnteringRightPrivate,2.00223E+12,2002,Warwickshire,52
+EnteringRightPrivate,200230C000635,2002,Derbyshire,
+EnteringRightPrivate,200230D000563,2002,Derby,69
+EnteringRightPrivate,20023102B1340,2002,Nottinghamshire,14
+EnteringRightPrivate,20023102D1635,2002,Nottinghamshire,13
+EnteringRightPrivate,200232C044502,2002,Lincolnshire,12
+EnteringRightPrivate,2.00233E+12,2002,Leicestershire,37
+EnteringRightPrivate,2.00233E+12,2002,Leicestershire,44
+EnteringRightPrivate,2.00235E+12,2002,Cambridgeshire,15
+EnteringRightPrivate,2.00235E+12,2002,Cambridgeshire,27
+EnteringRightPrivate,2.00235E+12,2002,Cambridgeshire,17
+EnteringRightPrivate,2.00236E+12,2002,Norfolk,15
+EnteringRightPrivate,200237G011423,2002,Suffolk,13
+EnteringRightPrivate,200237L006681,2002,Suffolk,14
+EnteringRightPrivate,20024100D5251,2002,Hertfordshire,11
+EnteringRightPrivate,20024200B0372,2002,Essex,15
+EnteringRightPrivate,20024200E0432,2002,Essex,12
+EnteringRightPrivate,200243P270072,2002,Oxfordshire,11
+EnteringRightPrivate,200243W012082,2002,Wokingham,75
+EnteringRightPrivate,200243W034072,2002,Reading,20
+EnteringRightPrivate,200243W480042,2002,Reading,22
+EnteringRightPrivate,2002440AA0252,2002,Hampshire,40
+EnteringRightPrivate,200245RE30685,2002,Surrey,60
+EnteringRightPrivate,200247K152905,2002,West Sussex,19
+EnteringRightPrivate,200254DE25502,2002,Swindon,20
+EnteringRightPrivate,2002550B01168,2002,Bournemouth,14
+EnteringRightPrivate,2002552E04681,2002,Dorset,15
+EnteringRightPrivate,2002552W01823,2002,Dorset,12
+EnteringRightPrivate,2002552W02306,2002,Dorset,9
+EnteringRightPrivate,200301TX00436,2003,London,32
+EnteringRightPrivate,200301XS00057,2003,London,20
+EnteringRightPrivate,2.00303E+12,2003,Cumbria,21
+EnteringRightPrivate,200306G010733,2003,Tameside,16
+EnteringRightPrivate,200311DJ11540,2003,Darlington,12
+EnteringRightPrivate,2.00312E+12,2003,North Yorkshire,13
+EnteringRightPrivate,200314BB00500,2003,Doncaster,35
+EnteringRightPrivate,2003170H10463,2003,Hartlepool,23
+EnteringRightPrivate,200320D307701,2003,Birmingham,16
+EnteringRightPrivate,200320K095402,2003,Sandwell,14
+EnteringRightPrivate,200320L100401,2003,Solihull,55
+EnteringRightPrivate,200320M075903,2003,Coventry,59
+EnteringRightPrivate,2.00321E+12,2003,Staffordshire,8
+EnteringRightPrivate,2.00321E+12,2003,Staffordshire,15
+EnteringRightPrivate,2.00321E+12,2003,Staffordshire,7
+EnteringRightPrivate,200322ED25350,2003,Herefordshire,12
+EnteringRightPrivate,200330B000413,2003,Derbyshire,16
+EnteringRightPrivate,200330D000174,2003,Derby,35
+EnteringRightPrivate,200332D088803,2003,Lincolnshire,12
+EnteringRightPrivate,2.00336E+12,2003,Norfolk,30
+EnteringRightPrivate,2.00336E+12,2003,Norfolk,82
+EnteringRightPrivate,200343N027053,2003,Buckinghamshire,7
+EnteringRightPrivate,200343P117053,2003,Oxfordshire,10
+EnteringRightPrivate,200343W494103,2003,Bracknell Forest,11
+EnteringRightPrivate,2003440AA0363,2003,Hampshire,32
+EnteringRightPrivate,2003440DH0364,2003,Hampshire,18
+EnteringRightPrivate,2003440ZD1131,2003,Isle of Wight,50
+EnteringRightPrivate,2003530AI1224,2003,Gloucestershire,9
+EnteringRightPrivate,200401BS00175,2004,London,
+EnteringRightPrivate,200401JC00445,2004,London,34
+EnteringRightPrivate,200401XH00541,2004,London,45
+EnteringRightPrivate,2.00407E+12,2004,Cheshire West and Chester,26
+EnteringRightPrivate,2004160D06500,2004,Kingston Upon Hull,35
+EnteringRightPrivate,200420D309103,2004,Birmingham,18
+EnteringRightPrivate,200420G016501,2004,Wolverhampton,14
+EnteringRightPrivate,200420G065601,2004,Wolverhampton,11
+EnteringRightPrivate,200420H088302,2004,Walsall,14
+EnteringRightPrivate,2.00421E+12,2004,Stoke on Trent,16
+EnteringRightPrivate,2.00421E+12,2004,Staffordshire,14
+EnteringRightPrivate,2.00421E+12,2004,Staffordshire,16
+EnteringRightPrivate,200422FA39689,2004,Shropshire,15
+EnteringRightPrivate,2.00423E+12,2004,Warwickshire,15
+EnteringRightPrivate,20043102B2329,2004,Nottinghamshire,14
+EnteringRightPrivate,20043102C1059,2004,Nottingham,
+EnteringRightPrivate,20043108D5259,2004,Nottinghamshire,79
+EnteringRightPrivate,2.00435E+12,2004,Cambridgeshire,67
+EnteringRightPrivate,2.00435E+12,2004,Peterborough,14
+EnteringRightPrivate,2.00436E+12,2004,Norfolk,10
+EnteringRightPrivate,2.00436E+12,2004,Norfolk,11
+EnteringRightPrivate,200436T040096,2004,Norfolk,7
+EnteringRightPrivate,20044100B0112,2004,Hertfordshire,22
+EnteringRightPrivate,2.00E+294,2004,Hertfordshire,19
+EnteringRightPrivate,20044100F4845,2004,Hertfordshire,10
+EnteringRightPrivate,200443W158024,2004,Windsor and Maidenhead,46
+EnteringRightPrivate,200443W435084,2004,West Berkshire,19
+EnteringRightPrivate,2004440HB0172,2004,Hampshire,11
+EnteringRightPrivate,2004440HF0202,2004,Hampshire,9
+EnteringRightPrivate,2.00446E+12,2004,Medway,14
+EnteringRightPrivate,200446WK00031,2004,Kent,71
+EnteringRightPrivate,2.00452E+12,2004,South Gloucestershire,14
+EnteringRightPrivate,2004530AI1353,2004,Gloucestershire,16
+EnteringRightPrivate,2004530AI3186,2004,Gloucestershire,33
+EnteringRightPrivate,2004554E02463,2004,Dorset,52
+EnteringRightPrivate,200501BS70323,2005,London,41
+EnteringRightPrivate,200501FH10354,2005,London,21
+EnteringRightPrivate,200501KG70251,2005,London,18
+EnteringRightPrivate,200501KG70298,2005,London,78
+EnteringRightPrivate,200511BF30990,2005,Durham,37
+EnteringRightPrivate,2005160C00170,2005,East Riding of Yorkshire,20
+EnteringRightPrivate,2.00522E+12,2005,Stoke on Trent,13
+EnteringRightPrivate,2.00522E+12,2005,Staffordshire,13
+EnteringRightPrivate,2.00522E+12,2005,Staffordshire,17
+EnteringRightPrivate,200522FE45522,2005,Shropshire,13
+EnteringRightPrivate,2.00523E+12,2005,Warwickshire,
+EnteringRightPrivate,200530C000517,2005,Derbyshire,10
+EnteringRightPrivate,20053102B1498,2005,Nottinghamshire,6
+EnteringRightPrivate,2.00535E+12,2005,Cambridgeshire,18
+EnteringRightPrivate,200537G018923,2005,Suffolk,17
+EnteringRightPrivate,200543P408115,2005,Oxfordshire,13
+EnteringRightPrivate,200543W172025,2005,Wokingham,20
+EnteringRightPrivate,2.00544E+12,2005,Hampshire,25
+EnteringRightPrivate,200550C43H279,2005,Devon,78
+EnteringRightPrivate,2.00553E+12,2005,Gloucestershire,32
+EnteringRightPrivate,2.00553E+12,2005,Gloucestershire,30
+EnteringRightPrivate,200601JC30299,2006,London,23
+EnteringRightPrivate,2.00612E+12,2006,North Yorkshire,15
+EnteringRightPrivate,2006170M10626,2006,Middlesbrough,12
+EnteringRightPrivate,200620F184803,2006,Birmingham,14
+EnteringRightPrivate,200620K077901,2006,Sandwell,15
+EnteringRightPrivate,200622DA52028,2006,Worcestershire,13
+EnteringRightPrivate,200622FA49283,2006,Shropshire,19
+EnteringRightPrivate,20063108B2236,2006,Nottinghamshire,13
+EnteringRightPrivate,200632C184106,2006,Lincolnshire,14
+EnteringRightPrivate,2.00636E+12,2006,Norfolk,16
+EnteringRightPrivate,20064100B0183,2006,Hertfordshire,67
+EnteringRightPrivate,200643P094086,2006,Oxfordshire,11
+EnteringRightPrivate,200643R064086,2006,Slough,9
+EnteringRightPrivate,200643W088086,2006,West Berkshire,11
+EnteringRightPrivate,2.00644E+12,2006,Isle of Wight,17
+EnteringRightPrivate,2.00652E+12,2006,North Somerset,10
+EnteringRightPrivate,2.00652E+12,2006,Somerset,19
+EnteringRightPrivate,200701RY64300,2007,London,28
+EnteringRightPrivate,200701ZD30331,2007,London,9
+EnteringRightPrivate,200704AL07030,2007,Lancashire,35
+EnteringRightPrivate,200704BB07094,2007,Lancashire,13
+EnteringRightPrivate,2007160D00260,2007,Kingston Upon Hull,22
+EnteringRightPrivate,2007160D07840,2007,Kingston Upon Hull,16
+EnteringRightPrivate,2007170S43357,2007,Stockton on Tees,19
+EnteringRightPrivate,200720D327303,2007,Birmingham,22
+EnteringRightPrivate,200720J038501,2007,Dudley,16
+EnteringRightPrivate,200722DE86083,2007,Worcestershire,35
+EnteringRightPrivate,200722EA85587,2007,Herefordshire,23
+EnteringRightPrivate,200722EA86291,2007,Herefordshire,54
+EnteringRightPrivate,20073102D3635,2007,Nottinghamshire,21
+EnteringRightPrivate,200732B039207,2007,Lincolnshire,17
+EnteringRightPrivate,200734NK59477,2007,Northamptonshire,35
+EnteringRightPrivate,2.00736E+12,2007,Norfolk,14
+EnteringRightPrivate,200737G023675,2007,Suffolk,47
+EnteringRightPrivate,200743N259017,2007,Buckinghamshire,14
+EnteringRightPrivate,200743P157107,2007,Oxfordshire,16
+EnteringRightPrivate,200743P289037,2007,Oxfordshire,14
+EnteringRightPrivate,2.00744E+12,2007,Hampshire,9
+EnteringRightPrivate,200750D41H754,2007,Devon,10
+EnteringRightPrivate,200754EN25907,2007,Wiltshire,71
+EnteringRightPrivate,200801CW11792,2008,London,37
+EnteringRightPrivate,2008160C03060,2008,East Riding of Yorkshire,12
+EnteringRightPrivate,2008160C05960,2008,East Riding of Yorkshire,16
+EnteringRightPrivate,2.00823E+12,2008,Warwickshire,16
+EnteringRightPrivate,20083102D3098,2008,Nottinghamshire,12
+EnteringRightPrivate,2.00835E+12,2008,Cambridgeshire,25
+EnteringRightPrivate,2.00836E+12,2008,Norfolk,12
+EnteringRightPrivate,2.00836E+12,2008,Norfolk,30
+EnteringRightPrivate,200842I234307,2008,Essex,55
+EnteringRightPrivate,200843W032078,2008,Wokingham,21
+EnteringRightPrivate,200850CB2I005,2008,Devon,9
+EnteringRightPrivate,2008558W01082,2008,Dorset,15
+EnteringRightPrivate,200901FH10078,2009,London,38
+EnteringRightPrivate,200901TX20551,2009,London,8
+EnteringRightPrivate,2.00923E+12,2009,Warwickshire,20
+EnteringRightPrivate,2.00923E+12,2009,Warwickshire,33
+EnteringRightPrivate,20093102B1960,2009,Nottinghamshire,24
+EnteringRightPrivate,20093102C2833,2009,Nottingham,28
+EnteringRightPrivate,2.00933E+12,2009,Leicestershire,15
+EnteringRightPrivate,2.00935E+12,2009,Cambridgeshire,21
+EnteringRightPrivate,2.00952E+12,2009,South Gloucestershire,16
+EnteringRightPrivate,200954EC24109,2009,Wiltshire,20
+EnteringRightPrivate,2009559C01469,2009,Poole,10
+EnteringRightPrivate,201001PY20639,2010,London,49
+EnteringRightPrivate,201001WW50869,2010,London,51
+EnteringRightPrivate,201001YE80774,2010,London,78
+EnteringRightPrivate,2.01012E+12,2010,North Yorkshire,11
+EnteringRightPrivate,2010160C05011,2010,East Riding of Yorkshire,55
+EnteringRightPrivate,2010170M30350,2010,Middlesbrough,50
+EnteringRightPrivate,2.01033E+12,2010,Leicestershire,12
+EnteringRightPrivate,2.01036E+12,2010,Norfolk,15
+EnteringRightPrivate,2.01036E+12,2010,Norfolk,16
+EnteringRightPrivate,201037G028801,2010,Suffolk,21
+EnteringRightPrivate,2.01044E+12,2010,Hampshire,56
+EnteringRightPrivate,2.01044E+12,2010,Hampshire,59
+EnteringRightPrivate,201050KU2V001,2010,Devon,48
+EnteringRightPrivate,2.01053E+12,2010,Gloucestershire,12
+EnteringRightPrivate,2011201101PY20419,2011,London,17
+EnteringRightPrivate,2011201101VK30222,2011,London,16
+EnteringRightPrivate,2011201101WW50735,2011,London,17
+EnteringRightPrivate,2.0112E+16,2011,Cheshire East,53
+EnteringRightPrivate,2.0112E+16,2011,North Yorkshire,59
+EnteringRightPrivate,2.0112E+16,2011,North Yorkshire,12
+EnteringRightPrivate,2.0112E+16,2011,Warwickshire,51
+EnteringRightPrivate,2.0112E+16,2011,Warwickshire,13
+EnteringRightPrivate,2.0112E+16,2011,Warwickshire,28
+EnteringRightPrivate,2011201131C084711,2011,Nottingham,28
+EnteringRightPrivate,2.0112E+16,2011,Cambridgeshire,18
+EnteringRightPrivate,201120114100K0245,2011,Hertfordshire,18
+EnteringRightPrivate,2011201143P191091,2011,Oxfordshire,23
+EnteringRightPrivate,2011201143P222051,2011,Oxfordshire,24
+EnteringRightPrivate,2.0112E+16,2011,Brighton and Hove,23
+EnteringRightPrivate,2.0112E+16,2011,West Sussex,21
+EnteringRightPrivate,2.0112E+16,2011,Swindon,10
+EnteringRightPrivate,2.0112E+16,2011,Swindon,19
+EnteringRightPrivate,2012201201PY20407,2012,London,41
+EnteringRightPrivate,2012201201XD80193,2012,London,29
+EnteringRightPrivate,2012201201XD80501,2012,London,42
+EnteringRightPrivate,2012201206A059388,2012,Manchester,37
+EnteringRightPrivate,20122012160D01631,2012,Kingston Upon Hull,50
+EnteringRightPrivate,2012201231A089012,2012,Nottinghamshire,21
+EnteringRightPrivate,2.0122E+16,2012,Leicestershire,20
+EnteringRightPrivate,2.0122E+16,2012,Leicestershire,32
+EnteringRightPrivate,2012201243N162092,2012,Buckinghamshire,13
+EnteringRightPrivate,2012201243N256052,2012,Buckinghamshire,25
+EnteringRightPrivate,2.0122E+16,2012,Hampshire,20
+EnteringRightPrivate,2012201245RU72159,2012,Surrey,17
+EnteringRightPrivate,2.0122E+16,2012,Kent,45
+EnteringRightPrivate,2.0122E+16,2012,City of Bristol,25
+EnteringRightPrivate,2.0122E+16,2012,Gloucestershire,64
+EnteringRightPrivate,2.0122E+16,2012,Wiltshire,69

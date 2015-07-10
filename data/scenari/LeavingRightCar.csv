@@ -1,0 +1,657 @@
+Scenario,urn,accyr,LAName,Age
+LeavingRightCar,199901BS00885,1999,London,
+LeavingRightCar,199904D048499,1999,Lancashire,39
+LeavingRightCar,1.99905E+12,1999,Merseyside,13
+LeavingRightCar,1.99905E+12,1999,Merseyside,11
+LeavingRightCar,199906C629799,1999,Manchester,25
+LeavingRightCar,199906J004494,1999,Stockport,54
+LeavingRightCar,199913AA28099,1999,Leeds,14
+LeavingRightCar,199913BB19499,1999,Leeds,10
+LeavingRightCar,199913BB44599,1999,Leeds,25
+LeavingRightCar,199913EC38299,1999,Kirklees,15
+LeavingRightCar,1.99934E+12,1999,Leicestershire,14
+LeavingRightCar,199936T990057,1999,Norfolk,35
+LeavingRightCar,199937G003976,1999,Suffolk,41
+LeavingRightCar,199946MA01820,1999,Kent,8
+LeavingRightCar,199947C003629,1999,Brighton and Hove,31
+LeavingRightCar,199947C004105,1999,Brighton and Hove,19
+LeavingRightCar,199947S002164,1999,East Sussex,32
+LeavingRightCar,199950E413428,1999,Plymouth,52
+LeavingRightCar,1.99952E+12,1999,City of Bristol,7
+LeavingRightCar,19995599E1342,1999,Dorset,17
+LeavingRightCar,200001DM02062,2000,London,36
+LeavingRightCar,200001FH00257,2000,London,16
+LeavingRightCar,200001JC00295,2000,London,12
+LeavingRightCar,200001MM00004,2000,London,26
+LeavingRightCar,200001XS00434,2000,London,60
+LeavingRightCar,2.00005E+12,2000,Merseyside,56
+LeavingRightCar,200006G005722,2000,Tameside,10
+LeavingRightCar,200006M006142,2000,Trafford,14
+LeavingRightCar,2.00013E+12,2000,Bradford,17
+LeavingRightCar,200014II00528,2000,Sheffield,19
+LeavingRightCar,200016C102100,2000,East Riding of Yorkshire,11
+LeavingRightCar,200020J065602,2000,Dudley,17
+LeavingRightCar,200020M029001,2000,Coventry,15
+LeavingRightCar,2.00033E+12,2000,Leicestershire,
+LeavingRightCar,200043W478090,2000,Reading,14
+LeavingRightCar,2000440ZD0482,2000,Isle of Wight,29
+LeavingRightCar,2.00052E+12,2000,Somerset,37
+LeavingRightCar,200052F970046,2000,Somerset,35
+LeavingRightCar,2000550B03130,2000,Bournemouth,31
+LeavingRightCar,200101JC00393,2001,London,43
+LeavingRightCar,200101KD00992,2001,London,27
+LeavingRightCar,200101MM00468,2001,London,27
+LeavingRightCar,200101XS00685,2001,London,45
+LeavingRightCar,200101XS01130,2001,London,40
+LeavingRightCar,2.00105E+12,2001,Merseyside,25
+LeavingRightCar,2.00113E+12,2001,Bradford,61
+LeavingRightCar,2.00113E+12,2001,Leeds,12
+LeavingRightCar,200132C070001,2001,Lincolnshire,58
+LeavingRightCar,20014200A0409,2001,Essex,36
+LeavingRightCar,2001440SP0354,2001,Southampton ,53
+LeavingRightCar,200145EM11102,2001,Surrey,26
+LeavingRightCar,200150D212454,2001,Devon,55
+LeavingRightCar,2.00152E+12,2001,Somerset,52
+LeavingRightCar,200201EO00914,2002,London,30
+LeavingRightCar,200201PL00846,2002,London,31
+LeavingRightCar,2.00207E+12,2002,Cheshire West and Chester,29
+LeavingRightCar,200210J092202,2002,Gateshead,36
+LeavingRightCar,2.00213E+12,2002,Leeds,45
+LeavingRightCar,2.00213E+12,2002,Bradford,52
+LeavingRightCar,200220G019301,2002,Wolverhampton,39
+LeavingRightCar,200230C000308,2002,Derbyshire,50
+LeavingRightCar,200243W083082,2002,Slough,12
+LeavingRightCar,200245RN29925,2002,Surrey,
+LeavingRightCar,200246TH56885,2002,Kent,15
+LeavingRightCar,200246TH68870,2002,Kent,15
+LeavingRightCar,200250A322926,2002,Cornwall and Isles of Scilly,32
+LeavingRightCar,200250F318009,2002,Torbay,15
+LeavingRightCar,200301DM01666,2003,London,39
+LeavingRightCar,200301DM01846,2003,London,
+LeavingRightCar,200301LX00197,2003,London,17
+LeavingRightCar,200301MM01256,2003,London,53
+LeavingRightCar,200306A015209,2003,Manchester,30
+LeavingRightCar,2.0031E+12,2003,Newcastle upon Tyne,29
+LeavingRightCar,2.00313E+12,2003,Leeds,23
+LeavingRightCar,2.00313E+12,2003,Leeds,50
+LeavingRightCar,200314EE00657,2003,Barnsley,42
+LeavingRightCar,200320M074401,2003,Coventry,5
+LeavingRightCar,200330D000952,2003,Derby,12
+LeavingRightCar,20033102A0557,2003,Nottinghamshire,8
+LeavingRightCar,200332C158503,2003,Lincolnshire,47
+LeavingRightCar,2.00333E+12,2003,Leicestershire,19
+LeavingRightCar,200343W453033,2003,Reading,28
+LeavingRightCar,2003440SY0716,2003,Southampton ,45
+LeavingRightCar,200345RE46556,2003,Surrey,44
+LeavingRightCar,200347K161417,2003,West Sussex,36
+LeavingRightCar,200347K163052,2003,Brighton and Hove,22
+LeavingRightCar,200347K165197,2003,West Sussex,43
+LeavingRightCar,200350D41Q958,2003,Devon,39
+LeavingRightCar,2.00352E+12,2003,City of Bristol,40
+LeavingRightCar,2003550B04295,2003,Bournemouth,16
+LeavingRightCar,200401BS00534,2004,London,32
+LeavingRightCar,200404C054304,2004,Lancashire,30
+LeavingRightCar,200406C909467,2004,Manchester,38
+LeavingRightCar,2.00407E+12,2004,Cheshire West and Chester,21
+LeavingRightCar,2.00407E+12,2004,Cheshire West and Chester,32
+LeavingRightCar,2.00407E+12,2004,Warrington,22
+LeavingRightCar,2.00413E+12,2004,Leeds,32
+LeavingRightCar,2.00413E+12,2004,Kirklees,12
+LeavingRightCar,200414EE00899,2004,Sheffield,30
+LeavingRightCar,200420D213301,2004,Birmingham,15
+LeavingRightCar,200420G024702,2004,Wolverhampton,34
+LeavingRightCar,2.00421E+12,2004,Staffordshire,12
+LeavingRightCar,200430D000797,2004,Derby,16
+LeavingRightCar,20044200H0379,2004,Southend on Sea,27
+LeavingRightCar,200446NK91299,2004,Kent,33
+LeavingRightCar,200446TH01054,2004,Kent,16
+LeavingRightCar,200450F21M478,2004,Torbay,17
+LeavingRightCar,200501BS70409,2005,London,46
+LeavingRightCar,200501CP00037,2005,London,25
+LeavingRightCar,200501CW11959,2005,London,32
+LeavingRightCar,200501EO40143,2005,London,44
+LeavingRightCar,200501EO40314,2005,London,50
+LeavingRightCar,200501EO41426,2005,London,26
+LeavingRightCar,200501FH10511,2005,London,41
+LeavingRightCar,200501GD10107,2005,London,48
+LeavingRightCar,200501GD10972,2005,London,27
+LeavingRightCar,200501MM70771,2005,London,34
+LeavingRightCar,200501RG40146,2005,London,42
+LeavingRightCar,200501RG40836,2005,London,43
+LeavingRightCar,2.00503E+12,2005,Cumbria,18
+LeavingRightCar,200504BC05104,2005,Lancashire,36
+LeavingRightCar,200504C040105,2005,Lancashire,54
+LeavingRightCar,200504DA05150,2005,Lancashire,18
+LeavingRightCar,200504FG05108,2005,Lancashire,45
+LeavingRightCar,200505CH00714,2005,Merseyside,62
+LeavingRightCar,200505EE01410,2005,Merseyside,52
+LeavingRightCar,200505FF01428,2005,Merseyside,40
+LeavingRightCar,200506A029847,2005,Manchester,34
+LeavingRightCar,200506G039022,2005,Tameside,62
+LeavingRightCar,200506J921523,2005,Stockport,44
+LeavingRightCar,200506L030481,2005,Wigan,21
+LeavingRightCar,200506P917866,2005,Rochdale,49
+LeavingRightCar,2.00507E+12,2005,Halton,42
+LeavingRightCar,2.00507E+12,2005,Cheshire West and Chester,19
+LeavingRightCar,2.0051E+12,2005,South Tyneside,12
+LeavingRightCar,2.00513E+12,2005,Leeds,41
+LeavingRightCar,2.00513E+12,2005,Kirklees,22
+LeavingRightCar,2.00513E+12,2005,Bradford,10
+LeavingRightCar,2.00513E+12,2005,Leeds,29
+LeavingRightCar,2.00513E+12,2005,Wakefield,26
+LeavingRightCar,2.00513E+12,2005,Leeds,19
+LeavingRightCar,200530D000216,2005,Derby,
+LeavingRightCar,200530D000582,2005,Derby,41
+LeavingRightCar,200530D000888,2005,Derby,34
+LeavingRightCar,20053102B1870,2005,Nottinghamshire,41
+LeavingRightCar,20053102C1165,2005,Nottingham,53
+LeavingRightCar,20053102C2987,2005,Nottingham,22
+LeavingRightCar,20053102C3906,2005,Nottingham,33
+LeavingRightCar,200532D092005,2005,Lincolnshire,17
+LeavingRightCar,2.00533E+12,2005,Leicestershire,65
+LeavingRightCar,2.00533E+12,2005,Leicestershire,16
+LeavingRightCar,200534NW03226,2005,Northamptonshire,34
+LeavingRightCar,2.00535E+12,2005,Cambridgeshire,54
+LeavingRightCar,2.00535E+12,2005,Cambridgeshire,28
+LeavingRightCar,20054100C0157,2005,Hertfordshire,
+LeavingRightCar,200542G063908,2005,Essex,13
+LeavingRightCar,200543W095075,2005,Slough,14
+LeavingRightCar,2.00544E+12,2005,Hampshire,16
+LeavingRightCar,2005445KK0355,2005,Portsmouth,20
+LeavingRightCar,2.00546E+12,2005,Kent,57
+LeavingRightCar,2.00552E+12,2005,City of Bristol,35
+LeavingRightCar,2.00553E+12,2005,Gloucestershire,29
+LeavingRightCar,2.00553E+12,2005,Gloucestershire,18
+LeavingRightCar,200601FH10157,2006,London,27
+LeavingRightCar,200601GD10301,2006,London,28
+LeavingRightCar,200601GD10480,2006,London,51
+LeavingRightCar,200601GD10557,2006,London,34
+LeavingRightCar,200601GD10672,2006,London,37
+LeavingRightCar,200601JC30319,2006,London,51
+LeavingRightCar,200601JC30631,2006,London,27
+LeavingRightCar,200601KF60040,2006,London,17
+LeavingRightCar,200601KF60076,2006,London,32
+LeavingRightCar,200601KF60752,2006,London,24
+LeavingRightCar,200601KF60779,2006,London,38
+LeavingRightCar,200601KF60802,2006,London,36
+LeavingRightCar,200601TX20397,2006,London,27
+LeavingRightCar,200601VW40311,2006,London,73
+LeavingRightCar,200601XD80842,2006,London,14
+LeavingRightCar,200604EA06156,2006,Blackburn with Darwen,17
+LeavingRightCar,200604EA06215,2006,Blackburn with Darwen,47
+LeavingRightCar,200605BB12632,2006,Merseyside,14
+LeavingRightCar,200605BB13873,2006,Merseyside,46
+LeavingRightCar,200605CC12921,2006,Merseyside,62
+LeavingRightCar,200605EE06764,2006,Merseyside,44
+LeavingRightCar,200606G054378,2006,Tameside,37
+LeavingRightCar,200606J063825,2006,Stockport,19
+LeavingRightCar,200606K063914,2006,Bolton,30
+LeavingRightCar,200614G040806,2006,Sheffield,23
+LeavingRightCar,200614H149306,2006,Sheffield,49
+LeavingRightCar,200620D192603,2006,Birmingham,12
+LeavingRightCar,200620D221002,2006,Birmingham,9
+LeavingRightCar,200620G039501,2006,Wolverhampton,48
+LeavingRightCar,200620H068902,2006,Walsall,35
+LeavingRightCar,200620K059801,2006,Sandwell,19
+LeavingRightCar,2.00622E+12,2006,Staffordshire,38
+LeavingRightCar,20063102A1435,2006,Nottinghamshire,35
+LeavingRightCar,20063102C0265,2006,Nottingham,14
+LeavingRightCar,20063102D1364,2006,Nottinghamshire,29
+LeavingRightCar,2.00633E+12,2006,Leicestershire,36
+LeavingRightCar,2.00633E+12,2006,Leicestershire,31
+LeavingRightCar,200634NW06795,2006,Northamptonshire,40
+LeavingRightCar,2.00635E+12,2006,Cambridgeshire,21
+LeavingRightCar,2.00635E+12,2006,Cambridgeshire,36
+LeavingRightCar,2.00635E+12,2006,Cambridgeshire,26
+LeavingRightCar,2.00636E+12,2006,Norfolk,17
+LeavingRightCar,200640B032420,2006,Bedford Borough Council,38
+LeavingRightCar,200640C009120,2006,Luton,42
+LeavingRightCar,200640C013930,2006,Luton,38
+LeavingRightCar,200640C022610,2006,Luton,50
+LeavingRightCar,200643N457036,2006,Buckinghamshire,66
+LeavingRightCar,200643R175126,2006,Slough,20
+LeavingRightCar,200643W422036,2006,Slough,19
+LeavingRightCar,2.00644E+12,2006,Hampshire,58
+LeavingRightCar,2.00644E+12,2006,Isle of Wight,17
+LeavingRightCar,2.00644E+12,2006,Hampshire,27
+LeavingRightCar,2.00647E+12,2006,East Sussex,69
+LeavingRightCar,2.00647E+12,2006,Brighton and Hove,26
+LeavingRightCar,2.00647E+12,2006,Brighton and Hove,35
+LeavingRightCar,200650D21L113,2006,Devon,42
+LeavingRightCar,2.00652E+12,2006,Somerset,18
+LeavingRightCar,2.00652E+12,2006,City of Bristol,32
+LeavingRightCar,200701EK66139,2007,London,22
+LeavingRightCar,200701FH10055,2007,London,26
+LeavingRightCar,200701FH10547,2007,London,50
+LeavingRightCar,200701FH10608,2007,London,26
+LeavingRightCar,200701HT20027,2007,London,40
+LeavingRightCar,200701HT20053,2007,London,35
+LeavingRightCar,200701HT67165,2007,London,
+LeavingRightCar,200701HT67557,2007,London,22
+LeavingRightCar,200701KF66634,2007,London,48
+LeavingRightCar,200701KG68733,2007,London,35
+LeavingRightCar,200701LX50130,2007,London,47
+LeavingRightCar,200701XH30487,2007,London,28
+LeavingRightCar,2.00703E+12,2007,Cumbria,57
+LeavingRightCar,200705BB17499,2007,Merseyside,30
+LeavingRightCar,200706B066839,2007,Manchester,18
+LeavingRightCar,200706B074157,2007,Manchester,20
+LeavingRightCar,200706B082870,2007,Manchester,52
+LeavingRightCar,200706C071269,2007,Manchester,24
+LeavingRightCar,200706C078187,2007,Manchester,30
+LeavingRightCar,200706F071526,2007,Salford,14
+LeavingRightCar,200706G083550,2007,Tameside,55
+LeavingRightCar,200706M079646,2007,Trafford,24
+LeavingRightCar,200706Q083165,2007,Oldham,40
+LeavingRightCar,2.00707E+12,2007,Cheshire West and Chester,58
+LeavingRightCar,2.00712E+12,2007,North Yorkshire,45
+LeavingRightCar,2.00712E+12,2007,North Yorkshire,55
+LeavingRightCar,200714B084307,2007,Barnsley,27
+LeavingRightCar,2007160A03660,2007,North East Lincolnshire,9
+LeavingRightCar,2007160A03780,2007,North East Lincolnshire,40
+LeavingRightCar,2007160D08130,2007,Kingston Upon Hull,15
+LeavingRightCar,2007170M12547,2007,Middlesbrough,35
+LeavingRightCar,200720E027703,2007,Birmingham,43
+LeavingRightCar,200720E033501,2007,Birmingham,25
+LeavingRightCar,200720E098903,2007,Birmingham,38
+LeavingRightCar,200720F020602,2007,Birmingham,46
+LeavingRightCar,200720G021601,2007,Wolverhampton,59
+LeavingRightCar,200720H036601,2007,Walsall,39
+LeavingRightCar,200722CA86219,2007,Worcestershire,13
+LeavingRightCar,200730A000327,2007,Derbyshire,47
+LeavingRightCar,200730B000508,2007,Derbyshire,52
+LeavingRightCar,200730D000301,2007,Derby,17
+LeavingRightCar,200730D000696,2007,Derby,75
+LeavingRightCar,20073102A3681,2007,Nottinghamshire,27
+LeavingRightCar,20073102B3584,2007,Nottinghamshire,56
+LeavingRightCar,20073102C2847,2007,Nottingham,42
+LeavingRightCar,20073102C3480,2007,Nottingham,31
+LeavingRightCar,20073102D0046,2007,Nottinghamshire,15
+LeavingRightCar,200732D411007,2007,Lincolnshire,59
+LeavingRightCar,2.00733E+12,2007,Leicestershire,28
+LeavingRightCar,2.00733E+12,2007,Leicestershire,48
+LeavingRightCar,200734WN02057,2007,Northamptonshire,16
+LeavingRightCar,2.00735E+12,2007,Cambridgeshire,61
+LeavingRightCar,2.00736E+12,2007,Norfolk,80
+LeavingRightCar,2.00736E+12,2007,Norfolk,47
+LeavingRightCar,200742I338608,2007,Southend on Sea,20
+LeavingRightCar,200743R032097,2007,Bracknell Forest,45
+LeavingRightCar,200743W050087,2007,Reading,40
+LeavingRightCar,2.00744E+12,2007,Southampton ,18
+LeavingRightCar,2.00746E+12,2007,Kent,43
+LeavingRightCar,2.00746E+12,2007,Kent,30
+LeavingRightCar,200750A21O038,2007,Cornwall and Isles of Scilly,15
+LeavingRightCar,200750A22K651,2007,Cornwall and Isles of Scilly,43
+LeavingRightCar,2.00752E+12,2007,South Gloucestershire,75
+LeavingRightCar,2.00752E+12,2007,City of Bristol,
+LeavingRightCar,2.00752E+12,2007,North Somerset,55
+LeavingRightCar,2007557B04203,2007,Bournemouth,29
+LeavingRightCar,200801BS70159,2008,London,51
+LeavingRightCar,200801BS70474,2008,London,57
+LeavingRightCar,200801CP00286,2008,London,22
+LeavingRightCar,200801CW11463,2008,London,28
+LeavingRightCar,200801GD73859,2008,London,51
+LeavingRightCar,200801KF69184,2008,London,38
+LeavingRightCar,200801PL60448,2008,London,44
+LeavingRightCar,200801PL60519,2008,London,
+LeavingRightCar,200801WW50617,2008,London,20
+LeavingRightCar,2.00803E+12,2008,Cumbria,20
+LeavingRightCar,2.00803E+12,2008,Cumbria,48
+LeavingRightCar,200804AM08064,2008,Blackpool,51
+LeavingRightCar,200806A090188,2008,Manchester,59
+LeavingRightCar,200806B004632,2008,Manchester,15
+LeavingRightCar,200806B005226,2008,Manchester,36
+LeavingRightCar,200806B094242,2008,Manchester,34
+LeavingRightCar,200806G094804,2008,Tameside,19
+LeavingRightCar,200806N086846,2008,Bury,13
+LeavingRightCar,200806Q004821,2008,Oldham,40
+LeavingRightCar,2.00807E+12,2008,Cheshire West and Chester,35
+LeavingRightCar,2.0081E+12,2008,North Tyneside,44
+LeavingRightCar,2.0081E+12,2008,North Tyneside,25
+LeavingRightCar,2.0081E+12,2008,Gateshead,34
+LeavingRightCar,2.00812E+12,2008,York,17
+LeavingRightCar,2.00813E+12,2008,Leeds,29
+LeavingRightCar,2.00813E+12,2008,Kirklees,53
+LeavingRightCar,2008160D05520,2008,Kingston Upon Hull,27
+LeavingRightCar,200820D026102,2008,Birmingham,55
+LeavingRightCar,200820D134102,2008,Birmingham,21
+LeavingRightCar,200820D183501,2008,Birmingham,37
+LeavingRightCar,200820E056302,2008,Birmingham,26
+LeavingRightCar,200820E078401,2008,Birmingham,63
+LeavingRightCar,200820F034302,2008,Birmingham,28
+LeavingRightCar,200820F085601,2008,Birmingham,23
+LeavingRightCar,200820F117403,2008,Birmingham,49
+LeavingRightCar,200820J063501,2008,Dudley,29
+LeavingRightCar,200820L095801,2008,Solihull,49
+LeavingRightCar,200820M008003,2008,Coventry,35
+LeavingRightCar,2.00822E+12,2008,Stoke on Trent,13
+LeavingRightCar,2.00822E+12,2008,Staffordshire,58
+LeavingRightCar,20083102C3190,2008,Nottingham,57
+LeavingRightCar,20083104C2341,2008,Nottingham,58
+LeavingRightCar,2.00833E+12,2008,Leicestershire,32
+LeavingRightCar,2.00835E+12,2008,Cambridgeshire,37
+LeavingRightCar,2.00835E+12,2008,Cambridgeshire,26
+LeavingRightCar,200837L015572,2008,Suffolk,15
+LeavingRightCar,20084100F4295,2008,Hertfordshire,26
+LeavingRightCar,20084100F4799,2008,Hertfordshire,25
+LeavingRightCar,20084100F4894,2008,Hertfordshire,40
+LeavingRightCar,200842I085802,2008,Essex,31
+LeavingRightCar,200843W245028,2008,Reading,32
+LeavingRightCar,2.00844E+12,2008,Hampshire,15
+LeavingRightCar,2.00844E+12,2008,Hampshire,47
+LeavingRightCar,2.00847E+12,2008,East Sussex,24
+LeavingRightCar,2.00847E+12,2008,East Sussex,40
+LeavingRightCar,2.00847E+12,2008,Brighton and Hove,22
+LeavingRightCar,2.00847E+12,2008,East Sussex,20
+LeavingRightCar,2.00852E+12,2008,Somerset,57
+LeavingRightCar,2.00852E+12,2008,City of Bristol,41
+LeavingRightCar,2.00852E+12,2008,City of Bristol,41
+LeavingRightCar,2.00852E+12,2008,Bath and North East Somerset,40
+LeavingRightCar,2008558B00241,2008,Bournemouth,13
+LeavingRightCar,2008558C03070,2008,Poole,33
+LeavingRightCar,200901EO40289,2009,London,26
+LeavingRightCar,200901LX50070,2009,London,30
+LeavingRightCar,200901LX50143,2009,London,23
+LeavingRightCar,200901PY20090,2009,London,43
+LeavingRightCar,200901TA00137,2009,London,25
+LeavingRightCar,200901TE00107,2009,London,25
+LeavingRightCar,200901XD80370,2009,London,
+LeavingRightCar,2.00903E+12,2009,Cumbria,34
+LeavingRightCar,200905BB31781,2009,Merseyside,17
+LeavingRightCar,200905BB31864,2009,Merseyside,48
+LeavingRightCar,200906A012025,2009,Manchester,36
+LeavingRightCar,200906A017315,2009,Manchester,22
+LeavingRightCar,200906A018951,2009,Manchester,35
+LeavingRightCar,200906B009742,2009,Manchester,43
+LeavingRightCar,200906B012701,2009,Manchester,54
+LeavingRightCar,200906B024453,2009,Manchester,24
+LeavingRightCar,200906F017542,2009,Salford,46
+LeavingRightCar,200906G024870,2009,Tameside,43
+LeavingRightCar,200906J025677,2009,Stockport,46
+LeavingRightCar,200906K017143,2009,Bolton,37
+LeavingRightCar,200906M010258,2009,Trafford,20
+LeavingRightCar,200906P016089,2009,Rochdale,40
+LeavingRightCar,200906Q024632,2009,Oldham,51
+LeavingRightCar,2.0091E+12,2009,Newcastle upon Tyne,18
+LeavingRightCar,2.0091E+12,2009,Newcastle upon Tyne,23
+LeavingRightCar,2.0091E+12,2009,Northumberland,44
+LeavingRightCar,2.00913E+12,2009,Leeds,34
+LeavingRightCar,2.00913E+12,2009,Leeds,42
+LeavingRightCar,2.00913E+12,2009,Leeds,22
+LeavingRightCar,200914C074709,2009,Rotherham,28
+LeavingRightCar,200914K290809,2009,Sheffield,24
+LeavingRightCar,200914K328009,2009,Sheffield,27
+LeavingRightCar,200920D270102,2009,Birmingham,53
+LeavingRightCar,200920F058301,2009,Birmingham,26
+LeavingRightCar,2.00922E+12,2009,Stoke on Trent,34
+LeavingRightCar,2.00922E+12,2009,Staffordshire,41
+LeavingRightCar,200930D000941,2009,Derby,25
+LeavingRightCar,20093102A1287,2009,Nottinghamshire,44
+LeavingRightCar,20093102C1489,2009,Nottingham,
+LeavingRightCar,20093102D2077,2009,Nottinghamshire,41
+LeavingRightCar,20093102D2234,2009,Nottinghamshire,32
+LeavingRightCar,20093102D2354,2009,Nottinghamshire,43
+LeavingRightCar,2.00933E+12,2009,Leicestershire,52
+LeavingRightCar,2.00933E+12,2009,Leicestershire,30
+LeavingRightCar,2.00933E+12,2009,Leicestershire,31
+LeavingRightCar,2.00933E+12,2009,Leicestershire,27
+LeavingRightCar,2.00935E+12,2009,Cambridgeshire,14
+LeavingRightCar,2.00935E+12,2009,Cambridgeshire,43
+LeavingRightCar,2.00936E+12,2009,Norfolk,21
+LeavingRightCar,2009400C00945,2009,Luton,16
+LeavingRightCar,200942I167105,2009,Essex,22
+LeavingRightCar,200942I327810,2009,Southend on Sea,14
+LeavingRightCar,200943P216019,2009,Oxfordshire,55
+LeavingRightCar,2.00944E+12,2009,Southampton ,46
+LeavingRightCar,2.00944E+12,2009,Hampshire,74
+LeavingRightCar,200945SP43334,2009,Surrey,
+LeavingRightCar,200945WA38328,2009,Surrey,65
+LeavingRightCar,2.00946E+12,2009,Kent,40
+LeavingRightCar,2.00947E+12,2009,Brighton and Hove,24
+LeavingRightCar,2.00947E+12,2009,Brighton and Hove,36
+LeavingRightCar,200950DE2H014,2009,Devon,35
+LeavingRightCar,2.00952E+12,2009,City of Bristol,30
+LeavingRightCar,2.00952E+12,2009,Somerset,44
+LeavingRightCar,2.00952E+12,2009,City of Bristol,24
+LeavingRightCar,2009559C02162,2009,Poole,14
+LeavingRightCar,2009559C02618,2009,Bournemouth,11
+LeavingRightCar,201001GD10342,2010,London,34
+LeavingRightCar,201001KD50056,2010,London,14
+LeavingRightCar,201001KF60809,2010,London,54
+LeavingRightCar,201001KG70066,2010,London,15
+LeavingRightCar,201004AL10107,2010,Lancashire,32
+LeavingRightCar,201004DL10076,2010,Lancashire,50
+LeavingRightCar,201005AA03487,2010,Merseyside,37
+LeavingRightCar,201005AA04605,2010,Merseyside,38
+LeavingRightCar,201005BB02231,2010,Merseyside,35
+LeavingRightCar,201005FF06228,2010,Merseyside,42
+LeavingRightCar,201005FF07058,2010,Merseyside,33
+LeavingRightCar,201006A027641,2010,Manchester,27
+LeavingRightCar,201006A030776,2010,Manchester,40
+LeavingRightCar,201006B039626,2010,Manchester,28
+LeavingRightCar,201006F027860,2010,Salford,34
+LeavingRightCar,201006G026739,2010,Tameside,16
+LeavingRightCar,201006G035102,2010,Tameside,56
+LeavingRightCar,201006J035953,2010,Stockport,21
+LeavingRightCar,201006K035840,2010,Bolton,78
+LeavingRightCar,2.01007E+12,2010,Cheshire West and Chester,35
+LeavingRightCar,2.0101E+12,2010,Newcastle upon Tyne,34
+LeavingRightCar,2.0101E+12,2010,Newcastle upon Tyne,32
+LeavingRightCar,201011NF02380,2010,Durham,63
+LeavingRightCar,2.01013E+12,2010,Leeds,35
+LeavingRightCar,2.01013E+12,2010,Leeds,47
+LeavingRightCar,2.01013E+12,2010,Leeds,57
+LeavingRightCar,201014K078910,2010,Sheffield,21
+LeavingRightCar,201014K199010,2010,Sheffield,24
+LeavingRightCar,2010160D05491,2010,Kingston Upon Hull,41
+LeavingRightCar,201020D031912,2010,Birmingham,20
+LeavingRightCar,201020G002530,2010,Wolverhampton,39
+LeavingRightCar,201020T020260,2010,Birmingham,27
+LeavingRightCar,201020T041780,2010,Birmingham,26
+LeavingRightCar,2.01023E+12,2010,Warwickshire,19
+LeavingRightCar,201030C000383,2010,Derbyshire,27
+LeavingRightCar,201030D000674,2010,Derby,36
+LeavingRightCar,20103102A0782,2010,Nottinghamshire,32
+LeavingRightCar,20103102A1637,2010,Nottinghamshire,35
+LeavingRightCar,20103102B1244,2010,Nottinghamshire,23
+LeavingRightCar,20103102C1201,2010,Nottingham,
+LeavingRightCar,20103102C1202,2010,Nottingham,44
+LeavingRightCar,20103102C1721,2010,Nottingham,51
+LeavingRightCar,20103102C2285,2010,Nottingham,41
+LeavingRightCar,20103102D1689,2010,Nottinghamshire,44
+LeavingRightCar,201034NK31870,2010,Northamptonshire,20
+LeavingRightCar,2.01035E+12,2010,Cambridgeshire,19
+LeavingRightCar,2.01035E+12,2010,Cambridgeshire,59
+LeavingRightCar,2010400B01090,2010,Bedford Borough Council,34
+LeavingRightCar,20104100C0408,2010,Hertfordshire,44
+LeavingRightCar,20104100C0963,2010,Hertfordshire,38
+LeavingRightCar,20104100F0219,2010,Hertfordshire,41
+LeavingRightCar,201042I146905,2010,Essex,45
+LeavingRightCar,2.01044E+12,2010,Southampton ,34
+LeavingRightCar,2.01047E+12,2010,Brighton and Hove,33
+LeavingRightCar,2.01047E+12,2010,East Sussex,42
+LeavingRightCar,201050DE2I083,2010,Devon,42
+LeavingRightCar,201050ED2L010,2010,Plymouth,45
+LeavingRightCar,2.01052E+12,2010,City of Bristol,75
+LeavingRightCar,2.01052E+12,2010,North Somerset,41
+LeavingRightCar,2.01052E+12,2010,City of Bristol,70
+LeavingRightCar,2.01052E+12,2010,City of Bristol,35
+LeavingRightCar,2.01052E+12,2010,City of Bristol,13
+LeavingRightCar,2.01052E+12,2010,City of Bristol,23
+LeavingRightCar,201054EM04110,2010,Wiltshire,52
+LeavingRightCar,201054ES42610,2010,Wiltshire,27
+LeavingRightCar,2010550C38760,2010,Bournemouth,18
+LeavingRightCar,2011201101JC30087,2011,London,24
+LeavingRightCar,2011201101LX50624,2011,London,24
+LeavingRightCar,2011201101PY20631,2011,London,39
+LeavingRightCar,2011201101QA10118,2011,London,16
+LeavingRightCar,2011201101TA01525,2011,London,24
+LeavingRightCar,2011201101TB00737,2011,London,17
+LeavingRightCar,2011201101TB00935,2011,London,23
+LeavingRightCar,2011201101WW50565,2011,London,-1
+LeavingRightCar,2.0112E+16,2011,Cumbria,52
+LeavingRightCar,2011201104BB11101,2011,Lancashire,44
+LeavingRightCar,2011201105AA03153,2011,Merseyside,48
+LeavingRightCar,2011201106A048065,2011,Manchester,21
+LeavingRightCar,2011201106A050673,2011,Manchester,38
+LeavingRightCar,2011201106B047035,2011,Manchester,52
+LeavingRightCar,2011201106B050435,2011,Manchester,31
+LeavingRightCar,2011201106F052923,2011,Salford,30
+LeavingRightCar,2011201106F054248,2011,Salford,14
+LeavingRightCar,2011201106J046667,2011,Stockport,22
+LeavingRightCar,2011201106J053949,2011,Stockport,44
+LeavingRightCar,2011201106K041427,2011,Bolton,30
+LeavingRightCar,2011201106K052549,2011,Bolton,30
+LeavingRightCar,2011201106L051651,2011,Wigan,33
+LeavingRightCar,2011201106M041454,2011,Trafford,21
+LeavingRightCar,2011201106M053571,2011,Trafford,30
+LeavingRightCar,2011201106N050814,2011,Bury,18
+LeavingRightCar,2011201106Q045629,2011,Oldham,59
+LeavingRightCar,2011201106Q055085,2011,Oldham,26
+LeavingRightCar,2.0112E+16,2011,Gateshead,22
+LeavingRightCar,2.0112E+16,2011,South Tyneside,12
+LeavingRightCar,2.0112E+16,2011,Newcastle upon Tyne,42
+LeavingRightCar,2.0112E+16,2011,Gateshead,24
+LeavingRightCar,2.0112E+16,2011,Gateshead,43
+LeavingRightCar,2.0112E+16,2011,Newcastle upon Tyne,31
+LeavingRightCar,2.0112E+16,2011,Kirklees,47
+LeavingRightCar,2.0112E+16,2011,Leeds,42
+LeavingRightCar,2.0112E+16,2011,Leeds,11
+LeavingRightCar,2.0112E+16,2011,Kirklees,53
+LeavingRightCar,2.0112E+16,2011,Bradford,41
+LeavingRightCar,2.0112E+16,2011,Calderdale,30
+LeavingRightCar,2.0112E+16,2011,Leeds,32
+LeavingRightCar,2.0112E+16,2011,Kirklees,52
+LeavingRightCar,2011201114A161811,2011,Doncaster,50
+LeavingRightCar,2011201114K045411,2011,Sheffield,26
+LeavingRightCar,2011201114K275711,2011,Sheffield,53
+LeavingRightCar,20112011160D02471,2011,Kingston Upon Hull,26
+LeavingRightCar,2011201120L003911,2011,Solihull,21
+LeavingRightCar,2011201120S024681,2011,Birmingham,25
+LeavingRightCar,2011201120T028821,2011,Birmingham,56
+LeavingRightCar,2011201120W025701,2011,Birmingham,26
+LeavingRightCar,2011201120W043021,2011,Birmingham,38
+LeavingRightCar,2.0112E+16,2011,Staffordshire,37
+LeavingRightCar,2011201122D102510,2011,Worcestershire,62
+LeavingRightCar,2011201130B000166,2011,Derbyshire,25
+LeavingRightCar,2011201130C000419,2011,Derbyshire,42
+LeavingRightCar,2011201131A211711,2011,Nottinghamshire,-1
+LeavingRightCar,2011201131B279211,2011,Nottinghamshire,64
+LeavingRightCar,2011201131C240411,2011,Nottingham,22
+LeavingRightCar,2011201131D272611,2011,Nottinghamshire,40
+LeavingRightCar,2.0112E+16,2011,Leicestershire,39
+LeavingRightCar,2.0112E+16,2011,Leicestershire,25
+LeavingRightCar,2011201134WN43071,2011,Northamptonshire,58
+LeavingRightCar,2.0112E+16,2011,Cambridgeshire,42
+LeavingRightCar,2.0112E+16,2011,Cambridgeshire,20
+LeavingRightCar,2.0112E+16,2011,Norfolk,30
+LeavingRightCar,20112011400DA0289,2011,Central Bedfordshire,22
+LeavingRightCar,201120114100C0104,2011,Hertfordshire,14
+LeavingRightCar,201120114100C0750,2011,Hertfordshire,12
+LeavingRightCar,201120114100C1153,2011,Hertfordshire,25
+LeavingRightCar,2011201142I133905,2011,Thurrock,65
+LeavingRightCar,2011201143R009081,2011,Windsor and Maidenhead,23
+LeavingRightCar,2011201143R045101,2011,Slough,20
+LeavingRightCar,2011201143W109111,2011,West Berkshire,47
+LeavingRightCar,2011201143W222031,2011,Reading,48
+LeavingRightCar,2.0112E+16,2011,Hampshire,38
+LeavingRightCar,2.0112E+16,2011,Kent,47
+LeavingRightCar,2.0112E+16,2011,Brighton and Hove,45
+LeavingRightCar,2.0112E+16,2011,Brighton and Hove,27
+LeavingRightCar,2.0112E+16,2011,Brighton and Hove,27
+LeavingRightCar,2.0112E+16,2011,Brighton and Hove,40
+LeavingRightCar,2.0112E+16,2011,West Sussex,36
+LeavingRightCar,2011201150GP2I003,2011,Cornwall and Isles of Scilly,49
+LeavingRightCar,2.0112E+16,2011,City of Bristol,39
+LeavingRightCar,2.0112E+16,2011,City of Bristol,38
+LeavingRightCar,2.0112E+16,2011,South Gloucestershire,30
+LeavingRightCar,2.0112E+16,2011,Gloucestershire,43
+LeavingRightCar,2.0112E+16,2011,Wiltshire,75
+LeavingRightCar,2011201154A416611,2011,Wiltshire,40
+LeavingRightCar,2012201201BS70526,2012,London,40
+LeavingRightCar,2012201201CW11754,2012,London,52
+LeavingRightCar,2012201201JC30316,2012,London,43
+LeavingRightCar,2012201201LX50494,2012,London,-1
+LeavingRightCar,2012201201LX50733,2012,London,57
+LeavingRightCar,2012201201TB01147,2012,London,39
+LeavingRightCar,2.0122E+16,2012,Cumbria,16
+LeavingRightCar,2.0122E+16,2012,Cumbria,27
+LeavingRightCar,2012201204BC12029,2012,Lancashire,43
+LeavingRightCar,2012201204DF12039,2012,Lancashire,43
+LeavingRightCar,2012201205AA01376,2012,Merseyside,18
+LeavingRightCar,2012201205AA06311,2012,Merseyside,30
+LeavingRightCar,2012201205BB03898,2012,Merseyside,52
+LeavingRightCar,2012201205BB05593,2012,Merseyside,22
+LeavingRightCar,2012201205FF01212,2012,Merseyside,38
+LeavingRightCar,2012201205FF03446,2012,Merseyside,45
+LeavingRightCar,2012201205FF04392,2012,Merseyside,6
+LeavingRightCar,2012201205FF04495,2012,Merseyside,40
+LeavingRightCar,2012201205FF05808,2012,Merseyside,25
+LeavingRightCar,2012201205FF06304,2012,Merseyside,20
+LeavingRightCar,2012201206A065592,2012,Manchester,41
+LeavingRightCar,2012201206A066328,2012,Manchester,31
+LeavingRightCar,2012201206G059377,2012,Tameside,17
+LeavingRightCar,2012201206M058431,2012,Trafford,24
+LeavingRightCar,2012201206N059409,2012,Bury,30
+LeavingRightCar,2012201206P064619,2012,Rochdale,23
+LeavingRightCar,2.0122E+16,2012,Newcastle upon Tyne,51
+LeavingRightCar,2.0122E+16,2012,South Tyneside,57
+LeavingRightCar,2.0122E+16,2012,South Tyneside,39
+LeavingRightCar,2.0122E+16,2012,North Yorkshire,48
+LeavingRightCar,2.0122E+16,2012,North Yorkshire,52
+LeavingRightCar,2.0122E+16,2012,York,19
+LeavingRightCar,2.0122E+16,2012,Leeds,19
+LeavingRightCar,2.0122E+16,2012,Leeds,11
+LeavingRightCar,2.0122E+16,2012,Leeds,38
+LeavingRightCar,2.0122E+16,2012,Calderdale,51
+LeavingRightCar,2.0122E+16,2012,Leeds,32
+LeavingRightCar,2012201214K218712,2012,Sheffield,26
+LeavingRightCar,2012201214K271312,2012,Sheffield,44
+LeavingRightCar,20122012160D07141,2012,Kingston Upon Hull,53
+LeavingRightCar,2012201220G005662,2012,Wolverhampton,35
+LeavingRightCar,2012201220G011752,2012,Wolverhampton,45
+LeavingRightCar,2012201220H003272,2012,Walsall,14
+LeavingRightCar,2012201220M001842,2012,Coventry,27
+LeavingRightCar,2012201220M500522,2012,Coventry,21
+LeavingRightCar,2012201220S006542,2012,Birmingham,45
+LeavingRightCar,2012201220T033652,2012,Birmingham,37
+LeavingRightCar,2012201220T045102,2012,Birmingham,62
+LeavingRightCar,2.0122E+16,2012,Stoke on Trent,52
+LeavingRightCar,2.0122E+16,2012,Staffordshire,37
+LeavingRightCar,2012201230B001301,2012,Derbyshire,32
+LeavingRightCar,2012201230C001353,2012,Derbyshire,48
+LeavingRightCar,2012201230D001421,2012,Derbyshire,17
+LeavingRightCar,2012201230D002115,2012,Derbyshire,58
+LeavingRightCar,2012201231B000812,2012,Nottinghamshire,74
+LeavingRightCar,2012201231B176212,2012,Nottinghamshire,40
+LeavingRightCar,2012201231C082112,2012,Nottingham,20
+LeavingRightCar,2012201231D182112,2012,Nottinghamshire,50
+LeavingRightCar,2.0122E+16,2012,Leicestershire,61
+LeavingRightCar,2.0122E+16,2012,Leicestershire,36
+LeavingRightCar,2.0122E+16,2012,Cambridgeshire,41
+LeavingRightCar,2.0122E+16,2012,Cambridgeshire,30
+LeavingRightCar,2.0122E+16,2012,Cambridgeshire,40
+LeavingRightCar,2.0122E+16,2012,Peterborough,18
+LeavingRightCar,2.0122E+16,2012,Norfolk,24
+LeavingRightCar,2.0122E+16,2012,Norfolk,28
+LeavingRightCar,2.0122E+16,2012,Norfolk,33
+LeavingRightCar,2012201236T120142,2012,Norfolk,13
+LeavingRightCar,2012201242I243608,2012,Essex,53
+LeavingRightCar,2012201243P274012,2012,Oxfordshire,47
+LeavingRightCar,2012201243R029102,2012,Slough,40
+LeavingRightCar,2012201243R073052,2012,Slough,16
+LeavingRightCar,2.0122E+16,2012,Southampton ,51
+LeavingRightCar,2012201245SP67568,2012,Surrey,44
+LeavingRightCar,2.0122E+16,2012,Kent,45
+LeavingRightCar,2.0122E+16,2012,Kent,-1
+LeavingRightCar,2.0122E+16,2012,Kent,-1
+LeavingRightCar,2.0122E+16,2012,Kent,41
+LeavingRightCar,2.0122E+16,2012,West Sussex,65
+LeavingRightCar,2.0122E+16,2012,Brighton and Hove,25
+LeavingRightCar,2.0122E+16,2012,East Sussex,27
+LeavingRightCar,2.0122E+16,2012,South Gloucestershire,39
+LeavingRightCar,2.0122E+16,2012,City of Bristol,47
+LeavingRightCar,2.0122E+16,2012,City of Bristol,23
+LeavingRightCar,2.0122E+16,2012,City of Bristol,27
+LeavingRightCar,2.0122E+16,2012,Gloucestershire,36
+LeavingRightCar,2.0122E+16,2012,Wiltshire,53

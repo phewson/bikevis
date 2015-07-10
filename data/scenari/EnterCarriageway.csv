@@ -1,0 +1,31 @@
+Scenario,urn,accyr,LAName,Age
+EnterCarriageway,1.99935E+12,1999,Peterborough,8
+EnterCarriageway,19994200F0433,1999,Thurrock,
+EnterCarriageway,2000317A80537,2000,Nottinghamshire,9
+EnterCarriageway,200143W668061,2001,Reading,12
+EnterCarriageway,200245RS28505,2002,Surrey,11
+EnterCarriageway,2.00435E+12,2004,Peterborough,12
+EnterCarriageway,2.00536E+12,2005,Norfolk,15
+EnterCarriageway,2.00546E+12,2005,Kent,9
+EnterCarriageway,2.00635E+12,2006,Peterborough,12
+EnterCarriageway,2.00647E+12,2006,West Sussex,16
+EnterCarriageway,200704CM07158,2007,Lancashire,9
+EnterCarriageway,200730D000182,2007,Derby,19
+EnterCarriageway,2.00735E+12,2007,Peterborough,15
+EnterCarriageway,2.00736E+12,2007,Norfolk,13
+EnterCarriageway,200743N019027,2007,Buckinghamshire,12
+EnterCarriageway,200743W034107,2007,Wokingham,14
+EnterCarriageway,2.00807E+12,2008,Cheshire West and Chester,11
+EnterCarriageway,200843S082048,2008,Milton Keynes,13
+EnterCarriageway,2.00846E+12,2008,Kent,46
+EnterCarriageway,2.00936E+12,2009,Norfolk,10
+EnterCarriageway,200937B041892,2009,Suffolk,18
+EnterCarriageway,200937G027361,2009,Suffolk,26
+EnterCarriageway,2.01036E+12,2010,Norfolk,20
+EnterCarriageway,2.01036E+12,2010,Norfolk,8
+EnterCarriageway,2.0112E+16,2011,Norfolk,5
+EnterCarriageway,2.0112E+16,2011,Kent,51
+EnterCarriageway,2.0112E+16,2011,Kent,7
+EnterCarriageway,2.0122E+16,2012,Norfolk,30
+EnterCarriageway,2012201236T120206,2012,Norfolk,16
+EnterCarriageway,2012201245EL74553,2012,Surrey,18

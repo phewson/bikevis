@@ -1,0 +1,1010 @@
+Scenario,urn,accyr,LAName,Age
+BikeCarEnteringRoundabout,199901DP00472,1999,London,
+BikeCarEnteringRoundabout,199901JL00078,1999,London,40
+BikeCarEnteringRoundabout,199904E085499,1999,Blackburn with Darwen,47
+BikeCarEnteringRoundabout,199904F072099,1999,Lancashire,38
+BikeCarEnteringRoundabout,199910J150299,1999,Gateshead,30
+BikeCarEnteringRoundabout,1.99912E+12,1999,North Yorkshire,56
+BikeCarEnteringRoundabout,199916D005199,1999,Kingston Upon Hull,38
+BikeCarEnteringRoundabout,199917S200366,1999,Stockton on Tees,20
+BikeCarEnteringRoundabout,199920L131201,1999,Solihull,40
+BikeCarEnteringRoundabout,1.99922E+12,1999,Staffordshire,34
+BikeCarEnteringRoundabout,1.99935E+12,1999,Cambridgeshire,33
+BikeCarEnteringRoundabout,2.00E+247,1999,Essex,40
+BikeCarEnteringRoundabout,1999440DT0008,1999,Hampshire,51
+BikeCarEnteringRoundabout,1999440JH0121,1999,Hampshire,74
+BikeCarEnteringRoundabout,1999440RC0074,1999,Portsmouth,34
+BikeCarEnteringRoundabout,199945NC00336,1999,Surrey,18
+BikeCarEnteringRoundabout,199946CT07248,1999,Kent,31
+BikeCarEnteringRoundabout,199947C003020,1999,Brighton and Hove,50
+BikeCarEnteringRoundabout,199947X002915,1999,West Sussex,55
+BikeCarEnteringRoundabout,199950D415953,1999,Devon,15
+BikeCarEnteringRoundabout,199950E311476,1999,Plymouth,30
+BikeCarEnteringRoundabout,199950E311523,1999,Plymouth,35
+BikeCarEnteringRoundabout,1.99952E+12,1999,City of Bristol,28
+BikeCarEnteringRoundabout,1999530AI0910,1999,Gloucestershire,68
+BikeCarEnteringRoundabout,199954DN07379,1999,Swindon,26
+BikeCarEnteringRoundabout,1999550B01253,1999,Bournemouth,
+BikeCarEnteringRoundabout,1999550B02382,1999,Bournemouth,31
+BikeCarEnteringRoundabout,1999550B03463,1999,Bournemouth,29
+BikeCarEnteringRoundabout,200001HT01134,2000,London,32
+BikeCarEnteringRoundabout,200001JI00357,2000,London,55
+BikeCarEnteringRoundabout,200001TW00322,2000,London,
+BikeCarEnteringRoundabout,200006F007096,2000,Salford,25
+BikeCarEnteringRoundabout,2.00007E+12,2000,Cheshire West and Chester,25
+BikeCarEnteringRoundabout,200010C006300,2000,Northumberland,30
+BikeCarEnteringRoundabout,200010G176000,2000,North Tyneside,63
+BikeCarEnteringRoundabout,200010I397600,2000,North Tyneside,25
+BikeCarEnteringRoundabout,200010K267700,2000,Gateshead,30
+BikeCarEnteringRoundabout,200013AA11800,2000,Leeds,61
+BikeCarEnteringRoundabout,200020D240201,2000,Birmingham,48
+BikeCarEnteringRoundabout,200020H093102,2000,Walsall,17
+BikeCarEnteringRoundabout,200022AA13577,2000,Worcestershire,34
+BikeCarEnteringRoundabout,2.00023E+12,2000,Warwickshire,
+BikeCarEnteringRoundabout,200032D007840,2000,Lincolnshire,13
+BikeCarEnteringRoundabout,2000400C00788,2000,Luton,35
+BikeCarEnteringRoundabout,2000400D02705,2000,Central Bedfordshire,18
+BikeCarEnteringRoundabout,200043N208040,2000,Buckinghamshire,31
+BikeCarEnteringRoundabout,200043P005070,2000,Oxfordshire,33
+BikeCarEnteringRoundabout,200043P278070,2000,Oxfordshire,35
+BikeCarEnteringRoundabout,200043S189110,2000,Milton Keynes,36
+BikeCarEnteringRoundabout,200043W182080,2000,Wokingham,15
+BikeCarEnteringRoundabout,2000440AA1217,2000,Hampshire,75
+BikeCarEnteringRoundabout,2000440DR0175,2000,Hampshire,45
+BikeCarEnteringRoundabout,2000440HF0529,2000,Hampshire,54
+BikeCarEnteringRoundabout,2000440JH0051,2000,Hampshire,30
+BikeCarEnteringRoundabout,2000440KS0682,2000,Portsmouth,51
+BikeCarEnteringRoundabout,2000440NA0607,2000,Hampshire,28
+BikeCarEnteringRoundabout,200047Y127272,2000,West Sussex,59
+BikeCarEnteringRoundabout,200050D212175,2000,Devon,27
+BikeCarEnteringRoundabout,200050D215848,2000,Devon,48
+BikeCarEnteringRoundabout,200050E412814,2000,Plymouth,35
+BikeCarEnteringRoundabout,200054DN43600,2000,Swindon,40
+BikeCarEnteringRoundabout,2000550B00452,2000,Bournemouth,31
+BikeCarEnteringRoundabout,2000550P00791,2000,Poole,24
+BikeCarEnteringRoundabout,200101DM01101,2001,London,
+BikeCarEnteringRoundabout,200101MM00085,2001,London,26
+BikeCarEnteringRoundabout,200101MM00743,2001,London,32
+BikeCarEnteringRoundabout,200101PL01004,2001,London,46
+BikeCarEnteringRoundabout,200101RG00811,2001,London,24
+BikeCarEnteringRoundabout,200101TW00085,2001,London,45
+BikeCarEnteringRoundabout,2.00103E+12,2001,Cumbria,21
+BikeCarEnteringRoundabout,2.00105E+12,2001,Merseyside,25
+BikeCarEnteringRoundabout,200106L009452,2001,Wigan,43
+BikeCarEnteringRoundabout,200106M007577,2001,Trafford,37
+BikeCarEnteringRoundabout,200106N006903,2001,Bury,53
+BikeCarEnteringRoundabout,200110D065701,2001,Newcastle upon Tyne,32
+BikeCarEnteringRoundabout,200110I102601,2001,North Tyneside,37
+BikeCarEnteringRoundabout,200110I297301,2001,North Tyneside,36
+BikeCarEnteringRoundabout,2.00112E+12,2001,York,
+BikeCarEnteringRoundabout,2.00113E+12,2001,Leeds,27
+BikeCarEnteringRoundabout,2.00113E+12,2001,Leeds,34
+BikeCarEnteringRoundabout,200114FF00787,2001,Rotherham,
+BikeCarEnteringRoundabout,2.00121E+12,2001,Staffordshire,42
+BikeCarEnteringRoundabout,2.00121E+12,2001,Staffordshire,
+BikeCarEnteringRoundabout,200136N011541,2001,Norfolk,23
+BikeCarEnteringRoundabout,2001400D02543,2001,Central Bedfordshire,50
+BikeCarEnteringRoundabout,20014200A0937,2001,Essex,44
+BikeCarEnteringRoundabout,2.00E+244,2001,Essex,11
+BikeCarEnteringRoundabout,200143P300061,2001,Oxfordshire,48
+BikeCarEnteringRoundabout,2.00146E+12,2001,Medway,16
+BikeCarEnteringRoundabout,200147Y145203,2001,West Sussex,32
+BikeCarEnteringRoundabout,200150A310031,2001,Cornwall and Isles of Scilly,50
+BikeCarEnteringRoundabout,200150A313268,2001,Cornwall and Isles of Scilly,17
+BikeCarEnteringRoundabout,200201DM01282,2002,London,36
+BikeCarEnteringRoundabout,200201DM02252,2002,London,
+BikeCarEnteringRoundabout,200201GD00375,2002,London,30
+BikeCarEnteringRoundabout,200201MM00189,2002,London,40
+BikeCarEnteringRoundabout,200206M009446,2002,Trafford,12
+BikeCarEnteringRoundabout,2.00207E+12,2002,Cheshire West and Chester,33
+BikeCarEnteringRoundabout,2.0021E+12,2002,North Tyneside,50
+BikeCarEnteringRoundabout,2.00212E+12,2002,York,
+BikeCarEnteringRoundabout,2.00221E+12,2002,Stoke on Trent,
+BikeCarEnteringRoundabout,2.00236E+12,2002,Norfolk,21
+BikeCarEnteringRoundabout,20024100B0456,2002,Hertfordshire,15
+BikeCarEnteringRoundabout,20024100K0465,2002,Hertfordshire,38
+BikeCarEnteringRoundabout,200243W705102,2002,Reading,58
+BikeCarEnteringRoundabout,2002440KK0739,2002,Portsmouth,22
+BikeCarEnteringRoundabout,200246WK67192,2002,Kent,22
+BikeCarEnteringRoundabout,200247C149122,2002,West Sussex,27
+BikeCarEnteringRoundabout,200247K153169,2002,West Sussex,21
+BikeCarEnteringRoundabout,200247Y148810,2002,West Sussex,15
+BikeCarEnteringRoundabout,2.00252E+12,2002,South Gloucestershire,33
+BikeCarEnteringRoundabout,200301LX01097,2003,London,51
+BikeCarEnteringRoundabout,200306K014657,2003,Bolton,32
+BikeCarEnteringRoundabout,2.00307E+12,2003,Cheshire West and Chester,37
+BikeCarEnteringRoundabout,2.00307E+12,2003,Cheshire East,45
+BikeCarEnteringRoundabout,2.00312E+12,2003,York,35
+BikeCarEnteringRoundabout,2.00312E+12,2003,York,19
+BikeCarEnteringRoundabout,200314HH00334,2003,Sheffield,70
+BikeCarEnteringRoundabout,2003170S30923,2003,Stockton on Tees,13
+BikeCarEnteringRoundabout,200320D422301,2003,Birmingham,35
+BikeCarEnteringRoundabout,20033102B2251,2003,Nottinghamshire,66
+BikeCarEnteringRoundabout,2.00333E+12,2003,Leicestershire,45
+BikeCarEnteringRoundabout,2.00335E+12,2003,Peterborough,37
+BikeCarEnteringRoundabout,2.00335E+12,2003,Cambridgeshire,69
+BikeCarEnteringRoundabout,20034200D0176,2003,Essex,46
+BikeCarEnteringRoundabout,20034200H0469,2003,Southend on Sea,43
+BikeCarEnteringRoundabout,200343P348073,2003,Oxfordshire,33
+BikeCarEnteringRoundabout,2003440SC0669,2003,Southampton ,35
+BikeCarEnteringRoundabout,200346TH77851,2003,Kent,41
+BikeCarEnteringRoundabout,200346TH79042,2003,Kent,59
+BikeCarEnteringRoundabout,200347K162987,2003,West Sussex,38
+BikeCarEnteringRoundabout,200347K172913,2003,West Sussex,27
+BikeCarEnteringRoundabout,200401MM70311,2004,London,36
+BikeCarEnteringRoundabout,200401TB00431,2004,London,50
+BikeCarEnteringRoundabout,200406L016710,2004,Wigan,24
+BikeCarEnteringRoundabout,2.0041E+12,2004,Newcastle upon Tyne,24
+BikeCarEnteringRoundabout,2.00412E+12,2004,York,21
+BikeCarEnteringRoundabout,2.00421E+12,2004,Staffordshire,39
+BikeCarEnteringRoundabout,200430C000779,2004,Derbyshire,37
+BikeCarEnteringRoundabout,2.00433E+12,2004,Leicestershire,30
+BikeCarEnteringRoundabout,20044100J2577,2004,Hertfordshire,71
+BikeCarEnteringRoundabout,20044200C0885,2004,Essex,19
+BikeCarEnteringRoundabout,20044200E0538,2004,Essex,26
+BikeCarEnteringRoundabout,200443S076084,2004,Milton Keynes,70
+BikeCarEnteringRoundabout,2004440ST0114,2004,Hampshire,36
+BikeCarEnteringRoundabout,200445EP62047,2004,Surrey,32
+BikeCarEnteringRoundabout,200445SU56268,2004,Surrey,13
+BikeCarEnteringRoundabout,200450A33O838,2004,Cornwall and Isles of Scilly,51
+BikeCarEnteringRoundabout,200454DW52904,2004,Swindon,46
+BikeCarEnteringRoundabout,2004550P00960,2004,Poole,37
+BikeCarEnteringRoundabout,200504EN05039,2005,Lancashire,38
+BikeCarEnteringRoundabout,200505BB03808,2005,Merseyside,13
+BikeCarEnteringRoundabout,200506G037677,2005,Tameside,48
+BikeCarEnteringRoundabout,200506J038046,2005,Stockport,57
+BikeCarEnteringRoundabout,200506L039427,2005,Wigan,55
+BikeCarEnteringRoundabout,200506M028043,2005,Trafford,80
+BikeCarEnteringRoundabout,200506M039479,2005,Trafford,26
+BikeCarEnteringRoundabout,200506P025524,2005,Rochdale,47
+BikeCarEnteringRoundabout,2.00507E+12,2005,Halton,39
+BikeCarEnteringRoundabout,2.00507E+12,2005,Warrington,46
+BikeCarEnteringRoundabout,2.00507E+12,2005,Warrington,37
+BikeCarEnteringRoundabout,2.00507E+12,2005,Warrington,27
+BikeCarEnteringRoundabout,2.00512E+12,2005,York,30
+BikeCarEnteringRoundabout,2.00513E+12,2005,Wakefield,33
+BikeCarEnteringRoundabout,200514C145005,2005,Rotherham,28
+BikeCarEnteringRoundabout,2005160B03760,2005,North Lincolnshire,26
+BikeCarEnteringRoundabout,2005160B04650,2005,North Lincolnshire,33
+BikeCarEnteringRoundabout,200520D200002,2005,Birmingham,
+BikeCarEnteringRoundabout,200520D216101,2005,Birmingham,22
+BikeCarEnteringRoundabout,200520D365001,2005,Birmingham,36
+BikeCarEnteringRoundabout,200520E016802,2005,Birmingham,27
+BikeCarEnteringRoundabout,200520F034202,2005,Birmingham,32
+BikeCarEnteringRoundabout,200520M069202,2005,Coventry,40
+BikeCarEnteringRoundabout,2.00522E+12,2005,Staffordshire,70
+BikeCarEnteringRoundabout,2.00522E+12,2005,Staffordshire,41
+BikeCarEnteringRoundabout,200522CG48821,2005,Worcestershire,66
+BikeCarEnteringRoundabout,2.00523E+12,2005,Warwickshire,
+BikeCarEnteringRoundabout,2.00523E+12,2005,Warwickshire,30
+BikeCarEnteringRoundabout,200530D000636,2005,Derby,15
+BikeCarEnteringRoundabout,20053102D1176,2005,Nottinghamshire,
+BikeCarEnteringRoundabout,200532C544005,2005,Lincolnshire,35
+BikeCarEnteringRoundabout,2.00535E+12,2005,Cambridgeshire,60
+BikeCarEnteringRoundabout,2.00535E+12,2005,Peterborough,
+BikeCarEnteringRoundabout,200537B023076,2005,Suffolk,15
+BikeCarEnteringRoundabout,200537B023220,2005,Suffolk,24
+BikeCarEnteringRoundabout,200537G017986,2005,Suffolk,30
+BikeCarEnteringRoundabout,200537G018358,2005,Suffolk,55
+BikeCarEnteringRoundabout,200540C030630,2005,Luton,83
+BikeCarEnteringRoundabout,20054100D0134,2005,Hertfordshire,42
+BikeCarEnteringRoundabout,200542B012505,2005,Essex,42
+BikeCarEnteringRoundabout,200542D004601,2005,Essex,17
+BikeCarEnteringRoundabout,200542E012904,2005,Essex,40
+BikeCarEnteringRoundabout,200542F039109,2005,Thurrock,11
+BikeCarEnteringRoundabout,200542G028405,2005,Essex,40
+BikeCarEnteringRoundabout,200542H033608,2005,Southend on Sea,22
+BikeCarEnteringRoundabout,200543N205095,2005,Milton Keynes,32
+BikeCarEnteringRoundabout,200543W074075,2005,Slough,25
+BikeCarEnteringRoundabout,200543W116015,2005,Windsor and Maidenhead,54
+BikeCarEnteringRoundabout,200543W191035,2005,Slough,31
+BikeCarEnteringRoundabout,200543W467125,2005,Bracknell Forest,17
+BikeCarEnteringRoundabout,2.00544E+12,2005,Hampshire,28
+BikeCarEnteringRoundabout,2.00544E+12,2005,Hampshire,31
+BikeCarEnteringRoundabout,2.00544E+12,2005,Southampton ,26
+BikeCarEnteringRoundabout,2.00544E+12,2005,Hampshire,
+BikeCarEnteringRoundabout,2.00544E+12,2005,Hampshire,23
+BikeCarEnteringRoundabout,2.00544E+12,2005,Portsmouth,18
+BikeCarEnteringRoundabout,200545GU63254,2005,Surrey,41
+BikeCarEnteringRoundabout,2.00546E+12,2005,Kent,51
+BikeCarEnteringRoundabout,2.00546E+12,2005,Kent,40
+BikeCarEnteringRoundabout,2.00546E+12,2005,Kent,41
+BikeCarEnteringRoundabout,2.00546E+12,2005,Kent,26
+BikeCarEnteringRoundabout,2.00546E+12,2005,Kent,15
+BikeCarEnteringRoundabout,2.00547E+12,2005,West Sussex,26
+BikeCarEnteringRoundabout,2.00547E+12,2005,East Sussex,49
+BikeCarEnteringRoundabout,2.00547E+12,2005,West Sussex,28
+BikeCarEnteringRoundabout,2.00547E+12,2005,West Sussex,63
+BikeCarEnteringRoundabout,2.00547E+12,2005,Brighton and Hove,25
+BikeCarEnteringRoundabout,2.00547E+12,2005,West Sussex,58
+BikeCarEnteringRoundabout,2.00547E+12,2005,West Sussex,30
+BikeCarEnteringRoundabout,2.00547E+12,2005,West Sussex,21
+BikeCarEnteringRoundabout,2.00547E+12,2005,West Sussex,63
+BikeCarEnteringRoundabout,2.00547E+12,2005,Brighton and Hove,34
+BikeCarEnteringRoundabout,2.00547E+12,2005,East Sussex,20
+BikeCarEnteringRoundabout,2.00547E+12,2005,West Sussex,15
+BikeCarEnteringRoundabout,2.00547E+12,2005,West Sussex,63
+BikeCarEnteringRoundabout,2.00547E+12,2005,West Sussex,74
+BikeCarEnteringRoundabout,200550D21H434,2005,Devon,23
+BikeCarEnteringRoundabout,2.00552E+12,2005,Bath and North East Somerset,43
+BikeCarEnteringRoundabout,2.00552E+12,2005,Somerset,45
+BikeCarEnteringRoundabout,2.00552E+12,2005,Bath and North East Somerset,
+BikeCarEnteringRoundabout,2.00552E+12,2005,Somerset,48
+BikeCarEnteringRoundabout,2.00553E+12,2005,Gloucestershire,45
+BikeCarEnteringRoundabout,200554AZ47905,2005,Wiltshire,20
+BikeCarEnteringRoundabout,200554DW52105,2005,Swindon,30
+BikeCarEnteringRoundabout,2005555B03757,2005,Bournemouth,33
+BikeCarEnteringRoundabout,2005555P02125,2005,Poole,42
+BikeCarEnteringRoundabout,200601MM70569,2006,London,45
+BikeCarEnteringRoundabout,200601PL60238,2006,London,15
+BikeCarEnteringRoundabout,200601TX20354,2006,London,40
+BikeCarEnteringRoundabout,200601TX20740,2006,London,46
+BikeCarEnteringRoundabout,200604CM06088,2006,Lancashire,55
+BikeCarEnteringRoundabout,200604EA06301,2006,Blackburn with Darwen,38
+BikeCarEnteringRoundabout,200605BB10357,2006,Merseyside,58
+BikeCarEnteringRoundabout,200606L062902,2006,Wigan,36
+BikeCarEnteringRoundabout,2.00607E+12,2006,Cheshire West and Chester,28
+BikeCarEnteringRoundabout,2.00607E+12,2006,Cheshire East,
+BikeCarEnteringRoundabout,2.00607E+12,2006,Warrington,48
+BikeCarEnteringRoundabout,200611DJ03950,2006,Darlington,48
+BikeCarEnteringRoundabout,2.00612E+12,2006,York,27
+BikeCarEnteringRoundabout,2.00612E+12,2006,North Yorkshire,25
+BikeCarEnteringRoundabout,2.00612E+12,2006,York,44
+BikeCarEnteringRoundabout,2.00612E+12,2006,North Yorkshire,42
+BikeCarEnteringRoundabout,2.00612E+12,2006,York,33
+BikeCarEnteringRoundabout,2.00613E+12,2006,Wakefield,34
+BikeCarEnteringRoundabout,200614A209506,2006,Doncaster,26
+BikeCarEnteringRoundabout,200614D010106,2006,Sheffield,26
+BikeCarEnteringRoundabout,200614G110706,2006,Sheffield,27
+BikeCarEnteringRoundabout,200614H045606,2006,Sheffield,34
+BikeCarEnteringRoundabout,200614H193506,2006,Sheffield,30
+BikeCarEnteringRoundabout,2006160A01880,2006,North East Lincolnshire,41
+BikeCarEnteringRoundabout,2006160C01850,2006,East Riding of Yorkshire,13
+BikeCarEnteringRoundabout,200620D113602,2006,Birmingham,54
+BikeCarEnteringRoundabout,200620K018102,2006,Sandwell,26
+BikeCarEnteringRoundabout,2.00622E+12,2006,Staffordshire,21
+BikeCarEnteringRoundabout,2.00622E+12,2006,Stoke on Trent,43
+BikeCarEnteringRoundabout,2.00622E+12,2006,Staffordshire,19
+BikeCarEnteringRoundabout,200622CA85057,2006,Worcestershire,52
+BikeCarEnteringRoundabout,200630A000656,2006,Derbyshire,15
+BikeCarEnteringRoundabout,20063102C2263,2006,Nottingham,54
+BikeCarEnteringRoundabout,200632D395906,2006,Lincolnshire,27
+BikeCarEnteringRoundabout,2.00635E+12,2006,Peterborough,
+BikeCarEnteringRoundabout,2.00635E+12,2006,Cambridgeshire,
+BikeCarEnteringRoundabout,2.00635E+12,2006,Peterborough,45
+BikeCarEnteringRoundabout,2.00635E+12,2006,Cambridgeshire,63
+BikeCarEnteringRoundabout,2.00635E+12,2006,Cambridgeshire,22
+BikeCarEnteringRoundabout,2.00635E+12,2006,Cambridgeshire,37
+BikeCarEnteringRoundabout,2.00635E+12,2006,Cambridgeshire,
+BikeCarEnteringRoundabout,2.00635E+12,2006,Cambridgeshire,19
+BikeCarEnteringRoundabout,200637G021093,2006,Suffolk,33
+BikeCarEnteringRoundabout,200640D021370,2006,Central Bedfordshire,43
+BikeCarEnteringRoundabout,20064100C1054,2006,Hertfordshire,30
+BikeCarEnteringRoundabout,20064100G0016,2006,Hertfordshire,53
+BikeCarEnteringRoundabout,200642D017706,2006,Essex,20
+BikeCarEnteringRoundabout,200642I412710,2006,Essex,45
+BikeCarEnteringRoundabout,200642I560510,2006,Essex,32
+BikeCarEnteringRoundabout,200643P310066,2006,Oxfordshire,42
+BikeCarEnteringRoundabout,200643W054016,2006,West Berkshire,30
+BikeCarEnteringRoundabout,200643W348016,2006,Windsor and Maidenhead,50
+BikeCarEnteringRoundabout,200643W363016,2006,Slough,22
+BikeCarEnteringRoundabout,2.00644E+12,2006,Hampshire,55
+BikeCarEnteringRoundabout,2.00644E+12,2006,Southampton ,41
+BikeCarEnteringRoundabout,2.00644E+12,2006,Portsmouth,61
+BikeCarEnteringRoundabout,2.00644E+12,2006,Hampshire,44
+BikeCarEnteringRoundabout,2.00644E+12,2006,Hampshire,17
+BikeCarEnteringRoundabout,200645EP80622,2006,Surrey,17
+BikeCarEnteringRoundabout,200645EP82215,2006,Surrey,21
+BikeCarEnteringRoundabout,200645GU90566,2006,Surrey,42
+BikeCarEnteringRoundabout,200645GU93654,2006,Surrey,33
+BikeCarEnteringRoundabout,200645RU79117,2006,Surrey,54
+BikeCarEnteringRoundabout,200645RU86075,2006,Surrey,46
+BikeCarEnteringRoundabout,200645SP83350,2006,Surrey,36
+BikeCarEnteringRoundabout,200645WO85233,2006,Surrey,34
+BikeCarEnteringRoundabout,2.00646E+12,2006,Kent,13
+BikeCarEnteringRoundabout,2.00646E+12,2006,Kent,26
+BikeCarEnteringRoundabout,2.00646E+12,2006,Kent,27
+BikeCarEnteringRoundabout,2.00646E+12,2006,Kent,34
+BikeCarEnteringRoundabout,2.00646E+12,2006,Kent,24
+BikeCarEnteringRoundabout,2.00646E+12,2006,Kent,19
+BikeCarEnteringRoundabout,2.00646E+12,2006,Kent,43
+BikeCarEnteringRoundabout,2.00647E+12,2006,West Sussex,50
+BikeCarEnteringRoundabout,2.00647E+12,2006,West Sussex,54
+BikeCarEnteringRoundabout,2.00647E+12,2006,West Sussex,52
+BikeCarEnteringRoundabout,200650D31G717,2006,Devon,16
+BikeCarEnteringRoundabout,200650D31Q192,2006,Devon,
+BikeCarEnteringRoundabout,200650F51Q061,2006,Devon,48
+BikeCarEnteringRoundabout,2.00652E+12,2006,Bath and North East Somerset,79
+BikeCarEnteringRoundabout,2.00652E+12,2006,Bath and North East Somerset,27
+BikeCarEnteringRoundabout,2.00652E+12,2006,City of Bristol,51
+BikeCarEnteringRoundabout,2.00652E+12,2006,Somerset,47
+BikeCarEnteringRoundabout,2.00653E+12,2006,Gloucestershire,33
+BikeCarEnteringRoundabout,2.00653E+12,2006,Gloucestershire,33
+BikeCarEnteringRoundabout,200654CT18106,2006,Wiltshire,42
+BikeCarEnteringRoundabout,200654DC59806,2006,Swindon,20
+BikeCarEnteringRoundabout,200654DN32906,2006,Swindon,47
+BikeCarEnteringRoundabout,2006556P03486,2006,Poole,48
+BikeCarEnteringRoundabout,200701GD68315,2007,London,55
+BikeCarEnteringRoundabout,200701KG68856,2007,London,48
+BikeCarEnteringRoundabout,200701MD63538,2007,London,32
+BikeCarEnteringRoundabout,200701PY62853,2007,London,51
+BikeCarEnteringRoundabout,200704CL07069,2007,Lancashire,62
+BikeCarEnteringRoundabout,200705BB14336,2007,Merseyside,15
+BikeCarEnteringRoundabout,200705BB19423,2007,Merseyside,64
+BikeCarEnteringRoundabout,200705FF16501,2007,Merseyside,35
+BikeCarEnteringRoundabout,200706G078207,2007,Tameside,41
+BikeCarEnteringRoundabout,200706J080281,2007,Stockport,21
+BikeCarEnteringRoundabout,200706M079624,2007,Trafford,44
+BikeCarEnteringRoundabout,2.00707E+12,2007,Cheshire West and Chester,43
+BikeCarEnteringRoundabout,2.00707E+12,2007,Cheshire West and Chester,48
+BikeCarEnteringRoundabout,2.0071E+12,2007,South Tyneside,14
+BikeCarEnteringRoundabout,200711BD12490,2007,Durham,29
+BikeCarEnteringRoundabout,2.00712E+12,2007,North Yorkshire,62
+BikeCarEnteringRoundabout,2.00712E+12,2007,York,53
+BikeCarEnteringRoundabout,2.00712E+12,2007,York,18
+BikeCarEnteringRoundabout,2.00712E+12,2007,North Yorkshire,35
+BikeCarEnteringRoundabout,2.00712E+12,2007,York,35
+BikeCarEnteringRoundabout,2.00713E+12,2007,Leeds,25
+BikeCarEnteringRoundabout,2.00713E+12,2007,Leeds,30
+BikeCarEnteringRoundabout,200714B110107,2007,Barnsley,
+BikeCarEnteringRoundabout,200714C031707,2007,Rotherham,44
+BikeCarEnteringRoundabout,200714C142807,2007,Rotherham,46
+BikeCarEnteringRoundabout,200714G009507,2007,Sheffield,51
+BikeCarEnteringRoundabout,200714G153207,2007,Sheffield,24
+BikeCarEnteringRoundabout,2007160C06810,2007,East Riding of Yorkshire,13
+BikeCarEnteringRoundabout,2007160D00180,2007,Kingston Upon Hull,34
+BikeCarEnteringRoundabout,2007160D08070,2007,Kingston Upon Hull,37
+BikeCarEnteringRoundabout,2007170S12597,2007,Stockton on Tees,37
+BikeCarEnteringRoundabout,2007170S12847,2007,Stockton on Tees,27
+BikeCarEnteringRoundabout,200720D299002,2007,Birmingham,
+BikeCarEnteringRoundabout,200720E064901,2007,Birmingham,27
+BikeCarEnteringRoundabout,200720E070502,2007,Birmingham,23
+BikeCarEnteringRoundabout,200720E179402,2007,Birmingham,65
+BikeCarEnteringRoundabout,200720K010901,2007,Sandwell,
+BikeCarEnteringRoundabout,200720L040401,2007,Solihull,59
+BikeCarEnteringRoundabout,200720M011201,2007,Coventry,46
+BikeCarEnteringRoundabout,200720M031303,2007,Coventry,17
+BikeCarEnteringRoundabout,2.00722E+12,2007,Staffordshire,58
+BikeCarEnteringRoundabout,2.00722E+12,2007,Staffordshire,20
+BikeCarEnteringRoundabout,2.00722E+12,2007,Staffordshire,38
+BikeCarEnteringRoundabout,2.00722E+12,2007,Staffordshire,40
+BikeCarEnteringRoundabout,200722CA85739,2007,Worcestershire,26
+BikeCarEnteringRoundabout,200722FA85996,2007,Shropshire,40
+BikeCarEnteringRoundabout,200730D000036,2007,Derby,44
+BikeCarEnteringRoundabout,200730D000536,2007,Derby,18
+BikeCarEnteringRoundabout,200730D000912,2007,Derby,54
+BikeCarEnteringRoundabout,20073102C0839,2007,Nottingham,17
+BikeCarEnteringRoundabout,20073102D4378,2007,Nottinghamshire,
+BikeCarEnteringRoundabout,200732B324507,2007,Lincolnshire,57
+BikeCarEnteringRoundabout,2.00733E+12,2007,Leicestershire,25
+BikeCarEnteringRoundabout,2.00733E+12,2007,Leicestershire,25
+BikeCarEnteringRoundabout,200734WN28857,2007,Northamptonshire,35
+BikeCarEnteringRoundabout,2.00735E+12,2007,Cambridgeshire,31
+BikeCarEnteringRoundabout,2.00736E+12,2007,Norfolk,40
+BikeCarEnteringRoundabout,200737G022119,2007,Suffolk,51
+BikeCarEnteringRoundabout,2007400C02151,2007,Luton,37
+BikeCarEnteringRoundabout,2007400D02426,2007,Central Bedfordshire,40
+BikeCarEnteringRoundabout,200742I127301,2007,Essex,32
+BikeCarEnteringRoundabout,200742I318507,2007,Essex,
+BikeCarEnteringRoundabout,200742I342008,2007,Southend on Sea,20
+BikeCarEnteringRoundabout,200742I403910,2007,Essex,53
+BikeCarEnteringRoundabout,200742I447411,2007,Essex,39
+BikeCarEnteringRoundabout,200743P275037,2007,Oxfordshire,22
+BikeCarEnteringRoundabout,200743P327057,2007,Oxfordshire,34
+BikeCarEnteringRoundabout,200743P381057,2007,Oxfordshire,14
+BikeCarEnteringRoundabout,200743R188067,2007,Bracknell Forest,9
+BikeCarEnteringRoundabout,200743S085097,2007,Milton Keynes,35
+BikeCarEnteringRoundabout,200743W106107,2007,Wokingham,44
+BikeCarEnteringRoundabout,200743W133057,2007,West Berkshire,25
+BikeCarEnteringRoundabout,200743W307057,2007,Reading,34
+BikeCarEnteringRoundabout,2.00744E+12,2007,Hampshire,52
+BikeCarEnteringRoundabout,2.00744E+12,2007,Southampton ,53
+BikeCarEnteringRoundabout,2.00744E+12,2007,Hampshire,46
+BikeCarEnteringRoundabout,2.00744E+12,2007,Isle of Wight,52
+BikeCarEnteringRoundabout,2.00744E+12,2007,Hampshire,21
+BikeCarEnteringRoundabout,2.00744E+12,2007,Hampshire,31
+BikeCarEnteringRoundabout,2.00744E+12,2007,Hampshire,46
+BikeCarEnteringRoundabout,200745GU08979,2007,Surrey,17
+BikeCarEnteringRoundabout,200745RE15333,2007,Surrey,62
+BikeCarEnteringRoundabout,200745SP11476,2007,Surrey,34
+BikeCarEnteringRoundabout,2.00746E+12,2007,Kent,34
+BikeCarEnteringRoundabout,2.00746E+12,2007,Kent,56
+BikeCarEnteringRoundabout,2.00746E+12,2007,Kent,36
+BikeCarEnteringRoundabout,2.00747E+12,2007,West Sussex,54
+BikeCarEnteringRoundabout,2.00747E+12,2007,West Sussex,39
+BikeCarEnteringRoundabout,2.00747E+12,2007,West Sussex,37
+BikeCarEnteringRoundabout,2.00747E+12,2007,East Sussex,40
+BikeCarEnteringRoundabout,2.00747E+12,2007,West Sussex,20
+BikeCarEnteringRoundabout,2.00752E+12,2007,Somerset,33
+BikeCarEnteringRoundabout,2.00752E+12,2007,North Somerset,29
+BikeCarEnteringRoundabout,2.00752E+12,2007,South Gloucestershire,23
+BikeCarEnteringRoundabout,2.00752E+12,2007,South Gloucestershire,18
+BikeCarEnteringRoundabout,2.00752E+12,2007,Somerset,27
+BikeCarEnteringRoundabout,2.00752E+12,2007,City of Bristol,50
+BikeCarEnteringRoundabout,2.00752E+12,2007,Bath and North East Somerset,39
+BikeCarEnteringRoundabout,2.00753E+12,2007,Gloucestershire,53
+BikeCarEnteringRoundabout,2.00753E+12,2007,Gloucestershire,36
+BikeCarEnteringRoundabout,2.00753E+12,2007,Gloucestershire,17
+BikeCarEnteringRoundabout,200754DC20807,2007,Swindon,26
+BikeCarEnteringRoundabout,200754DN13007,2007,Swindon,48
+BikeCarEnteringRoundabout,200754EP14007,2007,Wiltshire,44
+BikeCarEnteringRoundabout,200754ET27307,2007,Wiltshire,11
+BikeCarEnteringRoundabout,200754ET33707,2007,Wiltshire,23
+BikeCarEnteringRoundabout,2007557B03436,2007,Bournemouth,37
+BikeCarEnteringRoundabout,2007557W03318,2007,Dorset,33
+BikeCarEnteringRoundabout,200801HT69849,2008,London,24
+BikeCarEnteringRoundabout,200801HT75344,2008,London,33
+BikeCarEnteringRoundabout,200801JI69071,2008,London,
+BikeCarEnteringRoundabout,200801JI76404,2008,London,40
+BikeCarEnteringRoundabout,200801KD74508,2008,London,27
+BikeCarEnteringRoundabout,200801KF74302,2008,London,23
+BikeCarEnteringRoundabout,200801KG75888,2008,London,
+BikeCarEnteringRoundabout,200801TW60269,2008,London,57
+BikeCarEnteringRoundabout,200804AL08079,2008,Lancashire,29
+BikeCarEnteringRoundabout,200804DF08080,2008,Lancashire,33
+BikeCarEnteringRoundabout,200804FL08063,2008,Lancashire,38
+BikeCarEnteringRoundabout,200805BB26683,2008,Merseyside,20
+BikeCarEnteringRoundabout,200806A003322,2008,Manchester,26
+BikeCarEnteringRoundabout,200806C092718,2008,Manchester,56
+BikeCarEnteringRoundabout,200806L002927,2008,Wigan,40
+BikeCarEnteringRoundabout,2.00807E+12,2008,Cheshire West and Chester,27
+BikeCarEnteringRoundabout,2.00807E+12,2008,Warrington,33
+BikeCarEnteringRoundabout,2.00807E+12,2008,Warrington,42
+BikeCarEnteringRoundabout,2.0081E+12,2008,Newcastle upon Tyne,40
+BikeCarEnteringRoundabout,200811SJ18488,2008,Darlington,73
+BikeCarEnteringRoundabout,2.00812E+12,2008,North Yorkshire,80
+BikeCarEnteringRoundabout,2.00812E+12,2008,York,45
+BikeCarEnteringRoundabout,2.00812E+12,2008,York,44
+BikeCarEnteringRoundabout,2.00812E+12,2008,North Yorkshire,57
+BikeCarEnteringRoundabout,2.00813E+12,2008,Wakefield,19
+BikeCarEnteringRoundabout,2.00813E+12,2008,Leeds,41
+BikeCarEnteringRoundabout,2.00813E+12,2008,Leeds,65
+BikeCarEnteringRoundabout,2.00813E+12,2008,Wakefield,33
+BikeCarEnteringRoundabout,2.00813E+12,2008,Leeds,28
+BikeCarEnteringRoundabout,200814A193608,2008,Doncaster,29
+BikeCarEnteringRoundabout,200814B032908,2008,Barnsley,49
+BikeCarEnteringRoundabout,200814B083208,2008,Barnsley,30
+BikeCarEnteringRoundabout,2008160D00480,2008,Kingston Upon Hull,29
+BikeCarEnteringRoundabout,2008160D06850,2008,Kingston Upon Hull,43
+BikeCarEnteringRoundabout,200820D055903,2008,Birmingham,16
+BikeCarEnteringRoundabout,200820E064501,2008,Birmingham,14
+BikeCarEnteringRoundabout,200820E085201,2008,Birmingham,20
+BikeCarEnteringRoundabout,200820E134101,2008,Birmingham,27
+BikeCarEnteringRoundabout,200820E144903,2008,Birmingham,
+BikeCarEnteringRoundabout,200820F064901,2008,Birmingham,39
+BikeCarEnteringRoundabout,200820F127501,2008,Birmingham,33
+BikeCarEnteringRoundabout,200820G006201,2008,Wolverhampton,46
+BikeCarEnteringRoundabout,200820H051202,2008,Walsall,48
+BikeCarEnteringRoundabout,200820K074401,2008,Sandwell,64
+BikeCarEnteringRoundabout,200820K091502,2008,Sandwell,19
+BikeCarEnteringRoundabout,200820K103602,2008,Sandwell,40
+BikeCarEnteringRoundabout,200822EA86957,2008,Herefordshire,61
+BikeCarEnteringRoundabout,200830D000280,2008,Derby,50
+BikeCarEnteringRoundabout,20083102C1673,2008,Nottingham,43
+BikeCarEnteringRoundabout,200832C072308,2008,Lincolnshire,20
+BikeCarEnteringRoundabout,2.00835E+12,2008,Peterborough,20
+BikeCarEnteringRoundabout,2.00835E+12,2008,Cambridgeshire,
+BikeCarEnteringRoundabout,2.00836E+12,2008,Norfolk,20
+BikeCarEnteringRoundabout,2.00836E+12,2008,Norfolk,54
+BikeCarEnteringRoundabout,200837B030587,2008,Suffolk,45
+BikeCarEnteringRoundabout,200837B041272,2008,Suffolk,31
+BikeCarEnteringRoundabout,200837G024511,2008,Suffolk,30
+BikeCarEnteringRoundabout,200837L015636,2008,Suffolk,50
+BikeCarEnteringRoundabout,200837L016045,2008,Suffolk,50
+BikeCarEnteringRoundabout,2008400B02908,2008,Bedford Borough Council,36
+BikeCarEnteringRoundabout,20084100A0019,2008,Hertfordshire,24
+BikeCarEnteringRoundabout,20084100B0635,2008,Hertfordshire,40
+BikeCarEnteringRoundabout,200842I028401,2008,Essex,23
+BikeCarEnteringRoundabout,200842I070002,2008,Essex,55
+BikeCarEnteringRoundabout,200842I172005,2008,Essex,40
+BikeCarEnteringRoundabout,200842I262806,2008,Thurrock,16
+BikeCarEnteringRoundabout,200842I336208,2008,Essex,71
+BikeCarEnteringRoundabout,200842I382210,2008,Essex,30
+BikeCarEnteringRoundabout,200843P101018,2008,Oxfordshire,30
+BikeCarEnteringRoundabout,200843P162028,2008,Oxfordshire,21
+BikeCarEnteringRoundabout,200843P206078,2008,Oxfordshire,44
+BikeCarEnteringRoundabout,200843P350028,2008,Oxfordshire,44
+BikeCarEnteringRoundabout,200843R106128,2008,Bracknell Forest,48
+BikeCarEnteringRoundabout,200843R174058,2008,Windsor and Maidenhead,54
+BikeCarEnteringRoundabout,200843S093018,2008,Milton Keynes,
+BikeCarEnteringRoundabout,2.00844E+12,2008,Hampshire,43
+BikeCarEnteringRoundabout,2.00844E+12,2008,Hampshire,18
+BikeCarEnteringRoundabout,2.00844E+12,2008,Southampton ,18
+BikeCarEnteringRoundabout,200845EL26696,2008,Surrey,32
+BikeCarEnteringRoundabout,200845GU23597,2008,Surrey,
+BikeCarEnteringRoundabout,200845GU32574,2008,Surrey,41
+BikeCarEnteringRoundabout,200845RE22460,2008,Surrey,41
+BikeCarEnteringRoundabout,200845RU32015,2008,Surrey,33
+BikeCarEnteringRoundabout,200845WO24765,2008,Surrey,14
+BikeCarEnteringRoundabout,200845WO31827,2008,Surrey,18
+BikeCarEnteringRoundabout,2.00846E+12,2008,Kent,31
+BikeCarEnteringRoundabout,2.00846E+12,2008,Kent,31
+BikeCarEnteringRoundabout,2.00846E+12,2008,Kent,36
+BikeCarEnteringRoundabout,2.00846E+12,2008,Kent,22
+BikeCarEnteringRoundabout,2.00846E+12,2008,Kent,35
+BikeCarEnteringRoundabout,2.00847E+12,2008,West Sussex,41
+BikeCarEnteringRoundabout,2.00847E+12,2008,East Sussex,31
+BikeCarEnteringRoundabout,2.00847E+12,2008,West Sussex,63
+BikeCarEnteringRoundabout,200850DE2J004,2008,Devon,21
+BikeCarEnteringRoundabout,200850ED2B006,2008,Plymouth,50
+BikeCarEnteringRoundabout,200850ED2F019,2008,Plymouth,53
+BikeCarEnteringRoundabout,200850EK2C015,2008,Plymouth,16
+BikeCarEnteringRoundabout,200850GN2C018,2008,Cornwall and Isles of Scilly,50
+BikeCarEnteringRoundabout,200850KE3H002,2008,Devon,71
+BikeCarEnteringRoundabout,2.00853E+12,2008,Gloucestershire,21
+BikeCarEnteringRoundabout,2.00853E+12,2008,Gloucestershire,35
+BikeCarEnteringRoundabout,2.00853E+12,2008,Gloucestershire,51
+BikeCarEnteringRoundabout,2.00853E+12,2008,Gloucestershire,63
+BikeCarEnteringRoundabout,2008558D04161,2008,Dorset,25
+BikeCarEnteringRoundabout,2008558D05228,2008,Dorset,43
+BikeCarEnteringRoundabout,200901GD76841,2009,London,28
+BikeCarEnteringRoundabout,200901HT76803,2009,London,
+BikeCarEnteringRoundabout,200901MM70259,2009,London,30
+BikeCarEnteringRoundabout,200901MM70385,2009,London,41
+BikeCarEnteringRoundabout,200901TX20429,2009,London,33
+BikeCarEnteringRoundabout,200904AN09072,2009,Blackpool,20
+BikeCarEnteringRoundabout,200904BC09141,2009,Lancashire,9
+BikeCarEnteringRoundabout,200904BC09219,2009,Lancashire,43
+BikeCarEnteringRoundabout,200904CM09216,2009,Lancashire,57
+BikeCarEnteringRoundabout,200904EA09126,2009,Blackburn with Darwen,26
+BikeCarEnteringRoundabout,200904FG09081,2009,Lancashire,39
+BikeCarEnteringRoundabout,200905FF02764,2009,Merseyside,20
+BikeCarEnteringRoundabout,200906L014124,2009,Wigan,35
+BikeCarEnteringRoundabout,200906L018770,2009,Wigan,41
+BikeCarEnteringRoundabout,200906M008373,2009,Trafford,36
+BikeCarEnteringRoundabout,2.00907E+12,2009,Cheshire West and Chester,42
+BikeCarEnteringRoundabout,2.00907E+12,2009,Warrington,52
+BikeCarEnteringRoundabout,200911SJ26659,2009,Darlington,44
+BikeCarEnteringRoundabout,200911SK01339,2009,Durham,49
+BikeCarEnteringRoundabout,2.00912E+12,2009,York,46
+BikeCarEnteringRoundabout,2.00912E+12,2009,York,44
+BikeCarEnteringRoundabout,2.00913E+12,2009,Leeds,46
+BikeCarEnteringRoundabout,2.00913E+12,2009,Bradford,37
+BikeCarEnteringRoundabout,2.00913E+12,2009,Wakefield,24
+BikeCarEnteringRoundabout,2.00913E+12,2009,Wakefield,62
+BikeCarEnteringRoundabout,2.00913E+12,2009,Wakefield,26
+BikeCarEnteringRoundabout,2.00913E+12,2009,Bradford,51
+BikeCarEnteringRoundabout,200914A204509,2009,Doncaster,52
+BikeCarEnteringRoundabout,200914A206709,2009,Doncaster,43
+BikeCarEnteringRoundabout,200914C080609,2009,Rotherham,21
+BikeCarEnteringRoundabout,200914C103609,2009,Rotherham,45
+BikeCarEnteringRoundabout,200914K256609,2009,Sheffield,15
+BikeCarEnteringRoundabout,2009160D05850,2009,Kingston Upon Hull,24
+BikeCarEnteringRoundabout,2009170S10979,2009,Stockton on Tees,41
+BikeCarEnteringRoundabout,200920D137702,2009,Birmingham,26
+BikeCarEnteringRoundabout,200920G056701,2009,Wolverhampton,47
+BikeCarEnteringRoundabout,200920L501801,2009,Solihull,72
+BikeCarEnteringRoundabout,200920M054602,2009,Coventry,61
+BikeCarEnteringRoundabout,200922E903732,2009,Herefordshire,80
+BikeCarEnteringRoundabout,200930A000042,2009,Derbyshire,35
+BikeCarEnteringRoundabout,200930C000649,2009,Derbyshire,28
+BikeCarEnteringRoundabout,200930D000235,2009,Derby,14
+BikeCarEnteringRoundabout,200930D000713,2009,Derby,27
+BikeCarEnteringRoundabout,2.00933E+12,2009,Leicestershire,52
+BikeCarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,44
+BikeCarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,31
+BikeCarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,
+BikeCarEnteringRoundabout,2009400C01979,2009,Luton,27
+BikeCarEnteringRoundabout,20094100B9203,2009,Hertfordshire,47
+BikeCarEnteringRoundabout,20094100F4304,2009,Hertfordshire,47
+BikeCarEnteringRoundabout,200942I033401,2009,Essex,39
+BikeCarEnteringRoundabout,200942I036901,2009,Essex,40
+BikeCarEnteringRoundabout,200942I090703,2009,Southend on Sea,
+BikeCarEnteringRoundabout,200942I149505,2009,Essex,52
+BikeCarEnteringRoundabout,200942I150505,2009,Essex,13
+BikeCarEnteringRoundabout,200942I209906,2009,Essex,54
+BikeCarEnteringRoundabout,200942I335610,2009,Essex,69
+BikeCarEnteringRoundabout,200942I353710,2009,Essex,
+BikeCarEnteringRoundabout,200942I363411,2009,Essex,
+BikeCarEnteringRoundabout,200942I422812,2009,Essex,20
+BikeCarEnteringRoundabout,200942I439612,2009,Southend on Sea,39
+BikeCarEnteringRoundabout,200943N049079,2009,Buckinghamshire,47
+BikeCarEnteringRoundabout,200943N152059,2009,Buckinghamshire,71
+BikeCarEnteringRoundabout,200943P238099,2009,Oxfordshire,41
+BikeCarEnteringRoundabout,200943S083089,2009,Milton Keynes,8
+BikeCarEnteringRoundabout,200943W181109,2009,Reading,21
+BikeCarEnteringRoundabout,200943W256119,2009,Reading,50
+BikeCarEnteringRoundabout,2.00944E+12,2009,Southampton ,21
+BikeCarEnteringRoundabout,2.00944E+12,2009,Hampshire,36
+BikeCarEnteringRoundabout,2.00944E+12,2009,Hampshire,59
+BikeCarEnteringRoundabout,2.00944E+12,2009,Hampshire,47
+BikeCarEnteringRoundabout,2.00944E+12,2009,Hampshire,38
+BikeCarEnteringRoundabout,2.00944E+12,2009,Hampshire,25
+BikeCarEnteringRoundabout,200945EL43219,2009,Surrey,38
+BikeCarEnteringRoundabout,200945EL46244,2009,Surrey,31
+BikeCarEnteringRoundabout,200945MO38094,2009,Surrey,22
+BikeCarEnteringRoundabout,200945RU37431,2009,Surrey,17
+BikeCarEnteringRoundabout,200945SP36511,2009,Surrey,20
+BikeCarEnteringRoundabout,200945SU35749,2009,Surrey,45
+BikeCarEnteringRoundabout,200945WO40836,2009,Surrey,18
+BikeCarEnteringRoundabout,2.00946E+12,2009,Medway,49
+BikeCarEnteringRoundabout,2.00946E+12,2009,Kent,29
+BikeCarEnteringRoundabout,2.00947E+12,2009,West Sussex,60
+BikeCarEnteringRoundabout,2.00947E+12,2009,East Sussex,39
+BikeCarEnteringRoundabout,2.00947E+12,2009,West Sussex,40
+BikeCarEnteringRoundabout,2.00947E+12,2009,East Sussex,
+BikeCarEnteringRoundabout,2.00947E+12,2009,West Sussex,25
+BikeCarEnteringRoundabout,2.00947E+12,2009,East Sussex,49
+BikeCarEnteringRoundabout,2.00947E+12,2009,West Sussex,57
+BikeCarEnteringRoundabout,2.00947E+12,2009,West Sussex,43
+BikeCarEnteringRoundabout,200950BD2G003,2009,Cornwall and Isles of Scilly,
+BikeCarEnteringRoundabout,200950FT2M033,2009,Torbay,50
+BikeCarEnteringRoundabout,200950GN2C030,2009,Cornwall and Isles of Scilly,29
+BikeCarEnteringRoundabout,200950JS2B001,2009,Devon,18
+BikeCarEnteringRoundabout,200950KO2N005,2009,Devon,
+BikeCarEnteringRoundabout,2.00952E+12,2009,South Gloucestershire,29
+BikeCarEnteringRoundabout,2.00952E+12,2009,North Somerset,35
+BikeCarEnteringRoundabout,2.00952E+12,2009,City of Bristol,14
+BikeCarEnteringRoundabout,2.00952E+12,2009,South Gloucestershire,47
+BikeCarEnteringRoundabout,2.00952E+12,2009,Somerset,24
+BikeCarEnteringRoundabout,2.00953E+12,2009,Gloucestershire,32
+BikeCarEnteringRoundabout,2.00953E+12,2009,Gloucestershire,24
+BikeCarEnteringRoundabout,200954EG26309,2009,Wiltshire,31
+BikeCarEnteringRoundabout,2009559D02732,2009,Dorset,34
+BikeCarEnteringRoundabout,201001GD10422,2010,London,45
+BikeCarEnteringRoundabout,201001MM70193,2010,London,35
+BikeCarEnteringRoundabout,201001VK30197,2010,London,50
+BikeCarEnteringRoundabout,2.01003E+12,2010,Cumbria,39
+BikeCarEnteringRoundabout,2.01003E+12,2010,Cumbria,40
+BikeCarEnteringRoundabout,201004AL10144,2010,Lancashire,41
+BikeCarEnteringRoundabout,201004BB10224,2010,Lancashire,42
+BikeCarEnteringRoundabout,201004CA10094,2010,Lancashire,65
+BikeCarEnteringRoundabout,201004CK10204,2010,Lancashire,80
+BikeCarEnteringRoundabout,201005AA01704,2010,Merseyside,23
+BikeCarEnteringRoundabout,201005BB03445,2010,Merseyside,42
+BikeCarEnteringRoundabout,201005BB05926,2010,Merseyside,46
+BikeCarEnteringRoundabout,201005DD05291,2010,Merseyside,50
+BikeCarEnteringRoundabout,201006K032545,2010,Bolton,46
+BikeCarEnteringRoundabout,201006N031764,2010,Bury,22
+BikeCarEnteringRoundabout,2.01007E+12,2010,Cheshire East,20
+BikeCarEnteringRoundabout,2.01007E+12,2010,Warrington,32
+BikeCarEnteringRoundabout,2.01007E+12,2010,Warrington,20
+BikeCarEnteringRoundabout,2.01007E+12,2010,Cheshire West and Chester,33
+BikeCarEnteringRoundabout,2.01007E+12,2010,Cheshire West and Chester,64
+BikeCarEnteringRoundabout,201011SA04120,2010,Durham,64
+BikeCarEnteringRoundabout,201011SJ18860,2010,Darlington,45
+BikeCarEnteringRoundabout,2.01012E+12,2010,North Yorkshire,50
+BikeCarEnteringRoundabout,2.01012E+12,2010,North Yorkshire,26
+BikeCarEnteringRoundabout,2.01012E+12,2010,North Yorkshire,15
+BikeCarEnteringRoundabout,2.01012E+12,2010,York,26
+BikeCarEnteringRoundabout,2.01013E+12,2010,Leeds,25
+BikeCarEnteringRoundabout,2.01013E+12,2010,Leeds,51
+BikeCarEnteringRoundabout,2.01013E+12,2010,Bradford,39
+BikeCarEnteringRoundabout,201014A164510,2010,Doncaster,18
+BikeCarEnteringRoundabout,201014K056510,2010,Sheffield,27
+BikeCarEnteringRoundabout,201020J008200,2010,Dudley,38
+BikeCarEnteringRoundabout,201020K013112,2010,Sandwell,46
+BikeCarEnteringRoundabout,201020L009110,2010,Solihull,55
+BikeCarEnteringRoundabout,201020L010720,2010,Solihull,36
+BikeCarEnteringRoundabout,201020M003290,2010,Coventry,15
+BikeCarEnteringRoundabout,201020S042810,2010,Birmingham,
+BikeCarEnteringRoundabout,201020T027450,2010,Birmingham,40
+BikeCarEnteringRoundabout,201020W050700,2010,Birmingham,26
+BikeCarEnteringRoundabout,2.01021E+12,2010,Staffordshire,39
+BikeCarEnteringRoundabout,20102100X0154,2010,Staffordshire,37
+BikeCarEnteringRoundabout,201022E004590,2010,Herefordshire,53
+BikeCarEnteringRoundabout,2.01023E+12,2010,Warwickshire,26
+BikeCarEnteringRoundabout,201030D000321,2010,Derbyshire,43
+BikeCarEnteringRoundabout,201030D000338,2010,Derby,46
+BikeCarEnteringRoundabout,201030D000869,2010,Derby,52
+BikeCarEnteringRoundabout,20103102C1589,2010,Nottingham,
+BikeCarEnteringRoundabout,20103102C1597,2010,Nottingham,
+BikeCarEnteringRoundabout,20103102D3254,2010,Nottinghamshire,47
+BikeCarEnteringRoundabout,201032D115910,2010,Lincolnshire,45
+BikeCarEnteringRoundabout,2.01033E+12,2010,Leicestershire,43
+BikeCarEnteringRoundabout,2.01035E+12,2010,Peterborough,30
+BikeCarEnteringRoundabout,2.01035E+12,2010,Cambridgeshire,54
+BikeCarEnteringRoundabout,2.01035E+12,2010,Cambridgeshire,53
+BikeCarEnteringRoundabout,201037G029909,2010,Suffolk,52
+BikeCarEnteringRoundabout,2010400B03472,2010,Bedford Borough Council,18
+BikeCarEnteringRoundabout,2010400D01804,2010,Central Bedfordshire,35
+BikeCarEnteringRoundabout,2010400D02214,2010,Central Bedfordshire,41
+BikeCarEnteringRoundabout,201042I129004,2010,Southend on Sea,42
+BikeCarEnteringRoundabout,201042I167005,2010,Southend on Sea,46
+BikeCarEnteringRoundabout,201042I217207,2010,Essex,44
+BikeCarEnteringRoundabout,201042I219306,2010,Essex,
+BikeCarEnteringRoundabout,201042I219806,2010,Essex,54
+BikeCarEnteringRoundabout,201042I325810,2010,Essex,46
+BikeCarEnteringRoundabout,201042I361811,2010,Essex,55
+BikeCarEnteringRoundabout,201042I432308,2010,Essex,45
+BikeCarEnteringRoundabout,201043N287120,2010,Buckinghamshire,47
+BikeCarEnteringRoundabout,201043S077030,2010,Milton Keynes,28
+BikeCarEnteringRoundabout,201043S138120,2010,Milton Keynes,26
+BikeCarEnteringRoundabout,201043W120060,2010,Reading,35
+BikeCarEnteringRoundabout,201043W234060,2010,Reading,34
+BikeCarEnteringRoundabout,2.01044E+12,2010,Hampshire,42
+BikeCarEnteringRoundabout,2.01044E+12,2010,Isle of Wight,52
+BikeCarEnteringRoundabout,2.01044E+12,2010,Portsmouth,17
+BikeCarEnteringRoundabout,2.01044E+12,2010,Hampshire,30
+BikeCarEnteringRoundabout,201045EL53744,2010,Surrey,16
+BikeCarEnteringRoundabout,201045EP49651,2010,Surrey,54
+BikeCarEnteringRoundabout,201045MO51025,2010,Surrey,41
+BikeCarEnteringRoundabout,201045SU54391,2010,Surrey,10
+BikeCarEnteringRoundabout,201045WA54702,2010,Surrey,
+BikeCarEnteringRoundabout,2.01046E+12,2010,Kent,58
+BikeCarEnteringRoundabout,2.01046E+12,2010,Kent,18
+BikeCarEnteringRoundabout,2.01046E+12,2010,Kent,46
+BikeCarEnteringRoundabout,2.01046E+12,2010,Kent,30
+BikeCarEnteringRoundabout,2.01046E+12,2010,Kent,22
+BikeCarEnteringRoundabout,2.01046E+12,2010,Kent,54
+BikeCarEnteringRoundabout,2.01046E+12,2010,Kent,15
+BikeCarEnteringRoundabout,2.01046E+12,2010,Kent,29
+BikeCarEnteringRoundabout,2.01047E+12,2010,West Sussex,28
+BikeCarEnteringRoundabout,2.01047E+12,2010,West Sussex,32
+BikeCarEnteringRoundabout,2.01047E+12,2010,West Sussex,60
+BikeCarEnteringRoundabout,2.01047E+12,2010,West Sussex,40
+BikeCarEnteringRoundabout,2.01047E+12,2010,East Sussex,35
+BikeCarEnteringRoundabout,2.01047E+12,2010,East Sussex,69
+BikeCarEnteringRoundabout,2.01047E+12,2010,West Sussex,54
+BikeCarEnteringRoundabout,2.01047E+12,2010,West Sussex,49
+BikeCarEnteringRoundabout,2.01047E+12,2010,West Sussex,33
+BikeCarEnteringRoundabout,201050AC2D003,2010,Cornwall and Isles of Scilly,38
+BikeCarEnteringRoundabout,201050CB2R009,2010,Devon,30
+BikeCarEnteringRoundabout,201050EC2H004,2010,Plymouth,35
+BikeCarEnteringRoundabout,201050ED2N018,2010,Plymouth,30
+BikeCarEnteringRoundabout,201050FT2I026,2010,Torbay,29
+BikeCarEnteringRoundabout,2.01052E+12,2010,City of Bristol,17
+BikeCarEnteringRoundabout,2.01052E+12,2010,North Somerset,42
+BikeCarEnteringRoundabout,2.01052E+12,2010,North Somerset,45
+BikeCarEnteringRoundabout,2.01053E+12,2010,Gloucestershire,12
+BikeCarEnteringRoundabout,2.01053E+12,2010,Gloucestershire,37
+BikeCarEnteringRoundabout,2.01053E+12,2010,Gloucestershire,15
+BikeCarEnteringRoundabout,2010550C29243,2010,Bournemouth,65
+BikeCarEnteringRoundabout,2010550C33406,2010,Poole,29
+BikeCarEnteringRoundabout,2010550C35335,2010,Bournemouth,21
+BikeCarEnteringRoundabout,2010550D18379,2010,Dorset,41
+BikeCarEnteringRoundabout,2011201101JC30201,2011,London,35
+BikeCarEnteringRoundabout,2011201101MM70702,2011,London,56
+BikeCarEnteringRoundabout,2011201101YE80308,2011,London,23
+BikeCarEnteringRoundabout,2.0112E+16,2011,Cumbria,57
+BikeCarEnteringRoundabout,2011201104CL11052,2011,Lancashire,37
+BikeCarEnteringRoundabout,2011201104CM11023,2011,Lancashire,26
+BikeCarEnteringRoundabout,2011201104CM11078,2011,Lancashire,46
+BikeCarEnteringRoundabout,2011201104EN11037,2011,Lancashire,41
+BikeCarEnteringRoundabout,2011201105BB03282,2011,Merseyside,40
+BikeCarEnteringRoundabout,2011201105CC05438,2011,Merseyside,67
+BikeCarEnteringRoundabout,2011201105FF02873,2011,Merseyside,46
+BikeCarEnteringRoundabout,2011201106F048872,2011,Salford,22
+BikeCarEnteringRoundabout,2011201106G046597,2011,Tameside,49
+BikeCarEnteringRoundabout,2011201106N044094,2011,Bury,64
+BikeCarEnteringRoundabout,2.0112E+16,2011,Cheshire West and Chester,42
+BikeCarEnteringRoundabout,2.0112E+16,2011,Cheshire West and Chester,25
+BikeCarEnteringRoundabout,2.0112E+16,2011,Cheshire East,53
+BikeCarEnteringRoundabout,2.0112E+16,2011,Warrington,23
+BikeCarEnteringRoundabout,2.0112E+16,2011,Cheshire East,55
+BikeCarEnteringRoundabout,2.0112E+16,2011,Cheshire West and Chester,56
+BikeCarEnteringRoundabout,2.0112E+16,2011,Gateshead,45
+BikeCarEnteringRoundabout,2.0112E+16,2011,North Tyneside,-1
+BikeCarEnteringRoundabout,2.0112E+16,2011,South Tyneside,59
+BikeCarEnteringRoundabout,2011201111ND17061,2011,Durham,42
+BikeCarEnteringRoundabout,2.0112E+16,2011,York,27
+BikeCarEnteringRoundabout,2.0112E+16,2011,York,78
+BikeCarEnteringRoundabout,2.0112E+16,2011,York,43
+BikeCarEnteringRoundabout,2.0112E+16,2011,North Yorkshire,52
+BikeCarEnteringRoundabout,2.0112E+16,2011,York,45
+BikeCarEnteringRoundabout,2.0112E+16,2011,York,39
+BikeCarEnteringRoundabout,2.0112E+16,2011,Wakefield,39
+BikeCarEnteringRoundabout,2.0112E+16,2011,Leeds,23
+BikeCarEnteringRoundabout,2.0112E+16,2011,Calderdale,51
+BikeCarEnteringRoundabout,2011201114A153011,2011,Doncaster,37
+BikeCarEnteringRoundabout,2011201114K217711,2011,Sheffield,46
+BikeCarEnteringRoundabout,20112011160A02131,2011,North East Lincolnshire,15
+BikeCarEnteringRoundabout,20112011160B01031,2011,North Lincolnshire,37
+BikeCarEnteringRoundabout,20112011160D04591,2011,Kingston Upon Hull,78
+BikeCarEnteringRoundabout,20112011170S11951,2011,Stockton on Tees,20
+BikeCarEnteringRoundabout,2011201120H007791,2011,Walsall,30
+BikeCarEnteringRoundabout,2011201120M009931,2011,Coventry,44
+BikeCarEnteringRoundabout,2011201120N002311,2011,Birmingham,43
+BikeCarEnteringRoundabout,2011201120S038041,2011,Birmingham,58
+BikeCarEnteringRoundabout,2011201120S043341,2011,Birmingham,29
+BikeCarEnteringRoundabout,2011201120T047631,2011,Birmingham,34
+BikeCarEnteringRoundabout,2.0112E+16,2011,Stoke on Trent,46
+BikeCarEnteringRoundabout,2.0112E+16,2011,Staffordshire,25
+BikeCarEnteringRoundabout,2011201122C100238,2011,Worcestershire,56
+BikeCarEnteringRoundabout,2011201122D100525,2011,Worcestershire,67
+BikeCarEnteringRoundabout,2011201122E103851,2011,Herefordshire,40
+BikeCarEnteringRoundabout,2011201122E104296,2011,Herefordshire,38
+BikeCarEnteringRoundabout,2011201130D000509,2011,Derbyshire,30
+BikeCarEnteringRoundabout,2011201130D000643,2011,Derby,71
+BikeCarEnteringRoundabout,2011201130D000691,2011,Derbyshire,41
+BikeCarEnteringRoundabout,2011201131C226311,2011,Nottingham,21
+BikeCarEnteringRoundabout,2011201131C234011,2011,Nottingham,49
+BikeCarEnteringRoundabout,2011201132B100911,2011,Lincolnshire,67
+BikeCarEnteringRoundabout,2011201132N164811,2011,Lincolnshire,20
+BikeCarEnteringRoundabout,2.0112E+16,2011,Leicestershire,13
+BikeCarEnteringRoundabout,2.0112E+16,2011,Leicestershire,38
+BikeCarEnteringRoundabout,2.0112E+16,2011,Cambridgeshire,40
+BikeCarEnteringRoundabout,2.0112E+16,2011,Peterborough,74
+BikeCarEnteringRoundabout,2.0112E+16,2011,Peterborough,55
+BikeCarEnteringRoundabout,2.0112E+16,2011,Norfolk,55
+BikeCarEnteringRoundabout,2.0112E+16,2011,Suffolk,16
+BikeCarEnteringRoundabout,2.0112E+16,2011,Suffolk,60
+BikeCarEnteringRoundabout,2.0112E+16,2011,Suffolk,22
+BikeCarEnteringRoundabout,20112011400B00197,2011,Bedford Borough Council,23
+BikeCarEnteringRoundabout,20112011400C00629,2011,Luton,58
+BikeCarEnteringRoundabout,20112011400C01525,2011,Luton,35
+BikeCarEnteringRoundabout,20112011400DA0230,2011,Central Bedfordshire,16
+BikeCarEnteringRoundabout,201120114100F0357,2011,Hertfordshire,30
+BikeCarEnteringRoundabout,201120114100G0673,2011,Hertfordshire,40
+BikeCarEnteringRoundabout,201120114100J0773,2011,Hertfordshire,28
+BikeCarEnteringRoundabout,2011201142I051902,2011,Essex,31
+BikeCarEnteringRoundabout,2011201142I156904,2011,Thurrock,-1
+BikeCarEnteringRoundabout,2011201142I161705,2011,Essex,33
+BikeCarEnteringRoundabout,2011201142I239708,2011,Essex,62
+BikeCarEnteringRoundabout,2011201142I278708,2011,Thurrock,16
+BikeCarEnteringRoundabout,2011201142I325210,2011,Thurrock,55
+BikeCarEnteringRoundabout,2011201142I344610,2011,Essex,22
+BikeCarEnteringRoundabout,2011201142I385211,2011,Essex,43
+BikeCarEnteringRoundabout,2011201142I417012,2011,Thurrock,22
+BikeCarEnteringRoundabout,2011201143N061091,2011,Buckinghamshire,40
+BikeCarEnteringRoundabout,2011201143P205081,2011,Oxfordshire,41
+BikeCarEnteringRoundabout,2011201143R232031,2011,Bracknell Forest,25
+BikeCarEnteringRoundabout,2011201143S078011,2011,Milton Keynes,23
+BikeCarEnteringRoundabout,2011201143W039031,2011,West Berkshire,35
+BikeCarEnteringRoundabout,2011201143W096061,2011,Reading,35
+BikeCarEnteringRoundabout,2011201143W156041,2011,Reading,5
+BikeCarEnteringRoundabout,2.0112E+16,2011,Portsmouth,45
+BikeCarEnteringRoundabout,2.0112E+16,2011,Hampshire,42
+BikeCarEnteringRoundabout,2011201145EL61716,2011,Surrey,26
+BikeCarEnteringRoundabout,2011201145GU59879,2011,Surrey,41
+BikeCarEnteringRoundabout,2011201145GU64339,2011,Surrey,64
+BikeCarEnteringRoundabout,2011201145GU64868,2011,Surrey,40
+BikeCarEnteringRoundabout,2011201145MO61615,2011,Surrey,46
+BikeCarEnteringRoundabout,2011201145MO64787,2011,Surrey,66
+BikeCarEnteringRoundabout,2011201145MO66747,2011,Surrey,27
+BikeCarEnteringRoundabout,2011201145RU62193,2011,Surrey,25
+BikeCarEnteringRoundabout,2011201145SP57763,2011,Surrey,16
+BikeCarEnteringRoundabout,2011201145SP62945,2011,Surrey,40
+BikeCarEnteringRoundabout,2011201145SP65674,2011,Surrey,-1
+BikeCarEnteringRoundabout,2011201145TA62336,2011,Surrey,39
+BikeCarEnteringRoundabout,2011201145WA62637,2011,Surrey,39
+BikeCarEnteringRoundabout,2011201145WO67011,2011,Surrey,40
+BikeCarEnteringRoundabout,2.0112E+16,2011,Kent,17
+BikeCarEnteringRoundabout,2.0112E+16,2011,Kent,29
+BikeCarEnteringRoundabout,2.0112E+16,2011,Kent,56
+BikeCarEnteringRoundabout,2.0112E+16,2011,Kent,21
+BikeCarEnteringRoundabout,2.0112E+16,2011,Kent,-1
+BikeCarEnteringRoundabout,2.0112E+16,2011,Kent,59
+BikeCarEnteringRoundabout,2.0112E+16,2011,Kent,55
+BikeCarEnteringRoundabout,2.0112E+16,2011,Kent,34
+BikeCarEnteringRoundabout,2.0112E+16,2011,Brighton and Hove,33
+BikeCarEnteringRoundabout,2.0112E+16,2011,Brighton and Hove,40
+BikeCarEnteringRoundabout,2.0112E+16,2011,West Sussex,52
+BikeCarEnteringRoundabout,2.0112E+16,2011,West Sussex,43
+BikeCarEnteringRoundabout,2.0112E+16,2011,West Sussex,35
+BikeCarEnteringRoundabout,2.0112E+16,2011,West Sussex,18
+BikeCarEnteringRoundabout,2.0112E+16,2011,Brighton and Hove,25
+BikeCarEnteringRoundabout,2.0112E+16,2011,Brighton and Hove,21
+BikeCarEnteringRoundabout,2011201150AY2B014,2011,Cornwall and Isles of Scilly,49
+BikeCarEnteringRoundabout,2011201150DE2D001,2011,Devon,13
+BikeCarEnteringRoundabout,2011201150DE2H017,2011,Devon,20
+BikeCarEnteringRoundabout,2011201150EC2D033,2011,Plymouth,43
+BikeCarEnteringRoundabout,2011201150EC2J027,2011,Plymouth,30
+BikeCarEnteringRoundabout,2.0112E+16,2011,Somerset,40
+BikeCarEnteringRoundabout,2.0112E+16,2011,Gloucestershire,45
+BikeCarEnteringRoundabout,2.0112E+16,2011,Gloucestershire,39
+BikeCarEnteringRoundabout,2.0112E+16,2011,Gloucestershire,24
+BikeCarEnteringRoundabout,20112011551C08384,2011,Bournemouth,22
+BikeCarEnteringRoundabout,20112011551C13869,2011,Bournemouth,34
+BikeCarEnteringRoundabout,20112011551C27241,2011,Poole,26
+BikeCarEnteringRoundabout,20112011551C40818,2011,Bournemouth,19
+BikeCarEnteringRoundabout,2012201201TX20088,2012,London,40
+BikeCarEnteringRoundabout,2.0122E+16,2012,Cumbria,55
+BikeCarEnteringRoundabout,2012201204CJ12218,2012,Lancashire,27
+BikeCarEnteringRoundabout,2012201204DF12149,2012,Lancashire,22
+BikeCarEnteringRoundabout,2012201205AA03964,2012,Merseyside,57
+BikeCarEnteringRoundabout,2012201205EE05404,2012,Merseyside,24
+BikeCarEnteringRoundabout,2012201205FF02009,2012,Merseyside,56
+BikeCarEnteringRoundabout,2012201206E062013,2012,Manchester,11
+BikeCarEnteringRoundabout,2012201206E066017,2012,Manchester,28
+BikeCarEnteringRoundabout,2.0122E+16,2012,Cheshire East,76
+BikeCarEnteringRoundabout,2.0122E+16,2012,Northumberland,20
+BikeCarEnteringRoundabout,2.0122E+16,2012,North Tyneside,44
+BikeCarEnteringRoundabout,2.0122E+16,2012,South Tyneside,16
+BikeCarEnteringRoundabout,2012201211ND20012,2012,Durham,59
+BikeCarEnteringRoundabout,2012201211NG19592,2012,Durham,35
+BikeCarEnteringRoundabout,2012201211SJ12912,2012,Darlington,39
+BikeCarEnteringRoundabout,2012201211SJ22612,2012,Darlington,28
+BikeCarEnteringRoundabout,2.0122E+16,2012,York,17
+BikeCarEnteringRoundabout,2.0122E+16,2012,York,30
+BikeCarEnteringRoundabout,2.0122E+16,2012,Leeds,53
+BikeCarEnteringRoundabout,2.0122E+16,2012,Leeds,24
+BikeCarEnteringRoundabout,2.0122E+16,2012,Leeds,26
+BikeCarEnteringRoundabout,2012201214A167612,2012,Doncaster,21
+BikeCarEnteringRoundabout,20122012160C01601,2012,East Riding of Yorkshire,50
+BikeCarEnteringRoundabout,20122012160C04121,2012,East Riding of Yorkshire,65
+BikeCarEnteringRoundabout,20122012160C07881,2012,East Riding of Yorkshire,33
+BikeCarEnteringRoundabout,20122012160D07891,2012,Kingston Upon Hull,14
+BikeCarEnteringRoundabout,2012201220K009812,2012,Sandwell,31
+BikeCarEnteringRoundabout,2012201220K012942,2012,Sandwell,38
+BikeCarEnteringRoundabout,2012201220M001162,2012,Coventry,-1
+BikeCarEnteringRoundabout,2012201220M007152,2012,Coventry,50
+BikeCarEnteringRoundabout,2012201220M011732,2012,Coventry,24
+BikeCarEnteringRoundabout,2012201220M014982,2012,Coventry,36
+BikeCarEnteringRoundabout,2012201220M017092,2012,Coventry,25
+BikeCarEnteringRoundabout,2012201220T024522,2012,Birmingham,37
+BikeCarEnteringRoundabout,2012201220T027342,2012,Birmingham,12
+BikeCarEnteringRoundabout,2012201220T028942,2012,Birmingham,59
+BikeCarEnteringRoundabout,2012201220T036532,2012,Birmingham,24
+BikeCarEnteringRoundabout,2012201220W006382,2012,Birmingham,51
+BikeCarEnteringRoundabout,2012201220W023082,2012,Birmingham,35
+BikeCarEnteringRoundabout,2012201220W046352,2012,Birmingham,39
+BikeCarEnteringRoundabout,2.0122E+16,2012,Staffordshire,20
+BikeCarEnteringRoundabout,2.0122E+16,2012,Staffordshire,16
+BikeCarEnteringRoundabout,2012201222C203786,2012,Worcestershire,34
+BikeCarEnteringRoundabout,2012201222C204779,2012,Worcestershire,41
+BikeCarEnteringRoundabout,2012201230D000578,2012,Derbyshire,21
+BikeCarEnteringRoundabout,2012201231C092212,2012,Nottingham,33
+BikeCarEnteringRoundabout,2012201231D115812,2012,Nottinghamshire,35
+BikeCarEnteringRoundabout,2.0122E+16,2012,Leicestershire,22
+BikeCarEnteringRoundabout,2.0122E+16,2012,Leicestershire,38
+BikeCarEnteringRoundabout,2.0122E+16,2012,Peterborough,29
+BikeCarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,40
+BikeCarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,23
+BikeCarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,41
+BikeCarEnteringRoundabout,2.0122E+16,2012,Peterborough,42
+BikeCarEnteringRoundabout,2.0122E+16,2012,Peterborough,47
+BikeCarEnteringRoundabout,2.0122E+16,2012,Norfolk,78
+BikeCarEnteringRoundabout,2012201236T120088,2012,Norfolk,67
+BikeCarEnteringRoundabout,2.0122E+16,2012,Suffolk,30
+BikeCarEnteringRoundabout,2.0122E+16,2012,Suffolk,20
+BikeCarEnteringRoundabout,2.0122E+16,2012,Suffolk,29
+BikeCarEnteringRoundabout,2.0122E+16,2012,Suffolk,70
+BikeCarEnteringRoundabout,2.0122E+16,2012,Suffolk,28
+BikeCarEnteringRoundabout,20122012400BA0551,2012,Bedford Borough Council,34
+BikeCarEnteringRoundabout,201220124100D0270,2012,Hertfordshire,47
+BikeCarEnteringRoundabout,201220124100G0516,2012,Hertfordshire,62
+BikeCarEnteringRoundabout,2012201242I024201,2012,Essex,65
+BikeCarEnteringRoundabout,2012201242I055602,2012,Essex,41
+BikeCarEnteringRoundabout,2012201242I087303,2012,Essex,53
+BikeCarEnteringRoundabout,2012201242I095304,2012,Essex,25
+BikeCarEnteringRoundabout,2012201242I188806,2012,Essex,40
+BikeCarEnteringRoundabout,2012201242I258208,2012,Essex,46
+BikeCarEnteringRoundabout,2012201242I371311,2012,Essex,20
+BikeCarEnteringRoundabout,2012201242I376911,2012,Essex,34
+BikeCarEnteringRoundabout,2012201243N200082,2012,Buckinghamshire,40
+BikeCarEnteringRoundabout,2012201243P213062,2012,Oxfordshire,66
+BikeCarEnteringRoundabout,2012201243P268052,2012,Oxfordshire,47
+BikeCarEnteringRoundabout,2012201243R028082,2012,Windsor and Maidenhead,44
+BikeCarEnteringRoundabout,2012201243R225012,2012,Bracknell Forest,37
+BikeCarEnteringRoundabout,2012201243W028052,2012,Wokingham,37
+BikeCarEnteringRoundabout,2012201243W101062,2012,Reading,29
+BikeCarEnteringRoundabout,2.0122E+16,2012,Hampshire,20
+BikeCarEnteringRoundabout,2.0122E+16,2012,Hampshire,16
+BikeCarEnteringRoundabout,2.0122E+16,2012,Hampshire,52
+BikeCarEnteringRoundabout,2.0122E+16,2012,Hampshire,47
+BikeCarEnteringRoundabout,2.0122E+16,2012,Portsmouth,34
+BikeCarEnteringRoundabout,2.0122E+16,2012,Hampshire,20
+BikeCarEnteringRoundabout,2.0122E+16,2012,Portsmouth,11
+BikeCarEnteringRoundabout,2.0122E+16,2012,Surrey,21
+BikeCarEnteringRoundabout,2.0122E+16,2012,Surrey,30
+BikeCarEnteringRoundabout,2.0122E+16,2012,Surrey,42
+BikeCarEnteringRoundabout,2012201245EP69420,2012,Surrey,-1
+BikeCarEnteringRoundabout,2012201245GU68662,2012,Surrey,43
+BikeCarEnteringRoundabout,2012201245GU72021,2012,Surrey,15
+BikeCarEnteringRoundabout,2012201245GU73830,2012,Surrey,52
+BikeCarEnteringRoundabout,2012201245RE67535,2012,Surrey,39
+BikeCarEnteringRoundabout,2.0122E+16,2012,Kent,62
+BikeCarEnteringRoundabout,2.0122E+16,2012,Kent,39
+BikeCarEnteringRoundabout,2.0122E+16,2012,Kent,32
+BikeCarEnteringRoundabout,2.0122E+16,2012,West Sussex,42
+BikeCarEnteringRoundabout,2.0122E+16,2012,Brighton and Hove,44
+BikeCarEnteringRoundabout,2.0122E+16,2012,East Sussex,46
+BikeCarEnteringRoundabout,2.0122E+16,2012,West Sussex,46
+BikeCarEnteringRoundabout,2.0122E+16,2012,West Sussex,55
+BikeCarEnteringRoundabout,2.0122E+16,2012,West Sussex,30
+BikeCarEnteringRoundabout,2.0122E+16,2012,West Sussex,66
+BikeCarEnteringRoundabout,2.0122E+16,2012,East Sussex,47
+BikeCarEnteringRoundabout,2.0122E+16,2012,West Sussex,57
+BikeCarEnteringRoundabout,2.0122E+16,2012,East Sussex,42
+BikeCarEnteringRoundabout,2012201250CB2W012,2012,Devon,33
+BikeCarEnteringRoundabout,2012201250ED2N038,2012,Plymouth,56
+BikeCarEnteringRoundabout,2012201250JN2B004,2012,Devon,49
+BikeCarEnteringRoundabout,2012201250KE5Q009,2012,Devon,52
+BikeCarEnteringRoundabout,2.0122E+16,2012,South Gloucestershire,37
+BikeCarEnteringRoundabout,2.0122E+16,2012,South Gloucestershire,40
+BikeCarEnteringRoundabout,2.0122E+16,2012,Gloucestershire,64
+BikeCarEnteringRoundabout,2.0122E+16,2012,Gloucestershire,26
+BikeCarEnteringRoundabout,20122012552C02436,2012,Bournemouth,26
+BikeCarEnteringRoundabout,20122012552C34152,2012,Poole,28
+BikeCarEnteringRoundabout,20122012552C45156,2012,Poole,42

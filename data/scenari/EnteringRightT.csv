@@ -1,0 +1,3003 @@
+Scenario,urn,accyr,LAName,Age
+EnteringRightT,199901BH00181,1999,London,15
+EnteringRightT,199901BS00309,1999,London,26
+EnteringRightT,199901FH00114,1999,London,27
+EnteringRightT,199901GN00326,1999,London,28
+EnteringRightT,199901HT00675,1999,London,16
+EnteringRightT,199901JC00111,1999,London,68
+EnteringRightT,199901JC00621,1999,London,18
+EnteringRightT,199901JI00337,1999,London,26
+EnteringRightT,199901JI00447,1999,London,35
+EnteringRightT,199901KG00408,1999,London,29
+EnteringRightT,199901LX00370,1999,London,35
+EnteringRightT,199901MD00172,1999,London,29
+EnteringRightT,199901MD00498,1999,London,6
+EnteringRightT,199901MM00489,1999,London,28
+EnteringRightT,199901NH00130,1999,London,18
+EnteringRightT,199901NH00138,1999,London,26
+EnteringRightT,199901NI00271,1999,London,37
+EnteringRightT,199901PL00321,1999,London,24
+EnteringRightT,199901PL00511,1999,London,13
+EnteringRightT,199901PL00845,1999,London,34
+EnteringRightT,199901QA00358,1999,London,14
+EnteringRightT,199901QK00077,1999,London,24
+EnteringRightT,199901SC00674,1999,London,7
+EnteringRightT,199901SC00852,1999,London,10
+EnteringRightT,199901TG00268,1999,Surrey,44
+EnteringRightT,199901TG00328,1999,Surrey,85
+EnteringRightT,199901TG00450,1999,Surrey,14
+EnteringRightT,199901TW00112,1999,London,22
+EnteringRightT,199901TW00223,1999,London,24
+EnteringRightT,199901TW00508,1999,London,81
+EnteringRightT,199901TX01125,1999,London,33
+EnteringRightT,199901VK00053,1999,London,66
+EnteringRightT,199901VK00620,1999,London,42
+EnteringRightT,199901WW01220,1999,London,24
+EnteringRightT,199901XD00761,1999,London,28
+EnteringRightT,199901XH00556,1999,London,72
+EnteringRightT,199901YE00386,1999,London,16
+EnteringRightT,199901YE00448,1999,London,13
+EnteringRightT,199901ZD00373,1999,London,11
+EnteringRightT,199901ZP00312,1999,Surrey,14
+EnteringRightT,199901ZP00638,1999,London,12
+EnteringRightT,1.99903E+12,1999,Cumbria,8
+EnteringRightT,1.99903E+12,1999,Cumbria,11
+EnteringRightT,1.99903E+12,1999,Cumbria,18
+EnteringRightT,1.99903E+12,1999,Cumbria,25
+EnteringRightT,1.99903E+12,1999,Cumbria,9
+EnteringRightT,1.99903E+12,1999,Cumbria,13
+EnteringRightT,1.99903E+12,1999,Cumbria,25
+EnteringRightT,199904A015899,1999,Blackpool,31
+EnteringRightT,199904A074299,1999,Blackpool,15
+EnteringRightT,199904B050299,1999,Lancashire,18
+EnteringRightT,199904B066999,1999,Lancashire,17
+EnteringRightT,199904C031899,1999,Lancashire,9
+EnteringRightT,199904C041699,1999,Lancashire,8
+EnteringRightT,199904C064799,1999,Lancashire,10
+EnteringRightT,199904C085999,1999,Lancashire,9
+EnteringRightT,199904C092599,1999,Lancashire,14
+EnteringRightT,199904D007399,1999,Lancashire,6
+EnteringRightT,199904D069199,1999,Lancashire,24
+EnteringRightT,199904E083799,1999,Blackburn with Darwen,13
+EnteringRightT,199904F019399,1999,Lancashire,38
+EnteringRightT,199904F059599,1999,Lancashire,6
+EnteringRightT,1.99905E+12,1999,Merseyside,3
+EnteringRightT,1.99905E+12,1999,Merseyside,15
+EnteringRightT,1.99905E+12,1999,Merseyside,25
+EnteringRightT,1.99905E+12,1999,Merseyside,12
+EnteringRightT,1.99905E+12,1999,Merseyside,27
+EnteringRightT,1.99905E+12,1999,Merseyside,51
+EnteringRightT,1.99905E+12,1999,Merseyside,8
+EnteringRightT,1.99905E+12,1999,Merseyside,8
+EnteringRightT,1.99905E+12,1999,Merseyside,13
+EnteringRightT,1.99905E+12,1999,Merseyside,12
+EnteringRightT,1.99905E+12,1999,Merseyside,23
+EnteringRightT,199906A005243,1999,Manchester,6
+EnteringRightT,199906A005465,1999,Manchester,33
+EnteringRightT,199906A005848,1999,Manchester,14
+EnteringRightT,199906A403199,1999,Manchester,16
+EnteringRightT,199906C007466,1999,Manchester,29
+EnteringRightT,199906C008288,1999,Manchester,20
+EnteringRightT,199906C008909,1999,Manchester,23
+EnteringRightT,199906C632499,1999,Manchester,76
+EnteringRightT,199906F005156,1999,Salford,13
+EnteringRightT,199906F385299,1999,Salford,27
+EnteringRightT,199906G003637,1999,Tameside,11
+EnteringRightT,199906G003748,1999,Tameside,8
+EnteringRightT,199906G003984,1999,Tameside,10
+EnteringRightT,199906J005115,1999,Stockport,33
+EnteringRightT,199906J005548,1999,Stockport,19
+EnteringRightT,199906J382199,1999,Stockport,27
+EnteringRightT,199906J410199,1999,Stockport,17
+EnteringRightT,199906J427099,1999,Stockport,26
+EnteringRightT,199906K004715,1999,Bolton,27
+EnteringRightT,199906K005222,1999,Bolton,11
+EnteringRightT,199906K005261,1999,Bolton,14
+EnteringRightT,199906K449099,1999,Bolton,13
+EnteringRightT,199906N003842,1999,Bury,13
+EnteringRightT,199906N003851,1999,Bury,50
+EnteringRightT,199906N004001,1999,Bury,13
+EnteringRightT,199906P003804,1999,Rochdale,13
+EnteringRightT,199906P004267,1999,Rochdale,12
+EnteringRightT,199906Q004912,1999,Oldham,14
+EnteringRightT,199906Q005073,1999,Oldham,50
+EnteringRightT,1999079A10867,1999,Cheshire East,9
+EnteringRightT,1999079A11305,1999,Cheshire East,8
+EnteringRightT,1999079A20450,1999,Cheshire West and Chester,21
+EnteringRightT,1999079A31297,1999,Cheshire West and Chester,14
+EnteringRightT,1999079A40067,1999,Cheshire West and Chester,12
+EnteringRightT,1999079A41134,1999,Cheshire West and Chester,89
+EnteringRightT,1999079B20568,1999,Warrington,27
+EnteringRightT,1999079B21188,1999,Warrington,11
+EnteringRightT,1999079B21193,1999,Warrington,17
+EnteringRightT,1999079C21245,1999,Cheshire West and Chester,18
+EnteringRightT,1999079C31434,1999,Cheshire West and Chester,11
+EnteringRightT,1999079C31571,1999,Cheshire West and Chester,15
+EnteringRightT,1999079C31701,1999,Cheshire West and Chester,36
+EnteringRightT,199907DUP0116,1999,Cheshire West and Chester,25
+EnteringRightT,199910B227899,1999,Northumberland,10
+EnteringRightT,199910C087399,1999,Northumberland,16
+EnteringRightT,199910G282699,1999,Newcastle upon Tyne,71
+EnteringRightT,199910K211099,1999,Gateshead,5
+EnteringRightT,199910M202799,1999,South Tyneside,14
+EnteringRightT,199910N178199,1999,South Tyneside,31
+EnteringRightT,199910N333499,1999,South Tyneside,31
+EnteringRightT,1.99912E+12,1999,North Yorkshire,15
+EnteringRightT,1.99912E+12,1999,North Yorkshire,14
+EnteringRightT,1.99912E+12,1999,North Yorkshire,5
+EnteringRightT,1.99912E+12,1999,York,25
+EnteringRightT,199913CB24999,1999,Leeds,14
+EnteringRightT,199913DA48499,1999,Wakefield,14
+EnteringRightT,199913EA39799,1999,Kirklees,12
+EnteringRightT,199913EC44399,1999,Kirklees,11
+EnteringRightT,199913FA01799,1999,Calderdale,60
+EnteringRightT,199913FA05099,1999,Calderdale,9
+EnteringRightT,199913FD21399,1999,Calderdale,11
+EnteringRightT,199913FD35699,1999,Calderdale,14
+EnteringRightT,199913HA19699,1999,Bradford,11
+EnteringRightT,199914AA00193,1999,Doncaster,23
+EnteringRightT,199914BB00238,1999,Doncaster,51
+EnteringRightT,199914BB00491,1999,Doncaster,15
+EnteringRightT,199914BB00758,1999,Doncaster,14
+EnteringRightT,199914DD00528,1999,Barnsley,14
+EnteringRightT,199914EE00107,1999,Barnsley,15
+EnteringRightT,199914EE00454,1999,Barnsley,13
+EnteringRightT,199914GG00194,1999,Rotherham,26
+EnteringRightT,199914GG00261,1999,Rotherham,14
+EnteringRightT,199914HH00806,1999,Sheffield,14
+EnteringRightT,199914JJ00007,1999,Sheffield,18
+EnteringRightT,199916A009899,1999,North East Lincolnshire,8
+EnteringRightT,199916A017599,1999,North East Lincolnshire,55
+EnteringRightT,199916A023099,1999,North East Lincolnshire,9
+EnteringRightT,199916A028999,1999,North East Lincolnshire,18
+EnteringRightT,199916A036499,1999,North East Lincolnshire,10
+EnteringRightT,199916A036699,1999,North East Lincolnshire,25
+EnteringRightT,199916A036799,1999,North East Lincolnshire,12
+EnteringRightT,199916A038199,1999,North East Lincolnshire,13
+EnteringRightT,199916A045999,1999,North East Lincolnshire,11
+EnteringRightT,199916A065899,1999,North East Lincolnshire,23
+EnteringRightT,199916B033099,1999,North Lincolnshire,50
+EnteringRightT,199916B049399,1999,North Lincolnshire,37
+EnteringRightT,199916C032499,1999,East Riding of Yorkshire,13
+EnteringRightT,199916C049599,1999,East Riding of Yorkshire,14
+EnteringRightT,199916C063599,1999,East Riding of Yorkshire,14
+EnteringRightT,199916D021899,1999,Kingston Upon Hull,11
+EnteringRightT,199916D024499,1999,Kingston Upon Hull,14
+EnteringRightT,199916E010299,1999,Kingston Upon Hull,13
+EnteringRightT,199916E042099,1999,Kingston Upon Hull,19
+EnteringRightT,199916F021999,1999,Kingston Upon Hull,11
+EnteringRightT,199916F026199,1999,Kingston Upon Hull,17
+EnteringRightT,199917H100123,1999,Hartlepool,11
+EnteringRightT,199917S100203,1999,Stockton on Tees,12
+EnteringRightT,199920E119201,1999,Birmingham,13
+EnteringRightT,199920E142601,1999,Birmingham,9
+EnteringRightT,199920F080101,1999,Birmingham,14
+EnteringRightT,199920F112501,1999,Birmingham,7
+EnteringRightT,199920F245101,1999,Birmingham,6
+EnteringRightT,199920F340001,1999,Birmingham,22
+EnteringRightT,199920G002801,1999,Wolverhampton,65
+EnteringRightT,199920G056002,1999,Wolverhampton,16
+EnteringRightT,199920G066702,1999,Wolverhampton,16
+EnteringRightT,199920H058302,1999,Walsall,11
+EnteringRightT,199920H070002,1999,Walsall,34
+EnteringRightT,199920K092101,1999,Sandwell,9
+EnteringRightT,199920K102001,1999,Sandwell,13
+EnteringRightT,199920L018701,1999,Solihull,13
+EnteringRightT,199920L088501,1999,Solihull,5
+EnteringRightT,199920M059001,1999,Coventry,32
+EnteringRightT,199920M087301,1999,Coventry,29
+EnteringRightT,199920M172501,1999,Coventry,6
+EnteringRightT,199920M172801,1999,Coventry,29
+EnteringRightT,1.99922E+12,1999,Stoke on Trent,8
+EnteringRightT,1.99922E+12,1999,Staffordshire,10
+EnteringRightT,1.99922E+12,1999,Staffordshire,11
+EnteringRightT,1.99922E+12,1999,Staffordshire,6
+EnteringRightT,1.99922E+12,1999,Staffordshire,
+EnteringRightT,1.99922E+12,1999,Staffordshire,12
+EnteringRightT,1.99922E+12,1999,Staffordshire,12
+EnteringRightT,1.99922E+12,1999,Staffordshire,23
+EnteringRightT,1.99922E+12,1999,Staffordshire,14
+EnteringRightT,1.99922E+12,1999,Staffordshire,7
+EnteringRightT,1.99922E+12,1999,Staffordshire,10
+EnteringRightT,1.99922E+12,1999,Staffordshire,14
+EnteringRightT,1.99922E+12,1999,Staffordshire,76
+EnteringRightT,1.99922E+12,1999,Staffordshire,
+EnteringRightT,199922BM01967,1999,Worcestershire,18
+EnteringRightT,199922BU01122,1999,Worcestershire,15
+EnteringRightT,199922CE11117,1999,Worcestershire,29
+EnteringRightT,199922CF02513,1999,Worcestershire,19
+EnteringRightT,199922CK01505,1999,Worcestershire,15
+EnteringRightT,199922EB11434,1999,Herefordshire,15
+EnteringRightT,199922EK01986,1999,Herefordshire,10
+EnteringRightT,199922EN01876,1999,Herefordshire,10
+EnteringRightT,199922FA10210,1999,Shropshire,25
+EnteringRightT,199922FC10366,1999,Shropshire,13
+EnteringRightT,199922FE11165,1999,Shropshire,20
+EnteringRightT,199922FJ01274,1999,Shropshire,10
+EnteringRightT,199922FT01673,1999,Shropshire,11
+EnteringRightT,199922FU01674,1999,Shropshire,10
+EnteringRightT,199922FZ00276,1999,Shropshire,70
+EnteringRightT,199922GJ03482,1999,Telford and Wrekin,17
+EnteringRightT,1.99924E+12,1999,Warwickshire,14
+EnteringRightT,1.99924E+12,1999,Warwickshire,13
+EnteringRightT,1.99924E+12,1999,Warwickshire,18
+EnteringRightT,1999309A00166,1999,Derbyshire,12
+EnteringRightT,1999309B00155,1999,Derbyshire,22
+EnteringRightT,199930A000396,1999,Derbyshire,10
+EnteringRightT,199930A000502,1999,Derbyshire,12
+EnteringRightT,199930A000514,1999,Derbyshire,11
+EnteringRightT,199930A000566,1999,Derbyshire,13
+EnteringRightT,199930B000421,1999,Derbyshire,9
+EnteringRightT,199930C000450,1999,Derbyshire,12
+EnteringRightT,199930C000698,1999,Derbyshire,11
+EnteringRightT,199930D000456,1999,Derby,12
+EnteringRightT,1999317A20394,1999,Nottinghamshire,14
+EnteringRightT,1999317B40912,1999,Nottingham,14
+EnteringRightT,1999317B41171,1999,Nottingham,10
+EnteringRightT,1999317C20782,1999,Nottinghamshire,13
+EnteringRightT,1999317C41723,1999,Nottingham,20
+EnteringRightT,1999317D21440,1999,Nottinghamshire,72
+EnteringRightT,1999317E81205,1999,Nottinghamshire,16
+EnteringRightT,199932B005429,1999,Lincolnshire,65
+EnteringRightT,199932B007779,1999,Lincolnshire,14
+EnteringRightT,199932B009199,1999,Lincolnshire,18
+EnteringRightT,199932B009559,1999,Lincolnshire,13
+EnteringRightT,199932B010489,1999,Lincolnshire,15
+EnteringRightT,199932C003589,1999,Lincolnshire,72
+EnteringRightT,199932C004899,1999,Lincolnshire,13
+EnteringRightT,199932D004939,1999,Lincolnshire,11
+EnteringRightT,1.99934E+12,1999,Leicestershire,20
+EnteringRightT,1.99934E+12,1999,Leicestershire,16
+EnteringRightT,1.99934E+12,1999,Leicestershire,17
+EnteringRightT,1.99934E+12,1999,Leicestershire,38
+EnteringRightT,1.99934E+12,1999,Leicestershire,14
+EnteringRightT,1.99934E+12,1999,Leicestershire,15
+EnteringRightT,1.99934E+12,1999,Leicestershire,16
+EnteringRightT,1.99934E+12,1999,Leicestershire,16
+EnteringRightT,1.99934E+12,1999,Leicestershire,16
+EnteringRightT,1.99934E+12,1999,Leicestershire,16
+EnteringRightT,1.99934E+12,1999,Leicestershire,27
+EnteringRightT,1.99934E+12,1999,Leicestershire,7
+EnteringRightT,1.99934E+12,1999,Leicestershire,19
+EnteringRightT,1.99934E+12,1999,Leicestershire,20
+EnteringRightT,1.99934E+12,1999,Leicestershire,73
+EnteringRightT,199934ND00223,1999,Northamptonshire,18
+EnteringRightT,199934ND00774,1999,Northamptonshire,16
+EnteringRightT,199934NN01120,1999,Northamptonshire,18
+EnteringRightT,199934NW00016,1999,Northamptonshire,73
+EnteringRightT,1.99935E+12,1999,Cambridgeshire,15
+EnteringRightT,1.99935E+12,1999,Cambridgeshire,60
+EnteringRightT,1.99935E+12,1999,Cambridgeshire,14
+EnteringRightT,1.99935E+12,1999,Cambridgeshire,6
+EnteringRightT,1.99935E+12,1999,Cambridgeshire,18
+EnteringRightT,1.99935E+12,1999,Peterborough,13
+EnteringRightT,1.99935E+12,1999,Cambridgeshire,11
+EnteringRightT,1.99935E+12,1999,Cambridgeshire,10
+EnteringRightT,1.99935E+12,1999,Cambridgeshire,
+EnteringRightT,1.99935E+12,1999,Cambridgeshire,8
+EnteringRightT,1.99935E+12,1999,Cambridgeshire,50
+EnteringRightT,199936G990622,1999,Norfolk,12
+EnteringRightT,199936N990023,1999,Norfolk,51
+EnteringRightT,199936N990402,1999,Norfolk,26
+EnteringRightT,199936N990927,1999,Norfolk,22
+EnteringRightT,199936T990084,1999,Norfolk,32
+EnteringRightT,199937G004211,1999,Suffolk,86
+EnteringRightT,199937G004556,1999,Suffolk,19
+EnteringRightT,199937G004992,1999,Suffolk,17
+EnteringRightT,199937L003091,1999,Suffolk,9
+EnteringRightT,199937L003543,1999,Suffolk,10
+EnteringRightT,199937L003732,1999,Suffolk,13
+EnteringRightT,199940B226899,1999,Bedford Borough Council,53
+EnteringRightT,199940C036999,1999,Luton,
+EnteringRightT,199940C140499,1999,Luton,25
+EnteringRightT,199940C172799,1999,Bedford Borough Council,8
+EnteringRightT,19994100A0506,1999,Hertfordshire,18
+EnteringRightT,19994100B0223,1999,Hertfordshire,15
+EnteringRightT,19994100B0253,1999,Hertfordshire,6
+EnteringRightT,19994100C0180,1999,Hertfordshire,34
+EnteringRightT,19994100C0696,1999,Hertfordshire,17
+EnteringRightT,19994100D0386,1999,Hertfordshire,13
+EnteringRightT,2.00E+12,1999,Hertfordshire,67
+EnteringRightT,2.00E+15,1999,Hertfordshire,11
+EnteringRightT,19994200C0181,1999,Essex,
+EnteringRightT,19994200D0210,1999,Essex,14
+EnteringRightT,19994200D0261,1999,Essex,16
+EnteringRightT,2.00E+111,1999,Essex,12
+EnteringRightT,19994200G0516,1999,Essex,35
+EnteringRightT,19994200G0537,1999,Essex,13
+EnteringRightT,19994200H0028,1999,Southend on Sea,12
+EnteringRightT,19994200J0168,1999,Essex,12
+EnteringRightT,199943N023059,1999,Buckinghamshire,14
+EnteringRightT,199943N080109,1999,Buckinghamshire,16
+EnteringRightT,199943N081079,1999,Buckinghamshire,63
+EnteringRightT,199943N465119,1999,Buckinghamshire,18
+EnteringRightT,199943P020049,1999,Oxfordshire,73
+EnteringRightT,199943P124079,1999,Oxfordshire,23
+EnteringRightT,199943P139069,1999,Oxfordshire,16
+EnteringRightT,199943P167039,1999,Oxfordshire,20
+EnteringRightT,199943P212059,1999,Oxfordshire,11
+EnteringRightT,199943P221119,1999,Oxfordshire,14
+EnteringRightT,199943P282089,1999,Oxfordshire,43
+EnteringRightT,199943P310059,1999,Oxfordshire,41
+EnteringRightT,199943P392049,1999,Oxfordshire,10
+EnteringRightT,199943P404039,1999,Oxfordshire,17
+EnteringRightT,199943R121029,1999,Slough,12
+EnteringRightT,199943R326049,1999,Windsor and Maidenhead,14
+EnteringRightT,199943R362079,1999,Windsor and Maidenhead,11
+EnteringRightT,199943W008109,1999,Reading,9
+EnteringRightT,199943W169049,1999,Wokingham,13
+EnteringRightT,199943W215079,1999,West Berkshire,14
+EnteringRightT,199943W256039,1999,Wokingham,71
+EnteringRightT,1999440AA0093,1999,Hampshire,14
+EnteringRightT,1999440AA0969,1999,Hampshire,43
+EnteringRightT,1999440AA1214,1999,Hampshire,6
+EnteringRightT,1999440AA1772,1999,Hampshire,17
+EnteringRightT,1999440DF0020,1999,Hampshire,38
+EnteringRightT,1999440DW0121,1999,Hampshire,18
+EnteringRightT,1999440HP0211,1999,Hampshire,14
+EnteringRightT,1999440JH0326,1999,Hampshire,7
+EnteringRightT,1999440JL0069,1999,Hampshire,65
+EnteringRightT,1999440JL0098,1999,Hampshire,17
+EnteringRightT,1999440KS0501,1999,Portsmouth,13
+EnteringRightT,1999440KS0530,1999,Portsmouth,21
+EnteringRightT,1999440KS0664,1999,Portsmouth,13
+EnteringRightT,1999440LA0680,1999,Hampshire,17
+EnteringRightT,1999440OC0471,1999,Hampshire,21
+EnteringRightT,1999440OC1742,1999,Hampshire,34
+EnteringRightT,1999440OL0315,1999,Hampshire,58
+EnteringRightT,1999440RF0207,1999,Portsmouth,17
+EnteringRightT,1999440RF0646,1999,Portsmouth,19
+EnteringRightT,1999440SP0155,1999,Southampton ,14
+EnteringRightT,1999440TB0264,1999,Southampton ,15
+EnteringRightT,1999440TB0338,1999,Southampton ,14
+EnteringRightT,1999440TB0396,1999,Southampton ,13
+EnteringRightT,1999440TB0646,1999,Southampton ,11
+EnteringRightT,1999440YS0156,1999,Southampton ,12
+EnteringRightT,1999440ZD0404,1999,Isle of Wight,8
+EnteringRightT,199945NA00260,1999,Surrey,11
+EnteringRightT,199945NA00305,1999,Surrey,8
+EnteringRightT,199945WF00047,1999,Surrey,60
+EnteringRightT,199946CT06308,1999,Kent,17
+EnteringRightT,199946CT10469,1999,Kent,21
+EnteringRightT,199946MA01349,1999,Kent,10
+EnteringRightT,199946MA09993,1999,Kent,16
+EnteringRightT,199946NK18078,1999,Kent,11
+EnteringRightT,199946SK06936,1999,Kent,12
+EnteringRightT,199946SK08209,1999,Kent,84
+EnteringRightT,199946TH51011,1999,Kent,22
+EnteringRightT,199947H002878,1999,West Sussex,13
+EnteringRightT,199947N002110,1999,West Sussex,62
+EnteringRightT,199947N003447,1999,West Sussex,18
+EnteringRightT,199947S003091,1999,East Sussex,25
+EnteringRightT,199947T002758,1999,East Sussex,15
+EnteringRightT,199947T003262,1999,East Sussex,77
+EnteringRightT,199947X003554,1999,West Sussex,11
+EnteringRightT,199947X003721,1999,West Sussex,10
+EnteringRightT,199947Y002208,1999,West Sussex,38
+EnteringRightT,199947Y002688,1999,West Sussex,15
+EnteringRightT,199950A220314,1999,Cornwall and Isles of Scilly,25
+EnteringRightT,199950A613237,1999,Cornwall and Isles of Scilly,19
+EnteringRightT,199950B421849,1999,Cornwall and Isles of Scilly,6
+EnteringRightT,199950C516332,1999,Devon,12
+EnteringRightT,199950D213506,1999,Devon,12
+EnteringRightT,199950E610593,1999,Devon,52
+EnteringRightT,1.99952E+12,1999,North Somerset,19
+EnteringRightT,1.99952E+12,1999,City of Bristol,12
+EnteringRightT,1.99952E+12,1999,City of Bristol,11
+EnteringRightT,1.99952E+12,1999,Somerset,52
+EnteringRightT,1.99952E+12,1999,City of Bristol,7
+EnteringRightT,1.99952E+12,1999,City of Bristol,10
+EnteringRightT,1.99952E+12,1999,City of Bristol,13
+EnteringRightT,1.99952E+12,1999,South Gloucestershire,14
+EnteringRightT,1.99952E+12,1999,City of Bristol,17
+EnteringRightT,1.99952E+12,1999,City of Bristol,14
+EnteringRightT,1.99952E+12,1999,Somerset,7
+EnteringRightT,1.99952E+12,1999,Bath and North East Somerset,24
+EnteringRightT,1.99952E+12,1999,North Somerset,57
+EnteringRightT,1.99952E+12,1999,Somerset,15
+EnteringRightT,1.99952E+12,1999,City of Bristol,28
+EnteringRightT,1999530AI0143,1999,Gloucestershire,10
+EnteringRightT,1999530AI1141,1999,Gloucestershire,13
+EnteringRightT,1999530AI1394,1999,Gloucestershire,16
+EnteringRightT,1999530AI1725,1999,Gloucestershire,10
+EnteringRightT,1999530AI2397,1999,Gloucestershire,11
+EnteringRightT,1999530AI2573,1999,Gloucestershire,10
+EnteringRightT,1999530AI2667,1999,Gloucestershire,9
+EnteringRightT,1999530AI3086,1999,Gloucestershire,28
+EnteringRightT,1999530AI3103,1999,Gloucestershire,15
+EnteringRightT,1999530AI3848,1999,Gloucestershire,17
+EnteringRightT,199954CR50299,1999,Wiltshire,12
+EnteringRightT,199954DS01479,1999,Swindon,9
+EnteringRightT,199954DS65599,1999,Swindon,66
+EnteringRightT,1999550B03345,1999,Bournemouth,21
+EnteringRightT,1999550P00249,1999,Poole,11
+EnteringRightT,1999550P04268,1999,Poole,10
+EnteringRightT,1999550P05285,1999,Poole,36
+EnteringRightT,1999559E04404,1999,Dorset,23
+EnteringRightT,200001BS00081,2000,London,39
+EnteringRightT,200001BS01031,2000,London,38
+EnteringRightT,200001DM00978,2000,London,36
+EnteringRightT,200001DM01501,2000,London,36
+EnteringRightT,200001EK00210,2000,London,45
+EnteringRightT,200001EK00572,2000,London,40
+EnteringRightT,200001FH00279,2000,London,7
+EnteringRightT,200001FH00896,2000,London,12
+EnteringRightT,200001GD00144,2000,London,42
+EnteringRightT,200001GD00177,2000,London,15
+EnteringRightT,200001GD00332,2000,London,33
+EnteringRightT,200001GD00538,2000,London,50
+EnteringRightT,200001HT00613,2000,London,8
+EnteringRightT,200001HT00726,2000,London,17
+EnteringRightT,200001KG00187,2000,London,14
+EnteringRightT,200001KG00359,2000,London,8
+EnteringRightT,200001LX00629,2000,London,69
+EnteringRightT,200001LX01264,2000,London,38
+EnteringRightT,200001LX01536,2000,London,13
+EnteringRightT,200001MM00668,2000,London,30
+EnteringRightT,200001NI01201,2000,London,36
+EnteringRightT,200001PL00445,2000,London,9
+EnteringRightT,200001PY00584,2000,London,54
+EnteringRightT,200001QA00338,2000,London,17
+EnteringRightT,200001QA00473,2000,London,15
+EnteringRightT,200001RG00045,2000,London,13
+EnteringRightT,200001RG00407,2000,London,15
+EnteringRightT,200001TW00312,2000,London,11
+EnteringRightT,200001TX01192,2000,London,34
+EnteringRightT,200001VK00339,2000,London,70
+EnteringRightT,200001XH00476,2000,London,
+EnteringRightT,200001XH00630,2000,London,16
+EnteringRightT,200001ZD00060,2000,London,22
+EnteringRightT,200001ZD00299,2000,London,54
+EnteringRightT,200001ZD00670,2000,London,34
+EnteringRightT,200001ZP00129,2000,London,12
+EnteringRightT,2.00003E+12,2000,Cumbria,12
+EnteringRightT,2.00003E+12,2000,Cumbria,60
+EnteringRightT,2.00003E+12,2000,Cumbria,10
+EnteringRightT,200004A018200,2000,Blackpool,13
+EnteringRightT,200004A057400,2000,Lancashire,14
+EnteringRightT,200004A062100,2000,Blackpool,15
+EnteringRightT,200004A079700,2000,Blackpool,46
+EnteringRightT,200004B044900,2000,Lancashire,50
+EnteringRightT,200004B072200,2000,Lancashire,32
+EnteringRightT,200004C067700,2000,Lancashire,13
+EnteringRightT,200004E035000,2000,Lancashire,22
+EnteringRightT,200004E045400,2000,Blackburn with Darwen,15
+EnteringRightT,200004E072400,2000,Lancashire,10
+EnteringRightT,200004F026300,2000,Lancashire,6
+EnteringRightT,200004F034200,2000,Lancashire,14
+EnteringRightT,200004F054700,2000,Lancashire,10
+EnteringRightT,200004F057700,2000,Lancashire,8
+EnteringRightT,2.00005E+12,2000,Merseyside,32
+EnteringRightT,2.00005E+12,2000,Merseyside,14
+EnteringRightT,2.00005E+12,2000,Merseyside,9
+EnteringRightT,2.00005E+12,2000,Merseyside,14
+EnteringRightT,2.00005E+12,2000,Merseyside,11
+EnteringRightT,2.00005E+12,2000,Merseyside,13
+EnteringRightT,200006C010245,2000,Manchester,15
+EnteringRightT,200006C010568,2000,Manchester,20
+EnteringRightT,200006C011225,2000,Manchester,69
+EnteringRightT,200006C011306,2000,Manchester,10
+EnteringRightT,200006C012093,2000,Manchester,56
+EnteringRightT,200006C012484,2000,Manchester,31
+EnteringRightT,200006F007082,2000,Salford,15
+EnteringRightT,200006G004606,2000,Tameside,27
+EnteringRightT,200006J006138,2000,Stockport,21
+EnteringRightT,200006L006716,2000,Wigan,5
+EnteringRightT,200006L006901,2000,Wigan,10
+EnteringRightT,200006L007051,2000,Wigan,12
+EnteringRightT,200006L007719,2000,Wigan,11
+EnteringRightT,200006L007867,2000,Wigan,11
+EnteringRightT,200006L007997,2000,Wigan,14
+EnteringRightT,200006L008292,2000,Wigan,57
+EnteringRightT,200006N004440,2000,Bury,53
+EnteringRightT,200006N005090,2000,Bury,9
+EnteringRightT,200006N005103,2000,Bury,9
+EnteringRightT,200006N005358,2000,Bury,18
+EnteringRightT,200006P005251,2000,Rochdale,14
+EnteringRightT,200006P005292,2000,Rochdale,4
+EnteringRightT,200006P005618,2000,Rochdale,10
+EnteringRightT,200006P006754,2000,Rochdale,42
+EnteringRightT,2.00007E+12,2000,Cheshire West and Chester,29
+EnteringRightT,2.00007E+12,2000,Cheshire West and Chester,30
+EnteringRightT,2.00007E+12,2000,Cheshire West and Chester,44
+EnteringRightT,200010G104100,2000,Newcastle upon Tyne,10
+EnteringRightT,200010H459700,2000,North Tyneside,34
+EnteringRightT,200010O211100,2000,South Tyneside,19
+EnteringRightT,200011AA32790,2000,Durham,16
+EnteringRightT,2.00012E+12,2000,North Yorkshire,12
+EnteringRightT,2.00012E+12,2000,North Yorkshire,14
+EnteringRightT,2.00012E+12,2000,North Yorkshire,13
+EnteringRightT,2.00012E+12,2000,North Yorkshire,9
+EnteringRightT,2.00012E+12,2000,North Yorkshire,7
+EnteringRightT,2.00012E+12,2000,North Yorkshire,7
+EnteringRightT,2.00012E+12,2000,York,57
+EnteringRightT,2.00013E+12,2000,Bradford,12
+EnteringRightT,2.00013E+12,2000,Leeds,11
+EnteringRightT,2.00013E+12,2000,Bradford,13
+EnteringRightT,2.00013E+12,2000,Leeds,26
+EnteringRightT,2.00013E+12,2000,Leeds,11
+EnteringRightT,2.00013E+12,2000,Kirklees,12
+EnteringRightT,2.00013E+12,2000,Calderdale,12
+EnteringRightT,2.00013E+12,2000,Wakefield,15
+EnteringRightT,200013DA01900,2000,Wakefield,15
+EnteringRightT,200013HB09800,2000,Bradford,5
+EnteringRightT,200014AA00363,2000,Doncaster,8
+EnteringRightT,200014BB00265,2000,Doncaster,14
+EnteringRightT,200014EE00237,2000,Barnsley,9
+EnteringRightT,200014EE00334,2000,Barnsley,6
+EnteringRightT,200014GG00427,2000,Rotherham,12
+EnteringRightT,200016A000400,2000,North East Lincolnshire,12
+EnteringRightT,200016A013000,2000,North East Lincolnshire,12
+EnteringRightT,200016A032200,2000,North East Lincolnshire,14
+EnteringRightT,200016A034900,2000,North East Lincolnshire,7
+EnteringRightT,200016A050500,2000,North East Lincolnshire,9
+EnteringRightT,200016A071000,2000,North East Lincolnshire,19
+EnteringRightT,200016B001500,2000,North Lincolnshire,12
+EnteringRightT,200016B030800,2000,North Lincolnshire,11
+EnteringRightT,200016B046000,2000,North Lincolnshire,10
+EnteringRightT,200016B054900,2000,North Lincolnshire,18
+EnteringRightT,200016C040800,2000,East Riding of Yorkshire,9
+EnteringRightT,200016C045200,2000,East Riding of Yorkshire,11
+EnteringRightT,200016C050800,2000,East Riding of Yorkshire,16
+EnteringRightT,200016C093400,2000,East Riding of Yorkshire,59
+EnteringRightT,200016D020600,2000,Kingston Upon Hull,14
+EnteringRightT,200016D033500,2000,Kingston Upon Hull,46
+EnteringRightT,200016D059300,2000,Kingston Upon Hull,19
+EnteringRightT,200016D088300,2000,Kingston Upon Hull,29
+EnteringRightT,200017M200163,2000,Middlesbrough,17
+EnteringRightT,200020D398702,2000,Birmingham,49
+EnteringRightT,200020E171001,2000,Birmingham,12
+EnteringRightT,200020E237601,2000,Birmingham,33
+EnteringRightT,200020F141001,2000,Birmingham,12
+EnteringRightT,200020G013901,2000,Wolverhampton,13
+EnteringRightT,200020G058002,2000,Wolverhampton,13
+EnteringRightT,200020J110402,2000,Dudley,32
+EnteringRightT,200020K096701,2000,Sandwell,72
+EnteringRightT,200020M095602,2000,Coventry,50
+EnteringRightT,2.00021E+12,2000,Stoke on Trent,10
+EnteringRightT,2.00021E+12,2000,Stoke on Trent,65
+EnteringRightT,2.00021E+12,2000,Staffordshire,66
+EnteringRightT,2.00021E+12,2000,Staffordshire,16
+EnteringRightT,2.00021E+12,2000,Staffordshire,14
+EnteringRightT,2.00021E+12,2000,Staffordshire,61
+EnteringRightT,2.00021E+12,2000,Staffordshire,10
+EnteringRightT,2.00021E+12,2000,Staffordshire,10
+EnteringRightT,2.00021E+12,2000,Staffordshire,8
+EnteringRightT,2.00021E+12,2000,Staffordshire,14
+EnteringRightT,2.00021E+12,2000,Staffordshire,12
+EnteringRightT,2.00021E+12,2000,Staffordshire,17
+EnteringRightT,200022EA12934,2000,Herefordshire,14
+EnteringRightT,200022EA13617,2000,Herefordshire,14
+EnteringRightT,200022FA19623,2000,Shropshire,14
+EnteringRightT,200022FA19732,2000,Shropshire,67
+EnteringRightT,200022FA19822,2000,Shropshire,6
+EnteringRightT,200022FA20330,2000,Shropshire,39
+EnteringRightT,200022FB18322,2000,Shropshire,15
+EnteringRightT,200022FC18408,2000,Shropshire,12
+EnteringRightT,200022GA17274,2000,Telford and Wrekin,14
+EnteringRightT,200022GB14263,2000,Telford and Wrekin,25
+EnteringRightT,200022GB14396,2000,Telford and Wrekin,28
+EnteringRightT,200022GB15382,2000,Telford and Wrekin,13
+EnteringRightT,200022GB15850,2000,Telford and Wrekin,12
+EnteringRightT,2.00023E+12,2000,Warwickshire,17
+EnteringRightT,2.00023E+12,2000,Warwickshire,12
+EnteringRightT,2.00023E+12,2000,Warwickshire,30
+EnteringRightT,2.00023E+12,2000,Warwickshire,12
+EnteringRightT,2.00023E+12,2000,Warwickshire,18
+EnteringRightT,2.00023E+12,2000,Warwickshire,43
+EnteringRightT,2.00023E+12,2000,Warwickshire,87
+EnteringRightT,200030A000544,2000,Derbyshire,17
+EnteringRightT,200030B000543,2000,Derbyshire,4
+EnteringRightT,200030D000024,2000,Derby,11
+EnteringRightT,200030D000569,2000,Derby,67
+EnteringRightT,2000317A80607,2000,Nottinghamshire,14
+EnteringRightT,2000317A80967,2000,Nottinghamshire,16
+EnteringRightT,2000317B40138,2000,Nottingham,23
+EnteringRightT,2000317B41054,2000,Nottinghamshire,36
+EnteringRightT,2000317B41972,2000,Nottingham,11
+EnteringRightT,2000317B42302,2000,Nottinghamshire,
+EnteringRightT,2000317C20741,2000,Nottingham,19
+EnteringRightT,2000317D20038,2000,Nottinghamshire,12
+EnteringRightT,2000317D40008,2000,Nottingham,36
+EnteringRightT,2000317D41643,2000,Nottinghamshire,19
+EnteringRightT,2000317D42343,2000,Nottingham,13
+EnteringRightT,2000317E21051,2000,Nottinghamshire,12
+EnteringRightT,200032B006900,2000,Lincolnshire,10
+EnteringRightT,200032B008750,2000,Lincolnshire,16
+EnteringRightT,200032C002340,2000,Lincolnshire,18
+EnteringRightT,200032C003930,2000,Lincolnshire,87
+EnteringRightT,200032C006170,2000,Lincolnshire,13
+EnteringRightT,200032D009090,2000,Lincolnshire,20
+EnteringRightT,2.00033E+12,2000,Leicestershire,16
+EnteringRightT,2.00033E+12,2000,Leicestershire,11
+EnteringRightT,2.00033E+12,2000,Leicestershire,9
+EnteringRightT,2.00033E+12,2000,Leicestershire,12
+EnteringRightT,2.00033E+12,2000,Leicestershire,14
+EnteringRightT,2.00033E+12,2000,Leicestershire,16
+EnteringRightT,2.00033E+12,2000,Leicestershire,31
+EnteringRightT,2.00033E+12,2000,Leicestershire,11
+EnteringRightT,2.00033E+12,2000,Leicestershire,30
+EnteringRightT,2.00033E+12,2000,Leicestershire,14
+EnteringRightT,2.00033E+12,2000,Leicestershire,20
+EnteringRightT,200034NC00165,2000,Northamptonshire,27
+EnteringRightT,200034NN00634,2000,Northamptonshire,17
+EnteringRightT,200034NW00194,2000,Northamptonshire,7
+EnteringRightT,2.00035E+12,2000,Cambridgeshire,15
+EnteringRightT,2.00035E+12,2000,Cambridgeshire,30
+EnteringRightT,2.00035E+12,2000,Cambridgeshire,81
+EnteringRightT,2.00035E+12,2000,Cambridgeshire,37
+EnteringRightT,2.00035E+12,2000,Cambridgeshire,18
+EnteringRightT,2.00035E+12,2000,Cambridgeshire,48
+EnteringRightT,2.00035E+12,2000,Cambridgeshire,32
+EnteringRightT,2.00035E+12,2000,Cambridgeshire,17
+EnteringRightT,2.00035E+12,2000,Peterborough,32
+EnteringRightT,200036G000119,2000,Norfolk,15
+EnteringRightT,200036G000273,2000,Norfolk,17
+EnteringRightT,200036G000503,2000,Norfolk,12
+EnteringRightT,200036K000401,2000,Norfolk,16
+EnteringRightT,200036N000747,2000,Norfolk,29
+EnteringRightT,200036N002202,2000,Norfolk,37
+EnteringRightT,200036T000183,2000,Norfolk,14
+EnteringRightT,200037B007819,2000,Suffolk,55
+EnteringRightT,200037B009349,2000,Suffolk,13
+EnteringRightT,200037B009774,2000,Suffolk,14
+EnteringRightT,200037G006366,2000,Suffolk,22
+EnteringRightT,200037G007454,2000,Suffolk,
+EnteringRightT,200037L004064,2000,Suffolk,14
+EnteringRightT,200037L004938,2000,Suffolk,11
+EnteringRightT,20004100A0757,2000,Hertfordshire,90
+EnteringRightT,2.00E+179,2000,Hertfordshire,6
+EnteringRightT,20004200B0440,2000,Essex,
+EnteringRightT,20004200C0096,2000,Essex,37
+EnteringRightT,20004200H0305,2000,Southend on Sea,18
+EnteringRightT,20004200J0617,2000,Essex,8
+EnteringRightT,200043N155120,2000,Buckinghamshire,20
+EnteringRightT,200043P052070,2000,Oxfordshire,10
+EnteringRightT,200043P195010,2000,Oxfordshire,54
+EnteringRightT,200043P265080,2000,Oxfordshire,17
+EnteringRightT,200043P455110,2000,Oxfordshire,39
+EnteringRightT,200043W004080,2000,Wokingham,15
+EnteringRightT,200043W092030,2000,Wokingham,15
+EnteringRightT,200043W239020,2000,West Berkshire,18
+EnteringRightT,200043W609120,2000,Reading,27
+EnteringRightT,2000440AA0857,2000,Hampshire,19
+EnteringRightT,2000440BB0033,2000,Hampshire,40
+EnteringRightT,2000440DT0110,2000,Hampshire,33
+EnteringRightT,2000440DW0104,2000,Hampshire,15
+EnteringRightT,2000440GG0224,2000,Hampshire,20
+EnteringRightT,2000440GG0523,2000,Hampshire,15
+EnteringRightT,2000440JL0071,2000,Hampshire,37
+EnteringRightT,2000440LA0730,2000,Hampshire,14
+EnteringRightT,2000440LR0098,2000,Hampshire,15
+EnteringRightT,2000440OL0651,2000,Hampshire,5
+EnteringRightT,2000440RF0900,2000,Portsmouth,47
+EnteringRightT,2000440SC0325,2000,Southampton ,38
+EnteringRightT,2000440SP0367,2000,Southampton ,19
+EnteringRightT,200045EZ00088,2000,Surrey,15
+EnteringRightT,200045EZ00119,2000,Surrey,14
+EnteringRightT,200045WF00202,2000,Surrey,80
+EnteringRightT,200045WG00615,2000,Surrey,58
+EnteringRightT,200046SK24600,2000,Kent,15
+EnteringRightT,200046SW27228,2000,Kent,11
+EnteringRightT,200046TH16226,2000,Kent,14
+EnteringRightT,200046TH29996,2000,Kent,10
+EnteringRightT,200047H004225,2000,West Sussex,13
+EnteringRightT,200047N131525,2000,West Sussex,15
+EnteringRightT,200047X127261,2000,West Sussex,12
+EnteringRightT,200047Y003517,2000,West Sussex,18
+EnteringRightT,200050A233307,2000,Cornwall and Isles of Scilly,8
+EnteringRightT,200050A331524,2000,Cornwall and Isles of Scilly,50
+EnteringRightT,200050B411150,2000,Cornwall and Isles of Scilly,50
+EnteringRightT,200050B511837,2000,Cornwall and Isles of Scilly,12
+EnteringRightT,200050C416536,2000,Devon,21
+EnteringRightT,200050C426400,2000,Devon,17
+EnteringRightT,200050D214688,2000,Devon,23
+EnteringRightT,2.00052E+12,2000,City of Bristol,18
+EnteringRightT,2.00052E+12,2000,City of Bristol,14
+EnteringRightT,2.00052E+12,2000,North Somerset,34
+EnteringRightT,2.00052E+12,2000,City of Bristol,22
+EnteringRightT,2.00052E+12,2000,City of Bristol,15
+EnteringRightT,2.00052E+12,2000,City of Bristol,24
+EnteringRightT,2.00052E+12,2000,City of Bristol,22
+EnteringRightT,2.00052E+12,2000,City of Bristol,22
+EnteringRightT,200052F858216,2000,Somerset,14
+EnteringRightT,200052F983026,2000,Somerset,12
+EnteringRightT,200052G926496,2000,Somerset,13
+EnteringRightT,200052GT26226,2000,Somerset,13
+EnteringRightT,2000530AI0406,2000,Gloucestershire,12
+EnteringRightT,2000530AI1890,2000,Gloucestershire,15
+EnteringRightT,2000530AI2628,2000,Gloucestershire,8
+EnteringRightT,2000530AI2718,2000,Gloucestershire,31
+EnteringRightT,2000530AI2836,2000,Gloucestershire,10
+EnteringRightT,2000530AI2867,2000,Gloucestershire,19
+EnteringRightT,200054CO23400,2000,Wiltshire,16
+EnteringRightT,200054CS41800,2000,Wiltshire,13
+EnteringRightT,2000550B00824,2000,Bournemouth,37
+EnteringRightT,2000550B00892,2000,Bournemouth,
+EnteringRightT,2000550E03666,2000,Dorset,69
+EnteringRightT,2000550E03749,2000,Dorset,13
+EnteringRightT,2000550W03121,2000,Dorset,15
+EnteringRightT,2000550W04125,2000,Dorset,23
+EnteringRightT,200101BS00621,2001,London,15
+EnteringRightT,200101CP00235,2001,London,28
+EnteringRightT,200101DM00305,2001,London,25
+EnteringRightT,200101DM00452,2001,London,21
+EnteringRightT,200101DM02358,2001,London,33
+EnteringRightT,200101EK00348,2001,London,42
+EnteringRightT,200101EK01082,2001,London,30
+EnteringRightT,200101FH00933,2001,London,12
+EnteringRightT,200101JC00111,2001,London,32
+EnteringRightT,200101JI00919,2001,London,16
+EnteringRightT,200101KD00661,2001,London,16
+EnteringRightT,200101KG00650,2001,London,13
+EnteringRightT,200101KO00646,2001,London,22
+EnteringRightT,200101LX00340,2001,London,68
+EnteringRightT,200101LX01109,2001,London,35
+EnteringRightT,200101LX01820,2001,London,23
+EnteringRightT,200101MM00435,2001,London,21
+EnteringRightT,200101PL00325,2001,London,25
+EnteringRightT,200101PL00626,2001,London,57
+EnteringRightT,200101PL00849,2001,London,9
+EnteringRightT,200101PL00931,2001,London,16
+EnteringRightT,200101PY00608,2001,London,45
+EnteringRightT,200101RY00219,2001,London,14
+EnteringRightT,200101SX00931,2001,London,18
+EnteringRightT,200101TW00475,2001,London,32
+EnteringRightT,200101TW00563,2001,London,73
+EnteringRightT,200101TX00530,2001,London,26
+EnteringRightT,200101TX00893,2001,London,15
+EnteringRightT,200101VK00457,2001,London,28
+EnteringRightT,200101WW00078,2001,London,10
+EnteringRightT,200101WW00619,2001,London,10
+EnteringRightT,200101XS00813,2001,London,18
+EnteringRightT,200101YE00381,2001,London,16
+EnteringRightT,200101YR00577,2001,London,38
+EnteringRightT,200101ZP00224,2001,London,48
+EnteringRightT,200101ZP00516,2001,London,15
+EnteringRightT,2.00103E+12,2001,Cumbria,42
+EnteringRightT,2.00103E+12,2001,Cumbria,7
+EnteringRightT,2.00103E+12,2001,Cumbria,68
+EnteringRightT,200104A073901,2001,Lancashire,15
+EnteringRightT,200104C027101,2001,Lancashire,52
+EnteringRightT,200104C038101,2001,Lancashire,6
+EnteringRightT,200104C091801,2001,Lancashire,67
+EnteringRightT,200104D029601,2001,Lancashire,18
+EnteringRightT,200104D030401,2001,Lancashire,15
+EnteringRightT,200104D044301,2001,Lancashire,10
+EnteringRightT,200104D066501,2001,Lancashire,19
+EnteringRightT,200104E060801,2001,Blackburn with Darwen,6
+EnteringRightT,200104F013901,2001,Lancashire,13
+EnteringRightT,2.00105E+12,2001,Merseyside,8
+EnteringRightT,2.00105E+12,2001,Merseyside,43
+EnteringRightT,2.00105E+12,2001,Merseyside,20
+EnteringRightT,2.00105E+12,2001,Merseyside,24
+EnteringRightT,2.00105E+12,2001,Merseyside,10
+EnteringRightT,2.00105E+12,2001,Merseyside,16
+EnteringRightT,2.00105E+12,2001,Merseyside,13
+EnteringRightT,2.00105E+12,2001,Merseyside,19
+EnteringRightT,2.00105E+12,2001,Merseyside,26
+EnteringRightT,2.00105E+12,2001,Merseyside,35
+EnteringRightT,200106C014010,2001,Manchester,33
+EnteringRightT,200106F008655,2001,Salford,5
+EnteringRightT,200106F008915,2001,Salford,10
+EnteringRightT,200106F008972,2001,Salford,78
+EnteringRightT,200106F009080,2001,Salford,40
+EnteringRightT,200106F009737,2001,Salford,15
+EnteringRightT,200106G007456,2001,Tameside,7
+EnteringRightT,200106G007613,2001,Tameside,10
+EnteringRightT,200106J009447,2001,Stockport,14
+EnteringRightT,200106J009966,2001,Stockport,12
+EnteringRightT,200106K009565,2001,Bolton,12
+EnteringRightT,200106L009489,2001,Wigan,57
+EnteringRightT,200106L010942,2001,Wigan,17
+EnteringRightT,200106N006209,2001,Bury,57
+EnteringRightT,200106N006584,2001,Bury,34
+EnteringRightT,200106N006661,2001,Bury,10
+EnteringRightT,200106P008015,2001,Rochdale,12
+EnteringRightT,200106P008088,2001,Rochdale,9
+EnteringRightT,200106Q008238,2001,Oldham,9
+EnteringRightT,200106Q008356,2001,Oldham,6
+EnteringRightT,2.00107E+12,2001,Cheshire West and Chester,8
+EnteringRightT,2.00107E+12,2001,Halton,36
+EnteringRightT,2.00107E+12,2001,Cheshire West and Chester,13
+EnteringRightT,2.00107E+12,2001,Halton,16
+EnteringRightT,2.00107E+12,2001,Cheshire East,73
+EnteringRightT,2.00107E+12,2001,Cheshire West and Chester,9
+EnteringRightT,2.00107E+12,2001,Cheshire West and Chester,14
+EnteringRightT,2.00107E+12,2001,Warrington,16
+EnteringRightT,2.00107E+12,2001,Cheshire West and Chester,10
+EnteringRightT,2.00107E+12,2001,Cheshire West and Chester,13
+EnteringRightT,2.00107E+12,2001,Cheshire West and Chester,7
+EnteringRightT,2.00107E+12,2001,Warrington,13
+EnteringRightT,200110G247001,2001,Newcastle upon Tyne,20
+EnteringRightT,200110L235101,2001,South Tyneside,11
+EnteringRightT,200110L293701,2001,South Tyneside,15
+EnteringRightT,200110M163401,2001,South Tyneside,20
+EnteringRightT,200110M236001,2001,South Tyneside,16
+EnteringRightT,200111CI32840,2001,Durham,12
+EnteringRightT,200111DC06000,2001,Durham,21
+EnteringRightT,200111DJ25080,2001,Darlington,53
+EnteringRightT,2.00112E+12,2001,North Yorkshire,26
+EnteringRightT,2.00112E+12,2001,York,7
+EnteringRightT,2.00112E+12,2001,North Yorkshire,15
+EnteringRightT,2.00113E+12,2001,Leeds,10
+EnteringRightT,2.00113E+12,2001,Wakefield,14
+EnteringRightT,2.00113E+12,2001,Kirklees,11
+EnteringRightT,2.00113E+12,2001,Bradford,7
+EnteringRightT,2.00113E+12,2001,Leeds,69
+EnteringRightT,200114JJ00247,2001,Sheffield,13
+EnteringRightT,200116A021201,2001,North East Lincolnshire,16
+EnteringRightT,200116A067701,2001,North East Lincolnshire,9
+EnteringRightT,200116B020301,2001,North Lincolnshire,13
+EnteringRightT,200116B021801,2001,North Lincolnshire,6
+EnteringRightT,200116B032901,2001,North Lincolnshire,14
+EnteringRightT,200116B056701,2001,North Lincolnshire,16
+EnteringRightT,200116C013801,2001,East Riding of Yorkshire,55
+EnteringRightT,200116C058701,2001,East Riding of Yorkshire,10
+EnteringRightT,200116C079901,2001,East Riding of Yorkshire,51
+EnteringRightT,200116C086001,2001,East Riding of Yorkshire,13
+EnteringRightT,200116C092401,2001,East Riding of Yorkshire,64
+EnteringRightT,200116D002701,2001,Kingston Upon Hull,22
+EnteringRightT,200116D030701,2001,Kingston Upon Hull,14
+EnteringRightT,200116D063401,2001,Kingston Upon Hull,13
+EnteringRightT,200116D071401,2001,Kingston Upon Hull,51
+EnteringRightT,200117L100168,2001,Redcar and Cleveland,14
+EnteringRightT,200117S100112,2001,Stockton on Tees,14
+EnteringRightT,200117S100188,2001,Stockton on Tees,14
+EnteringRightT,200120D251201,2001,Birmingham,11
+EnteringRightT,200120D370701,2001,Birmingham,19
+EnteringRightT,200120G064602,2001,Wolverhampton,40
+EnteringRightT,200120H056402,2001,Walsall,58
+EnteringRightT,200120K151801,2001,Sandwell,14
+EnteringRightT,200120L125301,2001,Solihull,66
+EnteringRightT,200120M091102,2001,Coventry,25
+EnteringRightT,200120M143003,2001,Coventry,42
+EnteringRightT,2.00121E+12,2001,Stoke on Trent,32
+EnteringRightT,2.00121E+12,2001,Stoke on Trent,
+EnteringRightT,2.00121E+12,2001,Stoke on Trent,12
+EnteringRightT,2.00121E+12,2001,Stoke on Trent,6
+EnteringRightT,2.00121E+12,2001,Stoke on Trent,3
+EnteringRightT,2.00121E+12,2001,Staffordshire,
+EnteringRightT,2.00121E+12,2001,Staffordshire,20
+EnteringRightT,2.00121E+12,2001,Staffordshire,13
+EnteringRightT,2.00121E+12,2001,Staffordshire,12
+EnteringRightT,2.00121E+12,2001,Staffordshire,20
+EnteringRightT,2.00121E+12,2001,Staffordshire,18
+EnteringRightT,200122BC19709,2001,Worcestershire,48
+EnteringRightT,200122BJ18712,2001,Worcestershire,15
+EnteringRightT,200122BJ18978,2001,Worcestershire,14
+EnteringRightT,200122CA26621,2001,Worcestershire,17
+EnteringRightT,200122CE23789,2001,Worcestershire,14
+EnteringRightT,200122CF21581,2001,Worcestershire,12
+EnteringRightT,200122ED18086,2001,Herefordshire,61
+EnteringRightT,200122FA23602,2001,Shropshire,8
+EnteringRightT,2.00123E+12,2001,Warwickshire,82
+EnteringRightT,2.00123E+12,2001,Warwickshire,18
+EnteringRightT,2.00123E+12,2001,Warwickshire,47
+EnteringRightT,200130B000436,2001,Derbyshire,14
+EnteringRightT,200130B000452,2001,Derbyshire,35
+EnteringRightT,200130B000468,2001,Derbyshire,13
+EnteringRightT,200130D000321,2001,Derby,20
+EnteringRightT,200130D000741,2001,Derby,11
+EnteringRightT,200130D000873,2001,Derby,25
+EnteringRightT,20013102D1139,2001,Nottingham,19
+EnteringRightT,2.00E+242,2001,Nottinghamshire,18
+EnteringRightT,20013104B1181,2001,Nottinghamshire,6
+EnteringRightT,20013104D1645,2001,Nottinghamshire,17
+EnteringRightT,20013108E0446,2001,Nottinghamshire,26
+EnteringRightT,20013108E1013,2001,Nottinghamshire,9
+EnteringRightT,200132B053601,2001,Lincolnshire,10
+EnteringRightT,200132C062701,2001,Lincolnshire,16
+EnteringRightT,200132D022101,2001,Lincolnshire,46
+EnteringRightT,2.00133E+12,2001,Leicestershire,15
+EnteringRightT,2.00133E+12,2001,Leicestershire,10
+EnteringRightT,2.00133E+12,2001,Leicestershire,17
+EnteringRightT,2.00133E+12,2001,Leicestershire,20
+EnteringRightT,2.00133E+12,2001,Leicestershire,11
+EnteringRightT,2.00133E+12,2001,Leicestershire,10
+EnteringRightT,2.00133E+12,2001,Leicestershire,13
+EnteringRightT,200134NN00776,2001,Northamptonshire,16
+EnteringRightT,2.00135E+12,2001,Cambridgeshire,64
+EnteringRightT,2.00135E+12,2001,Cambridgeshire,11
+EnteringRightT,2.00135E+12,2001,Cambridgeshire,24
+EnteringRightT,2.00135E+12,2001,Cambridgeshire,20
+EnteringRightT,2.00135E+12,2001,Cambridgeshire,9
+EnteringRightT,2.00135E+12,2001,Cambridgeshire,21
+EnteringRightT,200136G011842,2001,Norfolk,19
+EnteringRightT,200136K010198,2001,Norfolk,11
+EnteringRightT,200136K010566,2001,Norfolk,23
+EnteringRightT,200136K011139,2001,Norfolk,84
+EnteringRightT,200136K011892,2001,Norfolk,10
+EnteringRightT,200136N010646,2001,Norfolk,12
+EnteringRightT,200136N010932,2001,Norfolk,14
+EnteringRightT,200136N011768,2001,Norfolk,19
+EnteringRightT,200136T010341,2001,Norfolk,
+EnteringRightT,200137G007729,2001,Suffolk,28
+EnteringRightT,200137G008938,2001,Suffolk,13
+EnteringRightT,200137L006077,2001,Suffolk,16
+EnteringRightT,200137L006517,2001,Suffolk,14
+EnteringRightT,20014100A0570,2001,Hertfordshire,20
+EnteringRightT,2.00E+12,2001,Hertfordshire,10
+EnteringRightT,20014100F0162,2001,Hertfordshire,71
+EnteringRightT,20014100F0189,2001,Hertfordshire,41
+EnteringRightT,20014100F0229,2001,Hertfordshire,20
+EnteringRightT,20014100G0255,2001,Hertfordshire,10
+EnteringRightT,20014100K0230,2001,Hertfordshire,13
+EnteringRightT,20014200A0414,2001,Essex,63
+EnteringRightT,20014200A0613,2001,Essex,
+EnteringRightT,20014200D0103,2001,Essex,19
+EnteringRightT,2.00E+246,2001,Essex,10
+EnteringRightT,2.00E+271,2001,Essex,8
+EnteringRightT,20014200E0363,2001,Essex,
+EnteringRightT,20014200J0436,2001,Essex,63
+EnteringRightT,200143N111041,2001,Buckinghamshire,12
+EnteringRightT,200143P038051,2001,Oxfordshire,8
+EnteringRightT,200143P098051,2001,Oxfordshire,19
+EnteringRightT,200143P136071,2001,Oxfordshire,9
+EnteringRightT,200143P251011,2001,Oxfordshire,36
+EnteringRightT,200143P298081,2001,Oxfordshire,15
+EnteringRightT,200143P299081,2001,Oxfordshire,7
+EnteringRightT,200143P300101,2001,Oxfordshire,70
+EnteringRightT,200143S152071,2001,Milton Keynes,8
+EnteringRightT,200143W205061,2001,Bracknell Forest,12
+EnteringRightT,200143W296111,2001,Wokingham,33
+EnteringRightT,200143W296121,2001,Bracknell Forest,13
+EnteringRightT,200143W396041,2001,Wokingham,9
+EnteringRightT,200143W646091,2001,Slough,25
+EnteringRightT,200143W706071,2001,Bracknell Forest,27
+EnteringRightT,2001440BB0646,2001,Hampshire,39
+EnteringRightT,2001440DF0121,2001,Hampshire,38
+EnteringRightT,2001440DR0128,2001,Hampshire,22
+EnteringRightT,2001440DT0299,2001,Hampshire,30
+EnteringRightT,2001440GG0501,2001,Hampshire,49
+EnteringRightT,2001440GG0655,2001,Hampshire,13
+EnteringRightT,2001440HB0216,2001,Hampshire,15
+EnteringRightT,2001440HP0065,2001,Hampshire,21
+EnteringRightT,2001440JW0026,2001,Hampshire,73
+EnteringRightT,2001440JW0192,2001,Hampshire,14
+EnteringRightT,2001440KK1555,2001,Portsmouth,11
+EnteringRightT,2001440KK1909,2001,Portsmouth,12
+EnteringRightT,2001440LR0189,2001,Hampshire,11
+EnteringRightT,2001440ST0638,2001,Southampton ,12
+EnteringRightT,2001440SY0741,2001,Southampton ,15
+EnteringRightT,2001440SY0914,2001,Southampton ,50
+EnteringRightT,2001440ZD0388,2001,Isle of Wight,33
+EnteringRightT,200145MA12438,2001,Surrey,
+EnteringRightT,200145MN11250,2001,Surrey,47
+EnteringRightT,200145MW06905,2001,Surrey,
+EnteringRightT,200145MW07284,2001,Surrey,
+EnteringRightT,200145MW12874,2001,Surrey,11
+EnteringRightT,200145NS08329,2001,Surrey,57
+EnteringRightT,200146CT41020,2001,Kent,41
+EnteringRightT,200146NK41909,2001,Kent,13
+EnteringRightT,200146SK35524,2001,Kent,55
+EnteringRightT,200146SK44411,2001,Kent,14
+EnteringRightT,200146SK50948,2001,Kent,63
+EnteringRightT,200146SW44056,2001,Kent,14
+EnteringRightT,200146TH43037,2001,Kent,58
+EnteringRightT,200146TH44413,2001,Kent,15
+EnteringRightT,200147N132473,2001,West Sussex,11
+EnteringRightT,200147N139395,2001,West Sussex,11
+EnteringRightT,200147N141983,2001,West Sussex,13
+EnteringRightT,200147S138725,2001,East Sussex,11
+EnteringRightT,200147S142152,2001,East Sussex,13
+EnteringRightT,200147S143690,2001,East Sussex,13
+EnteringRightT,200147X142833,2001,West Sussex,28
+EnteringRightT,200147X143494,2001,West Sussex,17
+EnteringRightT,200147Y140301,2001,West Sussex,5
+EnteringRightT,200150A412491,2001,Cornwall and Isles of Scilly,14
+EnteringRightT,200150B422437,2001,Cornwall and Isles of Scilly,20
+EnteringRightT,200150C214023,2001,Devon,9
+EnteringRightT,200150C215829,2001,Devon,15
+EnteringRightT,200150F427008,2001,Devon,13
+EnteringRightT,200150F551334,2001,Devon,17
+EnteringRightT,2.00152E+12,2001,Bath and North East Somerset,11
+EnteringRightT,2.00152E+12,2001,Bath and North East Somerset,12
+EnteringRightT,2.00152E+12,2001,City of Bristol,11
+EnteringRightT,2.00152E+12,2001,South Gloucestershire,37
+EnteringRightT,2.00152E+12,2001,North Somerset,89
+EnteringRightT,2.00152E+12,2001,City of Bristol,44
+EnteringRightT,200152G327017,2001,Somerset,11
+EnteringRightT,200152G837127,2001,Somerset,7
+EnteringRightT,2001530AI0090,2001,Gloucestershire,30
+EnteringRightT,2001530AI0154,2001,Gloucestershire,11
+EnteringRightT,2001530AI1082,2001,Gloucestershire,54
+EnteringRightT,2001530AI1469,2001,Gloucestershire,14
+EnteringRightT,2001530AI1725,2001,Gloucestershire,18
+EnteringRightT,2001530AI1871,2001,Gloucestershire,9
+EnteringRightT,2001530AI2179,2001,Gloucestershire,14
+EnteringRightT,2001530AI2244,2001,Gloucestershire,12
+EnteringRightT,2001530AI2310,2001,Gloucestershire,9
+EnteringRightT,2001530AI2409,2001,Gloucestershire,6
+EnteringRightT,2001530AI3751,2001,Gloucestershire,12
+EnteringRightT,2001530AI3795,2001,Gloucestershire,15
+EnteringRightT,2001530AI4447,2001,Gloucestershire,17
+EnteringRightT,200154CB50101,2001,Wiltshire,12
+EnteringRightT,200154CR22001,2001,Wiltshire,6
+EnteringRightT,200154CS48201,2001,Wiltshire,13
+EnteringRightT,200154CT56201,2001,Wiltshire,12
+EnteringRightT,2001551E05428,2001,Dorset,15
+EnteringRightT,2001551W00132,2001,Dorset,14
+EnteringRightT,2001551W02398,2001,Dorset,40
+EnteringRightT,2001551W03518,2001,Dorset,6
+EnteringRightT,2001551W04927,2001,Dorset,8
+EnteringRightT,200201BS00252,2002,London,34
+EnteringRightT,200201EK00262,2002,London,31
+EnteringRightT,200201EO01632,2002,London,30
+EnteringRightT,200201FH00147,2002,London,
+EnteringRightT,200201FH00620,2002,London,42
+EnteringRightT,200201FH00848,2002,London,39
+EnteringRightT,200201FH00905,2002,London,60
+EnteringRightT,200201HT00206,2002,London,52
+EnteringRightT,200201HT00824,2002,London,26
+EnteringRightT,200201JC00391,2002,London,25
+EnteringRightT,200201JC00465,2002,London,18
+EnteringRightT,200201JC00675,2002,London,10
+EnteringRightT,200201KD00767,2002,London,70
+EnteringRightT,200201KG00466,2002,London,16
+EnteringRightT,200201MM00056,2002,London,38
+EnteringRightT,200201QA09011,2002,London,32
+EnteringRightT,200201RG00541,2002,London,8
+EnteringRightT,200201RY00473,2002,London,11
+EnteringRightT,200201TW00133,2002,London,90
+EnteringRightT,200201TW00549,2002,London,10
+EnteringRightT,200201TW00553,2002,London,50
+EnteringRightT,200201TX00393,2002,London,19
+EnteringRightT,200201TX00690,2002,London,61
+EnteringRightT,200201WW00112,2002,London,14
+EnteringRightT,200201WW00223,2002,London,42
+EnteringRightT,200201WW00882,2002,London,25
+EnteringRightT,200201WW01157,2002,London,17
+EnteringRightT,200201XS00656,2002,London,64
+EnteringRightT,200201XS00738,2002,London,41
+EnteringRightT,200201XS01199,2002,London,56
+EnteringRightT,200201YE00282,2002,London,15
+EnteringRightT,200201YE00513,2002,London,51
+EnteringRightT,200201YE00534,2002,London,14
+EnteringRightT,200201YE00562,2002,London,17
+EnteringRightT,200201YF00098,2002,London,7
+EnteringRightT,200201ZT00295,2002,London,14
+EnteringRightT,2.00203E+12,2002,Cumbria,10
+EnteringRightT,2.00203E+12,2002,Cumbria,9
+EnteringRightT,200204A038802,2002,Lancashire,6
+EnteringRightT,200204C018802,2002,Lancashire,24
+EnteringRightT,200204C098402,2002,Lancashire,21
+EnteringRightT,200204C102902,2002,Lancashire,25
+EnteringRightT,200204D044102,2002,Lancashire,28
+EnteringRightT,200204D050802,2002,Lancashire,12
+EnteringRightT,200204D055502,2002,Lancashire,9
+EnteringRightT,200204E031202,2002,Blackburn with Darwen,8
+EnteringRightT,200204E035102,2002,Blackburn with Darwen,12
+EnteringRightT,200204E089402,2002,Blackburn with Darwen,23
+EnteringRightT,2.00205E+12,2002,Merseyside,45
+EnteringRightT,2.00205E+12,2002,Merseyside,6
+EnteringRightT,2.00205E+12,2002,Merseyside,17
+EnteringRightT,2.00205E+12,2002,Merseyside,32
+EnteringRightT,200205ET00143,2002,Merseyside,11
+EnteringRightT,200206C017442,2002,Manchester,29
+EnteringRightT,200206C018580,2002,Manchester,13
+EnteringRightT,200206J011318,2002,Stockport,12
+EnteringRightT,200206J011350,2002,Stockport,10
+EnteringRightT,200206K011718,2002,Bolton,19
+EnteringRightT,200206K011971,2002,Bolton,43
+EnteringRightT,200206K013051,2002,Bolton,16
+EnteringRightT,200206K013226,2002,Bolton,7
+EnteringRightT,200206M010171,2002,Trafford,23
+EnteringRightT,200206M010355,2002,Trafford,70
+EnteringRightT,200206N007647,2002,Bury,24
+EnteringRightT,200206N007835,2002,Bury,12
+EnteringRightT,200206P010723,2002,Rochdale,15
+EnteringRightT,2.00207E+12,2002,Halton,15
+EnteringRightT,2.00207E+12,2002,Cheshire West and Chester,14
+EnteringRightT,2.00207E+12,2002,Cheshire West and Chester,74
+EnteringRightT,2.00207E+12,2002,Cheshire West and Chester,10
+EnteringRightT,2.00207E+12,2002,Cheshire West and Chester,12
+EnteringRightT,2.00207E+12,2002,Halton,10
+EnteringRightT,2.00207E+12,2002,Halton,19
+EnteringRightT,2.0021E+12,2002,Gateshead,15
+EnteringRightT,2.0021E+12,2002,South Tyneside,14
+EnteringRightT,200210C123202,2002,Northumberland,15
+EnteringRightT,200210I129002,2002,North Tyneside,7
+EnteringRightT,200210K133402,2002,Gateshead,7
+EnteringRightT,200211CH18370,2002,Durham,8
+EnteringRightT,200211DJ21290,2002,Darlington,10
+EnteringRightT,2.00212E+12,2002,York,13
+EnteringRightT,2.00212E+12,2002,North Yorkshire,7
+EnteringRightT,2.00212E+12,2002,North Yorkshire,9
+EnteringRightT,2.00212E+12,2002,York,78
+EnteringRightT,2.00212E+12,2002,York,19
+EnteringRightT,2.00213E+12,2002,Wakefield,13
+EnteringRightT,2.00213E+12,2002,Bradford,8
+EnteringRightT,200214BB00626,2002,Doncaster,18
+EnteringRightT,200216A009202,2002,North East Lincolnshire,12
+EnteringRightT,200216A015102,2002,North East Lincolnshire,10
+EnteringRightT,200216A029002,2002,North East Lincolnshire,13
+EnteringRightT,200216A042702,2002,North East Lincolnshire,43
+EnteringRightT,200216A063902,2002,North East Lincolnshire,19
+EnteringRightT,200216B024502,2002,North Lincolnshire,13
+EnteringRightT,200216B042502,2002,North Lincolnshire,5
+EnteringRightT,200216C037202,2002,East Riding of Yorkshire,14
+EnteringRightT,200216C048502,2002,East Riding of Yorkshire,8
+EnteringRightT,200216C067202,2002,East Riding of Yorkshire,13
+EnteringRightT,200216D047502,2002,Kingston Upon Hull,15
+EnteringRightT,200216D085202,2002,Kingston Upon Hull,11
+EnteringRightT,200216D103902,2002,Kingston Upon Hull,42
+EnteringRightT,200216D110902,2002,Kingston Upon Hull,42
+EnteringRightT,2002170H12452,2002,Hartlepool,40
+EnteringRightT,2002170S14122,2002,Stockton on Tees,69
+EnteringRightT,200220D172402,2002,Birmingham,11
+EnteringRightT,200220D321701,2002,Birmingham,25
+EnteringRightT,200220D514602,2002,Birmingham,17
+EnteringRightT,200220E127501,2002,Birmingham,74
+EnteringRightT,200220G071702,2002,Wolverhampton,12
+EnteringRightT,200220H012902,2002,Walsall,10
+EnteringRightT,200220K066001,2002,Sandwell,46
+EnteringRightT,200220K092302,2002,Sandwell,13
+EnteringRightT,200220M054601,2002,Coventry,36
+EnteringRightT,2.00221E+12,2002,Stoke on Trent,39
+EnteringRightT,2.00221E+12,2002,Stoke on Trent,
+EnteringRightT,2.00221E+12,2002,Staffordshire,10
+EnteringRightT,2.00221E+12,2002,Staffordshire,8
+EnteringRightT,2.00221E+12,2002,Staffordshire,11
+EnteringRightT,2.00221E+12,2002,Staffordshire,80
+EnteringRightT,2.00221E+12,2002,Staffordshire,34
+EnteringRightT,2.00221E+12,2002,Staffordshire,17
+EnteringRightT,2.00221E+12,2002,Staffordshire,14
+EnteringRightT,200222BJ26492,2002,Worcestershire,12
+EnteringRightT,200222CG31229,2002,Worcestershire,8
+EnteringRightT,200222EA22265,2002,Herefordshire,36
+EnteringRightT,200222EB21995,2002,Herefordshire,15
+EnteringRightT,200222EG22345,2002,Herefordshire,15
+EnteringRightT,200222EG22545,2002,Herefordshire,10
+EnteringRightT,200222FA26408,2002,Shropshire,28
+EnteringRightT,200222FA29201,2002,Shropshire,8
+EnteringRightT,200222FA29329,2002,Shropshire,46
+EnteringRightT,2.00223E+12,2002,Warwickshire,57
+EnteringRightT,2.00223E+12,2002,Warwickshire,71
+EnteringRightT,2.00223E+12,2002,Warwickshire,8
+EnteringRightT,2.00223E+12,2002,Warwickshire,16
+EnteringRightT,200230A000454,2002,Derbyshire,14
+EnteringRightT,200230D000357,2002,Derby,67
+EnteringRightT,200230D000731,2002,Derby,51
+EnteringRightT,200230D000836,2002,Derby,14
+EnteringRightT,20023102B0549,2002,Nottinghamshire,
+EnteringRightT,20023102C0348,2002,Nottingham,6
+EnteringRightT,20023102D1488,2002,Nottinghamshire,
+EnteringRightT,200232C005602,2002,Lincolnshire,12
+EnteringRightT,200232C156002,2002,Lincolnshire,70
+EnteringRightT,200232D105502,2002,Lincolnshire,17
+EnteringRightT,2.00233E+12,2002,Leicestershire,42
+EnteringRightT,2.00233E+12,2002,Leicestershire,74
+EnteringRightT,2.00233E+12,2002,Leicestershire,14
+EnteringRightT,2.00233E+12,2002,Leicestershire,13
+EnteringRightT,2.00233E+12,2002,Leicestershire,13
+EnteringRightT,200234NN00985,2002,Northamptonshire,15
+EnteringRightT,200234NW00526,2002,Northamptonshire,8
+EnteringRightT,2.00235E+12,2002,Cambridgeshire,37
+EnteringRightT,2.00235E+12,2002,Cambridgeshire,33
+EnteringRightT,2.00235E+12,2002,Peterborough,15
+EnteringRightT,2.00235E+12,2002,Cambridgeshire,11
+EnteringRightT,2.00235E+12,2002,Cambridgeshire,10
+EnteringRightT,2.00235E+12,2002,Cambridgeshire,
+EnteringRightT,2.00235E+12,2002,Cambridgeshire,21
+EnteringRightT,2.00235E+12,2002,Cambridgeshire,14
+EnteringRightT,2.00235E+12,2002,Cambridgeshire,33
+EnteringRightT,2.00236E+12,2002,Norfolk,40
+EnteringRightT,2.00236E+12,2002,Norfolk,13
+EnteringRightT,2.00236E+12,2002,Norfolk,14
+EnteringRightT,200236G020422,2002,Norfolk,52
+EnteringRightT,200236K020682,2002,Norfolk,13
+EnteringRightT,200236N020901,2002,Norfolk,23
+EnteringRightT,200236T020235,2002,Norfolk,81
+EnteringRightT,200236T020297,2002,Norfolk,28
+EnteringRightT,200237G011358,2002,Suffolk,46
+EnteringRightT,2002400B02229,2002,Bedford Borough Council,12
+EnteringRightT,2002400B02587,2002,Central Bedfordshire,9
+EnteringRightT,2002400B02672,2002,Bedford Borough Council,32
+EnteringRightT,2002400B04099,2002,Bedford Borough Council,26
+EnteringRightT,2002400C01529,2002,Luton,9
+EnteringRightT,2002400D01097,2002,Central Bedfordshire,50
+EnteringRightT,20024100C5328,2002,Hertfordshire,16
+EnteringRightT,20024100D5267,2002,Hertfordshire,19
+EnteringRightT,20024200B0376,2002,Essex,16
+EnteringRightT,20024200B0387,2002,Essex,67
+EnteringRightT,20024200C0554,2002,Essex,20
+EnteringRightT,20024200C0592,2002,Essex,13
+EnteringRightT,20024200D0282,2002,Essex,13
+EnteringRightT,20024200G0556,2002,Essex,13
+EnteringRightT,20024200H0473,2002,Southend on Sea,29
+EnteringRightT,200243N173062,2002,Buckinghamshire,12
+EnteringRightT,200243N303042,2002,Buckinghamshire,
+EnteringRightT,200243P077032,2002,Oxfordshire,14
+EnteringRightT,200243P096102,2002,Oxfordshire,39
+EnteringRightT,200243P125102,2002,Oxfordshire,35
+EnteringRightT,200243P168022,2002,Oxfordshire,61
+EnteringRightT,200243P243042,2002,Oxfordshire,33
+EnteringRightT,200243P261092,2002,Oxfordshire,16
+EnteringRightT,200243P338092,2002,Oxfordshire,12
+EnteringRightT,200243P345042,2002,Oxfordshire,10
+EnteringRightT,200243S156092,2002,Milton Keynes,25
+EnteringRightT,200243W091022,2002,West Berkshire,75
+EnteringRightT,200243W163022,2002,Bracknell Forest,16
+EnteringRightT,200243W613092,2002,Slough,11
+EnteringRightT,200243W701022,2002,Slough,17
+EnteringRightT,2002440AA0966,2002,Hampshire,12
+EnteringRightT,2002440BB1154,2002,Hampshire,14
+EnteringRightT,2002440GG0293,2002,Hampshire,19
+EnteringRightT,2002440JH0424,2002,Hampshire,26
+EnteringRightT,2002440OL0518,2002,Hampshire,13
+EnteringRightT,200245RN25081,2002,Surrey,15
+EnteringRightT,200245RN28417,2002,Surrey,59
+EnteringRightT,200245RS26396,2002,Surrey,10
+EnteringRightT,200245RW20871,2002,Surrey,9
+EnteringRightT,200245RW29235,2002,Surrey,36
+EnteringRightT,200246SK64368,2002,Kent,14
+EnteringRightT,200246SW58658,2002,Kent,14
+EnteringRightT,200246TH64099,2002,Kent,12
+EnteringRightT,200246WK58254,2002,Kent,8
+EnteringRightT,200246WL62516,2002,Kent,12
+EnteringRightT,200247K152269,2002,West Sussex,19
+EnteringRightT,200247K152315,2002,East Sussex,31
+EnteringRightT,200247K153290,2002,West Sussex,31
+EnteringRightT,200247K153688,2002,West Sussex,14
+EnteringRightT,200247K155615,2002,East Sussex,16
+EnteringRightT,200247K156210,2002,East Sussex,14
+EnteringRightT,200247K157018,2002,East Sussex,15
+EnteringRightT,200250A214084,2002,Cornwall and Isles of Scilly,18
+EnteringRightT,200250A322416,2002,Cornwall and Isles of Scilly,9
+EnteringRightT,200250A610540,2002,Cornwall and Isles of Scilly,19
+EnteringRightT,200250E211097,2002,Plymouth,59
+EnteringRightT,2.00252E+12,2002,City of Bristol,29
+EnteringRightT,2.00252E+12,2002,City of Bristol,45
+EnteringRightT,2.00252E+12,2002,City of Bristol,7
+EnteringRightT,2.00252E+12,2002,North Somerset,14
+EnteringRightT,2.00252E+12,2002,South Gloucestershire,30
+EnteringRightT,2.00252E+12,2002,North Somerset,25
+EnteringRightT,2002530AI0225,2002,Gloucestershire,32
+EnteringRightT,2002530AI0294,2002,Gloucestershire,26
+EnteringRightT,2002530AI1000,2002,Gloucestershire,17
+EnteringRightT,2002530AI1763,2002,Gloucestershire,14
+EnteringRightT,2002530AI3199,2002,Gloucestershire,23
+EnteringRightT,200254AD35302,2002,Wiltshire,44
+EnteringRightT,200254DS00202,2002,Swindon,74
+EnteringRightT,2002550B04110,2002,Bournemouth,9
+EnteringRightT,2002550P02183,2002,Poole,27
+EnteringRightT,2002552E02001,2002,Dorset,14
+EnteringRightT,2002552E03720,2002,Dorset,84
+EnteringRightT,2002552W00029,2002,Dorset,17
+EnteringRightT,2002552W06640,2002,Dorset,10
+EnteringRightT,200301BS00663,2003,London,19
+EnteringRightT,200301DM00248,2003,London,31
+EnteringRightT,200301DM00433,2003,London,15
+EnteringRightT,200301DM01323,2003,London,28
+EnteringRightT,200301DM01378,2003,London,23
+EnteringRightT,200301EO01577,2003,London,19
+EnteringRightT,200301EO01708,2003,London,19
+EnteringRightT,200301FH00429,2003,London,37
+EnteringRightT,200301FH00561,2003,London,67
+EnteringRightT,200301GD00145,2003,London,32
+EnteringRightT,200301GD00560,2003,London,28
+EnteringRightT,200301GD00767,2003,London,17
+EnteringRightT,200301HT00385,2003,London,44
+EnteringRightT,200301JC00492,2003,London,9
+EnteringRightT,200301JI00824,2003,London,71
+EnteringRightT,200301KD00354,2003,London,14
+EnteringRightT,200301LX00603,2003,London,36
+EnteringRightT,200301MM00829,2003,London,23
+EnteringRightT,200301MM00909,2003,London,34
+EnteringRightT,200301MM00913,2003,London,15
+EnteringRightT,200301MM01461,2003,London,67
+EnteringRightT,200301PL00227,2003,London,10
+EnteringRightT,200301PL00654,2003,London,39
+EnteringRightT,200301PY00334,2003,London,13
+EnteringRightT,200301QK00716,2003,London,13
+EnteringRightT,200301RG00279,2003,London,45
+EnteringRightT,200301RG00654,2003,London,12
+EnteringRightT,200301RX00080,2003,London,47
+EnteringRightT,200301SX00801,2003,London,53
+EnteringRightT,200301TX00440,2003,London,31
+EnteringRightT,200301TX00655,2003,London,11
+EnteringRightT,200301WW00338,2003,London,9
+EnteringRightT,200301WW00619,2003,London,21
+EnteringRightT,200301WW00729,2003,London,9
+EnteringRightT,200301WW00807,2003,London,24
+EnteringRightT,200301WW00894,2003,London,28
+EnteringRightT,200301XH00162,2003,London,40
+EnteringRightT,200301XS00727,2003,London,37
+EnteringRightT,200301YF00163,2003,London,
+EnteringRightT,200301YF00409,2003,London,16
+EnteringRightT,200301ZT00242,2003,London,57
+EnteringRightT,200301ZT00415,2003,London,12
+EnteringRightT,2.00303E+12,2003,Cumbria,70
+EnteringRightT,2.00303E+12,2003,Cumbria,10
+EnteringRightT,200304A023503,2003,Blackpool,21
+EnteringRightT,200304B025703,2003,Lancashire,8
+EnteringRightT,200304C008803,2003,Lancashire,12
+EnteringRightT,200304C050003,2003,Lancashire,6
+EnteringRightT,200304C061103,2003,Lancashire,12
+EnteringRightT,200304D062103,2003,Lancashire,24
+EnteringRightT,200304E044203,2003,Blackburn with Darwen,7
+EnteringRightT,200305AW01092,2003,Merseyside,11
+EnteringRightT,200306C024682,2003,Manchester,79
+EnteringRightT,200306F012680,2003,Salford,14
+EnteringRightT,200306F013758,2003,Salford,79
+EnteringRightT,200306G010264,2003,Tameside,14
+EnteringRightT,200306G011083,2003,Tameside,18
+EnteringRightT,200306J014147,2003,Stockport,20
+EnteringRightT,200306K014616,2003,Bolton,12
+EnteringRightT,200306K015170,2003,Bolton,11
+EnteringRightT,200306K016448,2003,Bolton,53
+EnteringRightT,200306L015209,2003,Wigan,11
+EnteringRightT,200306L015568,2003,Wigan,10
+EnteringRightT,200306L015800,2003,Wigan,49
+EnteringRightT,200306N010015,2003,Bury,9
+EnteringRightT,200306P011444,2003,Rochdale,19
+EnteringRightT,200306P012130,2003,Rochdale,15
+EnteringRightT,200306Q012586,2003,Oldham,12
+EnteringRightT,2.00307E+12,2003,Cheshire West and Chester,17
+EnteringRightT,2.00307E+12,2003,Cheshire East,12
+EnteringRightT,2.00307E+12,2003,Cheshire West and Chester,82
+EnteringRightT,2.00307E+12,2003,Cheshire West and Chester,13
+EnteringRightT,2.00307E+12,2003,Cheshire West and Chester,84
+EnteringRightT,2.0031E+12,2003,North Tyneside,25
+EnteringRightT,2.0031E+12,2003,Northumberland,14
+EnteringRightT,2.0031E+12,2003,Gateshead,14
+EnteringRightT,2.0031E+12,2003,Newcastle upon Tyne,26
+EnteringRightT,2.0031E+12,2003,Northumberland,19
+EnteringRightT,200311AK20790,2003,Durham,12
+EnteringRightT,200311AK21810,2003,Durham,17
+EnteringRightT,200311CG29670,2003,Durham,54
+EnteringRightT,200311DJ06500,2003,Darlington,13
+EnteringRightT,2.00312E+12,2003,York,7
+EnteringRightT,2.00312E+12,2003,York,14
+EnteringRightT,2.00312E+12,2003,North Yorkshire,14
+EnteringRightT,2.00312E+12,2003,York,14
+EnteringRightT,2.00313E+12,2003,Kirklees,20
+EnteringRightT,2.00313E+12,2003,Kirklees,13
+EnteringRightT,2.00313E+12,2003,Bradford,12
+EnteringRightT,2.00313E+12,2003,Kirklees,24
+EnteringRightT,2.00313E+12,2003,Bradford,14
+EnteringRightT,2.00313E+12,2003,Wakefield,9
+EnteringRightT,2.00313E+12,2003,Bradford,21
+EnteringRightT,2.00313E+12,2003,Leeds,22
+EnteringRightT,200314DD00761,2003,Barnsley,11
+EnteringRightT,200314JJ00728,2003,Sheffield,15
+EnteringRightT,200314KK00719,2003,Sheffield,13
+EnteringRightT,200316A005403,2003,North East Lincolnshire,16
+EnteringRightT,200316B015903,2003,North Lincolnshire,
+EnteringRightT,200316B032903,2003,North Lincolnshire,8
+EnteringRightT,200316B037903,2003,North Lincolnshire,90
+EnteringRightT,200316C044203,2003,East Riding of Yorkshire,13
+EnteringRightT,200316C063903,2003,East Riding of Yorkshire,14
+EnteringRightT,200316C064603,2003,East Riding of Yorkshire,15
+EnteringRightT,200316C092403,2003,East Riding of Yorkshire,22
+EnteringRightT,200316D017103,2003,Kingston Upon Hull,9
+EnteringRightT,200316D024903,2003,Kingston Upon Hull,15
+EnteringRightT,200316D030703,2003,Kingston Upon Hull,15
+EnteringRightT,200316D033303,2003,Kingston Upon Hull,18
+EnteringRightT,200316D044803,2003,Kingston Upon Hull,11
+EnteringRightT,200316D068703,2003,Kingston Upon Hull,14
+EnteringRightT,200316D084803,2003,Kingston Upon Hull,17
+EnteringRightT,2003170M21263,2003,Middlesbrough,25
+EnteringRightT,200320E088201,2003,Birmingham,11
+EnteringRightT,200320E173501,2003,Birmingham,11
+EnteringRightT,200320E192702,2003,Birmingham,14
+EnteringRightT,200320F276203,2003,Birmingham,36
+EnteringRightT,200320G026702,2003,Wolverhampton,23
+EnteringRightT,200320H041302,2003,Walsall,11
+EnteringRightT,200320H049902,2003,Walsall,23
+EnteringRightT,200320J028001,2003,Dudley,16
+EnteringRightT,200320K011702,2003,Sandwell,30
+EnteringRightT,200320K096801,2003,Sandwell,13
+EnteringRightT,200320M030803,2003,Coventry,7
+EnteringRightT,200320M064603,2003,Coventry,7
+EnteringRightT,200320M078203,2003,Coventry,43
+EnteringRightT,2.00321E+12,2003,Stoke on Trent,12
+EnteringRightT,2.00321E+12,2003,Stoke on Trent,25
+EnteringRightT,2.00321E+12,2003,Stoke on Trent,13
+EnteringRightT,2.00321E+12,2003,Staffordshire,13
+EnteringRightT,2.00321E+12,2003,Staffordshire,12
+EnteringRightT,2.00321E+12,2003,Staffordshire,15
+EnteringRightT,2.00321E+12,2003,Staffordshire,
+EnteringRightT,2.00321E+12,2003,Staffordshire,15
+EnteringRightT,2.00321E+12,2003,Staffordshire,19
+EnteringRightT,200322CA35079,2003,Worcestershire,42
+EnteringRightT,200322CA35862,2003,Worcestershire,7
+EnteringRightT,200322CC33961,2003,Worcestershire,15
+EnteringRightT,200322DB31381,2003,Worcestershire,68
+EnteringRightT,200322DJ32405,2003,Worcestershire,9
+EnteringRightT,200322EA24339,2003,Herefordshire,11
+EnteringRightT,200322EG24093,2003,Herefordshire,72
+EnteringRightT,200322FC31867,2003,Shropshire,14
+EnteringRightT,200322FE34183,2003,Shropshire,14
+EnteringRightT,200322FJ34089,2003,Shropshire,17
+EnteringRightT,200322GA31139,2003,Telford and Wrekin,31
+EnteringRightT,200322GA33161,2003,Telford and Wrekin,27
+EnteringRightT,200322GB29542,2003,Telford and Wrekin,62
+EnteringRightT,2.00323E+12,2003,Warwickshire,10
+EnteringRightT,2.00323E+12,2003,Warwickshire,19
+EnteringRightT,2.00323E+12,2003,Warwickshire,34
+EnteringRightT,200330A000200,2003,Derbyshire,14
+EnteringRightT,200330A000434,2003,Derbyshire,44
+EnteringRightT,200330A000531,2003,Derbyshire,13
+EnteringRightT,200330C000233,2003,Derbyshire,16
+EnteringRightT,200330D000562,2003,Derby,15
+EnteringRightT,200330D000631,2003,Derby,21
+EnteringRightT,20033102B1012,2003,Nottinghamshire,19
+EnteringRightT,20033102C9218,2003,Nottingham,29
+EnteringRightT,200332D039003,2003,Lincolnshire,21
+EnteringRightT,2.00333E+12,2003,Leicestershire,48
+EnteringRightT,2.00333E+12,2003,Leicestershire,23
+EnteringRightT,2.00333E+12,2003,Leicestershire,15
+EnteringRightT,2.00333E+12,2003,Leicestershire,11
+EnteringRightT,200334NW00045,2003,Northamptonshire,15
+EnteringRightT,2.00335E+12,2003,Cambridgeshire,17
+EnteringRightT,2.00335E+12,2003,Cambridgeshire,16
+EnteringRightT,2.00335E+12,2003,Cambridgeshire,14
+EnteringRightT,2.00335E+12,2003,Cambridgeshire,15
+EnteringRightT,2.00335E+12,2003,Peterborough,15
+EnteringRightT,2.00335E+12,2003,Cambridgeshire,19
+EnteringRightT,2.00335E+12,2003,Peterborough,
+EnteringRightT,2.00335E+12,2003,Cambridgeshire,17
+EnteringRightT,2.00336E+12,2003,Norfolk,75
+EnteringRightT,2.00336E+12,2003,Norfolk,67
+EnteringRightT,2.00336E+12,2003,Norfolk,55
+EnteringRightT,2.00336E+12,2003,Norfolk,10
+EnteringRightT,2.00336E+12,2003,Norfolk,6
+EnteringRightT,2.00336E+12,2003,Norfolk,21
+EnteringRightT,2.00336E+12,2003,Norfolk,51
+EnteringRightT,2.00336E+12,2003,Norfolk,11
+EnteringRightT,2.00336E+12,2003,Norfolk,27
+EnteringRightT,2.00336E+12,2003,Norfolk,21
+EnteringRightT,200336T030255,2003,Norfolk,9
+EnteringRightT,200337B016934,2003,Suffolk,12
+EnteringRightT,200337G012063,2003,Suffolk,29
+EnteringRightT,200337L008753,2003,Suffolk,18
+EnteringRightT,200337L008758,2003,Suffolk,17
+EnteringRightT,2003400B01445,2003,Bedford Borough Council,13
+EnteringRightT,2003400D01482,2003,Central Bedfordshire,18
+EnteringRightT,20034100A0607,2003,Hertfordshire,15
+EnteringRightT,20034100A0766,2003,Hertfordshire,7
+EnteringRightT,20034100C1118,2003,Hertfordshire,12
+EnteringRightT,20034200B0286,2003,Essex,11
+EnteringRightT,20034200J0378,2003,Essex,11
+EnteringRightT,200343N364093,2003,Buckinghamshire,73
+EnteringRightT,200343P012103,2003,Oxfordshire,29
+EnteringRightT,200343P089033,2003,Oxfordshire,26
+EnteringRightT,200343P121093,2003,Oxfordshire,6
+EnteringRightT,200343P394103,2003,Oxfordshire,15
+EnteringRightT,200343W196063,2003,Windsor and Maidenhead,
+EnteringRightT,200343W313023,2003,Slough,14
+EnteringRightT,200343W436113,2003,Windsor and Maidenhead,
+EnteringRightT,200343W544063,2003,Windsor and Maidenhead,12
+EnteringRightT,2003440AA1306,2003,Hampshire,12
+EnteringRightT,2003440DG0228,2003,Hampshire,15
+EnteringRightT,2003440DH0170,2003,Hampshire,42
+EnteringRightT,2003440DT0353,2003,Hampshire,16
+EnteringRightT,2003440GG0063,2003,Hampshire,20
+EnteringRightT,2003440KK0120,2003,Portsmouth,25
+EnteringRightT,2003440KK1026,2003,Portsmouth,22
+EnteringRightT,2003440KK1516,2003,Portsmouth,13
+EnteringRightT,2003440SP0429,2003,Southampton ,8
+EnteringRightT,2003440ZD0278,2003,Isle of Wight,39
+EnteringRightT,2003440ZD0945,2003,Isle of Wight,13
+EnteringRightT,200345RN44632,2003,Surrey,83
+EnteringRightT,200345RS41838,2003,Surrey,71
+EnteringRightT,200345RW39687,2003,Surrey,31
+EnteringRightT,2.00346E+12,2003,Medway,13
+EnteringRightT,2.00347E+12,2003,Medway,19
+EnteringRightT,200346NK75921,2003,Kent,56
+EnteringRightT,200346NK86154,2003,Kent,14
+EnteringRightT,200346SK84031,2003,Kent,14
+EnteringRightT,200346TH79323,2003,Kent,
+EnteringRightT,200346TH85554,2003,Kent,41
+EnteringRightT,200346WL77855,2003,Kent,10
+EnteringRightT,200347K159461,2003,West Sussex,14
+EnteringRightT,200347K160596,2003,West Sussex,82
+EnteringRightT,200347K164144,2003,East Sussex,26
+EnteringRightT,200347K167904,2003,West Sussex,36
+EnteringRightT,200350A22B070,2003,Cornwall and Isles of Scilly,69
+EnteringRightT,200350D21I202,2003,Devon,23
+EnteringRightT,200350E21G066,2003,Plymouth,38
+EnteringRightT,2.00352E+12,2003,City of Bristol,34
+EnteringRightT,2.00352E+12,2003,North Somerset,19
+EnteringRightT,2.00352E+12,2003,North Somerset,9
+EnteringRightT,2.00352E+12,2003,City of Bristol,10
+EnteringRightT,2.00352E+12,2003,Somerset,63
+EnteringRightT,2.00352E+12,2003,Somerset,33
+EnteringRightT,2.00352E+12,2003,Somerset,37
+EnteringRightT,2003530AI0506,2003,Gloucestershire,13
+EnteringRightT,2003530AI1706,2003,Gloucestershire,13
+EnteringRightT,2003530AI2029,2003,Gloucestershire,11
+EnteringRightT,2003530AI2983,2003,Gloucestershire,43
+EnteringRightT,2003530AI3339,2003,Gloucestershire,11
+EnteringRightT,2003550B01169,2003,Bournemouth,16
+EnteringRightT,2003550B03240,2003,Bournemouth,11
+EnteringRightT,2003550B03638,2003,Bournemouth,21
+EnteringRightT,2003550B05360,2003,Bournemouth,33
+EnteringRightT,2003550P02457,2003,Poole,16
+EnteringRightT,2003553E03927,2003,Dorset,56
+EnteringRightT,2003553E04479,2003,Dorset,16
+EnteringRightT,2003553E04638,2003,Dorset,58
+EnteringRightT,200401BS00515,2004,London,63
+EnteringRightT,200401CW10234,2004,London,56
+EnteringRightT,200401DM00280,2004,London,42
+EnteringRightT,200401EO00397,2004,London,36
+EnteringRightT,200401EO00786,2004,London,43
+EnteringRightT,200401FH00276,2004,London,45
+EnteringRightT,200401FH00428,2004,London,25
+EnteringRightT,200401FH00451,2004,London,50
+EnteringRightT,200401FH00534,2004,London,10
+EnteringRightT,200401FH00703,2004,London,11
+EnteringRightT,200401GD00338,2004,London,26
+EnteringRightT,200401GD00582,2004,London,48
+EnteringRightT,200401GD00825,2004,London,29
+EnteringRightT,200401GD10010,2004,London,38
+EnteringRightT,200401GD10097,2004,London,26
+EnteringRightT,200401JC00223,2004,London,6
+EnteringRightT,200401JC00434,2004,London,17
+EnteringRightT,200401JI00520,2004,London,18
+EnteringRightT,200401KG00132,2004,London,15
+EnteringRightT,200401KO00582,2004,London,90
+EnteringRightT,200401PL00136,2004,London,14
+EnteringRightT,200401QK09022,2004,London,46
+EnteringRightT,200401TA00596,2004,London,
+EnteringRightT,200401TD00182,2004,London,40
+EnteringRightT,200401TD00338,2004,London,
+EnteringRightT,200401VK00121,2004,London,70
+EnteringRightT,200401WW00069,2004,London,36
+EnteringRightT,200401WW00652,2004,London,22
+EnteringRightT,200401XH00461,2004,London,
+EnteringRightT,200401XH00524,2004,London,12
+EnteringRightT,200401XH00623,2004,London,
+EnteringRightT,200401XS01029,2004,London,24
+EnteringRightT,200401XS01109,2004,London,31
+EnteringRightT,200401YF00080,2004,London,57
+EnteringRightT,200401YR00123,2004,London,41
+EnteringRightT,200401YR00290,2004,London,15
+EnteringRightT,200401YR00783,2004,London,18
+EnteringRightT,200404A030804,2004,Blackpool,16
+EnteringRightT,200404A067804,2004,Blackpool,42
+EnteringRightT,200404C017304,2004,Lancashire,13
+EnteringRightT,200404C033904,2004,Lancashire,7
+EnteringRightT,200404C087904,2004,Lancashire,
+EnteringRightT,200404E033204,2004,Lancashire,10
+EnteringRightT,200405AW00117,2004,Merseyside,37
+EnteringRightT,200405AW00294,2004,Merseyside,15
+EnteringRightT,200405AW00780,2004,Merseyside,34
+EnteringRightT,200405AW01567,2004,Merseyside,14
+EnteringRightT,200405BS01202,2004,Merseyside,24
+EnteringRightT,200405ET01236,2004,Merseyside,18
+EnteringRightT,200405ET02454,2004,Merseyside,64
+EnteringRightT,200406A908492,2004,Manchester,32
+EnteringRightT,200406C902093,2004,Manchester,10
+EnteringRightT,200406C907400,2004,Manchester,26
+EnteringRightT,200406C907584,2004,Manchester,13
+EnteringRightT,200406C907645,2004,Manchester,16
+EnteringRightT,200406C913455,2004,Manchester,26
+EnteringRightT,200406J902457,2004,Stockport,46
+EnteringRightT,200406K017177,2004,Bolton,15
+EnteringRightT,200406K906968,2004,Bolton,11
+EnteringRightT,200406L906805,2004,Wigan,13
+EnteringRightT,200406L915749,2004,Wigan,20
+EnteringRightT,200406N010715,2004,Bury,7
+EnteringRightT,200406N903785,2004,Bury,14
+EnteringRightT,200406N909835,2004,Bury,20
+EnteringRightT,200406N910166,2004,Bury,13
+EnteringRightT,2.00407E+12,2004,Cheshire West and Chester,58
+EnteringRightT,2.00407E+12,2004,Cheshire West and Chester,11
+EnteringRightT,2.00407E+12,2004,Cheshire West and Chester,29
+EnteringRightT,2.00407E+12,2004,Halton,47
+EnteringRightT,2.00407E+12,2004,Cheshire West and Chester,39
+EnteringRightT,2.00407E+12,2004,Cheshire East,73
+EnteringRightT,2.00407E+12,2004,Cheshire West and Chester,76
+EnteringRightT,2.0041E+12,2004,North Tyneside,38
+EnteringRightT,2.0041E+12,2004,South Tyneside,6
+EnteringRightT,2.0041E+12,2004,Newcastle upon Tyne,14
+EnteringRightT,200411CH10700,2004,Durham,12
+EnteringRightT,2.00412E+12,2004,York,19
+EnteringRightT,2.00412E+12,2004,North Yorkshire,65
+EnteringRightT,2.00412E+12,2004,North Yorkshire,17
+EnteringRightT,2.00412E+12,2004,York,21
+EnteringRightT,2.00412E+12,2004,North Yorkshire,12
+EnteringRightT,2.00412E+12,2004,York,40
+EnteringRightT,2.00412E+12,2004,York,
+EnteringRightT,2.00413E+12,2004,Leeds,15
+EnteringRightT,2.00413E+12,2004,Wakefield,24
+EnteringRightT,2.00413E+12,2004,Leeds,8
+EnteringRightT,2.00413E+12,2004,Wakefield,8
+EnteringRightT,200414BB01770,2004,Barnsley,41
+EnteringRightT,200414CC01050,2004,Rotherham,15
+EnteringRightT,200414DD00152,2004,Sheffield,29
+EnteringRightT,2004160A01230,2004,North East Lincolnshire,12
+EnteringRightT,2004160A03280,2004,North East Lincolnshire,13
+EnteringRightT,2004160A03940,2004,North East Lincolnshire,12
+EnteringRightT,2004160A04110,2004,North East Lincolnshire,12
+EnteringRightT,2004160A04740,2004,North East Lincolnshire,16
+EnteringRightT,2004160A04910,2004,North East Lincolnshire,14
+EnteringRightT,2004160B00630,2004,North Lincolnshire,14
+EnteringRightT,2004160B03120,2004,North Lincolnshire,41
+EnteringRightT,2004160B05520,2004,North Lincolnshire,16
+EnteringRightT,2004160C03540,2004,East Riding of Yorkshire,10
+EnteringRightT,2004160C03870,2004,East Riding of Yorkshire,14
+EnteringRightT,2004160C04010,2004,East Riding of Yorkshire,64
+EnteringRightT,2004160C07690,2004,East Riding of Yorkshire,10
+EnteringRightT,2004160D01540,2004,Kingston Upon Hull,18
+EnteringRightT,2004170L50534,2004,Redcar and Cleveland,7
+EnteringRightT,2004170S30034,2004,Stockton on Tees,37
+EnteringRightT,2004170S30494,2004,Stockton on Tees,35
+EnteringRightT,200420D242802,2004,Birmingham,16
+EnteringRightT,200420D304202,2004,Birmingham,13
+EnteringRightT,200420F181703,2004,Birmingham,16
+EnteringRightT,200420G036501,2004,Wolverhampton,32
+EnteringRightT,200420G042402,2004,Wolverhampton,13
+EnteringRightT,200420H020602,2004,Walsall,13
+EnteringRightT,200420H039002,2004,Walsall,9
+EnteringRightT,200420H039501,2004,Walsall,9
+EnteringRightT,200420L146101,2004,Solihull,10
+EnteringRightT,200420L176801,2004,Solihull,41
+EnteringRightT,2.00421E+12,2004,Stoke on Trent,5
+EnteringRightT,2.00421E+12,2004,Staffordshire,8
+EnteringRightT,2.00421E+12,2004,Staffordshire,10
+EnteringRightT,2.00421E+12,2004,Staffordshire,14
+EnteringRightT,20042144X0657,2004,Staffordshire,74
+EnteringRightT,200422CC42678,2004,Worcestershire,13
+EnteringRightT,200422CD42516,2004,Worcestershire,11
+EnteringRightT,200422DC35457,2004,Worcestershire,10
+EnteringRightT,200422EJ28671,2004,Herefordshire,16
+EnteringRightT,200422FA38384,2004,Shropshire,12
+EnteringRightT,200422FC40639,2004,Shropshire,14
+EnteringRightT,200422GB35402,2004,Telford and Wrekin,15
+EnteringRightT,200422GB35892,2004,Telford and Wrekin,13
+EnteringRightT,2.00423E+12,2004,Warwickshire,24
+EnteringRightT,2.00423E+12,2004,Warwickshire,17
+EnteringRightT,2.00423E+12,2004,Warwickshire,14
+EnteringRightT,200430A000276,2004,Derbyshire,16
+EnteringRightT,200430C000333,2004,Derbyshire,17
+EnteringRightT,200430D000387,2004,Derby,13
+EnteringRightT,200430D000612,2004,Derby,17
+EnteringRightT,200430D000615,2004,Derby,8
+EnteringRightT,20043102A1341,2004,Nottinghamshire,13
+EnteringRightT,20043102A1797,2004,Nottinghamshire,38
+EnteringRightT,20043102B3790,2004,Nottinghamshire,13
+EnteringRightT,20043102B4259,2004,Nottinghamshire,
+EnteringRightT,20043108C3954,2004,Nottingham,8
+EnteringRightT,20043108C4353,2004,Nottingham,9
+EnteringRightT,20043108D3721,2004,Nottinghamshire,15
+EnteringRightT,200432B038304,2004,Lincolnshire,14
+EnteringRightT,200432B117704,2004,Lincolnshire,72
+EnteringRightT,200432C029804,2004,Lincolnshire,12
+EnteringRightT,200432C138004,2004,Lincolnshire,13
+EnteringRightT,200432D138304,2004,Lincolnshire,34
+EnteringRightT,2.00433E+12,2004,Leicestershire,5
+EnteringRightT,2.00433E+12,2004,Leicestershire,15
+EnteringRightT,2.00433E+12,2004,Leicestershire,25
+EnteringRightT,2.00433E+12,2004,Leicestershire,20
+EnteringRightT,2.00433E+12,2004,Leicestershire,10
+EnteringRightT,2.00433E+12,2004,Leicestershire,15
+EnteringRightT,2.00433E+12,2004,Leicestershire,11
+EnteringRightT,2.00433E+12,2004,Leicestershire,60
+EnteringRightT,2.00433E+12,2004,Leicestershire,13
+EnteringRightT,200434NC03517,2004,Northamptonshire,10
+EnteringRightT,200434ND03836,2004,Northamptonshire,40
+EnteringRightT,200434ND06074,2004,Northamptonshire,17
+EnteringRightT,2.00435E+12,2004,Cambridgeshire,51
+EnteringRightT,2.00435E+12,2004,Peterborough,13
+EnteringRightT,2.00435E+12,2004,Cambridgeshire,73
+EnteringRightT,2.00435E+12,2004,Cambridgeshire,8
+EnteringRightT,2.00435E+12,2004,Cambridgeshire,84
+EnteringRightT,2.00435E+12,2004,Cambridgeshire,17
+EnteringRightT,2.00435E+12,2004,Cambridgeshire,17
+EnteringRightT,2.00435E+12,2004,Peterborough,12
+EnteringRightT,2.00435E+12,2004,Peterborough,12
+EnteringRightT,2.00436E+12,2004,Norfolk,32
+EnteringRightT,2.00436E+12,2004,Norfolk,18
+EnteringRightT,2.00436E+12,2004,Norfolk,56
+EnteringRightT,2.00436E+12,2004,Norfolk,38
+EnteringRightT,2.00436E+12,2004,Norfolk,15
+EnteringRightT,2.00436E+12,2004,Norfolk,16
+EnteringRightT,2.00436E+12,2004,Norfolk,42
+EnteringRightT,200437B019806,2004,Suffolk,8
+EnteringRightT,200437G015058,2004,Suffolk,7
+EnteringRightT,200437L009716,2004,Suffolk,14
+EnteringRightT,2004400D01521,2004,Central Bedfordshire,14
+EnteringRightT,20044100A0079,2004,Hertfordshire,12
+EnteringRightT,20044100A0903,2004,Hertfordshire,35
+EnteringRightT,20044100D0579,2004,Hertfordshire,15
+EnteringRightT,20044100F4521,2004,Hertfordshire,14
+EnteringRightT,20044100F4540,2004,Hertfordshire,61
+EnteringRightT,20044100F4679,2004,Hertfordshire,49
+EnteringRightT,20044100F4851,2004,Hertfordshire,9
+EnteringRightT,20044100G0362,2004,Hertfordshire,14
+EnteringRightT,20044100G0457,2004,Hertfordshire,29
+EnteringRightT,20044100G0803,2004,Hertfordshire,18
+EnteringRightT,20044100J2422,2004,Hertfordshire,15
+EnteringRightT,20044200D0157,2004,Essex,42
+EnteringRightT,200443P067044,2004,Oxfordshire,15
+EnteringRightT,200443P113024,2004,Oxfordshire,12
+EnteringRightT,200443P184064,2004,Oxfordshire,16
+EnteringRightT,200443P224124,2004,Oxfordshire,12
+EnteringRightT,200443P233064,2004,Oxfordshire,16
+EnteringRightT,200443P342054,2004,Oxfordshire,12
+EnteringRightT,200443W049054,2004,Slough,11
+EnteringRightT,200443W060124,2004,Bracknell Forest,15
+EnteringRightT,200443W150044,2004,Windsor and Maidenhead,12
+EnteringRightT,200443W379094,2004,Slough,26
+EnteringRightT,200443W421044,2004,Wokingham,13
+EnteringRightT,2004440BB0172,2004,Hampshire,16
+EnteringRightT,2004440GG0006,2004,Hampshire,60
+EnteringRightT,2004440HB0259,2004,Hampshire,21
+EnteringRightT,2004440HG0446,2004,Hampshire,39
+EnteringRightT,2004440HG0630,2004,Hampshire,10
+EnteringRightT,2004440HP0465,2004,Hampshire,64
+EnteringRightT,2004440KK0334,2004,Portsmouth,15
+EnteringRightT,2004440KK1519,2004,Portsmouth,6
+EnteringRightT,2004440SY0711,2004,Southampton ,19
+EnteringRightT,2004440SY0862,2004,Southampton ,25
+EnteringRightT,200445RU47779,2004,Surrey,
+EnteringRightT,200445RU59702,2004,Surrey,48
+EnteringRightT,200445SU52885,2004,Surrey,15
+EnteringRightT,200445SU54554,2004,Surrey,12
+EnteringRightT,200445TA50660,2004,Surrey,14
+EnteringRightT,2.00446E+12,2004,Medway,10
+EnteringRightT,2.00446E+12,2004,Medway,12
+EnteringRightT,200446MA97146,2004,Kent,15
+EnteringRightT,200446SK95033,2004,Kent,12
+EnteringRightT,200446SK98613,2004,Kent,13
+EnteringRightT,200447K171778,2004,West Sussex,17
+EnteringRightT,200447K172701,2004,East Sussex,14
+EnteringRightT,200447K175948,2004,West Sussex,35
+EnteringRightT,200447K177522,2004,West Sussex,81
+EnteringRightT,200447K181481,2004,West Sussex,14
+EnteringRightT,200450C41K912,2004,Devon,32
+EnteringRightT,200450D36G452,2004,Devon,62
+EnteringRightT,200450E21C030,2004,Plymouth,11
+EnteringRightT,200450F21E584,2004,Torbay,16
+EnteringRightT,2.00452E+12,2004,City of Bristol,16
+EnteringRightT,2.00452E+12,2004,City of Bristol,17
+EnteringRightT,2.00452E+12,2004,City of Bristol,10
+EnteringRightT,2.00452E+12,2004,Somerset,15
+EnteringRightT,2.00452E+12,2004,South Gloucestershire,29
+EnteringRightT,2.00452E+12,2004,Somerset,16
+EnteringRightT,2.00452E+12,2004,City of Bristol,26
+EnteringRightT,2.00452E+12,2004,City of Bristol,15
+EnteringRightT,2.00452E+12,2004,City of Bristol,37
+EnteringRightT,2004530AI2254,2004,Gloucestershire,12
+EnteringRightT,2004530AI2696,2004,Gloucestershire,13
+EnteringRightT,2004530AI3432,2004,Gloucestershire,15
+EnteringRightT,200454CP47604,2004,Wiltshire,17
+EnteringRightT,200454DC46004,2004,Swindon,13
+EnteringRightT,2004550B00143,2004,Bournemouth,14
+EnteringRightT,2004550B02303,2004,Bournemouth,9
+EnteringRightT,2004550B02547,2004,Bournemouth,
+EnteringRightT,2004550B03764,2004,Bournemouth,24
+EnteringRightT,2004550P02840,2004,Poole,13
+EnteringRightT,2004550P04434,2004,Poole,27
+EnteringRightT,2.00E+228,2004,Dorset,28
+EnteringRightT,2004554E02754,2004,Dorset,17
+EnteringRightT,200501CW10733,2005,London,31
+EnteringRightT,200501CW11126,2005,London,27
+EnteringRightT,200501CW11170,2005,London,12
+EnteringRightT,200501CW11230,2005,London,67
+EnteringRightT,200501CW11369,2005,London,27
+EnteringRightT,200501EO40847,2005,London,11
+EnteringRightT,200501EO40895,2005,London,15
+EnteringRightT,200501EO40946,2005,London,39
+EnteringRightT,200501FH10513,2005,London,12
+EnteringRightT,200501HT20530,2005,London,58
+EnteringRightT,200501KD50521,2005,London,10
+EnteringRightT,200501KF60406,2005,London,13
+EnteringRightT,200501LX50771,2005,London,38
+EnteringRightT,200501MM70596,2005,London,27
+EnteringRightT,200501MM70864,2005,London,18
+EnteringRightT,200501PL60449,2005,London,17
+EnteringRightT,200501RG49089,2005,London,49
+EnteringRightT,200501SX20504,2005,London,6
+EnteringRightT,200501SX20673,2005,London,21
+EnteringRightT,200501SX20863,2005,London,
+EnteringRightT,200501TD00182,2005,London,26
+EnteringRightT,200501TE00242,2005,London,83
+EnteringRightT,200501TW60422,2005,London,23
+EnteringRightT,200501TX20294,2005,London,22
+EnteringRightT,200501VW40067,2005,London,9
+EnteringRightT,200501WW50048,2005,London,49
+EnteringRightT,200501XD80348,2005,London,8
+EnteringRightT,200501XH30541,2005,London,68
+EnteringRightT,200501YE80137,2005,London,39
+EnteringRightT,200501YR90745,2005,London,20
+EnteringRightT,200501ZD31381,2005,London,17
+EnteringRightT,2.00503E+12,2005,Cumbria,39
+EnteringRightT,2.00503E+12,2005,Cumbria,13
+EnteringRightT,2.00503E+12,2005,Cumbria,10
+EnteringRightT,200504AX05064,2005,Blackpool,23
+EnteringRightT,200504BC05081,2005,Lancashire,18
+EnteringRightT,200504BJ05042,2005,Lancashire,17
+EnteringRightT,200504DA05020,2005,Lancashire,34
+EnteringRightT,200504E011105,2005,Blackburn with Darwen,59
+EnteringRightT,200504FG05077,2005,Lancashire,39
+EnteringRightT,200505BS00952,2005,Merseyside,70
+EnteringRightT,200505CH00078,2005,Merseyside,16
+EnteringRightT,200505DH00472,2005,Merseyside,15
+EnteringRightT,200506A028234,2005,Manchester,9
+EnteringRightT,200506B028912,2005,Manchester,40
+EnteringRightT,200506C023767,2005,Manchester,36
+EnteringRightT,200506C918610,2005,Manchester,14
+EnteringRightT,200506F034098,2005,Salford,8
+EnteringRightT,200506J029062,2005,Stockport,14
+EnteringRightT,200506K922683,2005,Bolton,18
+EnteringRightT,200506L032813,2005,Wigan,16
+EnteringRightT,200506M039729,2005,Trafford,18
+EnteringRightT,200506N037130,2005,Bury,18
+EnteringRightT,200506Q031347,2005,Oldham,10
+EnteringRightT,2.00507E+12,2005,Cheshire West and Chester,11
+EnteringRightT,2.00507E+12,2005,Cheshire West and Chester,11
+EnteringRightT,2.0051E+12,2005,Northumberland,9
+EnteringRightT,2.0051E+12,2005,South Tyneside,41
+EnteringRightT,2.0051E+12,2005,Northumberland,14
+EnteringRightT,2.0051E+12,2005,Northumberland,8
+EnteringRightT,2.0051E+12,2005,Newcastle upon Tyne,15
+EnteringRightT,200511AK09500,2005,Durham,7
+EnteringRightT,200511AK21020,2005,Durham,8
+EnteringRightT,2.00512E+12,2005,York,17
+EnteringRightT,2.00512E+12,2005,York,12
+EnteringRightT,2.00512E+12,2005,North Yorkshire,34
+EnteringRightT,2.00513E+12,2005,Kirklees,12
+EnteringRightT,2.00513E+12,2005,Calderdale,11
+EnteringRightT,2.00513E+12,2005,Kirklees,30
+EnteringRightT,2.00513E+12,2005,Leeds,13
+EnteringRightT,2.00513E+12,2005,Wakefield,13
+EnteringRightT,2.00513E+12,2005,Calderdale,12
+EnteringRightT,200514F119705,2005,Sheffield,12
+EnteringRightT,2005160A00030,2005,North East Lincolnshire,14
+EnteringRightT,2005160A01220,2005,North East Lincolnshire,12
+EnteringRightT,2005160A01570,2005,North East Lincolnshire,15
+EnteringRightT,2005160C03590,2005,East Riding of Yorkshire,24
+EnteringRightT,2005160C06790,2005,East Riding of Yorkshire,48
+EnteringRightT,2005160C07950,2005,East Riding of Yorkshire,77
+EnteringRightT,2005160D08420,2005,Kingston Upon Hull,17
+EnteringRightT,2005170L50885,2005,Redcar and Cleveland,14
+EnteringRightT,2005170S33125,2005,Stockton on Tees,11
+EnteringRightT,200520G057902,2005,Wolverhampton,54
+EnteringRightT,200520G063102,2005,Wolverhampton,6
+EnteringRightT,200520G097201,2005,Wolverhampton,12
+EnteringRightT,200520H067102,2005,Walsall,9
+EnteringRightT,200520J093402,2005,Dudley,
+EnteringRightT,200520K084901,2005,Sandwell,9
+EnteringRightT,200520M020403,2005,Coventry,12
+EnteringRightT,200520M027503,2005,Coventry,8
+EnteringRightT,2.00522E+12,2005,Stoke on Trent,
+EnteringRightT,2.00522E+12,2005,Stoke on Trent,9
+EnteringRightT,2.00522E+12,2005,Staffordshire,
+EnteringRightT,2.00522E+12,2005,Staffordshire,12
+EnteringRightT,2.00522E+12,2005,Staffordshire,12
+EnteringRightT,2.00522E+12,2005,Staffordshire,6
+EnteringRightT,2.00522E+12,2005,Staffordshire,15
+EnteringRightT,2.00522E+12,2005,Staffordshire,21
+EnteringRightT,2.00522E+12,2005,Staffordshire,
+EnteringRightT,200522CA48143,2005,Worcestershire,16
+EnteringRightT,200522CF50021,2005,Worcestershire,9
+EnteringRightT,200522CF50452,2005,Worcestershire,63
+EnteringRightT,200522DC46596,2005,Worcestershire,11
+EnteringRightT,200522FA42904,2005,Shropshire,33
+EnteringRightT,2.00523E+12,2005,Warwickshire,13
+EnteringRightT,2.00523E+12,2005,Warwickshire,15
+EnteringRightT,2.00523E+12,2005,Warwickshire,90
+EnteringRightT,2.00523E+12,2005,Warwickshire,76
+EnteringRightT,200530C000225,2005,Derbyshire,14
+EnteringRightT,200530C000488,2005,Derbyshire,12
+EnteringRightT,200530D000181,2005,Derby,8
+EnteringRightT,200530D000327,2005,Derby,18
+EnteringRightT,200530D000630,2005,Derby,49
+EnteringRightT,20053102B1304,2005,Nottinghamshire,14
+EnteringRightT,20053102C0452,2005,Nottingham,56
+EnteringRightT,20053102D2153,2005,Nottinghamshire,17
+EnteringRightT,200532C060005,2005,Lincolnshire,35
+EnteringRightT,200532C543105,2005,Lincolnshire,9
+EnteringRightT,2.00533E+12,2005,Leicestershire,36
+EnteringRightT,2.00533E+12,2005,Leicestershire,13
+EnteringRightT,2.00533E+12,2005,Leicestershire,9
+EnteringRightT,2.00533E+12,2005,Leicestershire,
+EnteringRightT,2.00533E+12,2005,Leicestershire,20
+EnteringRightT,2.00533E+12,2005,Leicestershire,6
+EnteringRightT,2.00535E+12,2005,Peterborough,17
+EnteringRightT,2.00535E+12,2005,Cambridgeshire,17
+EnteringRightT,2.00535E+12,2005,Cambridgeshire,30
+EnteringRightT,2.00535E+12,2005,Cambridgeshire,12
+EnteringRightT,2.00535E+12,2005,Cambridgeshire,8
+EnteringRightT,2.00535E+12,2005,Cambridgeshire,69
+EnteringRightT,2.00535E+12,2005,Cambridgeshire,29
+EnteringRightT,2.00536E+12,2005,Norfolk,13
+EnteringRightT,2.00536E+12,2005,Norfolk,8
+EnteringRightT,200536T050103,2005,Norfolk,9
+EnteringRightT,200536T050118,2005,Norfolk,7
+EnteringRightT,200537G017580,2005,Suffolk,8
+EnteringRightT,200537G018685,2005,Suffolk,25
+EnteringRightT,200540B004830,2005,Central Bedfordshire,13
+EnteringRightT,200540C019980,2005,Luton,14
+EnteringRightT,20054100C0107,2005,Hertfordshire,17
+EnteringRightT,20054100C0209,2005,Hertfordshire,20
+EnteringRightT,20054100F4515,2005,Hertfordshire,11
+EnteringRightT,20054100F4527,2005,Hertfordshire,10
+EnteringRightT,200542A026805,2005,Essex,13
+EnteringRightT,200542C078212,2005,Essex,34
+EnteringRightT,200542D021106,2005,Essex,13
+EnteringRightT,200542D032610,2005,Essex,15
+EnteringRightT,200542E025306,2005,Essex,14
+EnteringRightT,200542H024006,2005,Southend on Sea,30
+EnteringRightT,200543N028085,2005,Milton Keynes,12
+EnteringRightT,200543N132065,2005,Buckinghamshire,12
+EnteringRightT,200543P122025,2005,Oxfordshire,14
+EnteringRightT,200543P126115,2005,Oxfordshire,16
+EnteringRightT,200543P279095,2005,Oxfordshire,12
+EnteringRightT,200543W089035,2005,Slough,
+EnteringRightT,200543W364075,2005,Wokingham,11
+EnteringRightT,200543W466095,2005,Wokingham,11
+EnteringRightT,2.00544E+12,2005,Hampshire,19
+EnteringRightT,2.00544E+12,2005,Portsmouth,12
+EnteringRightT,2.00544E+12,2005,Hampshire,34
+EnteringRightT,2.00544E+12,2005,Portsmouth,16
+EnteringRightT,2.00544E+12,2005,Portsmouth,80
+EnteringRightT,2.00544E+12,2005,Hampshire,15
+EnteringRightT,2.00544E+12,2005,Hampshire,11
+EnteringRightT,2.00544E+12,2005,Hampshire,29
+EnteringRightT,2.00544E+12,2005,Hampshire,37
+EnteringRightT,2005445AA0248,2005,Hampshire,32
+EnteringRightT,200545EL76636,2005,Surrey,15
+EnteringRightT,200545MO63665,2005,Surrey,40
+EnteringRightT,200545SP78770,2005,Surrey,12
+EnteringRightT,200545SP79137,2005,Surrey,15
+EnteringRightT,200545WO65973,2005,Surrey,24
+EnteringRightT,2.00546E+12,2005,Kent,12
+EnteringRightT,2.00547E+12,2005,West Sussex,16
+EnteringRightT,2.00547E+12,2005,East Sussex,12
+EnteringRightT,2.00547E+12,2005,Brighton and Hove,66
+EnteringRightT,200550A23N289,2005,Cornwall and Isles of Scilly,15
+EnteringRightT,200550A51G593,2005,Cornwall and Isles of Scilly,12
+EnteringRightT,200550F31L914,2005,Torbay,13
+EnteringRightT,2.00552E+12,2005,Somerset,26
+EnteringRightT,2.00552E+12,2005,Bath and North East Somerset,14
+EnteringRightT,2.00552E+12,2005,Somerset,11
+EnteringRightT,2.00552E+12,2005,City of Bristol,20
+EnteringRightT,2.00552E+12,2005,North Somerset,8
+EnteringRightT,2.00552E+12,2005,Bath and North East Somerset,8
+EnteringRightT,2.00552E+12,2005,City of Bristol,26
+EnteringRightT,2.00553E+12,2005,Gloucestershire,10
+EnteringRightT,2.00553E+12,2005,Gloucestershire,12
+EnteringRightT,2.00553E+12,2005,Gloucestershire,57
+EnteringRightT,2.00553E+12,2005,Gloucestershire,44
+EnteringRightT,2.00553E+12,2005,Gloucestershire,35
+EnteringRightT,200554CT58505,2005,Wiltshire,24
+EnteringRightT,200554DE15905,2005,Swindon,14
+EnteringRightT,200554DH44805,2005,Swindon,9
+EnteringRightT,200554DW21305,2005,Swindon,26
+EnteringRightT,2005555B01393,2005,Bournemouth,21
+EnteringRightT,2005555B04567,2005,Bournemouth,24
+EnteringRightT,2005555B05507,2005,Bournemouth,14
+EnteringRightT,2005555E03877,2005,Dorset,27
+EnteringRightT,2005555E04582,2005,Dorset,16
+EnteringRightT,200601BS70588,2006,London,62
+EnteringRightT,200601CW10063,2006,London,24
+EnteringRightT,200601FH10591,2006,London,34
+EnteringRightT,200601FH10612,2006,London,27
+EnteringRightT,200601HT20131,2006,London,54
+EnteringRightT,200601HT20644,2006,London,34
+EnteringRightT,200601LX50704,2006,London,
+EnteringRightT,200601MM70011,2006,London,24
+EnteringRightT,200601MM70478,2006,London,47
+EnteringRightT,200601MM70745,2006,London,29
+EnteringRightT,200601MM70895,2006,London,40
+EnteringRightT,200601PL60782,2006,London,28
+EnteringRightT,200601PY20371,2006,London,28
+EnteringRightT,200601TE00126,2006,London,51
+EnteringRightT,200601TW60192,2006,London,12
+EnteringRightT,200601WW50076,2006,London,
+EnteringRightT,200601WW50339,2006,London,22
+EnteringRightT,200601WW50341,2006,London,36
+EnteringRightT,200601WW50685,2006,London,11
+EnteringRightT,200601ZT80216,2006,London,15
+EnteringRightT,200604AN06090,2006,Blackpool,26
+EnteringRightT,200604BB06127,2006,Lancashire,11
+EnteringRightT,200604BC06051,2006,Lancashire,15
+EnteringRightT,200604BC06128,2006,Lancashire,18
+EnteringRightT,200604CJ06085,2006,Lancashire,18
+EnteringRightT,200604DF06084,2006,Lancashire,15
+EnteringRightT,200604FG06047,2006,Lancashire,6
+EnteringRightT,200605AA08868,2006,Merseyside,15
+EnteringRightT,200605CC08769,2006,Merseyside,6
+EnteringRightT,200606A047304,2006,Manchester,21
+EnteringRightT,200606C057305,2006,Manchester,40
+EnteringRightT,200606J051043,2006,Stockport,14
+EnteringRightT,200606J053011,2006,Stockport,13
+EnteringRightT,200606J053843,2006,Stockport,8
+EnteringRightT,200606J054852,2006,Stockport,23
+EnteringRightT,200606K055343,2006,Bolton,20
+EnteringRightT,200606L051639,2006,Wigan,18
+EnteringRightT,200606Q047542,2006,Oldham,20
+EnteringRightT,2.00607E+12,2006,Cheshire West and Chester,22
+EnteringRightT,2.00607E+12,2006,Cheshire West and Chester,55
+EnteringRightT,2.00607E+12,2006,Warrington,16
+EnteringRightT,2.00607E+12,2006,Cheshire West and Chester,14
+EnteringRightT,200611DJ09200,2006,Darlington,16
+EnteringRightT,2.00612E+12,2006,York,30
+EnteringRightT,2.00613E+12,2006,Leeds,24
+EnteringRightT,2.00613E+12,2006,Leeds,21
+EnteringRightT,2.00613E+12,2006,Leeds,20
+EnteringRightT,2.00613E+12,2006,Bradford,5
+EnteringRightT,2.00613E+12,2006,Leeds,28
+EnteringRightT,200614A077706,2006,Doncaster,35
+EnteringRightT,2006160A03130,2006,North East Lincolnshire,13
+EnteringRightT,2006160A03220,2006,North East Lincolnshire,25
+EnteringRightT,2006160D07420,2006,Kingston Upon Hull,58
+EnteringRightT,2006170M21306,2006,Middlesbrough,20
+EnteringRightT,2006170M31866,2006,Middlesbrough,7
+EnteringRightT,200620D519002,2006,Birmingham,23
+EnteringRightT,200620H046302,2006,Walsall,10
+EnteringRightT,200620H071302,2006,Walsall,19
+EnteringRightT,200620K070202,2006,Sandwell,11
+EnteringRightT,200620K071901,2006,Sandwell,10
+EnteringRightT,200620L144601,2006,Solihull,10
+EnteringRightT,200620M027903,2006,Coventry,31
+EnteringRightT,200620M050401,2006,Coventry,6
+EnteringRightT,2.00622E+12,2006,Staffordshire,14
+EnteringRightT,200630A000039,2006,Derbyshire,30
+EnteringRightT,200630C000611,2006,Derbyshire,46
+EnteringRightT,200630D000407,2006,Derby,9
+EnteringRightT,20063102A0503,2006,Nottinghamshire,55
+EnteringRightT,20063102A2573,2006,Nottinghamshire,35
+EnteringRightT,200632B184206,2006,Lincolnshire,12
+EnteringRightT,200632D217906,2006,Lincolnshire,13
+EnteringRightT,200632D280806,2006,Lincolnshire,16
+EnteringRightT,2.00633E+12,2006,Leicestershire,18
+EnteringRightT,2.00633E+12,2006,Leicestershire,13
+EnteringRightT,2.00633E+12,2006,Leicestershire,79
+EnteringRightT,2.00633E+12,2006,Leicestershire,49
+EnteringRightT,200634WN03347,2006,Northamptonshire,13
+EnteringRightT,2.00635E+12,2006,Cambridgeshire,75
+EnteringRightT,2.00635E+12,2006,Peterborough,18
+EnteringRightT,2.00635E+12,2006,Cambridgeshire,64
+EnteringRightT,2.00635E+12,2006,Cambridgeshire,25
+EnteringRightT,2.00635E+12,2006,Cambridgeshire,20
+EnteringRightT,2.00636E+12,2006,Norfolk,16
+EnteringRightT,2.00636E+12,2006,Norfolk,19
+EnteringRightT,200637B025709,2006,Suffolk,15
+EnteringRightT,200637G019415,2006,Suffolk,15
+EnteringRightT,200637G019709,2006,Suffolk,20
+EnteringRightT,200637G019872,2006,Suffolk,15
+EnteringRightT,200637G020001,2006,Suffolk,15
+EnteringRightT,200637G020894,2006,Suffolk,9
+EnteringRightT,200637L013812,2006,Suffolk,82
+EnteringRightT,200640B025410,2006,Bedford Borough Council,25
+EnteringRightT,200640C018760,2006,Luton,50
+EnteringRightT,200640D021050,2006,Central Bedfordshire,34
+EnteringRightT,20064100B0761,2006,Hertfordshire,11
+EnteringRightT,20064100D1049,2006,Hertfordshire,16
+EnteringRightT,200642E010603,2006,Essex,13
+EnteringRightT,200642H005902,2006,Southend on Sea,12
+EnteringRightT,200642I378909,2006,Essex,11
+EnteringRightT,200642I451911,2006,Essex,11
+EnteringRightT,200642J016205,2006,Essex,52
+EnteringRightT,200643N143016,2006,Milton Keynes,49
+EnteringRightT,200643P022106,2006,Oxfordshire,17
+EnteringRightT,200643P165066,2006,Oxfordshire,22
+EnteringRightT,200643P184086,2006,Oxfordshire,16
+EnteringRightT,200643R011086,2006,Windsor and Maidenhead,41
+EnteringRightT,200643R094116,2006,Bracknell Forest,77
+EnteringRightT,200643R170066,2006,Slough,65
+EnteringRightT,200643W241076,2006,Reading,14
+EnteringRightT,2.00644E+12,2006,Hampshire,14
+EnteringRightT,2.00644E+12,2006,Hampshire,23
+EnteringRightT,2.00644E+12,2006,Southampton ,11
+EnteringRightT,2.00644E+12,2006,Hampshire,8
+EnteringRightT,2.00644E+12,2006,Portsmouth,12
+EnteringRightT,2.00644E+12,2006,Hampshire,17
+EnteringRightT,2.00644E+12,2006,Isle of Wight,11
+EnteringRightT,2.00644E+12,2006,Portsmouth,10
+EnteringRightT,2.00644E+12,2006,Hampshire,12
+EnteringRightT,2.00644E+12,2006,Portsmouth,30
+EnteringRightT,2.00644E+12,2006,Hampshire,14
+EnteringRightT,200645RU79239,2006,Surrey,
+EnteringRightT,200645SU84459,2006,Surrey,9
+EnteringRightT,200645SU94198,2006,Surrey,76
+EnteringRightT,2.00646E+12,2006,Medway,19
+EnteringRightT,2.00646E+12,2006,Kent,14
+EnteringRightT,2.00646E+12,2006,Kent,12
+EnteringRightT,2.00647E+12,2006,West Sussex,16
+EnteringRightT,2.00647E+12,2006,East Sussex,15
+EnteringRightT,2.00647E+12,2006,West Sussex,19
+EnteringRightT,2.00647E+12,2006,West Sussex,13
+EnteringRightT,2.00647E+12,2006,East Sussex,23
+EnteringRightT,2.00647E+12,2006,East Sussex,27
+EnteringRightT,2.00652E+12,2006,City of Bristol,38
+EnteringRightT,2.00652E+12,2006,City of Bristol,31
+EnteringRightT,2.00652E+12,2006,Somerset,16
+EnteringRightT,2.00652E+12,2006,Somerset,11
+EnteringRightT,2.00652E+12,2006,North Somerset,23
+EnteringRightT,2.00652E+12,2006,City of Bristol,7
+EnteringRightT,2.00652E+12,2006,Bath and North East Somerset,
+EnteringRightT,2.00653E+12,2006,Gloucestershire,12
+EnteringRightT,200654CM05006,2006,Wiltshire,47
+EnteringRightT,200654CM22606,2006,Wiltshire,16
+EnteringRightT,2006556B01576,2006,Bournemouth,47
+EnteringRightT,2006556E04210,2006,Dorset,15
+EnteringRightT,2006556P00258,2006,Poole,27
+EnteringRightT,2006556P02409,2006,Dorset,12
+EnteringRightT,200701BS70724,2007,London,
+EnteringRightT,200701CW10487,2007,London,
+EnteringRightT,200701CW10678,2007,London,30
+EnteringRightT,200701CW10862,2007,London,37
+EnteringRightT,200701EO40315,2007,London,47
+EnteringRightT,200701EO40718,2007,London,20
+EnteringRightT,200701GD10191,2007,London,32
+EnteringRightT,200701GD10251,2007,London,29
+EnteringRightT,200701GD67084,2007,London,26
+EnteringRightT,200701HT64063,2007,London,33
+EnteringRightT,200701HT68786,2007,London,48
+EnteringRightT,200701JC30269,2007,London,
+EnteringRightT,200701JC63391,2007,London,23
+EnteringRightT,200701JI40142,2007,London,16
+EnteringRightT,200701LX62197,2007,London,36
+EnteringRightT,200701PL60345,2007,London,42
+EnteringRightT,200701QK50308,2007,London,21
+EnteringRightT,200701RG40113,2007,London,20
+EnteringRightT,200701WW50572,2007,London,39
+EnteringRightT,200701XH30481,2007,London,17
+EnteringRightT,200701YE80504,2007,London,13
+EnteringRightT,200701ZD30068,2007,London,
+EnteringRightT,2.00703E+12,2007,Cumbria,15
+EnteringRightT,200704CK07139,2007,Lancashire,14
+EnteringRightT,200704FE07079,2007,Lancashire,10
+EnteringRightT,200704FG07142,2007,Lancashire,32
+EnteringRightT,200705BB20151,2007,Merseyside,33
+EnteringRightT,200705BB22076,2007,Merseyside,12
+EnteringRightT,200706A069407,2007,Manchester,35
+EnteringRightT,200706B079435,2007,Manchester,17
+EnteringRightT,200706C081592,2007,Manchester,12
+EnteringRightT,200706F076335,2007,Salford,8
+EnteringRightT,200706J079150,2007,Stockport,12
+EnteringRightT,200706J080507,2007,Stockport,36
+EnteringRightT,200706K064952,2007,Bolton,17
+EnteringRightT,200706K084430,2007,Bolton,17
+EnteringRightT,200706L078893,2007,Wigan,40
+EnteringRightT,200706N078203,2007,Bury,16
+EnteringRightT,2.00707E+12,2007,Cheshire West and Chester,16
+EnteringRightT,2.00707E+12,2007,Cheshire East,14
+EnteringRightT,2.0071E+12,2007,South Tyneside,58
+EnteringRightT,2.0071E+12,2007,Northumberland,12
+EnteringRightT,200711DJ03650,2007,Darlington,20
+EnteringRightT,200711DJ19140,2007,Darlington,17
+EnteringRightT,2.00712E+12,2007,North Yorkshire,60
+EnteringRightT,2.00712E+12,2007,North Yorkshire,16
+EnteringRightT,2.00712E+12,2007,North Yorkshire,27
+EnteringRightT,2.00713E+12,2007,Leeds,24
+EnteringRightT,2.00713E+12,2007,Wakefield,16
+EnteringRightT,2.00713E+12,2007,Wakefield,14
+EnteringRightT,2.00713E+12,2007,Wakefield,14
+EnteringRightT,2.00713E+12,2007,Leeds,25
+EnteringRightT,2.00713E+12,2007,Leeds,17
+EnteringRightT,2.00713E+12,2007,Leeds,19
+EnteringRightT,2.00713E+12,2007,Leeds,6
+EnteringRightT,2.00713E+12,2007,Leeds,66
+EnteringRightT,2.00713E+12,2007,Leeds,42
+EnteringRightT,200714C085507,2007,Rotherham,14
+EnteringRightT,2007160B03830,2007,North Lincolnshire,10
+EnteringRightT,2007160D02680,2007,Kingston Upon Hull,20
+EnteringRightT,2007170L21067,2007,Redcar and Cleveland,10
+EnteringRightT,2007170L31637,2007,Redcar and Cleveland,8
+EnteringRightT,200720E046102,2007,Birmingham,13
+EnteringRightT,200720E166201,2007,Birmingham,44
+EnteringRightT,200720G025902,2007,Wolverhampton,14
+EnteringRightT,200720J086002,2007,Dudley,28
+EnteringRightT,200720K125202,2007,Sandwell,14
+EnteringRightT,2.00722E+12,2007,Stoke on Trent,13
+EnteringRightT,2.00722E+12,2007,Stoke on Trent,27
+EnteringRightT,2.00722E+12,2007,Staffordshire,68
+EnteringRightT,2.00722E+12,2007,Staffordshire,24
+EnteringRightT,2.00722E+12,2007,Staffordshire,
+EnteringRightT,2.00722E+12,2007,Stoke on Trent,14
+EnteringRightT,2.00722E+12,2007,Staffordshire,14
+EnteringRightT,2.00722E+12,2007,Staffordshire,
+EnteringRightT,200722DA85933,2007,Worcestershire,13
+EnteringRightT,200722DA86717,2007,Worcestershire,21
+EnteringRightT,200722DE87105,2007,Worcestershire,41
+EnteringRightT,200722EA86475,2007,Herefordshire,9
+EnteringRightT,200722FA86704,2007,Shropshire,12
+EnteringRightT,200722GA85863,2007,Telford and Wrekin,16
+EnteringRightT,200722GA86109,2007,Telford and Wrekin,30
+EnteringRightT,2.00723E+12,2007,Warwickshire,16
+EnteringRightT,2.00723E+12,2007,Warwickshire,13
+EnteringRightT,200730B000611,2007,Derbyshire,42
+EnteringRightT,200730C000509,2007,Derbyshire,13
+EnteringRightT,200732B148507,2007,Lincolnshire,26
+EnteringRightT,200732B407107,2007,Lincolnshire,80
+EnteringRightT,200732D040207,2007,Lincolnshire,14
+EnteringRightT,200732D289907,2007,Lincolnshire,52
+EnteringRightT,2.00733E+12,2007,Leicestershire,15
+EnteringRightT,200734WN44217,2007,Northamptonshire,15
+EnteringRightT,2.00735E+12,2007,Cambridgeshire,13
+EnteringRightT,2.00735E+12,2007,Cambridgeshire,8
+EnteringRightT,2.00735E+12,2007,Cambridgeshire,18
+EnteringRightT,2.00735E+12,2007,Cambridgeshire,12
+EnteringRightT,2.00735E+12,2007,Peterborough,12
+EnteringRightT,2.00736E+12,2007,Norfolk,15
+EnteringRightT,2.00736E+12,2007,Norfolk,7
+EnteringRightT,200736T070195,2007,Norfolk,11
+EnteringRightT,200737G022759,2007,Suffolk,9
+EnteringRightT,200737G023532,2007,Suffolk,37
+EnteringRightT,200737L014476,2007,Suffolk,72
+EnteringRightT,2007400B02211,2007,Bedford Borough Council,31
+EnteringRightT,2007400B03527,2007,Bedford Borough Council,76
+EnteringRightT,2007400C00870,2007,Luton,16
+EnteringRightT,2007400C02247,2007,Luton,16
+EnteringRightT,2007400D01961,2007,Central Bedfordshire,55
+EnteringRightT,2007400D02957,2007,Central Bedfordshire,13
+EnteringRightT,20074100G0297,2007,Hertfordshire,12
+EnteringRightT,200742I344608,2007,Essex,15
+EnteringRightT,200742I462611,2007,Essex,16
+EnteringRightT,200742I469011,2007,Essex,14
+EnteringRightT,200743P156107,2007,Oxfordshire,12
+EnteringRightT,200743P256017,2007,Oxfordshire,43
+EnteringRightT,200743P317117,2007,Oxfordshire,20
+EnteringRightT,200743W155017,2007,Reading,17
+EnteringRightT,2.00744E+12,2007,Southampton ,17
+EnteringRightT,2.00744E+12,2007,Hampshire,14
+EnteringRightT,2.00744E+12,2007,Hampshire,47
+EnteringRightT,2.00744E+12,2007,Hampshire,41
+EnteringRightT,2.00744E+12,2007,Hampshire,12
+EnteringRightT,2.00744E+12,2007,Portsmouth,50
+EnteringRightT,2.00744E+12,2007,Southampton ,24
+EnteringRightT,200745SU09592,2007,Surrey,16
+EnteringRightT,2.00746E+12,2007,Medway,53
+EnteringRightT,2.00746E+12,2007,Kent,15
+EnteringRightT,2.00746E+12,2007,Kent,59
+EnteringRightT,2.00747E+12,2007,West Sussex,22
+EnteringRightT,2.00747E+12,2007,Brighton and Hove,17
+EnteringRightT,2.00747E+12,2007,West Sussex,24
+EnteringRightT,2.00747E+12,2007,West Sussex,20
+EnteringRightT,2.00747E+12,2007,East Sussex,17
+EnteringRightT,200750A21E324,2007,Cornwall and Isles of Scilly,68
+EnteringRightT,200750F42B668,2007,Devon,15
+EnteringRightT,2.00752E+12,2007,South Gloucestershire,47
+EnteringRightT,2.00752E+12,2007,Bath and North East Somerset,27
+EnteringRightT,2.00752E+12,2007,Bath and North East Somerset,15
+EnteringRightT,2.00752E+12,2007,North Somerset,15
+EnteringRightT,2.00752E+12,2007,North Somerset,14
+EnteringRightT,200754EL32807,2007,Wiltshire,10
+EnteringRightT,200754EM24407,2007,Wiltshire,7
+EnteringRightT,200801BS70385,2008,London,33
+EnteringRightT,200801EO40685,2008,London,34
+EnteringRightT,200801GD70017,2008,London,
+EnteringRightT,200801GD72841,2008,London,29
+EnteringRightT,200801MM70695,2008,London,42
+EnteringRightT,200801MM71194,2008,London,24
+EnteringRightT,200801NI73425,2008,London,16
+EnteringRightT,200801PY20336,2008,London,
+EnteringRightT,200801QK50282,2008,London,19
+EnteringRightT,200801QK50554,2008,London,46
+EnteringRightT,200801RG40051,2008,London,23
+EnteringRightT,200801RY10215,2008,London,15
+EnteringRightT,200801SX20095,2008,London,28
+EnteringRightT,200801SX74177,2008,London,55
+EnteringRightT,200801TW60154,2008,London,11
+EnteringRightT,200801VK30331,2008,London,20
+EnteringRightT,200801VW40420,2008,London,21
+EnteringRightT,200801WW50103,2008,London,24
+EnteringRightT,200801WW50259,2008,London,31
+EnteringRightT,200801WW50322,2008,London,16
+EnteringRightT,200801XD80150,2008,London,52
+EnteringRightT,200801XD80521,2008,London,12
+EnteringRightT,200801XH30725,2008,London,13
+EnteringRightT,200801YR90088,2008,London,19
+EnteringRightT,200801ZD30699,2008,London,17
+EnteringRightT,200801ZD30748,2008,London,12
+EnteringRightT,200801ZT80052,2008,London,19
+EnteringRightT,2.00803E+12,2008,Cumbria,19
+EnteringRightT,2.00803E+12,2008,Cumbria,12
+EnteringRightT,200804AM08072,2008,Blackpool,35
+EnteringRightT,200804BC08122,2008,Lancashire,45
+EnteringRightT,200804DF08074,2008,Lancashire,7
+EnteringRightT,200804EB08020,2008,Blackburn with Darwen,47
+EnteringRightT,200804EN08046,2008,Lancashire,67
+EnteringRightT,200804EN08086,2008,Lancashire,8
+EnteringRightT,200805AA24919,2008,Merseyside,24
+EnteringRightT,200806B091773,2008,Manchester,16
+EnteringRightT,200806F007593,2008,Salford,27
+EnteringRightT,200806J098129,2008,Stockport,38
+EnteringRightT,200806M094925,2008,Trafford,11
+EnteringRightT,200806N004138,2008,Bury,21
+EnteringRightT,200806N097583,2008,Bury,20
+EnteringRightT,200806P007001,2008,Rochdale,13
+EnteringRightT,200806Q001544,2008,Oldham,8
+EnteringRightT,200806Q097654,2008,Oldham,40
+EnteringRightT,2.00807E+12,2008,Cheshire West and Chester,16
+EnteringRightT,200811SJ17258,2008,Darlington,15
+EnteringRightT,2.00812E+12,2008,York,43
+EnteringRightT,2.00812E+12,2008,North Yorkshire,21
+EnteringRightT,2.00812E+12,2008,North Yorkshire,42
+EnteringRightT,2.00812E+12,2008,York,20
+EnteringRightT,2.00812E+12,2008,York,22
+EnteringRightT,2.00813E+12,2008,Kirklees,9
+EnteringRightT,2.00813E+12,2008,Leeds,6
+EnteringRightT,200814A054908,2008,Doncaster,15
+EnteringRightT,200814A085208,2008,Doncaster,52
+EnteringRightT,200814A109408,2008,Doncaster,9
+EnteringRightT,2008160A01180,2008,North East Lincolnshire,13
+EnteringRightT,2008160A04760,2008,North East Lincolnshire,17
+EnteringRightT,2008160B05990,2008,North Lincolnshire,20
+EnteringRightT,2008160C00620,2008,East Riding of Yorkshire,15
+EnteringRightT,2008170H10038,2008,Hartlepool,29
+EnteringRightT,2008170M13188,2008,Middlesbrough,12
+EnteringRightT,200820E075903,2008,Birmingham,17
+EnteringRightT,200820F145903,2008,Birmingham,13
+EnteringRightT,200820G002702,2008,Wolverhampton,15
+EnteringRightT,200820G039401,2008,Wolverhampton,10
+EnteringRightT,200820G046202,2008,Wolverhampton,34
+EnteringRightT,200820H037201,2008,Walsall,11
+EnteringRightT,200820H055102,2008,Walsall,19
+EnteringRightT,200820H069301,2008,Walsall,18
+EnteringRightT,200820K007602,2008,Sandwell,17
+EnteringRightT,200820K066701,2008,Sandwell,58
+EnteringRightT,200820K076402,2008,Sandwell,14
+EnteringRightT,200820L141101,2008,Solihull,12
+EnteringRightT,200820L169901,2008,Solihull,15
+EnteringRightT,200820M005801,2008,Coventry,9
+EnteringRightT,200820M011203,2008,Coventry,19
+EnteringRightT,200820M029903,2008,Coventry,9
+EnteringRightT,200822CA88185,2008,Worcestershire,12
+EnteringRightT,200822DA87738,2008,Worcestershire,16
+EnteringRightT,200822DE88076,2008,Worcestershire,11
+EnteringRightT,200822EA87402,2008,Herefordshire,15
+EnteringRightT,200822EA87636,2008,Herefordshire,17
+EnteringRightT,200822GA87119,2008,Telford and Wrekin,10
+EnteringRightT,2.00823E+12,2008,Warwickshire,25
+EnteringRightT,200830A000639,2008,Derbyshire,18
+EnteringRightT,200830C000005,2008,Derbyshire,23
+EnteringRightT,200830C000591,2008,Derbyshire,9
+EnteringRightT,200830D000167,2008,Derbyshire,90
+EnteringRightT,200830D000321,2008,Derby,18
+EnteringRightT,200830D000530,2008,Derby,13
+EnteringRightT,200830D001008,2008,Derby,13
+EnteringRightT,20083108B3339,2008,Nottinghamshire,19
+EnteringRightT,200832C061808,2008,Lincolnshire,14
+EnteringRightT,2.00833E+12,2008,Leicestershire,12
+EnteringRightT,2.00833E+12,2008,Leicestershire,11
+EnteringRightT,2.00833E+12,2008,Leicestershire,30
+EnteringRightT,200834WN11788,2008,Northamptonshire,30
+EnteringRightT,2.00835E+12,2008,Peterborough,29
+EnteringRightT,2.00835E+12,2008,Peterborough,32
+EnteringRightT,2.00835E+12,2008,Cambridgeshire,18
+EnteringRightT,2.00836E+12,2008,Norfolk,19
+EnteringRightT,200836T080182,2008,Norfolk,20
+EnteringRightT,200836T080201,2008,Norfolk,14
+EnteringRightT,200837G024181,2008,Suffolk,18
+EnteringRightT,200837G025854,2008,Suffolk,17
+EnteringRightT,200837L015148,2008,Suffolk,14
+EnteringRightT,20084100D0554,2008,Hertfordshire,9
+EnteringRightT,20084100F4969,2008,Hertfordshire,15
+EnteringRightT,200842I069202,2008,Essex,41
+EnteringRightT,200842I176805,2008,Southend on Sea,41
+EnteringRightT,200842I209806,2008,Essex,55
+EnteringRightT,200842I416211,2008,Essex,59
+EnteringRightT,200843N060078,2008,Buckinghamshire,46
+EnteringRightT,200843N079118,2008,Buckinghamshire,13
+EnteringRightT,200843N182088,2008,Buckinghamshire,11
+EnteringRightT,200843P127118,2008,Oxfordshire,30
+EnteringRightT,200843P287118,2008,Oxfordshire,21
+EnteringRightT,200843P354078,2008,Oxfordshire,12
+EnteringRightT,200843R038028,2008,Buckinghamshire,68
+EnteringRightT,200843W102098,2008,West Berkshire,54
+EnteringRightT,2.00844E+12,2008,Portsmouth,38
+EnteringRightT,2.00844E+12,2008,Portsmouth,16
+EnteringRightT,2.00844E+12,2008,Hampshire,58
+EnteringRightT,2.00844E+12,2008,Hampshire,16
+EnteringRightT,200845GU20877,2008,Surrey,23
+EnteringRightT,200845GU25107,2008,Surrey,45
+EnteringRightT,200845SU17145,2008,Surrey,17
+EnteringRightT,200845WO16393,2008,Surrey,13
+EnteringRightT,2.00846E+12,2008,Medway,18
+EnteringRightT,2.00846E+12,2008,Medway,12
+EnteringRightT,2.00846E+12,2008,Kent,91
+EnteringRightT,2.00846E+12,2008,Kent,14
+EnteringRightT,2.00847E+12,2008,West Sussex,16
+EnteringRightT,2.00847E+12,2008,West Sussex,11
+EnteringRightT,2.00847E+12,2008,West Sussex,16
+EnteringRightT,2.00847E+12,2008,East Sussex,25
+EnteringRightT,200850D21D060,2008,Devon,16
+EnteringRightT,200850D33A046,2008,Devon,37
+EnteringRightT,2.00852E+12,2008,City of Bristol,42
+EnteringRightT,2.00852E+12,2008,Somerset,80
+EnteringRightT,2.00852E+12,2008,South Gloucestershire,14
+EnteringRightT,2.00852E+12,2008,City of Bristol,10
+EnteringRightT,2.00852E+12,2008,City of Bristol,29
+EnteringRightT,2.00852E+12,2008,City of Bristol,29
+EnteringRightT,2.00852E+12,2008,Somerset,15
+EnteringRightT,2.00852E+12,2008,City of Bristol,19
+EnteringRightT,200854DE09008,2008,Swindon,32
+EnteringRightT,200854DE47208,2008,Swindon,50
+EnteringRightT,200854EB36508,2008,Wiltshire,12
+EnteringRightT,200854ES21708,2008,Wiltshire,37
+EnteringRightT,200854EW40608,2008,Wiltshire,51
+EnteringRightT,2008558C02172,2008,Bournemouth,33
+EnteringRightT,2008558C04047,2008,Poole,11
+EnteringRightT,200901BS70474,2009,London,28
+EnteringRightT,200901CW10596,2009,London,24
+EnteringRightT,200901CW10736,2009,London,49
+EnteringRightT,200901CW12513,2009,London,58
+EnteringRightT,200901EO40122,2009,London,26
+EnteringRightT,200901EO40559,2009,London,28
+EnteringRightT,200901FH10683,2009,London,68
+EnteringRightT,200901GD10155,2009,London,29
+EnteringRightT,200901GD10257,2009,London,40
+EnteringRightT,200901GD10577,2009,London,
+EnteringRightT,200901GD10646,2009,London,
+EnteringRightT,200901HT20233,2009,London,14
+EnteringRightT,200901HT20571,2009,London,28
+EnteringRightT,200901HT20693,2009,London,29
+EnteringRightT,200901JC30160,2009,London,13
+EnteringRightT,200901JC30361,2009,London,27
+EnteringRightT,200901JC30415,2009,London,14
+EnteringRightT,200901JI40458,2009,London,14
+EnteringRightT,200901KF60467,2009,London,16
+EnteringRightT,200901KF60485,2009,London,16
+EnteringRightT,200901KF60608,2009,London,36
+EnteringRightT,200901KF60659,2009,London,31
+EnteringRightT,200901KF60707,2009,London,25
+EnteringRightT,200901MM70448,2009,London,14
+EnteringRightT,200901PL60551,2009,London,38
+EnteringRightT,200901PL60618,2009,London,12
+EnteringRightT,200901QA10438,2009,London,16
+EnteringRightT,200901RG40732,2009,London,23
+EnteringRightT,200901SX20908,2009,London,18
+EnteringRightT,200901SX20914,2009,London,46
+EnteringRightT,200901TA00086,2009,London,22
+EnteringRightT,200901TA00103,2009,London,28
+EnteringRightT,200901TE00051,2009,London,
+EnteringRightT,200901TW60022,2009,London,11
+EnteringRightT,200901TW60043,2009,London,39
+EnteringRightT,200901TW60125,2009,London,15
+EnteringRightT,200901TX20307,2009,London,12
+EnteringRightT,200901VK30025,2009,London,33
+EnteringRightT,200901WW50139,2009,London,42
+EnteringRightT,200901WW50497,2009,London,28
+EnteringRightT,2.00903E+12,2009,Cumbria,89
+EnteringRightT,2.00903E+12,2009,Cumbria,22
+EnteringRightT,2.00903E+12,2009,Cumbria,43
+EnteringRightT,200904AM09128,2009,Blackpool,19
+EnteringRightT,200904EA09159,2009,Blackburn with Darwen,22
+EnteringRightT,200904FA09124,2009,Lancashire,17
+EnteringRightT,200904FJ09015,2009,Lancashire,6
+EnteringRightT,200905BB31456,2009,Merseyside,54
+EnteringRightT,200905CC31912,2009,Merseyside,14
+EnteringRightT,200906A014331,2009,Manchester,21
+EnteringRightT,200906J024106,2009,Stockport,12
+EnteringRightT,200906L024100,2009,Wigan,16
+EnteringRightT,2.00907E+12,2009,Warrington,42
+EnteringRightT,2.00907E+12,2009,Cheshire West and Chester,15
+EnteringRightT,2.00907E+12,2009,Warrington,11
+EnteringRightT,2.00907E+12,2009,Cheshire East,44
+EnteringRightT,2.00907E+12,2009,Cheshire West and Chester,51
+EnteringRightT,2.0091E+12,2009,South Tyneside,8
+EnteringRightT,2.0091E+12,2009,South Tyneside,45
+EnteringRightT,2.0091E+12,2009,South Tyneside,12
+EnteringRightT,2.0091E+12,2009,Newcastle upon Tyne,14
+EnteringRightT,200911SK24339,2009,Durham,33
+EnteringRightT,2.00912E+12,2009,York,12
+EnteringRightT,2.00912E+12,2009,North Yorkshire,14
+EnteringRightT,2.00913E+12,2009,Bradford,10
+EnteringRightT,2.00913E+12,2009,Leeds,8
+EnteringRightT,200914A125309,2009,Doncaster,17
+EnteringRightT,200914C113609,2009,Rotherham,9
+EnteringRightT,2009160A01010,2009,North East Lincolnshire,20
+EnteringRightT,2009160A05110,2009,North East Lincolnshire,12
+EnteringRightT,2009160B01850,2009,North Lincolnshire,8
+EnteringRightT,2009160D01320,2009,Kingston Upon Hull,27
+EnteringRightT,2009170M10349,2009,Middlesbrough,20
+EnteringRightT,200920G024301,2009,Wolverhampton,10
+EnteringRightT,200920L110501,2009,Solihull,76
+EnteringRightT,2.00922E+12,2009,Stoke on Trent,12
+EnteringRightT,200922C901848,2009,Worcestershire,15
+EnteringRightT,200922C905439,2009,Worcestershire,47
+EnteringRightT,200922E904097,2009,Herefordshire,14
+EnteringRightT,200922F902638,2009,Shropshire,14
+EnteringRightT,200922G903948,2009,Telford and Wrekin,15
+EnteringRightT,2.00923E+12,2009,Warwickshire,72
+EnteringRightT,2.00923E+12,2009,Warwickshire,14
+EnteringRightT,2.00923E+12,2009,Warwickshire,16
+EnteringRightT,200930A000421,2009,Derbyshire,12
+EnteringRightT,200930B000448,2009,Derbyshire,10
+EnteringRightT,200930C000595,2009,Derbyshire,15
+EnteringRightT,200930D000758,2009,Derby,10
+EnteringRightT,200930D000853,2009,Derby,
+EnteringRightT,20093102A2248,2009,Nottinghamshire,8
+EnteringRightT,20093102B1058,2009,Nottinghamshire,13
+EnteringRightT,20093102D0992,2009,Nottinghamshire,9
+EnteringRightT,200932D287509,2009,Lincolnshire,10
+EnteringRightT,200932D381209,2009,Lincolnshire,91
+EnteringRightT,2.00933E+12,2009,Rutland,42
+EnteringRightT,2.00933E+12,2009,Leicestershire,20
+EnteringRightT,2.00933E+12,2009,Leicestershire,
+EnteringRightT,200934WN16399,2009,Northamptonshire,36
+EnteringRightT,2.00935E+12,2009,Cambridgeshire,22
+EnteringRightT,2.00935E+12,2009,Cambridgeshire,17
+EnteringRightT,2.00935E+12,2009,Cambridgeshire,
+EnteringRightT,2.00935E+12,2009,Cambridgeshire,16
+EnteringRightT,2.00936E+12,2009,Norfolk,13
+EnteringRightT,2.00936E+12,2009,Norfolk,8
+EnteringRightT,2.00936E+12,2009,Norfolk,7
+EnteringRightT,200937B043238,2009,Suffolk,8
+EnteringRightT,200937G027424,2009,Suffolk,17
+EnteringRightT,200937G028141,2009,Suffolk,12
+EnteringRightT,20094100C0809,2009,Hertfordshire,15
+EnteringRightT,20094100D0372,2009,Hertfordshire,42
+EnteringRightT,20094100G0384,2009,Hertfordshire,23
+EnteringRightT,20094100G0559,2009,Hertfordshire,14
+EnteringRightT,200942I142405,2009,Essex,37
+EnteringRightT,200942I164005,2009,Essex,89
+EnteringRightT,200942I235607,2009,Essex,28
+EnteringRightT,200942I290809,2009,Southend on Sea,43
+EnteringRightT,200942I361310,2009,Essex,12
+EnteringRightT,200943N102079,2009,Buckinghamshire,40
+EnteringRightT,200943N230029,2009,Buckinghamshire,4
+EnteringRightT,200943P020079,2009,Oxfordshire,26
+EnteringRightT,200943P122109,2009,Oxfordshire,46
+EnteringRightT,200943P140099,2009,Oxfordshire,38
+EnteringRightT,200943P249079,2009,Oxfordshire,19
+EnteringRightT,200943W152129,2009,Reading,11
+EnteringRightT,2.00944E+12,2009,Hampshire,39
+EnteringRightT,2.00944E+12,2009,Southampton ,20
+EnteringRightT,2.00944E+12,2009,Southampton ,19
+EnteringRightT,2.00944E+12,2009,Hampshire,40
+EnteringRightT,2.00944E+12,2009,Hampshire,43
+EnteringRightT,2.00944E+12,2009,Hampshire,13
+EnteringRightT,2.00944E+12,2009,Southampton ,22
+EnteringRightT,2.00944E+12,2009,Hampshire,27
+EnteringRightT,200945EL39821,2009,Surrey,14
+EnteringRightT,200945EL39906,2009,Surrey,29
+EnteringRightT,200945SP40337,2009,Surrey,17
+EnteringRightT,2.00947E+12,2009,West Sussex,31
+EnteringRightT,2.00947E+12,2009,West Sussex,43
+EnteringRightT,2.00947E+12,2009,Brighton and Hove,55
+EnteringRightT,200950FB2B002,2009,Torbay,8
+EnteringRightT,200950GR2F011,2009,Cornwall and Isles of Scilly,50
+EnteringRightT,200950KT3F001,2009,Devon,32
+EnteringRightT,2.00952E+12,2009,City of Bristol,43
+EnteringRightT,2.00952E+12,2009,City of Bristol,12
+EnteringRightT,2.00952E+12,2009,Somerset,28
+EnteringRightT,2.00952E+12,2009,City of Bristol,18
+EnteringRightT,2.00952E+12,2009,Somerset,15
+EnteringRightT,2.00952E+12,2009,City of Bristol,48
+EnteringRightT,2.00952E+12,2009,Somerset,12
+EnteringRightT,2.00953E+12,2009,Gloucestershire,31
+EnteringRightT,2009559D03609,2009,Dorset,20
+EnteringRightT,201001BS70593,2010,London,44
+EnteringRightT,201001CP00301,2010,London,33
+EnteringRightT,201001CW10849,2010,London,33
+EnteringRightT,201001CW11956,2010,London,28
+EnteringRightT,201001CW12101,2010,London,30
+EnteringRightT,201001CW12260,2010,London,35
+EnteringRightT,201001EO40206,2010,London,32
+EnteringRightT,201001EO40602,2010,London,32
+EnteringRightT,201001EO40725,2010,London,29
+EnteringRightT,201001GD10301,2010,London,21
+EnteringRightT,201001GD10695,2010,London,29
+EnteringRightT,201001GD10760,2010,London,28
+EnteringRightT,201001JI40624,2010,London,23
+EnteringRightT,201001KF60047,2010,London,39
+EnteringRightT,201001KG70210,2010,London,53
+EnteringRightT,201001KG70321,2010,London,15
+EnteringRightT,201001LX50162,2010,London,21
+EnteringRightT,201001LX50434,2010,London,22
+EnteringRightT,201001LX50945,2010,London,46
+EnteringRightT,201001MM70059,2010,London,31
+EnteringRightT,201001MM70469,2010,London,56
+EnteringRightT,201001MM70509,2010,London,33
+EnteringRightT,201001PL60559,2010,London,21
+EnteringRightT,201001QK50346,2010,London,31
+EnteringRightT,201001RY10284,2010,London,15
+EnteringRightT,201001RY10386,2010,London,41
+EnteringRightT,201001SX20859,2010,London,45
+EnteringRightT,201001TW60254,2010,London,21
+EnteringRightT,201001TW60331,2010,London,32
+EnteringRightT,201001TX20160,2010,London,24
+EnteringRightT,201001TX20439,2010,London,25
+EnteringRightT,201001VW40229,2010,London,29
+EnteringRightT,201001VW40293,2010,London,34
+EnteringRightT,201001WW50203,2010,London,13
+EnteringRightT,201001WW50955,2010,London,17
+EnteringRightT,201001XH30452,2010,London,54
+EnteringRightT,201001YE80364,2010,London,10
+EnteringRightT,201001YE80743,2010,London,20
+EnteringRightT,201001ZD30776,2010,London,
+EnteringRightT,2.01003E+12,2010,Cumbria,17
+EnteringRightT,201004BC10082,2010,Lancashire,15
+EnteringRightT,201004CM10103,2010,Lancashire,11
+EnteringRightT,201004FA10075,2010,Lancashire,41
+EnteringRightT,201005BB05006,2010,Merseyside,17
+EnteringRightT,201005BB06138,2010,Merseyside,25
+EnteringRightT,201005CC04741,2010,Merseyside,17
+EnteringRightT,201005EE04810,2010,Merseyside,10
+EnteringRightT,201005FF01215,2010,Merseyside,45
+EnteringRightT,201006L032749,2010,Wigan,47
+EnteringRightT,201006M029745,2010,Trafford,15
+EnteringRightT,2.01007E+12,2010,Cheshire East,58
+EnteringRightT,2.01007E+12,2010,Cheshire West and Chester,14
+EnteringRightT,2.0101E+12,2010,South Tyneside,14
+EnteringRightT,2.0101E+12,2010,South Tyneside,25
+EnteringRightT,2.0101E+12,2010,North Tyneside,15
+EnteringRightT,2.0101E+12,2010,South Tyneside,36
+EnteringRightT,201011SJ21700,2010,Darlington,8
+EnteringRightT,201011SL03630,2010,Durham,13
+EnteringRightT,2.01013E+12,2010,Leeds,30
+EnteringRightT,2.01013E+12,2010,Calderdale,9
+EnteringRightT,201014A099510,2010,Doncaster,5
+EnteringRightT,201014A167310,2010,Doncaster,25
+EnteringRightT,2010160C01601,2010,East Riding of Yorkshire,86
+EnteringRightT,2010160C08331,2010,East Riding of Yorkshire,81
+EnteringRightT,2010160D03431,2010,Kingston Upon Hull,17
+EnteringRightT,2010160D05001,2010,Kingston Upon Hull,18
+EnteringRightT,2010170M10020,2010,Middlesbrough,14
+EnteringRightT,201020G004490,2010,Wolverhampton,27
+EnteringRightT,201020W027980,2010,Birmingham,17
+EnteringRightT,2.01021E+12,2010,Staffordshire,44
+EnteringRightT,2.01021E+12,2010,Staffordshire,69
+EnteringRightT,2.01021E+12,2010,Staffordshire,12
+EnteringRightT,2.01021E+12,2010,Staffordshire,19
+EnteringRightT,201022C002872,2010,Worcestershire,19
+EnteringRightT,201022C003134,2010,Worcestershire,60
+EnteringRightT,201022C004209,2010,Worcestershire,27
+EnteringRightT,201022F002395,2010,Shropshire,18
+EnteringRightT,201022F003254,2010,Shropshire,14
+EnteringRightT,201022F004102,2010,Shropshire,34
+EnteringRightT,201030B000288,2010,Derbyshire,11
+EnteringRightT,201030C000387,2010,Derbyshire,19
+EnteringRightT,201030D000247,2010,Derby,13
+EnteringRightT,201030D000317,2010,Derbyshire,47
+EnteringRightT,201030D000340,2010,Derby,15
+EnteringRightT,201030D000805,2010,Derby,24
+EnteringRightT,20103102B1734,2010,Nottinghamshire,54
+EnteringRightT,20103102B1869,2010,Nottinghamshire,30
+EnteringRightT,20103102C2512,2010,Nottingham,13
+EnteringRightT,20103102D0075,2010,Nottinghamshire,73
+EnteringRightT,2.01033E+12,2010,Leicestershire,13
+EnteringRightT,2.01033E+12,2010,Leicestershire,11
+EnteringRightT,2.01033E+12,2010,Leicestershire,26
+EnteringRightT,2.01035E+12,2010,Cambridgeshire,14
+EnteringRightT,2.01035E+12,2010,Peterborough,12
+EnteringRightT,2.01036E+12,2010,Norfolk,14
+EnteringRightT,2.01036E+12,2010,Norfolk,15
+EnteringRightT,2.01036E+12,2010,Norfolk,76
+EnteringRightT,2.01036E+12,2010,Norfolk,17
+EnteringRightT,2.01036E+12,2010,Norfolk,28
+EnteringRightT,201036T100104,2010,Norfolk,16
+EnteringRightT,201037B045249,2010,Suffolk,28
+EnteringRightT,201037G029659,2010,Suffolk,14
+EnteringRightT,201037G029908,2010,Suffolk,37
+EnteringRightT,20104100A0560,2010,Hertfordshire,17
+EnteringRightT,20104100B0490,2010,Hertfordshire,75
+EnteringRightT,20104100K0321,2010,Hertfordshire,15
+EnteringRightT,20104100K0344,2010,Hertfordshire,13
+EnteringRightT,201042I307109,2010,Essex,58
+EnteringRightT,201043P208100,2010,Oxfordshire,52
+EnteringRightT,201043P221100,2010,Oxfordshire,44
+EnteringRightT,201043P273060,2010,Oxfordshire,6
+EnteringRightT,201043P277040,2010,Oxfordshire,69
+EnteringRightT,201043S043050,2010,Milton Keynes,41
+EnteringRightT,201043S068080,2010,Milton Keynes,26
+EnteringRightT,201043W157120,2010,Wokingham,29
+EnteringRightT,201043W186110,2010,Wokingham,11
+EnteringRightT,2.01044E+12,2010,Hampshire,16
+EnteringRightT,2.01044E+12,2010,Southampton ,13
+EnteringRightT,2.01044E+12,2010,Isle of Wight,76
+EnteringRightT,2.01044E+12,2010,Portsmouth,45
+EnteringRightT,2.01044E+12,2010,Southampton ,26
+EnteringRightT,2.01044E+12,2010,Portsmouth,19
+EnteringRightT,2.01044E+12,2010,Hampshire,44
+EnteringRightT,2.01044E+12,2010,Hampshire,13
+EnteringRightT,2.01044E+12,2010,Portsmouth,22
+EnteringRightT,2.01044E+12,2010,Isle of Wight,14
+EnteringRightT,2.01044E+12,2010,Southampton ,24
+EnteringRightT,2.01044E+12,2010,Hampshire,20
+EnteringRightT,201045SU52909,2010,Surrey,74
+EnteringRightT,201045WO54962,2010,Surrey,18
+EnteringRightT,2.01046E+12,2010,Kent,12
+EnteringRightT,2.01046E+12,2010,Kent,14
+EnteringRightT,2.01047E+12,2010,West Sussex,8
+EnteringRightT,2.01047E+12,2010,West Sussex,37
+EnteringRightT,2.01047E+12,2010,West Sussex,10
+EnteringRightT,2.01047E+12,2010,Brighton and Hove,67
+EnteringRightT,2.01047E+12,2010,West Sussex,12
+EnteringRightT,201050BL2K028,2010,Cornwall and Isles of Scilly,11
+EnteringRightT,201050JN2E025,2010,Devon,17
+EnteringRightT,2.01052E+12,2010,Somerset,27
+EnteringRightT,2.01052E+12,2010,Somerset,28
+EnteringRightT,2.01052E+12,2010,Somerset,
+EnteringRightT,2.01052E+12,2010,Bath and North East Somerset,8
+EnteringRightT,2.01052E+12,2010,City of Bristol,78
+EnteringRightT,2.01052E+12,2010,South Gloucestershire,20
+EnteringRightT,2.01052E+12,2010,Bath and North East Somerset,20
+EnteringRightT,2.01053E+12,2010,Gloucestershire,72
+EnteringRightT,2.01053E+12,2010,Gloucestershire,20
+EnteringRightT,2.01053E+12,2010,Gloucestershire,17
+EnteringRightT,201054DW36310,2010,Swindon,21
+EnteringRightT,201054ET13110,2010,Wiltshire,21
+EnteringRightT,201054EY07410,2010,Wiltshire,71
+EnteringRightT,2011201101CP00134,2011,London,37
+EnteringRightT,2011201101CW11003,2011,London,47
+EnteringRightT,2011201101CW12095,2011,London,42
+EnteringRightT,2011201101EO40253,2011,London,32
+EnteringRightT,2011201101EO40428,2011,London,30
+EnteringRightT,2011201101EO40429,2011,London,15
+EnteringRightT,2011201101FH10324,2011,London,17
+EnteringRightT,2011201101FH10376,2011,London,77
+EnteringRightT,2011201101GD10257,2011,London,43
+EnteringRightT,2011201101GD10259,2011,London,29
+EnteringRightT,2011201101GD10267,2011,London,24
+EnteringRightT,2011201101GD10342,2011,London,29
+EnteringRightT,2011201101GD10626,2011,London,38
+EnteringRightT,2011201101GD10651,2011,London,32
+EnteringRightT,2011201101GD10714,2011,London,-1
+EnteringRightT,2011201101HT20504,2011,London,26
+EnteringRightT,2011201101HT20725,2011,London,35
+EnteringRightT,2011201101LX50279,2011,London,33
+EnteringRightT,2011201101LX50360,2011,London,48
+EnteringRightT,2011201101PY20475,2011,London,12
+EnteringRightT,2011201101QA10307,2011,London,50
+EnteringRightT,2011201101SX20702,2011,London,24
+EnteringRightT,2011201101TA00228,2011,London,27
+EnteringRightT,2011201101TA00286,2011,London,14
+EnteringRightT,2011201101TA00516,2011,London,14
+EnteringRightT,2011201101TA00869,2011,London,28
+EnteringRightT,2011201101TA00944,2011,London,16
+EnteringRightT,2011201101TA00997,2011,London,53
+EnteringRightT,2011201101TA01790,2011,London,39
+EnteringRightT,2011201101TB00033,2011,London,24
+EnteringRightT,2011201101TB00038,2011,London,41
+EnteringRightT,2011201101TB00222,2011,London,14
+EnteringRightT,2011201101TB00447,2011,London,17
+EnteringRightT,2011201101TB00626,2011,London,50
+EnteringRightT,2011201101TB01150,2011,London,16
+EnteringRightT,2011201101TB01158,2011,London,38
+EnteringRightT,2011201101TW60190,2011,London,16
+EnteringRightT,2011201101TW60330,2011,London,32
+EnteringRightT,2011201101TW60377,2011,London,18
+EnteringRightT,2011201101WW50353,2011,London,26
+EnteringRightT,2011201101WW50847,2011,London,29
+EnteringRightT,2011201101XH30373,2011,London,-1
+EnteringRightT,2011201101XH30750,2011,London,25
+EnteringRightT,2011201101YE80360,2011,London,12
+EnteringRightT,2011201101YR90236,2011,London,25
+EnteringRightT,2011201101YR90426,2011,London,28
+EnteringRightT,2011201101YR90446,2011,London,23
+EnteringRightT,2011201101YR90662,2011,London,17
+EnteringRightT,2011201101YR90782,2011,London,57
+EnteringRightT,2011201101ZD30299,2011,London,26
+EnteringRightT,2011201101ZD30734,2011,London,38
+EnteringRightT,2.0112E+16,2011,Cumbria,35
+EnteringRightT,2011201104CK11147,2011,Lancashire,70
+EnteringRightT,2011201104DA11076,2011,Lancashire,44
+EnteringRightT,2011201105AA01769,2011,Merseyside,35
+EnteringRightT,2011201105BB03826,2011,Merseyside,45
+EnteringRightT,2011201105EE02954,2011,Merseyside,15
+EnteringRightT,2011201106A050760,2011,Manchester,14
+EnteringRightT,2011201106L046302,2011,Wigan,15
+EnteringRightT,2011201106L053844,2011,Wigan,15
+EnteringRightT,2011201106P045161,2011,Rochdale,9
+EnteringRightT,2011201106Q055098,2011,Oldham,12
+EnteringRightT,2.0112E+16,2011,Warrington,38
+EnteringRightT,2.0112E+16,2011,South Tyneside,42
+EnteringRightT,2011201111SJ20961,2011,Darlington,14
+EnteringRightT,2.0112E+16,2011,North Yorkshire,11
+EnteringRightT,2.0112E+16,2011,Bradford,29
+EnteringRightT,2.0112E+16,2011,Leeds,48
+EnteringRightT,2.0112E+16,2011,Wakefield,14
+EnteringRightT,2.0112E+16,2011,Leeds,15
+EnteringRightT,2011201114A028811,2011,Doncaster,13
+EnteringRightT,20112011160A02091,2011,North East Lincolnshire,32
+EnteringRightT,20112011160A03021,2011,North East Lincolnshire,7
+EnteringRightT,20112011160A03631,2011,North East Lincolnshire,19
+EnteringRightT,20112011160B03611,2011,North Lincolnshire,49
+EnteringRightT,20112011160C04741,2011,East Riding of Yorkshire,10
+EnteringRightT,20112011170M11561,2011,Middlesbrough,32
+EnteringRightT,2011201120G004851,2011,Wolverhampton,15
+EnteringRightT,2011201120J005661,2011,Dudley,13
+EnteringRightT,2011201120J007691,2011,Dudley,14
+EnteringRightT,2011201120K001731,2011,Sandwell,73
+EnteringRightT,2011201120K013431,2011,Sandwell,20
+EnteringRightT,2.0112E+16,2011,Staffordshire,10
+EnteringRightT,2011201122C102809,2011,Worcestershire,21
+EnteringRightT,2011201122C104231,2011,Worcestershire,25
+EnteringRightT,2011201122E101771,2011,Herefordshire,11
+EnteringRightT,2011201122E104993,2011,Herefordshire,16
+EnteringRightT,2.0112E+16,2011,Warwickshire,10
+EnteringRightT,2.0112E+16,2011,Warwickshire,32
+EnteringRightT,2.0112E+16,2011,Warwickshire,10
+EnteringRightT,2.0112E+16,2011,Warwickshire,17
+EnteringRightT,2.0112E+16,2011,Warwickshire,17
+EnteringRightT,2011201130C000501,2011,Derbyshire,15
+EnteringRightT,2011201130D000774,2011,Derby,46
+EnteringRightT,2011201131B013511,2011,Nottinghamshire,25
+EnteringRightT,2011201131B226811,2011,Nottinghamshire,22
+EnteringRightT,2011201132C107211,2011,Lincolnshire,48
+EnteringRightT,2011201132E250911,2011,Lincolnshire,16
+EnteringRightT,2011201132E278611,2011,Lincolnshire,49
+EnteringRightT,2011201132N159811,2011,Lincolnshire,13
+EnteringRightT,2.0112E+16,2011,Peterborough,11
+EnteringRightT,2.0112E+16,2011,Cambridgeshire,42
+EnteringRightT,2.0112E+16,2011,Norfolk,11
+EnteringRightT,2.0112E+16,2011,Suffolk,16
+EnteringRightT,20112011400CA0669,2011,Luton,15
+EnteringRightT,201120114100G0093,2011,Hertfordshire,40
+EnteringRightT,201120114100J0511,2011,Hertfordshire,14
+EnteringRightT,2011201142I152405,2011,Essex,15
+EnteringRightT,2011201142I171406,2011,Essex,46
+EnteringRightT,2011201142I423611,2011,Southend on Sea,39
+EnteringRightT,2011201143N241021,2011,Buckinghamshire,47
+EnteringRightT,2011201143P193041,2011,Oxfordshire,13
+EnteringRightT,2011201143P221041,2011,Oxfordshire,13
+EnteringRightT,2011201143P234071,2011,Oxfordshire,21
+EnteringRightT,2011201143P281031,2011,Oxfordshire,14
+EnteringRightT,2011201143P316071,2011,Oxfordshire,37
+EnteringRightT,2011201143P340061,2011,Oxfordshire,17
+EnteringRightT,2011201143S042041,2011,Milton Keynes,32
+EnteringRightT,2011201143W179071,2011,West Berkshire,13
+EnteringRightT,2011201143W185031,2011,Reading,15
+EnteringRightT,2.0112E+16,2011,Isle of Wight,14
+EnteringRightT,2.0112E+16,2011,Portsmouth,30
+EnteringRightT,2.0112E+16,2011,Hampshire,13
+EnteringRightT,2.0112E+16,2011,Hampshire,11
+EnteringRightT,2.0112E+16,2011,Isle of Wight,14
+EnteringRightT,2.0112E+16,2011,Portsmouth,15
+EnteringRightT,2.0112E+16,2011,Portsmouth,23
+EnteringRightT,2.0112E+16,2011,Hampshire,18
+EnteringRightT,2.0112E+16,2011,Southampton ,56
+EnteringRightT,2011201145MO59329,2011,Surrey,38
+EnteringRightT,2.0112E+16,2011,Kent,47
+EnteringRightT,2.0112E+16,2011,Kent,23
+EnteringRightT,2.0112E+16,2011,Kent,15
+EnteringRightT,2.0112E+16,2011,Kent,72
+EnteringRightT,2.0112E+16,2011,Kent,14
+EnteringRightT,2.0112E+16,2011,Medway,13
+EnteringRightT,2.0112E+16,2011,Medway,18
+EnteringRightT,2.0112E+16,2011,Medway,37
+EnteringRightT,2.0112E+16,2011,East Sussex,50
+EnteringRightT,2.0112E+16,2011,East Sussex,15
+EnteringRightT,2011201150CT2I004,2011,Devon,13
+EnteringRightT,2011201150EC2E098,2011,Plymouth,19
+EnteringRightT,2.0112E+16,2011,Somerset,11
+EnteringRightT,2.0112E+16,2011,Somerset,17
+EnteringRightT,2.0112E+16,2011,Somerset,34
+EnteringRightT,2.0112E+16,2011,Somerset,33
+EnteringRightT,2.0112E+16,2011,Swindon,8
+EnteringRightT,20112011551C48463,2011,Bournemouth,34
+EnteringRightT,20112011551D21139,2011,Dorset,23
+EnteringRightT,2012201201BS70254,2012,London,66
+EnteringRightT,2012201201BS70276,2012,London,26
+EnteringRightT,2012201201BS70409,2012,London,45
+EnteringRightT,2012201201CW11640,2012,London,27
+EnteringRightT,2012201201CW11657,2012,London,66
+EnteringRightT,2012201201EO40546,2012,London,23
+EnteringRightT,2012201201FH10016,2012,London,32
+EnteringRightT,2012201201FH10043,2012,London,26
+EnteringRightT,2012201201GD10640,2012,London,28
+EnteringRightT,2012201201GD10784,2012,London,41
+EnteringRightT,2012201201HT20173,2012,London,14
+EnteringRightT,2012201201HT20182,2012,London,-1
+EnteringRightT,2012201201HT20315,2012,London,40
+EnteringRightT,2012201201HT20565,2012,London,36
+EnteringRightT,2012201201HT20678,2012,London,33
+EnteringRightT,2012201201HT20853,2012,London,32
+EnteringRightT,2012201201KF60203,2012,London,24
+EnteringRightT,2012201201KF60720,2012,London,51
+EnteringRightT,2012201201LX50922,2012,London,19
+EnteringRightT,2012201201LX50982,2012,London,19
+EnteringRightT,2012201201QK50334,2012,London,13
+EnteringRightT,2012201201RY10458,2012,London,12
+EnteringRightT,2012201201SX20458,2012,London,23
+EnteringRightT,2012201201TX20108,2012,London,22
+EnteringRightT,2012201201TX20658,2012,London,18
+EnteringRightT,2012201201VK30082,2012,London,21
+EnteringRightT,2012201201VK30155,2012,London,25
+EnteringRightT,2012201201VW40042,2012,London,21
+EnteringRightT,2012201201WW50218,2012,London,13
+EnteringRightT,2012201201WW50281,2012,London,25
+EnteringRightT,2012201201WW50407,2012,London,34
+EnteringRightT,2012201201WW50590,2012,London,17
+EnteringRightT,2012201201WW50651,2012,London,22
+EnteringRightT,2012201201WW50723,2012,London,33
+EnteringRightT,2012201201WW50999,2012,London,32
+EnteringRightT,2012201201XD80434,2012,London,13
+EnteringRightT,2012201201XD80477,2012,London,10
+EnteringRightT,2012201201YR90229,2012,London,11
+EnteringRightT,2012201201YR90578,2012,London,46
+EnteringRightT,2012201201ZD30578,2012,London,23
+EnteringRightT,2012201204AL12143,2012,Lancashire,15
+EnteringRightT,2012201204DF12159,2012,Lancashire,22
+EnteringRightT,2012201204EL12049,2012,Lancashire,5
+EnteringRightT,2012201204FG12038,2012,Lancashire,13
+EnteringRightT,2012201205DD04654,2012,Merseyside,19
+EnteringRightT,2012201206A060119,2012,Manchester,22
+EnteringRightT,2012201206A063711,2012,Manchester,14
+EnteringRightT,2012201206B060751,2012,Manchester,22
+EnteringRightT,2012201206E065583,2012,Manchester,27
+EnteringRightT,2012201206N060204,2012,Bury,15
+EnteringRightT,2012201206P064294,2012,Rochdale,57
+EnteringRightT,2.0122E+16,2012,Warrington,17
+EnteringRightT,2.0122E+16,2012,Warrington,29
+EnteringRightT,2.0122E+16,2012,Northumberland,47
+EnteringRightT,2.0122E+16,2012,Gateshead,20
+EnteringRightT,2.0122E+16,2012,Gateshead,13
+EnteringRightT,2012201211ND17342,2012,Durham,17
+EnteringRightT,2012201211NH20472,2012,Durham,55
+EnteringRightT,2012201211SA09962,2012,Durham,48
+EnteringRightT,2.0122E+16,2012,York,16
+EnteringRightT,2.0122E+16,2012,Bradford,19
+EnteringRightT,2.0122E+16,2012,Kirklees,15
+EnteringRightT,2.0122E+16,2012,Bradford,8
+EnteringRightT,2.0122E+16,2012,Bradford,11
+EnteringRightT,2012201214A129212,2012,Doncaster,37
+EnteringRightT,2012201214K322912,2012,Barnsley,48
+EnteringRightT,20122012160A02181,2012,North East Lincolnshire,8
+EnteringRightT,20122012160A04601,2012,North East Lincolnshire,17
+EnteringRightT,20122012160D08551,2012,Kingston Upon Hull,35
+EnteringRightT,20122012170S22182,2012,Stockton on Tees,49
+EnteringRightT,2012201220S021472,2012,Birmingham,25
+EnteringRightT,2012201220S046762,2012,Birmingham,73
+EnteringRightT,2012201220W007122,2012,Birmingham,24
+EnteringRightT,2.0122E+16,2012,Staffordshire,9
+EnteringRightT,2.0122E+16,2012,Staffordshire,31
+EnteringRightT,2012201222E204837,2012,Herefordshire,79
+EnteringRightT,2.0122E+16,2012,Warwickshire,24
+EnteringRightT,2.0122E+16,2012,Warwickshire,16
+EnteringRightT,2.0122E+16,2012,Warwickshire,15
+EnteringRightT,2.0122E+16,2012,Warwickshire,47
+EnteringRightT,2.0122E+16,2012,Warwickshire,12
+EnteringRightT,2.0122E+16,2012,Warwickshire,15
+EnteringRightT,2012201230D001115,2012,Derby,14
+EnteringRightT,2012201230D001786,2012,Derby,15
+EnteringRightT,2012201230D002514,2012,Derby,-1
+EnteringRightT,2012201234NK22872,2012,Northamptonshire,18
+EnteringRightT,2012201234WN28422,2012,Northamptonshire,24
+EnteringRightT,2012201234WS10272,2012,Northamptonshire,18
+EnteringRightT,2.0122E+16,2012,Peterborough,31
+EnteringRightT,2.0122E+16,2012,Cambridgeshire,13
+EnteringRightT,2.0122E+16,2012,Cambridgeshire,44
+EnteringRightT,2.0122E+16,2012,Suffolk,61
+EnteringRightT,2.0122E+16,2012,Suffolk,21
+EnteringRightT,2.0122E+16,2012,Suffolk,61
+EnteringRightT,20122012400CA0235,2012,Luton,15
+EnteringRightT,201220124100D0372,2012,Hertfordshire,35
+EnteringRightT,2012201242I129905,2012,Thurrock,14
+EnteringRightT,2012201243P019112,2012,Oxfordshire,14
+EnteringRightT,2012201243P179112,2012,Oxfordshire,66
+EnteringRightT,2012201243R062072,2012,Wokingham,17
+EnteringRightT,2012201243S030102,2012,Milton Keynes,16
+EnteringRightT,2012201243W049052,2012,Wokingham,14
+EnteringRightT,2012201243W072052,2012,Wokingham,11
+EnteringRightT,2012201243W091112,2012,Wokingham,15
+EnteringRightT,2012201243W106082,2012,Wokingham,22
+EnteringRightT,2012201243W219022,2012,Wokingham,11
+EnteringRightT,2.0122E+16,2012,Hampshire,53
+EnteringRightT,2.0122E+16,2012,Portsmouth,13
+EnteringRightT,2.0122E+16,2012,Isle of Wight,24
+EnteringRightT,2.0122E+16,2012,Portsmouth,32
+EnteringRightT,2.0122E+16,2012,Portsmouth,27
+EnteringRightT,2.0122E+16,2012,Hampshire,16
+EnteringRightT,2.0122E+16,2012,Portsmouth,20
+EnteringRightT,2.0122E+16,2012,Hampshire,24
+EnteringRightT,2.0122E+16,2012,Southampton ,15
+EnteringRightT,2.0122E+16,2012,Hampshire,38
+EnteringRightT,2.0122E+16,2012,Hampshire,51
+EnteringRightT,2.0122E+16,2012,Hampshire,17
+EnteringRightT,2.0122E+16,2012,Portsmouth,21
+EnteringRightT,2.0122E+16,2012,Surrey,12
+EnteringRightT,2012201245EL75084,2012,Surrey,39
+EnteringRightT,2.0122E+16,2012,Medway,10
+EnteringRightT,2.0122E+16,2012,West Sussex,16
+EnteringRightT,2.0122E+16,2012,West Sussex,14
+EnteringRightT,2.0122E+16,2012,West Sussex,28
+EnteringRightT,2.0122E+16,2012,Somerset,14
+EnteringRightT,2.0122E+16,2012,City of Bristol,31
+EnteringRightT,2.0122E+16,2012,City of Bristol,56
+EnteringRightT,2.0122E+16,2012,City of Bristol,18
+EnteringRightT,2.0122E+16,2012,Gloucestershire,36
+EnteringRightT,2.0122E+16,2012,Swindon,40
+EnteringRightT,20122012552C29460,2012,Poole,57

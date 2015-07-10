@@ -1,0 +1,1398 @@
+Scenario,urn,accyr,LAName,Age
+CarLeavingRoundabout,199901GD00578,1999,London,31
+CarLeavingRoundabout,199901HT00740,1999,London,23
+CarLeavingRoundabout,199901LX00643,1999,London,35
+CarLeavingRoundabout,199901MD00511,1999,London,34
+CarLeavingRoundabout,199901RG00209,1999,London,40
+CarLeavingRoundabout,199901RG00819,1999,London,27
+CarLeavingRoundabout,199901SC01229,1999,London,45
+CarLeavingRoundabout,199901TG00461,1999,Surrey,50
+CarLeavingRoundabout,199901TW00209,1999,London,56
+CarLeavingRoundabout,199901TW00541,1999,London,41
+CarLeavingRoundabout,199901TX00670,1999,London,12
+CarLeavingRoundabout,199901VK00217,1999,London,31
+CarLeavingRoundabout,199901VK00711,1999,London,24
+CarLeavingRoundabout,199901WA00105,1999,London,29
+CarLeavingRoundabout,199901WW00819,1999,London,30
+CarLeavingRoundabout,199901WW00834,1999,London,29
+CarLeavingRoundabout,199901XH00595,1999,London,13
+CarLeavingRoundabout,199901ZD00485,1999,London,21
+CarLeavingRoundabout,199904C010999,1999,Lancashire,43
+CarLeavingRoundabout,199904C024199,1999,Lancashire,45
+CarLeavingRoundabout,199904C047099,1999,Lancashire,34
+CarLeavingRoundabout,199904C083299,1999,Lancashire,50
+CarLeavingRoundabout,199904F053299,1999,Lancashire,28
+CarLeavingRoundabout,1.99905E+12,1999,Merseyside,83
+CarLeavingRoundabout,1.99905E+12,1999,Merseyside,61
+CarLeavingRoundabout,1.99905E+12,1999,Merseyside,36
+CarLeavingRoundabout,1.99905E+12,1999,Merseyside,33
+CarLeavingRoundabout,1.99905E+12,1999,Merseyside,40
+CarLeavingRoundabout,1.99905E+12,1999,Merseyside,38
+CarLeavingRoundabout,1.99905E+12,1999,Merseyside,23
+CarLeavingRoundabout,1.99905E+12,1999,Merseyside,63
+CarLeavingRoundabout,199906J005034,1999,Stockport,31
+CarLeavingRoundabout,199906J005328,1999,Stockport,57
+CarLeavingRoundabout,199906J005984,1999,Stockport,39
+CarLeavingRoundabout,199906K004735,1999,Bolton,37
+CarLeavingRoundabout,199906M004429,1999,Trafford,52
+CarLeavingRoundabout,199906M004830,1999,Trafford,14
+CarLeavingRoundabout,199906N269099,1999,Bury,20
+CarLeavingRoundabout,1999079A10264,1999,Cheshire East,43
+CarLeavingRoundabout,1999079A31551,1999,Cheshire West and Chester,12
+CarLeavingRoundabout,1999079C31269,1999,Cheshire West and Chester,14
+CarLeavingRoundabout,1999079C31371,1999,Cheshire West and Chester,20
+CarLeavingRoundabout,1999079C31842,1999,Cheshire West and Chester,33
+CarLeavingRoundabout,199910B344399,1999,Northumberland,56
+CarLeavingRoundabout,199910C075999,1999,Northumberland,40
+CarLeavingRoundabout,199910C278499,1999,Northumberland,28
+CarLeavingRoundabout,199910H236799,1999,North Tyneside,47
+CarLeavingRoundabout,199910I347799,1999,North Tyneside,35
+CarLeavingRoundabout,199910L306599,1999,South Tyneside,31
+CarLeavingRoundabout,199910M269399,1999,South Tyneside,48
+CarLeavingRoundabout,1999110DJ3394,1999,Darlington,49
+CarLeavingRoundabout,1999119BD0290,1999,Durham,19
+CarLeavingRoundabout,1.99912E+12,1999,York,45
+CarLeavingRoundabout,1.99912E+12,1999,North Yorkshire,43
+CarLeavingRoundabout,1.99912E+12,1999,North Yorkshire,57
+CarLeavingRoundabout,199913AA34099,1999,Leeds,28
+CarLeavingRoundabout,199913AA55099,1999,Leeds,40
+CarLeavingRoundabout,199913BB15799,1999,Leeds,55
+CarLeavingRoundabout,199913BB21999,1999,Leeds,34
+CarLeavingRoundabout,199913BB37299,1999,Leeds,32
+CarLeavingRoundabout,199913CA05499,1999,Leeds,63
+CarLeavingRoundabout,199913CB23799,1999,Leeds,24
+CarLeavingRoundabout,199913FA26799,1999,Calderdale,32
+CarLeavingRoundabout,199913FD11999,1999,Calderdale,36
+CarLeavingRoundabout,199914FF00513,1999,Rotherham,50
+CarLeavingRoundabout,199914JJ00388,1999,Sheffield,32
+CarLeavingRoundabout,199916A057699,1999,North East Lincolnshire,41
+CarLeavingRoundabout,199916B013999,1999,North Lincolnshire,39
+CarLeavingRoundabout,199916B023799,1999,North Lincolnshire,36
+CarLeavingRoundabout,199916D026399,1999,Kingston Upon Hull,14
+CarLeavingRoundabout,199916D029399,1999,Kingston Upon Hull,52
+CarLeavingRoundabout,199916D031299,1999,Kingston Upon Hull,14
+CarLeavingRoundabout,199916D044199,1999,Kingston Upon Hull,16
+CarLeavingRoundabout,199916E046499,1999,Kingston Upon Hull,45
+CarLeavingRoundabout,199917M200270,1999,Middlesbrough,18
+CarLeavingRoundabout,199917M300413,1999,Middlesbrough,42
+CarLeavingRoundabout,199917S100396,1999,Stockton on Tees,12
+CarLeavingRoundabout,199920D219901,1999,Birmingham,51
+CarLeavingRoundabout,199920D258801,1999,Birmingham,36
+CarLeavingRoundabout,199920D323001,1999,Birmingham,36
+CarLeavingRoundabout,199920F006801,1999,Birmingham,20
+CarLeavingRoundabout,199920F076001,1999,Birmingham,28
+CarLeavingRoundabout,199920G096002,1999,Wolverhampton,30
+CarLeavingRoundabout,199920J061402,1999,Dudley,38
+CarLeavingRoundabout,199920J067602,1999,Dudley,28
+CarLeavingRoundabout,199920K022701,1999,Sandwell,30
+CarLeavingRoundabout,199920K033301,1999,Sandwell,18
+CarLeavingRoundabout,199920K055902,1999,Sandwell,46
+CarLeavingRoundabout,199920M219801,1999,Coventry,24
+CarLeavingRoundabout,1.99922E+12,1999,Stoke on Trent,46
+CarLeavingRoundabout,1.99922E+12,1999,Stoke on Trent,25
+CarLeavingRoundabout,1.99922E+12,1999,Staffordshire,24
+CarLeavingRoundabout,1.99922E+12,1999,Staffordshire,16
+CarLeavingRoundabout,1.99922E+12,1999,Staffordshire,28
+CarLeavingRoundabout,1999219M05470,1999,Staffordshire,35
+CarLeavingRoundabout,199922CC00072,1999,Worcestershire,52
+CarLeavingRoundabout,199922FA12952,1999,Shropshire,23
+CarLeavingRoundabout,199922FB12803,1999,Shropshire,16
+CarLeavingRoundabout,199922GR00591,1999,Shropshire,14
+CarLeavingRoundabout,1.99924E+12,1999,Warwickshire,25
+CarLeavingRoundabout,1.99924E+12,1999,Warwickshire,29
+CarLeavingRoundabout,1999309D00043,1999,Derby,20
+CarLeavingRoundabout,1999309D00047,1999,Derbyshire,19
+CarLeavingRoundabout,199930D000265,1999,Derby,20
+CarLeavingRoundabout,199930D000275,1999,Derby,29
+CarLeavingRoundabout,199930D000357,1999,Derby,72
+CarLeavingRoundabout,199930D000705,1999,Derby,46
+CarLeavingRoundabout,1999317C20384,1999,Nottingham,23
+CarLeavingRoundabout,1999317C42796,1999,Nottingham,24
+CarLeavingRoundabout,1999317D21093,1999,Nottingham,18
+CarLeavingRoundabout,1999317D41042,1999,Nottinghamshire,14
+CarLeavingRoundabout,199932D007179,1999,Lincolnshire,15
+CarLeavingRoundabout,199932D007679,1999,Lincolnshire,14
+CarLeavingRoundabout,1.99934E+12,1999,Leicestershire,48
+CarLeavingRoundabout,1.99934E+12,1999,Leicestershire,31
+CarLeavingRoundabout,1.99934E+12,1999,Leicestershire,30
+CarLeavingRoundabout,1.99934E+12,1999,Leicestershire,73
+CarLeavingRoundabout,1.99934E+12,1999,Leicestershire,24
+CarLeavingRoundabout,1.99934E+12,1999,Leicestershire,50
+CarLeavingRoundabout,1.99934E+12,1999,Leicestershire,44
+CarLeavingRoundabout,1.99934E+12,1999,Leicestershire,70
+CarLeavingRoundabout,199934NC00700,1999,Northamptonshire,50
+CarLeavingRoundabout,199934NN00814,1999,Northamptonshire,11
+CarLeavingRoundabout,1.99935E+12,1999,Cambridgeshire,29
+CarLeavingRoundabout,1.99935E+12,1999,Cambridgeshire,33
+CarLeavingRoundabout,1.99935E+12,1999,Peterborough,38
+CarLeavingRoundabout,1.99935E+12,1999,Cambridgeshire,21
+CarLeavingRoundabout,1.99935E+12,1999,Peterborough,50
+CarLeavingRoundabout,199937G005137,1999,Suffolk,45
+CarLeavingRoundabout,199937L003187,1999,Suffolk,34
+CarLeavingRoundabout,199940C286299,1999,Luton,33
+CarLeavingRoundabout,199940D292799,1999,Central Bedfordshire,34
+CarLeavingRoundabout,19994100A0050,1999,Hertfordshire,57
+CarLeavingRoundabout,19994100A0421,1999,Hertfordshire,31
+CarLeavingRoundabout,19994100B0059,1999,Hertfordshire,41
+CarLeavingRoundabout,19994100B0087,1999,Hertfordshire,26
+CarLeavingRoundabout,19994100B0296,1999,Hertfordshire,57
+CarLeavingRoundabout,19994100B0397,1999,Hertfordshire,35
+CarLeavingRoundabout,19994100B0411,1999,Hertfordshire,30
+CarLeavingRoundabout,19994100C0078,1999,Hertfordshire,31
+CarLeavingRoundabout,19994100C0725,1999,Hertfordshire,48
+CarLeavingRoundabout,19994100C0770,1999,Hertfordshire,28
+CarLeavingRoundabout,19994100D0111,1999,Hertfordshire,31
+CarLeavingRoundabout,19994100F0296,1999,Hertfordshire,42
+CarLeavingRoundabout,19994100G0058,1999,Hertfordshire,29
+CarLeavingRoundabout,19994100G0314,1999,Hertfordshire,27
+CarLeavingRoundabout,19994200C0177,1999,Essex,36
+CarLeavingRoundabout,2.00E+105,1999,Essex,18
+CarLeavingRoundabout,19994200H0007,1999,Southend on Sea,32
+CarLeavingRoundabout,19994200H0049,1999,Southend on Sea,29
+CarLeavingRoundabout,19994200H0053,1999,Southend on Sea,
+CarLeavingRoundabout,199943N325069,1999,Buckinghamshire,16
+CarLeavingRoundabout,199943P017089,1999,Oxfordshire,13
+CarLeavingRoundabout,199943P429049,1999,Oxfordshire,30
+CarLeavingRoundabout,199943R028049,1999,Windsor and Maidenhead,29
+CarLeavingRoundabout,199943R264099,1999,Bracknell Forest,17
+CarLeavingRoundabout,199943S130069,1999,Milton Keynes,42
+CarLeavingRoundabout,199943W146099,1999,West Berkshire,34
+CarLeavingRoundabout,199943W337119,1999,Reading,34
+CarLeavingRoundabout,1999440DT0186,1999,Hampshire,38
+CarLeavingRoundabout,1999440HP0410,1999,Hampshire,25
+CarLeavingRoundabout,1999440HP0467,1999,Hampshire,28
+CarLeavingRoundabout,1999440JH0633,1999,Hampshire,35
+CarLeavingRoundabout,1999440KS0850,1999,Portsmouth,31
+CarLeavingRoundabout,1999440NA0745,1999,Hampshire,37
+CarLeavingRoundabout,1999440RC0012,1999,Portsmouth,47
+CarLeavingRoundabout,1999440RC0444,1999,Portsmouth,76
+CarLeavingRoundabout,199945ED00345,1999,Surrey,44
+CarLeavingRoundabout,199945ER00328,1999,Surrey,52
+CarLeavingRoundabout,199945NA00072,1999,Surrey,12
+CarLeavingRoundabout,199945NW00077,1999,Surrey,22
+CarLeavingRoundabout,199945NW00237,1999,Surrey,35
+CarLeavingRoundabout,199945WF00207,1999,Surrey,69
+CarLeavingRoundabout,199945WF00263,1999,Surrey,45
+CarLeavingRoundabout,199945WG00411,1999,Surrey,27
+CarLeavingRoundabout,199946CT07632,1999,Kent,30
+CarLeavingRoundabout,199946CT09828,1999,Kent,63
+CarLeavingRoundabout,199946MA04377,1999,Kent,
+CarLeavingRoundabout,199947H003830,1999,West Sussex,40
+CarLeavingRoundabout,199947T003236,1999,East Sussex,16
+CarLeavingRoundabout,199947X002082,1999,West Sussex,61
+CarLeavingRoundabout,199947X002311,1999,West Sussex,21
+CarLeavingRoundabout,199947X002683,1999,West Sussex,21
+CarLeavingRoundabout,199947X003953,1999,West Sussex,18
+CarLeavingRoundabout,199947Y002616,1999,West Sussex,50
+CarLeavingRoundabout,199950A510782,1999,Cornwall and Isles of Scilly,49
+CarLeavingRoundabout,199950A511700,1999,Cornwall and Isles of Scilly,67
+CarLeavingRoundabout,199950D417133,1999,Devon,18
+CarLeavingRoundabout,199950E311941,1999,Plymouth,49
+CarLeavingRoundabout,1.99952E+12,1999,Somerset,22
+CarLeavingRoundabout,1.99952E+12,1999,Somerset,26
+CarLeavingRoundabout,1.99952E+12,1999,City of Bristol,22
+CarLeavingRoundabout,1.99952E+12,1999,City of Bristol,35
+CarLeavingRoundabout,1.99952E+12,1999,City of Bristol,24
+CarLeavingRoundabout,1999530AI0279,1999,Gloucestershire,29
+CarLeavingRoundabout,1999530AI3480,1999,Gloucestershire,39
+CarLeavingRoundabout,199954AD56699,1999,Wiltshire,40
+CarLeavingRoundabout,199954CR43799,1999,Wiltshire,11
+CarLeavingRoundabout,199954DS52699,1999,Swindon,34
+CarLeavingRoundabout,1999550B03391,1999,Bournemouth,24
+CarLeavingRoundabout,1999550B04144,1999,Bournemouth,46
+CarLeavingRoundabout,1999550B05348,1999,Bournemouth,
+CarLeavingRoundabout,1999550P00184,1999,Poole,80
+CarLeavingRoundabout,1999550P02532,1999,Poole,28
+CarLeavingRoundabout,1999550P05397,1999,Poole,35
+CarLeavingRoundabout,19995599W1853,1999,Dorset,39
+CarLeavingRoundabout,1999559E05226,1999,Dorset,48
+CarLeavingRoundabout,1999559W06227,1999,Dorset,58
+CarLeavingRoundabout,200001GD00129,2000,London,28
+CarLeavingRoundabout,200001GD00376,2000,London,30
+CarLeavingRoundabout,200001GN00541,2000,London,33
+CarLeavingRoundabout,200001KG00803,2000,London,33
+CarLeavingRoundabout,200001KO00160,2000,London,38
+CarLeavingRoundabout,200001MM00630,2000,London,37
+CarLeavingRoundabout,200001MM00690,2000,London,31
+CarLeavingRoundabout,200001MM00982,2000,London,40
+CarLeavingRoundabout,200001MM01240,2000,London,31
+CarLeavingRoundabout,200001NI00164,2000,London,26
+CarLeavingRoundabout,200001NI00882,2000,London,30
+CarLeavingRoundabout,200001QA00582,2000,London,44
+CarLeavingRoundabout,200001RG00083,2000,London,30
+CarLeavingRoundabout,200001RG00750,2000,London,
+CarLeavingRoundabout,200001TG00092,2000,Surrey,25
+CarLeavingRoundabout,200001TW00139,2000,London,30
+CarLeavingRoundabout,200001TW00149,2000,London,56
+CarLeavingRoundabout,200001TX01014,2000,London,41
+CarLeavingRoundabout,200001WW01370,2000,London,39
+CarLeavingRoundabout,200001ZD01302,2000,London,28
+CarLeavingRoundabout,2.00003E+12,2000,Cumbria,24
+CarLeavingRoundabout,200004A029700,2000,Lancashire,
+CarLeavingRoundabout,200004C037900,2000,Lancashire,33
+CarLeavingRoundabout,200004D025600,2000,Lancashire,50
+CarLeavingRoundabout,200004D067800,2000,Lancashire,48
+CarLeavingRoundabout,200004E090400,2000,Lancashire,35
+CarLeavingRoundabout,200004F002100,2000,Lancashire,17
+CarLeavingRoundabout,200004F005000,2000,Lancashire,24
+CarLeavingRoundabout,2.00005E+12,2000,Merseyside,39
+CarLeavingRoundabout,2.00005E+12,2000,Merseyside,38
+CarLeavingRoundabout,2.00005E+12,2000,Merseyside,35
+CarLeavingRoundabout,2.00005E+12,2000,Merseyside,32
+CarLeavingRoundabout,2.00005E+12,2000,Merseyside,62
+CarLeavingRoundabout,2.00005E+12,2000,Merseyside,53
+CarLeavingRoundabout,2.00005E+12,2000,Merseyside,27
+CarLeavingRoundabout,2.00005E+12,2000,Merseyside,38
+CarLeavingRoundabout,2.00005E+12,2000,Merseyside,41
+CarLeavingRoundabout,2.00005E+12,2000,Merseyside,42
+CarLeavingRoundabout,200006C010619,2000,Manchester,29
+CarLeavingRoundabout,200006C013075,2000,Manchester,59
+CarLeavingRoundabout,200006F006252,2000,Salford,38
+CarLeavingRoundabout,200006J007035,2000,Stockport,25
+CarLeavingRoundabout,200006J007345,2000,Stockport,20
+CarLeavingRoundabout,200006K008145,2000,Bolton,32
+CarLeavingRoundabout,200006K008482,2000,Bolton,26
+CarLeavingRoundabout,200006M005637,2000,Trafford,35
+CarLeavingRoundabout,200006M005822,2000,Trafford,31
+CarLeavingRoundabout,200006N004546,2000,Bury,41
+CarLeavingRoundabout,200006P006066,2000,Rochdale,20
+CarLeavingRoundabout,2.00007E+12,2000,Warrington,24
+CarLeavingRoundabout,2.00007E+12,2000,Cheshire West and Chester,48
+CarLeavingRoundabout,2.00007E+12,2000,Cheshire West and Chester,25
+CarLeavingRoundabout,2.00007E+12,2000,Cheshire West and Chester,42
+CarLeavingRoundabout,2.00007E+12,2000,Warrington,18
+CarLeavingRoundabout,200010H191200,2000,North Tyneside,28
+CarLeavingRoundabout,200010L244400,2000,South Tyneside,34
+CarLeavingRoundabout,200010O461100,2000,South Tyneside,52
+CarLeavingRoundabout,200011CG22280,2000,Durham,22
+CarLeavingRoundabout,2.00012E+12,2000,York,22
+CarLeavingRoundabout,2.00013E+12,2000,Leeds,37
+CarLeavingRoundabout,200013DA13100,2000,Wakefield,36
+CarLeavingRoundabout,200014BB00028,2000,Doncaster,42
+CarLeavingRoundabout,200014EE00928,2000,Barnsley,17
+CarLeavingRoundabout,200014FF00947,2000,Rotherham,35
+CarLeavingRoundabout,200014JJ00062,2000,Sheffield,37
+CarLeavingRoundabout,200016A027500,2000,North East Lincolnshire,50
+CarLeavingRoundabout,200016B004300,2000,North Lincolnshire,14
+CarLeavingRoundabout,200016B023100,2000,North Lincolnshire,36
+CarLeavingRoundabout,200016B035700,2000,North Lincolnshire,16
+CarLeavingRoundabout,200016C096200,2000,East Riding of Yorkshire,52
+CarLeavingRoundabout,200016D000400,2000,Kingston Upon Hull,34
+CarLeavingRoundabout,200016D028100,2000,Kingston Upon Hull,20
+CarLeavingRoundabout,200016D073900,2000,Kingston Upon Hull,11
+CarLeavingRoundabout,200016D090100,2000,Kingston Upon Hull,34
+CarLeavingRoundabout,200017M100079,2000,Middlesbrough,25
+CarLeavingRoundabout,200017S100425,2000,Stockton on Tees,40
+CarLeavingRoundabout,200020D167901,2000,Birmingham,15
+CarLeavingRoundabout,200020D193503,2000,Birmingham,27
+CarLeavingRoundabout,200020E134101,2000,Birmingham,48
+CarLeavingRoundabout,200020E154701,2000,Birmingham,24
+CarLeavingRoundabout,200020F113101,2000,Birmingham,39
+CarLeavingRoundabout,200020G009802,2000,Wolverhampton,39
+CarLeavingRoundabout,200020G074302,2000,Wolverhampton,8
+CarLeavingRoundabout,200020J008602,2000,Dudley,37
+CarLeavingRoundabout,200020M113002,2000,Coventry,48
+CarLeavingRoundabout,2.00021E+12,2000,Stoke on Trent,24
+CarLeavingRoundabout,2.00021E+12,2000,Staffordshire,30
+CarLeavingRoundabout,2.00021E+12,2000,Staffordshire,33
+CarLeavingRoundabout,200022AB14299,2000,Worcestershire,39
+CarLeavingRoundabout,200022GA15881,2000,Telford and Wrekin,17
+CarLeavingRoundabout,2.00023E+12,2000,Warwickshire,49
+CarLeavingRoundabout,2.00023E+12,2000,Warwickshire,32
+CarLeavingRoundabout,200030C000136,2000,Derbyshire,36
+CarLeavingRoundabout,200030D000285,2000,Derby,42
+CarLeavingRoundabout,200030D000616,2000,Derby,
+CarLeavingRoundabout,200030D000913,2000,Derby,46
+CarLeavingRoundabout,2000317A20850,2000,Nottinghamshire,29
+CarLeavingRoundabout,2000317B42445,2000,Nottingham,35
+CarLeavingRoundabout,2000317B80972,2000,Nottinghamshire,54
+CarLeavingRoundabout,2000317C20937,2000,Nottinghamshire,36
+CarLeavingRoundabout,2.00033E+12,2000,Leicestershire,30
+CarLeavingRoundabout,2.00033E+12,2000,Leicestershire,42
+CarLeavingRoundabout,2.00033E+12,2000,Leicestershire,21
+CarLeavingRoundabout,200034NN01234,2000,Northamptonshire,29
+CarLeavingRoundabout,200034TC00137,2000,Northamptonshire,30
+CarLeavingRoundabout,2.00035E+12,2000,Cambridgeshire,82
+CarLeavingRoundabout,2.00035E+12,2000,Peterborough,38
+CarLeavingRoundabout,2.00035E+12,2000,Cambridgeshire,53
+CarLeavingRoundabout,2.00035E+12,2000,Cambridgeshire,13
+CarLeavingRoundabout,2.00035E+12,2000,Cambridgeshire,25
+CarLeavingRoundabout,200036N000990,2000,Norfolk,22
+CarLeavingRoundabout,200036N001644,2000,Norfolk,12
+CarLeavingRoundabout,200037G006833,2000,Suffolk,45
+CarLeavingRoundabout,200037G006840,2000,Suffolk,37
+CarLeavingRoundabout,200037L004081,2000,Suffolk,32
+CarLeavingRoundabout,200037L004791,2000,Suffolk,33
+CarLeavingRoundabout,2000400B00394,2000,Bedford Borough Council,20
+CarLeavingRoundabout,20004100A0134,2000,Hertfordshire,20
+CarLeavingRoundabout,20004100B0150,2000,Hertfordshire,61
+CarLeavingRoundabout,20004100B0457,2000,Hertfordshire,14
+CarLeavingRoundabout,20004100B0842,2000,Hertfordshire,59
+CarLeavingRoundabout,20004100C0200,2000,Hertfordshire,34
+CarLeavingRoundabout,20004100D0299,2000,Hertfordshire,39
+CarLeavingRoundabout,20004100D0473,2000,Hertfordshire,48
+CarLeavingRoundabout,20004100D0477,2000,Hertfordshire,45
+CarLeavingRoundabout,20004100F0484,2000,Hertfordshire,26
+CarLeavingRoundabout,20004100G0407,2000,Hertfordshire,68
+CarLeavingRoundabout,20004100J1746,2000,Hertfordshire,37
+CarLeavingRoundabout,20004200B0455,2000,Essex,44
+CarLeavingRoundabout,20004200B0694,2000,Essex,35
+CarLeavingRoundabout,20004200B0704,2000,Essex,27
+CarLeavingRoundabout,20004200C0579,2000,Essex,33
+CarLeavingRoundabout,20004200C0689,2000,Essex,34
+CarLeavingRoundabout,20004200E0604,2000,Essex,40
+CarLeavingRoundabout,20004200G0541,2000,Essex,36
+CarLeavingRoundabout,20004200G0689,2000,Essex,49
+CarLeavingRoundabout,20004200H0023,2000,Southend on Sea,34
+CarLeavingRoundabout,200043N003110,2000,Buckinghamshire,34
+CarLeavingRoundabout,200043N190060,2000,Buckinghamshire,9
+CarLeavingRoundabout,200043P072010,2000,Oxfordshire,21
+CarLeavingRoundabout,200043P079010,2000,Oxfordshire,
+CarLeavingRoundabout,200043P314030,2000,Oxfordshire,36
+CarLeavingRoundabout,200043S237110,2000,Milton Keynes,27
+CarLeavingRoundabout,200043W016020,2000,Reading,34
+CarLeavingRoundabout,200043W085010,2000,Reading,25
+CarLeavingRoundabout,200043W125100,2000,Windsor and Maidenhead,35
+CarLeavingRoundabout,200043W159110,2000,Reading,29
+CarLeavingRoundabout,200043W353020,2000,West Berkshire,14
+CarLeavingRoundabout,200043W447100,2000,Windsor and Maidenhead,
+CarLeavingRoundabout,2000440AA1971,2000,Hampshire,33
+CarLeavingRoundabout,2000440GG0055,2000,Hampshire,20
+CarLeavingRoundabout,2000440GG0594,2000,Hampshire,39
+CarLeavingRoundabout,2000440HF0078,2000,Hampshire,17
+CarLeavingRoundabout,2000440JH0012,2000,Hampshire,33
+CarLeavingRoundabout,2000440KS0471,2000,Portsmouth,31
+CarLeavingRoundabout,2000440NA0571,2000,Hampshire,39
+CarLeavingRoundabout,2000440OC1467,2000,Hampshire,27
+CarLeavingRoundabout,2000440RC0048,2000,Portsmouth,30
+CarLeavingRoundabout,2000440RC0566,2000,Portsmouth,34
+CarLeavingRoundabout,2000440RC0805,2000,Portsmouth,56
+CarLeavingRoundabout,200045NA00022,2000,Surrey,38
+CarLeavingRoundabout,200045NW00222,2000,Surrey,21
+CarLeavingRoundabout,200045NW00223,2000,Surrey,68
+CarLeavingRoundabout,200045WG00366,2000,Surrey,37
+CarLeavingRoundabout,200046SW26168,2000,Kent,38
+CarLeavingRoundabout,200046TH11048,2000,Kent,17
+CarLeavingRoundabout,200047C130707,2000,Brighton and Hove,24
+CarLeavingRoundabout,200047X004457,2000,West Sussex,60
+CarLeavingRoundabout,200047X005090,2000,West Sussex,36
+CarLeavingRoundabout,200047X127949,2000,West Sussex,54
+CarLeavingRoundabout,200047X130090,2000,West Sussex,59
+CarLeavingRoundabout,200050A512440,2000,Cornwall and Isles of Scilly,35
+CarLeavingRoundabout,200050E533722,2000,Devon,42
+CarLeavingRoundabout,200050F210597,2000,Devon,28
+CarLeavingRoundabout,2.00052E+12,2000,City of Bristol,31
+CarLeavingRoundabout,2.00052E+12,2000,Bath and North East Somerset,48
+CarLeavingRoundabout,2.00052E+12,2000,City of Bristol,36
+CarLeavingRoundabout,2.00052E+12,2000,South Gloucestershire,34
+CarLeavingRoundabout,2.00052E+12,2000,City of Bristol,39
+CarLeavingRoundabout,2.00052E+12,2000,City of Bristol,23
+CarLeavingRoundabout,2.00052E+12,2000,City of Bristol,34
+CarLeavingRoundabout,2.00052E+12,2000,City of Bristol,35
+CarLeavingRoundabout,2.00052E+12,2000,South Gloucestershire,17
+CarLeavingRoundabout,2.00052E+12,2000,South Gloucestershire,45
+CarLeavingRoundabout,2.00052E+12,2000,City of Bristol,19
+CarLeavingRoundabout,2.00052E+12,2000,North Somerset,25
+CarLeavingRoundabout,2.00052E+12,2000,Somerset,31
+CarLeavingRoundabout,2.00052E+12,2000,Somerset,28
+CarLeavingRoundabout,2000530AI1778,2000,Gloucestershire,23
+CarLeavingRoundabout,200054DS06300,2000,Swindon,17
+CarLeavingRoundabout,200054DS25000,2000,Swindon,36
+CarLeavingRoundabout,200054DS65500,2000,Swindon,42
+CarLeavingRoundabout,2000550B00818,2000,Bournemouth,23
+CarLeavingRoundabout,2000550B00949,2000,Bournemouth,36
+CarLeavingRoundabout,2000550B02320,2000,Bournemouth,51
+CarLeavingRoundabout,2000550B05754,2000,Bournemouth,29
+CarLeavingRoundabout,2000550P00262,2000,Poole,34
+CarLeavingRoundabout,2000550P02494,2000,Poole,22
+CarLeavingRoundabout,2000550P02760,2000,Poole,34
+CarLeavingRoundabout,2000550W01382,2000,Dorset,72
+CarLeavingRoundabout,2000550W03683,2000,Dorset,41
+CarLeavingRoundabout,200101GD00741,2001,London,
+CarLeavingRoundabout,200101HT01061,2001,London,17
+CarLeavingRoundabout,200101JC00862,2001,London,22
+CarLeavingRoundabout,200101JI00764,2001,London,31
+CarLeavingRoundabout,200101JI00850,2001,London,28
+CarLeavingRoundabout,200101LX01050,2001,London,36
+CarLeavingRoundabout,200101LX01901,2001,London,38
+CarLeavingRoundabout,200101MM00032,2001,London,47
+CarLeavingRoundabout,200101MM00137,2001,London,20
+CarLeavingRoundabout,200101MM00227,2001,London,
+CarLeavingRoundabout,200101MM00516,2001,London,36
+CarLeavingRoundabout,200101MM00546,2001,London,28
+CarLeavingRoundabout,200101MM00838,2001,London,36
+CarLeavingRoundabout,200101MM01639,2001,London,33
+CarLeavingRoundabout,200101QK00213,2001,London,34
+CarLeavingRoundabout,200101QK00773,2001,London,16
+CarLeavingRoundabout,200101TW00219,2001,London,30
+CarLeavingRoundabout,200101TX01142,2001,London,22
+CarLeavingRoundabout,200101WW00015,2001,London,38
+CarLeavingRoundabout,200101WW00646,2001,London,32
+CarLeavingRoundabout,200104C029701,2001,Lancashire,40
+CarLeavingRoundabout,200104C034501,2001,Lancashire,44
+CarLeavingRoundabout,200104D068501,2001,Lancashire,41
+CarLeavingRoundabout,200104D078101,2001,Lancashire,25
+CarLeavingRoundabout,200104E014001,2001,Lancashire,29
+CarLeavingRoundabout,200104F036901,2001,Lancashire,53
+CarLeavingRoundabout,2.00105E+12,2001,Merseyside,47
+CarLeavingRoundabout,2.00105E+12,2001,Merseyside,28
+CarLeavingRoundabout,2.00105E+12,2001,Merseyside,35
+CarLeavingRoundabout,2.00105E+12,2001,Merseyside,37
+CarLeavingRoundabout,2.00105E+12,2001,Merseyside,40
+CarLeavingRoundabout,2.00105E+12,2001,Merseyside,24
+CarLeavingRoundabout,200106F009610,2001,Salford,35
+CarLeavingRoundabout,200106F009658,2001,Salford,33
+CarLeavingRoundabout,200106J008497,2001,Stockport,44
+CarLeavingRoundabout,200106J010467,2001,Stockport,48
+CarLeavingRoundabout,200106L010399,2001,Wigan,30
+CarLeavingRoundabout,200106L011463,2001,Wigan,55
+CarLeavingRoundabout,200106L011509,2001,Wigan,74
+CarLeavingRoundabout,200106N006721,2001,Bury,41
+CarLeavingRoundabout,2.00107E+12,2001,Cheshire West and Chester,21
+CarLeavingRoundabout,2.00107E+12,2001,Halton,26
+CarLeavingRoundabout,2.00107E+12,2001,Cheshire West and Chester,25
+CarLeavingRoundabout,2.00107E+12,2001,Warrington,37
+CarLeavingRoundabout,2.00107E+12,2001,Cheshire West and Chester,41
+CarLeavingRoundabout,200110H187501,2001,North Tyneside,50
+CarLeavingRoundabout,200110I046301,2001,Newcastle upon Tyne,47
+CarLeavingRoundabout,200111BD38770,2001,Durham,33
+CarLeavingRoundabout,200111DJ28890,2001,Darlington,45
+CarLeavingRoundabout,2.00112E+12,2001,North Yorkshire,44
+CarLeavingRoundabout,2.00112E+12,2001,York,14
+CarLeavingRoundabout,2.00113E+12,2001,Bradford,60
+CarLeavingRoundabout,2.00113E+12,2001,Bradford,71
+CarLeavingRoundabout,2.00113E+12,2001,Bradford,20
+CarLeavingRoundabout,2.00113E+12,2001,Leeds,48
+CarLeavingRoundabout,200114AA00507,2001,Doncaster,28
+CarLeavingRoundabout,200114II00668,2001,Sheffield,43
+CarLeavingRoundabout,200114KK00444,2001,Sheffield,30
+CarLeavingRoundabout,200116A038501,2001,North East Lincolnshire,35
+CarLeavingRoundabout,200116A040801,2001,North East Lincolnshire,35
+CarLeavingRoundabout,200116A042901,2001,North East Lincolnshire,47
+CarLeavingRoundabout,200116B014001,2001,North Lincolnshire,39
+CarLeavingRoundabout,200116C021501,2001,East Riding of Yorkshire,35
+CarLeavingRoundabout,200116D055701,2001,Kingston Upon Hull,25
+CarLeavingRoundabout,200116D073801,2001,Kingston Upon Hull,29
+CarLeavingRoundabout,200117L300009,2001,Redcar and Cleveland,31
+CarLeavingRoundabout,200120F253001,2001,Birmingham,31
+CarLeavingRoundabout,200120G102401,2001,Wolverhampton,61
+CarLeavingRoundabout,200120G143002,2001,Wolverhampton,34
+CarLeavingRoundabout,200120G154001,2001,Wolverhampton,41
+CarLeavingRoundabout,200120H128002,2001,Walsall,35
+CarLeavingRoundabout,2.00121E+12,2001,Stoke on Trent,36
+CarLeavingRoundabout,2.00121E+12,2001,Stoke on Trent,33
+CarLeavingRoundabout,2.00121E+12,2001,Staffordshire,34
+CarLeavingRoundabout,2.00121E+12,2001,Staffordshire,73
+CarLeavingRoundabout,2.00121E+12,2001,Staffordshire,43
+CarLeavingRoundabout,2.00121E+12,2001,Staffordshire,45
+CarLeavingRoundabout,2.00121E+12,2001,Staffordshire,22
+CarLeavingRoundabout,2.00121E+12,2001,Staffordshire,50
+CarLeavingRoundabout,200122EA16705,2001,Herefordshire,36
+CarLeavingRoundabout,200122GB21803,2001,Telford and Wrekin,16
+CarLeavingRoundabout,2.00123E+12,2001,Warwickshire,65
+CarLeavingRoundabout,2.00123E+12,2001,Warwickshire,27
+CarLeavingRoundabout,2.00123E+12,2001,Warwickshire,38
+CarLeavingRoundabout,2.00123E+12,2001,Warwickshire,29
+CarLeavingRoundabout,200130D000483,2001,Derby,32
+CarLeavingRoundabout,200130D000979,2001,Derby,38
+CarLeavingRoundabout,200130D001096,2001,Derby,44
+CarLeavingRoundabout,20013102C0993,2001,Nottingham,32
+CarLeavingRoundabout,20013104C0730,2001,Nottingham,38
+CarLeavingRoundabout,200132D018201,2001,Lincolnshire,33
+CarLeavingRoundabout,2.00133E+12,2001,Leicestershire,37
+CarLeavingRoundabout,2.00133E+12,2001,Leicestershire,20
+CarLeavingRoundabout,2.00133E+12,2001,Leicestershire,38
+CarLeavingRoundabout,2.00133E+12,2001,Leicestershire,44
+CarLeavingRoundabout,2.00133E+12,2001,Leicestershire,61
+CarLeavingRoundabout,200134NC00007,2001,Northamptonshire,39
+CarLeavingRoundabout,200134NN00771,2001,Northamptonshire,26
+CarLeavingRoundabout,200136N010915,2001,Norfolk,37
+CarLeavingRoundabout,200136N011529,2001,Norfolk,21
+CarLeavingRoundabout,200136T010296,2001,Norfolk,25
+CarLeavingRoundabout,200136T010383,2001,Norfolk,36
+CarLeavingRoundabout,200137B011930,2001,Suffolk,36
+CarLeavingRoundabout,200137G008232,2001,Suffolk,12
+CarLeavingRoundabout,200137G009021,2001,Suffolk,48
+CarLeavingRoundabout,2001400D01954,2001,Central Bedfordshire,60
+CarLeavingRoundabout,20014100A0977,2001,Hertfordshire,30
+CarLeavingRoundabout,20014100B0308,2001,Hertfordshire,39
+CarLeavingRoundabout,20014100C0040,2001,Hertfordshire,24
+CarLeavingRoundabout,20014100C0384,2001,Hertfordshire,25
+CarLeavingRoundabout,20014100D0184,2001,Hertfordshire,77
+CarLeavingRoundabout,20014100D0201,2001,Hertfordshire,30
+CarLeavingRoundabout,20014100F0301,2001,Hertfordshire,65
+CarLeavingRoundabout,20014100K0077,2001,Hertfordshire,29
+CarLeavingRoundabout,20014200A0916,2001,Essex,41
+CarLeavingRoundabout,20014200B0469,2001,Essex,41
+CarLeavingRoundabout,20014200B0553,2001,Essex,54
+CarLeavingRoundabout,20014200E0451,2001,Essex,54
+CarLeavingRoundabout,200143N028071,2001,Buckinghamshire,38
+CarLeavingRoundabout,200143N084091,2001,Buckinghamshire,44
+CarLeavingRoundabout,200143N101071,2001,Buckinghamshire,53
+CarLeavingRoundabout,200143N130041,2001,Buckinghamshire,24
+CarLeavingRoundabout,200143P189101,2001,Oxfordshire,20
+CarLeavingRoundabout,200143S028061,2001,Milton Keynes,57
+CarLeavingRoundabout,200143W119061,2001,Windsor and Maidenhead,46
+CarLeavingRoundabout,200143W261021,2001,Slough,60
+CarLeavingRoundabout,200143W484091,2001,West Berkshire,13
+CarLeavingRoundabout,2001440AA1692,2001,Hampshire,18
+CarLeavingRoundabout,2001440BB1412,2001,Hampshire,27
+CarLeavingRoundabout,2001440HF0431,2001,Hampshire,14
+CarLeavingRoundabout,2001440JL0019,2001,Hampshire,76
+CarLeavingRoundabout,2001440KK0181,2001,Portsmouth,50
+CarLeavingRoundabout,2001440KK0361,2001,Portsmouth,25
+CarLeavingRoundabout,2001440SY0166,2001,Southampton ,47
+CarLeavingRoundabout,2001440SY0927,2001,Southampton ,48
+CarLeavingRoundabout,200145EM15653,2001,Surrey,29
+CarLeavingRoundabout,200145ES15165,2001,Surrey,21
+CarLeavingRoundabout,200145NW13343,2001,Surrey,53
+CarLeavingRoundabout,200145SP07086,2001,Surrey,
+CarLeavingRoundabout,200146SK44668,2001,Kent,
+CarLeavingRoundabout,200146TH46415,2001,Kent,48
+CarLeavingRoundabout,200147N131920,2001,West Sussex,24
+CarLeavingRoundabout,200147N134355,2001,West Sussex,34
+CarLeavingRoundabout,200147N137672,2001,West Sussex,28
+CarLeavingRoundabout,200147N142235,2001,West Sussex,29
+CarLeavingRoundabout,200147T133789,2001,East Sussex,18
+CarLeavingRoundabout,200147X139416,2001,West Sussex,48
+CarLeavingRoundabout,200147X144176,2001,West Sussex,34
+CarLeavingRoundabout,200147Y141576,2001,West Sussex,55
+CarLeavingRoundabout,2.00152E+12,2001,South Gloucestershire,35
+CarLeavingRoundabout,2.00152E+12,2001,South Gloucestershire,20
+CarLeavingRoundabout,2.00152E+12,2001,North Somerset,26
+CarLeavingRoundabout,2001530AI2214,2001,Gloucestershire,67
+CarLeavingRoundabout,2001530AI2402,2001,Gloucestershire,50
+CarLeavingRoundabout,2001530AI3133,2001,Gloucestershire,40
+CarLeavingRoundabout,200154DS24601,2001,Swindon,10
+CarLeavingRoundabout,2001551E00346,2001,Dorset,41
+CarLeavingRoundabout,2001551E04980,2001,Dorset,54
+CarLeavingRoundabout,2001551E06917,2001,Dorset,56
+CarLeavingRoundabout,200201CP00208,2002,London,32
+CarLeavingRoundabout,200201DM01632,2002,London,43
+CarLeavingRoundabout,200201HT00626,2002,London,49
+CarLeavingRoundabout,200201JC00833,2002,London,40
+CarLeavingRoundabout,200201LX00059,2002,London,27
+CarLeavingRoundabout,200201MM00066,2002,London,37
+CarLeavingRoundabout,200201MM00431,2002,London,29
+CarLeavingRoundabout,200201MM00443,2002,London,30
+CarLeavingRoundabout,200201MM00522,2002,London,39
+CarLeavingRoundabout,200201MM00550,2002,London,31
+CarLeavingRoundabout,200201MM00902,2002,London,30
+CarLeavingRoundabout,200201MM01615,2002,London,40
+CarLeavingRoundabout,200201QK00936,2002,London,35
+CarLeavingRoundabout,200201TW00649,2002,London,33
+CarLeavingRoundabout,200201VK00243,2002,London,35
+CarLeavingRoundabout,200201XS01362,2002,London,
+CarLeavingRoundabout,200201ZD00855,2002,London,43
+CarLeavingRoundabout,2.00203E+12,2002,Cumbria,40
+CarLeavingRoundabout,2.00203E+12,2002,Cumbria,23
+CarLeavingRoundabout,200204A076202,2002,Lancashire,73
+CarLeavingRoundabout,200204B063702,2002,Lancashire,39
+CarLeavingRoundabout,200204C123202,2002,Lancashire,47
+CarLeavingRoundabout,200204F010002,2002,Lancashire,14
+CarLeavingRoundabout,2.00205E+12,2002,Merseyside,42
+CarLeavingRoundabout,200206K013102,2002,Bolton,54
+CarLeavingRoundabout,200206P010392,2002,Rochdale,42
+CarLeavingRoundabout,200206P010576,2002,Rochdale,43
+CarLeavingRoundabout,2.00207E+12,2002,Warrington,36
+CarLeavingRoundabout,2.00207E+12,2002,Cheshire West and Chester,38
+CarLeavingRoundabout,2.00207E+12,2002,Cheshire West and Chester,35
+CarLeavingRoundabout,2.00207E+12,2002,Cheshire West and Chester,30
+CarLeavingRoundabout,2.00207E+12,2002,Warrington,16
+CarLeavingRoundabout,2.00207E+12,2002,Cheshire West and Chester,15
+CarLeavingRoundabout,2.0021E+12,2002,South Tyneside,44
+CarLeavingRoundabout,2.0021E+12,2002,Newcastle upon Tyne,24
+CarLeavingRoundabout,2.0021E+12,2002,Newcastle upon Tyne,58
+CarLeavingRoundabout,2.0021E+12,2002,Northumberland,46
+CarLeavingRoundabout,2.0021E+12,2002,South Tyneside,18
+CarLeavingRoundabout,200210F118802,2002,Newcastle upon Tyne,27
+CarLeavingRoundabout,200211AK26580,2002,Durham,46
+CarLeavingRoundabout,2.00212E+12,2002,North Yorkshire,47
+CarLeavingRoundabout,2.00212E+12,2002,North Yorkshire,43
+CarLeavingRoundabout,2.00212E+12,2002,York,41
+CarLeavingRoundabout,2.00213E+12,2002,Leeds,36
+CarLeavingRoundabout,2.00213E+12,2002,Leeds,45
+CarLeavingRoundabout,2.00213E+12,2002,Leeds,21
+CarLeavingRoundabout,2.00213E+12,2002,Bradford,28
+CarLeavingRoundabout,200214AA00060,2002,Doncaster,30
+CarLeavingRoundabout,200216A053102,2002,North East Lincolnshire,18
+CarLeavingRoundabout,200216A068002,2002,North East Lincolnshire,56
+CarLeavingRoundabout,200220E109702,2002,Birmingham,47
+CarLeavingRoundabout,200220F201302,2002,Birmingham,41
+CarLeavingRoundabout,200220K090001,2002,Sandwell,34
+CarLeavingRoundabout,200220K154702,2002,Sandwell,59
+CarLeavingRoundabout,200220L173101,2002,Solihull,45
+CarLeavingRoundabout,200220M057703,2002,Coventry,30
+CarLeavingRoundabout,2.00221E+12,2002,Stoke on Trent,35
+CarLeavingRoundabout,2.00221E+12,2002,Staffordshire,13
+CarLeavingRoundabout,200222CC31419,2002,Worcestershire,29
+CarLeavingRoundabout,200222EA20588,2002,Herefordshire,75
+CarLeavingRoundabout,200222EA22099,2002,Herefordshire,26
+CarLeavingRoundabout,200222EA22561,2002,Herefordshire,29
+CarLeavingRoundabout,2.00223E+12,2002,Warwickshire,
+CarLeavingRoundabout,2.00223E+12,2002,Warwickshire,54
+CarLeavingRoundabout,200230A000052,2002,Derbyshire,53
+CarLeavingRoundabout,200230A000345,2002,Derbyshire,32
+CarLeavingRoundabout,200230D000085,2002,Derby,24
+CarLeavingRoundabout,200230D000444,2002,Derby,22
+CarLeavingRoundabout,200230D000751,2002,Derby,15
+CarLeavingRoundabout,200230D000811,2002,Derby,48
+CarLeavingRoundabout,20023102C0539,2002,Nottingham,53
+CarLeavingRoundabout,20023102C2799,2002,Nottingham,41
+CarLeavingRoundabout,200232B004702,2002,Lincolnshire,36
+CarLeavingRoundabout,2.00233E+12,2002,Leicestershire,29
+CarLeavingRoundabout,2.00235E+12,2002,Peterborough,35
+CarLeavingRoundabout,2.00235E+12,2002,Cambridgeshire,26
+CarLeavingRoundabout,2.00235E+12,2002,Peterborough,49
+CarLeavingRoundabout,2.00235E+12,2002,Cambridgeshire,23
+CarLeavingRoundabout,2.00235E+12,2002,Cambridgeshire,38
+CarLeavingRoundabout,2.00235E+12,2002,Cambridgeshire,23
+CarLeavingRoundabout,2.00236E+12,2002,Norfolk,43
+CarLeavingRoundabout,200236K020099,2002,Norfolk,46
+CarLeavingRoundabout,200236N020382,2002,Norfolk,33
+CarLeavingRoundabout,200236N020393,2002,Norfolk,33
+CarLeavingRoundabout,2002400C00526,2002,Luton,42
+CarLeavingRoundabout,20024100B0140,2002,Hertfordshire,58
+CarLeavingRoundabout,20024100B0556,2002,Hertfordshire,31
+CarLeavingRoundabout,20024100C0162,2002,Hertfordshire,43
+CarLeavingRoundabout,20024100C0204,2002,Hertfordshire,31
+CarLeavingRoundabout,20024100D0043,2002,Hertfordshire,45
+CarLeavingRoundabout,20024100F4657,2002,Hertfordshire,46
+CarLeavingRoundabout,20024100F4930,2002,Hertfordshire,35
+CarLeavingRoundabout,20024200G0487,2002,Essex,41
+CarLeavingRoundabout,20024200G0738,2002,Essex,22
+CarLeavingRoundabout,20024200H0245,2002,Southend on Sea,20
+CarLeavingRoundabout,200243N214042,2002,Buckinghamshire,41
+CarLeavingRoundabout,200243N273122,2002,Buckinghamshire,40
+CarLeavingRoundabout,200243P243082,2002,Oxfordshire,17
+CarLeavingRoundabout,200243P386102,2002,Oxfordshire,27
+CarLeavingRoundabout,200243W223012,2002,Windsor and Maidenhead,29
+CarLeavingRoundabout,200243W231082,2002,Slough,40
+CarLeavingRoundabout,200243W288082,2002,Bracknell Forest,
+CarLeavingRoundabout,200243W560062,2002,West Berkshire,13
+CarLeavingRoundabout,200243W612052,2002,Bracknell Forest,12
+CarLeavingRoundabout,2002440BB1516,2002,Hampshire,31
+CarLeavingRoundabout,2002440DH0032,2002,Hampshire,40
+CarLeavingRoundabout,2002440GG0643,2002,Hampshire,36
+CarLeavingRoundabout,2002440GG0679,2002,Hampshire,28
+CarLeavingRoundabout,2002440GG0680,2002,Hampshire,43
+CarLeavingRoundabout,2002440HF0202,2002,Hampshire,54
+CarLeavingRoundabout,2002440HF0354,2002,Hampshire,27
+CarLeavingRoundabout,2002440JH0383,2002,Hampshire,86
+CarLeavingRoundabout,2002440JW0012,2002,Hampshire,35
+CarLeavingRoundabout,2002440KK1527,2002,Portsmouth,21
+CarLeavingRoundabout,200245MN17106,2002,Surrey,29
+CarLeavingRoundabout,200245RN20518,2002,Surrey,34
+CarLeavingRoundabout,200245RS22431,2002,Surrey,33
+CarLeavingRoundabout,200246NK66955,2002,Kent,29
+CarLeavingRoundabout,200246TH58231,2002,Kent,13
+CarLeavingRoundabout,200246WK66804,2002,Kent,
+CarLeavingRoundabout,200247K148422,2002,East Sussex,43
+CarLeavingRoundabout,200247K150277,2002,Brighton and Hove,19
+CarLeavingRoundabout,200247K154503,2002,West Sussex,37
+CarLeavingRoundabout,200247K154936,2002,West Sussex,28
+CarLeavingRoundabout,200247K155058,2002,West Sussex,41
+CarLeavingRoundabout,200247K155767,2002,East Sussex,36
+CarLeavingRoundabout,200247K157021,2002,West Sussex,27
+CarLeavingRoundabout,200247N146004,2002,West Sussex,42
+CarLeavingRoundabout,200247S148422,2002,East Sussex,43
+CarLeavingRoundabout,200247X146885,2002,West Sussex,35
+CarLeavingRoundabout,200247X149208,2002,West Sussex,40
+CarLeavingRoundabout,200250A613895,2002,Cornwall and Isles of Scilly,40
+CarLeavingRoundabout,200250D216704,2002,Devon,41
+CarLeavingRoundabout,200250E310502,2002,Plymouth,22
+CarLeavingRoundabout,200250E411368,2002,Plymouth,57
+CarLeavingRoundabout,2.00252E+12,2002,North Somerset,20
+CarLeavingRoundabout,2.00252E+12,2002,City of Bristol,28
+CarLeavingRoundabout,2.00252E+12,2002,North Somerset,65
+CarLeavingRoundabout,2.00252E+12,2002,South Gloucestershire,43
+CarLeavingRoundabout,2.00252E+12,2002,City of Bristol,33
+CarLeavingRoundabout,2.00252E+12,2002,South Gloucestershire,32
+CarLeavingRoundabout,2.00252E+12,2002,City of Bristol,27
+CarLeavingRoundabout,2.00252E+12,2002,South Gloucestershire,20
+CarLeavingRoundabout,2.00252E+12,2002,Somerset,20
+CarLeavingRoundabout,200254AM47302,2002,Wiltshire,60
+CarLeavingRoundabout,200254DS11402,2002,Swindon,78
+CarLeavingRoundabout,2002550B04846,2002,Bournemouth,22
+CarLeavingRoundabout,2002550B06969,2002,Bournemouth,54
+CarLeavingRoundabout,2002550P06814,2002,Poole,22
+CarLeavingRoundabout,2002552E04987,2002,Dorset,20
+CarLeavingRoundabout,2002552W01491,2002,Dorset,36
+CarLeavingRoundabout,200301DM00950,2003,London,28
+CarLeavingRoundabout,200301DM01232,2003,London,42
+CarLeavingRoundabout,200301DM01613,2003,London,25
+CarLeavingRoundabout,200301GD00778,2003,London,30
+CarLeavingRoundabout,200301JI00784,2003,London,16
+CarLeavingRoundabout,200301MM00540,2003,London,34
+CarLeavingRoundabout,200301SX00881,2003,London,43
+CarLeavingRoundabout,200301TA00226,2003,London,32
+CarLeavingRoundabout,200301TX00923,2003,London,44
+CarLeavingRoundabout,200301ZD01034,2003,London,37
+CarLeavingRoundabout,200301ZD01178,2003,London,41
+CarLeavingRoundabout,200301ZT00338,2003,London,34
+CarLeavingRoundabout,200304B062503,2003,Lancashire,31
+CarLeavingRoundabout,200304B063403,2003,Lancashire,39
+CarLeavingRoundabout,200304C068303,2003,Lancashire,63
+CarLeavingRoundabout,200304C077303,2003,Lancashire,11
+CarLeavingRoundabout,200305AW00649,2003,Merseyside,20
+CarLeavingRoundabout,200305CH00701,2003,Merseyside,48
+CarLeavingRoundabout,200305ET02869,2003,Merseyside,33
+CarLeavingRoundabout,200306C021734,2003,Manchester,15
+CarLeavingRoundabout,200306M011684,2003,Trafford,29
+CarLeavingRoundabout,2.00307E+12,2003,Cheshire West and Chester,43
+CarLeavingRoundabout,2.00307E+12,2003,Cheshire West and Chester,20
+CarLeavingRoundabout,2.00307E+12,2003,Warrington,12
+CarLeavingRoundabout,2.00307E+12,2003,Cheshire West and Chester,43
+CarLeavingRoundabout,2.00307E+12,2003,Cheshire West and Chester,56
+CarLeavingRoundabout,2.0031E+12,2003,Gateshead,36
+CarLeavingRoundabout,2.0031E+12,2003,North Tyneside,22
+CarLeavingRoundabout,2.0031E+12,2003,South Tyneside,29
+CarLeavingRoundabout,2.0031E+12,2003,Northumberland,34
+CarLeavingRoundabout,2.0031E+12,2003,North Tyneside,19
+CarLeavingRoundabout,2.0031E+12,2003,South Tyneside,44
+CarLeavingRoundabout,2.0031E+12,2003,South Tyneside,34
+CarLeavingRoundabout,200311CI02670,2003,Durham,34
+CarLeavingRoundabout,2.00312E+12,2003,York,92
+CarLeavingRoundabout,2.00313E+12,2003,Bradford,48
+CarLeavingRoundabout,2.00313E+12,2003,Bradford,52
+CarLeavingRoundabout,200314AA00229,2003,Doncaster,51
+CarLeavingRoundabout,200314II00088,2003,Sheffield,56
+CarLeavingRoundabout,200314JJ01495,2003,Sheffield,40
+CarLeavingRoundabout,2003160D10000,2003,Kingston Upon Hull,26
+CarLeavingRoundabout,200316A003403,2003,North East Lincolnshire,54
+CarLeavingRoundabout,200316A005203,2003,North East Lincolnshire,45
+CarLeavingRoundabout,200316A020503,2003,North East Lincolnshire,17
+CarLeavingRoundabout,200316A033103,2003,North East Lincolnshire,12
+CarLeavingRoundabout,200316B036303,2003,North Lincolnshire,56
+CarLeavingRoundabout,200316C019503,2003,East Riding of Yorkshire,50
+CarLeavingRoundabout,200316C099803,2003,East Riding of Yorkshire,12
+CarLeavingRoundabout,200316C102003,2003,East Riding of Yorkshire,32
+CarLeavingRoundabout,200316D018403,2003,Kingston Upon Hull,18
+CarLeavingRoundabout,200316D022503,2003,Kingston Upon Hull,27
+CarLeavingRoundabout,200316D029703,2003,Kingston Upon Hull,44
+CarLeavingRoundabout,2003170H12073,2003,Hartlepool,53
+CarLeavingRoundabout,2003170M14003,2003,Middlesbrough,45
+CarLeavingRoundabout,2003170S14833,2003,Stockton on Tees,60
+CarLeavingRoundabout,200320D279903,2003,Birmingham,45
+CarLeavingRoundabout,200320E046301,2003,Birmingham,37
+CarLeavingRoundabout,200320H029001,2003,Walsall,24
+CarLeavingRoundabout,200320J098302,2003,Dudley,37
+CarLeavingRoundabout,200320K031601,2003,Sandwell,36
+CarLeavingRoundabout,200320K089802,2003,Sandwell,43
+CarLeavingRoundabout,200320L134801,2003,Solihull,50
+CarLeavingRoundabout,200320M029803,2003,Coventry,34
+CarLeavingRoundabout,200322CA36122,2003,Worcestershire,74
+CarLeavingRoundabout,200322EA23578,2003,Herefordshire,40
+CarLeavingRoundabout,200322FJ34654,2003,Shropshire,15
+CarLeavingRoundabout,200322GB33479,2003,Telford and Wrekin,33
+CarLeavingRoundabout,2.00323E+12,2003,Warwickshire,36
+CarLeavingRoundabout,2.00323E+12,2003,Warwickshire,71
+CarLeavingRoundabout,200330D000197,2003,Derby,43
+CarLeavingRoundabout,200330D000514,2003,Derby,43
+CarLeavingRoundabout,200330D000857,2003,Derby,44
+CarLeavingRoundabout,200330D000858,2003,Derby,19
+CarLeavingRoundabout,20033102B0288,2003,Nottinghamshire,37
+CarLeavingRoundabout,20033102B8675,2003,Nottinghamshire,74
+CarLeavingRoundabout,20033102C0453,2003,Nottingham,36
+CarLeavingRoundabout,20033102C8028,2003,Nottingham,52
+CarLeavingRoundabout,20033102D2443,2003,Nottinghamshire,39
+CarLeavingRoundabout,200332D143103,2003,Lincolnshire,36
+CarLeavingRoundabout,200332D162303,2003,Lincolnshire,25
+CarLeavingRoundabout,2.00333E+12,2003,Leicestershire,59
+CarLeavingRoundabout,2.00333E+12,2003,Leicestershire,26
+CarLeavingRoundabout,2.00333E+12,2003,Leicestershire,13
+CarLeavingRoundabout,2.00333E+12,2003,Leicestershire,14
+CarLeavingRoundabout,2.00333E+12,2003,Leicestershire,33
+CarLeavingRoundabout,2.00333E+12,2003,Leicestershire,
+CarLeavingRoundabout,2.00335E+12,2003,Peterborough,46
+CarLeavingRoundabout,2.00335E+12,2003,Cambridgeshire,41
+CarLeavingRoundabout,2.00335E+12,2003,Cambridgeshire,22
+CarLeavingRoundabout,2.00335E+12,2003,Cambridgeshire,26
+CarLeavingRoundabout,2.00335E+12,2003,Cambridgeshire,
+CarLeavingRoundabout,2.00336E+12,2003,Norfolk,49
+CarLeavingRoundabout,2.00336E+12,2003,Norfolk,32
+CarLeavingRoundabout,20034100B0046,2003,Hertfordshire,67
+CarLeavingRoundabout,20034100B0660,2003,Hertfordshire,29
+CarLeavingRoundabout,20034100D0557,2003,Hertfordshire,31
+CarLeavingRoundabout,20034100F4662,2003,Hertfordshire,54
+CarLeavingRoundabout,20034100F5254,2003,Hertfordshire,33
+CarLeavingRoundabout,20034100K0814,2003,Hertfordshire,78
+CarLeavingRoundabout,20034200B0276,2003,Essex,40
+CarLeavingRoundabout,20034200E0607,2003,Essex,
+CarLeavingRoundabout,20034200G0318,2003,Essex,61
+CarLeavingRoundabout,200343P135043,2003,Oxfordshire,24
+CarLeavingRoundabout,200343S051093,2003,Milton Keynes,14
+CarLeavingRoundabout,200343S105083,2003,Milton Keynes,11
+CarLeavingRoundabout,200343W039023,2003,Wokingham,33
+CarLeavingRoundabout,200343W088113,2003,Wokingham,30
+CarLeavingRoundabout,200343W229023,2003,Windsor and Maidenhead,54
+CarLeavingRoundabout,200343W315113,2003,Bracknell Forest,53
+CarLeavingRoundabout,200343W440023,2003,Wokingham,59
+CarLeavingRoundabout,2003440AA1017,2003,Hampshire,50
+CarLeavingRoundabout,2003440BB0302,2003,Hampshire,48
+CarLeavingRoundabout,2003440BB1192,2003,Hampshire,87
+CarLeavingRoundabout,2003440GG0059,2003,Hampshire,53
+CarLeavingRoundabout,2003440JH0144,2003,Hampshire,55
+CarLeavingRoundabout,2003440JH0425,2003,Hampshire,25
+CarLeavingRoundabout,200345RS33389,2003,Surrey,40
+CarLeavingRoundabout,200345RS39040,2003,Surrey,40
+CarLeavingRoundabout,200346SW80683,2003,Kent,11
+CarLeavingRoundabout,200346TH81573,2003,Kent,9
+CarLeavingRoundabout,200346WL85123,2003,Kent,58
+CarLeavingRoundabout,200347K166805,2003,West Sussex,20
+CarLeavingRoundabout,200350A31R491,2003,Cornwall and Isles of Scilly,26
+CarLeavingRoundabout,200350B61J220,2003,Cornwall and Isles of Scilly,17
+CarLeavingRoundabout,200350C21R360,2003,Devon,24
+CarLeavingRoundabout,200350E41M285,2003,Plymouth,
+CarLeavingRoundabout,200350F41A317,2003,Devon,55
+CarLeavingRoundabout,2.00352E+12,2003,City of Bristol,35
+CarLeavingRoundabout,2.00352E+12,2003,South Gloucestershire,50
+CarLeavingRoundabout,2.00352E+12,2003,City of Bristol,31
+CarLeavingRoundabout,2.00352E+12,2003,City of Bristol,34
+CarLeavingRoundabout,2.00352E+12,2003,South Gloucestershire,37
+CarLeavingRoundabout,2003530AI0111,2003,Gloucestershire,40
+CarLeavingRoundabout,2003530AI0288,2003,Gloucestershire,23
+CarLeavingRoundabout,2003530AI2279,2003,Gloucestershire,16
+CarLeavingRoundabout,2003530AI2977,2003,Gloucestershire,50
+CarLeavingRoundabout,2003530AI3329,2003,Gloucestershire,60
+CarLeavingRoundabout,2003530AI3550,2003,Gloucestershire,36
+CarLeavingRoundabout,2003530AI4567,2003,Gloucestershire,17
+CarLeavingRoundabout,200354DC02803,2003,Swindon,30
+CarLeavingRoundabout,200354DW11903,2003,Swindon,21
+CarLeavingRoundabout,200354DW48903,2003,Swindon,47
+CarLeavingRoundabout,200354DW56803,2003,Swindon,29
+CarLeavingRoundabout,2003550B00096,2003,Bournemouth,36
+CarLeavingRoundabout,2003550B01543,2003,Bournemouth,23
+CarLeavingRoundabout,2003550B01986,2003,Bournemouth,
+CarLeavingRoundabout,2003550P05264,2003,Poole,42
+CarLeavingRoundabout,2003550P05791,2003,Poole,30
+CarLeavingRoundabout,2003553E01005,2003,Dorset,39
+CarLeavingRoundabout,2003553W03760,2003,Dorset,40
+CarLeavingRoundabout,200401DM00220,2004,London,27
+CarLeavingRoundabout,200401EO01356,2004,London,46
+CarLeavingRoundabout,200401FH00239,2004,London,44
+CarLeavingRoundabout,200401FH00395,2004,London,20
+CarLeavingRoundabout,200401GD00390,2004,London,41
+CarLeavingRoundabout,200401GD19025,2004,London,38
+CarLeavingRoundabout,200401JC00277,2004,London,57
+CarLeavingRoundabout,200401KO00623,2004,London,53
+CarLeavingRoundabout,200401LX50708,2004,London,22
+CarLeavingRoundabout,200401MM00303,2004,London,30
+CarLeavingRoundabout,200401MM70113,2004,London,42
+CarLeavingRoundabout,200401PL00068,2004,London,23
+CarLeavingRoundabout,200401RG40625,2004,London,35
+CarLeavingRoundabout,200401RY10036,2004,London,28
+CarLeavingRoundabout,200401RY10422,2004,London,18
+CarLeavingRoundabout,200401TD00209,2004,London,
+CarLeavingRoundabout,200401TW00490,2004,London,41
+CarLeavingRoundabout,200401TX00150,2004,London,53
+CarLeavingRoundabout,200401VK00144,2004,London,27
+CarLeavingRoundabout,200401VK09016,2004,London,33
+CarLeavingRoundabout,200401VW00129,2004,London,39
+CarLeavingRoundabout,200401WW00673,2004,London,34
+CarLeavingRoundabout,200401WW00744,2004,London,39
+CarLeavingRoundabout,200401WW00979,2004,London,40
+CarLeavingRoundabout,200401ZD30704,2004,London,34
+CarLeavingRoundabout,200404A039004,2004,Lancashire,13
+CarLeavingRoundabout,200404C043404,2004,Lancashire,67
+CarLeavingRoundabout,200404D031204,2004,Lancashire,59
+CarLeavingRoundabout,200404E090804,2004,Lancashire,32
+CarLeavingRoundabout,200405BS00743,2004,Merseyside,33
+CarLeavingRoundabout,200406C902384,2004,Manchester,28
+CarLeavingRoundabout,200406L016717,2004,Wigan,27
+CarLeavingRoundabout,200406P912270,2004,Rochdale,32
+CarLeavingRoundabout,200406Q906660,2004,Oldham,19
+CarLeavingRoundabout,2.00407E+12,2004,Cheshire West and Chester,56
+CarLeavingRoundabout,2.00407E+12,2004,Warrington,64
+CarLeavingRoundabout,2.00407E+12,2004,Cheshire East,39
+CarLeavingRoundabout,2.00407E+12,2004,Warrington,47
+CarLeavingRoundabout,2.00407E+12,2004,Halton,49
+CarLeavingRoundabout,2.00407E+12,2004,Cheshire West and Chester,54
+CarLeavingRoundabout,2.00407E+12,2004,Halton,69
+CarLeavingRoundabout,2.0041E+12,2004,Northumberland,64
+CarLeavingRoundabout,2.0041E+12,2004,North Tyneside,20
+CarLeavingRoundabout,2.0041E+12,2004,North Tyneside,41
+CarLeavingRoundabout,2.0041E+12,2004,South Tyneside,14
+CarLeavingRoundabout,2.0041E+12,2004,Newcastle upon Tyne,51
+CarLeavingRoundabout,2.00412E+12,2004,North Yorkshire,71
+CarLeavingRoundabout,2.00413E+12,2004,Leeds,33
+CarLeavingRoundabout,2.00413E+12,2004,Leeds,38
+CarLeavingRoundabout,200414AA02517,2004,Doncaster,19
+CarLeavingRoundabout,200414DD01801,2004,Sheffield,22
+CarLeavingRoundabout,200414FF01371,2004,Sheffield,51
+CarLeavingRoundabout,2004160C01220,2004,East Riding of Yorkshire,56
+CarLeavingRoundabout,2004160D03300,2004,Kingston Upon Hull,45
+CarLeavingRoundabout,2004160D05110,2004,Kingston Upon Hull,27
+CarLeavingRoundabout,2004170H11594,2004,Hartlepool,46
+CarLeavingRoundabout,2004170M12364,2004,Middlesbrough,45
+CarLeavingRoundabout,200420D174201,2004,Birmingham,45
+CarLeavingRoundabout,200420D341402,2004,Birmingham,22
+CarLeavingRoundabout,200420D435203,2004,Birmingham,33
+CarLeavingRoundabout,200420E074003,2004,Birmingham,18
+CarLeavingRoundabout,200420H050802,2004,Walsall,15
+CarLeavingRoundabout,200420K029002,2004,Sandwell,38
+CarLeavingRoundabout,200420L033001,2004,Solihull,51
+CarLeavingRoundabout,2.00421E+12,2004,Staffordshire,69
+CarLeavingRoundabout,2.00421E+12,2004,Staffordshire,34
+CarLeavingRoundabout,2.00421E+12,2004,Staffordshire,38
+CarLeavingRoundabout,200422CC39282,2004,Worcestershire,31
+CarLeavingRoundabout,200422DF40432,2004,Worcestershire,20
+CarLeavingRoundabout,200422FA38343,2004,Shropshire,43
+CarLeavingRoundabout,200422FA41233,2004,Shropshire,37
+CarLeavingRoundabout,200422FG37849,2004,Shropshire,53
+CarLeavingRoundabout,200422GB33554,2004,Telford and Wrekin,47
+CarLeavingRoundabout,2.00423E+12,2004,Warwickshire,
+CarLeavingRoundabout,2.00423E+12,2004,Warwickshire,27
+CarLeavingRoundabout,2.00423E+12,2004,Warwickshire,35
+CarLeavingRoundabout,200430A000671,2004,Derbyshire,21
+CarLeavingRoundabout,200430D000839,2004,Derby,40
+CarLeavingRoundabout,20043102A1030,2004,Nottinghamshire,41
+CarLeavingRoundabout,20043108C4001,2004,Nottingham,44
+CarLeavingRoundabout,20043108C4727,2004,Nottingham,27
+CarLeavingRoundabout,20043108C6687,2004,Nottingham,36
+CarLeavingRoundabout,20043108D0705,2004,Nottinghamshire,39
+CarLeavingRoundabout,200432B065004,2004,Lincolnshire,57
+CarLeavingRoundabout,200432B186004,2004,Lincolnshire,50
+CarLeavingRoundabout,2.00433E+12,2004,Leicestershire,45
+CarLeavingRoundabout,2.00433E+12,2004,Leicestershire,14
+CarLeavingRoundabout,2.00433E+12,2004,Leicestershire,34
+CarLeavingRoundabout,2.00433E+12,2004,Leicestershire,45
+CarLeavingRoundabout,2.00433E+12,2004,Leicestershire,38
+CarLeavingRoundabout,2.00435E+12,2004,Cambridgeshire,27
+CarLeavingRoundabout,2.00435E+12,2004,Peterborough,26
+CarLeavingRoundabout,2.00435E+12,2004,Peterborough,37
+CarLeavingRoundabout,2.00435E+12,2004,Cambridgeshire,20
+CarLeavingRoundabout,2.00435E+12,2004,Cambridgeshire,41
+CarLeavingRoundabout,2.00435E+12,2004,Peterborough,36
+CarLeavingRoundabout,2.00436E+12,2004,Norfolk,32
+CarLeavingRoundabout,200436T040208,2004,Norfolk,40
+CarLeavingRoundabout,200437B019822,2004,Suffolk,36
+CarLeavingRoundabout,200437B020902,2004,Suffolk,47
+CarLeavingRoundabout,200437G014968,2004,Suffolk,34
+CarLeavingRoundabout,200437G016514,2004,Suffolk,41
+CarLeavingRoundabout,20044100C1570,2004,Hertfordshire,30
+CarLeavingRoundabout,20044100E0355,2004,Hertfordshire,53
+CarLeavingRoundabout,20044100G0743,2004,Hertfordshire,58
+CarLeavingRoundabout,20044100J2056,2004,Hertfordshire,45
+CarLeavingRoundabout,20044100K0099,2004,Hertfordshire,62
+CarLeavingRoundabout,20044100K0161,2004,Hertfordshire,22
+CarLeavingRoundabout,20044100K0233,2004,Hertfordshire,73
+CarLeavingRoundabout,20044100K0812,2004,Hertfordshire,40
+CarLeavingRoundabout,20044200C0337,2004,Essex,26
+CarLeavingRoundabout,20044200C0592,2004,Essex,30
+CarLeavingRoundabout,20044200D0490,2004,Essex,15
+CarLeavingRoundabout,20044200F0509,2004,Thurrock,32
+CarLeavingRoundabout,20044200H0356,2004,Southend on Sea,54
+CarLeavingRoundabout,20044200J0418,2004,Essex,41
+CarLeavingRoundabout,200443N098054,2004,Buckinghamshire,50
+CarLeavingRoundabout,200443P248074,2004,Oxfordshire,26
+CarLeavingRoundabout,200443W144044,2004,Bracknell Forest,31
+CarLeavingRoundabout,200443W311064,2004,West Berkshire,50
+CarLeavingRoundabout,200443W328084,2004,Wokingham,39
+CarLeavingRoundabout,2004440AA1369,2004,Hampshire,54
+CarLeavingRoundabout,2004440BB1377,2004,Hampshire,25
+CarLeavingRoundabout,2004440KK0400,2004,Portsmouth,17
+CarLeavingRoundabout,2004440KK0581,2004,Portsmouth,13
+CarLeavingRoundabout,2004440KK0709,2004,Portsmouth,26
+CarLeavingRoundabout,2004440KK1381,2004,Portsmouth,42
+CarLeavingRoundabout,2004440KK2047,2004,Portsmouth,32
+CarLeavingRoundabout,2004440KK2369,2004,Portsmouth,39
+CarLeavingRoundabout,2004440OC1287,2004,Hampshire,38
+CarLeavingRoundabout,2004440OL0789,2004,Hampshire,32
+CarLeavingRoundabout,200445GU55986,2004,Surrey,47
+CarLeavingRoundabout,200445RU50983,2004,Surrey,25
+CarLeavingRoundabout,200445SU54605,2004,Surrey,28
+CarLeavingRoundabout,200445WO51244,2004,Surrey,55
+CarLeavingRoundabout,200445WO62376,2004,Surrey,40
+CarLeavingRoundabout,200446NK93809,2004,Kent,14
+CarLeavingRoundabout,200446WK04099,2004,Kent,88
+CarLeavingRoundabout,200446WL98028,2004,Kent,31
+CarLeavingRoundabout,200447K170732,2004,West Sussex,37
+CarLeavingRoundabout,200447K172956,2004,West Sussex,12
+CarLeavingRoundabout,200447K181078,2004,West Sussex,13
+CarLeavingRoundabout,200447K181777,2004,West Sussex,32
+CarLeavingRoundabout,200447K182347,2004,West Sussex,60
+CarLeavingRoundabout,200450A33H699,2004,Cornwall and Isles of Scilly,36
+CarLeavingRoundabout,2.00452E+12,2004,North Somerset,27
+CarLeavingRoundabout,2.00452E+12,2004,South Gloucestershire,29
+CarLeavingRoundabout,2.00452E+12,2004,Bath and North East Somerset,45
+CarLeavingRoundabout,2.00452E+12,2004,Somerset,19
+CarLeavingRoundabout,2.00452E+12,2004,North Somerset,56
+CarLeavingRoundabout,2.00452E+12,2004,City of Bristol,37
+CarLeavingRoundabout,2004530AI0793,2004,Gloucestershire,37
+CarLeavingRoundabout,2004530AI4717,2004,Gloucestershire,17
+CarLeavingRoundabout,2004530AI4718,2004,Gloucestershire,54
+CarLeavingRoundabout,2004530AI4863,2004,Gloucestershire,11
+CarLeavingRoundabout,200454DE18604,2004,Swindon,
+CarLeavingRoundabout,2004550B02047,2004,Bournemouth,36
+CarLeavingRoundabout,2004550P01316,2004,Poole,22
+CarLeavingRoundabout,2004554E02497,2004,Dorset,12
+CarLeavingRoundabout,2004554E02591,2004,Dorset,32
+CarLeavingRoundabout,200501KD50059,2005,London,51
+CarLeavingRoundabout,200501LX51213,2005,London,24
+CarLeavingRoundabout,200501MM70549,2005,London,33
+CarLeavingRoundabout,200501MM70956,2005,London,32
+CarLeavingRoundabout,200506M041456,2005,Trafford,20
+CarLeavingRoundabout,200511AK22850,2005,Durham,40
+CarLeavingRoundabout,2005170H12085,2005,Hartlepool,64
+CarLeavingRoundabout,2.00522E+12,2005,Staffordshire,39
+CarLeavingRoundabout,200522FA44392,2005,Shropshire,12
+CarLeavingRoundabout,20053102C2025,2005,Nottingham,35
+CarLeavingRoundabout,2.00533E+12,2005,Leicestershire,28
+CarLeavingRoundabout,2.00535E+12,2005,Cambridgeshire,26
+CarLeavingRoundabout,2.00535E+12,2005,Cambridgeshire,29
+CarLeavingRoundabout,2.00535E+12,2005,Cambridgeshire,22
+CarLeavingRoundabout,2.00535E+12,2005,Peterborough,26
+CarLeavingRoundabout,2.00536E+12,2005,Norfolk,25
+CarLeavingRoundabout,2.00536E+12,2005,Norfolk,19
+CarLeavingRoundabout,200537G017277,2005,Suffolk,35
+CarLeavingRoundabout,2.00544E+12,2005,Hampshire,43
+CarLeavingRoundabout,2005445KK0244,2005,Portsmouth,49
+CarLeavingRoundabout,200545EL66889,2005,Surrey,16
+CarLeavingRoundabout,2.00546E+12,2005,Kent,33
+CarLeavingRoundabout,2.00546E+12,2005,Kent,31
+CarLeavingRoundabout,2.00547E+12,2005,East Sussex,55
+CarLeavingRoundabout,200550F51C178,2005,Devon,36
+CarLeavingRoundabout,2.00552E+12,2005,South Gloucestershire,41
+CarLeavingRoundabout,2.00552E+12,2005,South Gloucestershire,44
+CarLeavingRoundabout,2.00553E+12,2005,Gloucestershire,27
+CarLeavingRoundabout,2005555B03593,2005,Bournemouth,26
+CarLeavingRoundabout,2005555B03868,2005,Bournemouth,46
+CarLeavingRoundabout,2005555P00821,2005,Poole,16
+CarLeavingRoundabout,200601WW50296,2006,London,23
+CarLeavingRoundabout,200605EE08962,2006,Merseyside,23
+CarLeavingRoundabout,200606M061345,2006,Trafford,43
+CarLeavingRoundabout,2.00607E+12,2006,Warrington,19
+CarLeavingRoundabout,2.0061E+12,2006,Gateshead,38
+CarLeavingRoundabout,2.0061E+12,2006,Newcastle upon Tyne,15
+CarLeavingRoundabout,2.0061E+12,2006,Newcastle upon Tyne,41
+CarLeavingRoundabout,200611BD17950,2006,Durham,21
+CarLeavingRoundabout,200611BE11650,2006,Durham,24
+CarLeavingRoundabout,2.00613E+12,2006,Leeds,64
+CarLeavingRoundabout,2.00613E+12,2006,Bradford,13
+CarLeavingRoundabout,2006160D05520,2006,Kingston Upon Hull,45
+CarLeavingRoundabout,200620D089902,2006,Birmingham,17
+CarLeavingRoundabout,200620E082001,2006,Birmingham,3
+CarLeavingRoundabout,200620G051801,2006,Wolverhampton,28
+CarLeavingRoundabout,200620K042401,2006,Sandwell,48
+CarLeavingRoundabout,200620M014103,2006,Coventry,21
+CarLeavingRoundabout,200620M040202,2006,Coventry,25
+CarLeavingRoundabout,2.00622E+12,2006,Staffordshire,30
+CarLeavingRoundabout,2.00622E+12,2006,Staffordshire,24
+CarLeavingRoundabout,2.00622E+12,2006,Staffordshire,35
+CarLeavingRoundabout,200622EA37793,2006,Herefordshire,64
+CarLeavingRoundabout,2.00623E+12,2006,Warwickshire,13
+CarLeavingRoundabout,20063102B2474,2006,Nottinghamshire,33
+CarLeavingRoundabout,20063102C0258,2006,Nottingham,23
+CarLeavingRoundabout,2.00635E+12,2006,Cambridgeshire,34
+CarLeavingRoundabout,2.00635E+12,2006,Cambridgeshire,15
+CarLeavingRoundabout,2.00635E+12,2006,Cambridgeshire,22
+CarLeavingRoundabout,2.00635E+12,2006,Cambridgeshire,25
+CarLeavingRoundabout,2.00636E+12,2006,Norfolk,28
+CarLeavingRoundabout,200637G020507,2006,Suffolk,43
+CarLeavingRoundabout,200637G021205,2006,Suffolk,18
+CarLeavingRoundabout,200637L012461,2006,Suffolk,51
+CarLeavingRoundabout,200637L013510,2006,Suffolk,44
+CarLeavingRoundabout,200642I272207,2006,Thurrock,44
+CarLeavingRoundabout,200642I282807,2006,Essex,21
+CarLeavingRoundabout,200643P257106,2006,Oxfordshire,48
+CarLeavingRoundabout,200643P358126,2006,Oxfordshire,21
+CarLeavingRoundabout,200643R078046,2006,Slough,30
+CarLeavingRoundabout,200643R106106,2006,Bracknell Forest,55
+CarLeavingRoundabout,200643R246046,2006,Windsor and Maidenhead,22
+CarLeavingRoundabout,200643S118076,2006,Milton Keynes,8
+CarLeavingRoundabout,200643S136116,2006,Milton Keynes,15
+CarLeavingRoundabout,2.00644E+12,2006,Hampshire,25
+CarLeavingRoundabout,2.00644E+12,2006,Portsmouth,31
+CarLeavingRoundabout,2.00644E+12,2006,Hampshire,34
+CarLeavingRoundabout,2.00644E+12,2006,Portsmouth,13
+CarLeavingRoundabout,2.00644E+12,2006,Hampshire,36
+CarLeavingRoundabout,2.00647E+12,2006,West Sussex,23
+CarLeavingRoundabout,2.00647E+12,2006,East Sussex,24
+CarLeavingRoundabout,2.00652E+12,2006,City of Bristol,44
+CarLeavingRoundabout,2.00652E+12,2006,City of Bristol,31
+CarLeavingRoundabout,2.00652E+12,2006,North Somerset,35
+CarLeavingRoundabout,200701TX20427,2007,London,21
+CarLeavingRoundabout,200701XD80728,2007,London,47
+CarLeavingRoundabout,2.00703E+12,2007,Cumbria,35
+CarLeavingRoundabout,200706C082389,2007,Manchester,17
+CarLeavingRoundabout,200706G077679,2007,Tameside,24
+CarLeavingRoundabout,200706M074023,2007,Trafford,30
+CarLeavingRoundabout,2.00707E+12,2007,Cheshire West and Chester,14
+CarLeavingRoundabout,2.0071E+12,2007,Newcastle upon Tyne,33
+CarLeavingRoundabout,2.00712E+12,2007,North Yorkshire,47
+CarLeavingRoundabout,2007160A00940,2007,North East Lincolnshire,13
+CarLeavingRoundabout,2007160D02040,2007,Kingston Upon Hull,26
+CarLeavingRoundabout,200720F143102,2007,Birmingham,24
+CarLeavingRoundabout,200720M027602,2007,Coventry,38
+CarLeavingRoundabout,200722FA85446,2007,Shropshire,43
+CarLeavingRoundabout,200722FA87011,2007,Shropshire,14
+CarLeavingRoundabout,2.00723E+12,2007,Warwickshire,12
+CarLeavingRoundabout,2.00723E+12,2007,Warwickshire,58
+CarLeavingRoundabout,20073102B0492,2007,Nottinghamshire,28
+CarLeavingRoundabout,20073102B3355,2007,Nottinghamshire,15
+CarLeavingRoundabout,2.00733E+12,2007,Leicestershire,39
+CarLeavingRoundabout,2.00733E+12,2007,Leicestershire,36
+CarLeavingRoundabout,200734NC45327,2007,Northamptonshire,37
+CarLeavingRoundabout,2.00735E+12,2007,Cambridgeshire,60
+CarLeavingRoundabout,2.00735E+12,2007,Cambridgeshire,28
+CarLeavingRoundabout,2.00736E+12,2007,Norfolk,46
+CarLeavingRoundabout,2007400B02894,2007,Bedford Borough Council,26
+CarLeavingRoundabout,20074100B0440,2007,Hertfordshire,34
+CarLeavingRoundabout,200742I295507,2007,Essex,15
+CarLeavingRoundabout,200743P356057,2007,Oxfordshire,19
+CarLeavingRoundabout,200743R111047,2007,Slough,33
+CarLeavingRoundabout,200743S119027,2007,Milton Keynes,35
+CarLeavingRoundabout,2.00744E+12,2007,Southampton ,39
+CarLeavingRoundabout,200745SU07259,2007,Surrey,30
+CarLeavingRoundabout,2.00747E+12,2007,East Sussex,20
+CarLeavingRoundabout,2.00747E+12,2007,East Sussex,42
+CarLeavingRoundabout,200750A31I044,2007,Cornwall and Isles of Scilly,48
+CarLeavingRoundabout,200750A51I323,2007,Cornwall and Isles of Scilly,
+CarLeavingRoundabout,2.00752E+12,2007,South Gloucestershire,21
+CarLeavingRoundabout,2.00752E+12,2007,City of Bristol,47
+CarLeavingRoundabout,2.00752E+12,2007,City of Bristol,27
+CarLeavingRoundabout,200754DC21607,2007,Swindon,38
+CarLeavingRoundabout,200754DE56507,2007,Swindon,36
+CarLeavingRoundabout,2007557B05705,2007,Bournemouth,23
+CarLeavingRoundabout,2007557B05814,2007,Bournemouth,26
+CarLeavingRoundabout,2007557P04380,2007,Poole,27
+CarLeavingRoundabout,2007557W04837,2007,Dorset,54
+CarLeavingRoundabout,200801HT75872,2008,London,56
+CarLeavingRoundabout,200801MM71181,2008,London,31
+CarLeavingRoundabout,200801RG40657,2008,London,33
+CarLeavingRoundabout,200801TW60410,2008,London,35
+CarLeavingRoundabout,200801TX20418,2008,London,12
+CarLeavingRoundabout,200801WW50664,2008,London,39
+CarLeavingRoundabout,200801XH30214,2008,London,21
+CarLeavingRoundabout,200804BB08032,2008,Lancashire,56
+CarLeavingRoundabout,200804CM08182,2008,Lancashire,11
+CarLeavingRoundabout,200806K088599,2008,Bolton,50
+CarLeavingRoundabout,200806P097499,2008,Rochdale,38
+CarLeavingRoundabout,2.00807E+12,2008,Cheshire East,16
+CarLeavingRoundabout,2.00807E+12,2008,Halton,38
+CarLeavingRoundabout,2.0081E+12,2008,South Tyneside,40
+CarLeavingRoundabout,2008170L30888,2008,Redcar and Cleveland,39
+CarLeavingRoundabout,200820F022203,2008,Birmingham,15
+CarLeavingRoundabout,2.00822E+12,2008,Staffordshire,45
+CarLeavingRoundabout,2.00822E+12,2008,Staffordshire,13
+CarLeavingRoundabout,2.00822E+12,2008,Stoke on Trent,16
+CarLeavingRoundabout,2.00822E+12,2008,Staffordshire,36
+CarLeavingRoundabout,2.00823E+12,2008,Warwickshire,11
+CarLeavingRoundabout,200830D000879,2008,Derbyshire,30
+CarLeavingRoundabout,200830D000885,2008,Derbyshire,18
+CarLeavingRoundabout,20083102C0740,2008,Nottingham,14
+CarLeavingRoundabout,20083102C1529,2008,Nottingham,46
+CarLeavingRoundabout,2.00833E+12,2008,Leicestershire,21
+CarLeavingRoundabout,2.00833E+12,2008,Leicestershire,25
+CarLeavingRoundabout,200834NC02518,2008,Northamptonshire,23
+CarLeavingRoundabout,2.00835E+12,2008,Cambridgeshire,
+CarLeavingRoundabout,2.00836E+12,2008,Norfolk,29
+CarLeavingRoundabout,2008400B03434,2008,Bedford Borough Council,20
+CarLeavingRoundabout,20084100F5072,2008,Hertfordshire,31
+CarLeavingRoundabout,200842I350310,2008,Thurrock,14
+CarLeavingRoundabout,200843W061098,2008,West Berkshire,17
+CarLeavingRoundabout,200843W090058,2008,Wokingham,33
+CarLeavingRoundabout,200843W196108,2008,West Berkshire,13
+CarLeavingRoundabout,2.00844E+12,2008,Portsmouth,70
+CarLeavingRoundabout,2.00844E+12,2008,Hampshire,35
+CarLeavingRoundabout,2.00847E+12,2008,West Sussex,43
+CarLeavingRoundabout,200850DE2J036,2008,Devon,28
+CarLeavingRoundabout,200850JI2G001,2008,Devon,54
+CarLeavingRoundabout,200854DC44808,2008,Swindon,37
+CarLeavingRoundabout,2008558E01297,2008,Dorset,46
+CarLeavingRoundabout,200901CP00060,2009,London,21
+CarLeavingRoundabout,200901RY10252,2009,London,24
+CarLeavingRoundabout,200901ZD30385,2009,London,36
+CarLeavingRoundabout,200904DR09065,2009,Lancashire,40
+CarLeavingRoundabout,200905BB32625,2009,Merseyside,43
+CarLeavingRoundabout,200905DD32987,2009,Merseyside,50
+CarLeavingRoundabout,200905FF33397,2009,Merseyside,64
+CarLeavingRoundabout,200906J019409,2009,Stockport,36
+CarLeavingRoundabout,200906J025036,2009,Stockport,50
+CarLeavingRoundabout,2.00907E+12,2009,Warrington,25
+CarLeavingRoundabout,2.00907E+12,2009,Cheshire West and Chester,30
+CarLeavingRoundabout,2.0091E+12,2009,Northumberland,47
+CarLeavingRoundabout,2.0091E+12,2009,Newcastle upon Tyne,23
+CarLeavingRoundabout,2.0091E+12,2009,North Tyneside,63
+CarLeavingRoundabout,2.00912E+12,2009,North Yorkshire,58
+CarLeavingRoundabout,2.00912E+12,2009,York,61
+CarLeavingRoundabout,2.00913E+12,2009,Kirklees,14
+CarLeavingRoundabout,2009170H11029,2009,Hartlepool,12
+CarLeavingRoundabout,200920J098201,2009,Dudley,45
+CarLeavingRoundabout,200930D000374,2009,Derbyshire,29
+CarLeavingRoundabout,20093102C1394,2009,Nottingham,45
+CarLeavingRoundabout,20093102C2037,2009,Nottingham,33
+CarLeavingRoundabout,2.00933E+12,2009,Leicestershire,43
+CarLeavingRoundabout,2.00933E+12,2009,Leicestershire,68
+CarLeavingRoundabout,2.00935E+12,2009,Cambridgeshire,20
+CarLeavingRoundabout,2.00935E+12,2009,Cambridgeshire,39
+CarLeavingRoundabout,2.00936E+12,2009,Norfolk,34
+CarLeavingRoundabout,2.00936E+12,2009,Norfolk,79
+CarLeavingRoundabout,200936T090128,2009,Norfolk,43
+CarLeavingRoundabout,200937G027384,2009,Suffolk,12
+CarLeavingRoundabout,2009400D01482,2009,Central Bedfordshire,50
+CarLeavingRoundabout,20094100D0846,2009,Hertfordshire,25
+CarLeavingRoundabout,200943W182019,2009,West Berkshire,30
+CarLeavingRoundabout,2.00947E+12,2009,East Sussex,31
+CarLeavingRoundabout,2.00947E+12,2009,West Sussex,57
+CarLeavingRoundabout,2.00947E+12,2009,West Sussex,21
+CarLeavingRoundabout,200950GN2B004,2009,Cornwall and Isles of Scilly,40
+CarLeavingRoundabout,2.00952E+12,2009,City of Bristol,29
+CarLeavingRoundabout,2.00952E+12,2009,South Gloucestershire,57
+CarLeavingRoundabout,2.00952E+12,2009,South Gloucestershire,35
+CarLeavingRoundabout,2.00952E+12,2009,North Somerset,23
+CarLeavingRoundabout,2.00952E+12,2009,Somerset,11
+CarLeavingRoundabout,201001MM70015,2010,London,31
+CarLeavingRoundabout,201001PY20273,2010,London,27
+CarLeavingRoundabout,201005BB03179,2010,Merseyside,40
+CarLeavingRoundabout,201005EE04554,2010,Merseyside,40
+CarLeavingRoundabout,201006A032551,2010,Manchester,23
+CarLeavingRoundabout,201006F027959,2010,Salford,42
+CarLeavingRoundabout,2.01007E+12,2010,Cheshire East,44
+CarLeavingRoundabout,2.01013E+12,2010,Wakefield,24
+CarLeavingRoundabout,201014A163410,2010,Doncaster,15
+CarLeavingRoundabout,2010160B01491,2010,North Lincolnshire,45
+CarLeavingRoundabout,2010160D02571,2010,Kingston Upon Hull,42
+CarLeavingRoundabout,2010160D03361,2010,Kingston Upon Hull,29
+CarLeavingRoundabout,2010170M11500,2010,Middlesbrough,14
+CarLeavingRoundabout,2010170S11420,2010,Stockton on Tees,34
+CarLeavingRoundabout,2010170S31010,2010,Stockton on Tees,18
+CarLeavingRoundabout,201020G009040,2010,Wolverhampton,13
+CarLeavingRoundabout,2.01021E+12,2010,Staffordshire,35
+CarLeavingRoundabout,2.01021E+12,2010,Staffordshire,74
+CarLeavingRoundabout,201022D003467,2010,Worcestershire,42
+CarLeavingRoundabout,201030C000256,2010,Derbyshire,
+CarLeavingRoundabout,201030D000185,2010,Derby,40
+CarLeavingRoundabout,201030D000426,2010,Derby,20
+CarLeavingRoundabout,201034NC22280,2010,Northamptonshire,11
+CarLeavingRoundabout,2.01035E+12,2010,Peterborough,46
+CarLeavingRoundabout,2.01035E+12,2010,Cambridgeshire,45
+CarLeavingRoundabout,2.01035E+12,2010,Cambridgeshire,43
+CarLeavingRoundabout,2.01035E+12,2010,Cambridgeshire,21
+CarLeavingRoundabout,2.01036E+12,2010,Norfolk,18
+CarLeavingRoundabout,201042I191406,2010,Essex,42
+CarLeavingRoundabout,201042I378911,2010,Southend on Sea,62
+CarLeavingRoundabout,201043N163040,2010,Buckinghamshire,17
+CarLeavingRoundabout,201043P204050,2010,Oxfordshire,44
+CarLeavingRoundabout,201043P342060,2010,Oxfordshire,29
+CarLeavingRoundabout,201043R054070,2010,Windsor and Maidenhead,43
+CarLeavingRoundabout,201043W069080,2010,Reading,46
+CarLeavingRoundabout,2.01044E+12,2010,Hampshire,43
+CarLeavingRoundabout,2.01044E+12,2010,Hampshire,15
+CarLeavingRoundabout,201045GU49432,2010,Surrey,28
+CarLeavingRoundabout,201045RU50513,2010,Surrey,17
+CarLeavingRoundabout,2.01046E+12,2010,Kent,37
+CarLeavingRoundabout,2.01046E+12,2010,Kent,51
+CarLeavingRoundabout,2.01046E+12,2010,Kent,29
+CarLeavingRoundabout,2.01047E+12,2010,West Sussex,30
+CarLeavingRoundabout,2.01047E+12,2010,West Sussex,14
+CarLeavingRoundabout,2.01047E+12,2010,West Sussex,47
+CarLeavingRoundabout,201050CB2D011,2010,Devon,18
+CarLeavingRoundabout,201050GP2D019,2010,Cornwall and Isles of Scilly,45
+CarLeavingRoundabout,2.01052E+12,2010,Somerset,28
+CarLeavingRoundabout,2.01052E+12,2010,South Gloucestershire,38
+CarLeavingRoundabout,2.01052E+12,2010,City of Bristol,25
+CarLeavingRoundabout,2.01053E+12,2010,Gloucestershire,15
+CarLeavingRoundabout,201054EG10110,2010,Wiltshire,16
+CarLeavingRoundabout,20105500D1256,2010,Dorset,17
+CarLeavingRoundabout,2010550C49747,2010,Bournemouth,42
+CarLeavingRoundabout,2010550D16436,2010,Dorset,46
+CarLeavingRoundabout,2010550D19701,2010,Dorset,45
+CarLeavingRoundabout,2011201104AN11080,2011,Blackpool,52
+CarLeavingRoundabout,2011201104EN11077,2011,Lancashire,53
+CarLeavingRoundabout,2011201105BB03959,2011,Merseyside,29
+CarLeavingRoundabout,2011201105BB06217,2011,Merseyside,34
+CarLeavingRoundabout,2.0112E+16,2011,Warrington,45
+CarLeavingRoundabout,2.0112E+16,2011,Warrington,23
+CarLeavingRoundabout,2.0112E+16,2011,Calderdale,48
+CarLeavingRoundabout,2011201114A091611,2011,Doncaster,39
+CarLeavingRoundabout,20112011160D01821,2011,Kingston Upon Hull,41
+CarLeavingRoundabout,20112011160D05581,2011,Kingston Upon Hull,39
+CarLeavingRoundabout,20112011170M12931,2011,Middlesbrough,16
+CarLeavingRoundabout,2011201120H003801,2011,Walsall,50
+CarLeavingRoundabout,2011201120S028161,2011,Birmingham,25
+CarLeavingRoundabout,2011201120W031371,2011,Birmingham,60
+CarLeavingRoundabout,2011201120W065121,2011,Birmingham,30
+CarLeavingRoundabout,2.0112E+16,2011,Staffordshire,35
+CarLeavingRoundabout,2.0112E+16,2011,Staffordshire,57
+CarLeavingRoundabout,2.0112E+16,2011,Stoke on Trent,19
+CarLeavingRoundabout,2011201122D104672,2011,Worcestershire,37
+CarLeavingRoundabout,2.0112E+16,2011,Warwickshire,49
+CarLeavingRoundabout,2011201130B000162,2011,Derbyshire,56
+CarLeavingRoundabout,2011201130C000506,2011,Derbyshire,26
+CarLeavingRoundabout,2011201131B158511,2011,Nottinghamshire,24
+CarLeavingRoundabout,2011201131D131011,2011,Nottinghamshire,33
+CarLeavingRoundabout,2.0112E+16,2011,Leicestershire,48
+CarLeavingRoundabout,2.0112E+16,2011,Leicestershire,58
+CarLeavingRoundabout,2.0112E+16,2011,Cambridgeshire,17
+CarLeavingRoundabout,2.0112E+16,2011,Norfolk,16
+CarLeavingRoundabout,2.0112E+16,2011,Norfolk,33
+CarLeavingRoundabout,2.0112E+16,2011,Norfolk,42
+CarLeavingRoundabout,2.0112E+16,2011,Norfolk,32
+CarLeavingRoundabout,201120114100F0366,2011,Hertfordshire,40
+CarLeavingRoundabout,2011201143P154041,2011,Oxfordshire,14
+CarLeavingRoundabout,2.0112E+16,2011,West Sussex,43
+CarLeavingRoundabout,2.0112E+16,2011,City of Bristol,48
+CarLeavingRoundabout,2.0112E+16,2011,City of Bristol,40
+CarLeavingRoundabout,2.0112E+16,2011,Gloucestershire,18
+CarLeavingRoundabout,2.0112E+16,2011,Swindon,47
+CarLeavingRoundabout,2.0112E+16,2011,Wiltshire,44
+CarLeavingRoundabout,20112011551C29723,2011,Bournemouth,56
+CarLeavingRoundabout,2012201201QA10004,2012,London,46
+CarLeavingRoundabout,2012201201SX20765,2012,London,48
+CarLeavingRoundabout,2012201204CA12176,2012,Lancashire,16
+CarLeavingRoundabout,2012201204DA12100,2012,Lancashire,45
+CarLeavingRoundabout,2012201205CC02669,2012,Merseyside,22
+CarLeavingRoundabout,2012201205CC05905,2012,Merseyside,26
+CarLeavingRoundabout,2012201205EE01972,2012,Merseyside,31
+CarLeavingRoundabout,2012201206F056670,2012,Salford,51
+CarLeavingRoundabout,2012201206J067186,2012,Stockport,42
+CarLeavingRoundabout,2012201206M061188,2012,Trafford,40
+CarLeavingRoundabout,2.0122E+16,2012,Cheshire East,41
+CarLeavingRoundabout,2.0122E+16,2012,Cheshire East,46
+CarLeavingRoundabout,2.0122E+16,2012,Newcastle upon Tyne,38
+CarLeavingRoundabout,2.0122E+16,2012,North Tyneside,28
+CarLeavingRoundabout,2.0122E+16,2012,North Yorkshire,38
+CarLeavingRoundabout,2.0122E+16,2012,York,14
+CarLeavingRoundabout,2.0122E+16,2012,York,33
+CarLeavingRoundabout,20122012160D01791,2012,Kingston Upon Hull,20
+CarLeavingRoundabout,20122012160D02351,2012,Kingston Upon Hull,45
+CarLeavingRoundabout,20122012160D05901,2012,Kingston Upon Hull,14
+CarLeavingRoundabout,20122012160D06791,2012,Kingston Upon Hull,18
+CarLeavingRoundabout,2012201220J011842,2012,Dudley,14
+CarLeavingRoundabout,2012201220K007572,2012,Sandwell,16
+CarLeavingRoundabout,2012201220W003062,2012,Birmingham,54
+CarLeavingRoundabout,2.0122E+16,2012,Staffordshire,26
+CarLeavingRoundabout,2.0122E+16,2012,Staffordshire,36
+CarLeavingRoundabout,2.0122E+16,2012,Staffordshire,-1
+CarLeavingRoundabout,2012201230D000584,2012,Derby,5
+CarLeavingRoundabout,2012201230D001791,2012,Derby,33
+CarLeavingRoundabout,2012201230D002170,2012,Derbyshire,39
+CarLeavingRoundabout,2012201231C267712,2012,Nottingham,26
+CarLeavingRoundabout,2012201232L193012,2012,Lincolnshire,58
+CarLeavingRoundabout,2012201232N364312,2012,Lincolnshire,54
+CarLeavingRoundabout,2.0122E+16,2012,Norfolk,18
+CarLeavingRoundabout,2.0122E+16,2012,Norfolk,23
+CarLeavingRoundabout,2.0122E+16,2012,Norfolk,19
+CarLeavingRoundabout,2.0122E+16,2012,Suffolk,30
+CarLeavingRoundabout,20122012400BA0806,2012,Bedford Borough Council,17
+CarLeavingRoundabout,201220124100B0117,2012,Hertfordshire,37
+CarLeavingRoundabout,2012201242I120604,2012,Southend on Sea,28
+CarLeavingRoundabout,2012201242I232607,2012,Essex,44
+CarLeavingRoundabout,2012201242I280808,2012,Thurrock,49
+CarLeavingRoundabout,2012201243N257072,2012,Buckinghamshire,38
+CarLeavingRoundabout,2012201243P003122,2012,Oxfordshire,48
+CarLeavingRoundabout,2012201243P093022,2012,Oxfordshire,13
+CarLeavingRoundabout,2012201243P109072,2012,Oxfordshire,38
+CarLeavingRoundabout,2012201243P228032,2012,Oxfordshire,39
+CarLeavingRoundabout,2012201243S029102,2012,Milton Keynes,16
+CarLeavingRoundabout,2012201243W131122,2012,West Berkshire,59
+CarLeavingRoundabout,2.0122E+16,2012,Hampshire,60
+CarLeavingRoundabout,2.0122E+16,2012,West Sussex,20
+CarLeavingRoundabout,2012201250BS2G015,2012,Cornwall and Isles of Scilly,67
+CarLeavingRoundabout,2.0122E+16,2012,Bath and North East Somerset,22
+CarLeavingRoundabout,2.0122E+16,2012,Swindon,20
+CarLeavingRoundabout,20122012552C05196,2012,Bournemouth,47
+CarLeavingRoundabout,20122012552C49060,2012,Poole,26
+CarLeavingRoundabout,20122012552C53163,2012,Bournemouth,59

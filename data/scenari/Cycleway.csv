@@ -1,0 +1,110 @@
+Scenario,urn,accyr,LAName,Age
+Cycleway,1.99935E+12,1999,Cambridgeshire,25
+Cycleway,199943S205059,1999,Milton Keynes,13
+Cycleway,199947H002535,1999,West Sussex,
+Cycleway,2.00105E+12,2001,Merseyside,36
+Cycleway,200114JJ01474,2001,Sheffield,32
+Cycleway,200116B050201,2001,North Lincolnshire,23
+Cycleway,200120M152202,2001,Coventry,20
+Cycleway,20013104D0787,2001,Nottingham,5
+Cycleway,2.00133E+12,2001,Leicestershire,22
+Cycleway,200143P162091,2001,Oxfordshire,36
+Cycleway,200147C142353,2001,Brighton and Hove,31
+Cycleway,200147T137979,2001,East Sussex,50
+Cycleway,200150D416962,2001,Devon,52
+Cycleway,2001550B06164,2001,Bournemouth,24
+Cycleway,2.00203E+12,2002,Cumbria,40
+Cycleway,200216D030402,2002,Kingston Upon Hull,18
+Cycleway,200232B095802,2002,Lincolnshire,15
+Cycleway,200237G010454,2002,Suffolk,27
+Cycleway,20024100B0573,2002,Hertfordshire,14
+Cycleway,200243P015072,2002,Oxfordshire,10
+Cycleway,2002440LH0040,2002,Hampshire,12
+Cycleway,200246WL51621,2002,Kent,7
+Cycleway,200247K153313,2002,Brighton and Hove,
+Cycleway,2002530AI2417,2002,Gloucestershire,10
+Cycleway,200254DW30302,2002,Swindon,74
+Cycleway,2.00303E+12,2003,Cumbria,18
+Cycleway,200314FF01003,2003,Rotherham,37
+Cycleway,2.00333E+12,2003,Leicestershire,18
+Cycleway,2.00335E+12,2003,Cambridgeshire,
+Cycleway,20034200A0432,2003,Essex,10
+Cycleway,200343P089073,2003,Oxfordshire,28
+Cycleway,200343W284093,2003,Wokingham,14
+Cycleway,200347K162193,2003,Brighton and Hove,43
+Cycleway,2.00435E+12,2004,Cambridgeshire,32
+Cycleway,20044100C1359,2004,Hertfordshire,41
+Cycleway,20044200C0559,2004,Essex,14
+Cycleway,2004440SP0547,2004,Southampton ,57
+Cycleway,2004530AI3438,2004,Gloucestershire,11
+Cycleway,200501ZT80425,2005,London,12
+Cycleway,200504CK05006,2005,Lancashire,62
+Cycleway,2.00512E+12,2005,York,25
+Cycleway,200534NN01220,2005,Northamptonshire,29
+Cycleway,2.00535E+12,2005,Peterborough,20
+Cycleway,200542F052411,2005,Thurrock,21
+Cycleway,200542G044306,2005,Essex,7
+Cycleway,200543P279055,2005,Oxfordshire,11
+Cycleway,200550E21E135,2005,Plymouth,44
+Cycleway,200605CC09589,2006,Merseyside,34
+Cycleway,2.00644E+12,2006,Hampshire,32
+Cycleway,200645MO86222,2006,Surrey,10
+Cycleway,2.00647E+12,2006,East Sussex,63
+Cycleway,2.00647E+12,2006,East Sussex,11
+Cycleway,2.00652E+12,2006,Somerset,9
+Cycleway,2.00652E+12,2006,Somerset,16
+Cycleway,2.00653E+12,2006,Gloucestershire,18
+Cycleway,200701XD68725,2007,London,44
+Cycleway,200704EL07123,2007,Lancashire,14
+Cycleway,2007400C02815,2007,Luton,47
+Cycleway,20074100C0907,2007,Hertfordshire,45
+Cycleway,20074100D0494,2007,Hertfordshire,21
+Cycleway,200743W091117,2007,Wokingham,11
+Cycleway,200743W100047,2007,Wokingham,37
+Cycleway,200754DN43707,2007,Swindon,13
+Cycleway,200801JC73179,2008,London,17
+Cycleway,200804BB08151,2008,Lancashire,11
+Cycleway,2.00807E+12,2008,Cheshire East,40
+Cycleway,2008160C04370,2008,East Riding of Yorkshire,13
+Cycleway,200843N030038,2008,Buckinghamshire,75
+Cycleway,200843N248128,2008,Buckinghamshire,59
+Cycleway,200843P280028,2008,Oxfordshire,12
+Cycleway,200843S003098,2008,Milton Keynes,17
+Cycleway,200843S099098,2008,Milton Keynes,68
+Cycleway,200843S156068,2008,Milton Keynes,28
+Cycleway,2.00844E+12,2008,Hampshire,11
+Cycleway,200845SU28263,2008,Surrey,15
+Cycleway,2.00846E+12,2008,Kent,52
+Cycleway,2.00852E+12,2008,City of Bristol,26
+Cycleway,200943P082099,2009,Oxfordshire,9
+Cycleway,200943P132029,2009,Oxfordshire,20
+Cycleway,200943S045089,2009,Milton Keynes,62
+Cycleway,200943S121079,2009,Milton Keynes,42
+Cycleway,2.00947E+12,2009,Brighton and Hove,27
+Cycleway,2.00947E+12,2009,West Sussex,25
+Cycleway,201001KG70089,2010,London,20
+Cycleway,201004BC10233,2010,Lancashire,15
+Cycleway,2.01007E+12,2010,Cheshire West and Chester,21
+Cycleway,2.01007E+12,2010,Cheshire East,41
+Cycleway,2.01021E+12,2010,Staffordshire,19
+Cycleway,201034NC52520,2010,Northamptonshire,29
+Cycleway,2.01035E+12,2010,Cambridgeshire,28
+Cycleway,201043N077060,2010,Buckinghamshire,12
+Cycleway,201043S058110,2010,Milton Keynes,5
+Cycleway,201043S111060,2010,Milton Keynes,23
+Cycleway,2.01047E+12,2010,West Sussex,53
+Cycleway,2.01047E+12,2010,West Sussex,30
+Cycleway,2.0112E+16,2011,Cambridgeshire,47
+Cycleway,2011201143S105061,2011,Milton Keynes,16
+Cycleway,2011201143W243061,2011,Reading,18
+Cycleway,2.0112E+16,2011,Hampshire,35
+Cycleway,2.0112E+16,2011,Kent,-1
+Cycleway,2.0112E+16,2011,Bath and North East Somerset,23
+Cycleway,2012201214C049812,2012,Rotherham,57
+Cycleway,2012201230D000704,2012,Derby,44
+Cycleway,2.0122E+16,2012,Suffolk,15
+Cycleway,2.0122E+16,2012,Suffolk,10
+Cycleway,2012201242I218007,2012,Essex,13
+Cycleway,2012201242I376711,2012,Essex,53
+Cycleway,2012201250DE2M009,2012,Devon,66
+Cycleway,2012201250JC2B006,2012,Devon,17

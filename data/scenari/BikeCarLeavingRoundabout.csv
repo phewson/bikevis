@@ -1,0 +1,753 @@
+Scenario,urn,accyr,LAName,Age
+BikeCarLeavingRoundabout,199901HT02149,1999,London,29
+BikeCarLeavingRoundabout,199901ID00074,1999,London,34
+BikeCarLeavingRoundabout,199901KO00429,1999,London,24
+BikeCarLeavingRoundabout,199901NI09071,1999,London,34
+BikeCarLeavingRoundabout,199901QD00396,1999,London,25
+BikeCarLeavingRoundabout,199901RY00246,1999,London,24
+BikeCarLeavingRoundabout,199901RY00602,1999,London,35
+BikeCarLeavingRoundabout,199901SA00439,1999,Hertfordshire,20
+BikeCarLeavingRoundabout,199901TX00869,1999,London,40
+BikeCarLeavingRoundabout,199901ZD00688,1999,London,37
+BikeCarLeavingRoundabout,1.99903E+12,1999,Cumbria,37
+BikeCarLeavingRoundabout,199904C001399,1999,Lancashire,17
+BikeCarLeavingRoundabout,199904C051299,1999,Lancashire,55
+BikeCarLeavingRoundabout,199904F057599,1999,Lancashire,41
+BikeCarLeavingRoundabout,1.99905E+12,1999,Merseyside,33
+BikeCarLeavingRoundabout,1.99905E+12,1999,Merseyside,22
+BikeCarLeavingRoundabout,199906F404899,1999,Salford,25
+BikeCarLeavingRoundabout,199906M004551,1999,Trafford,30
+BikeCarLeavingRoundabout,199906M339499,1999,Trafford,26
+BikeCarLeavingRoundabout,1999079A30657,1999,Cheshire West and Chester,19
+BikeCarLeavingRoundabout,1999079A41069,1999,Cheshire West and Chester,14
+BikeCarLeavingRoundabout,1999079B11209,1999,Halton,16
+BikeCarLeavingRoundabout,1999079B41078,1999,Halton,18
+BikeCarLeavingRoundabout,199910G203799,1999,Newcastle upon Tyne,25
+BikeCarLeavingRoundabout,199910H289199,1999,North Tyneside,13
+BikeCarLeavingRoundabout,199910M244499,1999,South Tyneside,11
+BikeCarLeavingRoundabout,1.99912E+12,1999,York,39
+BikeCarLeavingRoundabout,199913BB45799,1999,Leeds,19
+BikeCarLeavingRoundabout,199913GC29099,1999,Bradford,20
+BikeCarLeavingRoundabout,199914FF00184,1999,Rotherham,16
+BikeCarLeavingRoundabout,199916A047599,1999,North East Lincolnshire,28
+BikeCarLeavingRoundabout,199916F036499,1999,Kingston Upon Hull,
+BikeCarLeavingRoundabout,199920D257001,1999,Birmingham,13
+BikeCarLeavingRoundabout,199920E095401,1999,Birmingham,16
+BikeCarLeavingRoundabout,199920H045901,1999,Walsall,26
+BikeCarLeavingRoundabout,199920M069401,1999,Coventry,29
+BikeCarLeavingRoundabout,1.99922E+12,1999,Staffordshire,14
+BikeCarLeavingRoundabout,1.99922E+12,1999,Staffordshire,11
+BikeCarLeavingRoundabout,1.99922E+12,1999,Staffordshire,12
+BikeCarLeavingRoundabout,1.99922E+12,1999,Staffordshire,30
+BikeCarLeavingRoundabout,199922GK00861,1999,Shropshire,45
+BikeCarLeavingRoundabout,1.99924E+12,1999,Warwickshire,53
+BikeCarLeavingRoundabout,199930A000303,1999,Derbyshire,12
+BikeCarLeavingRoundabout,1999317B40205,1999,Nottingham,8
+BikeCarLeavingRoundabout,199936N991803,1999,Norfolk,
+BikeCarLeavingRoundabout,199937L003903,1999,Suffolk,12
+BikeCarLeavingRoundabout,199940B274799,1999,Bedford Borough Council,29
+BikeCarLeavingRoundabout,19994100A0517,1999,Hertfordshire,25
+BikeCarLeavingRoundabout,19994200A0580,1999,Essex,16
+BikeCarLeavingRoundabout,19994200B0173,1999,Essex,28
+BikeCarLeavingRoundabout,19994200G0457,1999,Essex,31
+BikeCarLeavingRoundabout,19994200J0419,1999,Essex,
+BikeCarLeavingRoundabout,199943N317029,1999,Buckinghamshire,49
+BikeCarLeavingRoundabout,199943R270109,1999,Slough,67
+BikeCarLeavingRoundabout,199943W034089,1999,Reading,36
+BikeCarLeavingRoundabout,1999440HF0240,1999,Hampshire,62
+BikeCarLeavingRoundabout,1999440HF0543,1999,Hampshire,28
+BikeCarLeavingRoundabout,1999440KS0274,1999,Portsmouth,35
+BikeCarLeavingRoundabout,1999440NA0658,1999,Hampshire,16
+BikeCarLeavingRoundabout,1999440RC0003,1999,Portsmouth,26
+BikeCarLeavingRoundabout,1999440RC0353,1999,Portsmouth,57
+BikeCarLeavingRoundabout,199945ER00197,1999,Surrey,12
+BikeCarLeavingRoundabout,199946CT00231,1999,Kent,73
+BikeCarLeavingRoundabout,199946CT05748,1999,Kent,51
+BikeCarLeavingRoundabout,199946SW09704,1999,Kent,13
+BikeCarLeavingRoundabout,199947N002792,1999,West Sussex,23
+BikeCarLeavingRoundabout,199947N002865,1999,West Sussex,13
+BikeCarLeavingRoundabout,199947N004007,1999,West Sussex,14
+BikeCarLeavingRoundabout,199947X003746,1999,West Sussex,23
+BikeCarLeavingRoundabout,199947Y002276,1999,West Sussex,19
+BikeCarLeavingRoundabout,199947Y002665,1999,West Sussex,63
+BikeCarLeavingRoundabout,199950E212265,1999,Plymouth,17
+BikeCarLeavingRoundabout,199950E411486,1999,Plymouth,17
+BikeCarLeavingRoundabout,1.99952E+12,1999,South Gloucestershire,40
+BikeCarLeavingRoundabout,1.99952E+12,1999,City of Bristol,43
+BikeCarLeavingRoundabout,1.99952E+12,1999,City of Bristol,28
+BikeCarLeavingRoundabout,1.99952E+12,1999,South Gloucestershire,28
+BikeCarLeavingRoundabout,1999550B00309,1999,Bournemouth,
+BikeCarLeavingRoundabout,1999550B03696,1999,Bournemouth,69
+BikeCarLeavingRoundabout,200001HT00404,2000,London,44
+BikeCarLeavingRoundabout,200001HT00558,2000,London,30
+BikeCarLeavingRoundabout,200001HT00566,2000,London,38
+BikeCarLeavingRoundabout,200001HT00572,2000,London,21
+BikeCarLeavingRoundabout,200001TG00049,2000,Surrey,45
+BikeCarLeavingRoundabout,200001TW00667,2000,London,34
+BikeCarLeavingRoundabout,200001ZD00260,2000,London,48
+BikeCarLeavingRoundabout,200001ZD01307,2000,London,41
+BikeCarLeavingRoundabout,200004A041900,2000,Blackpool,10
+BikeCarLeavingRoundabout,200004B074900,2000,Lancashire,29
+BikeCarLeavingRoundabout,2.00005E+12,2000,Merseyside,27
+BikeCarLeavingRoundabout,2.00007E+12,2000,Warrington,25
+BikeCarLeavingRoundabout,200011AK21130,2000,Durham,59
+BikeCarLeavingRoundabout,200011DJ00390,2000,Darlington,14
+BikeCarLeavingRoundabout,200011DJ32980,2000,Darlington,35
+BikeCarLeavingRoundabout,2.00012E+12,2000,York,54
+BikeCarLeavingRoundabout,2.00013E+12,2000,Bradford,45
+BikeCarLeavingRoundabout,200014AA00654,2000,Doncaster,36
+BikeCarLeavingRoundabout,200016C047700,2000,East Riding of Yorkshire,13
+BikeCarLeavingRoundabout,200016D045400,2000,Kingston Upon Hull,41
+BikeCarLeavingRoundabout,200016D102400,2000,Kingston Upon Hull,50
+BikeCarLeavingRoundabout,200020D358401,2000,Birmingham,22
+BikeCarLeavingRoundabout,200020K119401,2000,Sandwell,17
+BikeCarLeavingRoundabout,2.00021E+12,2000,Stoke on Trent,22
+BikeCarLeavingRoundabout,2.00021E+12,2000,Staffordshire,14
+BikeCarLeavingRoundabout,2.00021E+12,2000,Staffordshire,16
+BikeCarLeavingRoundabout,200030C000601,2000,Derbyshire,23
+BikeCarLeavingRoundabout,2000317E80885,2000,Nottinghamshire,38
+BikeCarLeavingRoundabout,200032B014740,2000,Lincolnshire,44
+BikeCarLeavingRoundabout,200032C009310,2000,Lincolnshire,18
+BikeCarLeavingRoundabout,2.00033E+12,2000,Leicestershire,69
+BikeCarLeavingRoundabout,2.00033E+12,2000,Leicestershire,11
+BikeCarLeavingRoundabout,200034NC00664,2000,Northamptonshire,13
+BikeCarLeavingRoundabout,2.00035E+12,2000,Peterborough,32
+BikeCarLeavingRoundabout,2.00035E+12,2000,Cambridgeshire,19
+BikeCarLeavingRoundabout,200037B009291,2000,Suffolk,22
+BikeCarLeavingRoundabout,200037G007162,2000,Suffolk,13
+BikeCarLeavingRoundabout,2000400B01766,2000,Bedford Borough Council,9
+BikeCarLeavingRoundabout,2000400D03189,2000,Central Bedfordshire,14
+BikeCarLeavingRoundabout,20004100B0731,2000,Hertfordshire,25
+BikeCarLeavingRoundabout,20004100D0539,2000,Hertfordshire,12
+BikeCarLeavingRoundabout,20004100G0218,2000,Hertfordshire,6
+BikeCarLeavingRoundabout,20004100K0306,2000,Hertfordshire,9
+BikeCarLeavingRoundabout,20004200B0533,2000,Essex,24
+BikeCarLeavingRoundabout,20004200B0589,2000,Essex,11
+BikeCarLeavingRoundabout,20004200B0670,2000,Essex,17
+BikeCarLeavingRoundabout,20004200D0401,2000,Essex,60
+BikeCarLeavingRoundabout,200043S085050,2000,Milton Keynes,15
+BikeCarLeavingRoundabout,200043W033030,2000,Wokingham,29
+BikeCarLeavingRoundabout,200043W138050,2000,Windsor and Maidenhead,55
+BikeCarLeavingRoundabout,200043W382010,2000,Wokingham,29
+BikeCarLeavingRoundabout,200043W509100,2000,Slough,16
+BikeCarLeavingRoundabout,2000440AA0767,2000,Hampshire,43
+BikeCarLeavingRoundabout,2000440GG0313,2000,Hampshire,13
+BikeCarLeavingRoundabout,2000440KS0617,2000,Portsmouth,5
+BikeCarLeavingRoundabout,2000440KS0676,2000,Portsmouth,17
+BikeCarLeavingRoundabout,2000440LN0119,2000,Hampshire,7
+BikeCarLeavingRoundabout,2000440RF0753,2000,Portsmouth,17
+BikeCarLeavingRoundabout,2000440RF0972,2000,Portsmouth,63
+BikeCarLeavingRoundabout,200045ED00266,2000,Surrey,29
+BikeCarLeavingRoundabout,200046CT27860,2000,Kent,21
+BikeCarLeavingRoundabout,200046ME00553,2000,Medway,58
+BikeCarLeavingRoundabout,200047H003929,2000,West Sussex,28
+BikeCarLeavingRoundabout,200047X004260,2000,West Sussex,34
+BikeCarLeavingRoundabout,200050A414270,2000,Cornwall and Isles of Scilly,35
+BikeCarLeavingRoundabout,200050C215513,2000,Devon,32
+BikeCarLeavingRoundabout,200050C215840,2000,Devon,19
+BikeCarLeavingRoundabout,200050D211936,2000,Devon,25
+BikeCarLeavingRoundabout,2.00052E+12,2000,City of Bristol,40
+BikeCarLeavingRoundabout,200054DN16100,2000,Swindon,31
+BikeCarLeavingRoundabout,200054DS02500,2000,Swindon,26
+BikeCarLeavingRoundabout,2000550B00307,2000,Bournemouth,33
+BikeCarLeavingRoundabout,200101FH00463,2001,London,23
+BikeCarLeavingRoundabout,200101GD01167,2001,London,33
+BikeCarLeavingRoundabout,200101HT00319,2001,London,50
+BikeCarLeavingRoundabout,200101HT00324,2001,London,41
+BikeCarLeavingRoundabout,200101HT01041,2001,London,25
+BikeCarLeavingRoundabout,200101MM00188,2001,London,39
+BikeCarLeavingRoundabout,200101MM00828,2001,London,43
+BikeCarLeavingRoundabout,200101MM01155,2001,London,36
+BikeCarLeavingRoundabout,200101MM01653,2001,London,41
+BikeCarLeavingRoundabout,200101MM09006,2001,London,51
+BikeCarLeavingRoundabout,200101MM09112,2001,London,37
+BikeCarLeavingRoundabout,200101NI01087,2001,London,
+BikeCarLeavingRoundabout,200101TX01279,2001,London,42
+BikeCarLeavingRoundabout,200101ZD00637,2001,London,37
+BikeCarLeavingRoundabout,200104A017401,2001,Lancashire,36
+BikeCarLeavingRoundabout,200104A040101,2001,Blackpool,8
+BikeCarLeavingRoundabout,200106F009753,2001,Salford,36
+BikeCarLeavingRoundabout,2.00107E+12,2001,Cheshire East,21
+BikeCarLeavingRoundabout,200110C234101,2001,Northumberland,9
+BikeCarLeavingRoundabout,200110G361701,2001,Newcastle upon Tyne,7
+BikeCarLeavingRoundabout,200110H344501,2001,North Tyneside,30
+BikeCarLeavingRoundabout,200110O498501,2001,South Tyneside,12
+BikeCarLeavingRoundabout,200111BE19700,2001,Durham,14
+BikeCarLeavingRoundabout,2.00113E+12,2001,Leeds,17
+BikeCarLeavingRoundabout,2.00113E+12,2001,Wakefield,12
+BikeCarLeavingRoundabout,200116A016201,2001,North East Lincolnshire,14
+BikeCarLeavingRoundabout,200116D063501,2001,Kingston Upon Hull,30
+BikeCarLeavingRoundabout,200116D064701,2001,Kingston Upon Hull,13
+BikeCarLeavingRoundabout,200120L255101,2001,Solihull,32
+BikeCarLeavingRoundabout,200120M072902,2001,Coventry,22
+BikeCarLeavingRoundabout,200120M090503,2001,Coventry,41
+BikeCarLeavingRoundabout,2.00121E+12,2001,Stoke on Trent,32
+BikeCarLeavingRoundabout,2.00121E+12,2001,Staffordshire,14
+BikeCarLeavingRoundabout,2.00121E+12,2001,Staffordshire,61
+BikeCarLeavingRoundabout,2.00121E+12,2001,Staffordshire,44
+BikeCarLeavingRoundabout,2.00121E+12,2001,Staffordshire,17
+BikeCarLeavingRoundabout,200122CA24341,2001,Worcestershire,15
+BikeCarLeavingRoundabout,200122FA21388,2001,Shropshire,20
+BikeCarLeavingRoundabout,200122GA21438,2001,Telford and Wrekin,5
+BikeCarLeavingRoundabout,200122GB19045,2001,Telford and Wrekin,40
+BikeCarLeavingRoundabout,2.00123E+12,2001,Warwickshire,15
+BikeCarLeavingRoundabout,200132C136401,2001,Lincolnshire,28
+BikeCarLeavingRoundabout,200132D112701,2001,Lincolnshire,20
+BikeCarLeavingRoundabout,200134NN00127,2001,Northamptonshire,16
+BikeCarLeavingRoundabout,2.00135E+12,2001,Cambridgeshire,73
+BikeCarLeavingRoundabout,200137G007995,2001,Suffolk,15
+BikeCarLeavingRoundabout,200143P033071,2001,Oxfordshire,14
+BikeCarLeavingRoundabout,200143S080111,2001,Milton Keynes,
+BikeCarLeavingRoundabout,200143W612011,2001,Windsor and Maidenhead,36
+BikeCarLeavingRoundabout,200143W836111,2001,Wokingham,28
+BikeCarLeavingRoundabout,2001440AA0219,2001,Hampshire,43
+BikeCarLeavingRoundabout,2001440KK0856,2001,Portsmouth,61
+BikeCarLeavingRoundabout,2001440OL0824,2001,Hampshire,10
+BikeCarLeavingRoundabout,2001440SC0296,2001,Southampton ,14
+BikeCarLeavingRoundabout,200145ME06783,2001,Surrey,39
+BikeCarLeavingRoundabout,200145MN02305,2001,Surrey,23
+BikeCarLeavingRoundabout,200145RS07693,2001,Surrey,58
+BikeCarLeavingRoundabout,2.00146E+12,2001,Medway,22
+BikeCarLeavingRoundabout,200146MA46717,2001,Kent,22
+BikeCarLeavingRoundabout,200146NK43469,2001,Kent,
+BikeCarLeavingRoundabout,200147N145306,2001,West Sussex,34
+BikeCarLeavingRoundabout,200147T142762,2001,East Sussex,13
+BikeCarLeavingRoundabout,200147X145058,2001,West Sussex,34
+BikeCarLeavingRoundabout,200150A222911,2001,Cornwall and Isles of Scilly,50
+BikeCarLeavingRoundabout,200150A410068,2001,Cornwall and Isles of Scilly,42
+BikeCarLeavingRoundabout,2.00152E+12,2001,North Somerset,60
+BikeCarLeavingRoundabout,2.00152E+12,2001,Bath and North East Somerset,43
+BikeCarLeavingRoundabout,200154DN58201,2001,Swindon,27
+BikeCarLeavingRoundabout,200201DM00248,2002,London,30
+BikeCarLeavingRoundabout,200201DM01687,2002,London,47
+BikeCarLeavingRoundabout,200201VK00417,2002,London,13
+BikeCarLeavingRoundabout,2.00203E+12,2002,Cumbria,46
+BikeCarLeavingRoundabout,200204C034102,2002,Lancashire,13
+BikeCarLeavingRoundabout,200204C098702,2002,Lancashire,51
+BikeCarLeavingRoundabout,200204D004602,2002,Lancashire,13
+BikeCarLeavingRoundabout,2.00205E+12,2002,Merseyside,35
+BikeCarLeavingRoundabout,200205BS00473,2002,Merseyside,11
+BikeCarLeavingRoundabout,200206P009049,2002,Rochdale,18
+BikeCarLeavingRoundabout,200206P010026,2002,Rochdale,29
+BikeCarLeavingRoundabout,2.00207E+12,2002,Warrington,44
+BikeCarLeavingRoundabout,2.0021E+12,2002,South Tyneside,10
+BikeCarLeavingRoundabout,2.0021E+12,2002,South Tyneside,13
+BikeCarLeavingRoundabout,2.0021E+12,2002,Northumberland,23
+BikeCarLeavingRoundabout,2.0021E+12,2002,North Tyneside,19
+BikeCarLeavingRoundabout,200214DD00144,2002,Barnsley,29
+BikeCarLeavingRoundabout,200216A004402,2002,North East Lincolnshire,12
+BikeCarLeavingRoundabout,200216B015102,2002,North Lincolnshire,13
+BikeCarLeavingRoundabout,200216B055702,2002,North Lincolnshire,55
+BikeCarLeavingRoundabout,200216D056002,2002,Kingston Upon Hull,39
+BikeCarLeavingRoundabout,2002170M12932,2002,Middlesbrough,30
+BikeCarLeavingRoundabout,2002170S12652,2002,Stockton on Tees,36
+BikeCarLeavingRoundabout,200220E221703,2002,Birmingham,16
+BikeCarLeavingRoundabout,200220F360601,2002,Birmingham,52
+BikeCarLeavingRoundabout,200220K071901,2002,Sandwell,9
+BikeCarLeavingRoundabout,200220M050803,2002,Coventry,17
+BikeCarLeavingRoundabout,2.00221E+12,2002,Staffordshire,13
+BikeCarLeavingRoundabout,200230D000343,2002,Derby,17
+BikeCarLeavingRoundabout,20023102C3502,2002,Nottingham,22
+BikeCarLeavingRoundabout,2.00233E+12,2002,Leicestershire,72
+BikeCarLeavingRoundabout,2.00233E+12,2002,Leicestershire,23
+BikeCarLeavingRoundabout,2.00233E+12,2002,Leicestershire,77
+BikeCarLeavingRoundabout,2.00233E+12,2002,Leicestershire,33
+BikeCarLeavingRoundabout,200234NC00633,2002,Northamptonshire,9
+BikeCarLeavingRoundabout,200234NN00612,2002,Northamptonshire,7
+BikeCarLeavingRoundabout,2.00235E+12,2002,Cambridgeshire,23
+BikeCarLeavingRoundabout,200236N021000,2002,Norfolk,52
+BikeCarLeavingRoundabout,20024100C5327,2002,Hertfordshire,11
+BikeCarLeavingRoundabout,20024100G0641,2002,Hertfordshire,11
+BikeCarLeavingRoundabout,20024100G0861,2002,Hertfordshire,12
+BikeCarLeavingRoundabout,20024200D0028,2002,Essex,15
+BikeCarLeavingRoundabout,20024200H0596,2002,Southend on Sea,13
+BikeCarLeavingRoundabout,20024200J0401,2002,Essex,41
+BikeCarLeavingRoundabout,200243N172062,2002,Buckinghamshire,28
+BikeCarLeavingRoundabout,200243W616052,2002,Windsor and Maidenhead,23
+BikeCarLeavingRoundabout,200243W630032,2002,Slough,13
+BikeCarLeavingRoundabout,2002440JL0004,2002,Hampshire,35
+BikeCarLeavingRoundabout,2002440KK2651,2002,Portsmouth,21
+BikeCarLeavingRoundabout,2002440SY0486,2002,Southampton ,30
+BikeCarLeavingRoundabout,200246CT64668,2002,Kent,60
+BikeCarLeavingRoundabout,200246SK63903,2002,Kent,28
+BikeCarLeavingRoundabout,200246SW58481,2002,Kent,45
+BikeCarLeavingRoundabout,200247K152498,2002,West Sussex,23
+BikeCarLeavingRoundabout,200247K153146,2002,West Sussex,24
+BikeCarLeavingRoundabout,200247K154699,2002,East Sussex,32
+BikeCarLeavingRoundabout,200247N145968,2002,West Sussex,40
+BikeCarLeavingRoundabout,200250D210737,2002,Devon,20
+BikeCarLeavingRoundabout,200250D427130,2002,Devon,13
+BikeCarLeavingRoundabout,200250E520652,2002,Plymouth,55
+BikeCarLeavingRoundabout,2.00252E+12,2002,South Gloucestershire,38
+BikeCarLeavingRoundabout,200254DW77002,2002,Swindon,13
+BikeCarLeavingRoundabout,2002550B00952,2002,Bournemouth,
+BikeCarLeavingRoundabout,2002550P04472,2002,Poole,60
+BikeCarLeavingRoundabout,200301DM00988,2003,London,36
+BikeCarLeavingRoundabout,200301DM01215,2003,London,27
+BikeCarLeavingRoundabout,200301DM01634,2003,London,27
+BikeCarLeavingRoundabout,200301GD00740,2003,London,12
+BikeCarLeavingRoundabout,200301LX01336,2003,London,33
+BikeCarLeavingRoundabout,200301MM00983,2003,London,30
+BikeCarLeavingRoundabout,200301MM01100,2003,London,34
+BikeCarLeavingRoundabout,200301MM01456,2003,London,25
+BikeCarLeavingRoundabout,200301MM01525,2003,London,
+BikeCarLeavingRoundabout,200301RY00054,2003,London,17
+BikeCarLeavingRoundabout,200304A028303,2003,Blackpool,41
+BikeCarLeavingRoundabout,200304A041203,2003,Blackpool,14
+BikeCarLeavingRoundabout,200304B007603,2003,Lancashire,52
+BikeCarLeavingRoundabout,200304C059403,2003,Lancashire,48
+BikeCarLeavingRoundabout,200304D007903,2003,Lancashire,20
+BikeCarLeavingRoundabout,200306C024876,2003,Manchester,46
+BikeCarLeavingRoundabout,200306M011891,2003,Trafford,31
+BikeCarLeavingRoundabout,200306Q011113,2003,Oldham,16
+BikeCarLeavingRoundabout,2.0031E+12,2003,Newcastle upon Tyne,13
+BikeCarLeavingRoundabout,2.0031E+12,2003,South Tyneside,23
+BikeCarLeavingRoundabout,2.0031E+12,2003,Newcastle upon Tyne,17
+BikeCarLeavingRoundabout,2.00312E+12,2003,York,8
+BikeCarLeavingRoundabout,2.00312E+12,2003,North Yorkshire,75
+BikeCarLeavingRoundabout,2.00313E+12,2003,Leeds,16
+BikeCarLeavingRoundabout,2.00313E+12,2003,Leeds,19
+BikeCarLeavingRoundabout,200314AA00110,2003,Doncaster,56
+BikeCarLeavingRoundabout,200314HH00121,2003,Sheffield,32
+BikeCarLeavingRoundabout,2003160D10490,2003,Kingston Upon Hull,43
+BikeCarLeavingRoundabout,2003160D10860,2003,Kingston Upon Hull,24
+BikeCarLeavingRoundabout,200316A039203,2003,North East Lincolnshire,25
+BikeCarLeavingRoundabout,200316C079703,2003,East Riding of Yorkshire,13
+BikeCarLeavingRoundabout,200320E172002,2003,Birmingham,29
+BikeCarLeavingRoundabout,200320J081402,2003,Dudley,13
+BikeCarLeavingRoundabout,200320K008201,2003,Sandwell,16
+BikeCarLeavingRoundabout,200320L058901,2003,Solihull,70
+BikeCarLeavingRoundabout,200320L199601,2003,Solihull,13
+BikeCarLeavingRoundabout,200320M044901,2003,Coventry,47
+BikeCarLeavingRoundabout,2.00321E+12,2003,Staffordshire,14
+BikeCarLeavingRoundabout,2.00321E+12,2003,Staffordshire,35
+BikeCarLeavingRoundabout,200322GA29008,2003,Telford and Wrekin,21
+BikeCarLeavingRoundabout,2.00323E+12,2003,Warwickshire,20
+BikeCarLeavingRoundabout,200330D000418,2003,Derby,23
+BikeCarLeavingRoundabout,200330D000552,2003,Derby,62
+BikeCarLeavingRoundabout,20033102D0910,2003,Nottinghamshire,47
+BikeCarLeavingRoundabout,20033104C8005,2003,Nottingham,19
+BikeCarLeavingRoundabout,2.00333E+12,2003,Leicestershire,30
+BikeCarLeavingRoundabout,2.00335E+12,2003,Peterborough,17
+BikeCarLeavingRoundabout,2.00335E+12,2003,Cambridgeshire,29
+BikeCarLeavingRoundabout,2.00335E+12,2003,Peterborough,16
+BikeCarLeavingRoundabout,2003400B01199,2003,Bedford Borough Council,38
+BikeCarLeavingRoundabout,2003400C03756,2003,Luton,69
+BikeCarLeavingRoundabout,2003400D01684,2003,Central Bedfordshire,41
+BikeCarLeavingRoundabout,20034100B0760,2003,Hertfordshire,13
+BikeCarLeavingRoundabout,20034100C0681,2003,Hertfordshire,13
+BikeCarLeavingRoundabout,20034100G0794,2003,Hertfordshire,17
+BikeCarLeavingRoundabout,2.00E+136,2003,Essex,12
+BikeCarLeavingRoundabout,20034200E0487,2003,Essex,19
+BikeCarLeavingRoundabout,20034200F0048,2003,Thurrock,26
+BikeCarLeavingRoundabout,200343S040013,2003,Milton Keynes,27
+BikeCarLeavingRoundabout,200343W660033,2003,Windsor and Maidenhead,39
+BikeCarLeavingRoundabout,2003440KK2464,2003,Portsmouth,33
+BikeCarLeavingRoundabout,2003440ZD0579,2003,Isle of Wight,39
+BikeCarLeavingRoundabout,200345SR33851,2003,Surrey,38
+BikeCarLeavingRoundabout,200346CT76244,2003,Kent,25
+BikeCarLeavingRoundabout,200346NK75090,2003,Kent,
+BikeCarLeavingRoundabout,200347K161656,2003,West Sussex,13
+BikeCarLeavingRoundabout,200347K165819,2003,East Sussex,40
+BikeCarLeavingRoundabout,2.00352E+12,2003,South Gloucestershire,42
+BikeCarLeavingRoundabout,2.00352E+12,2003,South Gloucestershire,39
+BikeCarLeavingRoundabout,200354AD11203,2003,Wiltshire,24
+BikeCarLeavingRoundabout,200354DC08203,2003,Swindon,42
+BikeCarLeavingRoundabout,200354DC45003,2003,Swindon,11
+BikeCarLeavingRoundabout,2003550P04009,2003,Poole,38
+BikeCarLeavingRoundabout,200401BS00244,2004,London,25
+BikeCarLeavingRoundabout,200401HT00660,2004,London,53
+BikeCarLeavingRoundabout,200401PY20057,2004,London,38
+BikeCarLeavingRoundabout,200401RG40262,2004,London,10
+BikeCarLeavingRoundabout,200401TA00210,2004,London,27
+BikeCarLeavingRoundabout,200401TE00719,2004,London,12
+BikeCarLeavingRoundabout,200401YF00308,2004,London,59
+BikeCarLeavingRoundabout,200404B023104,2004,Lancashire,20
+BikeCarLeavingRoundabout,200404B031604,2004,Lancashire,35
+BikeCarLeavingRoundabout,200404C073204,2004,Lancashire,56
+BikeCarLeavingRoundabout,200405CH00343,2004,Merseyside,10
+BikeCarLeavingRoundabout,200406C915616,2004,Manchester,55
+BikeCarLeavingRoundabout,2.00407E+12,2004,Warrington,13
+BikeCarLeavingRoundabout,2.00407E+12,2004,Warrington,13
+BikeCarLeavingRoundabout,2.0041E+12,2004,South Tyneside,40
+BikeCarLeavingRoundabout,2.0041E+12,2004,South Tyneside,46
+BikeCarLeavingRoundabout,200411CG26770,2004,Durham,22
+BikeCarLeavingRoundabout,2.00413E+12,2004,Leeds,13
+BikeCarLeavingRoundabout,2004160A02750,2004,North East Lincolnshire,51
+BikeCarLeavingRoundabout,2004160A02860,2004,North East Lincolnshire,26
+BikeCarLeavingRoundabout,2004160A03110,2004,North East Lincolnshire,17
+BikeCarLeavingRoundabout,2004160C09570,2004,East Riding of Yorkshire,24
+BikeCarLeavingRoundabout,2004160D07130,2004,Kingston Upon Hull,19
+BikeCarLeavingRoundabout,2004170M12084,2004,Middlesbrough,
+BikeCarLeavingRoundabout,2004170M13494,2004,Middlesbrough,38
+BikeCarLeavingRoundabout,200420D210802,2004,Birmingham,13
+BikeCarLeavingRoundabout,200420F107501,2004,Birmingham,26
+BikeCarLeavingRoundabout,200420G085801,2004,Wolverhampton,15
+BikeCarLeavingRoundabout,200420G089401,2004,Wolverhampton,26
+BikeCarLeavingRoundabout,200420L049301,2004,Solihull,14
+BikeCarLeavingRoundabout,2.00421E+12,2004,Stoke on Trent,11
+BikeCarLeavingRoundabout,2.00421E+12,2004,Staffordshire,12
+BikeCarLeavingRoundabout,2.00421E+12,2004,Staffordshire,43
+BikeCarLeavingRoundabout,2.00421E+12,2004,Staffordshire,46
+BikeCarLeavingRoundabout,2.00423E+12,2004,Warwickshire,31
+BikeCarLeavingRoundabout,2.00423E+12,2004,Warwickshire,17
+BikeCarLeavingRoundabout,20043108C4880,2004,Nottingham,10
+BikeCarLeavingRoundabout,200432B101904,2004,Lincolnshire,61
+BikeCarLeavingRoundabout,200432B147104,2004,Lincolnshire,12
+BikeCarLeavingRoundabout,200434ND01472,2004,Northamptonshire,16
+BikeCarLeavingRoundabout,200434NW02249,2004,Northamptonshire,38
+BikeCarLeavingRoundabout,20044100B0915,2004,Hertfordshire,26
+BikeCarLeavingRoundabout,2.00E+299,2004,Hertfordshire,4
+BikeCarLeavingRoundabout,20044100G0056,2004,Hertfordshire,15
+BikeCarLeavingRoundabout,2.00E+285,2004,Essex,29
+BikeCarLeavingRoundabout,20044200F0424,2004,Thurrock,13
+BikeCarLeavingRoundabout,200443N219094,2004,Buckinghamshire,44
+BikeCarLeavingRoundabout,200443P088044,2004,Oxfordshire,29
+BikeCarLeavingRoundabout,200443W365014,2004,Bracknell Forest,28
+BikeCarLeavingRoundabout,200443W405094,2004,Bracknell Forest,20
+BikeCarLeavingRoundabout,2004440HG0490,2004,Hampshire,13
+BikeCarLeavingRoundabout,200446CT98812,2004,Kent,24
+BikeCarLeavingRoundabout,200446MA97776,2004,Kent,25
+BikeCarLeavingRoundabout,200446WK89500,2004,Kent,33
+BikeCarLeavingRoundabout,200447K172811,2004,West Sussex,17
+BikeCarLeavingRoundabout,200450D33D903,2004,Devon,22
+BikeCarLeavingRoundabout,200450E41K506,2004,Plymouth,11
+BikeCarLeavingRoundabout,2.00452E+12,2004,North Somerset,21
+BikeCarLeavingRoundabout,2.00452E+12,2004,City of Bristol,20
+BikeCarLeavingRoundabout,2004530AI4509,2004,Gloucestershire,14
+BikeCarLeavingRoundabout,200454CP20404,2004,Wiltshire,20
+BikeCarLeavingRoundabout,200501VK30106,2005,London,27
+BikeCarLeavingRoundabout,200501VK30304,2005,London,36
+BikeCarLeavingRoundabout,200501XH30681,2005,London,
+BikeCarLeavingRoundabout,200501YR90640,2005,London,
+BikeCarLeavingRoundabout,200505BS00946,2005,Merseyside,80
+BikeCarLeavingRoundabout,200506C031497,2005,Manchester,52
+BikeCarLeavingRoundabout,2.0051E+12,2005,Newcastle upon Tyne,30
+BikeCarLeavingRoundabout,2.00512E+12,2005,York,78
+BikeCarLeavingRoundabout,2.00513E+12,2005,Leeds,35
+BikeCarLeavingRoundabout,200514F109205,2005,Sheffield,
+BikeCarLeavingRoundabout,200520J044901,2005,Dudley,35
+BikeCarLeavingRoundabout,200520M015702,2005,Coventry,20
+BikeCarLeavingRoundabout,200530D000459,2005,Derby,38
+BikeCarLeavingRoundabout,200537G016771,2005,Suffolk,18
+BikeCarLeavingRoundabout,200537G017501,2005,Suffolk,49
+BikeCarLeavingRoundabout,20054100D1050,2005,Hertfordshire,28
+BikeCarLeavingRoundabout,200542C036906,2005,Essex,
+BikeCarLeavingRoundabout,200542H017705,2005,Southend on Sea,
+BikeCarLeavingRoundabout,200542K001607,2005,Essex,55
+BikeCarLeavingRoundabout,200543N085125,2005,Buckinghamshire,24
+BikeCarLeavingRoundabout,200543P339025,2005,Oxfordshire,
+BikeCarLeavingRoundabout,200543W138085,2005,Reading,31
+BikeCarLeavingRoundabout,200543W279045,2005,Reading,56
+BikeCarLeavingRoundabout,2.00544E+12,2005,Hampshire,24
+BikeCarLeavingRoundabout,2.00544E+12,2005,Hampshire,35
+BikeCarLeavingRoundabout,200545EL69882,2005,Surrey,
+BikeCarLeavingRoundabout,200545MO75083,2005,Surrey,28
+BikeCarLeavingRoundabout,200545RE71538,2005,Surrey,36
+BikeCarLeavingRoundabout,200545RU73543,2005,Surrey,22
+BikeCarLeavingRoundabout,200545TA64074,2005,Surrey,68
+BikeCarLeavingRoundabout,2.00546E+12,2005,Kent,21
+BikeCarLeavingRoundabout,2.00546E+12,2005,Kent,43
+BikeCarLeavingRoundabout,2.00547E+12,2005,West Sussex,18
+BikeCarLeavingRoundabout,2.00547E+12,2005,West Sussex,51
+BikeCarLeavingRoundabout,200550A61A866,2005,Cornwall and Isles of Scilly,42
+BikeCarLeavingRoundabout,2.00552E+12,2005,Somerset,13
+BikeCarLeavingRoundabout,2.00552E+12,2005,City of Bristol,35
+BikeCarLeavingRoundabout,2.00552E+12,2005,Somerset,26
+BikeCarLeavingRoundabout,2.00553E+12,2005,South Gloucestershire,30
+BikeCarLeavingRoundabout,2.00553E+12,2005,Gloucestershire,17
+BikeCarLeavingRoundabout,200601QA10247,2006,London,41
+BikeCarLeavingRoundabout,2.00603E+12,2006,Cumbria,39
+BikeCarLeavingRoundabout,2.00603E+12,2006,Cumbria,27
+BikeCarLeavingRoundabout,200604BC06114,2006,Lancashire,34
+BikeCarLeavingRoundabout,200604FL06053,2006,Lancashire,20
+BikeCarLeavingRoundabout,200606F061815,2006,Salford,31
+BikeCarLeavingRoundabout,2.00607E+12,2006,Halton,57
+BikeCarLeavingRoundabout,2.00607E+12,2006,Warrington,25
+BikeCarLeavingRoundabout,2.0061E+12,2006,Newcastle upon Tyne,31
+BikeCarLeavingRoundabout,200611AK24080,2006,Durham,27
+BikeCarLeavingRoundabout,200611CH19950,2006,Durham,15
+BikeCarLeavingRoundabout,2.00613E+12,2006,Wakefield,32
+BikeCarLeavingRoundabout,2006170L11216,2006,Redcar and Cleveland,50
+BikeCarLeavingRoundabout,2.00622E+12,2006,Staffordshire,43
+BikeCarLeavingRoundabout,2.00623E+12,2006,Warwickshire,34
+BikeCarLeavingRoundabout,200630D000095,2006,Derbyshire,51
+BikeCarLeavingRoundabout,20063102A0176,2006,Nottinghamshire,41
+BikeCarLeavingRoundabout,20063102D0404,2006,Nottinghamshire,40
+BikeCarLeavingRoundabout,200637L013440,2006,Suffolk,29
+BikeCarLeavingRoundabout,200642I291307,2006,Thurrock,15
+BikeCarLeavingRoundabout,200642I312508,2006,Essex,27
+BikeCarLeavingRoundabout,200643P034016,2006,Oxfordshire,43
+BikeCarLeavingRoundabout,200643P229056,2006,Oxfordshire,37
+BikeCarLeavingRoundabout,200643P295086,2006,Oxfordshire,25
+BikeCarLeavingRoundabout,200643S056056,2006,Milton Keynes,42
+BikeCarLeavingRoundabout,200643W015026,2006,Wokingham,17
+BikeCarLeavingRoundabout,2.00644E+12,2006,Hampshire,41
+BikeCarLeavingRoundabout,2.00644E+12,2006,Southampton ,39
+BikeCarLeavingRoundabout,2.00644E+12,2006,Hampshire,50
+BikeCarLeavingRoundabout,2.00644E+12,2006,Hampshire,44
+BikeCarLeavingRoundabout,200645EP93738,2006,Surrey,38
+BikeCarLeavingRoundabout,2.00646E+12,2006,Kent,31
+BikeCarLeavingRoundabout,2.00647E+12,2006,West Sussex,24
+BikeCarLeavingRoundabout,2.00647E+12,2006,East Sussex,13
+BikeCarLeavingRoundabout,2.00647E+12,2006,West Sussex,74
+BikeCarLeavingRoundabout,2.00652E+12,2006,City of Bristol,30
+BikeCarLeavingRoundabout,2.00652E+12,2006,South Gloucestershire,35
+BikeCarLeavingRoundabout,2.00652E+12,2006,City of Bristol,11
+BikeCarLeavingRoundabout,2.00653E+12,2006,Gloucestershire,35
+BikeCarLeavingRoundabout,2.00653E+12,2006,Gloucestershire,50
+BikeCarLeavingRoundabout,200654DN49606,2006,Swindon,35
+BikeCarLeavingRoundabout,200701TX20611,2007,London,42
+BikeCarLeavingRoundabout,200704BA07209,2007,Lancashire,17
+BikeCarLeavingRoundabout,200704BC07070,2007,Lancashire,37
+BikeCarLeavingRoundabout,200704CL07066,2007,Lancashire,39
+BikeCarLeavingRoundabout,200705BB20512,2007,Merseyside,45
+BikeCarLeavingRoundabout,200706B067587,2007,Manchester,19
+BikeCarLeavingRoundabout,200706F069557,2007,Salford,35
+BikeCarLeavingRoundabout,200706F075602,2007,Salford,28
+BikeCarLeavingRoundabout,200706M082849,2007,Trafford,23
+BikeCarLeavingRoundabout,2.00707E+12,2007,Warrington,24
+BikeCarLeavingRoundabout,2.0071E+12,2007,North Tyneside,18
+BikeCarLeavingRoundabout,2.00712E+12,2007,North Yorkshire,14
+BikeCarLeavingRoundabout,2.00713E+12,2007,Kirklees,16
+BikeCarLeavingRoundabout,200714C135407,2007,Rotherham,18
+BikeCarLeavingRoundabout,2007160B05940,2007,North Lincolnshire,47
+BikeCarLeavingRoundabout,200720E164601,2007,Birmingham,13
+BikeCarLeavingRoundabout,200720G018702,2007,Wolverhampton,47
+BikeCarLeavingRoundabout,200737L014745,2007,Suffolk,48
+BikeCarLeavingRoundabout,2007400C02532,2007,Luton,45
+BikeCarLeavingRoundabout,20074100K0125,2007,Hertfordshire,32
+BikeCarLeavingRoundabout,20074100K0454,2007,Hertfordshire,16
+BikeCarLeavingRoundabout,200742I158204,2007,Essex,21
+BikeCarLeavingRoundabout,200742I470611,2007,Thurrock,16
+BikeCarLeavingRoundabout,200743R114017,2007,Slough,58
+BikeCarLeavingRoundabout,200743W128117,2007,Wokingham,71
+BikeCarLeavingRoundabout,2.00744E+12,2007,Hampshire,32
+BikeCarLeavingRoundabout,200745RU06789,2007,Surrey,29
+BikeCarLeavingRoundabout,200745SP13327,2007,Surrey,30
+BikeCarLeavingRoundabout,200745SU04819,2007,Surrey,21
+BikeCarLeavingRoundabout,2.00747E+12,2007,East Sussex,18
+BikeCarLeavingRoundabout,2.00752E+12,2007,City of Bristol,44
+BikeCarLeavingRoundabout,2.00752E+12,2007,North Somerset,51
+BikeCarLeavingRoundabout,200754DE48807,2007,Swindon,38
+BikeCarLeavingRoundabout,200754DN33107,2007,Swindon,21
+BikeCarLeavingRoundabout,2007557B05092,2007,Bournemouth,29
+BikeCarLeavingRoundabout,2007557E02899,2007,Dorset,47
+BikeCarLeavingRoundabout,2007557E04204,2007,Dorset,37
+BikeCarLeavingRoundabout,2007557P02759,2007,Poole,43
+BikeCarLeavingRoundabout,2007557W02014,2007,Dorset,43
+BikeCarLeavingRoundabout,200801MM79084,2008,London,28
+BikeCarLeavingRoundabout,200801TW60123,2008,London,44
+BikeCarLeavingRoundabout,200801XD89198,2008,London,37
+BikeCarLeavingRoundabout,200801XH30437,2008,London,21
+BikeCarLeavingRoundabout,200805AA23311,2008,Merseyside,71
+BikeCarLeavingRoundabout,200806J002809,2008,Stockport,37
+BikeCarLeavingRoundabout,2.0081E+12,2008,South Tyneside,51
+BikeCarLeavingRoundabout,2.00812E+12,2008,North Yorkshire,74
+BikeCarLeavingRoundabout,2.00813E+12,2008,Kirklees,42
+BikeCarLeavingRoundabout,2.00813E+12,2008,Leeds,24
+BikeCarLeavingRoundabout,2008160B05190,2008,North Lincolnshire,31
+BikeCarLeavingRoundabout,200820D265001,2008,Birmingham,25
+BikeCarLeavingRoundabout,200820E091501,2008,Birmingham,39
+BikeCarLeavingRoundabout,200820H026002,2008,Walsall,30
+BikeCarLeavingRoundabout,200820H039002,2008,Walsall,33
+BikeCarLeavingRoundabout,200820M027703,2008,Coventry,53
+BikeCarLeavingRoundabout,200820M039101,2008,Coventry,36
+BikeCarLeavingRoundabout,200820M053901,2008,Coventry,35
+BikeCarLeavingRoundabout,20083102B3665,2008,Nottinghamshire,
+BikeCarLeavingRoundabout,2.00835E+12,2008,Cambridgeshire,80
+BikeCarLeavingRoundabout,2008400B02927,2008,Bedford Borough Council,13
+BikeCarLeavingRoundabout,200842I009201,2008,Essex,35
+BikeCarLeavingRoundabout,200842I154105,2008,Thurrock,
+BikeCarLeavingRoundabout,200843N053018,2008,Buckinghamshire,59
+BikeCarLeavingRoundabout,200843P316108,2008,Oxfordshire,54
+BikeCarLeavingRoundabout,200843R151078,2008,Windsor and Maidenhead,20
+BikeCarLeavingRoundabout,200843W104028,2008,Wokingham,34
+BikeCarLeavingRoundabout,2.00844E+12,2008,Hampshire,33
+BikeCarLeavingRoundabout,2.00844E+12,2008,Portsmouth,34
+BikeCarLeavingRoundabout,2.00844E+12,2008,Hampshire,16
+BikeCarLeavingRoundabout,200845EL24468,2008,Surrey,44
+BikeCarLeavingRoundabout,200845GU25789,2008,Surrey,19
+BikeCarLeavingRoundabout,200845SP19705,2008,Surrey,26
+BikeCarLeavingRoundabout,200845SP22474,2008,Surrey,42
+BikeCarLeavingRoundabout,2.00846E+12,2008,Kent,46
+BikeCarLeavingRoundabout,2.00846E+12,2008,Kent,42
+BikeCarLeavingRoundabout,2.00847E+12,2008,West Sussex,25
+BikeCarLeavingRoundabout,200850GA2P007,2008,Cornwall and Isles of Scilly,47
+BikeCarLeavingRoundabout,2.00852E+12,2008,Somerset,51
+BikeCarLeavingRoundabout,2.00852E+12,2008,South Gloucestershire,34
+BikeCarLeavingRoundabout,2.00853E+12,2008,Gloucestershire,55
+BikeCarLeavingRoundabout,200901JI40538,2009,London,48
+BikeCarLeavingRoundabout,200901QA10399,2009,London,17
+BikeCarLeavingRoundabout,2.00903E+12,2009,Cumbria,32
+BikeCarLeavingRoundabout,200904AM09236,2009,Blackpool,58
+BikeCarLeavingRoundabout,200904BA09161,2009,Lancashire,20
+BikeCarLeavingRoundabout,200905AA33193,2009,Merseyside,19
+BikeCarLeavingRoundabout,200906F013953,2009,Salford,28
+BikeCarLeavingRoundabout,2.00907E+12,2009,Cheshire West and Chester,12
+BikeCarLeavingRoundabout,200911SL13119,2009,Durham,22
+BikeCarLeavingRoundabout,2.00912E+12,2009,North Yorkshire,33
+BikeCarLeavingRoundabout,2.00912E+12,2009,York,20
+BikeCarLeavingRoundabout,2.00913E+12,2009,Wakefield,45
+BikeCarLeavingRoundabout,2009160D05300,2009,Kingston Upon Hull,45
+BikeCarLeavingRoundabout,200920D126702,2009,Birmingham,47
+BikeCarLeavingRoundabout,200920G056801,2009,Wolverhampton,22
+BikeCarLeavingRoundabout,200922C902263,2009,Worcestershire,14
+BikeCarLeavingRoundabout,200922E901168,2009,Herefordshire,47
+BikeCarLeavingRoundabout,20093102C2943,2009,Nottingham,19
+BikeCarLeavingRoundabout,200937G028158,2009,Suffolk,12
+BikeCarLeavingRoundabout,200937G028382,2009,Suffolk,17
+BikeCarLeavingRoundabout,200942I239807,2009,Essex,23
+BikeCarLeavingRoundabout,200942I266007,2009,Essex,21
+BikeCarLeavingRoundabout,200943R250079,2009,Windsor and Maidenhead,42
+BikeCarLeavingRoundabout,200943W137049,2009,Reading,19
+BikeCarLeavingRoundabout,2.00944E+12,2009,Portsmouth,58
+BikeCarLeavingRoundabout,2.00944E+12,2009,Hampshire,11
+BikeCarLeavingRoundabout,2.00944E+12,2009,Portsmouth,30
+BikeCarLeavingRoundabout,200945SP36605,2009,Surrey,20
+BikeCarLeavingRoundabout,2.00946E+12,2009,Kent,29
+BikeCarLeavingRoundabout,2.00946E+12,2009,Kent,40
+BikeCarLeavingRoundabout,2.00946E+12,2009,Kent,62
+BikeCarLeavingRoundabout,2.00947E+12,2009,West Sussex,30
+BikeCarLeavingRoundabout,2.00947E+12,2009,West Sussex,69
+BikeCarLeavingRoundabout,2.00947E+12,2009,East Sussex,45
+BikeCarLeavingRoundabout,2.00947E+12,2009,West Sussex,59
+BikeCarLeavingRoundabout,200950CB2S005,2009,Devon,65
+BikeCarLeavingRoundabout,200950DE2J011,2009,Devon,30
+BikeCarLeavingRoundabout,200950EC2E017,2009,Plymouth,51
+BikeCarLeavingRoundabout,200950EC2E035,2009,Plymouth,42
+BikeCarLeavingRoundabout,200950GP2D009,2009,Cornwall and Isles of Scilly,34
+BikeCarLeavingRoundabout,2.00952E+12,2009,City of Bristol,46
+BikeCarLeavingRoundabout,2.00953E+12,2009,Gloucestershire,43
+BikeCarLeavingRoundabout,200954DN14809,2009,Swindon,50
+BikeCarLeavingRoundabout,2009559C00117,2009,Bournemouth,39
+BikeCarLeavingRoundabout,2009559C02411,2009,Bournemouth,41
+BikeCarLeavingRoundabout,2009559C04198,2009,Poole,37
+BikeCarLeavingRoundabout,201001JI40501,2010,London,59
+BikeCarLeavingRoundabout,201001LX50473,2010,London,32
+BikeCarLeavingRoundabout,201004EN10106,2010,Lancashire,56
+BikeCarLeavingRoundabout,201006CM30936,2010,Manchester,39
+BikeCarLeavingRoundabout,2.01007E+12,2010,Halton,34
+BikeCarLeavingRoundabout,2.01007E+12,2010,Warrington,45
+BikeCarLeavingRoundabout,2.01013E+12,2010,Leeds,37
+BikeCarLeavingRoundabout,2.01013E+12,2010,Leeds,20
+BikeCarLeavingRoundabout,2.01013E+12,2010,Leeds,23
+BikeCarLeavingRoundabout,201020M009630,2010,Coventry,27
+BikeCarLeavingRoundabout,201020W023820,2010,Birmingham,18
+BikeCarLeavingRoundabout,2.01021E+12,2010,Staffordshire,81
+BikeCarLeavingRoundabout,2.01021E+12,2010,Staffordshire,72
+BikeCarLeavingRoundabout,2.01021E+12,2010,Staffordshire,56
+BikeCarLeavingRoundabout,201022C004493,2010,Worcestershire,49
+BikeCarLeavingRoundabout,201032D302210,2010,Lincolnshire,39
+BikeCarLeavingRoundabout,2.01033E+12,2010,Leicestershire,17
+BikeCarLeavingRoundabout,2.01035E+12,2010,Cambridgeshire,15
+BikeCarLeavingRoundabout,2.01035E+12,2010,Cambridgeshire,21
+BikeCarLeavingRoundabout,201042I026301,2010,Essex,61
+BikeCarLeavingRoundabout,201042I192806,2010,Essex,41
+BikeCarLeavingRoundabout,201043N172100,2010,Buckinghamshire,63
+BikeCarLeavingRoundabout,201043N268060,2010,Buckinghamshire,53
+BikeCarLeavingRoundabout,201043P305060,2010,Oxfordshire,18
+BikeCarLeavingRoundabout,201043R186080,2010,Windsor and Maidenhead,25
+BikeCarLeavingRoundabout,201045MO53628,2010,Surrey,53
+BikeCarLeavingRoundabout,201045SP52304,2010,Surrey,30
+BikeCarLeavingRoundabout,2.01046E+12,2010,Kent,23
+BikeCarLeavingRoundabout,2.01047E+12,2010,West Sussex,44
+BikeCarLeavingRoundabout,2.01047E+12,2010,West Sussex,55
+BikeCarLeavingRoundabout,2.01047E+12,2010,West Sussex,39
+BikeCarLeavingRoundabout,2.01047E+12,2010,West Sussex,59
+BikeCarLeavingRoundabout,201050GP2I019,2010,Cornwall and Isles of Scilly,23
+BikeCarLeavingRoundabout,201050GT3F034,2010,Cornwall and Isles of Scilly,44
+BikeCarLeavingRoundabout,2.01052E+12,2010,Bath and North East Somerset,27
+BikeCarLeavingRoundabout,2.01052E+12,2010,South Gloucestershire,20
+BikeCarLeavingRoundabout,20105500C1158,2010,Poole,28
+BikeCarLeavingRoundabout,2011201101CW12387,2011,London,-1
+BikeCarLeavingRoundabout,2011201101KG70448,2011,London,21
+BikeCarLeavingRoundabout,2011201105DD03759,2011,Merseyside,30
+BikeCarLeavingRoundabout,2011201105FF02165,2011,Merseyside,16
+BikeCarLeavingRoundabout,2011201106B042006,2011,Manchester,24
+BikeCarLeavingRoundabout,2011201106B049038,2011,Manchester,52
+BikeCarLeavingRoundabout,2011201106L041086,2011,Wigan,40
+BikeCarLeavingRoundabout,2.0112E+16,2011,York,54
+BikeCarLeavingRoundabout,2.0112E+16,2011,York,46
+BikeCarLeavingRoundabout,2011201114A152411,2011,Doncaster,42
+BikeCarLeavingRoundabout,2011201114B050011,2011,Barnsley,34
+BikeCarLeavingRoundabout,20112011170S10741,2011,Stockton on Tees,39
+BikeCarLeavingRoundabout,2011201120G008331,2011,Wolverhampton,34
+BikeCarLeavingRoundabout,2011201120W013471,2011,Birmingham,28
+BikeCarLeavingRoundabout,2.0112E+16,2011,Staffordshire,22
+BikeCarLeavingRoundabout,2011201122G103112,2011,Telford and Wrekin,13
+BikeCarLeavingRoundabout,2011201130D000368,2011,Derby,46
+BikeCarLeavingRoundabout,2011201132B086811,2011,Lincolnshire,-1
+BikeCarLeavingRoundabout,2.0112E+16,2011,Leicestershire,27
+BikeCarLeavingRoundabout,2.0112E+16,2011,Leicestershire,29
+BikeCarLeavingRoundabout,2.0112E+16,2011,Peterborough,42
+BikeCarLeavingRoundabout,2.0112E+16,2011,Norfolk,29
+BikeCarLeavingRoundabout,2.0112E+16,2011,Norfolk,31
+BikeCarLeavingRoundabout,2.0112E+16,2011,Suffolk,42
+BikeCarLeavingRoundabout,20112011400BA0457,2011,Bedford Borough Council,41
+BikeCarLeavingRoundabout,20112011400CA0018,2011,Luton,46
+BikeCarLeavingRoundabout,2011201143N052011,2011,Buckinghamshire,70
+BikeCarLeavingRoundabout,2011201143W154051,2011,Wokingham,33
+BikeCarLeavingRoundabout,2011201143W227061,2011,Wokingham,45
+BikeCarLeavingRoundabout,2.0112E+16,2011,Portsmouth,41
+BikeCarLeavingRoundabout,2011201145WO61854,2011,Surrey,44
+BikeCarLeavingRoundabout,2.0112E+16,2011,Kent,40
+BikeCarLeavingRoundabout,2.0112E+16,2011,Kent,51
+BikeCarLeavingRoundabout,2.0112E+16,2011,Kent,57
+BikeCarLeavingRoundabout,2.0112E+16,2011,Kent,28
+BikeCarLeavingRoundabout,2.0112E+16,2011,Kent,41
+BikeCarLeavingRoundabout,2.0112E+16,2011,West Sussex,82
+BikeCarLeavingRoundabout,2.0112E+16,2011,West Sussex,34
+BikeCarLeavingRoundabout,2.0112E+16,2011,West Sussex,67
+BikeCarLeavingRoundabout,2.0112E+16,2011,West Sussex,63
+BikeCarLeavingRoundabout,2.0112E+16,2011,West Sussex,53
+BikeCarLeavingRoundabout,2011201150AP2S007,2011,Cornwall and Isles of Scilly,21
+BikeCarLeavingRoundabout,2011201150EC2E022,2011,Plymouth,33
+BikeCarLeavingRoundabout,20112011551C18452,2011,Bournemouth,21
+BikeCarLeavingRoundabout,20112011551C22389,2011,Poole,69
+BikeCarLeavingRoundabout,20112011551C49335,2011,Bournemouth,87
+BikeCarLeavingRoundabout,2012201201KG70194,2012,London,37
+BikeCarLeavingRoundabout,2.0122E+16,2012,Cumbria,36
+BikeCarLeavingRoundabout,2012201204CL12070,2012,Lancashire,28
+BikeCarLeavingRoundabout,2012201214K155512,2012,Sheffield,46
+BikeCarLeavingRoundabout,20122012170S10262,2012,Stockton on Tees,24
+BikeCarLeavingRoundabout,2012201220H000712,2012,Walsall,48
+BikeCarLeavingRoundabout,2012201220H006032,2012,Walsall,35
+BikeCarLeavingRoundabout,2012201220M003572,2012,Coventry,29
+BikeCarLeavingRoundabout,2012201220M010902,2012,Coventry,19
+BikeCarLeavingRoundabout,2012201220W048332,2012,Birmingham,44
+BikeCarLeavingRoundabout,2012201230D001735,2012,Derby,30
+BikeCarLeavingRoundabout,2012201232E257512,2012,Lincolnshire,42
+BikeCarLeavingRoundabout,2012201232L220212,2012,Lincolnshire,45
+BikeCarLeavingRoundabout,2012201234WD18822,2012,Northamptonshire,17
+BikeCarLeavingRoundabout,2.0122E+16,2012,Cambridgeshire,32
+BikeCarLeavingRoundabout,2.0122E+16,2012,Peterborough,13
+BikeCarLeavingRoundabout,2.0122E+16,2012,Norfolk,23
+BikeCarLeavingRoundabout,2.0122E+16,2012,Suffolk,42
+BikeCarLeavingRoundabout,2012201242I142605,2012,Essex,18
+BikeCarLeavingRoundabout,2012201243N026092,2012,Buckinghamshire,35
+BikeCarLeavingRoundabout,2012201243N050052,2012,Buckinghamshire,47
+BikeCarLeavingRoundabout,2012201243N281102,2012,Buckinghamshire,58
+BikeCarLeavingRoundabout,2012201243R240052,2012,Windsor and Maidenhead,61
+BikeCarLeavingRoundabout,2012201243W023102,2012,West Berkshire,12
+BikeCarLeavingRoundabout,2.0122E+16,2012,Hampshire,26
+BikeCarLeavingRoundabout,2012201245EL74304,2012,Surrey,29
+BikeCarLeavingRoundabout,2012201245EL74479,2012,Surrey,20
+BikeCarLeavingRoundabout,2012201245EP74259,2012,Surrey,23
+BikeCarLeavingRoundabout,2012201245RE71577,2012,Surrey,32
+BikeCarLeavingRoundabout,2012201245SP72514,2012,Surrey,34
+BikeCarLeavingRoundabout,2.0122E+16,2012,Kent,42
+BikeCarLeavingRoundabout,2.0122E+16,2012,Kent,59
+BikeCarLeavingRoundabout,2.0122E+16,2012,West Sussex,32
+BikeCarLeavingRoundabout,2.0122E+16,2012,West Sussex,21
+BikeCarLeavingRoundabout,2.0122E+16,2012,Brighton and Hove,42
+BikeCarLeavingRoundabout,2.0122E+16,2012,West Sussex,30
+BikeCarLeavingRoundabout,2.0122E+16,2012,East Sussex,65
+BikeCarLeavingRoundabout,2.0122E+16,2012,West Sussex,48
+BikeCarLeavingRoundabout,2012201250EC2G018,2012,Plymouth,27
+BikeCarLeavingRoundabout,2012201250EK2A014,2012,Plymouth,15
+BikeCarLeavingRoundabout,2012201250KT3C008,2012,Devon,81
+BikeCarLeavingRoundabout,2.0122E+16,2012,Bath and North East Somerset,64
+BikeCarLeavingRoundabout,20122012552C27216,2012,Bournemouth,27
+BikeCarLeavingRoundabout,20122012552C29675,2012,Bournemouth,-1
+BikeCarLeavingRoundabout,20122012552C35284,2012,Bournemouth,44

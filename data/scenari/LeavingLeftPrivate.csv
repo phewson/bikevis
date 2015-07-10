@@ -1,0 +1,105 @@
+Scenario,urn,accyr,LAName,Age
+LeavinfLeftPrivate,199901LS00453,1999,London,27
+LeavinfLeftPrivate,199901PL00388,1999,London,23
+LeavinfLeftPrivate,199901PY00676,1999,London,12
+LeavinfLeftPrivate,199901TW00118,1999,London,38
+LeavinfLeftPrivate,199904A050799,1999,Blackpool,7
+LeavinfLeftPrivate,199904D037299,1999,Lancashire,7
+LeavinfLeftPrivate,199904E058399,1999,Lancashire,5
+LeavinfLeftPrivate,199930D000595,1999,Derby,12
+LeavinfLeftPrivate,199932C005819,1999,Lincolnshire,7
+LeavinfLeftPrivate,199934NN01235,1999,Northamptonshire,9
+LeavinfLeftPrivate,2.00E+213,1999,Hertfordshire,14
+LeavinfLeftPrivate,19994200A0416,1999,Essex,12
+LeavinfLeftPrivate,199943R007109,1999,Windsor and Maidenhead,
+LeavinfLeftPrivate,199950D216052,1999,Devon,25
+LeavinfLeftPrivate,1.99952E+12,1999,Somerset,16
+LeavinfLeftPrivate,1999530AI0296,1999,Gloucestershire,14
+LeavinfLeftPrivate,1999530AI3827,1999,Gloucestershire,12
+LeavinfLeftPrivate,200001JC00709,2000,London,7
+LeavinfLeftPrivate,200001NI00663,2000,London,
+LeavinfLeftPrivate,200001QD00147,2000,London,18
+LeavinfLeftPrivate,200001RX00043,2000,London,22
+LeavinfLeftPrivate,200001XH00576,2000,London,8
+LeavinfLeftPrivate,2.00005E+12,2000,Merseyside,13
+LeavinfLeftPrivate,2.00007E+12,2000,Cheshire West and Chester,11
+LeavinfLeftPrivate,2.00013E+12,2000,Wakefield,20
+LeavinfLeftPrivate,200020F144601,2000,Birmingham,10
+LeavinfLeftPrivate,2.00021E+12,2000,Staffordshire,7
+LeavinfLeftPrivate,2.00035E+12,2000,Cambridgeshire,18
+LeavinfLeftPrivate,2000440DH0199,2000,Hampshire,15
+LeavinfLeftPrivate,200045ED00115,2000,Surrey,
+LeavinfLeftPrivate,200045NA00167,2000,Surrey,16
+LeavinfLeftPrivate,200046CT16858,2000,Kent,22
+LeavinfLeftPrivate,200050E212046,2000,Plymouth,10
+LeavinfLeftPrivate,2.00052E+12,2000,City of Bristol,28
+LeavinfLeftPrivate,2.00052E+12,2000,City of Bristol,16
+LeavinfLeftPrivate,2.00052E+12,2000,Somerset,11
+LeavinfLeftPrivate,2000530AI1738,2000,Gloucestershire,17
+LeavinfLeftPrivate,200101VK00366,2001,London,17
+LeavinfLeftPrivate,200101WW01161,2001,London,6
+LeavinfLeftPrivate,2.00112E+12,2001,North Yorkshire,8
+LeavinfLeftPrivate,200116C062101,2001,East Riding of Yorkshire,10
+LeavinfLeftPrivate,2.00121E+12,2001,Staffordshire,14
+LeavinfLeftPrivate,200122BE20721,2001,Worcestershire,12
+LeavinfLeftPrivate,200130D000503,2001,Derby,39
+LeavinfLeftPrivate,2.00135E+12,2001,Cambridgeshire,13
+LeavinfLeftPrivate,200145EM10161,2001,Surrey,54
+LeavinfLeftPrivate,2001530AI4236,2001,Gloucestershire,12
+LeavinfLeftPrivate,200206J011805,2002,Stockport,30
+LeavinfLeftPrivate,2.00221E+12,2002,Stoke on Trent,8
+LeavinfLeftPrivate,2.00221E+12,2002,Staffordshire,14
+LeavinfLeftPrivate,20023108B0350,2002,Nottinghamshire,15
+LeavinfLeftPrivate,200237B012987,2002,Suffolk,14
+LeavinfLeftPrivate,200237G011284,2002,Suffolk,15
+LeavinfLeftPrivate,200243N003062,2002,Buckinghamshire,15
+LeavinfLeftPrivate,200243N096042,2002,Buckinghamshire,16
+LeavinfLeftPrivate,200243W406092,2002,Reading,28
+LeavinfLeftPrivate,200250F532763,2002,Devon,6
+LeavinfLeftPrivate,2.00252E+12,2002,Somerset,12
+LeavinfLeftPrivate,200301HT00313,2003,London,32
+LeavinfLeftPrivate,200301TW00310,2003,London,42
+LeavinfLeftPrivate,200311BD05550,2003,Durham,19
+LeavinfLeftPrivate,200320K142202,2003,Sandwell,18
+LeavinfLeftPrivate,2.00321E+12,2003,Staffordshire,14
+LeavinfLeftPrivate,20033102B3023,2003,Nottinghamshire,
+LeavinfLeftPrivate,200332D054103,2003,Lincolnshire,15
+LeavinfLeftPrivate,200334NN01326,2003,Northamptonshire,20
+LeavinfLeftPrivate,200343W499063,2003,Reading,15
+LeavinfLeftPrivate,2003440ZD0960,2003,Isle of Wight,7
+LeavinfLeftPrivate,200346NK78307,2003,Kent,12
+LeavinfLeftPrivate,200346SW78155,2003,Kent,11
+LeavinfLeftPrivate,200347K166222,2003,West Sussex,11
+LeavinfLeftPrivate,200350C21P376,2003,Devon,8
+LeavinfLeftPrivate,2.00403E+12,2004,Cumbria,11
+LeavinfLeftPrivate,200430D000244,2004,Derbyshire,19
+LeavinfLeftPrivate,2.00435E+12,2004,Cambridgeshire,
+LeavinfLeftPrivate,2.00436E+12,2004,Norfolk,18
+LeavinfLeftPrivate,200443W069064,2004,Wokingham,10
+LeavinfLeftPrivate,2004530AI2792,2004,Gloucestershire,20
+LeavinfLeftPrivate,200501SX20647,2005,London,30
+LeavinfLeftPrivate,200501TX20350,2005,London,
+LeavinfLeftPrivate,200501XH30463,2005,London,10
+LeavinfLeftPrivate,200501ZD30318,2005,London,
+LeavinfLeftPrivate,200514A133405,2005,Doncaster,14
+LeavinfLeftPrivate,200520D208803,2005,Birmingham,14
+LeavinfLeftPrivate,2.00523E+12,2005,Warwickshire,14
+LeavinfLeftPrivate,2.00547E+12,2005,West Sussex,19
+LeavinfLeftPrivate,2005555P01279,2005,Poole,22
+LeavinfLeftPrivate,200620K092701,2006,Sandwell,54
+LeavinfLeftPrivate,2007160D01710,2007,Kingston Upon Hull,9
+LeavinfLeftPrivate,2.00752E+12,2007,South Gloucestershire,36
+LeavinfLeftPrivate,200801XD80562,2008,London,
+LeavinfLeftPrivate,200806L000389,2008,Wigan,10
+LeavinfLeftPrivate,200843R002128,2008,Slough,15
+LeavinfLeftPrivate,2.00844E+12,2008,Isle of Wight,38
+LeavinfLeftPrivate,2008558C02434,2008,Bournemouth,25
+LeavinfLeftPrivate,200901TC00300,2009,London,24
+LeavinfLeftPrivate,201001EO40190,2010,London,38
+LeavinfLeftPrivate,201043P130080,2010,Oxfordshire,36
+LeavinfLeftPrivate,2.01044E+12,2010,Hampshire,49
+LeavinfLeftPrivate,2011201101SX20529,2011,London,-1
+LeavinfLeftPrivate,2011201101TX20594,2011,London,21
+LeavinfLeftPrivate,2.0112E+16,2011,Swindon,18
+LeavinfLeftPrivate,2012201201QK50437,2012,London,18
+LeavinfLeftPrivate,2.0122E+16,2012,City of Bristol,33

@@ -1,0 +1,4226 @@
+Scenario,urn,accyr,LAName,Age
+ParkedCar,199901BH00037,1999,London,29
+ParkedCar,199901BH00126,1999,London,22
+ParkedCar,199901BH00185,1999,London,31
+ParkedCar,199901BS00308,1999,London,
+ParkedCar,199901BS00453,1999,London,39
+ParkedCar,199901BS00490,1999,London,
+ParkedCar,199901BS00670,1999,London,17
+ParkedCar,199901BS00783,1999,London,77
+ParkedCar,199901BS09051,1999,London,20
+ParkedCar,199901DM00201,1999,London,
+ParkedCar,199901DM00255,1999,London,25
+ParkedCar,199901DM00442,1999,London,32
+ParkedCar,199901DM00609,1999,London,27
+ParkedCar,199901DM00823,1999,London,31
+ParkedCar,199901DP00217,1999,London,37
+ParkedCar,199901EK00649,1999,London,35
+ParkedCar,199901FH00101,1999,London,46
+ParkedCar,199901FH00430,1999,London,42
+ParkedCar,199901FH00501,1999,London,24
+ParkedCar,199901GD00303,1999,London,35
+ParkedCar,199901GN00370,1999,London,28
+ParkedCar,199901HT00031,1999,London,21
+ParkedCar,199901HT00138,1999,London,22
+ParkedCar,199901HT00189,1999,London,25
+ParkedCar,199901HT00227,1999,London,33
+ParkedCar,199901HT00902,1999,London,
+ParkedCar,199901HT02157,1999,London,31
+ParkedCar,199901JC00248,1999,London,34
+ParkedCar,199901JC00388,1999,London,34
+ParkedCar,199901JI00259,1999,London,8
+ParkedCar,199901JL00022,1999,London,32
+ParkedCar,199901KD00495,1999,London,15
+ParkedCar,199901KD00588,1999,London,32
+ParkedCar,199901KD00943,1999,London,25
+ParkedCar,199901KF00103,1999,London,40
+ParkedCar,199901KF00293,1999,London,21
+ParkedCar,199901KF00373,1999,London,42
+ParkedCar,199901KF00483,1999,London,18
+ParkedCar,199901KG00288,1999,London,20
+ParkedCar,199901KO00491,1999,London,20
+ParkedCar,199901LD00144,1999,London,52
+ParkedCar,199901LD00323,1999,London,14
+ParkedCar,199901LD00405,1999,London,14
+ParkedCar,199901MD00099,1999,London,41
+ParkedCar,199901MD00233,1999,London,47
+ParkedCar,199901MD00259,1999,London,39
+ParkedCar,199901MD00349,1999,London,26
+ParkedCar,199901MD00402,1999,London,15
+ParkedCar,199901MM00309,1999,London,13
+ParkedCar,199901MM00314,1999,London,27
+ParkedCar,199901MM00424,1999,London,40
+ParkedCar,199901NI00143,1999,London,27
+ParkedCar,199901PD00488,1999,London,16
+ParkedCar,199901PL00066,1999,London,26
+ParkedCar,199901PL00348,1999,London,45
+ParkedCar,199901PY00081,1999,London,60
+ParkedCar,199901PY00590,1999,London,58
+ParkedCar,199901PY00674,1999,London,28
+ParkedCar,199901PY00699,1999,London,62
+ParkedCar,199901PY01107,1999,London,13
+ParkedCar,199901PY01129,1999,London,10
+ParkedCar,199901QK00094,1999,London,32
+ParkedCar,199901QK00378,1999,London,27
+ParkedCar,199901QK00440,1999,London,7
+ParkedCar,199901QK00528,1999,London,26
+ParkedCar,199901RG00778,1999,London,16
+ParkedCar,199901RX00015,1999,London,48
+ParkedCar,199901RY00247,1999,London,15
+ParkedCar,199901RY00510,1999,London,11
+ParkedCar,199901RY00703,1999,London,41
+ParkedCar,199901SC00015,1999,London,13
+ParkedCar,199901TG00232,1999,Surrey,17
+ParkedCar,199901TW00007,1999,London,38
+ParkedCar,199901TX00107,1999,London,28
+ParkedCar,199901VW00458,1999,London,15
+ParkedCar,199901WW00610,1999,London,10
+ParkedCar,199901XD00491,1999,London,43
+ParkedCar,199901XD00572,1999,London,20
+ParkedCar,199901XH00665,1999,London,17
+ParkedCar,199901XH00882,1999,London,40
+ParkedCar,199901XS00438,1999,London,11
+ParkedCar,199901XS00699,1999,London,28
+ParkedCar,199901YR00176,1999,London,9
+ParkedCar,199901ZD00224,1999,London,
+ParkedCar,199901ZD00343,1999,London,48
+ParkedCar,199901ZN00648,1999,London,54
+ParkedCar,199901ZN00753,1999,London,
+ParkedCar,199901ZP00082,1999,Surrey,42
+ParkedCar,199901ZP00771,1999,London,64
+ParkedCar,1.99903E+12,1999,Cumbria,32
+ParkedCar,1.99903E+12,1999,Cumbria,17
+ParkedCar,1.99903E+12,1999,Cumbria,38
+ParkedCar,199904A013199,1999,Blackpool,26
+ParkedCar,199904A013599,1999,Blackpool,29
+ParkedCar,199904B035799,1999,Lancashire,18
+ParkedCar,199904B044499,1999,Lancashire,17
+ParkedCar,199904B062399,1999,Lancashire,13
+ParkedCar,199904C047499,1999,Lancashire,65
+ParkedCar,199904D011099,1999,Lancashire,44
+ParkedCar,199904F033799,1999,Lancashire,46
+ParkedCar,199904F040799,1999,Lancashire,35
+ParkedCar,199904F065299,1999,Lancashire,28
+ParkedCar,199904F071799,1999,Lancashire,49
+ParkedCar,1.99905E+12,1999,Merseyside,50
+ParkedCar,1.99905E+12,1999,Merseyside,38
+ParkedCar,1.99905E+12,1999,Merseyside,26
+ParkedCar,1.99905E+12,1999,Merseyside,16
+ParkedCar,1.99905E+12,1999,Merseyside,14
+ParkedCar,1.99905E+12,1999,Merseyside,49
+ParkedCar,1.99905E+12,1999,Merseyside,43
+ParkedCar,1.99905E+12,1999,Merseyside,21
+ParkedCar,1.99905E+12,1999,Merseyside,47
+ParkedCar,1.99905E+12,1999,Merseyside,53
+ParkedCar,199906C007416,1999,Manchester,28
+ParkedCar,199906F004721,1999,Salford,11
+ParkedCar,199906F005253,1999,Salford,20
+ParkedCar,199906F392999,1999,Salford,16
+ParkedCar,199906G004016,1999,Tameside,12
+ParkedCar,199906K426499,1999,Bolton,25
+ParkedCar,199906Q004722,1999,Oldham,21
+ParkedCar,1999079A10528,1999,Cheshire East,18
+ParkedCar,1999079A31236,1999,Cheshire West and Chester,5
+ParkedCar,1999079B21459,1999,Warrington,53
+ParkedCar,1999079C30573,1999,Cheshire West and Chester,22
+ParkedCar,199910F242399,1999,Newcastle upon Tyne,12
+ParkedCar,199910G309699,1999,Newcastle upon Tyne,21
+ParkedCar,199910H338999,1999,North Tyneside,37
+ParkedCar,199910H420799,1999,North Tyneside,44
+ParkedCar,199910J239999,1999,Gateshead,23
+ParkedCar,199910O091099,1999,South Tyneside,15
+ParkedCar,1999119BD2048,1999,Durham,51
+ParkedCar,1999119BD2699,1999,Durham,13
+ParkedCar,1.99912E+12,1999,York,18
+ParkedCar,1.99912E+12,1999,North Yorkshire,55
+ParkedCar,1.99912E+12,1999,North Yorkshire,47
+ParkedCar,1.99912E+12,1999,North Yorkshire,37
+ParkedCar,1.99912E+12,1999,York,29
+ParkedCar,1.99912E+12,1999,North Yorkshire,26
+ParkedCar,1.99912E+12,1999,North Yorkshire,57
+ParkedCar,199913AA51699,1999,Leeds,26
+ParkedCar,199913AC29499,1999,Leeds,10
+ParkedCar,199913CA33699,1999,Leeds,10
+ParkedCar,199913CA52299,1999,Leeds,37
+ParkedCar,199913DA25999,1999,Wakefield,26
+ParkedCar,199913DA46599,1999,Wakefield,22
+ParkedCar,199913DC20599,1999,Wakefield,9
+ParkedCar,199913EA54599,1999,Kirklees,12
+ParkedCar,199913EA70099,1999,Kirklees,60
+ParkedCar,199913EA83799,1999,Kirklees,31
+ParkedCar,199913FA26199,1999,Calderdale,24
+ParkedCar,199913HA25499,1999,Bradford,13
+ParkedCar,199914AA00076,1999,Doncaster,22
+ParkedCar,199914BB00202,1999,Doncaster,
+ParkedCar,199914CC00499,1999,Doncaster,
+ParkedCar,199914CC00619,1999,Doncaster,60
+ParkedCar,199914DD00621,1999,Barnsley,21
+ParkedCar,199914EE00142,1999,Barnsley,29
+ParkedCar,199914FF00386,1999,Rotherham,20
+ParkedCar,199914GG00819,1999,Rotherham,18
+ParkedCar,199914HH00602,1999,Sheffield,53
+ParkedCar,199914HH00810,1999,Sheffield,11
+ParkedCar,199914JJ00384,1999,Sheffield,27
+ParkedCar,199914JJ00992,1999,Sheffield,17
+ParkedCar,199914KK00069,1999,Sheffield,11
+ParkedCar,199914KK00748,1999,Sheffield,26
+ParkedCar,199916A033799,1999,North East Lincolnshire,20
+ParkedCar,199916A048199,1999,North East Lincolnshire,41
+ParkedCar,199916A048999,1999,North East Lincolnshire,14
+ParkedCar,199916A050399,1999,North East Lincolnshire,8
+ParkedCar,199916A055999,1999,North East Lincolnshire,23
+ParkedCar,199916B016599,1999,North Lincolnshire,27
+ParkedCar,199916B046099,1999,North Lincolnshire,21
+ParkedCar,199916C000399,1999,East Riding of Yorkshire,53
+ParkedCar,199916C009499,1999,East Riding of Yorkshire,34
+ParkedCar,199916C034499,1999,East Riding of Yorkshire,40
+ParkedCar,199916C040999,1999,East Riding of Yorkshire,35
+ParkedCar,199916C055699,1999,East Riding of Yorkshire,66
+ParkedCar,199916D022999,1999,Kingston Upon Hull,57
+ParkedCar,199916E024199,1999,Kingston Upon Hull,33
+ParkedCar,199916E029899,1999,East Riding of Yorkshire,13
+ParkedCar,199916E041999,1999,East Riding of Yorkshire,16
+ParkedCar,199916F008399,1999,Kingston Upon Hull,24
+ParkedCar,199916F036999,1999,Kingston Upon Hull,
+ParkedCar,199917H100096,1999,Hartlepool,51
+ParkedCar,199917L200081,1999,Redcar and Cleveland,37
+ParkedCar,199917S100006,1999,Stockton on Tees,79
+ParkedCar,199917S100252,1999,Stockton on Tees,38
+ParkedCar,199920D187001,1999,Birmingham,11
+ParkedCar,199920H040402,1999,Walsall,47
+ParkedCar,199920H044502,1999,Walsall,25
+ParkedCar,199920J065101,1999,Dudley,9
+ParkedCar,199920J079101,1999,Dudley,7
+ParkedCar,199920L073801,1999,Solihull,14
+ParkedCar,199920M035701,1999,Coventry,11
+ParkedCar,199920M136101,1999,Coventry,54
+ParkedCar,199920M142101,1999,Coventry,34
+ParkedCar,199920M183201,1999,Coventry,16
+ParkedCar,1.99922E+12,1999,Stoke on Trent,23
+ParkedCar,1.99922E+12,1999,Staffordshire,13
+ParkedCar,1.99922E+12,1999,Staffordshire,26
+ParkedCar,1.99922E+12,1999,Staffordshire,35
+ParkedCar,1.99922E+12,1999,Staffordshire,22
+ParkedCar,1.99922E+12,1999,Staffordshire,13
+ParkedCar,1.99922E+12,1999,Staffordshire,11
+ParkedCar,1.99922E+12,1999,Staffordshire,13
+ParkedCar,199922AJ00607,1999,Worcestershire,65
+ParkedCar,199922AK02172,1999,Worcestershire,14
+ParkedCar,199922BX01056,1999,Worcestershire,34
+ParkedCar,199922CA13427,1999,Worcestershire,42
+ParkedCar,199922CE01040,1999,Worcestershire,38
+ParkedCar,199922CE10832,1999,Worcestershire,16
+ParkedCar,199922CT00592,1999,Worcestershire,19
+ParkedCar,199922EF00213,1999,Herefordshire,65
+ParkedCar,199922FA10531,1999,Shropshire,31
+ParkedCar,199922FE10870,1999,Shropshire,30
+ParkedCar,199922FG10843,1999,Shropshire,17
+ParkedCar,199922GD02511,1999,Telford and Wrekin,44
+ParkedCar,199922GM01944,1999,Telford and Wrekin,18
+ParkedCar,1.99924E+12,1999,Warwickshire,22
+ParkedCar,1.99924E+12,1999,Warwickshire,80
+ParkedCar,1.99924E+12,1999,Warwickshire,8
+ParkedCar,1.99924E+12,1999,Warwickshire,10
+ParkedCar,1.99924E+12,1999,Warwickshire,71
+ParkedCar,1.99924E+12,1999,Warwickshire,63
+ParkedCar,199930A000415,1999,Derbyshire,41
+ParkedCar,199930B000652,1999,Derbyshire,15
+ParkedCar,199930C000395,1999,Derbyshire,10
+ParkedCar,199930D000862,1999,Derby,31
+ParkedCar,199930D001034,1999,Derbyshire,42
+ParkedCar,1999317B20129,1999,Nottinghamshire,13
+ParkedCar,1999317C20170,1999,Nottingham,32
+ParkedCar,1999317C20737,1999,Nottinghamshire,45
+ParkedCar,1999317C41250,1999,Nottingham,48
+ParkedCar,1999317C41785,1999,Nottinghamshire,29
+ParkedCar,1999317D20243,1999,Nottingham,
+ParkedCar,1999317E80598,1999,Nottinghamshire,39
+ParkedCar,199932B015229,1999,Lincolnshire,32
+ParkedCar,199932C003339,1999,Lincolnshire,14
+ParkedCar,199932C005579,1999,Lincolnshire,44
+ParkedCar,199932C006559,1999,Lincolnshire,21
+ParkedCar,199932D007969,1999,Lincolnshire,28
+ParkedCar,1.99934E+12,1999,Leicestershire,
+ParkedCar,1.99934E+12,1999,Leicestershire,12
+ParkedCar,1.99934E+12,1999,Leicestershire,16
+ParkedCar,199934NC00216,1999,Northamptonshire,11
+ParkedCar,199934NN00774,1999,Northamptonshire,18
+ParkedCar,199934NN00811,1999,Northamptonshire,35
+ParkedCar,199934NN01168,1999,Northamptonshire,10
+ParkedCar,1.99935E+12,1999,Cambridgeshire,39
+ParkedCar,1.99935E+12,1999,Cambridgeshire,23
+ParkedCar,1.99935E+12,1999,Cambridgeshire,28
+ParkedCar,1.99935E+12,1999,Cambridgeshire,28
+ParkedCar,1.99935E+12,1999,Cambridgeshire,14
+ParkedCar,1.99935E+12,1999,Cambridgeshire,14
+ParkedCar,1.99935E+12,1999,Cambridgeshire,20
+ParkedCar,1.99935E+12,1999,Cambridgeshire,4
+ParkedCar,199936G990844,1999,Norfolk,26
+ParkedCar,199936N991043,1999,Norfolk,22
+ParkedCar,199936N991225,1999,Norfolk,
+ParkedCar,199936T990345,1999,Norfolk,25
+ParkedCar,199937G003768,1999,Suffolk,40
+ParkedCar,199937G004882,1999,Suffolk,47
+ParkedCar,199937G005010,1999,Suffolk,15
+ParkedCar,199937G005030,1999,Suffolk,47
+ParkedCar,199937L003266,1999,Suffolk,13
+ParkedCar,199937L003299,1999,Suffolk,13
+ParkedCar,199937L003300,1999,Suffolk,13
+ParkedCar,199937L003501,1999,Suffolk,38
+ParkedCar,199937L003625,1999,Suffolk,14
+ParkedCar,199940D278799,1999,Central Bedfordshire,51
+ParkedCar,19994100B0129,1999,Hertfordshire,26
+ParkedCar,19994200A0476,1999,Essex,52
+ParkedCar,19994200C0074,1999,Essex,
+ParkedCar,19994200C0198,1999,Essex,
+ParkedCar,19994200C0304,1999,Essex,33
+ParkedCar,19994200C0371,1999,Essex,19
+ParkedCar,19994200C0406,1999,Essex,20
+ParkedCar,19994200C0412,1999,Essex,15
+ParkedCar,19994200D0159,1999,Essex,30
+ParkedCar,19994200D0238,1999,Essex,21
+ParkedCar,2.00E+266,1999,Essex,
+ParkedCar,2.00E+274,1999,Essex,13
+ParkedCar,19994200E0319,1999,Essex,18
+ParkedCar,19994200E0566,1999,Essex,34
+ParkedCar,19994200F0384,1999,Thurrock,65
+ParkedCar,19994200F0430,1999,Thurrock,42
+ParkedCar,19994200H0203,1999,Southend on Sea,31
+ParkedCar,19994200H0322,1999,Southend on Sea,15
+ParkedCar,19994200H0401,1999,Southend on Sea,18
+ParkedCar,19994200H0512,1999,Southend on Sea,63
+ParkedCar,19994200H0564,1999,Southend on Sea,14
+ParkedCar,199943N084089,1999,Buckinghamshire,22
+ParkedCar,199943N241099,1999,Buckinghamshire,60
+ParkedCar,199943N258079,1999,Buckinghamshire,17
+ParkedCar,199943N300079,1999,Buckinghamshire,7
+ParkedCar,199943P031019,1999,Oxfordshire,20
+ParkedCar,199943P090099,1999,Oxfordshire,37
+ParkedCar,199943P105069,1999,Oxfordshire,53
+ParkedCar,199943P126089,1999,Oxfordshire,32
+ParkedCar,199943P171069,1999,Oxfordshire,30
+ParkedCar,199943P328099,1999,Oxfordshire,14
+ParkedCar,199943R103059,1999,Wokingham,14
+ParkedCar,199943R244129,1999,Windsor and Maidenhead,17
+ParkedCar,199943R248059,1999,Windsor and Maidenhead,58
+ParkedCar,199943R322059,1999,Slough,
+ParkedCar,199943S152029,1999,Milton Keynes,
+ParkedCar,199943W008049,1999,Reading,24
+ParkedCar,199943W061029,1999,Reading,37
+ParkedCar,199943W171039,1999,Reading,31
+ParkedCar,199943W229029,1999,West Berkshire,13
+ParkedCar,1999440AA1509,1999,Hampshire,39
+ParkedCar,1999440BB1228,1999,Hampshire,51
+ParkedCar,1999440DG0028,1999,Hampshire,38
+ParkedCar,1999440DH0188,1999,Hampshire,15
+ParkedCar,1999440GG0276,1999,Hampshire,50
+ParkedCar,1999440GG0293,1999,Hampshire,16
+ParkedCar,1999440GG0321,1999,Hampshire,54
+ParkedCar,1999440GG0336,1999,Hampshire,45
+ParkedCar,1999440GG0341,1999,Hampshire,61
+ParkedCar,1999440GG0439,1999,Hampshire,33
+ParkedCar,1999440GG0459,1999,Hampshire,14
+ParkedCar,1999440GG0689,1999,Hampshire,28
+ParkedCar,1999440HB0235,1999,Hampshire,34
+ParkedCar,1999440HF0407,1999,Hampshire,24
+ParkedCar,1999440HF0501,1999,Hampshire,15
+ParkedCar,1999440HP0263,1999,Hampshire,15
+ParkedCar,1999440JH0357,1999,Hampshire,17
+ParkedCar,1999440KS0035,1999,Portsmouth,18
+ParkedCar,1999440KS0289,1999,Portsmouth,26
+ParkedCar,1999440KS0524,1999,Portsmouth,15
+ParkedCar,1999440KS0561,1999,Portsmouth,31
+ParkedCar,1999440KS0648,1999,Portsmouth,16
+ParkedCar,1999440KS0658,1999,Portsmouth,20
+ParkedCar,1999440OL0899,1999,Hampshire,10
+ParkedCar,1999440RC0123,1999,Portsmouth,31
+ParkedCar,1999440RF0136,1999,Portsmouth,49
+ParkedCar,1999440RF0480,1999,Portsmouth,34
+ParkedCar,1999440RF0720,1999,Portsmouth,9
+ParkedCar,1999440RF0741,1999,Portsmouth,33
+ParkedCar,1999440SP0248,1999,Southampton ,20
+ParkedCar,1999440SP0360,1999,Southampton ,52
+ParkedCar,1999440SP0399,1999,Southampton ,35
+ParkedCar,1999440TB0302,1999,Southampton ,59
+ParkedCar,1999440YS0818,1999,Southampton ,65
+ParkedCar,1999440ZD0871,1999,Isle of Wight,9
+ParkedCar,199945EC00212,1999,Surrey,
+ParkedCar,199945ER00131,1999,Surrey,17
+ParkedCar,199945ER00204,1999,Surrey,52
+ParkedCar,199945NW00024,1999,Surrey,51
+ParkedCar,199945WG00157,1999,Surrey,15
+ParkedCar,199946ME04739,1999,Medway,10
+ParkedCar,199946NK01403,1999,Kent,15
+ParkedCar,199946NK04005,1999,Kent,73
+ParkedCar,199946NK04861,1999,Kent,11
+ParkedCar,199946SW06328,1999,Kent,66
+ParkedCar,199946SW08179,1999,Kent,50
+ParkedCar,199946SW09600,1999,Kent,32
+ParkedCar,199946SW09644,1999,Kent,10
+ParkedCar,199946TH03336,1999,Kent,67
+ParkedCar,199946TH06748,1999,Kent,11
+ParkedCar,199946WK08998,1999,Kent,15
+ParkedCar,199946WL06603,1999,Kent,49
+ParkedCar,199947C003048,1999,Brighton and Hove,58
+ParkedCar,199947C003396,1999,Brighton and Hove,30
+ParkedCar,199947C003758,1999,Brighton and Hove,15
+ParkedCar,199947C004301,1999,Brighton and Hove,28
+ParkedCar,199947C004474,1999,Brighton and Hove,23
+ParkedCar,199947C004517,1999,Brighton and Hove,31
+ParkedCar,199947C004797,1999,Brighton and Hove,30
+ParkedCar,199947C005338,1999,Brighton and Hove,18
+ParkedCar,199947C005346,1999,Brighton and Hove,25
+ParkedCar,199947H002130,1999,West Sussex,72
+ParkedCar,199947H003001,1999,West Sussex,12
+ParkedCar,199947N002405,1999,West Sussex,35
+ParkedCar,199947N003121,1999,West Sussex,6
+ParkedCar,199947N003976,1999,West Sussex,16
+ParkedCar,199947S002851,1999,East Sussex,18
+ParkedCar,199947S003444,1999,East Sussex,64
+ParkedCar,199947T002587,1999,East Sussex,17
+ParkedCar,199947T002734,1999,East Sussex,12
+ParkedCar,199947T002922,1999,East Sussex,72
+ParkedCar,199947T002929,1999,East Sussex,13
+ParkedCar,199947X002037,1999,West Sussex,22
+ParkedCar,199947X002048,1999,West Sussex,19
+ParkedCar,199947X002573,1999,West Sussex,38
+ParkedCar,199947X003185,1999,West Sussex,
+ParkedCar,199947X003259,1999,West Sussex,60
+ParkedCar,199947X003457,1999,West Sussex,27
+ParkedCar,199947X003596,1999,West Sussex,59
+ParkedCar,199947X003957,1999,West Sussex,56
+ParkedCar,199947Y002007,1999,West Sussex,25
+ParkedCar,199947Y002105,1999,West Sussex,63
+ParkedCar,199947Y002211,1999,West Sussex,23
+ParkedCar,199947Y002801,1999,West Sussex,16
+ParkedCar,199950A222136,1999,Cornwall and Isles of Scilly,23
+ParkedCar,199950A311218,1999,Cornwall and Isles of Scilly,9
+ParkedCar,199950A313913,1999,Cornwall and Isles of Scilly,12
+ParkedCar,199950A412148,1999,Cornwall and Isles of Scilly,25
+ParkedCar,199950A412601,1999,Cornwall and Isles of Scilly,15
+ParkedCar,199950B212292,1999,Cornwall and Isles of Scilly,17
+ParkedCar,199950B510629,1999,Cornwall and Isles of Scilly,23
+ParkedCar,199950B722683,1999,Cornwall and Isles of Scilly,50
+ParkedCar,199950C211071,1999,Devon,20
+ParkedCar,199950C234790,1999,Devon,62
+ParkedCar,199950C515324,1999,Devon,8
+ParkedCar,199950D210432,1999,Devon,13
+ParkedCar,199950D213599,1999,Devon,20
+ParkedCar,199950D214219,1999,Devon,12
+ParkedCar,199950D215363,1999,Devon,22
+ParkedCar,199950D314019,1999,Devon,46
+ParkedCar,199950D411981,1999,Devon,27
+ParkedCar,199950D420724,1999,Devon,20
+ParkedCar,199950D433213,1999,Devon,18
+ParkedCar,199950E312220,1999,Plymouth,7
+ParkedCar,199950E412009,1999,Plymouth,10
+ParkedCar,199950E412203,1999,Plymouth,45
+ParkedCar,199950E613205,1999,Devon,17
+ParkedCar,199950F213099,1999,Torbay,62
+ParkedCar,199950F416527,1999,Devon,12
+ParkedCar,199950F455133,1999,Devon,37
+ParkedCar,199950F512279,1999,Devon,15
+ParkedCar,199950F514141,1999,Devon,39
+ParkedCar,1.99952E+12,1999,Somerset,47
+ParkedCar,1.99952E+12,1999,City of Bristol,12
+ParkedCar,1.99952E+12,1999,City of Bristol,48
+ParkedCar,1.99952E+12,1999,North Somerset,50
+ParkedCar,1.99952E+12,1999,City of Bristol,28
+ParkedCar,1.99952E+12,1999,Bath and North East Somerset,46
+ParkedCar,1.99952E+12,1999,Somerset,13
+ParkedCar,1.99952E+12,1999,Bath and North East Somerset,21
+ParkedCar,1.99952E+12,1999,North Somerset,72
+ParkedCar,1.99952E+12,1999,Bath and North East Somerset,35
+ParkedCar,1.99952E+12,1999,Somerset,23
+ParkedCar,1.99952E+12,1999,Somerset,17
+ParkedCar,1.99952E+12,1999,South Gloucestershire,14
+ParkedCar,1.99952E+12,1999,Somerset,15
+ParkedCar,1.99952E+12,1999,City of Bristol,39
+ParkedCar,1999530AI3169,1999,Gloucestershire,60
+ParkedCar,199954DN57799,1999,Swindon,51
+ParkedCar,1999550B00081,1999,Bournemouth,28
+ParkedCar,1999550B01294,1999,Bournemouth,37
+ParkedCar,1999550B02818,1999,Bournemouth,15
+ParkedCar,1999550B02830,1999,Bournemouth,
+ParkedCar,1999550B03589,1999,Bournemouth,24
+ParkedCar,1999550B05149,1999,Bournemouth,72
+ParkedCar,1999550B05968,1999,Bournemouth,
+ParkedCar,1999550P01258,1999,Poole,23
+ParkedCar,19995599W1799,1999,Dorset,16
+ParkedCar,200001BS00077,2000,London,47
+ParkedCar,200001BS00211,2000,London,28
+ParkedCar,200001BS00384,2000,London,55
+ParkedCar,200001BS00386,2000,London,
+ParkedCar,200001BS00416,2000,London,29
+ParkedCar,200001BS00666,2000,London,40
+ParkedCar,200001BS00688,2000,London,16
+ParkedCar,200001BS00775,2000,London,29
+ParkedCar,200001BS00777,2000,London,
+ParkedCar,200001BS01010,2000,London,27
+ParkedCar,200001DM00092,2000,London,27
+ParkedCar,200001DM00503,2000,London,30
+ParkedCar,200001DM00734,2000,London,17
+ParkedCar,200001DM00752,2000,London,36
+ParkedCar,200001DM01119,2000,London,29
+ParkedCar,200001DM01230,2000,London,26
+ParkedCar,200001DM01618,2000,London,40
+ParkedCar,200001DM01834,2000,London,66
+ParkedCar,200001DM01837,2000,London,46
+ParkedCar,200001DM01880,2000,London,51
+ParkedCar,200001FH00818,2000,London,26
+ParkedCar,200001HT00076,2000,London,25
+ParkedCar,200001JI00697,2000,London,
+ParkedCar,200001KD00092,2000,London,34
+ParkedCar,200001LX01421,2000,London,38
+ParkedCar,200001MM01076,2000,London,35
+ParkedCar,200001MM01174,2000,London,46
+ParkedCar,200001NI01134,2000,London,
+ParkedCar,200001PL00822,2000,London,34
+ParkedCar,200001QA00324,2000,London,33
+ParkedCar,200001QK00229,2000,London,29
+ParkedCar,200001SX00305,2000,London,25
+ParkedCar,200001SX00622,2000,London,
+ParkedCar,200001SX00623,2000,London,
+ParkedCar,200001SX01030,2000,London,27
+ParkedCar,200001SX01324,2000,London,33
+ParkedCar,200001TW00120,2000,London,50
+ParkedCar,200001TW00604,2000,London,27
+ParkedCar,200001VW00736,2000,London,43
+ParkedCar,200001WW00811,2000,London,4
+ParkedCar,200001XD00042,2000,London,37
+ParkedCar,200001XH00139,2000,London,42
+ParkedCar,200001XH00836,2000,London,15
+ParkedCar,200001XH00850,2000,London,
+ParkedCar,200001XH00875,2000,London,17
+ParkedCar,200001XS00994,2000,London,60
+ParkedCar,200001YE00486,2000,London,51
+ParkedCar,200001YF00203,2000,London,68
+ParkedCar,200001ZD00203,2000,London,32
+ParkedCar,200001ZD00841,2000,London,16
+ParkedCar,200001ZP00536,2000,London,23
+ParkedCar,200001ZP00749,2000,London,44
+ParkedCar,2.00003E+12,2000,Cumbria,50
+ParkedCar,2.00003E+12,2000,Cumbria,28
+ParkedCar,2.00003E+12,2000,Cumbria,15
+ParkedCar,2.00003E+12,2000,Cumbria,9
+ParkedCar,2.00003E+12,2000,Cumbria,50
+ParkedCar,200004B084200,2000,Lancashire,29
+ParkedCar,200004C037000,2000,Lancashire,31
+ParkedCar,200004E062400,2000,Lancashire,26
+ParkedCar,2.00005E+12,2000,Merseyside,57
+ParkedCar,2.00005E+12,2000,Merseyside,43
+ParkedCar,2.00005E+12,2000,Merseyside,42
+ParkedCar,2.00005E+12,2000,Merseyside,15
+ParkedCar,2.00005E+12,2000,Merseyside,16
+ParkedCar,2.00005E+12,2000,Merseyside,57
+ParkedCar,2.00005E+12,2000,Merseyside,75
+ParkedCar,200006A007566,2000,Manchester,8
+ParkedCar,200006K007652,2000,Bolton,5
+ParkedCar,200006K008018,2000,Bolton,19
+ParkedCar,200006L007785,2000,Wigan,14
+ParkedCar,200006M005695,2000,Trafford,28
+ParkedCar,200006M006735,2000,Trafford,72
+ParkedCar,200006P005874,2000,Rochdale,45
+ParkedCar,2.00007E+12,2000,Warrington,13
+ParkedCar,2.00007E+12,2000,Cheshire West and Chester,17
+ParkedCar,2.00007E+12,2000,Cheshire West and Chester,55
+ParkedCar,2.00007E+12,2000,Cheshire West and Chester,39
+ParkedCar,2.00007E+12,2000,Warrington,67
+ParkedCar,2.00007E+12,2000,Cheshire West and Chester,34
+ParkedCar,2.00007E+12,2000,Warrington,56
+ParkedCar,2.00007E+12,2000,Cheshire West and Chester,33
+ParkedCar,2.00007E+12,2000,Cheshire West and Chester,36
+ParkedCar,2.00007E+12,2000,Cheshire West and Chester,63
+ParkedCar,200010B348700,2000,Northumberland,66
+ParkedCar,200010C089500,2000,Northumberland,4
+ParkedCar,200010C448500,2000,Northumberland,25
+ParkedCar,200010F159000,2000,Newcastle upon Tyne,28
+ParkedCar,200010F261800,2000,Newcastle upon Tyne,13
+ParkedCar,200010G059200,2000,North Tyneside,32
+ParkedCar,200010G438300,2000,Newcastle upon Tyne,35
+ParkedCar,200010I283500,2000,North Tyneside,40
+ParkedCar,200010I365600,2000,North Tyneside,40
+ParkedCar,200010L258900,2000,South Tyneside,8
+ParkedCar,200011AK20410,2000,Durham,31
+ParkedCar,2.00012E+12,2000,North Yorkshire,27
+ParkedCar,2.00012E+12,2000,York,45
+ParkedCar,2.00012E+12,2000,York,81
+ParkedCar,2.00012E+12,2000,York,22
+ParkedCar,2.00012E+12,2000,North Yorkshire,10
+ParkedCar,2.00012E+12,2000,North Yorkshire,13
+ParkedCar,2.00012E+12,2000,North Yorkshire,19
+ParkedCar,2.00012E+12,2000,North Yorkshire,34
+ParkedCar,2.00012E+12,2000,North Yorkshire,25
+ParkedCar,2.00012E+12,2000,York,27
+ParkedCar,2.00013E+12,2000,Calderdale,13
+ParkedCar,2.00013E+12,2000,Leeds,36
+ParkedCar,2.00013E+12,2000,Kirklees,11
+ParkedCar,2.00013E+12,2000,Bradford,25
+ParkedCar,2.00013E+12,2000,Kirklees,13
+ParkedCar,2.00013E+12,2000,Bradford,18
+ParkedCar,2.00013E+12,2000,Leeds,40
+ParkedCar,200013HB08000,2000,Bradford,25
+ParkedCar,200014EE00759,2000,Barnsley,12
+ParkedCar,200014HH00100,2000,Sheffield,61
+ParkedCar,200014II00264,2000,Sheffield,22
+ParkedCar,200016A008700,2000,North East Lincolnshire,53
+ParkedCar,200016A017500,2000,North East Lincolnshire,34
+ParkedCar,200016A031100,2000,North East Lincolnshire,36
+ParkedCar,200016A040200,2000,North East Lincolnshire,21
+ParkedCar,200016A043200,2000,North East Lincolnshire,15
+ParkedCar,200016A052900,2000,North East Lincolnshire,45
+ParkedCar,200016C009300,2000,East Riding of Yorkshire,51
+ParkedCar,200016C030100,2000,East Riding of Yorkshire,53
+ParkedCar,200016C030500,2000,East Riding of Yorkshire,17
+ParkedCar,200016C051300,2000,East Riding of Yorkshire,50
+ParkedCar,200016C074400,2000,East Riding of Yorkshire,14
+ParkedCar,200016C077900,2000,East Riding of Yorkshire,30
+ParkedCar,200016C096600,2000,East Riding of Yorkshire,50
+ParkedCar,200016C102800,2000,East Riding of Yorkshire,77
+ParkedCar,200016D034000,2000,Kingston Upon Hull,19
+ParkedCar,200016D039300,2000,Kingston Upon Hull,21
+ParkedCar,200016D056100,2000,Kingston Upon Hull,14
+ParkedCar,200016D072700,2000,Kingston Upon Hull,45
+ParkedCar,200016D097800,2000,Kingston Upon Hull,17
+ParkedCar,200017L200099,2000,Redcar and Cleveland,53
+ParkedCar,200017M100082,2000,Middlesbrough,49
+ParkedCar,200017M300111,2000,Middlesbrough,31
+ParkedCar,200017S200183,2000,Stockton on Tees,27
+ParkedCar,200017S200304,2000,Stockton on Tees,36
+ParkedCar,200017S300221,2000,Stockton on Tees,14
+ParkedCar,200020E194701,2000,Birmingham,18
+ParkedCar,200020F161701,2000,Birmingham,38
+ParkedCar,200020H046002,2000,Walsall,
+ParkedCar,200020H073501,2000,Walsall,23
+ParkedCar,200020J040301,2000,Dudley,20
+ParkedCar,200020J073902,2000,Dudley,33
+ParkedCar,200020L023101,2000,Solihull,30
+ParkedCar,200020M038401,2000,Coventry,57
+ParkedCar,200020M106903,2000,Coventry,18
+ParkedCar,200020M136503,2000,Coventry,12
+ParkedCar,200020M137402,2000,Coventry,41
+ParkedCar,2.00021E+12,2000,Stoke on Trent,7
+ParkedCar,2.00021E+12,2000,Stoke on Trent,
+ParkedCar,2.00021E+12,2000,Stoke on Trent,76
+ParkedCar,2.00021E+12,2000,Stoke on Trent,15
+ParkedCar,2.00021E+12,2000,Staffordshire,63
+ParkedCar,2.00021E+12,2000,Staffordshire,19
+ParkedCar,2.00021E+12,2000,Staffordshire,
+ParkedCar,20002102X0120,2000,Staffordshire,13
+ParkedCar,2.00021E+12,2000,Staffordshire,14
+ParkedCar,2.00021E+12,2000,Staffordshire,55
+ParkedCar,200022BD14065,2000,Worcestershire,9
+ParkedCar,200022BG16290,2000,Worcestershire,14
+ParkedCar,200022CA18758,2000,Worcestershire,13
+ParkedCar,200022FB19381,2000,Shropshire,12
+ParkedCar,200022GB15715,2000,Telford and Wrekin,9
+ParkedCar,2.00023E+12,2000,Warwickshire,17
+ParkedCar,2.00023E+12,2000,Warwickshire,49
+ParkedCar,2.00023E+12,2000,Warwickshire,12
+ParkedCar,2.00023E+12,2000,Warwickshire,45
+ParkedCar,2.00023E+12,2000,Warwickshire,68
+ParkedCar,2.00023E+12,2000,Warwickshire,78
+ParkedCar,2.00023E+12,2000,Warwickshire,46
+ParkedCar,2.00023E+12,2000,Warwickshire,
+ParkedCar,200030D000648,2000,Derbyshire,58
+ParkedCar,2000317A20324,2000,Nottinghamshire,7
+ParkedCar,2000317A20702,2000,Nottinghamshire,16
+ParkedCar,2000317A20860,2000,Nottinghamshire,28
+ParkedCar,2000317B20233,2000,Nottinghamshire,68
+ParkedCar,2000317B42043,2000,Nottingham,37
+ParkedCar,2000317D40636,2000,Nottingham,22
+ParkedCar,2000317D41565,2000,Nottinghamshire,17
+ParkedCar,2000317E20067,2000,Nottinghamshire,57
+ParkedCar,2000317E20104,2000,Nottinghamshire,
+ParkedCar,2000317E20321,2000,Nottinghamshire,
+ParkedCar,2000317E80807,2000,Nottinghamshire,68
+ParkedCar,2000317E81402,2000,Nottinghamshire,15
+ParkedCar,200032B004590,2000,Lincolnshire,14
+ParkedCar,200032C001560,2000,Lincolnshire,14
+ParkedCar,200032C003810,2000,Lincolnshire,62
+ParkedCar,200032C003860,2000,Lincolnshire,64
+ParkedCar,200032C010170,2000,Lincolnshire,51
+ParkedCar,200032C011150,2000,Lincolnshire,70
+ParkedCar,200032C011920,2000,Lincolnshire,64
+ParkedCar,200032C012000,2000,Lincolnshire,50
+ParkedCar,200032C013940,2000,Lincolnshire,26
+ParkedCar,200032D009650,2000,Lincolnshire,25
+ParkedCar,200032D012550,2000,Lincolnshire,13
+ParkedCar,2.00033E+12,2000,Leicestershire,18
+ParkedCar,2.00033E+12,2000,Leicestershire,17
+ParkedCar,2.00033E+12,2000,Leicestershire,16
+ParkedCar,2.00033E+12,2000,Leicestershire,40
+ParkedCar,200034NW00294,2000,Northamptonshire,37
+ParkedCar,2.00035E+12,2000,Cambridgeshire,26
+ParkedCar,2.00035E+12,2000,Cambridgeshire,34
+ParkedCar,2.00035E+12,2000,Peterborough,11
+ParkedCar,2.00035E+12,2000,Cambridgeshire,28
+ParkedCar,2.00035E+12,2000,Cambridgeshire,48
+ParkedCar,2.00035E+12,2000,Cambridgeshire,48
+ParkedCar,2.00035E+12,2000,Cambridgeshire,
+ParkedCar,2.00035E+12,2000,Cambridgeshire,77
+ParkedCar,2.00035E+12,2000,Cambridgeshire,16
+ParkedCar,2.00035E+12,2000,Cambridgeshire,36
+ParkedCar,200036G000093,2000,Norfolk,30
+ParkedCar,200036K000926,2000,Norfolk,21
+ParkedCar,200036K001267,2000,Norfolk,19
+ParkedCar,200036K001744,2000,Norfolk,
+ParkedCar,200036N000290,2000,Norfolk,35
+ParkedCar,200036N000757,2000,Norfolk,32
+ParkedCar,200036N001139,2000,Norfolk,60
+ParkedCar,200036N001182,2000,Norfolk,
+ParkedCar,200036N001484,2000,Norfolk,46
+ParkedCar,200036T000034,2000,Norfolk,35
+ParkedCar,200036T000388,2000,Norfolk,20
+ParkedCar,200037B007476,2000,Suffolk,39
+ParkedCar,200037B008688,2000,Suffolk,17
+ParkedCar,200037B009289,2000,Suffolk,30
+ParkedCar,200037B009325,2000,Suffolk,21
+ParkedCar,200037G005976,2000,Suffolk,49
+ParkedCar,200037G006254,2000,Suffolk,14
+ParkedCar,200037G006397,2000,Suffolk,55
+ParkedCar,200037G006628,2000,Suffolk,11
+ParkedCar,200037L003961,2000,Suffolk,65
+ParkedCar,200037L004462,2000,Suffolk,
+ParkedCar,2000400C03536,2000,Luton,74
+ParkedCar,2000400D00601,2000,Central Bedfordshire,
+ParkedCar,2000400D02711,2000,Central Bedfordshire,20
+ParkedCar,20004100C0357,2000,Hertfordshire,12
+ParkedCar,20004200C0327,2000,Essex,
+ParkedCar,20004200C0545,2000,Essex,9
+ParkedCar,20004200D0082,2000,Essex,39
+ParkedCar,20004200D0193,2000,Essex,15
+ParkedCar,20004200D0260,2000,Essex,13
+ParkedCar,2.00E+99,2000,Essex,18
+ParkedCar,20004200E0484,2000,Essex,51
+ParkedCar,20004200G0091,2000,Essex,49
+ParkedCar,20004200H0136,2000,Southend on Sea,40
+ParkedCar,20004200J0528,2000,Essex,69
+ParkedCar,200043N027090,2000,Buckinghamshire,30
+ParkedCar,200043N235030,2000,Buckinghamshire,
+ParkedCar,200043N246040,2000,Buckinghamshire,43
+ParkedCar,200043N292120,2000,Buckinghamshire,42
+ParkedCar,200043N381070,2000,Buckinghamshire,36
+ParkedCar,200043P121050,2000,Oxfordshire,26
+ParkedCar,200043P183020,2000,Oxfordshire,21
+ParkedCar,200043P231090,2000,Oxfordshire,24
+ParkedCar,200043W023100,2000,Reading,10
+ParkedCar,200043W580080,2000,Windsor and Maidenhead,15
+ParkedCar,200043W650060,2000,West Berkshire,
+ParkedCar,200043W721010,2000,West Berkshire,14
+ParkedCar,2000440AA0258,2000,Hampshire,36
+ParkedCar,2000440AA0993,2000,Hampshire,31
+ParkedCar,2000440BB0566,2000,Hampshire,27
+ParkedCar,2000440DF0055,2000,Hampshire,26
+ParkedCar,2000440DH0276,2000,Hampshire,36
+ParkedCar,2000440DR0269,2000,Hampshire,24
+ParkedCar,2000440DW0127,2000,Hampshire,13
+ParkedCar,2000440GG0079,2000,Hampshire,24
+ParkedCar,2000440GG0503,2000,Hampshire,24
+ParkedCar,2000440GG0587,2000,Hampshire,43
+ParkedCar,2000440HF0168,2000,Hampshire,25
+ParkedCar,2000440JH0704,2000,Hampshire,24
+ParkedCar,2000440KS0296,2000,Portsmouth,16
+ParkedCar,2000440KS0856,2000,Portsmouth,31
+ParkedCar,2000440KS0994,2000,Portsmouth,26
+ParkedCar,2000440LN0164,2000,Hampshire,14
+ParkedCar,2000440OC1299,2000,Hampshire,9
+ParkedCar,2000440RF0304,2000,Portsmouth,51
+ParkedCar,2000440RF0768,2000,Portsmouth,15
+ParkedCar,2000440RF0967,2000,Portsmouth,28
+ParkedCar,2000440SC0106,2000,Southampton ,21
+ParkedCar,2000440SP0345,2000,Southampton ,16
+ParkedCar,2000440SP0405,2000,Southampton ,17
+ParkedCar,2000440SP0670,2000,Southampton ,46
+ParkedCar,2000440SY0334,2000,Southampton ,69
+ParkedCar,2000440SY0590,2000,Southampton ,23
+ParkedCar,2000440YS0083,2000,Southampton ,26
+ParkedCar,200045EC00272,2000,Surrey,26
+ParkedCar,200045ER00122,2000,Surrey,
+ParkedCar,200045ER00145,2000,Surrey,
+ParkedCar,200045ER00238,2000,Surrey,
+ParkedCar,200045ER00275,2000,Surrey,57
+ParkedCar,200045EZ00231,2000,Surrey,
+ParkedCar,200045EZ00317,2000,Surrey,89
+ParkedCar,200045NA00125,2000,Surrey,16
+ParkedCar,200045NS00698,2000,Surrey,86
+ParkedCar,200045WF00445,2000,Surrey,17
+ParkedCar,200045WG00308,2000,Surrey,14
+ParkedCar,200046CT12885,2000,Kent,
+ParkedCar,200046CT29407,2000,Kent,17
+ParkedCar,200046NK30089,2000,Kent,42
+ParkedCar,200046SK24386,2000,Kent,14
+ParkedCar,200046SK25184,2000,Kent,54
+ParkedCar,200046SK25824,2000,Kent,36
+ParkedCar,200046SK30433,2000,Kent,4
+ParkedCar,200046TH30995,2000,Kent,50
+ParkedCar,200047C007327,2000,Brighton and Hove,55
+ParkedCar,200047C126022,2000,Brighton and Hove,19
+ParkedCar,200047C128372,2000,Brighton and Hove,
+ParkedCar,200047C129667,2000,Brighton and Hove,53
+ParkedCar,200047C130062,2000,Brighton and Hove,56
+ParkedCar,200047N126157,2000,West Sussex,10
+ParkedCar,200047S004622,2000,East Sussex,31
+ParkedCar,200047S005021,2000,East Sussex,42
+ParkedCar,200047S125730,2000,East Sussex,
+ParkedCar,200047T004357,2000,East Sussex,69
+ParkedCar,200047T126853,2000,East Sussex,15
+ParkedCar,200047X004883,2000,West Sussex,19
+ParkedCar,200047X129215,2000,West Sussex,14
+ParkedCar,200047X129853,2000,West Sussex,15
+ParkedCar,200047X130204,2000,West Sussex,24
+ParkedCar,200047Y003512,2000,West Sussex,26
+ParkedCar,200047Y127310,2000,West Sussex,70
+ParkedCar,200050A211672,2000,Cornwall and Isles of Scilly,12
+ParkedCar,200050A514071,2000,Cornwall and Isles of Scilly,40
+ParkedCar,200050A514434,2000,Cornwall and Isles of Scilly,40
+ParkedCar,200050B212708,2000,Cornwall and Isles of Scilly,11
+ParkedCar,200050B313759,2000,Cornwall and Isles of Scilly,17
+ParkedCar,200050B530547,2000,Cornwall and Isles of Scilly,16
+ParkedCar,200050B724748,2000,Cornwall and Isles of Scilly,60
+ParkedCar,200050C213704,2000,Devon,14
+ParkedCar,200050D212939,2000,Devon,20
+ParkedCar,200050D215550,2000,Devon,17
+ParkedCar,200050D215849,2000,Devon,53
+ParkedCar,200050F312405,2000,Torbay,15
+ParkedCar,200050F313277,2000,Torbay,21
+ParkedCar,2.00052E+12,2000,South Gloucestershire,33
+ParkedCar,2.00052E+12,2000,City of Bristol,30
+ParkedCar,2.00052E+12,2000,Bath and North East Somerset,39
+ParkedCar,2.00052E+12,2000,North Somerset,20
+ParkedCar,2.00052E+12,2000,City of Bristol,28
+ParkedCar,2.00052E+12,2000,South Gloucestershire,65
+ParkedCar,2.00052E+12,2000,City of Bristol,21
+ParkedCar,2.00052E+12,2000,City of Bristol,30
+ParkedCar,2.00052E+12,2000,City of Bristol,39
+ParkedCar,2.00052E+12,2000,City of Bristol,30
+ParkedCar,2.00052E+12,2000,City of Bristol,29
+ParkedCar,2.00052E+12,2000,City of Bristol,54
+ParkedCar,2.00052E+12,2000,Somerset,62
+ParkedCar,200052F118401,2000,Somerset,60
+ParkedCar,200052G502616,2000,Somerset,64
+ParkedCar,200052G728186,2000,Somerset,18
+ParkedCar,200052GU31456,2000,Somerset,60
+ParkedCar,2000530AI0101,2000,Gloucestershire,25
+ParkedCar,2000530AI1218,2000,Gloucestershire,11
+ParkedCar,200054DN70800,2000,Swindon,23
+ParkedCar,200054DS03200,2000,Swindon,14
+ParkedCar,200054DS31100,2000,Swindon,15
+ParkedCar,2000550B00223,2000,Bournemouth,26
+ParkedCar,2000550B02782,2000,Bournemouth,17
+ParkedCar,2000550B04149,2000,Bournemouth,28
+ParkedCar,2000550B04213,2000,Bournemouth,25
+ParkedCar,2000550B04434,2000,Bournemouth,60
+ParkedCar,2000550E01644,2000,Dorset,5
+ParkedCar,2000550E05818,2000,Dorset,37
+ParkedCar,2000550P02477,2000,Poole,
+ParkedCar,2000550P03398,2000,Poole,39
+ParkedCar,2000550P03613,2000,Poole,13
+ParkedCar,2000550W02276,2000,Dorset,
+ParkedCar,2000550W04185,2000,Dorset,26
+ParkedCar,200101BS00136,2001,London,24
+ParkedCar,200101BS00557,2001,London,33
+ParkedCar,200101BS00584,2001,London,30
+ParkedCar,200101BS00606,2001,London,35
+ParkedCar,200101CP00298,2001,London,39
+ParkedCar,200101DM00519,2001,London,29
+ParkedCar,200101EK00619,2001,London,35
+ParkedCar,200101GD00147,2001,London,33
+ParkedCar,200101GD00962,2001,London,21
+ParkedCar,200101HT01010,2001,London,50
+ParkedCar,200101KD00355,2001,London,19
+ParkedCar,200101LX00679,2001,London,20
+ParkedCar,200101LX01970,2001,London,34
+ParkedCar,200101MM00558,2001,London,30
+ParkedCar,200101MM00776,2001,London,22
+ParkedCar,200101MM01256,2001,London,19
+ParkedCar,200101PL00381,2001,London,28
+ParkedCar,200101PL00399,2001,London,56
+ParkedCar,200101QA00429,2001,London,29
+ParkedCar,200101QK00765,2001,London,24
+ParkedCar,200101RG00552,2001,London,40
+ParkedCar,200101RY00312,2001,London,33
+ParkedCar,200101RY00371,2001,London,16
+ParkedCar,200101SX00103,2001,London,
+ParkedCar,200101TW00355,2001,London,38
+ParkedCar,200101VK00415,2001,London,15
+ParkedCar,200101VW00501,2001,London,68
+ParkedCar,200101VW00617,2001,London,24
+ParkedCar,200101WW00446,2001,London,10
+ParkedCar,200101XH00560,2001,London,31
+ParkedCar,200101XS00756,2001,London,24
+ParkedCar,200101YR01168,2001,London,31
+ParkedCar,200101ZD00490,2001,London,44
+ParkedCar,200101ZD00668,2001,London,64
+ParkedCar,200101ZP00107,2001,London,19
+ParkedCar,2.00103E+12,2001,Cumbria,27
+ParkedCar,2.00103E+12,2001,Cumbria,51
+ParkedCar,200104A032901,2001,Lancashire,65
+ParkedCar,200104A040901,2001,Blackpool,57
+ParkedCar,200104A041001,2001,Lancashire,75
+ParkedCar,200104A060301,2001,Blackpool,33
+ParkedCar,200104B010701,2001,Lancashire,71
+ParkedCar,200104B028901,2001,Lancashire,23
+ParkedCar,200104B032801,2001,Lancashire,36
+ParkedCar,200104C089901,2001,Lancashire,21
+ParkedCar,200104C095501,2001,Lancashire,20
+ParkedCar,200104E074101,2001,Blackburn with Darwen,51
+ParkedCar,2.00105E+12,2001,Merseyside,32
+ParkedCar,2.00105E+12,2001,Merseyside,8
+ParkedCar,2.00105E+12,2001,Merseyside,27
+ParkedCar,2.00105E+12,2001,Merseyside,45
+ParkedCar,200106F008901,2001,Salford,10
+ParkedCar,200106K010459,2001,Bolton,25
+ParkedCar,200106L010238,2001,Wigan,50
+ParkedCar,200106M007121,2001,Trafford,13
+ParkedCar,200106N006149,2001,Bury,17
+ParkedCar,2.00107E+12,2001,Cheshire East,32
+ParkedCar,2.00107E+12,2001,Cheshire West and Chester,19
+ParkedCar,2.00107E+12,2001,Cheshire East,52
+ParkedCar,2.00107E+12,2001,Warrington,39
+ParkedCar,2.00107E+12,2001,Warrington,72
+ParkedCar,2.00107E+12,2001,Halton,11
+ParkedCar,2.00107E+12,2001,Cheshire West and Chester,31
+ParkedCar,2.00107E+12,2001,Warrington,50
+ParkedCar,2.00107E+12,2001,Halton,16
+ParkedCar,2.00107E+12,2001,Halton,20
+ParkedCar,200110D196301,2001,Newcastle upon Tyne,
+ParkedCar,200110E453001,2001,Newcastle upon Tyne,24
+ParkedCar,200110L446601,2001,South Tyneside,38
+ParkedCar,200110M107101,2001,South Tyneside,40
+ParkedCar,200111DJ16960,2001,Darlington,20
+ParkedCar,2.00112E+12,2001,York,26
+ParkedCar,2.00112E+12,2001,York,20
+ParkedCar,2.00112E+12,2001,York,14
+ParkedCar,2.00112E+12,2001,North Yorkshire,45
+ParkedCar,2.00112E+12,2001,North Yorkshire,10
+ParkedCar,2.00112E+12,2001,North Yorkshire,52
+ParkedCar,2.00112E+12,2001,North Yorkshire,14
+ParkedCar,2.00112E+12,2001,North Yorkshire,66
+ParkedCar,2.00112E+12,2001,North Yorkshire,32
+ParkedCar,2.00112E+12,2001,York,44
+ParkedCar,2.00112E+12,2001,North Yorkshire,9
+ParkedCar,2.00113E+12,2001,Bradford,10
+ParkedCar,2.00113E+12,2001,Leeds,15
+ParkedCar,2.00113E+12,2001,Kirklees,17
+ParkedCar,2.00113E+12,2001,Leeds,35
+ParkedCar,2.00113E+12,2001,Calderdale,72
+ParkedCar,2.00113E+12,2001,Wakefield,16
+ParkedCar,2.00113E+12,2001,Wakefield,30
+ParkedCar,2.00113E+12,2001,Leeds,33
+ParkedCar,2.00113E+12,2001,Bradford,32
+ParkedCar,200114CC00095,2001,Doncaster,30
+ParkedCar,200114DD00887,2001,Barnsley,82
+ParkedCar,200114EE00609,2001,Barnsley,35
+ParkedCar,200114GG00584,2001,Rotherham,42
+ParkedCar,200114JJ00320,2001,Sheffield,27
+ParkedCar,200116A017101,2001,North East Lincolnshire,50
+ParkedCar,200116A028401,2001,North East Lincolnshire,19
+ParkedCar,200116B028101,2001,North Lincolnshire,62
+ParkedCar,200116B055501,2001,North Lincolnshire,17
+ParkedCar,200116C031701,2001,East Riding of Yorkshire,38
+ParkedCar,200116C054101,2001,East Riding of Yorkshire,21
+ParkedCar,200116C078201,2001,East Riding of Yorkshire,14
+ParkedCar,200116D088701,2001,East Riding of Yorkshire,32
+ParkedCar,200116D092201,2001,Kingston Upon Hull,23
+ParkedCar,200116D097001,2001,Kingston Upon Hull,37
+ParkedCar,200117L200067,2001,Redcar and Cleveland,35
+ParkedCar,200120D208302,2001,Birmingham,16
+ParkedCar,200120D397901,2001,Birmingham,43
+ParkedCar,200120H094102,2001,Walsall,37
+ParkedCar,200120H094901,2001,Walsall,33
+ParkedCar,200120H123902,2001,Walsall,30
+ParkedCar,200120J131701,2001,Dudley,9
+ParkedCar,200120K058501,2001,Sandwell,39
+ParkedCar,200120K141101,2001,Sandwell,39
+ParkedCar,200120K152302,2001,Sandwell,21
+ParkedCar,200120K171102,2001,Sandwell,66
+ParkedCar,200120K177201,2001,Sandwell,38
+ParkedCar,200120L065001,2001,Solihull,26
+ParkedCar,2.00121E+12,2001,Staffordshire,
+ParkedCar,2.00121E+12,2001,Staffordshire,70
+ParkedCar,2.00121E+12,2001,Staffordshire,11
+ParkedCar,2.00121E+12,2001,Staffordshire,44
+ParkedCar,2.00121E+12,2001,Staffordshire,40
+ParkedCar,200122AA19291,2001,Worcestershire,20
+ParkedCar,200122AC17893,2001,Worcestershire,65
+ParkedCar,200122CA25125,2001,Worcestershire,14
+ParkedCar,200122CC24665,2001,Worcestershire,38
+ParkedCar,200122CD25444,2001,Worcestershire,47
+ParkedCar,200122CG22876,2001,Worcestershire,15
+ParkedCar,200122EB17723,2001,Herefordshire,29
+ParkedCar,200122GB21421,2001,Telford and Wrekin,28
+ParkedCar,2.00123E+12,2001,Warwickshire,38
+ParkedCar,2.00123E+12,2001,Warwickshire,73
+ParkedCar,2.00123E+12,2001,Warwickshire,
+ParkedCar,2.00123E+12,2001,Warwickshire,53
+ParkedCar,2.00123E+12,2001,Warwickshire,34
+ParkedCar,2.00123E+12,2001,Warwickshire,35
+ParkedCar,2.00123E+12,2001,Warwickshire,17
+ParkedCar,200130A000298,2001,Derbyshire,39
+ParkedCar,200130C000009,2001,Derbyshire,19
+ParkedCar,200130C000499,2001,Derbyshire,15
+ParkedCar,200130D000173,2001,Derby,
+ParkedCar,200130D000201,2001,Derby,
+ParkedCar,200130D000434,2001,Derby,30
+ParkedCar,200130D000645,2001,Derbyshire,37
+ParkedCar,200130D000753,2001,Derby,34
+ParkedCar,200130D000920,2001,Derby,49
+ParkedCar,20013102A0168,2001,Nottinghamshire,13
+ParkedCar,20013102D0173,2001,Nottinghamshire,44
+ParkedCar,20013102D0888,2001,Nottinghamshire,36
+ParkedCar,20013102D1065,2001,Nottingham,
+ParkedCar,20013102E0931,2001,Nottinghamshire,
+ParkedCar,20013104B0293,2001,Nottingham,38
+ParkedCar,20013104B1261,2001,Nottingham,27
+ParkedCar,20013104B1329,2001,Nottinghamshire,17
+ParkedCar,20013104C1251,2001,Nottingham,50
+ParkedCar,20013104D1649,2001,Nottingham,20
+ParkedCar,20013104D1866,2001,Nottinghamshire,54
+ParkedCar,20013108E1126,2001,Nottinghamshire,57
+ParkedCar,200132B038001,2001,Lincolnshire,15
+ParkedCar,200132B047801,2001,Lincolnshire,12
+ParkedCar,200132C111201,2001,Lincolnshire,38
+ParkedCar,200132D028701,2001,Lincolnshire,58
+ParkedCar,200132D036601,2001,Lincolnshire,47
+ParkedCar,200132D047401,2001,Lincolnshire,34
+ParkedCar,200132D105201,2001,Lincolnshire,71
+ParkedCar,200132D147801,2001,Lincolnshire,50
+ParkedCar,2.00133E+12,2001,Leicestershire,10
+ParkedCar,2.00133E+12,2001,Leicestershire,17
+ParkedCar,2.00133E+12,2001,Leicestershire,32
+ParkedCar,2.00133E+12,2001,Leicestershire,75
+ParkedCar,200134NC00459,2001,Northamptonshire,24
+ParkedCar,200134ND00400,2001,Northamptonshire,48
+ParkedCar,2.00135E+12,2001,Cambridgeshire,61
+ParkedCar,2.00135E+12,2001,Cambridgeshire,10
+ParkedCar,2.00135E+12,2001,Cambridgeshire,13
+ParkedCar,2.00135E+12,2001,Peterborough,20
+ParkedCar,2.00135E+12,2001,Cambridgeshire,15
+ParkedCar,2.00135E+12,2001,Cambridgeshire,
+ParkedCar,2.00135E+12,2001,Cambridgeshire,45
+ParkedCar,2.00135E+12,2001,Peterborough,
+ParkedCar,2.00135E+12,2001,Cambridgeshire,22
+ParkedCar,200136G011078,2001,Norfolk,30
+ParkedCar,200136K011798,2001,Norfolk,17
+ParkedCar,200137B010940,2001,Suffolk,14
+ParkedCar,200137B012337,2001,Suffolk,11
+ParkedCar,200137G008077,2001,Suffolk,26
+ParkedCar,200137G009142,2001,Suffolk,
+ParkedCar,2001400B00477,2001,Bedford Borough Council,51
+ParkedCar,2001400B01571,2001,Bedford Borough Council,14
+ParkedCar,2001400B02005,2001,Bedford Borough Council,31
+ParkedCar,2001400B03403,2001,Bedford Borough Council,41
+ParkedCar,20014100A1268,2001,Hertfordshire,34
+ParkedCar,20014100D0413,2001,Hertfordshire,15
+ParkedCar,20014100G0289,2001,Hertfordshire,76
+ParkedCar,20014100K0279,2001,Hertfordshire,62
+ParkedCar,20014200A0720,2001,Essex,17
+ParkedCar,20014200B0029,2001,Essex,56
+ParkedCar,20014200B0414,2001,Essex,
+ParkedCar,20014200C0312,2001,Essex,17
+ParkedCar,20014200C0332,2001,Essex,76
+ParkedCar,20014200C0431,2001,Essex,
+ParkedCar,20014200C0527,2001,Essex,13
+ParkedCar,20014200D0220,2001,Essex,63
+ParkedCar,2.00E+229,2001,Essex,20
+ParkedCar,20014200G0638,2001,Essex,11
+ParkedCar,200143N015091,2001,Buckinghamshire,36
+ParkedCar,200143N138081,2001,Buckinghamshire,62
+ParkedCar,200143N377031,2001,Buckinghamshire,30
+ParkedCar,200143P020011,2001,Oxfordshire,32
+ParkedCar,200143P054071,2001,Oxfordshire,11
+ParkedCar,200143P130041,2001,Oxfordshire,23
+ParkedCar,200143S044051,2001,Milton Keynes,
+ParkedCar,200143S065101,2001,Milton Keynes,13
+ParkedCar,200143W218081,2001,Windsor and Maidenhead,19
+ParkedCar,200143W515021,2001,Reading,19
+ParkedCar,200143W737071,2001,Reading,39
+ParkedCar,2001440DG0059,2001,Hampshire,73
+ParkedCar,2001440DT0069,2001,Hampshire,12
+ParkedCar,2001440GG0016,2001,Hampshire,39
+ParkedCar,2001440GG0131,2001,Hampshire,14
+ParkedCar,2001440GG0145,2001,Hampshire,53
+ParkedCar,2001440GG0251,2001,Hampshire,35
+ParkedCar,2001440GG0328,2001,Hampshire,55
+ParkedCar,2001440JH0354,2001,Hampshire,14
+ParkedCar,2001440KK0406,2001,Portsmouth,24
+ParkedCar,2001440KK0807,2001,Portsmouth,73
+ParkedCar,2001440KK0963,2001,Portsmouth,38
+ParkedCar,2001440KK1350,2001,Portsmouth,61
+ParkedCar,2001440KK2465,2001,Portsmouth,17
+ParkedCar,2001440KK2739,2001,Portsmouth,37
+ParkedCar,2001440LA0728,2001,Hampshire,17
+ParkedCar,2001440NA0249,2001,Hampshire,16
+ParkedCar,2001440NA0376,2001,Hampshire,43
+ParkedCar,2001440OC0455,2001,Hampshire,14
+ParkedCar,2001440OL0781,2001,Hampshire,29
+ParkedCar,2001440SP0259,2001,Southampton ,23
+ParkedCar,2001440SP0463,2001,Southampton ,55
+ParkedCar,2001440ST0707,2001,Southampton ,30
+ParkedCar,2001440SY0616,2001,Southampton ,19
+ParkedCar,2001440ZD0797,2001,Isle of Wight,16
+ParkedCar,2.00145E+12,2001,Surrey,30
+ParkedCar,2.00145E+12,2001,Surrey,15
+ParkedCar,2.00145E+12,2001,Surrey,
+ParkedCar,200145EM00949,2001,Surrey,
+ParkedCar,200145MA08784,2001,Surrey,
+ParkedCar,200145MA17153,2001,Surrey,39
+ParkedCar,200145MN06995,2001,Surrey,16
+ParkedCar,200145MW04672,2001,Surrey,50
+ParkedCar,200145NS11704,2001,Surrey,
+ParkedCar,2.00146E+12,2001,Medway,
+ParkedCar,2.00146E+12,2001,Medway,
+ParkedCar,200146NK38733,2001,Kent,62
+ParkedCar,200146NK41918,2001,Kent,10
+ParkedCar,200146SK44245,2001,Kent,19
+ParkedCar,200146TH38767,2001,Kent,12
+ParkedCar,200146TH43972,2001,Kent,56
+ParkedCar,200146WK37277,2001,Kent,40
+ParkedCar,200146WK41864,2001,Kent,12
+ParkedCar,200146WL37864,2001,Kent,17
+ParkedCar,200147C132884,2001,Brighton and Hove,47
+ParkedCar,200147C138363,2001,Brighton and Hove,41
+ParkedCar,200147C138638,2001,Brighton and Hove,20
+ParkedCar,200147C138640,2001,Brighton and Hove,25
+ParkedCar,200147C142860,2001,Brighton and Hove,16
+ParkedCar,200147C143372,2001,Brighton and Hove,
+ParkedCar,200147C143898,2001,Brighton and Hove,53
+ParkedCar,200147C144185,2001,Brighton and Hove,19
+ParkedCar,200147C145092,2001,Brighton and Hove,34
+ParkedCar,200147C145686,2001,Brighton and Hove,31
+ParkedCar,200147N141069,2001,West Sussex,40
+ParkedCar,200147X135789,2001,West Sussex,28
+ParkedCar,200147X136190,2001,West Sussex,64
+ParkedCar,200147X137101,2001,West Sussex,17
+ParkedCar,200147X137258,2001,West Sussex,56
+ParkedCar,200147X138203,2001,West Sussex,23
+ParkedCar,200147Y140562,2001,West Sussex,64
+ParkedCar,200150A511770,2001,Cornwall and Isles of Scilly,31
+ParkedCar,200150A515227,2001,Cornwall and Isles of Scilly,50
+ParkedCar,200150D211678,2001,Devon,14
+ParkedCar,200150D213478,2001,Devon,18
+ParkedCar,200150D214122,2001,Devon,29
+ParkedCar,200150D215224,2001,Devon,43
+ParkedCar,200150D215589,2001,Devon,11
+ParkedCar,200150D215850,2001,Devon,26
+ParkedCar,200150E311585,2001,Plymouth,28
+ParkedCar,200150E412086,2001,Plymouth,21
+ParkedCar,200150F213112,2001,Torbay,15
+ParkedCar,200150F270047,2001,Torbay,15
+ParkedCar,200150F313268,2001,Torbay,45
+ParkedCar,200150F423448,2001,Devon,37
+ParkedCar,2.00152E+12,2001,City of Bristol,37
+ParkedCar,2.00152E+12,2001,Bath and North East Somerset,18
+ParkedCar,2.00152E+12,2001,City of Bristol,23
+ParkedCar,2.00152E+12,2001,Bath and North East Somerset,9
+ParkedCar,2.00152E+12,2001,North Somerset,40
+ParkedCar,2.00152E+12,2001,South Gloucestershire,71
+ParkedCar,2.00152E+12,2001,Somerset,29
+ParkedCar,2.00152E+12,2001,Somerset,18
+ParkedCar,2.00152E+12,2001,Somerset,49
+ParkedCar,200152F632157,2001,Somerset,12
+ParkedCar,200152F690197,2001,Somerset,13
+ParkedCar,200152FT74462,2001,Somerset,31
+ParkedCar,200152G864107,2001,Somerset,18
+ParkedCar,2001530AI2119,2001,Gloucestershire,41
+ParkedCar,2001530AI2241,2001,Gloucestershire,10
+ParkedCar,2001530AI2295,2001,Gloucestershire,20
+ParkedCar,2001530AI3220,2001,Gloucestershire,53
+ParkedCar,2001530AI3746,2001,Gloucestershire,19
+ParkedCar,2001530AI4307,2001,Gloucestershire,14
+ParkedCar,2001530AI4430,2001,Gloucestershire,33
+ParkedCar,200154AD31901,2001,Wiltshire,30
+ParkedCar,200154AH22601,2001,Wiltshire,10
+ParkedCar,200154AN52001,2001,Wiltshire,48
+ParkedCar,200154AZ45301,2001,Wiltshire,15
+ParkedCar,200154AZ61401,2001,Wiltshire,24
+ParkedCar,200154CD52101,2001,Wiltshire,40
+ParkedCar,200154CD65401,2001,Wiltshire,56
+ParkedCar,200154CR28101,2001,Wiltshire,22
+ParkedCar,200154DN46601,2001,Swindon,31
+ParkedCar,2001550B00310,2001,Bournemouth,75
+ParkedCar,2001550P02480,2001,Poole,31
+ParkedCar,2001550P05140,2001,Poole,
+ParkedCar,2001550P06160,2001,Poole,21
+ParkedCar,2001551W04464,2001,Dorset,12
+ParkedCar,200201BS00603,2002,London,43
+ParkedCar,200201DM00642,2002,London,23
+ParkedCar,200201DM00670,2002,London,33
+ParkedCar,200201EO00782,2002,London,18
+ParkedCar,200201FH00381,2002,London,15
+ParkedCar,200201FH00821,2002,London,44
+ParkedCar,200201GD00250,2002,London,25
+ParkedCar,200201KG00462,2002,London,18
+ParkedCar,200201LX00503,2002,London,34
+ParkedCar,200201LX01394,2002,London,29
+ParkedCar,200201QK00698,2002,London,31
+ParkedCar,200201RG00851,2002,London,49
+ParkedCar,200201TW00249,2002,London,45
+ParkedCar,200201TX00048,2002,London,34
+ParkedCar,200201TX00509,2002,London,31
+ParkedCar,200201VK00072,2002,London,14
+ParkedCar,200201WW00488,2002,London,29
+ParkedCar,200201WW01122,2002,London,43
+ParkedCar,200201XS00633,2002,London,34
+ParkedCar,200201XS01018,2002,London,10
+ParkedCar,200201YR00235,2002,London,39
+ParkedCar,200201ZT00257,2002,London,5
+ParkedCar,200201ZT00376,2002,London,35
+ParkedCar,2.00203E+12,2002,Cumbria,32
+ParkedCar,200204A028602,2002,Lancashire,25
+ParkedCar,200204A029002,2002,Blackpool,15
+ParkedCar,200204A065002,2002,Lancashire,16
+ParkedCar,200204A065102,2002,Lancashire,57
+ParkedCar,200204B046002,2002,Lancashire,32
+ParkedCar,200204D053202,2002,Lancashire,12
+ParkedCar,200204E046202,2002,Lancashire,16
+ParkedCar,200204F065302,2002,Lancashire,14
+ParkedCar,200204F091402,2002,Lancashire,30
+ParkedCar,2.00205E+12,2002,Merseyside,55
+ParkedCar,2.00205E+12,2002,Merseyside,16
+ParkedCar,2.00205E+12,2002,Merseyside,40
+ParkedCar,2.00205E+12,2002,Merseyside,74
+ParkedCar,2.00205E+12,2002,Merseyside,45
+ParkedCar,2.00205E+12,2002,Merseyside,57
+ParkedCar,2.00205E+12,2002,Merseyside,45
+ParkedCar,2.00205E+12,2002,Merseyside,31
+ParkedCar,2.00205E+12,2002,Merseyside,29
+ParkedCar,2.00205E+12,2002,Merseyside,10
+ParkedCar,200205BS00092,2002,Merseyside,24
+ParkedCar,200206C019847,2002,Manchester,28
+ParkedCar,200206C020941,2002,Manchester,41
+ParkedCar,200206K013334,2002,Bolton,37
+ParkedCar,200206L012989,2002,Wigan,23
+ParkedCar,200206N008095,2002,Bury,12
+ParkedCar,2.00207E+12,2002,Warrington,49
+ParkedCar,2.00207E+12,2002,Halton,37
+ParkedCar,2.00207E+12,2002,Cheshire West and Chester,36
+ParkedCar,2.00207E+12,2002,Cheshire West and Chester,36
+ParkedCar,2.0021E+12,2002,Northumberland,7
+ParkedCar,2.0021E+12,2002,South Tyneside,
+ParkedCar,2.0021E+12,2002,South Tyneside,11
+ParkedCar,2.0021E+12,2002,Newcastle upon Tyne,46
+ParkedCar,2.0021E+12,2002,Newcastle upon Tyne,32
+ParkedCar,2.0021E+12,2002,Northumberland,25
+ParkedCar,200210B212302,2002,Northumberland,28
+ParkedCar,200210C231902,2002,Northumberland,68
+ParkedCar,200210N030602,2002,South Tyneside,
+ParkedCar,200211CG31290,2002,Durham,33
+ParkedCar,2.00212E+12,2002,North Yorkshire,36
+ParkedCar,2.00212E+12,2002,York,14
+ParkedCar,2.00212E+12,2002,North Yorkshire,15
+ParkedCar,2.00212E+12,2002,York,21
+ParkedCar,2.00212E+12,2002,York,23
+ParkedCar,2.00212E+12,2002,North Yorkshire,9
+ParkedCar,2.00212E+12,2002,York,42
+ParkedCar,2.00212E+12,2002,York,10
+ParkedCar,2.00212E+12,2002,North Yorkshire,21
+ParkedCar,2.00212E+12,2002,North Yorkshire,43
+ParkedCar,2.00212E+12,2002,North Yorkshire,36
+ParkedCar,2.00213E+12,2002,Bradford,23
+ParkedCar,2.00213E+12,2002,Leeds,26
+ParkedCar,2.00213E+12,2002,Leeds,35
+ParkedCar,2.00213E+12,2002,Bradford,17
+ParkedCar,2.00213E+12,2002,Leeds,41
+ParkedCar,2.00213E+12,2002,Bradford,31
+ParkedCar,2.00213E+12,2002,Leeds,44
+ParkedCar,2.00213E+12,2002,Bradford,7
+ParkedCar,2.00213E+12,2002,Kirklees,69
+ParkedCar,2.00213E+12,2002,Kirklees,19
+ParkedCar,2.00213E+12,2002,Leeds,31
+ParkedCar,2.00213E+12,2002,Kirklees,10
+ParkedCar,2.00213E+12,2002,Leeds,15
+ParkedCar,200214AA00726,2002,Doncaster,12
+ParkedCar,200214BB00128,2002,Doncaster,16
+ParkedCar,200214CC00740,2002,Doncaster,
+ParkedCar,200214EE01020,2002,Barnsley,13
+ParkedCar,200214KK00009,2002,Sheffield,13
+ParkedCar,200214KK00544,2002,Sheffield,59
+ParkedCar,200214KK00636,2002,Sheffield,23
+ParkedCar,200214KK00755,2002,Sheffield,5
+ParkedCar,200216A033902,2002,North East Lincolnshire,19
+ParkedCar,200216A035102,2002,North East Lincolnshire,17
+ParkedCar,200216A035202,2002,North East Lincolnshire,14
+ParkedCar,200216A036402,2002,North East Lincolnshire,58
+ParkedCar,200216A048302,2002,North East Lincolnshire,43
+ParkedCar,200216B009502,2002,North Lincolnshire,43
+ParkedCar,200216B023402,2002,North Lincolnshire,83
+ParkedCar,200216B033902,2002,North Lincolnshire,8
+ParkedCar,200216B040702,2002,North Lincolnshire,44
+ParkedCar,200216C008302,2002,East Riding of Yorkshire,33
+ParkedCar,200216C026302,2002,East Riding of Yorkshire,82
+ParkedCar,200216C029802,2002,East Riding of Yorkshire,12
+ParkedCar,200216C034002,2002,East Riding of Yorkshire,23
+ParkedCar,200216C037302,2002,East Riding of Yorkshire,7
+ParkedCar,200216C056302,2002,East Riding of Yorkshire,30
+ParkedCar,200216C064802,2002,East Riding of Yorkshire,17
+ParkedCar,200216C081702,2002,East Riding of Yorkshire,73
+ParkedCar,200216C100002,2002,East Riding of Yorkshire,55
+ParkedCar,200216C107402,2002,East Riding of Yorkshire,12
+ParkedCar,200216D005802,2002,Kingston Upon Hull,13
+ParkedCar,200216D008002,2002,Kingston Upon Hull,15
+ParkedCar,200216D013902,2002,Kingston Upon Hull,63
+ParkedCar,200216D026502,2002,Kingston Upon Hull,24
+ParkedCar,200216D037302,2002,Kingston Upon Hull,28
+ParkedCar,200216D039102,2002,Kingston Upon Hull,69
+ParkedCar,200216D100902,2002,Kingston Upon Hull,
+ParkedCar,200216D105702,2002,Kingston Upon Hull,18
+ParkedCar,200220E077801,2002,Birmingham,66
+ParkedCar,200220K134802,2002,Sandwell,48
+ParkedCar,200220L082101,2002,Solihull,37
+ParkedCar,200220M055602,2002,Coventry,66
+ParkedCar,2.00221E+12,2002,Stoke on Trent,26
+ParkedCar,2.00221E+12,2002,Staffordshire,17
+ParkedCar,2.00221E+12,2002,Staffordshire,13
+ParkedCar,2.00221E+12,2002,Staffordshire,69
+ParkedCar,2.00221E+12,2002,Staffordshire,78
+ParkedCar,2.00221E+12,2002,Staffordshire,28
+ParkedCar,2.00221E+12,2002,Staffordshire,42
+ParkedCar,200222AB21145,2002,Worcestershire,12
+ParkedCar,200222BA26832,2002,Worcestershire,16
+ParkedCar,200222CE28611,2002,Worcestershire,11
+ParkedCar,200222CE31823,2002,Worcestershire,31
+ParkedCar,200222CG30861,2002,Worcestershire,10
+ParkedCar,2.00223E+12,2002,Warwickshire,24
+ParkedCar,2.00223E+12,2002,Warwickshire,23
+ParkedCar,2.00223E+12,2002,Warwickshire,69
+ParkedCar,200230A000100,2002,Derbyshire,31
+ParkedCar,200230A000235,2002,Derbyshire,5
+ParkedCar,200230B000195,2002,Derbyshire,34
+ParkedCar,200230C000571,2002,Derbyshire,33
+ParkedCar,200230D000638,2002,Derby,9
+ParkedCar,200230D000722,2002,Derby,20
+ParkedCar,200230D000730,2002,Derby,17
+ParkedCar,200230D000733,2002,Derby,28
+ParkedCar,200230D000909,2002,Derby,20
+ParkedCar,20023102A0982,2002,Nottinghamshire,
+ParkedCar,20023102A1844,2002,Nottinghamshire,10
+ParkedCar,20023102B0520,2002,Nottinghamshire,67
+ParkedCar,20023102C1026,2002,Nottingham,31
+ParkedCar,20023102C2767,2002,Nottingham,34
+ParkedCar,20023102D0112,2002,Nottinghamshire,34
+ParkedCar,200232B017602,2002,Lincolnshire,16
+ParkedCar,200232D104102,2002,Lincolnshire,28
+ParkedCar,200232D187902,2002,Lincolnshire,49
+ParkedCar,2.00233E+12,2002,Leicestershire,32
+ParkedCar,2.00233E+12,2002,Leicestershire,20
+ParkedCar,2.00233E+12,2002,Leicestershire,76
+ParkedCar,2.00233E+12,2002,Leicestershire,45
+ParkedCar,200234NC00600,2002,Northamptonshire,40
+ParkedCar,200234ND00660,2002,Northamptonshire,23
+ParkedCar,2.00235E+12,2002,Cambridgeshire,
+ParkedCar,2.00235E+12,2002,Cambridgeshire,19
+ParkedCar,2.00235E+12,2002,Cambridgeshire,48
+ParkedCar,2.00235E+12,2002,Cambridgeshire,42
+ParkedCar,2.00235E+12,2002,Cambridgeshire,26
+ParkedCar,2.00235E+12,2002,Cambridgeshire,48
+ParkedCar,2.00235E+12,2002,Cambridgeshire,30
+ParkedCar,2.00235E+12,2002,Cambridgeshire,41
+ParkedCar,2.00236E+12,2002,Norfolk,18
+ParkedCar,2.00236E+12,2002,Norfolk,12
+ParkedCar,2.00236E+12,2002,Norfolk,15
+ParkedCar,200236K020819,2002,Norfolk,12
+ParkedCar,200236N020170,2002,Norfolk,17
+ParkedCar,200237B013139,2002,Suffolk,43
+ParkedCar,200237B014360,2002,Suffolk,18
+ParkedCar,200237G010859,2002,Suffolk,
+ParkedCar,200237G011089,2002,Suffolk,69
+ParkedCar,200237G011558,2002,Suffolk,16
+ParkedCar,200237G011621,2002,Suffolk,43
+ParkedCar,200237G011906,2002,Suffolk,34
+ParkedCar,200237L007331,2002,Suffolk,31
+ParkedCar,2002400B02531,2002,Bedford Borough Council,42
+ParkedCar,2002400C00422,2002,Luton,18
+ParkedCar,2002400C01795,2002,Luton,15
+ParkedCar,2002400C02146,2002,Luton,30
+ParkedCar,2002400C02195,2002,Luton,32
+ParkedCar,2002400C03725,2002,Luton,21
+ParkedCar,2002400D01445,2002,Central Bedfordshire,35
+ParkedCar,2002400D03001,2002,Central Bedfordshire,45
+ParkedCar,20024100K0395,2002,Hertfordshire,12
+ParkedCar,20024200A0438,2002,Essex,
+ParkedCar,20024200C0521,2002,Essex,63
+ParkedCar,20024200C0562,2002,Essex,
+ParkedCar,20024200D0184,2002,Essex,46
+ParkedCar,20024200G0777,2002,Essex,42
+ParkedCar,20024200H0039,2002,Southend on Sea,39
+ParkedCar,200243N030082,2002,Buckinghamshire,49
+ParkedCar,200243N139032,2002,Buckinghamshire,21
+ParkedCar,200243N213032,2002,Buckinghamshire,47
+ParkedCar,200243N267062,2002,Buckinghamshire,48
+ParkedCar,200243P005032,2002,Oxfordshire,24
+ParkedCar,200243P335062,2002,Oxfordshire,12
+ParkedCar,200243W419072,2002,West Berkshire,45
+ParkedCar,200243W547082,2002,Windsor and Maidenhead,62
+ParkedCar,200243W606082,2002,Reading,16
+ParkedCar,2002440AA0024,2002,Hampshire,36
+ParkedCar,2002440AA0951,2002,Hampshire,36
+ParkedCar,2002440GG0604,2002,Hampshire,46
+ParkedCar,2002440HF0613,2002,Hampshire,57
+ParkedCar,2002440JH0046,2002,Hampshire,16
+ParkedCar,2002440KK0075,2002,Portsmouth,69
+ParkedCar,2002440KK0187,2002,Portsmouth,52
+ParkedCar,2002440KK0269,2002,Portsmouth,24
+ParkedCar,2002440KK0550,2002,Portsmouth,17
+ParkedCar,2002440KK1231,2002,Portsmouth,60
+ParkedCar,2002440KK1258,2002,Portsmouth,16
+ParkedCar,2002440LA0815,2002,Hampshire,66
+ParkedCar,2002440SC0469,2002,Southampton ,48
+ParkedCar,2002440SP0017,2002,Southampton ,24
+ParkedCar,2002440SP0130,2002,Southampton ,22
+ParkedCar,2002440SP0363,2002,Southampton ,22
+ParkedCar,2002440SY0115,2002,Southampton ,29
+ParkedCar,2002440ZD0585,2002,Isle of Wight,56
+ParkedCar,200245NS17126,2002,Surrey,
+ParkedCar,200245RE27771,2002,Surrey,32
+ParkedCar,200245RN22906,2002,Surrey,
+ParkedCar,200245RN30562,2002,Surrey,26
+ParkedCar,200245RS20832,2002,Surrey,
+ParkedCar,200245RW20085,2002,Surrey,28
+ParkedCar,2.00247E+12,2002,Medway,19
+ParkedCar,200246NK54229,2002,Kent,47
+ParkedCar,200246SW56849,2002,Kent,26
+ParkedCar,200246SW63051,2002,Kent,15
+ParkedCar,200246SW67240,2002,Kent,14
+ParkedCar,200246WK61428,2002,Kent,
+ParkedCar,200246WL56088,2002,Kent,47
+ParkedCar,200247C149125,2002,West Sussex,40
+ParkedCar,200247C149142,2002,West Sussex,40
+ParkedCar,200247C149183,2002,West Sussex,65
+ParkedCar,200247K142028,2002,West Sussex,15
+ParkedCar,200247K150227,2002,Brighton and Hove,22
+ParkedCar,200247K150754,2002,Brighton and Hove,
+ParkedCar,200247K151698,2002,West Sussex,81
+ParkedCar,200247K152399,2002,West Sussex,59
+ParkedCar,200247K153198,2002,East Sussex,35
+ParkedCar,200247K153389,2002,West Sussex,42
+ParkedCar,200247K153507,2002,East Sussex,11
+ParkedCar,200247K153954,2002,Brighton and Hove,53
+ParkedCar,200247K154450,2002,East Sussex,76
+ParkedCar,200247K154675,2002,West Sussex,27
+ParkedCar,200247K157902,2002,West Sussex,23
+ParkedCar,200247S149088,2002,East Sussex,18
+ParkedCar,200247X145914,2002,West Sussex,14
+ParkedCar,200247X146383,2002,West Sussex,59
+ParkedCar,200247X148474,2002,West Sussex,20
+ParkedCar,200247X149152,2002,West Sussex,28
+ParkedCar,200250A312672,2002,Cornwall and Isles of Scilly,20
+ParkedCar,200250A313260,2002,Cornwall and Isles of Scilly,50
+ParkedCar,200250C213720,2002,Devon,29
+ParkedCar,200250C216026,2002,Devon,18
+ParkedCar,200250C238269,2002,Devon,42
+ParkedCar,200250E411185,2002,Plymouth,11
+ParkedCar,200250F215304,2002,Torbay,45
+ParkedCar,2.00252E+12,2002,City of Bristol,37
+ParkedCar,2.00252E+12,2002,South Gloucestershire,15
+ParkedCar,2.00252E+12,2002,City of Bristol,30
+ParkedCar,2.00252E+12,2002,City of Bristol,21
+ParkedCar,2.00252E+12,2002,South Gloucestershire,25
+ParkedCar,2.00252E+12,2002,North Somerset,16
+ParkedCar,2.00252E+12,2002,City of Bristol,25
+ParkedCar,2.00252E+12,2002,Somerset,33
+ParkedCar,2.00252E+12,2002,Somerset,19
+ParkedCar,2002530AI0481,2002,Gloucestershire,17
+ParkedCar,2002530AI1383,2002,Gloucestershire,23
+ParkedCar,200254AD62102,2002,Wiltshire,13
+ParkedCar,200254DE53902,2002,Swindon,10
+ParkedCar,2002550B00743,2002,Bournemouth,21
+ParkedCar,2002550B01735,2002,Bournemouth,25
+ParkedCar,2002550B02081,2002,Bournemouth,
+ParkedCar,2002550B03472,2002,Bournemouth,27
+ParkedCar,2002550B03514,2002,Bournemouth,44
+ParkedCar,2002550B04410,2002,Bournemouth,36
+ParkedCar,2002550B05088,2002,Bournemouth,36
+ParkedCar,2002550B05381,2002,Bournemouth,
+ParkedCar,2002550P01052,2002,Poole,44
+ParkedCar,2002550P03641,2002,Poole,
+ParkedCar,2002550P03662,2002,Poole,21
+ParkedCar,200301BS00158,2003,London,29
+ParkedCar,200301DM00250,2003,London,
+ParkedCar,200301DM00853,2003,London,39
+ParkedCar,200301DM01364,2003,London,30
+ParkedCar,200301EO00638,2003,London,51
+ParkedCar,200301EO01349,2003,London,
+ParkedCar,200301EO01469,2003,London,28
+ParkedCar,200301GD00273,2003,London,28
+ParkedCar,200301GD00296,2003,London,35
+ParkedCar,200301HT00600,2003,London,41
+ParkedCar,200301KG00506,2003,London,39
+ParkedCar,200301LX00041,2003,London,28
+ParkedCar,200301LX00753,2003,London,26
+ParkedCar,200301PY00210,2003,London,20
+ParkedCar,200301QA00348,2003,London,19
+ParkedCar,200301TC00232,2003,London,16
+ParkedCar,200301TW00245,2003,London,14
+ParkedCar,200301TX00354,2003,London,55
+ParkedCar,200301TX00520,2003,London,22
+ParkedCar,200301VW00155,2003,London,50
+ParkedCar,200301WW00462,2003,London,31
+ParkedCar,200301XH00648,2003,London,10
+ParkedCar,200301YE00350,2003,London,12
+ParkedCar,200301ZD00557,2003,London,27
+ParkedCar,2.00303E+12,2003,Cumbria,48
+ParkedCar,200304A007303,2003,Lancashire,35
+ParkedCar,200304A069903,2003,Blackpool,41
+ParkedCar,200304B009603,2003,Lancashire,41
+ParkedCar,200304C007703,2003,Lancashire,38
+ParkedCar,200304E007903,2003,Lancashire,22
+ParkedCar,200304F024603,2003,Lancashire,31
+ParkedCar,200304F077303,2003,Lancashire,6
+ParkedCar,200305AW00766,2003,Merseyside,53
+ParkedCar,200305BS00242,2003,Merseyside,31
+ParkedCar,200305BS00664,2003,Merseyside,35
+ParkedCar,200305BS01033,2003,Merseyside,58
+ParkedCar,200305ET01996,2003,Merseyside,16
+ParkedCar,200306A014187,2003,Manchester,33
+ParkedCar,200306C022888,2003,Manchester,30
+ParkedCar,200306C023317,2003,Manchester,12
+ParkedCar,200306F013269,2003,Salford,24
+ParkedCar,200306G010401,2003,Tameside,18
+ParkedCar,200306G011138,2003,Tameside,39
+ParkedCar,200306J013749,2003,Stockport,30
+ParkedCar,200306J014272,2003,Stockport,14
+ParkedCar,200306K014195,2003,Bolton,44
+ParkedCar,200306K015409,2003,Bolton,24
+ParkedCar,200306M011520,2003,Trafford,67
+ParkedCar,200306P012070,2003,Rochdale,22
+ParkedCar,200306P012109,2003,Rochdale,6
+ParkedCar,200306Q011533,2003,Oldham,61
+ParkedCar,2.00307E+12,2003,Cheshire East,71
+ParkedCar,2.00307E+12,2003,Warrington,40
+ParkedCar,2.00307E+12,2003,Cheshire West and Chester,39
+ParkedCar,2.00307E+12,2003,Cheshire West and Chester,14
+ParkedCar,2.00307E+12,2003,Cheshire West and Chester,59
+ParkedCar,2.00307E+12,2003,Warrington,11
+ParkedCar,2.00307E+12,2003,Cheshire West and Chester,38
+ParkedCar,2.00307E+12,2003,Cheshire West and Chester,38
+ParkedCar,2.0031E+12,2003,North Tyneside,27
+ParkedCar,2.0031E+12,2003,Newcastle upon Tyne,13
+ParkedCar,200311AK13490,2003,Durham,16
+ParkedCar,200311BD27470,2003,Durham,27
+ParkedCar,2.00312E+12,2003,York,19
+ParkedCar,2.00312E+12,2003,York,36
+ParkedCar,2.00312E+12,2003,York,21
+ParkedCar,2.00312E+12,2003,York,17
+ParkedCar,2.00312E+12,2003,North Yorkshire,29
+ParkedCar,2.00312E+12,2003,York,20
+ParkedCar,2.00312E+12,2003,York,17
+ParkedCar,2.00312E+12,2003,York,51
+ParkedCar,2.00312E+12,2003,York,14
+ParkedCar,2.00312E+12,2003,York,16
+ParkedCar,2.00312E+12,2003,York,27
+ParkedCar,2.00313E+12,2003,Wakefield,73
+ParkedCar,2.00313E+12,2003,Kirklees,37
+ParkedCar,2.00313E+12,2003,Bradford,11
+ParkedCar,2.00313E+12,2003,Wakefield,14
+ParkedCar,2.00313E+12,2003,Leeds,42
+ParkedCar,2.00313E+12,2003,Bradford,16
+ParkedCar,2.00313E+12,2003,Calderdale,27
+ParkedCar,200314BB00236,2003,Doncaster,26
+ParkedCar,200314DD00579,2003,Barnsley,23
+ParkedCar,200314GG00669,2003,Rotherham,10
+ParkedCar,200314II00064,2003,Sheffield,24
+ParkedCar,200314II00227,2003,Sheffield,39
+ParkedCar,200314JJ00853,2003,Sheffield,34
+ParkedCar,2003160A06020,2003,North East Lincolnshire,15
+ParkedCar,200316A011503,2003,North East Lincolnshire,21
+ParkedCar,200316A016303,2003,North East Lincolnshire,23
+ParkedCar,200316A024103,2003,North East Lincolnshire,24
+ParkedCar,200316A030703,2003,North East Lincolnshire,17
+ParkedCar,200316A032603,2003,North East Lincolnshire,37
+ParkedCar,200316A039003,2003,North East Lincolnshire,29
+ParkedCar,200316A053103,2003,North East Lincolnshire,54
+ParkedCar,200316B021703,2003,North Lincolnshire,12
+ParkedCar,200316B027503,2003,North Lincolnshire,48
+ParkedCar,200316C092603,2003,East Riding of Yorkshire,78
+ParkedCar,200316C094503,2003,East Riding of Yorkshire,13
+ParkedCar,200316D001703,2003,Kingston Upon Hull,38
+ParkedCar,200316D008803,2003,Kingston Upon Hull,41
+ParkedCar,200316D029603,2003,Kingston Upon Hull,45
+ParkedCar,200316D048503,2003,Kingston Upon Hull,27
+ParkedCar,200316D057603,2003,Kingston Upon Hull,17
+ParkedCar,200316D069303,2003,Kingston Upon Hull,10
+ParkedCar,200316D075603,2003,Kingston Upon Hull,
+ParkedCar,200316D097803,2003,Kingston Upon Hull,72
+ParkedCar,2003170H10643,2003,Hartlepool,15
+ParkedCar,200320E205201,2003,Birmingham,25
+ParkedCar,200320J080701,2003,Dudley,14
+ParkedCar,200320L086501,2003,Solihull,43
+ParkedCar,200320M038102,2003,Coventry,21
+ParkedCar,200320M048602,2003,Coventry,
+ParkedCar,2.00321E+12,2003,Stoke on Trent,53
+ParkedCar,2.00321E+12,2003,Staffordshire,12
+ParkedCar,2.00321E+12,2003,Staffordshire,39
+ParkedCar,2.00321E+12,2003,Staffordshire,11
+ParkedCar,2.00321E+12,2003,Staffordshire,16
+ParkedCar,2.00321E+12,2003,Staffordshire,12
+ParkedCar,2.00321E+12,2003,Staffordshire,18
+ParkedCar,2.00321E+12,2003,Staffordshire,31
+ParkedCar,200322DB32341,2003,Worcestershire,13
+ParkedCar,200322DF31559,2003,Worcestershire,19
+ParkedCar,200322EA24215,2003,Herefordshire,32
+ParkedCar,200322GB30066,2003,Telford and Wrekin,14
+ParkedCar,2.00323E+12,2003,Warwickshire,14
+ParkedCar,200330A000407,2003,Derbyshire,10
+ParkedCar,200330A000646,2003,Derbyshire,31
+ParkedCar,200330A000657,2003,Derbyshire,46
+ParkedCar,200330B000391,2003,Derbyshire,15
+ParkedCar,200330C000350,2003,Derbyshire,6
+ParkedCar,200330D000228,2003,Derbyshire,12
+ParkedCar,200330D000545,2003,Derby,
+ParkedCar,200330D001029,2003,Derby,32
+ParkedCar,20033102D2474,2003,Nottinghamshire,34
+ParkedCar,20033104C0224,2003,Nottingham,21
+ParkedCar,200332C161603,2003,Lincolnshire,65
+ParkedCar,200332D037003,2003,Lincolnshire,20
+ParkedCar,2.00333E+12,2003,Leicestershire,
+ParkedCar,2.00333E+12,2003,Leicestershire,30
+ParkedCar,2.00333E+12,2003,Leicestershire,7
+ParkedCar,2.00333E+12,2003,Leicestershire,12
+ParkedCar,2.00333E+12,2003,Leicestershire,52
+ParkedCar,2.00333E+12,2003,Leicestershire,55
+ParkedCar,2.00333E+12,2003,Leicestershire,14
+ParkedCar,200334NN02166,2003,Northamptonshire,17
+ParkedCar,2.00335E+12,2003,Cambridgeshire,48
+ParkedCar,2.00335E+12,2003,Cambridgeshire,
+ParkedCar,2.00335E+12,2003,Cambridgeshire,16
+ParkedCar,2.00335E+12,2003,Peterborough,60
+ParkedCar,2.00335E+12,2003,Cambridgeshire,28
+ParkedCar,2.00335E+12,2003,Cambridgeshire,38
+ParkedCar,2.00335E+12,2003,Cambridgeshire,13
+ParkedCar,2.00336E+12,2003,Norfolk,69
+ParkedCar,2.00336E+12,2003,Norfolk,33
+ParkedCar,200337B016784,2003,Suffolk,16
+ParkedCar,200337B017300,2003,Suffolk,34
+ParkedCar,200337B017634,2003,Suffolk,40
+ParkedCar,200337B017810,2003,Suffolk,26
+ParkedCar,200337B017836,2003,Suffolk,51
+ParkedCar,200337L008246,2003,Suffolk,30
+ParkedCar,200337L009379,2003,Suffolk,18
+ParkedCar,2003400D00841,2003,Central Bedfordshire,13
+ParkedCar,20034100B0748,2003,Hertfordshire,18
+ParkedCar,20034100F4716,2003,Hertfordshire,27
+ParkedCar,20034100F4984,2003,Hertfordshire,25
+ParkedCar,20034200A0198,2003,Essex,56
+ParkedCar,20034200A0410,2003,Essex,
+ParkedCar,20034200A0650,2003,Essex,26
+ParkedCar,20034200C0010,2003,Essex,61
+ParkedCar,20034200C0230,2003,Essex,28
+ParkedCar,20034200C0361,2003,Essex,13
+ParkedCar,20034200D0100,2003,Essex,41
+ParkedCar,20034200D0202,2003,Essex,
+ParkedCar,2.00E+132,2003,Essex,38
+ParkedCar,20034200G0877,2003,Essex,35
+ParkedCar,20034200H0412,2003,Southend on Sea,66
+ParkedCar,20034200J0341,2003,Essex,51
+ParkedCar,200343N061083,2003,Buckinghamshire,37
+ParkedCar,200343N084083,2003,Buckinghamshire,33
+ParkedCar,200343N307033,2003,Buckinghamshire,40
+ParkedCar,200343P034063,2003,Oxfordshire,23
+ParkedCar,200343P060033,2003,Oxfordshire,68
+ParkedCar,200343P448093,2003,Oxfordshire,23
+ParkedCar,200343S053123,2003,Milton Keynes,28
+ParkedCar,200343W044073,2003,Reading,29
+ParkedCar,200343W096033,2003,Reading,16
+ParkedCar,200343W154093,2003,Windsor and Maidenhead,
+ParkedCar,200343W196023,2003,Reading,36
+ParkedCar,200343W341093,2003,Wokingham,14
+ParkedCar,200343W343103,2003,Reading,37
+ParkedCar,200343W622063,2003,West Berkshire,48
+ParkedCar,2003440BB1043,2003,Hampshire,55
+ParkedCar,2003440DG0150,2003,Hampshire,16
+ParkedCar,2003440GG0170,2003,Hampshire,50
+ParkedCar,2003440GG0382,2003,Hampshire,8
+ParkedCar,2003440GG0532,2003,Hampshire,32
+ParkedCar,2003440HP0350,2003,Hampshire,46
+ParkedCar,2003440KK0274,2003,Portsmouth,63
+ParkedCar,2003440KK0469,2003,Portsmouth,22
+ParkedCar,2003440KK0914,2003,Portsmouth,27
+ParkedCar,2003440KK0925,2003,Portsmouth,18
+ParkedCar,2003440KK1419,2003,Portsmouth,53
+ParkedCar,2003440KK2231,2003,Portsmouth,35
+ParkedCar,2003440KK2526,2003,Portsmouth,28
+ParkedCar,2003440LA0749,2003,Hampshire,80
+ParkedCar,2003440OL1542,2003,Hampshire,13
+ParkedCar,2003440SC0226,2003,Southampton ,24
+ParkedCar,2003440SC0251,2003,Southampton ,26
+ParkedCar,2003440SC0427,2003,Southampton ,35
+ParkedCar,2003440SC0603,2003,Southampton ,24
+ParkedCar,2003440SC0651,2003,Southampton ,22
+ParkedCar,2003440ST0055,2003,Southampton ,57
+ParkedCar,2003440SY0681,2003,Southampton ,23
+ParkedCar,2003440ZD0501,2003,Isle of Wight,16
+ParkedCar,2003440ZD1264,2003,Isle of Wight,53
+ParkedCar,200345RS35880,2003,Surrey,43
+ParkedCar,200346SK80485,2003,Kent,37
+ParkedCar,200346SK81632,2003,Kent,65
+ParkedCar,200346SW77158,2003,Kent,6
+ParkedCar,200346SW77693,2003,Kent,25
+ParkedCar,200346SW82870,2003,Kent,35
+ParkedCar,200346TH72632,2003,Kent,
+ParkedCar,200346TH78730,2003,Kent,22
+ParkedCar,200346TH84191,2003,Kent,
+ParkedCar,200346WK83893,2003,Kent,13
+ParkedCar,200346WK87454,2003,Kent,73
+ParkedCar,200347K159705,2003,West Sussex,
+ParkedCar,200347K161842,2003,West Sussex,11
+ParkedCar,200347K162775,2003,Brighton and Hove,41
+ParkedCar,200347K162805,2003,West Sussex,65
+ParkedCar,200347K163572,2003,East Sussex,24
+ParkedCar,200347K163904,2003,West Sussex,
+ParkedCar,200347K164286,2003,East Sussex,15
+ParkedCar,200347K164323,2003,West Sussex,24
+ParkedCar,200347K165005,2003,East Sussex,59
+ParkedCar,200347K165051,2003,West Sussex,
+ParkedCar,200347K165442,2003,Brighton and Hove,20
+ParkedCar,200347K165494,2003,West Sussex,27
+ParkedCar,200347K166433,2003,Brighton and Hove,47
+ParkedCar,200347K166485,2003,East Sussex,59
+ParkedCar,200347K167660,2003,West Sussex,37
+ParkedCar,200347K169070,2003,Brighton and Hove,18
+ParkedCar,200347K169624,2003,West Sussex,33
+ParkedCar,200347K172527,2003,West Sussex,46
+ParkedCar,200350A22Q805,2003,Cornwall and Isles of Scilly,11
+ParkedCar,200350A41G392,2003,Cornwall and Isles of Scilly,7
+ParkedCar,200350B41I166,2003,Cornwall and Isles of Scilly,10
+ParkedCar,200350B51G656,2003,Cornwall and Isles of Scilly,15
+ParkedCar,200350C51L092,2003,Devon,12
+ParkedCar,200350D21C554,2003,Devon,60
+ParkedCar,200350E21N520,2003,Plymouth,46
+ParkedCar,200350E61K234,2003,Devon,42
+ParkedCar,2.00352E+12,2003,North Somerset,53
+ParkedCar,2.00352E+12,2003,City of Bristol,27
+ParkedCar,2.00352E+12,2003,North Somerset,19
+ParkedCar,2.00352E+12,2003,City of Bristol,26
+ParkedCar,2.00352E+12,2003,City of Bristol,30
+ParkedCar,2.00352E+12,2003,Somerset,19
+ParkedCar,2.00352E+12,2003,Somerset,53
+ParkedCar,2003530AI2817,2003,Gloucestershire,13
+ParkedCar,200354AM48903,2003,Wiltshire,5
+ParkedCar,200354CP08203,2003,Wiltshire,13
+ParkedCar,200354DC03203,2003,Swindon,32
+ParkedCar,2003550B03495,2003,Bournemouth,81
+ParkedCar,2003550B03737,2003,Bournemouth,21
+ParkedCar,2003550B05424,2003,Bournemouth,39
+ParkedCar,2003550P04078,2003,Poole,24
+ParkedCar,2003550P05079,2003,Poole,
+ParkedCar,2003550P06661,2003,Poole,18
+ParkedCar,2.00E+292,2003,Dorset,82
+ParkedCar,2003553W04609,2003,Dorset,31
+ParkedCar,200401BS00357,2004,London,51
+ParkedCar,200401CP00312,2004,London,31
+ParkedCar,200401CW10015,2004,London,44
+ParkedCar,200401CW19157,2004,London,41
+ParkedCar,200401DM00408,2004,London,28
+ParkedCar,200401EO01057,2004,London,26
+ParkedCar,200401EO01264,2004,London,37
+ParkedCar,200401EO01430,2004,London,26
+ParkedCar,200401EO01710,2004,London,
+ParkedCar,200401EO01733,2004,London,26
+ParkedCar,200401FH00747,2004,London,42
+ParkedCar,200401FH00780,2004,London,51
+ParkedCar,200401GD00109,2004,London,34
+ParkedCar,200401GD19078,2004,London,47
+ParkedCar,200401KG00012,2004,London,19
+ParkedCar,200401LX50343,2004,London,54
+ParkedCar,200401LX50349,2004,London,24
+ParkedCar,200401LX50407,2004,London,27
+ParkedCar,200401LX50424,2004,London,28
+ParkedCar,200401LX50725,2004,London,30
+ParkedCar,200401LX50817,2004,London,34
+ParkedCar,200401MM70110,2004,London,30
+ParkedCar,200401MM70411,2004,London,46
+ParkedCar,200401MM70586,2004,London,30
+ParkedCar,200401MM70660,2004,London,30
+ParkedCar,200401MM79259,2004,London,50
+ParkedCar,200401MM79267,2004,London,29
+ParkedCar,200401PL60478,2004,London,44
+ParkedCar,200401PL60592,2004,London,34
+ParkedCar,200401RG40400,2004,London,43
+ParkedCar,200401RG40471,2004,London,24
+ParkedCar,200401RY10221,2004,London,10
+ParkedCar,200401RY10323,2004,London,23
+ParkedCar,200401SX00540,2004,London,52
+ParkedCar,200401SX00564,2004,London,63
+ParkedCar,200401TA00552,2004,London,26
+ParkedCar,200401TC00086,2004,London,
+ParkedCar,200401TC00732,2004,London,13
+ParkedCar,200401TD00053,2004,London,23
+ParkedCar,200401TW00481,2004,London,32
+ParkedCar,200401TW00540,2004,London,53
+ParkedCar,200401TX00857,2004,London,23
+ParkedCar,200401VK00319,2004,London,64
+ParkedCar,200401VW00416,2004,London,15
+ParkedCar,200401VW00432,2004,London,28
+ParkedCar,200401VW00516,2004,London,50
+ParkedCar,200401WW00999,2004,London,19
+ParkedCar,200401WW01038,2004,London,42
+ParkedCar,200401WW01056,2004,London,
+ParkedCar,200401WW50009,2004,London,51
+ParkedCar,200401XS00801,2004,London,36
+ParkedCar,200401YR90048,2004,London,23
+ParkedCar,200401ZT80227,2004,London,39
+ParkedCar,200401ZT80411,2004,London,48
+ParkedCar,2.00403E+12,2004,Cumbria,32
+ParkedCar,2.00403E+12,2004,Cumbria,21
+ParkedCar,2.00403E+12,2004,Cumbria,16
+ParkedCar,2.00403E+12,2004,Cumbria,10
+ParkedCar,200404B073404,2004,Lancashire,21
+ParkedCar,200404C039304,2004,Lancashire,38
+ParkedCar,200404C060804,2004,Lancashire,15
+ParkedCar,2.00E+109,2004,Lancashire,19
+ParkedCar,200405AW01092,2004,Merseyside,57
+ParkedCar,200405AW02074,2004,Merseyside,56
+ParkedCar,200405BS01447,2004,Merseyside,24
+ParkedCar,200405DH00210,2004,Merseyside,14
+ParkedCar,200405ET00374,2004,Merseyside,43
+ParkedCar,200405FT00581,2004,Merseyside,32
+ParkedCar,200405FT01379,2004,Merseyside,30
+ParkedCar,200405FT01406,2004,Merseyside,48
+ParkedCar,200406A017072,2004,Manchester,38
+ParkedCar,200406C025567,2004,Manchester,25
+ParkedCar,200406C025692,2004,Manchester,29
+ParkedCar,200406C026067,2004,Manchester,55
+ParkedCar,200406C904349,2004,Manchester,22
+ParkedCar,200406F911660,2004,Salford,55
+ParkedCar,200406L902747,2004,Wigan,33
+ParkedCar,200406L911431,2004,Wigan,11
+ParkedCar,200406N903230,2004,Bury,39
+ParkedCar,200406N907952,2004,Bury,32
+ParkedCar,2.00407E+12,2004,Cheshire West and Chester,8
+ParkedCar,2.00407E+12,2004,Cheshire West and Chester,34
+ParkedCar,2.00407E+12,2004,Cheshire West and Chester,23
+ParkedCar,2.00407E+12,2004,Warrington,20
+ParkedCar,2.00407E+12,2004,Cheshire West and Chester,43
+ParkedCar,2.0041E+12,2004,Northumberland,71
+ParkedCar,2.0041E+12,2004,Gateshead,37
+ParkedCar,2.0041E+12,2004,Northumberland,19
+ParkedCar,2.0041E+12,2004,Newcastle upon Tyne,35
+ParkedCar,2.0041E+12,2004,Northumberland,10
+ParkedCar,2.0041E+12,2004,Newcastle upon Tyne,30
+ParkedCar,200411AA14610,2004,Durham,10
+ParkedCar,200411AK21780,2004,Durham,6
+ParkedCar,200411DJ11090,2004,Darlington,39
+ParkedCar,2.00412E+12,2004,York,
+ParkedCar,2.00412E+12,2004,York,34
+ParkedCar,2.00412E+12,2004,North Yorkshire,46
+ParkedCar,2.00412E+12,2004,North Yorkshire,44
+ParkedCar,2.00412E+12,2004,York,38
+ParkedCar,2.00413E+12,2004,Wakefield,26
+ParkedCar,2.00413E+12,2004,Bradford,14
+ParkedCar,2.00413E+12,2004,Leeds,45
+ParkedCar,2.00413E+12,2004,Leeds,66
+ParkedCar,2.00413E+12,2004,Kirklees,28
+ParkedCar,2.00413E+12,2004,Bradford,23
+ParkedCar,200414AA00751,2004,Doncaster,48
+ParkedCar,200414AA01619,2004,Doncaster,
+ParkedCar,200414AA02266,2004,Doncaster,
+ParkedCar,200414BB01712,2004,Barnsley,51
+ParkedCar,200414FF00090,2004,Sheffield,45
+ParkedCar,2004160A02550,2004,North East Lincolnshire,73
+ParkedCar,2004160A03290,2004,North East Lincolnshire,61
+ParkedCar,2004160C03890,2004,East Riding of Yorkshire,15
+ParkedCar,2004160C07560,2004,East Riding of Yorkshire,14
+ParkedCar,2004160C08030,2004,East Riding of Yorkshire,18
+ParkedCar,2004160C08210,2004,East Riding of Yorkshire,15
+ParkedCar,2004160C08530,2004,East Riding of Yorkshire,47
+ParkedCar,2004160D04290,2004,Kingston Upon Hull,45
+ParkedCar,2004160D04870,2004,Kingston Upon Hull,57
+ParkedCar,2004160D07600,2004,Kingston Upon Hull,54
+ParkedCar,2004160D08290,2004,Kingston Upon Hull,58
+ParkedCar,2004170H11034,2004,Hartlepool,18
+ParkedCar,2004170S10634,2004,Stockton on Tees,56
+ParkedCar,200420D330702,2004,Birmingham,55
+ParkedCar,200420E149502,2004,Birmingham,60
+ParkedCar,200420G063702,2004,Wolverhampton,16
+ParkedCar,200420H086302,2004,Walsall,
+ParkedCar,200420J070002,2004,Dudley,33
+ParkedCar,200420K043201,2004,Sandwell,29
+ParkedCar,200420K104402,2004,Sandwell,8
+ParkedCar,200420K501801,2004,Sandwell,24
+ParkedCar,200420M064901,2004,Coventry,35
+ParkedCar,200420M074903,2004,Coventry,53
+ParkedCar,200420M102002,2004,Coventry,38
+ParkedCar,2.00421E+12,2004,Stoke on Trent,4
+ParkedCar,2.00421E+12,2004,Staffordshire,41
+ParkedCar,2.00421E+12,2004,Staffordshire,9
+ParkedCar,2.00421E+12,2004,Staffordshire,51
+ParkedCar,2.00421E+12,2004,Staffordshire,59
+ParkedCar,200422DA40381,2004,Worcestershire,17
+ParkedCar,200422FA37756,2004,Shropshire,30
+ParkedCar,200422FA38183,2004,Shropshire,27
+ParkedCar,200422FG39802,2004,Shropshire,59
+ParkedCar,2.00423E+12,2004,Warwickshire,30
+ParkedCar,2.00423E+12,2004,Warwickshire,41
+ParkedCar,2.00423E+12,2004,Warwickshire,18
+ParkedCar,2.00423E+12,2004,Warwickshire,5
+ParkedCar,2.00423E+12,2004,Warwickshire,39
+ParkedCar,2.00423E+12,2004,Warwickshire,47
+ParkedCar,200430A000674,2004,Derbyshire,
+ParkedCar,200430B000171,2004,Derbyshire,39
+ParkedCar,200430B000301,2004,Derbyshire,19
+ParkedCar,200430C000453,2004,Derbyshire,
+ParkedCar,200430C000726,2004,Derbyshire,14
+ParkedCar,200430D001086,2004,Derby,28
+ParkedCar,20043102A1722,2004,Nottinghamshire,34
+ParkedCar,20043102B0688,2004,Nottinghamshire,
+ParkedCar,20043108A2242,2004,Nottinghamshire,30
+ParkedCar,200432C089204,2004,Lincolnshire,
+ParkedCar,200432C123304,2004,Lincolnshire,16
+ParkedCar,200432C175804,2004,Lincolnshire,67
+ParkedCar,200432D033004,2004,Lincolnshire,21
+ParkedCar,200432D145504,2004,Lincolnshire,62
+ParkedCar,200432D148204,2004,Lincolnshire,17
+ParkedCar,200432D163704,2004,Lincolnshire,76
+ParkedCar,2.00433E+12,2004,Leicestershire,30
+ParkedCar,2.00433E+12,2004,Leicestershire,19
+ParkedCar,200434ND02592,2004,Northamptonshire,55
+ParkedCar,200434NN05999,2004,Northamptonshire,21
+ParkedCar,200434TW01946,2004,Northamptonshire,59
+ParkedCar,2.00435E+12,2004,Peterborough,72
+ParkedCar,2.00435E+12,2004,Cambridgeshire,62
+ParkedCar,2.00435E+12,2004,Cambridgeshire,9
+ParkedCar,2.00435E+12,2004,Cambridgeshire,28
+ParkedCar,2.00436E+12,2004,Norfolk,19
+ParkedCar,2.00436E+12,2004,Norfolk,13
+ParkedCar,200437B019129,2004,Suffolk,5
+ParkedCar,200437G014775,2004,Suffolk,40
+ParkedCar,200437G015332,2004,Suffolk,17
+ParkedCar,200437G015403,2004,Suffolk,19
+ParkedCar,200437G015584,2004,Suffolk,37
+ParkedCar,200437L010017,2004,Suffolk,52
+ParkedCar,200437L010145,2004,Suffolk,66
+ParkedCar,200437L010754,2004,Suffolk,22
+ParkedCar,2004400C02376,2004,Luton,14
+ParkedCar,20044100A0699,2004,Hertfordshire,23
+ParkedCar,20044200B0405,2004,Essex,23
+ParkedCar,20044200B0467,2004,Essex,23
+ParkedCar,20044200C0028,2004,Essex,36
+ParkedCar,20044200C0281,2004,Essex,59
+ParkedCar,20044200C0662,2004,Essex,16
+ParkedCar,2.00E+199,2004,Essex,24
+ParkedCar,20044200E0360,2004,Essex,54
+ParkedCar,20044200G0498,2004,Essex,32
+ParkedCar,20044200G1144,2004,Essex,61
+ParkedCar,20044200H0407,2004,Southend on Sea,61
+ParkedCar,20044200J0025,2004,Essex,12
+ParkedCar,200443N217064,2004,Buckinghamshire,12
+ParkedCar,200443N369114,2004,Buckinghamshire,26
+ParkedCar,200443P150104,2004,Oxfordshire,81
+ParkedCar,200443P194054,2004,West Berkshire,38
+ParkedCar,200443P257044,2004,West Berkshire,44
+ParkedCar,200443P363104,2004,Oxfordshire,36
+ParkedCar,200443P393024,2004,Oxfordshire,42
+ParkedCar,200443S027104,2004,Milton Keynes,10
+ParkedCar,200443W092054,2004,Reading,45
+ParkedCar,200443W120074,2004,Windsor and Maidenhead,
+ParkedCar,200443W209094,2004,Wokingham,46
+ParkedCar,200443W230014,2004,Wokingham,49
+ParkedCar,200443W263104,2004,Reading,30
+ParkedCar,200443W387044,2004,Bracknell Forest,8
+ParkedCar,200443W437044,2004,Windsor and Maidenhead,81
+ParkedCar,200443W445084,2004,Windsor and Maidenhead,55
+ParkedCar,200443W515074,2004,West Berkshire,28
+ParkedCar,2004440AA1018,2004,Hampshire,12
+ParkedCar,2004440DH0051,2004,Hampshire,12
+ParkedCar,2004440HF0494,2004,Hampshire,37
+ParkedCar,2004440KK0696,2004,Portsmouth,33
+ParkedCar,2004440KK0924,2004,Portsmouth,28
+ParkedCar,2004440KK1202,2004,Portsmouth,45
+ParkedCar,2004440KK1361,2004,Portsmouth,25
+ParkedCar,2004440KK1385,2004,Portsmouth,31
+ParkedCar,2004440KK1436,2004,Portsmouth,30
+ParkedCar,2004440KK1450,2004,Portsmouth,32
+ParkedCar,2004440KK1896,2004,Portsmouth,39
+ParkedCar,2004440KK2045,2004,Portsmouth,33
+ParkedCar,2004440KK2216,2004,Portsmouth,48
+ParkedCar,2004440KK2244,2004,Portsmouth,21
+ParkedCar,2004440SC0549,2004,Southampton ,22
+ParkedCar,2004440ST0146,2004,Southampton ,13
+ParkedCar,2004440ST0333,2004,Southampton ,23
+ParkedCar,2004440SY0524,2004,Southampton ,48
+ParkedCar,2004440ZD0734,2004,Isle of Wight,35
+ParkedCar,2004440ZD1060,2004,Isle of Wight,60
+ParkedCar,200445EP54680,2004,Surrey,14
+ParkedCar,200445SP59585,2004,Surrey,73
+ParkedCar,200445SP60593,2004,Surrey,14
+ParkedCar,200445TA57073,2004,Surrey,5
+ParkedCar,200445WA53598,2004,Surrey,60
+ParkedCar,200445WA59597,2004,Surrey,6
+ParkedCar,200445WO59913,2004,Surrey,27
+ParkedCar,200446NK94973,2004,Kent,3
+ParkedCar,200446NK96934,2004,Kent,10
+ParkedCar,200446WK96095,2004,Kent,24
+ParkedCar,200446WL01101,2004,Kent,48
+ParkedCar,200446WL89236,2004,Kent,52
+ParkedCar,200447K170600,2004,Brighton and Hove,17
+ParkedCar,200447K172084,2004,Brighton and Hove,34
+ParkedCar,200447K175295,2004,Brighton and Hove,43
+ParkedCar,200447K175527,2004,West Sussex,57
+ParkedCar,200447K176720,2004,West Sussex,50
+ParkedCar,200447K177416,2004,West Sussex,89
+ParkedCar,200447K177581,2004,West Sussex,30
+ParkedCar,200447K178574,2004,West Sussex,72
+ParkedCar,200447K178755,2004,West Sussex,51
+ParkedCar,200447K178893,2004,West Sussex,61
+ParkedCar,200447K178990,2004,East Sussex,17
+ParkedCar,200447K180276,2004,West Sussex,57
+ParkedCar,200447K180513,2004,East Sussex,37
+ParkedCar,200447K181050,2004,West Sussex,59
+ParkedCar,200447K181510,2004,Brighton and Hove,25
+ParkedCar,200447K181854,2004,West Sussex,42
+ParkedCar,200447K182064,2004,West Sussex,23
+ParkedCar,200450A31F002,2004,Cornwall and Isles of Scilly,25
+ParkedCar,200450A51E728,2004,Cornwall and Isles of Scilly,60
+ParkedCar,200450C41H429,2004,Devon,40
+ParkedCar,200450D21M116,2004,Devon,
+ParkedCar,200450D21Q515,2004,Devon,70
+ParkedCar,200450D31G930,2004,Devon,16
+ParkedCar,200450D42I852,2004,Devon,40
+ParkedCar,200450D43N072,2004,Devon,34
+ParkedCar,200450E41J573,2004,Plymouth,34
+ParkedCar,200450F41M372,2004,Devon,10
+ParkedCar,2.00452E+12,2004,City of Bristol,18
+ParkedCar,2.00452E+12,2004,Bath and North East Somerset,31
+ParkedCar,2.00452E+12,2004,Somerset,48
+ParkedCar,2.00452E+12,2004,Bath and North East Somerset,60
+ParkedCar,2.00452E+12,2004,North Somerset,42
+ParkedCar,2.00452E+12,2004,North Somerset,82
+ParkedCar,2.00452E+12,2004,Somerset,23
+ParkedCar,2.00452E+12,2004,City of Bristol,47
+ParkedCar,2.00452E+12,2004,City of Bristol,23
+ParkedCar,2.00452E+12,2004,Bath and North East Somerset,28
+ParkedCar,2.00452E+12,2004,Somerset,59
+ParkedCar,2004530AI2547,2004,Gloucestershire,25
+ParkedCar,2004530AI2880,2004,Gloucestershire,14
+ParkedCar,2004530AI3941,2004,Gloucestershire,44
+ParkedCar,200454AD08404,2004,Wiltshire,25
+ParkedCar,200454AD49004,2004,Wiltshire,16
+ParkedCar,200454DW56204,2004,Swindon,45
+ParkedCar,2004550B02920,2004,Bournemouth,33
+ParkedCar,2004550B04173,2004,Bournemouth,31
+ParkedCar,2004550B04868,2004,Bournemouth,18
+ParkedCar,2004550P01125,2004,Poole,62
+ParkedCar,2004550P01642,2004,Poole,15
+ParkedCar,2004550P06215,2004,Poole,13
+ParkedCar,2004550P06256,2004,Poole,69
+ParkedCar,200501BS70279,2005,London,32
+ParkedCar,200501CP00187,2005,London,25
+ParkedCar,200501CP00276,2005,London,26
+ParkedCar,200501CW10018,2005,London,22
+ParkedCar,200501CW10506,2005,London,34
+ParkedCar,200501CW10695,2005,London,47
+ParkedCar,200501CW10762,2005,London,29
+ParkedCar,200501CW10950,2005,London,31
+ParkedCar,200501CW10984,2005,London,51
+ParkedCar,200501CW11153,2005,London,37
+ParkedCar,200501CW11365,2005,London,23
+ParkedCar,200501CW11544,2005,London,32
+ParkedCar,200501CW11860,2005,London,28
+ParkedCar,200501CW11867,2005,London,40
+ParkedCar,200501EO00161,2005,London,20
+ParkedCar,200501EO40500,2005,London,26
+ParkedCar,200501EO40587,2005,London,33
+ParkedCar,200501EO40853,2005,London,36
+ParkedCar,200501EO41142,2005,London,33
+ParkedCar,200501EO41207,2005,London,34
+ParkedCar,200501EO41340,2005,London,25
+ParkedCar,200501EO41436,2005,London,28
+ParkedCar,200501EO41441,2005,London,33
+ParkedCar,200501FH10032,2005,London,39
+ParkedCar,200501FH10296,2005,London,43
+ParkedCar,200501FH10304,2005,London,45
+ParkedCar,200501FH10390,2005,London,34
+ParkedCar,200501FH10552,2005,London,45
+ParkedCar,200501FH10558,2005,London,51
+ParkedCar,200501FH10669,2005,London,22
+ParkedCar,200501GD10110,2005,London,
+ParkedCar,200501GD10387,2005,London,37
+ParkedCar,200501GD10424,2005,London,
+ParkedCar,200501GD10475,2005,London,22
+ParkedCar,200501HT20098,2005,London,26
+ParkedCar,200501HT20862,2005,London,55
+ParkedCar,200501JC30128,2005,London,20
+ParkedCar,200501JC30148,2005,London,47
+ParkedCar,200501JC30265,2005,London,52
+ParkedCar,200501JC30284,2005,London,49
+ParkedCar,200501JI40058,2005,London,38
+ParkedCar,200501JI40533,2005,London,56
+ParkedCar,200501KF60032,2005,London,23
+ParkedCar,200501KF60455,2005,London,27
+ParkedCar,200501KF60459,2005,London,
+ParkedCar,200501KF60506,2005,London,36
+ParkedCar,200501LX50400,2005,London,31
+ParkedCar,200501LX50442,2005,London,41
+ParkedCar,200501LX50604,2005,London,22
+ParkedCar,200501LX50615,2005,London,28
+ParkedCar,200501LX50767,2005,London,36
+ParkedCar,200501LX50774,2005,London,39
+ParkedCar,200501LX50922,2005,London,30
+ParkedCar,200501LX51253,2005,London,56
+ParkedCar,200501LX59017,2005,London,54
+ParkedCar,200501MM70123,2005,London,55
+ParkedCar,200501MM70528,2005,London,30
+ParkedCar,200501MM70992,2005,London,37
+ParkedCar,200501MM71184,2005,London,43
+ParkedCar,200501PL60318,2005,London,16
+ParkedCar,200501PL60633,2005,London,36
+ParkedCar,200501PY20943,2005,London,38
+ParkedCar,200501QA10003,2005,London,61
+ParkedCar,200501QA10202,2005,London,57
+ParkedCar,200501QK50287,2005,London,34
+ParkedCar,200501QK50501,2005,London,
+ParkedCar,200501QK50570,2005,London,31
+ParkedCar,200501QK50648,2005,London,21
+ParkedCar,200501QK50682,2005,London,23
+ParkedCar,200501QK50685,2005,London,18
+ParkedCar,200501RG40359,2005,London,
+ParkedCar,200501RG40538,2005,London,27
+ParkedCar,200501RG40564,2005,London,48
+ParkedCar,200501RY10374,2005,London,30
+ParkedCar,200501SX20560,2005,London,41
+ParkedCar,200501SX21059,2005,London,50
+ParkedCar,200501TA00137,2005,London,25
+ParkedCar,200501TX20527,2005,London,41
+ParkedCar,200501TX20553,2005,London,50
+ParkedCar,200501VK30014,2005,London,49
+ParkedCar,200501VW40230,2005,London,
+ParkedCar,200501VW40452,2005,London,18
+ParkedCar,200501VW49010,2005,London,25
+ParkedCar,200501WW00097,2005,London,35
+ParkedCar,200501WW50200,2005,London,35
+ParkedCar,200501WW50236,2005,London,52
+ParkedCar,200501WW50331,2005,London,25
+ParkedCar,200501WW50714,2005,London,46
+ParkedCar,200501WW50840,2005,London,27
+ParkedCar,200501XD00037,2005,London,
+ParkedCar,200501XD80165,2005,London,28
+ParkedCar,200501XD80229,2005,London,28
+ParkedCar,200501YR90302,2005,London,48
+ParkedCar,200501ZD31262,2005,London,24
+ParkedCar,200501ZT80274,2005,London,50
+ParkedCar,2.00503E+12,2005,Cumbria,43
+ParkedCar,2.00503E+12,2005,Cumbria,22
+ParkedCar,2.00503E+12,2005,Cumbria,55
+ParkedCar,2.00503E+12,2005,Cumbria,80
+ParkedCar,2.00503E+12,2005,Cumbria,36
+ParkedCar,200504B010805,2005,Lancashire,36
+ParkedCar,200504BA05096,2005,Lancashire,40
+ParkedCar,200504BC05169,2005,Lancashire,62
+ParkedCar,200504CA05021,2005,Lancashire,62
+ParkedCar,200504DA05080,2005,Lancashire,52
+ParkedCar,200504DL05062,2005,Lancashire,51
+ParkedCar,200504EA05010,2005,Blackburn with Darwen,15
+ParkedCar,200504EL06020,2005,Lancashire,50
+ParkedCar,200504EM05014,2005,Lancashire,12
+ParkedCar,200504FA05040,2005,Lancashire,11
+ParkedCar,200504FG05014,2005,Lancashire,9
+ParkedCar,200505AW00580,2005,Merseyside,56
+ParkedCar,200505AW01044,2005,Merseyside,25
+ParkedCar,200505AW01122,2005,Merseyside,44
+ParkedCar,200505AW01283,2005,Merseyside,24
+ParkedCar,200505BS01065,2005,Merseyside,25
+ParkedCar,200505DH00094,2005,Merseyside,31
+ParkedCar,200505DH00386,2005,Merseyside,28
+ParkedCar,200505ET01470,2005,Merseyside,39
+ParkedCar,200505FT00694,2005,Merseyside,60
+ParkedCar,200505FT00813,2005,Merseyside,23
+ParkedCar,200506B032438,2005,Manchester,50
+ParkedCar,200506B035213,2005,Manchester,27
+ParkedCar,200506B035239,2005,Manchester,20
+ParkedCar,200506C026622,2005,Manchester,19
+ParkedCar,200506C919814,2005,Manchester,20
+ParkedCar,200506F025370,2005,Salford,44
+ParkedCar,200506J029441,2005,Stockport,20
+ParkedCar,200506J033831,2005,Stockport,40
+ParkedCar,200506L026388,2005,Wigan,22
+ParkedCar,200506L027093,2005,Wigan,45
+ParkedCar,200506P031996,2005,Rochdale,39
+ParkedCar,2.00507E+12,2005,Cheshire West and Chester,56
+ParkedCar,2.00507E+12,2005,Cheshire West and Chester,17
+ParkedCar,2.00507E+12,2005,Cheshire West and Chester,29
+ParkedCar,2.00507E+12,2005,Warrington,17
+ParkedCar,2.00507E+12,2005,Warrington,55
+ParkedCar,2.00507E+12,2005,Halton,38
+ParkedCar,2.00507E+12,2005,Cheshire West and Chester,34
+ParkedCar,2.0051E+12,2005,North Tyneside,50
+ParkedCar,2.0051E+12,2005,South Tyneside,
+ParkedCar,2.0051E+12,2005,Gateshead,54
+ParkedCar,2.0051E+12,2005,North Tyneside,25
+ParkedCar,2.00512E+12,2005,York,53
+ParkedCar,2.00512E+12,2005,North Yorkshire,22
+ParkedCar,2.00512E+12,2005,North Yorkshire,61
+ParkedCar,2.00512E+12,2005,York,41
+ParkedCar,2.00513E+12,2005,Wakefield,16
+ParkedCar,2.00513E+12,2005,Leeds,17
+ParkedCar,2.00513E+12,2005,Leeds,14
+ParkedCar,2.00513E+12,2005,Kirklees,25
+ParkedCar,2.00513E+12,2005,Kirklees,25
+ParkedCar,2.00513E+12,2005,Kirklees,30
+ParkedCar,2.00513E+12,2005,Bradford,34
+ParkedCar,200514A228205,2005,Doncaster,15
+ParkedCar,200514C123805,2005,Rotherham,15
+ParkedCar,200514D164105,2005,Sheffield,36
+ParkedCar,200514F109105,2005,Sheffield,28
+ParkedCar,2005160A03170,2005,North East Lincolnshire,12
+ParkedCar,2005160A04290,2005,North East Lincolnshire,34
+ParkedCar,2005160A04420,2005,North East Lincolnshire,53
+ParkedCar,2005160A04740,2005,North East Lincolnshire,52
+ParkedCar,2005160A05160,2005,North East Lincolnshire,48
+ParkedCar,2005160C02340,2005,East Riding of Yorkshire,20
+ParkedCar,2005160C05780,2005,East Riding of Yorkshire,15
+ParkedCar,2005160C07770,2005,East Riding of Yorkshire,15
+ParkedCar,2005160D02310,2005,Kingston Upon Hull,59
+ParkedCar,2005160D02980,2005,Kingston Upon Hull,56
+ParkedCar,2005160D03650,2005,Kingston Upon Hull,20
+ParkedCar,2005160D03670,2005,Kingston Upon Hull,45
+ParkedCar,2005160D04800,2005,Kingston Upon Hull,38
+ParkedCar,2005170S22975,2005,Stockton on Tees,16
+ParkedCar,200520E216001,2005,Birmingham,21
+ParkedCar,200520F239502,2005,Birmingham,16
+ParkedCar,200520K090801,2005,Sandwell,
+ParkedCar,200520L120101,2005,Solihull,17
+ParkedCar,200520M037801,2005,Coventry,42
+ParkedCar,2.00522E+12,2005,Staffordshire,39
+ParkedCar,2.00522E+12,2005,Staffordshire,
+ParkedCar,2.00522E+12,2005,Staffordshire,24
+ParkedCar,2.00522E+12,2005,Staffordshire,38
+ParkedCar,2.00522E+12,2005,Staffordshire,75
+ParkedCar,200522CA48826,2005,Worcestershire,25
+ParkedCar,200522DB46247,2005,Worcestershire,48
+ParkedCar,200522FA43887,2005,Shropshire,51
+ParkedCar,2.00523E+12,2005,Warwickshire,45
+ParkedCar,2.00523E+12,2005,Warwickshire,15
+ParkedCar,2.00523E+12,2005,Warwickshire,69
+ParkedCar,200530A000192,2005,Derbyshire,78
+ParkedCar,200530A000379,2005,Derbyshire,55
+ParkedCar,200530C000507,2005,Derbyshire,18
+ParkedCar,20053102A1360,2005,Nottinghamshire,
+ParkedCar,20053102B1424,2005,Nottinghamshire,42
+ParkedCar,20053102B1695,2005,Nottinghamshire,17
+ParkedCar,20053102B1759,2005,Nottinghamshire,
+ParkedCar,20053102C0125,2005,Nottingham,32
+ParkedCar,20053102C3890,2005,Nottingham,22
+ParkedCar,200532C070805,2005,Lincolnshire,62
+ParkedCar,200532D011505,2005,Lincolnshire,61
+ParkedCar,2.00533E+12,2005,Leicestershire,30
+ParkedCar,2.00533E+12,2005,Leicestershire,58
+ParkedCar,2.00533E+12,2005,Leicestershire,
+ParkedCar,2.00533E+12,2005,Leicestershire,30
+ParkedCar,200534ND01255,2005,Northamptonshire,37
+ParkedCar,200534NN03314,2005,Northamptonshire,52
+ParkedCar,2.00535E+12,2005,Cambridgeshire,26
+ParkedCar,2.00535E+12,2005,Peterborough,27
+ParkedCar,2.00535E+12,2005,Cambridgeshire,23
+ParkedCar,2.00535E+12,2005,Peterborough,17
+ParkedCar,2.00535E+12,2005,Cambridgeshire,20
+ParkedCar,2.00535E+12,2005,Cambridgeshire,15
+ParkedCar,2.00536E+12,2005,Norfolk,18
+ParkedCar,2.00536E+12,2005,Norfolk,35
+ParkedCar,2.00536E+12,2005,Norfolk,11
+ParkedCar,200537B021863,2005,Suffolk,70
+ParkedCar,200537L012132,2005,Suffolk,12
+ParkedCar,200540B002750,2005,Bedford Borough Council,43
+ParkedCar,200540B024450,2005,Bedford Borough Council,48
+ParkedCar,200540B030190,2005,Central Bedfordshire,50
+ParkedCar,20054100A0051,2005,Hertfordshire,40
+ParkedCar,20054100A0279,2005,Hertfordshire,45
+ParkedCar,20054100A0602,2005,Hertfordshire,38
+ParkedCar,20054100C0035,2005,Hertfordshire,44
+ParkedCar,20054100C0427,2005,Hertfordshire,18
+ParkedCar,200542A020904,2005,Essex,47
+ParkedCar,200542C040007,2005,Essex,31
+ParkedCar,200542C043507,2005,Essex,32
+ParkedCar,200542C054503,2005,Essex,
+ParkedCar,200542D021006,2005,Essex,39
+ParkedCar,200542E037409,2005,Essex,32
+ParkedCar,200542G067008,2005,Essex,63
+ParkedCar,200542H021305,2005,Southend on Sea,65
+ParkedCar,200543N457105,2005,Milton Keynes,80
+ParkedCar,200543P035085,2005,Oxfordshire,42
+ParkedCar,200543P148105,2005,Oxfordshire,20
+ParkedCar,200543P155065,2005,Oxfordshire,19
+ParkedCar,200543P174035,2005,West Berkshire,63
+ParkedCar,200543P214095,2005,Oxfordshire,37
+ParkedCar,200543P311085,2005,Oxfordshire,
+ParkedCar,200543P467115,2005,Oxfordshire,18
+ParkedCar,200543W172055,2005,Bracknell Forest,50
+ParkedCar,200543W539075,2005,Bracknell Forest,
+ParkedCar,2.00544E+12,2005,Hampshire,9
+ParkedCar,2.00544E+12,2005,Portsmouth,23
+ParkedCar,2.00544E+12,2005,Portsmouth,21
+ParkedCar,2.00544E+12,2005,Portsmouth,22
+ParkedCar,2.00544E+12,2005,Southampton ,21
+ParkedCar,2.00544E+12,2005,Isle of Wight,39
+ParkedCar,2.00544E+12,2005,Southampton ,
+ParkedCar,2.00544E+12,2005,Hampshire,85
+ParkedCar,2.00544E+12,2005,Portsmouth,
+ParkedCar,2.00544E+12,2005,Southampton ,68
+ParkedCar,2.00544E+12,2005,Southampton ,25
+ParkedCar,2.00544E+12,2005,Southampton ,19
+ParkedCar,2.00544E+12,2005,Portsmouth,59
+ParkedCar,2.00544E+12,2005,Hampshire,24
+ParkedCar,2.00544E+12,2005,Southampton ,68
+ParkedCar,2.00544E+12,2005,Portsmouth,42
+ParkedCar,2.00544E+12,2005,Portsmouth,
+ParkedCar,2.00544E+12,2005,Portsmouth,42
+ParkedCar,2.00544E+12,2005,Hampshire,58
+ParkedCar,2005445AA0209,2005,Hampshire,7
+ParkedCar,2005445WA0167,2005,Hampshire,40
+ParkedCar,200545EP78967,2005,Surrey,45
+ParkedCar,200545RU72562,2005,Surrey,15
+ParkedCar,200545SP75613,2005,Surrey,13
+ParkedCar,200545WA66430,2005,Surrey,16
+ParkedCar,200545WA68376,2005,Surrey,67
+ParkedCar,2.00546E+12,2005,Medway,14
+ParkedCar,2.00546E+12,2005,Kent,31
+ParkedCar,2.00546E+12,2005,Kent,40
+ParkedCar,2.00546E+12,2005,Kent,13
+ParkedCar,2.00546E+12,2005,Kent,13
+ParkedCar,2.00546E+12,2005,Kent,45
+ParkedCar,2.00546E+12,2005,Kent,38
+ParkedCar,2.00547E+12,2005,West Sussex,40
+ParkedCar,2.00547E+12,2005,East Sussex,15
+ParkedCar,2.00547E+12,2005,East Sussex,14
+ParkedCar,2.00547E+12,2005,West Sussex,23
+ParkedCar,2.00547E+12,2005,West Sussex,63
+ParkedCar,2.00547E+12,2005,West Sussex,55
+ParkedCar,2.00547E+12,2005,West Sussex,29
+ParkedCar,2.00547E+12,2005,West Sussex,19
+ParkedCar,2.00547E+12,2005,East Sussex,53
+ParkedCar,200550A21K099,2005,Cornwall and Isles of Scilly,27
+ParkedCar,200550A31H496,2005,Cornwall and Isles of Scilly,23
+ParkedCar,200550B71N297,2005,Cornwall and Isles of Scilly,7
+ParkedCar,200550C21I530,2005,Devon,13
+ParkedCar,200550D33E525,2005,Devon,16
+ParkedCar,200550E41J859,2005,Plymouth,14
+ParkedCar,200550E51J581,2005,Plymouth,15
+ParkedCar,200550F31Q309,2005,Torbay,32
+ParkedCar,2.00552E+12,2005,Somerset,42
+ParkedCar,2.00552E+12,2005,Bath and North East Somerset,25
+ParkedCar,2.00552E+12,2005,Somerset,25
+ParkedCar,2.00552E+12,2005,Bath and North East Somerset,27
+ParkedCar,2.00552E+12,2005,Somerset,52
+ParkedCar,2.00552E+12,2005,North Somerset,30
+ParkedCar,2.00552E+12,2005,North Somerset,36
+ParkedCar,2.00552E+12,2005,City of Bristol,40
+ParkedCar,2.00552E+12,2005,South Gloucestershire,10
+ParkedCar,2.00552E+12,2005,City of Bristol,25
+ParkedCar,2.00552E+12,2005,North Somerset,14
+ParkedCar,2.00552E+12,2005,City of Bristol,24
+ParkedCar,2.00552E+12,2005,North Somerset,13
+ParkedCar,2.00552E+12,2005,City of Bristol,18
+ParkedCar,2.00553E+12,2005,Gloucestershire,50
+ParkedCar,2.00553E+12,2005,Gloucestershire,34
+ParkedCar,2.00553E+12,2005,Gloucestershire,33
+ParkedCar,2.00553E+12,2005,Gloucestershire,69
+ParkedCar,2.00553E+12,2005,Gloucestershire,60
+ParkedCar,2.00553E+12,2005,Gloucestershire,18
+ParkedCar,200554CK59705,2005,Wiltshire,55
+ParkedCar,200554DC55405,2005,Swindon,18
+ParkedCar,200554DN01005,2005,Swindon,62
+ParkedCar,2005555B01159,2005,Bournemouth,18
+ParkedCar,2005555B01378,2005,Bournemouth,42
+ParkedCar,2005555B01422,2005,Bournemouth,26
+ParkedCar,2005555B04918,2005,Bournemouth,17
+ParkedCar,2005555B06085,2005,Bournemouth,39
+ParkedCar,2005555E03133,2005,Dorset,43
+ParkedCar,2005555P02756,2005,Poole,28
+ParkedCar,2005555P04285,2005,Poole,29
+ParkedCar,2005555W01740,2005,Dorset,7
+ParkedCar,200601BS70010,2006,London,52
+ParkedCar,200601BS70361,2006,London,42
+ParkedCar,200601BS70450,2006,London,32
+ParkedCar,200601BS70657,2006,London,30
+ParkedCar,200601CP00097,2006,London,20
+ParkedCar,200601CW10059,2006,London,36
+ParkedCar,200601CW10452,2006,London,27
+ParkedCar,200601CW10483,2006,London,27
+ParkedCar,200601CW11175,2006,London,32
+ParkedCar,200601CW11214,2006,London,27
+ParkedCar,200601CW11696,2006,London,30
+ParkedCar,200601CW11744,2006,London,35
+ParkedCar,200601EO40368,2006,London,25
+ParkedCar,200601EO40944,2006,London,46
+ParkedCar,200601EO40971,2006,London,22
+ParkedCar,200601EO40972,2006,London,59
+ParkedCar,200601EO41015,2006,London,26
+ParkedCar,200601EO41017,2006,London,
+ParkedCar,200601EO41099,2006,London,44
+ParkedCar,200601EO41231,2006,London,46
+ParkedCar,200601EO41264,2006,London,49
+ParkedCar,200601EO41310,2006,London,35
+ParkedCar,200601EO49100,2006,London,28
+ParkedCar,200601FH10082,2006,London,42
+ParkedCar,200601FH10333,2006,London,29
+ParkedCar,200601FH10366,2006,London,19
+ParkedCar,200601GD10267,2006,London,24
+ParkedCar,200601GD10470,2006,London,
+ParkedCar,200601HT20071,2006,London,58
+ParkedCar,200601HT20388,2006,London,47
+ParkedCar,200601HT20518,2006,London,39
+ParkedCar,200601KG70253,2006,London,
+ParkedCar,200601LX50060,2006,London,49
+ParkedCar,200601LX50441,2006,London,32
+ParkedCar,200601LX50481,2006,London,37
+ParkedCar,200601LX50732,2006,London,28
+ParkedCar,200601LX50887,2006,London,49
+ParkedCar,200601LX50894,2006,London,28
+ParkedCar,200601LX50936,2006,London,28
+ParkedCar,200601LX51145,2006,London,37
+ParkedCar,200601MM70528,2006,London,29
+ParkedCar,200601PL60185,2006,London,38
+ParkedCar,200601PL60773,2006,London,33
+ParkedCar,200601PL60775,2006,London,42
+ParkedCar,200601QA10449,2006,London,14
+ParkedCar,200601QK50691,2006,London,33
+ParkedCar,200601RG40528,2006,London,33
+ParkedCar,200601RY10349,2006,London,49
+ParkedCar,200601RY10520,2006,London,10
+ParkedCar,200601SX20691,2006,London,38
+ParkedCar,200601TC00195,2006,London,26
+ParkedCar,200601TC00356,2006,London,
+ParkedCar,200601TW60226,2006,London,56
+ParkedCar,200601TW60229,2006,London,61
+ParkedCar,200601TW60320,2006,London,30
+ParkedCar,200601TW60337,2006,London,70
+ParkedCar,200601TX20604,2006,London,56
+ParkedCar,200601TX20771,2006,London,53
+ParkedCar,200601VK30133,2006,London,39
+ParkedCar,200601VW40052,2006,London,48
+ParkedCar,200601WW50176,2006,London,27
+ParkedCar,200601WW50185,2006,London,49
+ParkedCar,200601WW50408,2006,London,34
+ParkedCar,200601WW50560,2006,London,31
+ParkedCar,200601WW50679,2006,London,47
+ParkedCar,200601XD80017,2006,London,29
+ParkedCar,200601XD80282,2006,London,43
+ParkedCar,200601XD80317,2006,London,65
+ParkedCar,200601XD80490,2006,London,36
+ParkedCar,200601XD80612,2006,London,27
+ParkedCar,200601XD80625,2006,London,44
+ParkedCar,200601XH30662,2006,London,11
+ParkedCar,200601YE80325,2006,London,13
+ParkedCar,200601YR90260,2006,London,54
+ParkedCar,200601YR90351,2006,London,42
+ParkedCar,200601ZD30162,2006,London,28
+ParkedCar,200601ZD30572,2006,London,
+ParkedCar,200601ZT80381,2006,London,35
+ParkedCar,2.00603E+12,2006,Cumbria,54
+ParkedCar,2.00603E+12,2006,Cumbria,64
+ParkedCar,2.00603E+12,2006,Cumbria,34
+ParkedCar,2.00603E+12,2006,Cumbria,6
+ParkedCar,2.00603E+12,2006,Cumbria,12
+ParkedCar,2.00603E+12,2006,Cumbria,36
+ParkedCar,2.00603E+12,2006,Cumbria,10
+ParkedCar,2.00603E+12,2006,Cumbria,54
+ParkedCar,2.00603E+12,2006,Cumbria,38
+ParkedCar,200604CC06054,2006,Lancashire,52
+ParkedCar,200604CL06027,2006,Lancashire,11
+ParkedCar,200604DL06165,2006,Lancashire,20
+ParkedCar,200604EA06136,2006,Blackburn with Darwen,7
+ParkedCar,200604EL06026,2006,Lancashire,58
+ParkedCar,200604EN06040,2006,Lancashire,61
+ParkedCar,200605AA06804,2006,Merseyside,34
+ParkedCar,200605BB11699,2006,Merseyside,45
+ParkedCar,200605DD09251,2006,Merseyside,36
+ParkedCar,200605DD13859,2006,Merseyside,49
+ParkedCar,200605FF05556,2006,Merseyside,30
+ParkedCar,200605FF10856,2006,Merseyside,38
+ParkedCar,200605FF12615,2006,Merseyside,35
+ParkedCar,200606B043128,2006,Manchester,22
+ParkedCar,200606J053593,2006,Stockport,60
+ParkedCar,200606N061497,2006,Bury,30
+ParkedCar,2.00607E+12,2006,Cheshire West and Chester,43
+ParkedCar,2.00607E+12,2006,Warrington,67
+ParkedCar,2.00607E+12,2006,Cheshire East,45
+ParkedCar,2.00607E+12,2006,Cheshire West and Chester,60
+ParkedCar,2.00607E+12,2006,Cheshire West and Chester,45
+ParkedCar,2.00607E+12,2006,Cheshire West and Chester,15
+ParkedCar,2.00607E+12,2006,Cheshire West and Chester,42
+ParkedCar,2.00607E+12,2006,Cheshire West and Chester,43
+ParkedCar,2.0061E+12,2006,South Tyneside,40
+ParkedCar,2.0061E+12,2006,North Tyneside,36
+ParkedCar,2.0061E+12,2006,Newcastle upon Tyne,48
+ParkedCar,2.0061E+12,2006,Northumberland,55
+ParkedCar,2.0061E+12,2006,Northumberland,43
+ParkedCar,2.0061E+12,2006,North Tyneside,24
+ParkedCar,200611DJ15110,2006,Darlington,17
+ParkedCar,200611DJ20210,2006,Darlington,70
+ParkedCar,2.00612E+12,2006,North Yorkshire,16
+ParkedCar,2.00612E+12,2006,North Yorkshire,73
+ParkedCar,2.00612E+12,2006,York,21
+ParkedCar,2.00612E+12,2006,North Yorkshire,60
+ParkedCar,2.00612E+12,2006,York,42
+ParkedCar,2.00612E+12,2006,York,55
+ParkedCar,2.00613E+12,2006,Kirklees,16
+ParkedCar,2.00613E+12,2006,Calderdale,39
+ParkedCar,200614A073606,2006,Doncaster,52
+ParkedCar,200614C053106,2006,Rotherham,60
+ParkedCar,200614G081106,2006,Sheffield,44
+ParkedCar,200614G089106,2006,Sheffield,13
+ParkedCar,200614H100606,2006,Sheffield,15
+ParkedCar,2006160A00490,2006,North East Lincolnshire,15
+ParkedCar,2006160A05560,2006,North East Lincolnshire,15
+ParkedCar,2006160B01930,2006,North Lincolnshire,43
+ParkedCar,2006160C06500,2006,East Riding of Yorkshire,16
+ParkedCar,2006160D04380,2006,Kingston Upon Hull,40
+ParkedCar,2006160D08560,2006,Kingston Upon Hull,35
+ParkedCar,200620E009102,2006,Birmingham,10
+ParkedCar,200620E097003,2006,Birmingham,19
+ParkedCar,200620G056102,2006,Wolverhampton,12
+ParkedCar,200620H004602,2006,Walsall,23
+ParkedCar,200620H047401,2006,Walsall,14
+ParkedCar,200620H062402,2006,Walsall,10
+ParkedCar,200620K062001,2006,Sandwell,42
+ParkedCar,200620M019801,2006,Coventry,
+ParkedCar,200620M038302,2006,Coventry,54
+ParkedCar,200620M054303,2006,Coventry,64
+ParkedCar,2.00622E+12,2006,Staffordshire,39
+ParkedCar,2.00622E+12,2006,Staffordshire,18
+ParkedCar,2.00622E+12,2006,Staffordshire,18
+ParkedCar,2.00622E+12,2006,Staffordshire,13
+ParkedCar,200622CA53338,2006,Worcestershire,26
+ParkedCar,200622CA85035,2006,Worcestershire,20
+ParkedCar,200622CA85040,2006,Worcestershire,47
+ParkedCar,200622DE53464,2006,Worcestershire,35
+ParkedCar,200622GA42955,2006,Telford and Wrekin,36
+ParkedCar,2.00623E+12,2006,Warwickshire,32
+ParkedCar,2.00623E+12,2006,Warwickshire,17
+ParkedCar,2.00623E+12,2006,Warwickshire,39
+ParkedCar,200630A000365,2006,Derbyshire,13
+ParkedCar,200630A000542,2006,Derbyshire,
+ParkedCar,200630A000659,2006,Derbyshire,24
+ParkedCar,200630C000459,2006,Derbyshire,37
+ParkedCar,20063102B2417,2006,Nottinghamshire,50
+ParkedCar,20063102C0422,2006,Nottingham,10
+ParkedCar,20063102C0800,2006,Nottingham,45
+ParkedCar,20063102C2980,2006,Nottingham,34
+ParkedCar,20063102D2281,2006,Nottinghamshire,
+ParkedCar,200632B157706,2006,Lincolnshire,
+ParkedCar,200632C343606,2006,Lincolnshire,
+ParkedCar,200632D126106,2006,Lincolnshire,36
+ParkedCar,200632D168306,2006,Lincolnshire,57
+ParkedCar,200632D420006,2006,Lincolnshire,44
+ParkedCar,2.00633E+12,2006,Leicestershire,26
+ParkedCar,2.00633E+12,2006,Rutland,30
+ParkedCar,2.00633E+12,2006,Leicestershire,
+ParkedCar,200634NK03231,2006,Northamptonshire,33
+ParkedCar,2.00635E+12,2006,Cambridgeshire,23
+ParkedCar,2.00635E+12,2006,Cambridgeshire,38
+ParkedCar,2.00635E+12,2006,Cambridgeshire,15
+ParkedCar,2.00635E+12,2006,Cambridgeshire,21
+ParkedCar,2.00635E+12,2006,Cambridgeshire,
+ParkedCar,2.00636E+12,2006,Norfolk,52
+ParkedCar,200637B026155,2006,Suffolk,9
+ParkedCar,200637B026673,2006,Suffolk,39
+ParkedCar,200637G020472,2006,Suffolk,19
+ParkedCar,200637G021087,2006,Suffolk,15
+ParkedCar,200637G021324,2006,Suffolk,77
+ParkedCar,200640D010580,2006,Central Bedfordshire,41
+ParkedCar,20064100G0142,2006,Hertfordshire,23
+ParkedCar,20064100G0376,2006,Hertfordshire,20
+ParkedCar,20064100K0301,2006,Hertfordshire,20
+ParkedCar,200642A020403,2006,Essex,15
+ParkedCar,200642C000401,2006,Essex,39
+ParkedCar,200642C030206,2006,Essex,49
+ParkedCar,200642C036506,2006,Essex,49
+ParkedCar,200642D005002,2006,Essex,50
+ParkedCar,200642D005603,2006,Essex,79
+ParkedCar,200642D017206,2006,Essex,8
+ParkedCar,200642E014805,2006,Essex,25
+ParkedCar,200642H009203,2006,Southend on Sea,
+ParkedCar,200642H013304,2006,Southend on Sea,80
+ParkedCar,200642H015205,2006,Southend on Sea,33
+ParkedCar,200642I275207,2006,Essex,68
+ParkedCar,200642I281607,2006,Essex,39
+ParkedCar,200642I452411,2006,Southend on Sea,12
+ParkedCar,200642J016503,2006,Essex,72
+ParkedCar,200643P169116,2006,Oxfordshire,69
+ParkedCar,200643P214116,2006,Oxfordshire,46
+ParkedCar,200643P291076,2006,Oxfordshire,23
+ParkedCar,200643R351106,2006,Slough,21
+ParkedCar,200643W322076,2006,Reading,35
+ParkedCar,200643W465036,2006,Wokingham,16
+ParkedCar,2.00644E+12,2006,Portsmouth,19
+ParkedCar,2.00644E+12,2006,Portsmouth,36
+ParkedCar,2.00644E+12,2006,Isle of Wight,81
+ParkedCar,2.00644E+12,2006,Portsmouth,15
+ParkedCar,2.00644E+12,2006,Portsmouth,35
+ParkedCar,2.00644E+12,2006,Hampshire,27
+ParkedCar,2.00644E+12,2006,Hampshire,15
+ParkedCar,2.00644E+12,2006,Portsmouth,12
+ParkedCar,2.00644E+12,2006,Hampshire,14
+ParkedCar,2.00644E+12,2006,Portsmouth,51
+ParkedCar,2.00644E+12,2006,Hampshire,19
+ParkedCar,2.00644E+12,2006,Southampton ,27
+ParkedCar,2.00644E+12,2006,Portsmouth,23
+ParkedCar,2.00644E+12,2006,Southampton ,18
+ParkedCar,2.00644E+12,2006,Portsmouth,16
+ParkedCar,2.00644E+12,2006,Isle of Wight,22
+ParkedCar,2.00644E+12,2006,Hampshire,20
+ParkedCar,2.00644E+12,2006,Hampshire,36
+ParkedCar,200645RE86715,2006,Surrey,45
+ParkedCar,200645RE90036,2006,Surrey,24
+ParkedCar,200645RU79264,2006,Surrey,
+ParkedCar,200645WO84753,2006,Surrey,51
+ParkedCar,200645WO91518,2006,Surrey,12
+ParkedCar,2.00646E+12,2006,Kent,69
+ParkedCar,2.00646E+12,2006,Kent,10
+ParkedCar,2.00646E+12,2006,Kent,57
+ParkedCar,2.00646E+12,2006,Kent,47
+ParkedCar,2.00647E+12,2006,West Sussex,20
+ParkedCar,2.00647E+12,2006,Brighton and Hove,25
+ParkedCar,2.00647E+12,2006,West Sussex,62
+ParkedCar,2.00647E+12,2006,West Sussex,30
+ParkedCar,2.00647E+12,2006,East Sussex,13
+ParkedCar,2.00647E+12,2006,Brighton and Hove,55
+ParkedCar,2.00647E+12,2006,West Sussex,60
+ParkedCar,2.00647E+12,2006,Brighton and Hove,30
+ParkedCar,2.00647E+12,2006,Brighton and Hove,19
+ParkedCar,2.00647E+12,2006,Brighton and Hove,29
+ParkedCar,2.00647E+12,2006,Brighton and Hove,23
+ParkedCar,200650A31C258,2006,Cornwall and Isles of Scilly,15
+ParkedCar,200650A31P089,2006,Cornwall and Isles of Scilly,45
+ParkedCar,200650A51P013,2006,Cornwall and Isles of Scilly,33
+ParkedCar,200650A61K756,2006,Cornwall and Isles of Scilly,14
+ParkedCar,200650D21F605,2006,Devon,56
+ParkedCar,200650D21H947,2006,Devon,
+ParkedCar,200650D21K749,2006,Devon,12
+ParkedCar,200650D31L293,2006,Devon,35
+ParkedCar,200650E21J149,2006,Plymouth,33
+ParkedCar,200650F21F923,2006,Torbay,38
+ParkedCar,200650F21K643,2006,Torbay,45
+ParkedCar,200650F51N919,2006,Devon,
+ParkedCar,2.00652E+12,2006,Somerset,48
+ParkedCar,2.00652E+12,2006,City of Bristol,45
+ParkedCar,2.00652E+12,2006,Somerset,20
+ParkedCar,2.00652E+12,2006,South Gloucestershire,4
+ParkedCar,2.00652E+12,2006,Bath and North East Somerset,44
+ParkedCar,2.00652E+12,2006,Bath and North East Somerset,27
+ParkedCar,2.00652E+12,2006,Somerset,23
+ParkedCar,2.00652E+12,2006,North Somerset,66
+ParkedCar,2.00652E+12,2006,City of Bristol,31
+ParkedCar,2.00652E+12,2006,City of Bristol,55
+ParkedCar,2.00653E+12,2006,Gloucestershire,54
+ParkedCar,2.00653E+12,2006,Gloucestershire,48
+ParkedCar,2.00653E+12,2006,Gloucestershire,45
+ParkedCar,2.00653E+12,2006,Gloucestershire,23
+ParkedCar,2.00653E+12,2006,Gloucestershire,52
+ParkedCar,2.00653E+12,2006,Gloucestershire,29
+ParkedCar,2.00653E+12,2006,Gloucestershire,11
+ParkedCar,2.00653E+12,2006,Gloucestershire,37
+ParkedCar,200654AH61506,2006,Wiltshire,14
+ParkedCar,200654AM29906,2006,Wiltshire,30
+ParkedCar,200654DW23506,2006,Swindon,13
+ParkedCar,2006556B00289,2006,Bournemouth,49
+ParkedCar,2006556B02207,2006,Bournemouth,21
+ParkedCar,2006556B02466,2006,Bournemouth,35
+ParkedCar,2006556B05227,2006,Bournemouth,28
+ParkedCar,2006556B05329,2006,Bournemouth,16
+ParkedCar,2006556E02533,2006,Dorset,64
+ParkedCar,2006556E06285,2006,Dorset,10
+ParkedCar,2006556P03341,2006,Poole,11
+ParkedCar,2006556P04466,2006,Poole,10
+ParkedCar,200701BS70057,2007,London,54
+ParkedCar,200701BS70359,2007,London,34
+ParkedCar,200701BS70514,2007,London,40
+ParkedCar,200701CW10277,2007,London,37
+ParkedCar,200701CW63586,2007,London,37
+ParkedCar,200701CW64576,2007,London,31
+ParkedCar,200701CW65693,2007,London,34
+ParkedCar,200701EK64716,2007,London,29
+ParkedCar,200701EK66086,2007,London,25
+ParkedCar,200701EO40076,2007,London,35
+ParkedCar,200701EO40133,2007,London,43
+ParkedCar,200701EO40299,2007,London,25
+ParkedCar,200701EO40335,2007,London,32
+ParkedCar,200701EO40420,2007,London,28
+ParkedCar,200701EO40547,2007,London,27
+ParkedCar,200701EO40709,2007,London,28
+ParkedCar,200701EO40942,2007,London,27
+ParkedCar,200701FH10019,2007,London,55
+ParkedCar,200701GD10042,2007,London,54
+ParkedCar,200701GD10269,2007,London,49
+ParkedCar,200701HT20075,2007,London,22
+ParkedCar,200701HT63070,2007,London,42
+ParkedCar,200701HT64306,2007,London,33
+ParkedCar,200701HT65437,2007,London,31
+ParkedCar,200701JC30142,2007,London,58
+ParkedCar,200701JC30265,2007,London,49
+ParkedCar,200701JC66550,2007,London,
+ParkedCar,200701JC67300,2007,London,37
+ParkedCar,200701KF60280,2007,London,40
+ParkedCar,200701KF64726,2007,London,32
+ParkedCar,200701KF67215,2007,London,15
+ParkedCar,200701LX50513,2007,London,
+ParkedCar,200701LX50595,2007,London,25
+ParkedCar,200701NI63582,2007,London,25
+ParkedCar,200701PY20360,2007,London,27
+ParkedCar,200701QK50034,2007,London,36
+ParkedCar,200701QK50213,2007,London,27
+ParkedCar,200701QK63722,2007,London,33
+ParkedCar,200701RG62922,2007,London,20
+ParkedCar,200701RY10224,2007,London,42
+ParkedCar,200701SX20370,2007,London,18
+ParkedCar,200701SX20403,2007,London,52
+ParkedCar,200701SX20594,2007,London,31
+ParkedCar,200701SX20718,2007,London,58
+ParkedCar,200701TC00002,2007,London,26
+ParkedCar,200701TW60232,2007,London,22
+ParkedCar,200701TW60294,2007,London,45
+ParkedCar,200701TX20446,2007,London,
+ParkedCar,200701VK30159,2007,London,35
+ParkedCar,200701WW50365,2007,London,51
+ParkedCar,200701XD80402,2007,London,53
+ParkedCar,200701XH30114,2007,London,
+ParkedCar,200701ZD30175,2007,London,58
+ParkedCar,2.00703E+12,2007,Cumbria,60
+ParkedCar,2.00703E+12,2007,Cumbria,14
+ParkedCar,2.00703E+12,2007,Cumbria,47
+ParkedCar,200704AL07181,2007,Lancashire,13
+ParkedCar,200704AX07099,2007,Blackpool,41
+ParkedCar,200704BA07213,2007,Lancashire,15
+ParkedCar,200704BC07144,2007,Lancashire,58
+ParkedCar,200705AA19794,2007,Merseyside,58
+ParkedCar,200705BB14338,2007,Merseyside,58
+ParkedCar,200705BB14984,2007,Merseyside,37
+ParkedCar,200705EE21569,2007,Merseyside,34
+ParkedCar,200706A081367,2007,Manchester,22
+ParkedCar,200706B068246,2007,Manchester,19
+ParkedCar,200706B075550,2007,Manchester,41
+ParkedCar,200706F075027,2007,Salford,78
+ParkedCar,200706K083447,2007,Bolton,36
+ParkedCar,200706L072235,2007,Wigan,22
+ParkedCar,200706L074010,2007,Wigan,61
+ParkedCar,200706M082685,2007,Trafford,14
+ParkedCar,200706P070800,2007,Rochdale,36
+ParkedCar,200706P076778,2007,Rochdale,7
+ParkedCar,2.00707E+12,2007,Cheshire West and Chester,19
+ParkedCar,2.00707E+12,2007,Cheshire West and Chester,61
+ParkedCar,2.0071E+12,2007,Newcastle upon Tyne,70
+ParkedCar,2.0071E+12,2007,North Tyneside,60
+ParkedCar,2.0071E+12,2007,South Tyneside,14
+ParkedCar,200711DC12190,2007,Durham,60
+ParkedCar,200711DJ13190,2007,Darlington,22
+ParkedCar,2.00712E+12,2007,York,24
+ParkedCar,2.00712E+12,2007,York,21
+ParkedCar,2.00712E+12,2007,York,22
+ParkedCar,2.00712E+12,2007,York,69
+ParkedCar,2.00713E+12,2007,Leeds,55
+ParkedCar,2.00713E+12,2007,Kirklees,13
+ParkedCar,2.00713E+12,2007,Wakefield,41
+ParkedCar,2.00713E+12,2007,Leeds,18
+ParkedCar,200714A114007,2007,Doncaster,53
+ParkedCar,200714A121607,2007,Doncaster,47
+ParkedCar,200714A131907,2007,Doncaster,60
+ParkedCar,200714A175607,2007,Doncaster,34
+ParkedCar,200714H073307,2007,Sheffield,41
+ParkedCar,200714H081207,2007,Sheffield,31
+ParkedCar,200714H127707,2007,Sheffield,16
+ParkedCar,200714H145407,2007,Sheffield,48
+ParkedCar,200714H166307,2007,Sheffield,51
+ParkedCar,2007160A04260,2007,North East Lincolnshire,15
+ParkedCar,2007160C04870,2007,East Riding of Yorkshire,35
+ParkedCar,2007160C05530,2007,East Riding of Yorkshire,17
+ParkedCar,2007160D02920,2007,Kingston Upon Hull,35
+ParkedCar,2007170M31347,2007,Middlesbrough,28
+ParkedCar,2007170S12397,2007,Stockton on Tees,28
+ParkedCar,200720D320703,2007,Birmingham,19
+ParkedCar,200720E120103,2007,Birmingham,37
+ParkedCar,200720F104202,2007,Birmingham,22
+ParkedCar,200720H028001,2007,Walsall,32
+ParkedCar,200720H036702,2007,Walsall,32
+ParkedCar,200720K089702,2007,Sandwell,
+ParkedCar,200720K097001,2007,Sandwell,42
+ParkedCar,200720M011601,2007,Coventry,15
+ParkedCar,200720M067901,2007,Coventry,31
+ParkedCar,2.00722E+12,2007,Staffordshire,57
+ParkedCar,2.00722E+12,2007,Staffordshire,80
+ParkedCar,2.00722E+12,2007,Staffordshire,24
+ParkedCar,2.00722E+12,2007,Staffordshire,
+ParkedCar,2.00722E+12,2007,Staffordshire,
+ParkedCar,2.00722E+12,2007,Staffordshire,36
+ParkedCar,200722CA86163,2007,Worcestershire,77
+ParkedCar,200722EA85928,2007,Herefordshire,25
+ParkedCar,200722EA86596,2007,Herefordshire,65
+ParkedCar,200722FA87356,2007,Shropshire,13
+ParkedCar,2.00723E+12,2007,Warwickshire,41
+ParkedCar,2.00723E+12,2007,Warwickshire,21
+ParkedCar,2.00723E+12,2007,Warwickshire,14
+ParkedCar,200730A000270,2007,Derbyshire,15
+ParkedCar,200730A000369,2007,Derbyshire,43
+ParkedCar,200730A000718,2007,Derbyshire,23
+ParkedCar,200730D000013,2007,Derby,11
+ParkedCar,200730D000352,2007,Derby,36
+ParkedCar,200730D000564,2007,Derby,37
+ParkedCar,200730D000616,2007,Derby,36
+ParkedCar,200730D000805,2007,Derby,41
+ParkedCar,20073102C1762,2007,Nottingham,30
+ParkedCar,20073102C2551,2007,Nottingham,12
+ParkedCar,20073102C3142,2007,Nottingham,38
+ParkedCar,20073102D0090,2007,Nottinghamshire,
+ParkedCar,20073102D2775,2007,Nottinghamshire,35
+ParkedCar,20073102D3412,2007,Nottinghamshire,47
+ParkedCar,200732B068607,2007,Lincolnshire,12
+ParkedCar,200732C041707,2007,Lincolnshire,49
+ParkedCar,2.00733E+12,2007,Leicestershire,17
+ParkedCar,2.00733E+12,2007,Leicestershire,15
+ParkedCar,2.00733E+12,2007,Leicestershire,15
+ParkedCar,2.00733E+12,2007,Leicestershire,58
+ParkedCar,200734NE40207,2007,Northamptonshire,30
+ParkedCar,200734NK51347,2007,Northamptonshire,15
+ParkedCar,200734WN40907,2007,Northamptonshire,41
+ParkedCar,2.00735E+12,2007,Cambridgeshire,30
+ParkedCar,2.00735E+12,2007,Cambridgeshire,17
+ParkedCar,2.00735E+12,2007,Cambridgeshire,27
+ParkedCar,2.00735E+12,2007,Cambridgeshire,50
+ParkedCar,2.00736E+12,2007,Norfolk,59
+ParkedCar,2.00736E+12,2007,Norfolk,35
+ParkedCar,2.00736E+12,2007,Norfolk,50
+ParkedCar,200737B027346,2007,Suffolk,13
+ParkedCar,200737B027541,2007,Suffolk,15
+ParkedCar,200737G021744,2007,Suffolk,56
+ParkedCar,200737G022675,2007,Suffolk,53
+ParkedCar,200737G023274,2007,Suffolk,21
+ParkedCar,200737L014019,2007,Suffolk,22
+ParkedCar,200737L014648,2007,Suffolk,49
+ParkedCar,200737L014649,2007,Suffolk,13
+ParkedCar,200737L014662,2007,Suffolk,84
+ParkedCar,2007400C03065,2007,Luton,20
+ParkedCar,20074100F4431,2007,Hertfordshire,26
+ParkedCar,20074100F4534,2007,Hertfordshire,18
+ParkedCar,20074100G0212,2007,Hertfordshire,62
+ParkedCar,200742I284607,2007,Essex,31
+ParkedCar,200742I339508,2007,Thurrock,45
+ParkedCar,200742I372009,2007,Essex,44
+ParkedCar,200742I396609,2007,Essex,57
+ParkedCar,200742I457411,2007,Essex,25
+ParkedCar,200742I465111,2007,Southend on Sea,30
+ParkedCar,200743N213047,2007,Buckinghamshire,40
+ParkedCar,200743N218107,2007,Buckinghamshire,32
+ParkedCar,200743P054097,2007,Oxfordshire,33
+ParkedCar,200743P096127,2007,Oxfordshire,32
+ParkedCar,200743P113057,2007,Oxfordshire,13
+ParkedCar,200743P305127,2007,Oxfordshire,25
+ParkedCar,200743R047087,2007,Windsor and Maidenhead,24
+ParkedCar,200743R058067,2007,Slough,18
+ParkedCar,200743R076037,2007,Windsor and Maidenhead,11
+ParkedCar,200743R084077,2007,Slough,22
+ParkedCar,200743S036087,2007,Milton Keynes,18
+ParkedCar,200743W011047,2007,West Berkshire,35
+ParkedCar,200743W268107,2007,Reading,41
+ParkedCar,2.00744E+12,2007,Southampton ,46
+ParkedCar,2.00744E+12,2007,Southampton ,67
+ParkedCar,2.00744E+12,2007,Portsmouth,17
+ParkedCar,2.00744E+12,2007,Southampton ,14
+ParkedCar,2.00744E+12,2007,Hampshire,32
+ParkedCar,2.00744E+12,2007,Portsmouth,20
+ParkedCar,2.00744E+12,2007,Southampton ,67
+ParkedCar,2.00744E+12,2007,Portsmouth,30
+ParkedCar,2.00744E+12,2007,Hampshire,43
+ParkedCar,2.00744E+12,2007,Portsmouth,41
+ParkedCar,2.00744E+12,2007,Hampshire,21
+ParkedCar,200745MO04120,2007,Surrey,28
+ParkedCar,200745SU08444,2007,Surrey,53
+ParkedCar,200745WO07626,2007,Surrey,16
+ParkedCar,2.00746E+12,2007,Kent,45
+ParkedCar,2.00746E+12,2007,Kent,82
+ParkedCar,2.00746E+12,2007,Kent,42
+ParkedCar,2.00746E+12,2007,Kent,46
+ParkedCar,2.00746E+12,2007,Kent,46
+ParkedCar,2.00746E+12,2007,Kent,54
+ParkedCar,2.00746E+12,2007,Kent,45
+ParkedCar,2.00746E+12,2007,Kent,27
+ParkedCar,2.00747E+12,2007,West Sussex,48
+ParkedCar,2.00747E+12,2007,Brighton and Hove,30
+ParkedCar,2.00747E+12,2007,Brighton and Hove,30
+ParkedCar,2.00747E+12,2007,West Sussex,36
+ParkedCar,2.00747E+12,2007,West Sussex,62
+ParkedCar,2.00747E+12,2007,Brighton and Hove,29
+ParkedCar,2.00747E+12,2007,West Sussex,60
+ParkedCar,2.00747E+12,2007,West Sussex,68
+ParkedCar,200750A41C999,2007,Cornwall and Isles of Scilly,41
+ParkedCar,200750B42J266,2007,Cornwall and Isles of Scilly,56
+ParkedCar,200750D21C508,2007,Devon,31
+ParkedCar,200750D21K856,2007,Devon,39
+ParkedCar,200750D21M169,2007,Devon,55
+ParkedCar,200750E21J489,2007,Plymouth,15
+ParkedCar,200750E41A607,2007,Plymouth,
+ParkedCar,200750E52M650,2007,Plymouth,43
+ParkedCar,200750F44G863,2007,Devon,
+ParkedCar,2.00752E+12,2007,City of Bristol,34
+ParkedCar,2.00752E+12,2007,Somerset,40
+ParkedCar,2.00752E+12,2007,City of Bristol,17
+ParkedCar,2.00752E+12,2007,North Somerset,14
+ParkedCar,2.00752E+12,2007,Somerset,
+ParkedCar,2.00752E+12,2007,City of Bristol,23
+ParkedCar,2.00752E+12,2007,North Somerset,35
+ParkedCar,2.00752E+12,2007,Somerset,
+ParkedCar,2.00752E+12,2007,South Gloucestershire,34
+ParkedCar,2.00752E+12,2007,City of Bristol,39
+ParkedCar,2.00752E+12,2007,City of Bristol,23
+ParkedCar,2.00753E+12,2007,Gloucestershire,35
+ParkedCar,2.00753E+12,2007,Gloucestershire,39
+ParkedCar,200754EY32507,2007,Wiltshire,47
+ParkedCar,200754EZ13007,2007,Wiltshire,16
+ParkedCar,2007557P00363,2007,Poole,31
+ParkedCar,2007557P03500,2007,Poole,60
+ParkedCar,2007557W04788,2007,Dorset,61
+ParkedCar,200801BS70347,2008,London,26
+ParkedCar,200801BS70362,2008,London,27
+ParkedCar,200801BS70568,2008,London,37
+ParkedCar,200801BS70710,2008,London,37
+ParkedCar,200801BS74392,2008,London,19
+ParkedCar,200801CW10610,2008,London,25
+ParkedCar,200801CW10632,2008,London,32
+ParkedCar,200801CW11271,2008,London,31
+ParkedCar,200801CW11856,2008,London,30
+ParkedCar,200801EK72886,2008,London,47
+ParkedCar,200801EO40257,2008,London,32
+ParkedCar,200801EO40334,2008,London,26
+ParkedCar,200801EO40659,2008,London,33
+ParkedCar,200801FH10165,2008,London,
+ParkedCar,200801FH10486,2008,London,23
+ParkedCar,200801GD70378,2008,London,32
+ParkedCar,200801GD73389,2008,London,26
+ParkedCar,200801GD74313,2008,London,15
+ParkedCar,200801GD76349,2008,London,29
+ParkedCar,200801GD76611,2008,London,49
+ParkedCar,200801HT72128,2008,London,25
+ParkedCar,200801HT72593,2008,London,22
+ParkedCar,200801HT74754,2008,London,23
+ParkedCar,200801HT75032,2008,London,26
+ParkedCar,200801HT75556,2008,London,22
+ParkedCar,200801JC72088,2008,London,
+ParkedCar,200801JC72121,2008,London,
+ParkedCar,200801JC75545,2008,London,43
+ParkedCar,200801JI75631,2008,London,67
+ParkedCar,200801KF70441,2008,London,29
+ParkedCar,200801KF75009,2008,London,42
+ParkedCar,200801KF75060,2008,London,28
+ParkedCar,200801KF76653,2008,London,26
+ParkedCar,200801LX50089,2008,London,
+ParkedCar,200801LX50727,2008,London,24
+ParkedCar,200801LX50792,2008,London,
+ParkedCar,200801MM71251,2008,London,37
+ParkedCar,200801PL60344,2008,London,47
+ParkedCar,200801PL60380,2008,London,44
+ParkedCar,200801PL60601,2008,London,52
+ParkedCar,200801PL74477,2008,London,33
+ParkedCar,200801PY20408,2008,London,34
+ParkedCar,200801QA10248,2008,London,40
+ParkedCar,200801QK50043,2008,London,18
+ParkedCar,200801QK50329,2008,London,28
+ParkedCar,200801RG40354,2008,London,22
+ParkedCar,200801SX20163,2008,London,46
+ParkedCar,200801TW60030,2008,London,67
+ParkedCar,200801TW60145,2008,London,42
+ParkedCar,200801TX20659,2008,London,39
+ParkedCar,200801VK30011,2008,London,
+ParkedCar,200801VK30277,2008,London,39
+ParkedCar,200801WW50344,2008,London,32
+ParkedCar,200801WW50706,2008,London,27
+ParkedCar,200801XD80659,2008,London,
+ParkedCar,200801XH30070,2008,London,22
+ParkedCar,200801XH30608,2008,London,52
+ParkedCar,200801XH30627,2008,London,32
+ParkedCar,200801YR90323,2008,London,36
+ParkedCar,200801YR90336,2008,London,35
+ParkedCar,200801YR90683,2008,London,25
+ParkedCar,2.00803E+12,2008,Cumbria,58
+ParkedCar,200804AL08129,2008,Lancashire,15
+ParkedCar,200804AM08219,2008,Blackpool,38
+ParkedCar,200804AX08017,2008,Blackpool,63
+ParkedCar,200804BB08184,2008,Lancashire,20
+ParkedCar,200804CA08058,2008,Lancashire,31
+ParkedCar,200804CL08115,2008,Lancashire,36
+ParkedCar,200804CM08049,2008,Lancashire,66
+ParkedCar,200804CM08114,2008,Lancashire,46
+ParkedCar,200804FL08056,2008,Lancashire,49
+ParkedCar,200804FL08058,2008,Lancashire,71
+ParkedCar,200805AA29291,2008,Merseyside,40
+ParkedCar,200805BB25909,2008,Merseyside,57
+ParkedCar,200805BB26584,2008,Merseyside,51
+ParkedCar,200805EE27167,2008,Merseyside,36
+ParkedCar,200805FF27051,2008,Merseyside,13
+ParkedCar,200806B007042,2008,Manchester,20
+ParkedCar,200806B089476,2008,Manchester,30
+ParkedCar,200806B093913,2008,Manchester,20
+ParkedCar,200806B094009,2008,Manchester,35
+ParkedCar,200806B097247,2008,Manchester,24
+ParkedCar,200806J001514,2008,Stockport,16
+ParkedCar,200806K005785,2008,Bolton,40
+ParkedCar,200806M002424,2008,Trafford,57
+ParkedCar,200806M087589,2008,Trafford,18
+ParkedCar,200806N000128,2008,Bury,41
+ParkedCar,200806N093468,2008,Bury,42
+ParkedCar,200806Q005854,2008,Oldham,33
+ParkedCar,2.00807E+12,2008,Cheshire West and Chester,30
+ParkedCar,2.00807E+12,2008,Cheshire West and Chester,34
+ParkedCar,2.00807E+12,2008,Warrington,50
+ParkedCar,2.00807E+12,2008,Cheshire West and Chester,23
+ParkedCar,2.0081E+12,2008,Northumberland,78
+ParkedCar,2.0081E+12,2008,Gateshead,16
+ParkedCar,2.0081E+12,2008,Newcastle upon Tyne,24
+ParkedCar,2.0081E+12,2008,South Tyneside,35
+ParkedCar,2.00812E+12,2008,York,43
+ParkedCar,2.00812E+12,2008,North Yorkshire,79
+ParkedCar,2.00812E+12,2008,York,28
+ParkedCar,2.00812E+12,2008,York,21
+ParkedCar,2.00812E+12,2008,York,18
+ParkedCar,2.00812E+12,2008,North Yorkshire,40
+ParkedCar,2.00813E+12,2008,Kirklees,31
+ParkedCar,2.00813E+12,2008,Kirklees,10
+ParkedCar,2.00813E+12,2008,Leeds,27
+ParkedCar,2.00813E+12,2008,Leeds,20
+ParkedCar,2.00813E+12,2008,Leeds,56
+ParkedCar,2.00813E+12,2008,Calderdale,10
+ParkedCar,2.00813E+12,2008,Leeds,36
+ParkedCar,2.00813E+12,2008,Bradford,23
+ParkedCar,2.00813E+12,2008,Bradford,41
+ParkedCar,2.00813E+12,2008,Leeds,52
+ParkedCar,200814A084108,2008,Doncaster,14
+ParkedCar,200814A155908,2008,Doncaster,36
+ParkedCar,200814A186308,2008,Doncaster,32
+ParkedCar,200814K047608,2008,Sheffield,15
+ParkedCar,200814K159108,2008,Sheffield,24
+ParkedCar,2008160A02600,2008,North East Lincolnshire,46
+ParkedCar,2008160B00960,2008,North Lincolnshire,23
+ParkedCar,2008160C02500,2008,East Riding of Yorkshire,40
+ParkedCar,2008160C04990,2008,East Riding of Yorkshire,51
+ParkedCar,2008160D05530,2008,Kingston Upon Hull,24
+ParkedCar,2008160D07790,2008,Kingston Upon Hull,41
+ParkedCar,2008170H10768,2008,Hartlepool,18
+ParkedCar,2008170M12358,2008,Middlesbrough,40
+ParkedCar,2008170S21898,2008,Stockton on Tees,56
+ParkedCar,200820D102701,2008,Birmingham,35
+ParkedCar,200820D202302,2008,Birmingham,15
+ParkedCar,200820D227803,2008,Birmingham,47
+ParkedCar,200820F144901,2008,Birmingham,29
+ParkedCar,200820J041302,2008,Dudley,
+ParkedCar,2.00822E+12,2008,Staffordshire,43
+ParkedCar,2.00822E+12,2008,Staffordshire,8
+ParkedCar,2.00822E+12,2008,Staffordshire,32
+ParkedCar,200822CA88134,2008,Worcestershire,50
+ParkedCar,200822EA00692,2008,Herefordshire,49
+ParkedCar,200822FA87995,2008,Shropshire,18
+ParkedCar,200822FA88376,2008,Shropshire,15
+ParkedCar,2.00823E+12,2008,Warwickshire,45
+ParkedCar,200830A000297,2008,Derbyshire,9
+ParkedCar,200830A000491,2008,Derbyshire,
+ParkedCar,200830A000576,2008,Derbyshire,30
+ParkedCar,200830C000254,2008,Derbyshire,24
+ParkedCar,200830C000274,2008,Derbyshire,12
+ParkedCar,200830C000420,2008,Derbyshire,16
+ParkedCar,200830C000625,2008,Derbyshire,
+ParkedCar,200830C000708,2008,Derbyshire,35
+ParkedCar,200830D000380,2008,Derbyshire,14
+ParkedCar,20083102A3672,2008,Nottinghamshire,15
+ParkedCar,20083102C2344,2008,Nottingham,23
+ParkedCar,20083102D2178,2008,Nottinghamshire,55
+ParkedCar,200832B182508,2008,Lincolnshire,12
+ParkedCar,200832B224908,2008,Lincolnshire,14
+ParkedCar,200832B245508,2008,Lincolnshire,19
+ParkedCar,200832B265308,2008,Lincolnshire,57
+ParkedCar,200832C164308,2008,Lincolnshire,26
+ParkedCar,200832C173708,2008,Lincolnshire,6
+ParkedCar,200832C283608,2008,Lincolnshire,30
+ParkedCar,200832D291508,2008,Lincolnshire,
+ParkedCar,2.00833E+12,2008,Leicestershire,14
+ParkedCar,2.00833E+12,2008,Leicestershire,23
+ParkedCar,2.00833E+12,2008,Leicestershire,30
+ParkedCar,2.00833E+12,2008,Leicestershire,
+ParkedCar,2.00833E+12,2008,Leicestershire,17
+ParkedCar,2.00833E+12,2008,Leicestershire,27
+ParkedCar,200834NW29698,2008,Northamptonshire,44
+ParkedCar,2.00836E+12,2008,Norfolk,15
+ParkedCar,2.00836E+12,2008,Norfolk,30
+ParkedCar,200837B030405,2008,Suffolk,
+ParkedCar,200837G024926,2008,Suffolk,14
+ParkedCar,200837G025451,2008,Suffolk,75
+ParkedCar,200837L016001,2008,Suffolk,44
+ParkedCar,200837L016071,2008,Suffolk,11
+ParkedCar,2008400B00682,2008,Bedford Borough Council,48
+ParkedCar,2008400C00487,2008,Luton,35
+ParkedCar,20084100B0422,2008,Hertfordshire,61
+ParkedCar,20084100C0719,2008,Hertfordshire,26
+ParkedCar,20084100K0445,2008,Hertfordshire,10
+ParkedCar,200842I222306,2008,Essex,39
+ParkedCar,200842I367410,2008,Essex,16
+ParkedCar,200842I377910,2008,Essex,42
+ParkedCar,200842I418711,2008,Essex,18
+ParkedCar,200843N065048,2008,Buckinghamshire,14
+ParkedCar,200843N081108,2008,Buckinghamshire,67
+ParkedCar,200843N153088,2008,Buckinghamshire,32
+ParkedCar,200843P009078,2008,Oxfordshire,20
+ParkedCar,200843P101038,2008,Oxfordshire,25
+ParkedCar,200843P408108,2008,Oxfordshire,25
+ParkedCar,200843R084058,2008,Windsor and Maidenhead,16
+ParkedCar,200843S069078,2008,Milton Keynes,72
+ParkedCar,200843S082088,2008,Milton Keynes,55
+ParkedCar,200843W071018,2008,Reading,54
+ParkedCar,200843W201108,2008,West Berkshire,28
+ParkedCar,200843W213028,2008,Reading,44
+ParkedCar,2.00844E+12,2008,Hampshire,42
+ParkedCar,2.00844E+12,2008,Portsmouth,20
+ParkedCar,2.00844E+12,2008,Southampton ,26
+ParkedCar,2.00844E+12,2008,Hampshire,56
+ParkedCar,2.00844E+12,2008,Isle of Wight,18
+ParkedCar,2.00844E+12,2008,Hampshire,12
+ParkedCar,2.00844E+12,2008,Portsmouth,23
+ParkedCar,2.00844E+12,2008,Portsmouth,53
+ParkedCar,2.00844E+12,2008,Hampshire,35
+ParkedCar,2.00844E+12,2008,Hampshire,22
+ParkedCar,2.00844E+12,2008,Southampton ,54
+ParkedCar,2.00844E+12,2008,Hampshire,15
+ParkedCar,200845EL18971,2008,Surrey,28
+ParkedCar,200845EL24498,2008,Surrey,27
+ParkedCar,200845EL30843,2008,Surrey,29
+ParkedCar,200845GU25774,2008,Surrey,45
+ParkedCar,200845GU29676,2008,Surrey,36
+ParkedCar,200845MO18072,2008,Surrey,53
+ParkedCar,200845RE22847,2008,Surrey,36
+ParkedCar,200845WA27814,2008,Surrey,58
+ParkedCar,2.00846E+12,2008,Medway,42
+ParkedCar,2.00846E+12,2008,Kent,43
+ParkedCar,2.00846E+12,2008,Kent,50
+ParkedCar,2.00846E+12,2008,Kent,13
+ParkedCar,2.00847E+12,2008,West Sussex,61
+ParkedCar,2.00847E+12,2008,West Sussex,40
+ParkedCar,2.00847E+12,2008,East Sussex,48
+ParkedCar,2.00847E+12,2008,Brighton and Hove,20
+ParkedCar,2.00847E+12,2008,West Sussex,35
+ParkedCar,2.00847E+12,2008,West Sussex,14
+ParkedCar,2.00847E+12,2008,Brighton and Hove,41
+ParkedCar,2.00847E+12,2008,Brighton and Hove,45
+ParkedCar,2.00847E+12,2008,Brighton and Hove,33
+ParkedCar,200850C31A914,2008,Devon,50
+ParkedCar,200850D33B946,2008,Devon,12
+ParkedCar,200850DE2I017,2008,Devon,69
+ParkedCar,2.00852E+12,2008,City of Bristol,27
+ParkedCar,2.00852E+12,2008,Bath and North East Somerset,36
+ParkedCar,2.00852E+12,2008,City of Bristol,42
+ParkedCar,2.00852E+12,2008,City of Bristol,27
+ParkedCar,2.00852E+12,2008,Somerset,
+ParkedCar,2.00852E+12,2008,Bath and North East Somerset,17
+ParkedCar,2.00852E+12,2008,North Somerset,71
+ParkedCar,2.00852E+12,2008,City of Bristol,34
+ParkedCar,2.00852E+12,2008,City of Bristol,24
+ParkedCar,2.00852E+12,2008,City of Bristol,35
+ParkedCar,2.00852E+12,2008,City of Bristol,35
+ParkedCar,2.00852E+12,2008,Bath and North East Somerset,36
+ParkedCar,2.00852E+12,2008,North Somerset,37
+ParkedCar,2.00852E+12,2008,City of Bristol,30
+ParkedCar,2.00853E+12,2008,Gloucestershire,52
+ParkedCar,2.00853E+12,2008,Gloucestershire,19
+ParkedCar,2.00853E+12,2008,Gloucestershire,32
+ParkedCar,2.00853E+12,2008,Gloucestershire,16
+ParkedCar,2.00853E+12,2008,Gloucestershire,10
+ParkedCar,2.00853E+12,2008,Gloucestershire,49
+ParkedCar,2008558C02968,2008,Bournemouth,34
+ParkedCar,2008558C03026,2008,Bournemouth,28
+ParkedCar,2008558C05108,2008,Poole,18
+ParkedCar,2008558D03072,2008,Dorset,72
+ParkedCar,2008558D04825,2008,Dorset,18
+ParkedCar,2008558D05627,2008,Dorset,63
+ParkedCar,2008558P00275,2008,Poole,19
+ParkedCar,2008558P00562,2008,Poole,25
+ParkedCar,200901BS70478,2009,London,75
+ParkedCar,200901BS70650,2009,London,44
+ParkedCar,200901BS70692,2009,London,
+ParkedCar,200901CW10173,2009,London,62
+ParkedCar,200901CW10475,2009,London,34
+ParkedCar,200901CW10500,2009,London,55
+ParkedCar,200901CW10518,2009,London,31
+ParkedCar,200901CW10892,2009,London,42
+ParkedCar,200901CW10973,2009,London,26
+ParkedCar,200901CW11106,2009,London,32
+ParkedCar,200901CW11141,2009,London,29
+ParkedCar,200901CW11328,2009,London,65
+ParkedCar,200901CW11749,2009,London,62
+ParkedCar,200901CW12260,2009,London,26
+ParkedCar,200901CW12735,2009,London,47
+ParkedCar,200901EO40024,2009,London,
+ParkedCar,200901EO40096,2009,London,22
+ParkedCar,200901EO40196,2009,London,33
+ParkedCar,200901EO40274,2009,London,33
+ParkedCar,200901EO40280,2009,London,46
+ParkedCar,200901EO40327,2009,London,29
+ParkedCar,200901EO40520,2009,London,30
+ParkedCar,200901EO40680,2009,London,34
+ParkedCar,200901FH10015,2009,London,38
+ParkedCar,200901FH10024,2009,London,51
+ParkedCar,200901FH10420,2009,London,29
+ParkedCar,200901FH10430,2009,London,28
+ParkedCar,200901FH10517,2009,London,40
+ParkedCar,200901GD10060,2009,London,25
+ParkedCar,200901GD10111,2009,London,41
+ParkedCar,200901GD10274,2009,London,22
+ParkedCar,200901GD10560,2009,London,
+ParkedCar,200901GD10744,2009,London,46
+ParkedCar,200901HT20208,2009,London,28
+ParkedCar,200901HT20807,2009,London,21
+ParkedCar,200901JC30466,2009,London,27
+ParkedCar,200901JI40139,2009,London,34
+ParkedCar,200901JI40199,2009,London,43
+ParkedCar,200901LX50568,2009,London,29
+ParkedCar,200901LX50711,2009,London,55
+ParkedCar,200901LX50832,2009,London,32
+ParkedCar,200901LX50880,2009,London,43
+ParkedCar,200901LX50891,2009,London,27
+ParkedCar,200901LX50894,2009,London,26
+ParkedCar,200901LX51107,2009,London,25
+ParkedCar,200901MM70545,2009,London,30
+ParkedCar,200901MM70546,2009,London,
+ParkedCar,200901MM70557,2009,London,20
+ParkedCar,200901MM70751,2009,London,
+ParkedCar,200901PL60333,2009,London,34
+ParkedCar,200901PL60875,2009,London,
+ParkedCar,200901PL69045,2009,London,24
+ParkedCar,200901PY20342,2009,London,51
+ParkedCar,200901PY20421,2009,London,
+ParkedCar,200901PY20731,2009,London,49
+ParkedCar,200901PY20754,2009,London,33
+ParkedCar,200901QK50085,2009,London,52
+ParkedCar,200901QK50155,2009,London,42
+ParkedCar,200901QK50295,2009,London,41
+ParkedCar,200901QK50378,2009,London,29
+ParkedCar,200901QK50398,2009,London,45
+ParkedCar,200901RG40363,2009,London,45
+ParkedCar,200901RG40687,2009,London,44
+ParkedCar,200901RY10363,2009,London,15
+ParkedCar,200901RY10405,2009,London,48
+ParkedCar,200901TD00025,2009,London,37
+ParkedCar,200901TE00059,2009,London,40
+ParkedCar,200901TW60160,2009,London,54
+ParkedCar,200901TW60162,2009,London,55
+ParkedCar,200901TX20294,2009,London,71
+ParkedCar,200901TX20707,2009,London,27
+ParkedCar,200901VK30029,2009,London,23
+ParkedCar,200901VK30319,2009,London,62
+ParkedCar,200901VW40133,2009,London,56
+ParkedCar,200901VW40143,2009,London,24
+ParkedCar,200901VW40219,2009,London,
+ParkedCar,200901WW50269,2009,London,51
+ParkedCar,200901WW50293,2009,London,25
+ParkedCar,200901WW50440,2009,London,13
+ParkedCar,200901WW50619,2009,London,34
+ParkedCar,200901WW50954,2009,London,21
+ParkedCar,200901XD80646,2009,London,60
+ParkedCar,200901XD80872,2009,London,38
+ParkedCar,200901XH30564,2009,London,36
+ParkedCar,200901YR90389,2009,London,34
+ParkedCar,200901YR90406,2009,London,55
+ParkedCar,200901YR90516,2009,London,16
+ParkedCar,200901YR90793,2009,London,37
+ParkedCar,200901YR90858,2009,London,53
+ParkedCar,200901ZD30465,2009,London,44
+ParkedCar,200901ZD30590,2009,London,
+ParkedCar,200901ZD30753,2009,London,42
+ParkedCar,2.00903E+12,2009,Cumbria,49
+ParkedCar,2.00903E+12,2009,Cumbria,76
+ParkedCar,2.00903E+12,2009,Cumbria,30
+ParkedCar,2.00903E+12,2009,Cumbria,30
+ParkedCar,2.00903E+12,2009,Cumbria,34
+ParkedCar,2.00903E+12,2009,Cumbria,14
+ParkedCar,200904AN09078,2009,Blackpool,30
+ParkedCar,200904BC09078,2009,Lancashire,45
+ParkedCar,200904CC09004,2009,Lancashire,45
+ParkedCar,200904CK09003,2009,Lancashire,13
+ParkedCar,200904CK09169,2009,Lancashire,41
+ParkedCar,200904DR09027,2009,Lancashire,61
+ParkedCar,200904FL09059,2009,Lancashire,18
+ParkedCar,200904FL09102,2009,Lancashire,24
+ParkedCar,200905BB31715,2009,Merseyside,27
+ParkedCar,200906L010417,2009,Wigan,25
+ParkedCar,200906M017441,2009,Trafford,38
+ParkedCar,200906M017869,2009,Trafford,26
+ParkedCar,2.00907E+12,2009,Warrington,54
+ParkedCar,2.00907E+12,2009,Cheshire West and Chester,37
+ParkedCar,2.00907E+12,2009,Warrington,7
+ParkedCar,2.00907E+12,2009,Warrington,50
+ParkedCar,2.0091E+12,2009,Gateshead,38
+ParkedCar,2.0091E+12,2009,Newcastle upon Tyne,25
+ParkedCar,2.0091E+12,2009,North Tyneside,30
+ParkedCar,2.0091E+12,2009,Newcastle upon Tyne,61
+ParkedCar,2.0091E+12,2009,Newcastle upon Tyne,34
+ParkedCar,2.0091E+12,2009,Northumberland,49
+ParkedCar,2.0091E+12,2009,Newcastle upon Tyne,34
+ParkedCar,200911NG18829,2009,Durham,44
+ParkedCar,200911SJ12889,2009,Darlington,33
+ParkedCar,2.00912E+12,2009,York,15
+ParkedCar,2.00912E+12,2009,York,58
+ParkedCar,2.00913E+12,2009,Leeds,38
+ParkedCar,2.00913E+12,2009,Leeds,25
+ParkedCar,2.00913E+12,2009,Kirklees,36
+ParkedCar,2.00913E+12,2009,Leeds,33
+ParkedCar,2.00913E+12,2009,Wakefield,70
+ParkedCar,2.00913E+12,2009,Leeds,56
+ParkedCar,2.00913E+12,2009,Wakefield,20
+ParkedCar,2.00913E+12,2009,Leeds,46
+ParkedCar,2.00913E+12,2009,Calderdale,13
+ParkedCar,2.00913E+12,2009,Bradford,48
+ParkedCar,200914A159809,2009,Doncaster,52
+ParkedCar,200914C117409,2009,Rotherham,24
+ParkedCar,200914K199809,2009,Sheffield,44
+ParkedCar,2009160B02800,2009,North Lincolnshire,63
+ParkedCar,2009160B04370,2009,North Lincolnshire,27
+ParkedCar,2009160C01150,2009,East Riding of Yorkshire,58
+ParkedCar,2009160C06900,2009,East Riding of Yorkshire,48
+ParkedCar,2009160D01180,2009,Kingston Upon Hull,45
+ParkedCar,2009160D02290,2009,Kingston Upon Hull,23
+ParkedCar,2009160D04040,2009,Kingston Upon Hull,57
+ParkedCar,200920D287103,2009,Birmingham,15
+ParkedCar,200920H021001,2009,Walsall,41
+ParkedCar,200920M024102,2009,Coventry,21
+ParkedCar,2.00922E+12,2009,Staffordshire,33
+ParkedCar,2.00922E+12,2009,Stoke on Trent,33
+ParkedCar,2.00922E+12,2009,Staffordshire,29
+ParkedCar,2.00922E+12,2009,Staffordshire,39
+ParkedCar,200922C903617,2009,Worcestershire,44
+ParkedCar,200922D901394,2009,Worcestershire,46
+ParkedCar,200922E904852,2009,Herefordshire,19
+ParkedCar,200922E906848,2009,Herefordshire,39
+ParkedCar,200922F904456,2009,Shropshire,59
+ParkedCar,2.00923E+12,2009,Warwickshire,54
+ParkedCar,2.00923E+12,2009,Warwickshire,50
+ParkedCar,2.00923E+12,2009,Warwickshire,60
+ParkedCar,2.00923E+12,2009,Warwickshire,45
+ParkedCar,200930A000192,2009,Derbyshire,23
+ParkedCar,200930A000401,2009,Derbyshire,
+ParkedCar,200930C000339,2009,Derbyshire,62
+ParkedCar,20093102A1451,2009,Nottinghamshire,37
+ParkedCar,20093102A2141,2009,Nottinghamshire,15
+ParkedCar,20093102C1830,2009,Nottingham,36
+ParkedCar,20093102C3520,2009,Nottingham,32
+ParkedCar,200932B224009,2009,Lincolnshire,19
+ParkedCar,200932C053709,2009,Lincolnshire,49
+ParkedCar,200932C130809,2009,Lincolnshire,43
+ParkedCar,200932D069209,2009,Lincolnshire,12
+ParkedCar,200932D175009,2009,Lincolnshire,
+ParkedCar,2.00933E+12,2009,Leicestershire,21
+ParkedCar,2.00933E+12,2009,Leicestershire,17
+ParkedCar,200934NW18269,2009,Northamptonshire,11
+ParkedCar,200934WN10219,2009,Northamptonshire,43
+ParkedCar,200934WN46519,2009,Northamptonshire,39
+ParkedCar,200934WN50879,2009,Northamptonshire,44
+ParkedCar,2.00935E+12,2009,Cambridgeshire,23
+ParkedCar,2.00935E+12,2009,Peterborough,63
+ParkedCar,2.00935E+12,2009,Cambridgeshire,25
+ParkedCar,2.00935E+12,2009,Peterborough,20
+ParkedCar,2.00935E+12,2009,Cambridgeshire,50
+ParkedCar,2.00935E+12,2009,Cambridgeshire,54
+ParkedCar,2.00935E+12,2009,Cambridgeshire,17
+ParkedCar,2.00936E+12,2009,Norfolk,18
+ParkedCar,2.00936E+12,2009,Norfolk,42
+ParkedCar,2.00936E+12,2009,Norfolk,19
+ParkedCar,200937B042150,2009,Suffolk,25
+ParkedCar,200937G027058,2009,Suffolk,33
+ParkedCar,20094100C0997,2009,Hertfordshire,16
+ParkedCar,200942I084203,2009,Southend on Sea,17
+ParkedCar,200942I098204,2009,Southend on Sea,23
+ParkedCar,200942I120604,2009,Southend on Sea,35
+ParkedCar,200942I124004,2009,Southend on Sea,38
+ParkedCar,200942I173806,2009,Essex,57
+ParkedCar,200942I177706,2009,Essex,45
+ParkedCar,200942I183306,2009,Southend on Sea,63
+ParkedCar,200942I203906,2009,Essex,60
+ParkedCar,200942I258508,2009,Southend on Sea,17
+ParkedCar,200942I261108,2009,Essex,36
+ParkedCar,200942I307509,2009,Essex,65
+ParkedCar,200942I321609,2009,Essex,
+ParkedCar,200942I334710,2009,Southend on Sea,50
+ParkedCar,200943N066079,2009,Buckinghamshire,
+ParkedCar,200943N199069,2009,Buckinghamshire,47
+ParkedCar,200943P223059,2009,Oxfordshire,9
+ParkedCar,200943R031109,2009,Windsor and Maidenhead,11
+ParkedCar,200943R226119,2009,Slough,30
+ParkedCar,200943R279129,2009,Slough,30
+ParkedCar,200943S136049,2009,Milton Keynes,40
+ParkedCar,200943W054109,2009,Reading,48
+ParkedCar,200943W070119,2009,Reading,55
+ParkedCar,200943W097029,2009,Reading,32
+ParkedCar,200943W193039,2009,Reading,30
+ParkedCar,200943W218019,2009,Reading,30
+ParkedCar,200943W238039,2009,Reading,60
+ParkedCar,2.00944E+12,2009,Hampshire,78
+ParkedCar,2.00944E+12,2009,Hampshire,34
+ParkedCar,2.00944E+12,2009,Southampton ,24
+ParkedCar,2.00944E+12,2009,Hampshire,50
+ParkedCar,2.00944E+12,2009,Portsmouth,35
+ParkedCar,2.00944E+12,2009,Southampton ,28
+ParkedCar,2.00944E+12,2009,Southampton ,20
+ParkedCar,2.00944E+12,2009,Hampshire,25
+ParkedCar,2.00944E+12,2009,Hampshire,21
+ParkedCar,2.00944E+12,2009,Hampshire,40
+ParkedCar,2.00944E+12,2009,Portsmouth,35
+ParkedCar,2.00944E+12,2009,Portsmouth,18
+ParkedCar,2.00944E+12,2009,Hampshire,35
+ParkedCar,2.00944E+12,2009,Southampton ,55
+ParkedCar,2.00944E+12,2009,Portsmouth,46
+ParkedCar,200945EL36295,2009,Surrey,49
+ParkedCar,200945EP41236,2009,Surrey,45
+ParkedCar,200945GU41306,2009,Surrey,33
+ParkedCar,200945GU41878,2009,Surrey,40
+ParkedCar,200945MO40500,2009,Surrey,
+ParkedCar,200945WO38995,2009,Surrey,31
+ParkedCar,2.00946E+12,2009,Medway,28
+ParkedCar,2.00946E+12,2009,Medway,61
+ParkedCar,2.00946E+12,2009,Kent,52
+ParkedCar,2.00946E+12,2009,Kent,49
+ParkedCar,2.00946E+12,2009,Kent,26
+ParkedCar,2.00946E+12,2009,Kent,32
+ParkedCar,2.00946E+12,2009,Kent,23
+ParkedCar,2.00946E+12,2009,Kent,46
+ParkedCar,2.00946E+12,2009,Kent,52
+ParkedCar,2.00947E+12,2009,West Sussex,42
+ParkedCar,2.00947E+12,2009,West Sussex,16
+ParkedCar,2.00947E+12,2009,East Sussex,36
+ParkedCar,2.00947E+12,2009,West Sussex,51
+ParkedCar,2.00947E+12,2009,West Sussex,24
+ParkedCar,2.00947E+12,2009,West Sussex,34
+ParkedCar,2.00947E+12,2009,West Sussex,62
+ParkedCar,2.00947E+12,2009,East Sussex,48
+ParkedCar,2.00947E+12,2009,Brighton and Hove,52
+ParkedCar,2.00947E+12,2009,Brighton and Hove,36
+ParkedCar,2.00947E+12,2009,West Sussex,13
+ParkedCar,200950CD3D016,2009,Devon,16
+ParkedCar,200950DE2W016,2009,Devon,60
+ParkedCar,200950EC2H055,2009,Plymouth,
+ParkedCar,200950ED2I037,2009,Plymouth,67
+ParkedCar,200950ED2N081,2009,Plymouth,38
+ParkedCar,200950EP2D012,2009,Plymouth,55
+ParkedCar,200950GA2A013,2009,Cornwall and Isles of Scilly,43
+ParkedCar,200950JG2H011,2009,Devon,22
+ParkedCar,200950JI2A001,2009,Devon,50
+ParkedCar,200950JN2N042,2009,Devon,13
+ParkedCar,200950JS2A006,2009,Devon,17
+ParkedCar,2.00952E+12,2009,Somerset,41
+ParkedCar,2.00952E+12,2009,City of Bristol,41
+ParkedCar,2.00952E+12,2009,City of Bristol,37
+ParkedCar,2.00952E+12,2009,Bath and North East Somerset,44
+ParkedCar,2.00952E+12,2009,Bath and North East Somerset,15
+ParkedCar,2.00952E+12,2009,South Gloucestershire,51
+ParkedCar,2.00952E+12,2009,Somerset,12
+ParkedCar,2.00952E+12,2009,South Gloucestershire,45
+ParkedCar,2.00952E+12,2009,South Gloucestershire,46
+ParkedCar,2.00952E+12,2009,Somerset,14
+ParkedCar,2.00952E+12,2009,South Gloucestershire,40
+ParkedCar,2009559C00158,2009,Bournemouth,62
+ParkedCar,2009559C00471,2009,Bournemouth,24
+ParkedCar,2009559C00965,2009,Bournemouth,42
+ParkedCar,2009559C04515,2009,Bournemouth,22
+ParkedCar,2009559D00925,2009,Dorset,39
+ParkedCar,201001BS70467,2010,London,31
+ParkedCar,201001BS70583,2010,London,26
+ParkedCar,201001CP00172,2010,London,30
+ParkedCar,201001CW10023,2010,London,36
+ParkedCar,201001CW10205,2010,London,29
+ParkedCar,201001CW10558,2010,London,31
+ParkedCar,201001CW10599,2010,London,43
+ParkedCar,201001CW10682,2010,London,23
+ParkedCar,201001CW10908,2010,London,25
+ParkedCar,201001CW10980,2010,London,31
+ParkedCar,201001CW11020,2010,London,26
+ParkedCar,201001CW11089,2010,London,40
+ParkedCar,201001CW11139,2010,London,35
+ParkedCar,201001CW11440,2010,London,38
+ParkedCar,201001CW11587,2010,London,25
+ParkedCar,201001CW11992,2010,London,32
+ParkedCar,201001CW12214,2010,London,36
+ParkedCar,201001CW12261,2010,London,
+ParkedCar,201001EO40054,2010,London,20
+ParkedCar,201001EO40060,2010,London,45
+ParkedCar,201001EO40286,2010,London,39
+ParkedCar,201001EO40349,2010,London,28
+ParkedCar,201001EO40356,2010,London,32
+ParkedCar,201001EO40397,2010,London,36
+ParkedCar,201001EO40425,2010,London,27
+ParkedCar,201001EO40438,2010,London,40
+ParkedCar,201001EO40488,2010,London,19
+ParkedCar,201001EO40662,2010,London,37
+ParkedCar,201001EO40810,2010,London,44
+ParkedCar,201001FH10032,2010,London,40
+ParkedCar,201001FH10129,2010,London,26
+ParkedCar,201001FH10528,2010,London,41
+ParkedCar,201001GD10426,2010,London,24
+ParkedCar,201001GD10543,2010,London,48
+ParkedCar,201001HT20183,2010,London,
+ParkedCar,201001HT20537,2010,London,
+ParkedCar,201001JI40200,2010,London,25
+ParkedCar,201001KG70365,2010,London,25
+ParkedCar,201001LX50355,2010,London,28
+ParkedCar,201001LX50461,2010,London,30
+ParkedCar,201001LX50746,2010,London,33
+ParkedCar,201001MM70578,2010,London,36
+ParkedCar,201001MM70824,2010,London,31
+ParkedCar,201001PL60385,2010,London,31
+ParkedCar,201001PY20047,2010,London,43
+ParkedCar,201001PY20424,2010,London,24
+ParkedCar,201001PY20448,2010,London,26
+ParkedCar,201001PY29002,2010,London,41
+ParkedCar,201001QK50199,2010,London,64
+ParkedCar,201001QK50299,2010,London,53
+ParkedCar,201001QK50499,2010,London,28
+ParkedCar,201001QK59117,2010,London,46
+ParkedCar,201001RY10398,2010,London,52
+ParkedCar,201001SX20195,2010,London,53
+ParkedCar,201001TA00134,2010,London,51
+ParkedCar,201001TA00364,2010,London,28
+ParkedCar,201001TB00378,2010,London,42
+ParkedCar,201001TW60160,2010,London,40
+ParkedCar,201001TW60195,2010,London,17
+ParkedCar,201001TW60244,2010,London,
+ParkedCar,201001TX20446,2010,London,25
+ParkedCar,201001TX20748,2010,London,33
+ParkedCar,201001WW50020,2010,London,33
+ParkedCar,201001WW50186,2010,London,
+ParkedCar,201001WW50622,2010,London,26
+ParkedCar,201001WW50926,2010,London,28
+ParkedCar,201001XD80354,2010,London,35
+ParkedCar,201001XD80390,2010,London,39
+ParkedCar,201001XD80414,2010,London,27
+ParkedCar,201001XH30688,2010,London,37
+ParkedCar,201001XH30907,2010,London,55
+ParkedCar,201001YR90442,2010,London,35
+ParkedCar,201001YR90465,2010,London,54
+ParkedCar,2.01003E+12,2010,Cumbria,37
+ParkedCar,201004AL10180,2010,Lancashire,49
+ParkedCar,201004AN10078,2010,Blackpool,49
+ParkedCar,201004CK10112,2010,Lancashire,32
+ParkedCar,201004CL10035,2010,Lancashire,52
+ParkedCar,201004CM10086,2010,Lancashire,
+ParkedCar,201004DL10043,2010,Lancashire,27
+ParkedCar,201004EA10274,2010,Blackburn with Darwen,23
+ParkedCar,201004EB10055,2010,Blackburn with Darwen,24
+ParkedCar,201004FA10007,2010,Lancashire,18
+ParkedCar,201005AA02565,2010,Merseyside,35
+ParkedCar,201005AA02863,2010,Merseyside,29
+ParkedCar,201005BB01770,2010,Merseyside,59
+ParkedCar,201005BB05528,2010,Merseyside,43
+ParkedCar,201005EE02055,2010,Merseyside,43
+ParkedCar,201005FF02840,2010,Merseyside,49
+ParkedCar,201006A032452,2010,Manchester,24
+ParkedCar,201006C030085,2010,Manchester,43
+ParkedCar,201006C034983,2010,Manchester,53
+ParkedCar,201006F026879,2010,Salford,41
+ParkedCar,201006L037263,2010,Wigan,25
+ParkedCar,201006M030473,2010,Trafford,49
+ParkedCar,201006M031424,2010,Trafford,24
+ParkedCar,201006M038363,2010,Trafford,44
+ParkedCar,201006N034283,2010,Bury,20
+ParkedCar,201006P028605,2010,Rochdale,10
+ParkedCar,2.01007E+12,2010,Cheshire East,15
+ParkedCar,2.01007E+12,2010,Cheshire East,43
+ParkedCar,2.01007E+12,2010,Halton,43
+ParkedCar,2.01007E+12,2010,Cheshire East,83
+ParkedCar,2.01007E+12,2010,Halton,48
+ParkedCar,2.01007E+12,2010,Warrington,13
+ParkedCar,2.0101E+12,2010,South Tyneside,29
+ParkedCar,2.0101E+12,2010,Newcastle upon Tyne,19
+ParkedCar,2.01012E+12,2010,York,56
+ParkedCar,2.01012E+12,2010,York,11
+ParkedCar,2.01012E+12,2010,York,34
+ParkedCar,2.01012E+12,2010,North Yorkshire,16
+ParkedCar,2.01012E+12,2010,North Yorkshire,6
+ParkedCar,2.01012E+12,2010,North Yorkshire,53
+ParkedCar,2.01013E+12,2010,Leeds,24
+ParkedCar,2.01013E+12,2010,Bradford,25
+ParkedCar,2.01013E+12,2010,Leeds,9
+ParkedCar,2.01013E+12,2010,Bradford,47
+ParkedCar,2.01013E+12,2010,Leeds,36
+ParkedCar,2.01013E+12,2010,Leeds,16
+ParkedCar,2.01013E+12,2010,Wakefield,21
+ParkedCar,2.01013E+12,2010,Kirklees,49
+ParkedCar,201014A102510,2010,Doncaster,
+ParkedCar,201014K097410,2010,Sheffield,25
+ParkedCar,201014K178510,2010,Sheffield,30
+ParkedCar,201014K235110,2010,Sheffield,52
+ParkedCar,2010160A03071,2010,North East Lincolnshire,18
+ParkedCar,2010160B01981,2010,North Lincolnshire,45
+ParkedCar,2010160D03641,2010,Kingston Upon Hull,21
+ParkedCar,2010160D03651,2010,Kingston Upon Hull,49
+ParkedCar,2010160D06551,2010,Kingston Upon Hull,32
+ParkedCar,2010170L21520,2010,Redcar and Cleveland,19
+ParkedCar,201020F029912,2010,Birmingham,21
+ParkedCar,201020H018012,2010,Walsall,42
+ParkedCar,2.01021E+12,2010,Staffordshire,16
+ParkedCar,201022C004985,2010,Worcestershire,14
+ParkedCar,201022F004376,2010,Shropshire,14
+ParkedCar,201022F004523,2010,Shropshire,59
+ParkedCar,201022G002996,2010,Telford and Wrekin,31
+ParkedCar,2.01023E+12,2010,Warwickshire,29
+ParkedCar,201030D000581,2010,Derbyshire,40
+ParkedCar,20103102B0274,2010,Nottinghamshire,14
+ParkedCar,20103102B0604,2010,Nottinghamshire,15
+ParkedCar,20103102B0808,2010,Nottinghamshire,70
+ParkedCar,20103102D0623,2010,Nottinghamshire,25
+ParkedCar,20103102D2281,2010,Nottinghamshire,13
+ParkedCar,20103102D2577,2010,Nottinghamshire,16
+ParkedCar,20103104B1316,2010,Nottinghamshire,60
+ParkedCar,20103104B1410,2010,Nottinghamshire,23
+ParkedCar,201032B162210,2010,Lincolnshire,15
+ParkedCar,201032C162010,2010,Lincolnshire,18
+ParkedCar,201032C259210,2010,Lincolnshire,57
+ParkedCar,201032C266210,2010,Lincolnshire,14
+ParkedCar,201032C311610,2010,Lincolnshire,68
+ParkedCar,201032D298510,2010,Lincolnshire,40
+ParkedCar,2.01033E+12,2010,Leicestershire,25
+ParkedCar,2.01033E+12,2010,Leicestershire,22
+ParkedCar,2.01033E+12,2010,Leicestershire,42
+ParkedCar,2.01033E+12,2010,Leicestershire,50
+ParkedCar,2.01033E+12,2010,Leicestershire,30
+ParkedCar,201034WN05290,2010,Northamptonshire,24
+ParkedCar,201034WN30190,2010,Northamptonshire,27
+ParkedCar,2.01035E+12,2010,Cambridgeshire,31
+ParkedCar,2.01035E+12,2010,Cambridgeshire,16
+ParkedCar,2.01036E+12,2010,Norfolk,34
+ParkedCar,201037B045150,2010,Suffolk,54
+ParkedCar,2010400B01549,2010,Bedford Borough Council,46
+ParkedCar,2010400B02995,2010,Central Bedfordshire,38
+ParkedCar,2010400C03226,2010,Luton,18
+ParkedCar,20104100C0244,2010,Hertfordshire,65
+ParkedCar,20104100C0890,2010,Hertfordshire,48
+ParkedCar,201042I024202,2010,Thurrock,30
+ParkedCar,201042I024601,2010,Southend on Sea,33
+ParkedCar,201042I256908,2010,Essex,41
+ParkedCar,201042I271808,2010,Essex,15
+ParkedCar,201043N004050,2010,Buckinghamshire,44
+ParkedCar,201043N248010,2010,Buckinghamshire,41
+ParkedCar,201043N278060,2010,Buckinghamshire,16
+ParkedCar,201043P015090,2010,Oxfordshire,31
+ParkedCar,201043P180050,2010,Oxfordshire,26
+ParkedCar,201043R100030,2010,Bracknell Forest,48
+ParkedCar,201043R215090,2010,Slough,40
+ParkedCar,201043S104060,2010,Milton Keynes,36
+ParkedCar,201043W072070,2010,Wokingham,54
+ParkedCar,201043W093040,2010,Reading,33
+ParkedCar,201043W093090,2010,Reading,47
+ParkedCar,201043W209100,2010,Reading,23
+ParkedCar,2.01044E+12,2010,Hampshire,45
+ParkedCar,2.01044E+12,2010,Portsmouth,48
+ParkedCar,2.01044E+12,2010,Hampshire,22
+ParkedCar,2.01044E+12,2010,Hampshire,13
+ParkedCar,2.01044E+12,2010,Hampshire,53
+ParkedCar,2.01044E+12,2010,Hampshire,57
+ParkedCar,2.01044E+12,2010,Hampshire,55
+ParkedCar,2.01044E+12,2010,Southampton ,24
+ParkedCar,2.01044E+12,2010,Portsmouth,14
+ParkedCar,2.01044E+12,2010,Portsmouth,46
+ParkedCar,2.01044E+12,2010,Hampshire,41
+ParkedCar,201045EL49886,2010,Surrey,41
+ParkedCar,201045EL51249,2010,Surrey,37
+ParkedCar,201045EL52061,2010,Surrey,
+ParkedCar,201045EL54923,2010,Surrey,28
+ParkedCar,201045EL55126,2010,Surrey,25
+ParkedCar,201045EL55896,2010,Surrey,13
+ParkedCar,201045EP50758,2010,Surrey,
+ParkedCar,201045GU53168,2010,Surrey,27
+ParkedCar,201045WA53587,2010,Surrey,32
+ParkedCar,201045WO48249,2010,Surrey,42
+ParkedCar,2.01046E+12,2010,Kent,46
+ParkedCar,2.01046E+12,2010,Kent,22
+ParkedCar,2.01046E+12,2010,Kent,27
+ParkedCar,2.01046E+12,2010,Kent,36
+ParkedCar,2.01046E+12,2010,Kent,44
+ParkedCar,2.01046E+12,2010,Kent,46
+ParkedCar,2.01046E+12,2010,Kent,47
+ParkedCar,2.01046E+12,2010,Kent,48
+ParkedCar,2.01046E+12,2010,Kent,65
+ParkedCar,2.01046E+12,2010,Kent,56
+ParkedCar,2.01047E+12,2010,East Sussex,37
+ParkedCar,2.01047E+12,2010,Brighton and Hove,25
+ParkedCar,2.01047E+12,2010,Brighton and Hove,55
+ParkedCar,2.01047E+12,2010,West Sussex,33
+ParkedCar,2.01047E+12,2010,West Sussex,75
+ParkedCar,2.01047E+12,2010,West Sussex,50
+ParkedCar,2.01047E+12,2010,Brighton and Hove,18
+ParkedCar,2.01047E+12,2010,Brighton and Hove,27
+ParkedCar,2.01047E+12,2010,East Sussex,60
+ParkedCar,2.01047E+12,2010,West Sussex,14
+ParkedCar,2.01047E+12,2010,West Sussex,61
+ParkedCar,2.01047E+12,2010,East Sussex,14
+ParkedCar,201050AS2A001,2010,Cornwall and Isles of Scilly,43
+ParkedCar,201050CN2B005,2010,Devon,80
+ParkedCar,201050DE2F015,2010,Devon,36
+ParkedCar,201050DE2K025,2010,Devon,55
+ParkedCar,201050FP2D009,2010,Torbay,17
+ParkedCar,2.01052E+12,2010,Somerset,65
+ParkedCar,2.01052E+12,2010,Somerset,52
+ParkedCar,2.01052E+12,2010,City of Bristol,14
+ParkedCar,2.01052E+12,2010,City of Bristol,20
+ParkedCar,2.01052E+12,2010,City of Bristol,38
+ParkedCar,2.01052E+12,2010,City of Bristol,21
+ParkedCar,2.01052E+12,2010,City of Bristol,24
+ParkedCar,2.01052E+12,2010,Bath and North East Somerset,19
+ParkedCar,2.01053E+12,2010,Gloucestershire,31
+ParkedCar,2.01053E+12,2010,Gloucestershire,24
+ParkedCar,2.01053E+12,2010,Gloucestershire,46
+ParkedCar,2.01053E+12,2010,Gloucestershire,45
+ParkedCar,20105500C0778,2010,Bournemouth,47
+ParkedCar,20105500C1291,2010,Bournemouth,22
+ParkedCar,20105500D0417,2010,Dorset,43
+ParkedCar,2010550C17280,2010,Poole,64
+ParkedCar,2010550C28725,2010,Bournemouth,21
+ParkedCar,2010550C33520,2010,Bournemouth,34
+ParkedCar,2010550C40263,2010,Bournemouth,33
+ParkedCar,2010550C41829,2010,Poole,44
+ParkedCar,2010550D16428,2010,Dorset,77
+ParkedCar,2010550D21379,2010,Dorset,26
+ParkedCar,2010550D40735,2010,Dorset,12
+ParkedCar,2011201101BS70173,2011,London,40
+ParkedCar,2011201101BS70276,2011,London,42
+ParkedCar,2011201101BS70401,2011,London,33
+ParkedCar,2011201101CP00072,2011,London,-1
+ParkedCar,2011201101CP00207,2011,London,24
+ParkedCar,2011201101CW10314,2011,London,36
+ParkedCar,2011201101CW10959,2011,London,61
+ParkedCar,2011201101CW11271,2011,London,31
+ParkedCar,2011201101CW11514,2011,London,-1
+ParkedCar,2011201101CW11846,2011,London,42
+ParkedCar,2011201101CW11872,2011,London,25
+ParkedCar,2011201101CW11959,2011,London,26
+ParkedCar,2011201101CW12137,2011,London,33
+ParkedCar,2011201101CW12456,2011,London,26
+ParkedCar,2011201101EO40224,2011,London,15
+ParkedCar,2011201101EO40508,2011,London,41
+ParkedCar,2011201101EO40539,2011,London,27
+ParkedCar,2011201101EO40560,2011,London,24
+ParkedCar,2011201101EO40566,2011,London,28
+ParkedCar,2011201101JI40306,2011,London,17
+ParkedCar,2011201101JI40606,2011,London,58
+ParkedCar,2011201101LX50005,2011,London,53
+ParkedCar,2011201101LX50729,2011,London,40
+ParkedCar,2011201101LX51033,2011,London,41
+ParkedCar,2011201101PY20276,2011,London,49
+ParkedCar,2011201101QK50135,2011,London,31
+ParkedCar,2011201101QK50277,2011,London,24
+ParkedCar,2011201101QK50650,2011,London,-1
+ParkedCar,2011201101TA00119,2011,London,43
+ParkedCar,2011201101TA00190,2011,London,46
+ParkedCar,2011201101TA00263,2011,London,33
+ParkedCar,2011201101TA00336,2011,London,31
+ParkedCar,2011201101TA00397,2011,London,23
+ParkedCar,2011201101TA00465,2011,London,48
+ParkedCar,2011201101TA00563,2011,London,-1
+ParkedCar,2011201101TA00580,2011,London,42
+ParkedCar,2011201101TA00615,2011,London,31
+ParkedCar,2011201101TA01508,2011,London,25
+ParkedCar,2011201101TA01675,2011,London,49
+ParkedCar,2011201101TB00297,2011,London,20
+ParkedCar,2011201101TB00540,2011,London,50
+ParkedCar,2011201101TB00832,2011,London,39
+ParkedCar,2011201101TB01049,2011,London,48
+ParkedCar,2011201101TD00082,2011,London,40
+ParkedCar,2011201101TW60159,2011,London,23
+ParkedCar,2011201101TW60165,2011,London,30
+ParkedCar,2011201101TW60307,2011,London,39
+ParkedCar,2011201101VK30069,2011,London,35
+ParkedCar,2011201101VK30116,2011,London,50
+ParkedCar,2011201101VW40191,2011,London,31
+ParkedCar,2011201101VW40283,2011,London,33
+ParkedCar,2011201101XD80588,2011,London,49
+ParkedCar,2011201101XD80673,2011,London,26
+ParkedCar,2011201101XD80733,2011,London,25
+ParkedCar,2011201101XH30253,2011,London,45
+ParkedCar,2011201101XH30325,2011,London,48
+ParkedCar,2011201101YE80282,2011,London,45
+ParkedCar,2011201101YR90676,2011,London,22
+ParkedCar,2011201101YR90734,2011,London,47
+ParkedCar,2011201101ZD30900,2011,London,42
+ParkedCar,2.0112E+16,2011,Cumbria,51
+ParkedCar,2.0112E+16,2011,Cumbria,18
+ParkedCar,2011201104AL11080,2011,Lancashire,5
+ParkedCar,2011201104AL11089,2011,Lancashire,48
+ParkedCar,2011201104AM11152,2011,Blackpool,39
+ParkedCar,2011201104BA11209,2011,Lancashire,50
+ParkedCar,2011201104BC11160,2011,Lancashire,32
+ParkedCar,2011201104BC11270,2011,Lancashire,46
+ParkedCar,2011201104CK11111,2011,Lancashire,12
+ParkedCar,2011201104DL11003,2011,Lancashire,50
+ParkedCar,2011201104DL11069,2011,Lancashire,24
+ParkedCar,2011201104DL11113,2011,Lancashire,45
+ParkedCar,2011201104DR11054,2011,Lancashire,38
+ParkedCar,2011201104EA11265,2011,Blackburn with Darwen,35
+ParkedCar,2011201104FA11146,2011,Lancashire,25
+ParkedCar,2011201104FJ11022,2011,Lancashire,25
+ParkedCar,2011201104FL11033,2011,Lancashire,15
+ParkedCar,2011201105AA02557,2011,Merseyside,60
+ParkedCar,2011201105AA05045,2011,Merseyside,70
+ParkedCar,2011201105BB01578,2011,Merseyside,58
+ParkedCar,2011201105BB04055,2011,Merseyside,43
+ParkedCar,2011201105DD05307,2011,Merseyside,69
+ParkedCar,2011201105FF01214,2011,Merseyside,21
+ParkedCar,2011201105FF05499,2011,Merseyside,31
+ParkedCar,2011201106A048738,2011,Manchester,56
+ParkedCar,2011201106B043421,2011,Manchester,30
+ParkedCar,2011201106C051980,2011,Manchester,32
+ParkedCar,2011201106G047192,2011,Tameside,39
+ParkedCar,2011201106J055094,2011,Stockport,20
+ParkedCar,2011201106N042028,2011,Bury,17
+ParkedCar,2.0112E+16,2011,Warrington,40
+ParkedCar,2.0112E+16,2011,Cheshire East,25
+ParkedCar,2.0112E+16,2011,Cheshire East,14
+ParkedCar,2.0112E+16,2011,Cheshire West and Chester,40
+ParkedCar,2.0112E+16,2011,Cheshire West and Chester,44
+ParkedCar,2.0112E+16,2011,South Tyneside,23
+ParkedCar,2.0112E+16,2011,Gateshead,50
+ParkedCar,2.0112E+16,2011,South Tyneside,15
+ParkedCar,2.0112E+16,2011,North Tyneside,64
+ParkedCar,2011201111SJ09011,2011,Darlington,68
+ParkedCar,2.0112E+16,2011,North Yorkshire,71
+ParkedCar,2.0112E+16,2011,North Yorkshire,16
+ParkedCar,2.0112E+16,2011,Leeds,14
+ParkedCar,2.0112E+16,2011,Calderdale,16
+ParkedCar,2.0112E+16,2011,Wakefield,26
+ParkedCar,2.0112E+16,2011,Leeds,15
+ParkedCar,2.0112E+16,2011,Calderdale,5
+ParkedCar,2.0112E+16,2011,Calderdale,49
+ParkedCar,2.0112E+16,2011,Leeds,26
+ParkedCar,2.0112E+16,2011,Leeds,44
+ParkedCar,2.0112E+16,2011,Leeds,9
+ParkedCar,2.0112E+16,2011,Leeds,16
+ParkedCar,2.0112E+16,2011,Kirklees,63
+ParkedCar,2.0112E+16,2011,Bradford,-1
+ParkedCar,2011201114A031511,2011,Doncaster,55
+ParkedCar,2011201114B060611,2011,Barnsley,53
+ParkedCar,2011201114C112311,2011,Rotherham,18
+ParkedCar,2011201114C120611,2011,Rotherham,38
+ParkedCar,2011201114K091811,2011,Sheffield,13
+ParkedCar,2011201114K172711,2011,Sheffield,61
+ParkedCar,20112011160A02771,2011,North East Lincolnshire,23
+ParkedCar,20112011160B05471,2011,North Lincolnshire,34
+ParkedCar,20112011160C05721,2011,East Riding of Yorkshire,25
+ParkedCar,20112011160C06481,2011,East Riding of Yorkshire,73
+ParkedCar,20112011160D01461,2011,Kingston Upon Hull,59
+ParkedCar,20112011170L31261,2011,Redcar and Cleveland,59
+ParkedCar,20112011170M11531,2011,Middlesbrough,46
+ParkedCar,20112011170S31981,2011,Stockton on Tees,56
+ParkedCar,2011201120M011161,2011,Coventry,10
+ParkedCar,2011201120N033151,2011,Birmingham,38
+ParkedCar,2011201120S053361,2011,Birmingham,19
+ParkedCar,2.0112E+16,2011,Staffordshire,42
+ParkedCar,2011201122C101705,2011,Worcestershire,13
+ParkedCar,2011201122C103151,2011,Worcestershire,31
+ParkedCar,2011201122C104167,2011,Worcestershire,20
+ParkedCar,2011201122D102664,2011,Worcestershire,13
+ParkedCar,2011201122E101702,2011,Herefordshire,24
+ParkedCar,2011201122F100684,2011,Shropshire,28
+ParkedCar,2011201122G102559,2011,Telford and Wrekin,15
+ParkedCar,2.0112E+16,2011,Warwickshire,25
+ParkedCar,2.0112E+16,2011,Warwickshire,10
+ParkedCar,2011201130C000425,2011,Derbyshire,36
+ParkedCar,2011201130C000683,2011,Derbyshire,53
+ParkedCar,2011201130D000361,2011,Derby,-1
+ParkedCar,2011201130D000928,2011,Derbyshire,40
+ParkedCar,2011201130D001003,2011,Derby,43
+ParkedCar,2011201131B060911,2011,Nottinghamshire,85
+ParkedCar,2011201131D065811,2011,Nottinghamshire,37
+ParkedCar,2011201132B257511,2011,Lincolnshire,48
+ParkedCar,2011201132C135711,2011,Lincolnshire,30
+ParkedCar,2011201132D016511,2011,Lincolnshire,34
+ParkedCar,2011201132D065511,2011,Lincolnshire,14
+ParkedCar,2011201132D140411,2011,Lincolnshire,55
+ParkedCar,2011201132E254411,2011,Lincolnshire,24
+ParkedCar,2011201132E258211,2011,Lincolnshire,51
+ParkedCar,2011201132L187211,2011,Lincolnshire,39
+ParkedCar,2.0112E+16,2011,Leicestershire,39
+ParkedCar,2.0112E+16,2011,Leicestershire,47
+ParkedCar,2.0112E+16,2011,Leicestershire,40
+ParkedCar,2.0112E+16,2011,Leicestershire,59
+ParkedCar,2.0112E+16,2011,Leicestershire,61
+ParkedCar,2011201134WN11811,2011,Northamptonshire,41
+ParkedCar,2011201134WN22551,2011,Northamptonshire,-1
+ParkedCar,2011201134WN34391,2011,Northamptonshire,37
+ParkedCar,2.0112E+16,2011,Cambridgeshire,72
+ParkedCar,2.0112E+16,2011,Cambridgeshire,50
+ParkedCar,2.0112E+16,2011,Cambridgeshire,77
+ParkedCar,2.0112E+16,2011,Cambridgeshire,23
+ParkedCar,2.0112E+16,2011,Cambridgeshire,19
+ParkedCar,2.0112E+16,2011,Cambridgeshire,56
+ParkedCar,2.0112E+16,2011,Norfolk,30
+ParkedCar,2.0112E+16,2011,Suffolk,31
+ParkedCar,2.0112E+16,2011,Suffolk,51
+ParkedCar,2.0112E+16,2011,Suffolk,45
+ParkedCar,2.0112E+16,2011,Suffolk,60
+ParkedCar,20112011400B01027,2011,Bedford Borough Council,50
+ParkedCar,20112011400B01119,2011,Bedford Borough Council,21
+ParkedCar,20112011400B01476,2011,Bedford Borough Council,32
+ParkedCar,20112011400BA0295,2011,Central Bedfordshire,33
+ParkedCar,20112011400BA0335,2011,Bedford Borough Council,24
+ParkedCar,201120114100B0622,2011,Hertfordshire,40
+ParkedCar,201120114100G0112,2011,Hertfordshire,50
+ParkedCar,201120114100G0167,2011,Hertfordshire,46
+ParkedCar,2011201142I036701,2011,Essex,43
+ParkedCar,2011201142I146805,2011,Essex,12
+ParkedCar,2011201142I168405,2011,Southend on Sea,43
+ParkedCar,2011201142I179805,2011,Essex,43
+ParkedCar,2011201142I235607,2011,Essex,31
+ParkedCar,2011201142I249408,2011,Essex,54
+ParkedCar,2011201142I289909,2011,Essex,34
+ParkedCar,2011201142I292709,2011,Essex,13
+ParkedCar,2011201142I338110,2011,Essex,8
+ParkedCar,2011201143N156101,2011,Buckinghamshire,57
+ParkedCar,2011201143P201051,2011,Oxfordshire,23
+ParkedCar,2011201143R015061,2011,Slough,27
+ParkedCar,2011201143R192071,2011,Windsor and Maidenhead,47
+ParkedCar,2011201143S070071,2011,Milton Keynes,35
+ParkedCar,2011201143W101071,2011,Reading,55
+ParkedCar,2011201143W162111,2011,Reading,55
+ParkedCar,2011201143W178101,2011,Reading,40
+ParkedCar,2.0112E+16,2011,Portsmouth,30
+ParkedCar,2.0112E+16,2011,Portsmouth,43
+ParkedCar,2.0112E+16,2011,Portsmouth,46
+ParkedCar,2.0112E+16,2011,Portsmouth,64
+ParkedCar,2.0112E+16,2011,Southampton ,37
+ParkedCar,2.0112E+16,2011,Southampton ,35
+ParkedCar,2.0112E+16,2011,Portsmouth,51
+ParkedCar,2.0112E+16,2011,Hampshire,17
+ParkedCar,2.0112E+16,2011,Portsmouth,37
+ParkedCar,2.0112E+16,2011,Hampshire,17
+ParkedCar,2.0112E+16,2011,Hampshire,25
+ParkedCar,2.0112E+16,2011,Isle of Wight,74
+ParkedCar,2.0112E+16,2011,Hampshire,32
+ParkedCar,2.0112E+16,2011,Southampton ,45
+ParkedCar,2.0112E+16,2011,Hampshire,26
+ParkedCar,2.0112E+16,2011,Hampshire,52
+ParkedCar,2.0112E+16,2011,Hampshire,72
+ParkedCar,2.0112E+16,2011,Portsmouth,20
+ParkedCar,2.0112E+16,2011,Portsmouth,37
+ParkedCar,2011201145EL62527,2011,Surrey,16
+ParkedCar,2011201145EL65932,2011,Surrey,29
+ParkedCar,2011201145GU57917,2011,Surrey,29
+ParkedCar,2011201145RU60009,2011,Surrey,11
+ParkedCar,2011201145WA64607,2011,Surrey,15
+ParkedCar,2011201145WA65777,2011,Surrey,36
+ParkedCar,2.0112E+16,2011,Kent,9
+ParkedCar,2.0112E+16,2011,Kent,35
+ParkedCar,2.0112E+16,2011,Kent,62
+ParkedCar,2.0112E+16,2011,Kent,-1
+ParkedCar,2.0112E+16,2011,Kent,46
+ParkedCar,2.0112E+16,2011,Kent,31
+ParkedCar,2.0112E+16,2011,Kent,25
+ParkedCar,2.0112E+16,2011,Medway,24
+ParkedCar,2.0112E+16,2011,Kent,55
+ParkedCar,2.0112E+16,2011,Kent,18
+ParkedCar,2.0112E+16,2011,Kent,35
+ParkedCar,2.0112E+16,2011,Brighton and Hove,47
+ParkedCar,2.0112E+16,2011,West Sussex,67
+ParkedCar,2.0112E+16,2011,Brighton and Hove,-1
+ParkedCar,2.0112E+16,2011,Brighton and Hove,25
+ParkedCar,2.0112E+16,2011,East Sussex,16
+ParkedCar,2.0112E+16,2011,West Sussex,37
+ParkedCar,2.0112E+16,2011,West Sussex,20
+ParkedCar,2.0112E+16,2011,West Sussex,14
+ParkedCar,2.0112E+16,2011,Brighton and Hove,50
+ParkedCar,2.0112E+16,2011,West Sussex,42
+ParkedCar,2.0112E+16,2011,West Sussex,25
+ParkedCar,2011201150CB2A001,2011,Devon,35
+ParkedCar,2011201150CB2A003,2011,Devon,37
+ParkedCar,2011201150DE2H004,2011,Devon,37
+ParkedCar,2011201150DE2N015,2011,Devon,57
+ParkedCar,2011201150DE2W007,2011,Devon,-1
+ParkedCar,2011201150EC2J066,2011,Plymouth,49
+ParkedCar,2011201150EP2E003,2011,Plymouth,-1
+ParkedCar,2011201150FT2J044,2011,Torbay,-1
+ParkedCar,2011201150GA2Q016,2011,Cornwall and Isles of Scilly,63
+ParkedCar,2011201150GP2A010,2011,Cornwall and Isles of Scilly,59
+ParkedCar,2011201150GT3W001,2011,Cornwall and Isles of Scilly,17
+ParkedCar,2011201150KS2G003,2011,Devon,67
+ParkedCar,2.0112E+16,2011,Somerset,42
+ParkedCar,2.0112E+16,2011,Somerset,10
+ParkedCar,2.0112E+16,2011,City of Bristol,40
+ParkedCar,2.0112E+16,2011,South Gloucestershire,13
+ParkedCar,2.0112E+16,2011,City of Bristol,23
+ParkedCar,2.0112E+16,2011,North Somerset,70
+ParkedCar,2.0112E+16,2011,South Gloucestershire,42
+ParkedCar,2.0112E+16,2011,City of Bristol,21
+ParkedCar,2.0112E+16,2011,Bath and North East Somerset,14
+ParkedCar,2.0112E+16,2011,City of Bristol,19
+ParkedCar,2.0112E+16,2011,Gloucestershire,15
+ParkedCar,2.0112E+16,2011,Gloucestershire,55
+ParkedCar,2.0112E+16,2011,Gloucestershire,42
+ParkedCar,2.0112E+16,2011,Wiltshire,45
+ParkedCar,2011201154ER09211,2011,Wiltshire,36
+ParkedCar,20112011551C02244,2011,Poole,52
+ParkedCar,20112011551C23331,2011,Bournemouth,34
+ParkedCar,20112011551C29472,2011,Bournemouth,36
+ParkedCar,20112011551C40143,2011,Bournemouth,41
+ParkedCar,20112011551C43388,2011,Poole,37
+ParkedCar,20112011551C53068,2011,Poole,33
+ParkedCar,20112011551D18608,2011,Dorset,55
+ParkedCar,20112011551D41635,2011,Dorset,11
+ParkedCar,2012201201BS70184,2012,London,25
+ParkedCar,2012201201BS70270,2012,London,28
+ParkedCar,2012201201BS70426,2012,London,-1
+ParkedCar,2012201201BS70427,2012,London,22
+ParkedCar,2012201201CW10994,2012,London,27
+ParkedCar,2012201201CW11294,2012,London,27
+ParkedCar,2012201201EK40316,2012,London,35
+ParkedCar,2012201201EK40390,2012,London,30
+ParkedCar,2012201201EO40150,2012,London,47
+ParkedCar,2012201201EO40203,2012,London,42
+ParkedCar,2012201201EO40204,2012,London,25
+ParkedCar,2012201201EO40279,2012,London,30
+ParkedCar,2012201201EO40495,2012,London,60
+ParkedCar,2012201201EO40734,2012,London,30
+ParkedCar,2012201201EO40772,2012,London,35
+ParkedCar,2012201201FH10477,2012,London,35
+ParkedCar,2012201201GD10576,2012,London,33
+ParkedCar,2012201201HT20004,2012,London,18
+ParkedCar,2012201201HT20197,2012,London,-1
+ParkedCar,2012201201HT20232,2012,London,25
+ParkedCar,2012201201HT20822,2012,London,55
+ParkedCar,2012201201KD50299,2012,London,42
+ParkedCar,2012201201KF60674,2012,London,27
+ParkedCar,2012201201KG70181,2012,London,24
+ParkedCar,2012201201KG70189,2012,London,46
+ParkedCar,2012201201KG70278,2012,London,51
+ParkedCar,2012201201LX50841,2012,London,43
+ParkedCar,2012201201LX50928,2012,London,25
+ParkedCar,2012201201LX50970,2012,London,30
+ParkedCar,2012201201MM70288,2012,London,32
+ParkedCar,2012201201MM70457,2012,London,69
+ParkedCar,2012201201MM70675,2012,London,27
+ParkedCar,2012201201PL69044,2012,London,42
+ParkedCar,2012201201QA10291,2012,London,46
+ParkedCar,2012201201QK50251,2012,London,32
+ParkedCar,2012201201QK50276,2012,London,41
+ParkedCar,2012201201QK50478,2012,London,48
+ParkedCar,2012201201RG40469,2012,London,25
+ParkedCar,2012201201SX20995,2012,London,45
+ParkedCar,2012201201TB00478,2012,London,49
+ParkedCar,2012201201TB00886,2012,London,-1
+ParkedCar,2012201201VK30007,2012,London,27
+ParkedCar,2012201201XD80735,2012,London,30
+ParkedCar,2012201201XH30373,2012,London,79
+ParkedCar,2012201201YE80360,2012,London,37
+ParkedCar,2012201201YR90158,2012,London,28
+ParkedCar,2012201201YR90525,2012,London,32
+ParkedCar,2012201201YR90644,2012,London,30
+ParkedCar,2.0122E+16,2012,Cumbria,49
+ParkedCar,2.0122E+16,2012,Cumbria,49
+ParkedCar,2012201204BA12013,2012,Lancashire,45
+ParkedCar,2012201204BB12102,2012,Lancashire,15
+ParkedCar,2012201204CL12159,2012,Lancashire,16
+ParkedCar,2012201204EA12398,2012,Blackburn with Darwen,47
+ParkedCar,2012201204EL12144,2012,Lancashire,53
+ParkedCar,2012201204FE12020,2012,Lancashire,46
+ParkedCar,2012201204FL12036,2012,Lancashire,33
+ParkedCar,2012201205AA01114,2012,Merseyside,55
+ParkedCar,2012201205AA03999,2012,Merseyside,47
+ParkedCar,2012201205AA04482,2012,Merseyside,21
+ParkedCar,2012201205AA04556,2012,Merseyside,18
+ParkedCar,2012201205BB01439,2012,Merseyside,42
+ParkedCar,2012201205BB02432,2012,Merseyside,30
+ParkedCar,2012201205BB05073,2012,Merseyside,26
+ParkedCar,2012201205EE03272,2012,Merseyside,49
+ParkedCar,2012201205EE04589,2012,Merseyside,24
+ParkedCar,2012201205EE04868,2012,Merseyside,19
+ParkedCar,2012201205FF04140,2012,Merseyside,25
+ParkedCar,2012201206E062036,2012,Manchester,22
+ParkedCar,2012201206E065389,2012,Manchester,24
+ParkedCar,2012201206E068410,2012,Manchester,42
+ParkedCar,2012201206G056623,2012,Tameside,42
+ParkedCar,2012201206J058390,2012,Stockport,23
+ParkedCar,2012201206K058894,2012,Bolton,51
+ParkedCar,2012201206K063518,2012,Bolton,46
+ParkedCar,2012201206L066651,2012,Wigan,58
+ParkedCar,2012201206M064726,2012,Trafford,50
+ParkedCar,2012201206M069328,2012,Trafford,46
+ParkedCar,2012201206ME63579,2012,Trafford,18
+ParkedCar,2.0122E+16,2012,Cheshire West and Chester,33
+ParkedCar,2.0122E+16,2012,Warrington,36
+ParkedCar,2.0122E+16,2012,Halton,11
+ParkedCar,2.0122E+16,2012,Cheshire West and Chester,60
+ParkedCar,2.0122E+16,2012,Cheshire East,52
+ParkedCar,2.0122E+16,2012,South Tyneside,46
+ParkedCar,2.0122E+16,2012,Northumberland,65
+ParkedCar,2.0122E+16,2012,North Tyneside,38
+ParkedCar,2.0122E+16,2012,Gateshead,35
+ParkedCar,2.0122E+16,2012,South Tyneside,16
+ParkedCar,2012201211SJ19292,2012,Darlington,51
+ParkedCar,2012201211SJ23722,2012,Darlington,13
+ParkedCar,2.0122E+16,2012,North Yorkshire,67
+ParkedCar,2.0122E+16,2012,York,19
+ParkedCar,2.0122E+16,2012,York,37
+ParkedCar,2.0122E+16,2012,North Yorkshire,72
+ParkedCar,2.0122E+16,2012,York,45
+ParkedCar,2.0122E+16,2012,York,32
+ParkedCar,2.0122E+16,2012,North Yorkshire,58
+ParkedCar,2.0122E+16,2012,York,61
+ParkedCar,2.0122E+16,2012,North Yorkshire,44
+ParkedCar,2.0122E+16,2012,North Yorkshire,26
+ParkedCar,2.0122E+16,2012,Leeds,51
+ParkedCar,2.0122E+16,2012,Bradford,43
+ParkedCar,2.0122E+16,2012,Leeds,20
+ParkedCar,2.0122E+16,2012,Wakefield,37
+ParkedCar,2.0122E+16,2012,Leeds,15
+ParkedCar,2.0122E+16,2012,Kirklees,18
+ParkedCar,2.0122E+16,2012,Wakefield,50
+ParkedCar,2.0122E+16,2012,Bradford,18
+ParkedCar,2.0122E+16,2012,Bradford,48
+ParkedCar,2.0122E+16,2012,Leeds,45
+ParkedCar,2.0122E+16,2012,Kirklees,8
+ParkedCar,2.0122E+16,2012,Bradford,10
+ParkedCar,2.0122E+16,2012,Leeds,40
+ParkedCar,2.0122E+16,2012,Leeds,21
+ParkedCar,2012201214B056512,2012,Barnsley,27
+ParkedCar,2012201214K029312,2012,Sheffield,31
+ParkedCar,2012201214K177112,2012,Sheffield,48
+ParkedCar,20122012160A01351,2012,North East Lincolnshire,36
+ParkedCar,20122012160A03931,2012,North East Lincolnshire,51
+ParkedCar,20122012160B02221,2012,North Lincolnshire,15
+ParkedCar,20122012160B04341,2012,North Lincolnshire,53
+ParkedCar,20122012160C05731,2012,East Riding of Yorkshire,51
+ParkedCar,20122012160C06731,2012,East Riding of Yorkshire,42
+ParkedCar,20122012160D01171,2012,Kingston Upon Hull,51
+ParkedCar,20122012160D03301,2012,Kingston Upon Hull,50
+ParkedCar,20122012160D07081,2012,Kingston Upon Hull,53
+ParkedCar,20122012170H10992,2012,Hartlepool,51
+ParkedCar,20122012170S21862,2012,Stockton on Tees,38
+ParkedCar,20122012170S40112,2012,Stockton on Tees,45
+ParkedCar,2012201220W031632,2012,Birmingham,13
+ParkedCar,2.0122E+16,2012,Staffordshire,66
+ParkedCar,2.0122E+16,2012,Staffordshire,53
+ParkedCar,2.0122E+16,2012,Staffordshire,26
+ParkedCar,2012201222D200407,2012,Worcestershire,51
+ParkedCar,2012201222D202453,2012,Worcestershire,38
+ParkedCar,2012201222D202539,2012,Worcestershire,42
+ParkedCar,2012201222D204836,2012,Worcestershire,16
+ParkedCar,2012201222F202374,2012,Shropshire,23
+ParkedCar,2012201222G203015,2012,Telford and Wrekin,50
+ParkedCar,2012201222G204352,2012,Telford and Wrekin,20
+ParkedCar,2.0122E+16,2012,Warwickshire,16
+ParkedCar,2.0122E+16,2012,Warwickshire,-1
+ParkedCar,2.0122E+16,2012,Warwickshire,51
+ParkedCar,2012201230C001646,2012,Derbyshire,21
+ParkedCar,2012201230D002122,2012,Derbyshire,17
+ParkedCar,2012201231A017912,2012,Nottinghamshire,22
+ParkedCar,2012201231D260712,2012,Nottinghamshire,39
+ParkedCar,2012201232B009512,2012,Lincolnshire,40
+ParkedCar,2012201232B168312,2012,Lincolnshire,44
+ParkedCar,2012201232L266112,2012,Lincolnshire,26
+ParkedCar,2012201232L316212,2012,Lincolnshire,57
+ParkedCar,2012201232L337612,2012,Lincolnshire,15
+ParkedCar,2.0122E+16,2012,Leicestershire,20
+ParkedCar,2.0122E+16,2012,Leicestershire,11
+ParkedCar,2.0122E+16,2012,Leicestershire,35
+ParkedCar,2012201234NW00322,2012,Northamptonshire,47
+ParkedCar,2012201234WN02252,2012,Northamptonshire,37
+ParkedCar,2012201234WN29742,2012,Northamptonshire,31
+ParkedCar,2.0122E+16,2012,Cambridgeshire,58
+ParkedCar,2.0122E+16,2012,Cambridgeshire,12
+ParkedCar,2.0122E+16,2012,Cambridgeshire,62
+ParkedCar,2.0122E+16,2012,Cambridgeshire,43
+ParkedCar,2.0122E+16,2012,Cambridgeshire,21
+ParkedCar,2.0122E+16,2012,Norfolk,18
+ParkedCar,2.0122E+16,2012,Norfolk,22
+ParkedCar,2.0122E+16,2012,Norfolk,28
+ParkedCar,2.0122E+16,2012,Norfolk,19
+ParkedCar,2.0122E+16,2012,Suffolk,12
+ParkedCar,2.0122E+16,2012,Suffolk,16
+ParkedCar,2.0122E+16,2012,Suffolk,53
+ParkedCar,20122012400BA0549,2012,Bedford Borough Council,15
+ParkedCar,20122012400CA0301,2012,Luton,25
+ParkedCar,201220124100F0769,2012,Hertfordshire,51
+ParkedCar,2012201242I132505,2012,Essex,51
+ParkedCar,2012201242I134205,2012,Essex,52
+ParkedCar,2012201242I292309,2012,Essex,10
+ParkedCar,2012201242I363011,2012,Essex,53
+ParkedCar,2012201243N227042,2012,Buckinghamshire,43
+ParkedCar,2012201243R133052,2012,Slough,30
+ParkedCar,2012201243R172032,2012,Windsor and Maidenhead,19
+ParkedCar,2012201243R241032,2012,Windsor and Maidenhead,44
+ParkedCar,2012201243R249052,2012,Windsor and Maidenhead,81
+ParkedCar,2012201243W004052,2012,Reading,18
+ParkedCar,2012201243W098062,2012,West Berkshire,46
+ParkedCar,2012201243W110062,2012,Reading,29
+ParkedCar,2012201243W112062,2012,Wokingham,13
+ParkedCar,2012201243W213102,2012,Reading,36
+ParkedCar,2.0122E+16,2012,Isle of Wight,51
+ParkedCar,2.0122E+16,2012,Hampshire,27
+ParkedCar,2.0122E+16,2012,Portsmouth,46
+ParkedCar,2.0122E+16,2012,Hampshire,35
+ParkedCar,2.0122E+16,2012,Hampshire,20
+ParkedCar,2.0122E+16,2012,Portsmouth,20
+ParkedCar,2.0122E+16,2012,Southampton ,47
+ParkedCar,2.0122E+16,2012,Isle of Wight,12
+ParkedCar,2.0122E+16,2012,Hampshire,38
+ParkedCar,2.0122E+16,2012,Hampshire,42
+ParkedCar,2.0122E+16,2012,Southampton ,56
+ParkedCar,2.0122E+16,2012,Hampshire,27
+ParkedCar,2.0122E+16,2012,Hampshire,46
+ParkedCar,2.0122E+16,2012,Hampshire,61
+ParkedCar,2.0122E+16,2012,Hampshire,57
+ParkedCar,2.0122E+16,2012,Hampshire,44
+ParkedCar,2.0122E+16,2012,Hampshire,45
+ParkedCar,2.0122E+16,2012,Portsmouth,15
+ParkedCar,2.0122E+16,2012,Southampton ,30
+ParkedCar,2.0122E+16,2012,Portsmouth,18
+ParkedCar,2.0122E+16,2012,Portsmouth,59
+ParkedCar,2.0122E+16,2012,Surrey,-1
+ParkedCar,2.0122E+16,2012,Surrey,48
+ParkedCar,2.0122E+16,2012,Surrey,41
+ParkedCar,2012201245MO70624,2012,Surrey,37
+ParkedCar,2012201245MO72225,2012,Surrey,44
+ParkedCar,2012201245RU68905,2012,Surrey,59
+ParkedCar,2012201245RU72299,2012,Surrey,49
+ParkedCar,2012201245SP67281,2012,Surrey,-1
+ParkedCar,2012201245SU73063,2012,Surrey,6
+ParkedCar,2012201245TA68973,2012,Surrey,42
+ParkedCar,2012201245TA74965,2012,Surrey,11
+ParkedCar,2012201245WA71350,2012,Surrey,32
+ParkedCar,2.0122E+16,2012,Kent,26
+ParkedCar,2.0122E+16,2012,Kent,38
+ParkedCar,2.0122E+16,2012,Kent,64
+ParkedCar,2.0122E+16,2012,Kent,44
+ParkedCar,2.0122E+16,2012,Kent,12
+ParkedCar,2.0122E+16,2012,Kent,54
+ParkedCar,2.0122E+16,2012,Kent,20
+ParkedCar,2.0122E+16,2012,Kent,48
+ParkedCar,2.0122E+16,2012,Kent,34
+ParkedCar,2.0122E+16,2012,Brighton and Hove,35
+ParkedCar,2.0122E+16,2012,Brighton and Hove,42
+ParkedCar,2.0122E+16,2012,West Sussex,59
+ParkedCar,2.0122E+16,2012,East Sussex,31
+ParkedCar,2.0122E+16,2012,West Sussex,38
+ParkedCar,2.0122E+16,2012,West Sussex,30
+ParkedCar,2.0122E+16,2012,East Sussex,16
+ParkedCar,2.0122E+16,2012,West Sussex,67
+ParkedCar,2.0122E+16,2012,Brighton and Hove,16
+ParkedCar,2.0122E+16,2012,East Sussex,45
+ParkedCar,2.0122E+16,2012,West Sussex,28
+ParkedCar,2.0122E+16,2012,Brighton and Hove,45
+ParkedCar,2.0122E+16,2012,East Sussex,52
+ParkedCar,2.0122E+16,2012,West Sussex,41
+ParkedCar,2012201250CB2U011,2012,Devon,50
+ParkedCar,2012201250DE2I011,2012,Devon,28
+ParkedCar,2012201250DE2R028,2012,Devon,-1
+ParkedCar,2012201250EC2J048,2012,Plymouth,61
+ParkedCar,2012201250ED2B010,2012,Plymouth,26
+ParkedCar,2012201250JT2V006,2012,Devon,61
+ParkedCar,2012201250KE2B010,2012,Devon,15
+ParkedCar,2012201250KE2B013,2012,Devon,18
+ParkedCar,2.0122E+16,2012,North Somerset,64
+ParkedCar,2.0122E+16,2012,City of Bristol,19
+ParkedCar,2.0122E+16,2012,Bath and North East Somerset,33
+ParkedCar,2.0122E+16,2012,South Gloucestershire,47
+ParkedCar,2.0122E+16,2012,City of Bristol,48
+ParkedCar,2.0122E+16,2012,Bath and North East Somerset,-1
+ParkedCar,2.0122E+16,2012,Bath and North East Somerset,48
+ParkedCar,2.0122E+16,2012,Wiltshire,38
+ParkedCar,2.0122E+16,2012,Wiltshire,56
+ParkedCar,20122012552C14481,2012,Poole,64
+ParkedCar,20122012552C22038,2012,Bournemouth,19
+ParkedCar,20122012552C31761,2012,Bournemouth,20
+ParkedCar,20122012552C38857,2012,Bournemouth,33
+ParkedCar,20122012552D19451,2012,Dorset,20
+ParkedCar,20122012552D24231,2012,Dorset,59
+ParkedCar,20122012552D33602,2012,Dorset,27
+ParkedCar,20122012552D34362,2012,Dorset,43
+ParkedCar,20122012552D41933,2012,Dorset,19
+ParkedCar,20122012552D45276,2012,Dorset,30
+ParkedCar,20122012552D52857,2012,Dorset,55

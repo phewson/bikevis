@@ -1,0 +1,218 @@
+Scenario,urn,accyr,LAName,Age
+EnteringLeftT,200501TW60367,2005,London,25
+EnteringLeftT,2.00503E+12,2005,Cumbria,15
+EnteringLeftT,200505BS01325,2005,Merseyside,16
+EnteringLeftT,200506B040515,2005,Manchester,27
+EnteringLeftT,200506N919041,2005,Bury,16
+EnteringLeftT,2.0051E+12,2005,Gateshead,7
+EnteringLeftT,2.00513E+12,2005,Bradford,11
+EnteringLeftT,2005160A04850,2005,North East Lincolnshire,14
+EnteringLeftT,2005160C08600,2005,East Riding of Yorkshire,19
+EnteringLeftT,2005170L10805,2005,Redcar and Cleveland,6
+EnteringLeftT,2.00522E+12,2005,Staffordshire,14
+EnteringLeftT,20053102A3463,2005,Nottinghamshire,14
+EnteringLeftT,20053102B0043,2005,Nottinghamshire,
+EnteringLeftT,2.00533E+12,2005,Leicestershire,29
+EnteringLeftT,200534NW02037,2005,Northamptonshire,10
+EnteringLeftT,2.00535E+12,2005,Cambridgeshire,15
+EnteringLeftT,2.00536E+12,2005,Norfolk,8
+EnteringLeftT,200536T050120,2005,Norfolk,8
+EnteringLeftT,200537B023082,2005,Suffolk,13
+EnteringLeftT,200542F038609,2005,Thurrock,21
+EnteringLeftT,2.00544E+12,2005,Hampshire,8
+EnteringLeftT,2.00544E+12,2005,Portsmouth,70
+EnteringLeftT,2005445DH0084,2005,Hampshire,19
+EnteringLeftT,2.00552E+12,2005,Somerset,82
+EnteringLeftT,2.00552E+12,2005,North Somerset,13
+EnteringLeftT,2.00552E+12,2005,South Gloucestershire,38
+EnteringLeftT,200554DN51805,2005,Swindon,16
+EnteringLeftT,200601LX50930,2006,London,47
+EnteringLeftT,200604DF06171,2006,Lancashire,7
+EnteringLeftT,200606B057638,2006,Manchester,44
+EnteringLeftT,200606J059428,2006,Stockport,14
+EnteringLeftT,200606N053802,2006,Bury,7
+EnteringLeftT,200611DJ05740,2006,Darlington,23
+EnteringLeftT,2.00613E+12,2006,Leeds,17
+EnteringLeftT,2006160A03530,2006,North East Lincolnshire,11
+EnteringLeftT,2006160D08000,2006,Kingston Upon Hull,29
+EnteringLeftT,200620E105103,2006,Birmingham,9
+EnteringLeftT,200620M033602,2006,Coventry,17
+EnteringLeftT,200620M062002,2006,Coventry,31
+EnteringLeftT,2.00622E+12,2006,Stoke on Trent,20
+EnteringLeftT,200622DE53637,2006,Worcestershire,5
+EnteringLeftT,200630A000330,2006,Derbyshire,13
+EnteringLeftT,200630C000372,2006,Derbyshire,16
+EnteringLeftT,20063102A1392,2006,Nottinghamshire,15
+EnteringLeftT,20063102C1090,2006,Nottingham,17
+EnteringLeftT,2.00633E+12,2006,Leicestershire,45
+EnteringLeftT,200637B025415,2006,Suffolk,8
+EnteringLeftT,20064100G0649,2006,Hertfordshire,12
+EnteringLeftT,200642I431110,2006,Essex,11
+EnteringLeftT,200643N221076,2006,Buckinghamshire,10
+EnteringLeftT,2.00644E+12,2006,Hampshire,15
+EnteringLeftT,2.00647E+12,2006,East Sussex,10
+EnteringLeftT,2.00647E+12,2006,West Sussex,30
+EnteringLeftT,2.00652E+12,2006,City of Bristol,37
+EnteringLeftT,2.00652E+12,2006,South Gloucestershire,13
+EnteringLeftT,2.00652E+12,2006,City of Bristol,13
+EnteringLeftT,2.00652E+12,2006,City of Bristol,17
+EnteringLeftT,2.00653E+12,2006,Gloucestershire,26
+EnteringLeftT,200654AD17506,2006,Wiltshire,12
+EnteringLeftT,200654AT20206,2006,Wiltshire,14
+EnteringLeftT,200701PL63847,2007,London,39
+EnteringLeftT,200701TX20562,2007,London,20
+EnteringLeftT,200704CA07001,2007,Lancashire,15
+EnteringLeftT,200704EA07100,2007,Blackburn with Darwen,13
+EnteringLeftT,200704EP07008,2007,Lancashire,16
+EnteringLeftT,200705DD19342,2007,Merseyside,12
+EnteringLeftT,200706G079360,2007,Tameside,8
+EnteringLeftT,2.0071E+12,2007,South Tyneside,21
+EnteringLeftT,2.0071E+12,2007,South Tyneside,44
+EnteringLeftT,2.0071E+12,2007,South Tyneside,8
+EnteringLeftT,2.0071E+12,2007,Northumberland,14
+EnteringLeftT,2.0071E+12,2007,South Tyneside,15
+EnteringLeftT,2.00713E+12,2007,Wakefield,26
+EnteringLeftT,200720D258603,2007,Birmingham,14
+EnteringLeftT,200720E115301,2007,Birmingham,34
+EnteringLeftT,200720G063702,2007,Wolverhampton,49
+EnteringLeftT,200720H043802,2007,Walsall,24
+EnteringLeftT,200720J058701,2007,Dudley,16
+EnteringLeftT,200722DA86667,2007,Worcestershire,11
+EnteringLeftT,200730A000334,2007,Derbyshire,17
+EnteringLeftT,20073102A4115,2007,Nottinghamshire,22
+EnteringLeftT,20073102C1948,2007,Nottingham,10
+EnteringLeftT,2.00733E+12,2007,Leicestershire,16
+EnteringLeftT,2.00735E+12,2007,Cambridgeshire,11
+EnteringLeftT,20074100D0348,2007,Hertfordshire,35
+EnteringLeftT,200743P208037,2007,Oxfordshire,17
+EnteringLeftT,2.00744E+12,2007,Hampshire,68
+EnteringLeftT,2.00744E+12,2007,Southampton ,44
+EnteringLeftT,200745RE03474,2007,Surrey,26
+EnteringLeftT,2007557B03683,2007,Bournemouth,41
+EnteringLeftT,2007557P05136,2007,Poole,33
+EnteringLeftT,200801GD69762,2008,London,14
+EnteringLeftT,2.00807E+12,2008,Cheshire West and Chester,21
+EnteringLeftT,2.00807E+12,2008,Cheshire West and Chester,18
+EnteringLeftT,2.00813E+12,2008,Leeds,13
+EnteringLeftT,2.00813E+12,2008,Leeds,8
+EnteringLeftT,2.00813E+12,2008,Leeds,22
+EnteringLeftT,2.00813E+12,2008,Leeds,12
+EnteringLeftT,2.00813E+12,2008,Leeds,14
+EnteringLeftT,200820M013802,2008,Coventry,15
+EnteringLeftT,2.00822E+12,2008,Staffordshire,12
+EnteringLeftT,200822CA88764,2008,Worcestershire,15
+EnteringLeftT,200822EA87885,2008,Herefordshire,50
+EnteringLeftT,200830A000594,2008,Derbyshire,15
+EnteringLeftT,20083102B2043,2008,Nottinghamshire,12
+EnteringLeftT,20083102B2398,2008,Nottinghamshire,10
+EnteringLeftT,20083102C0958,2008,Nottingham,17
+EnteringLeftT,20083102C2553,2008,Nottingham,15
+EnteringLeftT,2.00836E+12,2008,Norfolk,16
+EnteringLeftT,2008400B01403,2008,Bedford Borough Council,11
+EnteringLeftT,200842I185005,2008,Essex,12
+EnteringLeftT,200843P308038,2008,Oxfordshire,14
+EnteringLeftT,200843R158038,2008,Windsor and Maidenhead,14
+EnteringLeftT,2.00844E+12,2008,Hampshire,16
+EnteringLeftT,2.00844E+12,2008,Hampshire,15
+EnteringLeftT,2.00846E+12,2008,Kent,18
+EnteringLeftT,200850KA2J006,2008,Devon,11
+EnteringLeftT,2.00852E+12,2008,Somerset,10
+EnteringLeftT,200854DE28108,2008,Swindon,38
+EnteringLeftT,2.00903E+12,2009,Cumbria,12
+EnteringLeftT,200905BB32471,2009,Merseyside,22
+EnteringLeftT,200906L020022,2009,Wigan,8
+EnteringLeftT,2.0091E+12,2009,South Tyneside,7
+EnteringLeftT,2.0091E+12,2009,South Tyneside,11
+EnteringLeftT,2.0091E+12,2009,South Tyneside,34
+EnteringLeftT,2.00912E+12,2009,North Yorkshire,15
+EnteringLeftT,2.00913E+12,2009,Leeds,11
+EnteringLeftT,2.00913E+12,2009,Kirklees,6
+EnteringLeftT,200914A103609,2009,Doncaster,12
+EnteringLeftT,2009160C00450,2009,East Riding of Yorkshire,43
+EnteringLeftT,2009160D03910,2009,Kingston Upon Hull,19
+EnteringLeftT,200920J025602,2009,Dudley,9
+EnteringLeftT,2.00922E+12,2009,Staffordshire,10
+EnteringLeftT,20093102A1414,2009,Nottinghamshire,17
+EnteringLeftT,20093102C1298,2009,Nottingham,17
+EnteringLeftT,20093102D2160,2009,Nottinghamshire,
+EnteringLeftT,20093104B1951,2009,Nottinghamshire,30
+EnteringLeftT,2.00933E+12,2009,Leicestershire,15
+EnteringLeftT,2.00933E+12,2009,Leicestershire,22
+EnteringLeftT,2.00935E+12,2009,Cambridgeshire,42
+EnteringLeftT,2009400B03472,2009,Central Bedfordshire,15
+EnteringLeftT,2009400D02223,2009,Central Bedfordshire,16
+EnteringLeftT,2.00947E+12,2009,East Sussex,11
+EnteringLeftT,2.00947E+12,2009,Brighton and Hove,33
+EnteringLeftT,2.00952E+12,2009,South Gloucestershire,14
+EnteringLeftT,2.00952E+12,2009,City of Bristol,45
+EnteringLeftT,200954EP42609,2009,Wiltshire,43
+EnteringLeftT,200954ES17109,2009,Wiltshire,32
+EnteringLeftT,201001KF60380,2010,London,19
+EnteringLeftT,201006F038117,2010,Salford,20
+EnteringLeftT,2.01007E+12,2010,Cheshire East,15
+EnteringLeftT,201011SJ15840,2010,Darlington,13
+EnteringLeftT,2.01013E+12,2010,Calderdale,13
+EnteringLeftT,2010160A01191,2010,North East Lincolnshire,23
+EnteringLeftT,201020L007100,2010,Solihull,18
+EnteringLeftT,2.01021E+12,2010,Stoke on Trent,11
+EnteringLeftT,2.01021E+12,2010,Staffordshire,15
+EnteringLeftT,201030C000316,2010,Derbyshire,35
+EnteringLeftT,201030C000700,2010,Derbyshire,16
+EnteringLeftT,201030D001174,2010,Derby,18
+EnteringLeftT,201032D330610,2010,Lincolnshire,21
+EnteringLeftT,2.01033E+12,2010,Leicestershire,17
+EnteringLeftT,2.01033E+12,2010,Leicestershire,15
+EnteringLeftT,2.01035E+12,2010,Cambridgeshire,14
+EnteringLeftT,2.01035E+12,2010,Cambridgeshire,11
+EnteringLeftT,2.01036E+12,2010,Norfolk,21
+EnteringLeftT,201037G029621,2010,Suffolk,10
+EnteringLeftT,20104100D0483,2010,Hertfordshire,12
+EnteringLeftT,201043N022040,2010,Buckinghamshire,8
+EnteringLeftT,2.01044E+12,2010,Hampshire,18
+EnteringLeftT,2.01044E+12,2010,Southampton ,10
+EnteringLeftT,2.01052E+12,2010,Somerset,16
+EnteringLeftT,2.01052E+12,2010,Somerset,10
+EnteringLeftT,2.01052E+12,2010,South Gloucestershire,15
+EnteringLeftT,2.01052E+12,2010,City of Bristol,25
+EnteringLeftT,2010550D39936,2010,Dorset,40
+EnteringLeftT,2011201101TB00292,2011,London,51
+EnteringLeftT,2.0112E+16,2011,Cumbria,13
+EnteringLeftT,2.0112E+16,2011,South Tyneside,11
+EnteringLeftT,2.0112E+16,2011,South Tyneside,20
+EnteringLeftT,2.0112E+16,2011,Bradford,26
+EnteringLeftT,20112011160D02311,2011,Kingston Upon Hull,16
+EnteringLeftT,2011201120N043091,2011,Birmingham,29
+EnteringLeftT,2011201120N057881,2011,Birmingham,33
+EnteringLeftT,2.0112E+16,2011,Stoke on Trent,16
+EnteringLeftT,2011201122F103701,2011,Shropshire,53
+EnteringLeftT,2011201130D000016,2011,Derby,45
+EnteringLeftT,2011201131A056811,2011,Nottinghamshire,11
+EnteringLeftT,2011201131C258911,2011,Nottingham,45
+EnteringLeftT,2011201131D040711,2011,Nottinghamshire,15
+EnteringLeftT,2.0112E+16,2011,Leicestershire,36
+EnteringLeftT,2.0112E+16,2011,Cambridgeshire,11
+EnteringLeftT,2.01E+233,2011,Hertfordshire,15
+EnteringLeftT,2011201143N115041,2011,Buckinghamshire,20
+EnteringLeftT,2011201143N272051,2011,Buckinghamshire,12
+EnteringLeftT,2.0112E+16,2011,Kent,15
+EnteringLeftT,2011201150ED2J013,2011,Plymouth,13
+EnteringLeftT,2.0112E+16,2011,Somerset,9
+EnteringLeftT,2.0112E+16,2011,Wiltshire,13
+EnteringLeftT,2012201206A058233,2012,Manchester,53
+EnteringLeftT,2012201206K067328,2012,Bolton,24
+EnteringLeftT,2.0122E+16,2012,Warrington,45
+EnteringLeftT,2.0122E+16,2012,South Tyneside,12
+EnteringLeftT,2.0122E+16,2012,South Tyneside,33
+EnteringLeftT,2.0122E+16,2012,York,18
+EnteringLeftT,20122012160B03401,2012,North Lincolnshire,25
+EnteringLeftT,20122012160C02781,2012,East Riding of Yorkshire,11
+EnteringLeftT,2012201220J010512,2012,Dudley,43
+EnteringLeftT,2012201222C204608,2012,Worcestershire,43
+EnteringLeftT,2012201230D000766,2012,Derby,50
+EnteringLeftT,2012201231C101012,2012,Nottingham,14
+EnteringLeftT,2.0122E+16,2012,Leicestershire,11
+EnteringLeftT,2012201234WS16912,2012,Northamptonshire,65
+EnteringLeftT,2.0122E+16,2012,Suffolk,48
+EnteringLeftT,2.0122E+16,2012,Hampshire,41
+EnteringLeftT,2.0122E+16,2012,West Sussex,16
+EnteringLeftT,2.0122E+16,2012,Somerset,18

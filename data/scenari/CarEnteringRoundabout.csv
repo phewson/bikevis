@@ -1,0 +1,3127 @@
+Scenario,urn,accyr,LAName,Age
+CarEnteringRoundabout,199901BS00484,1999,London,43
+CarEnteringRoundabout,199901DM01108,1999,London,
+CarEnteringRoundabout,199901LX00274,1999,London,47
+CarEnteringRoundabout,199901XH00647,1999,London,60
+CarEnteringRoundabout,199901XS00328,1999,London,34
+CarEnteringRoundabout,199901ZD00235,1999,London,39
+CarEnteringRoundabout,199901ZN00858,1999,London,50
+CarEnteringRoundabout,1.99905E+12,1999,Merseyside,22
+CarEnteringRoundabout,1.99905E+12,1999,Merseyside,16
+CarEnteringRoundabout,1.99912E+12,1999,York,33
+CarEnteringRoundabout,199914HH01022,1999,Sheffield,34
+CarEnteringRoundabout,199916D039099,1999,Kingston Upon Hull,23
+CarEnteringRoundabout,199916D041899,1999,Kingston Upon Hull,42
+CarEnteringRoundabout,199920K057301,1999,Sandwell,13
+CarEnteringRoundabout,199922EU01950,1999,Herefordshire,36
+CarEnteringRoundabout,1999317C41811,1999,Nottingham,13
+CarEnteringRoundabout,1999317D41090,1999,Nottinghamshire,53
+CarEnteringRoundabout,199932C011889,1999,Lincolnshire,55
+CarEnteringRoundabout,199934NC00403,1999,Northamptonshire,35
+CarEnteringRoundabout,1.99935E+12,1999,Peterborough,29
+CarEnteringRoundabout,1.99935E+12,1999,Cambridgeshire,46
+CarEnteringRoundabout,199936N990155,1999,Norfolk,51
+CarEnteringRoundabout,19994100C0483,1999,Hertfordshire,13
+CarEnteringRoundabout,19994100G0188,1999,Hertfordshire,11
+CarEnteringRoundabout,2.00E+285,1999,Essex,13
+CarEnteringRoundabout,19994200F0530,1999,Thurrock,26
+CarEnteringRoundabout,19994200H0592,1999,Southend on Sea,33
+CarEnteringRoundabout,199943P027119,1999,Oxfordshire,20
+CarEnteringRoundabout,199943P262079,1999,Oxfordshire,
+CarEnteringRoundabout,199943R228089,1999,Slough,9
+CarEnteringRoundabout,199943S087089,1999,Milton Keynes,
+CarEnteringRoundabout,199943W112049,1999,Reading,34
+CarEnteringRoundabout,1999440HP0372,1999,Hampshire,29
+CarEnteringRoundabout,1999440JH0159,1999,Hampshire,29
+CarEnteringRoundabout,1999440JH0319,1999,Hampshire,18
+CarEnteringRoundabout,1999440SC0010,1999,Southampton ,38
+CarEnteringRoundabout,1999440YS0707,1999,Southampton ,12
+CarEnteringRoundabout,199945ER00276,1999,Surrey,13
+CarEnteringRoundabout,199945NA00008,1999,Surrey,50
+CarEnteringRoundabout,199945WF00172,1999,Surrey,
+CarEnteringRoundabout,199945WG00760,1999,Surrey,16
+CarEnteringRoundabout,199946CT03938,1999,Kent,36
+CarEnteringRoundabout,199946WK07283,1999,Kent,49
+CarEnteringRoundabout,199947H002246,1999,West Sussex,17
+CarEnteringRoundabout,199947Y002472,1999,West Sussex,19
+CarEnteringRoundabout,199950A512542,1999,Cornwall and Isles of Scilly,30
+CarEnteringRoundabout,199950F511845,1999,Devon,26
+CarEnteringRoundabout,1.99952E+12,1999,Somerset,42
+CarEnteringRoundabout,1.99952E+12,1999,City of Bristol,17
+CarEnteringRoundabout,1.99952E+12,1999,Somerset,35
+CarEnteringRoundabout,1999550B00294,1999,Bournemouth,20
+CarEnteringRoundabout,1999550B00665,1999,Bournemouth,46
+CarEnteringRoundabout,200001DM00606,2000,London,34
+CarEnteringRoundabout,200001MM00223,2000,London,30
+CarEnteringRoundabout,200001NI00770,2000,London,35
+CarEnteringRoundabout,200001RG00830,2000,London,29
+CarEnteringRoundabout,200001RY00329,2000,London,14
+CarEnteringRoundabout,200001TX01155,2000,London,33
+CarEnteringRoundabout,200001XH00639,2000,London,
+CarEnteringRoundabout,200004B049300,2000,Lancashire,27
+CarEnteringRoundabout,200004F061200,2000,Lancashire,57
+CarEnteringRoundabout,200010C311500,2000,Northumberland,26
+CarEnteringRoundabout,200010G289200,2000,Newcastle upon Tyne,41
+CarEnteringRoundabout,200010I314900,2000,North Tyneside,23
+CarEnteringRoundabout,200011CG14120,2000,Durham,64
+CarEnteringRoundabout,2.00012E+12,2000,York,38
+CarEnteringRoundabout,200014AA00644,2000,Doncaster,33
+CarEnteringRoundabout,200014HH00692,2000,Sheffield,45
+CarEnteringRoundabout,200014HH01122,2000,Sheffield,47
+CarEnteringRoundabout,200020D173403,2000,Birmingham,16
+CarEnteringRoundabout,200020D176402,2000,Birmingham,39
+CarEnteringRoundabout,200020M114302,2000,Coventry,19
+CarEnteringRoundabout,2.00023E+12,2000,Warwickshire,19
+CarEnteringRoundabout,200030D000877,2000,Derby,10
+CarEnteringRoundabout,200032D009420,2000,Lincolnshire,21
+CarEnteringRoundabout,2.00033E+12,2000,Leicestershire,26
+CarEnteringRoundabout,200034NW00058,2000,Northamptonshire,21
+CarEnteringRoundabout,200034NW00150,2000,Northamptonshire,32
+CarEnteringRoundabout,20004100A0179,2000,Hertfordshire,37
+CarEnteringRoundabout,20004100C0042,2000,Hertfordshire,38
+CarEnteringRoundabout,20004100G0378,2000,Hertfordshire,19
+CarEnteringRoundabout,20004200E0430,2000,Essex,25
+CarEnteringRoundabout,20004200F0417,2000,Thurrock,13
+CarEnteringRoundabout,200043P015020,2000,Oxfordshire,21
+CarEnteringRoundabout,200043W083070,2000,Windsor and Maidenhead,
+CarEnteringRoundabout,2000440AA1989,2000,Hampshire,23
+CarEnteringRoundabout,2000440RC0441,2000,Portsmouth,33
+CarEnteringRoundabout,200046CT30322,2000,Kent,53
+CarEnteringRoundabout,200046TH25089,2000,Kent,48
+CarEnteringRoundabout,200046WL13628,2000,Kent,45
+CarEnteringRoundabout,2.00052E+12,2000,South Gloucestershire,62
+CarEnteringRoundabout,200052G764316,2000,Somerset,37
+CarEnteringRoundabout,2000550B03331,2000,Bournemouth,41
+CarEnteringRoundabout,2000550P06288,2000,Poole,
+CarEnteringRoundabout,200101FH00707,2001,London,43
+CarEnteringRoundabout,200101XH00192,2001,London,46
+CarEnteringRoundabout,200104E057701,2001,Blackburn with Darwen,45
+CarEnteringRoundabout,2.00105E+12,2001,Merseyside,37
+CarEnteringRoundabout,2.00107E+12,2001,Cheshire West and Chester,33
+CarEnteringRoundabout,200110C373101,2001,Northumberland,
+CarEnteringRoundabout,200110E362101,2001,Newcastle upon Tyne,58
+CarEnteringRoundabout,200110K122601,2001,Gateshead,41
+CarEnteringRoundabout,200110L369301,2001,South Tyneside,11
+CarEnteringRoundabout,2.00112E+12,2001,York,18
+CarEnteringRoundabout,200116D038101,2001,Kingston Upon Hull,24
+CarEnteringRoundabout,200116D064801,2001,Kingston Upon Hull,23
+CarEnteringRoundabout,200120D377603,2001,Birmingham,32
+CarEnteringRoundabout,200120E204103,2001,Birmingham,23
+CarEnteringRoundabout,200120G099201,2001,Wolverhampton,15
+CarEnteringRoundabout,200120H106402,2001,Walsall,
+CarEnteringRoundabout,200120M091103,2001,Coventry,21
+CarEnteringRoundabout,200120M119401,2001,Coventry,28
+CarEnteringRoundabout,200130D001070,2001,Derby,56
+CarEnteringRoundabout,200132D108001,2001,Lincolnshire,29
+CarEnteringRoundabout,2.00133E+12,2001,Leicestershire,15
+CarEnteringRoundabout,2.00133E+12,2001,Leicestershire,16
+CarEnteringRoundabout,200134NN00356,2001,Northamptonshire,12
+CarEnteringRoundabout,2.00135E+12,2001,Cambridgeshire,52
+CarEnteringRoundabout,200136N011181,2001,Norfolk,49
+CarEnteringRoundabout,200137L005704,2001,Suffolk,
+CarEnteringRoundabout,2001400B03909,2001,Bedford Borough Council,21
+CarEnteringRoundabout,20014100A0169,2001,Hertfordshire,51
+CarEnteringRoundabout,20014100D0352,2001,Hertfordshire,26
+CarEnteringRoundabout,20014200H0537,2001,Southend on Sea,65
+CarEnteringRoundabout,200143W131091,2001,West Berkshire,21
+CarEnteringRoundabout,200143W492061,2001,Bracknell Forest,15
+CarEnteringRoundabout,2001440JW0194,2001,Hampshire,38
+CarEnteringRoundabout,2001440KK2333,2001,Portsmouth,13
+CarEnteringRoundabout,2001440SC0018,2001,Southampton ,19
+CarEnteringRoundabout,2.00145E+12,2001,Surrey,16
+CarEnteringRoundabout,200145MW06545,2001,Surrey,25
+CarEnteringRoundabout,200145NW06543,2001,Surrey,26
+CarEnteringRoundabout,2.00146E+12,2001,Medway,34
+CarEnteringRoundabout,200146CT40058,2001,Kent,58
+CarEnteringRoundabout,200146TH41788,2001,Kent,
+CarEnteringRoundabout,200147X132533,2001,West Sussex,13
+CarEnteringRoundabout,200147X135455,2001,West Sussex,
+CarEnteringRoundabout,200150A225075,2001,Cornwall and Isles of Scilly,48
+CarEnteringRoundabout,200150C214457,2001,Devon,40
+CarEnteringRoundabout,200150E310287,2001,Plymouth,29
+CarEnteringRoundabout,200150E313098,2001,Plymouth,57
+CarEnteringRoundabout,2.00152E+12,2001,North Somerset,26
+CarEnteringRoundabout,2001530AI2441,2001,Gloucestershire,15
+CarEnteringRoundabout,200154DS32201,2001,Swindon,22
+CarEnteringRoundabout,2001550B05147,2001,Bournemouth,37
+CarEnteringRoundabout,200201DM01820,2002,London,27
+CarEnteringRoundabout,200201EO01263,2002,London,26
+CarEnteringRoundabout,200201JI00411,2002,London,41
+CarEnteringRoundabout,200201XH00619,2002,London,47
+CarEnteringRoundabout,200204B011402,2002,Lancashire,35
+CarEnteringRoundabout,2.00207E+12,2002,Warrington,16
+CarEnteringRoundabout,200210F233302,2002,Newcastle upon Tyne,25
+CarEnteringRoundabout,200211BD14930,2002,Durham,38
+CarEnteringRoundabout,2.00213E+12,2002,Calderdale,56
+CarEnteringRoundabout,200216D062202,2002,Kingston Upon Hull,23
+CarEnteringRoundabout,200220F037801,2002,Birmingham,28
+CarEnteringRoundabout,200220L111301,2002,Solihull,45
+CarEnteringRoundabout,200230A000341,2002,Derbyshire,
+CarEnteringRoundabout,20023102A0609,2002,Nottinghamshire,52
+CarEnteringRoundabout,20023102C2798,2002,Nottingham,19
+CarEnteringRoundabout,20023102C2827,2002,Nottingham,58
+CarEnteringRoundabout,2.00233E+12,2002,Leicestershire,30
+CarEnteringRoundabout,200234NC00444,2002,Northamptonshire,18
+CarEnteringRoundabout,200234NC00584,2002,Northamptonshire,47
+CarEnteringRoundabout,20024100DA079,2002,Hertfordshire,59
+CarEnteringRoundabout,20024200A0230,2002,Essex,47
+CarEnteringRoundabout,20024200E0455,2002,Essex,45
+CarEnteringRoundabout,2002440BB1406,2002,Hampshire,11
+CarEnteringRoundabout,2002440HP0436,2002,Hampshire,29
+CarEnteringRoundabout,2002440KK1602,2002,Portsmouth,42
+CarEnteringRoundabout,2002440KK2155,2002,Portsmouth,34
+CarEnteringRoundabout,2002440SY0518,2002,Southampton ,42
+CarEnteringRoundabout,200245RN22936,2002,Surrey,24
+CarEnteringRoundabout,200246CT58413,2002,Kent,35
+CarEnteringRoundabout,200246CT64371,2002,Kent,16
+CarEnteringRoundabout,200246SW60840,2002,Kent,12
+CarEnteringRoundabout,200246TH57474,2002,Kent,
+CarEnteringRoundabout,200247K150485,2002,West Sussex,37
+CarEnteringRoundabout,200247X147101,2002,West Sussex,14
+CarEnteringRoundabout,200247Y147407,2002,West Sussex,38
+CarEnteringRoundabout,200250D215035,2002,Devon,11
+CarEnteringRoundabout,2.00252E+12,2002,City of Bristol,35
+CarEnteringRoundabout,2.00252E+12,2002,City of Bristol,40
+CarEnteringRoundabout,2.00252E+12,2002,City of Bristol,14
+CarEnteringRoundabout,2.00252E+12,2002,South Gloucestershire,15
+CarEnteringRoundabout,2.00252E+12,2002,City of Bristol,48
+CarEnteringRoundabout,2.00252E+12,2002,Somerset,29
+CarEnteringRoundabout,2.00252E+12,2002,Somerset,45
+CarEnteringRoundabout,200301EO00257,2003,London,54
+CarEnteringRoundabout,200301PL00332,2003,London,16
+CarEnteringRoundabout,200301XS00266,2003,London,55
+CarEnteringRoundabout,2.00307E+12,2003,Cheshire West and Chester,17
+CarEnteringRoundabout,200316B044403,2003,North Lincolnshire,16
+CarEnteringRoundabout,2003170S13953,2003,Stockton on Tees,36
+CarEnteringRoundabout,200320E190703,2003,Birmingham,
+CarEnteringRoundabout,2.00321E+12,2003,Staffordshire,43
+CarEnteringRoundabout,2.00323E+12,2003,Warwickshire,18
+CarEnteringRoundabout,20033102C7866,2003,Nottingham,22
+CarEnteringRoundabout,200337G013523,2003,Suffolk,
+CarEnteringRoundabout,2003400C02594,2003,Luton,41
+CarEnteringRoundabout,2003400C02824,2003,Luton,32
+CarEnteringRoundabout,20034100K0569,2003,Hertfordshire,12
+CarEnteringRoundabout,200343W622013,2003,Bracknell Forest,24
+CarEnteringRoundabout,2003440JW0197,2003,Hampshire,28
+CarEnteringRoundabout,2003440KK0504,2003,Portsmouth,53
+CarEnteringRoundabout,2003440KK1245,2003,Portsmouth,13
+CarEnteringRoundabout,200345RN33585,2003,Surrey,18
+CarEnteringRoundabout,200345RN41787,2003,Surrey,14
+CarEnteringRoundabout,200345RS36202,2003,Surrey,22
+CarEnteringRoundabout,200346NK77927,2003,Kent,26
+CarEnteringRoundabout,200346TH74261,2003,Kent,57
+CarEnteringRoundabout,200346WK71627,2003,Kent,
+CarEnteringRoundabout,200347K165816,2003,Brighton and Hove,
+CarEnteringRoundabout,2.00352E+12,2003,Somerset,18
+CarEnteringRoundabout,2.00352E+12,2003,North Somerset,13
+CarEnteringRoundabout,2.00352E+12,2003,Somerset,50
+CarEnteringRoundabout,2003530AI2749,2003,Gloucestershire,15
+CarEnteringRoundabout,2003550P06477,2003,Poole,30
+CarEnteringRoundabout,200401CW19169,2004,London,29
+CarEnteringRoundabout,200401DM00334,2004,London,34
+CarEnteringRoundabout,2.00403E+12,2004,Cumbria,30
+CarEnteringRoundabout,200406C904622,2004,Manchester,42
+CarEnteringRoundabout,200406F902465,2004,Salford,44
+CarEnteringRoundabout,200406P013106,2004,Rochdale,16
+CarEnteringRoundabout,2.0041E+12,2004,Northumberland,25
+CarEnteringRoundabout,2.00412E+12,2004,North Yorkshire,31
+CarEnteringRoundabout,2.00413E+12,2004,Wakefield,6
+CarEnteringRoundabout,200414DD00087,2004,Sheffield,31
+CarEnteringRoundabout,200420M048301,2004,Coventry,46
+CarEnteringRoundabout,200422GA34764,2004,Telford and Wrekin,44
+CarEnteringRoundabout,200430D000532,2004,Derby,12
+CarEnteringRoundabout,20043108C5396,2004,Nottingham,18
+CarEnteringRoundabout,20043108D5363,2004,Nottinghamshire,15
+CarEnteringRoundabout,2.00433E+12,2004,Leicestershire,25
+CarEnteringRoundabout,200437L010083,2004,Suffolk,18
+CarEnteringRoundabout,20044200C0794,2004,Essex,23
+CarEnteringRoundabout,200443S121094,2004,Milton Keynes,38
+CarEnteringRoundabout,2004440HP0256,2004,Hampshire,20
+CarEnteringRoundabout,2004440JH0033,2004,Hampshire,23
+CarEnteringRoundabout,2004440KK0103,2004,Portsmouth,21
+CarEnteringRoundabout,2004440KK0486,2004,Portsmouth,34
+CarEnteringRoundabout,200446CT00183,2004,Kent,
+CarEnteringRoundabout,200446TH97351,2004,Kent,33
+CarEnteringRoundabout,200447K170966,2004,West Sussex,23
+CarEnteringRoundabout,200447K176488,2004,West Sussex,64
+CarEnteringRoundabout,200447K177047,2004,East Sussex,13
+CarEnteringRoundabout,200450A61R188,2004,Cornwall and Isles of Scilly,
+CarEnteringRoundabout,200450E31J699,2004,Plymouth,39
+CarEnteringRoundabout,200450E51P939,2004,Plymouth,
+CarEnteringRoundabout,200450E51R081,2004,Plymouth,50
+CarEnteringRoundabout,200450F31P300,2004,Torbay,
+CarEnteringRoundabout,2.00452E+12,2004,City of Bristol,16
+CarEnteringRoundabout,200501CW11273,2005,London,34
+CarEnteringRoundabout,200501CW11623,2005,London,26
+CarEnteringRoundabout,200501FH10143,2005,London,24
+CarEnteringRoundabout,200501SX20937,2005,London,30
+CarEnteringRoundabout,200501TX20199,2005,London,69
+CarEnteringRoundabout,200501VW40235,2005,London,
+CarEnteringRoundabout,2.00503E+12,2005,Cumbria,49
+CarEnteringRoundabout,2.00503E+12,2005,Cumbria,40
+CarEnteringRoundabout,200504AL05030,2005,Blackpool,47
+CarEnteringRoundabout,200504BC05163,2005,Lancashire,50
+CarEnteringRoundabout,200504CA05103,2005,Lancashire,55
+CarEnteringRoundabout,200504CD05007,2005,Lancashire,58
+CarEnteringRoundabout,200504CM05056,2005,Lancashire,35
+CarEnteringRoundabout,200505AA03832,2005,Merseyside,33
+CarEnteringRoundabout,200505AW00064,2005,Merseyside,50
+CarEnteringRoundabout,200505BS01209,2005,Merseyside,30
+CarEnteringRoundabout,200505BS01255,2005,Merseyside,43
+CarEnteringRoundabout,200505BS01270,2005,Merseyside,30
+CarEnteringRoundabout,200505BS01421,2005,Merseyside,42
+CarEnteringRoundabout,200505CC03337,2005,Merseyside,41
+CarEnteringRoundabout,200505ET00960,2005,Merseyside,47
+CarEnteringRoundabout,200505FF02438,2005,Merseyside,32
+CarEnteringRoundabout,200506C032625,2005,Manchester,56
+CarEnteringRoundabout,200506C038848,2005,Manchester,58
+CarEnteringRoundabout,200506F027931,2005,Salford,5
+CarEnteringRoundabout,200506J028328,2005,Stockport,43
+CarEnteringRoundabout,200506M031977,2005,Trafford,55
+CarEnteringRoundabout,2.00507E+12,2005,Warrington,34
+CarEnteringRoundabout,2.00507E+12,2005,Cheshire West and Chester,17
+CarEnteringRoundabout,2.00507E+12,2005,Cheshire West and Chester,33
+CarEnteringRoundabout,2.00507E+12,2005,Cheshire West and Chester,54
+CarEnteringRoundabout,2.00507E+12,2005,Cheshire West and Chester,70
+CarEnteringRoundabout,2.00507E+12,2005,Cheshire West and Chester,61
+CarEnteringRoundabout,2.00507E+12,2005,Halton,40
+CarEnteringRoundabout,2.00507E+12,2005,Cheshire West and Chester,17
+CarEnteringRoundabout,2.0051E+12,2005,Northumberland,19
+CarEnteringRoundabout,2.0051E+12,2005,North Tyneside,48
+CarEnteringRoundabout,2.0051E+12,2005,North Tyneside,42
+CarEnteringRoundabout,2.0051E+12,2005,North Tyneside,43
+CarEnteringRoundabout,2.0051E+12,2005,North Tyneside,14
+CarEnteringRoundabout,2.0051E+12,2005,Newcastle upon Tyne,33
+CarEnteringRoundabout,2.0051E+12,2005,Newcastle upon Tyne,21
+CarEnteringRoundabout,200511CG17040,2005,Durham,70
+CarEnteringRoundabout,200511DJ06360,2005,Darlington,37
+CarEnteringRoundabout,200511DJ20180,2005,Darlington,53
+CarEnteringRoundabout,2.00512E+12,2005,North Yorkshire,12
+CarEnteringRoundabout,2.00512E+12,2005,North Yorkshire,34
+CarEnteringRoundabout,2.00512E+12,2005,North Yorkshire,52
+CarEnteringRoundabout,2.00512E+12,2005,North Yorkshire,45
+CarEnteringRoundabout,2.00512E+12,2005,York,35
+CarEnteringRoundabout,2.00513E+12,2005,Leeds,57
+CarEnteringRoundabout,2.00513E+12,2005,Leeds,44
+CarEnteringRoundabout,2.00513E+12,2005,Leeds,28
+CarEnteringRoundabout,2.00513E+12,2005,Leeds,43
+CarEnteringRoundabout,200514A192105,2005,Doncaster,55
+CarEnteringRoundabout,200514D018605,2005,Sheffield,47
+CarEnteringRoundabout,2005160A03830,2005,North East Lincolnshire,14
+CarEnteringRoundabout,2005160B03940,2005,North Lincolnshire,41
+CarEnteringRoundabout,2005160B04790,2005,North Lincolnshire,29
+CarEnteringRoundabout,2005160B05250,2005,North Lincolnshire,57
+CarEnteringRoundabout,2005160C07350,2005,East Riding of Yorkshire,33
+CarEnteringRoundabout,2005160D05640,2005,Kingston Upon Hull,27
+CarEnteringRoundabout,2005160D06320,2005,Kingston Upon Hull,20
+CarEnteringRoundabout,2005170M12895,2005,Middlesbrough,36
+CarEnteringRoundabout,2005170S13275,2005,Stockton on Tees,19
+CarEnteringRoundabout,200520D030901,2005,Birmingham,38
+CarEnteringRoundabout,200520D096901,2005,Birmingham,13
+CarEnteringRoundabout,200520D257203,2005,Birmingham,42
+CarEnteringRoundabout,200520F051903,2005,Birmingham,22
+CarEnteringRoundabout,200520G053401,2005,Wolverhampton,20
+CarEnteringRoundabout,200520J030902,2005,Dudley,14
+CarEnteringRoundabout,200520J073001,2005,Dudley,61
+CarEnteringRoundabout,200520L014501,2005,Solihull,34
+CarEnteringRoundabout,200520L044201,2005,Solihull,29
+CarEnteringRoundabout,200520M020002,2005,Coventry,39
+CarEnteringRoundabout,2.00522E+12,2005,Stoke on Trent,30
+CarEnteringRoundabout,2.00522E+12,2005,Staffordshire,49
+CarEnteringRoundabout,2.00522E+12,2005,Staffordshire,34
+CarEnteringRoundabout,2.00522E+12,2005,Staffordshire,29
+CarEnteringRoundabout,2.00522E+12,2005,Staffordshire,45
+CarEnteringRoundabout,2.00522E+12,2005,Staffordshire,50
+CarEnteringRoundabout,200522CA50800,2005,Worcestershire,32
+CarEnteringRoundabout,200522DR42469,2005,Worcestershire,15
+CarEnteringRoundabout,200522FA45599,2005,Shropshire,66
+CarEnteringRoundabout,200522GB38189,2005,Telford and Wrekin,59
+CarEnteringRoundabout,2.00523E+12,2005,Warwickshire,37
+CarEnteringRoundabout,2.00523E+12,2005,Warwickshire,63
+CarEnteringRoundabout,2.00523E+12,2005,Warwickshire,50
+CarEnteringRoundabout,2.00523E+12,2005,Warwickshire,25
+CarEnteringRoundabout,2.00523E+12,2005,Warwickshire,35
+CarEnteringRoundabout,2.00523E+12,2005,Warwickshire,63
+CarEnteringRoundabout,2.00523E+12,2005,Warwickshire,43
+CarEnteringRoundabout,2.00523E+12,2005,Warwickshire,26
+CarEnteringRoundabout,2.00523E+12,2005,Warwickshire,53
+CarEnteringRoundabout,2.00523E+12,2005,Warwickshire,43
+CarEnteringRoundabout,200530A000407,2005,Derbyshire,37
+CarEnteringRoundabout,200530C000116,2005,Derbyshire,46
+CarEnteringRoundabout,200530C000130,2005,Derbyshire,47
+CarEnteringRoundabout,200530C000237,2005,Derbyshire,50
+CarEnteringRoundabout,200530D000212,2005,Derby,27
+CarEnteringRoundabout,200530D000345,2005,Derby,
+CarEnteringRoundabout,200530D000771,2005,Derbyshire,34
+CarEnteringRoundabout,20053102A3273,2005,Nottinghamshire,15
+CarEnteringRoundabout,20053102B3367,2005,Nottinghamshire,42
+CarEnteringRoundabout,20053102C0116,2005,Nottingham,21
+CarEnteringRoundabout,20053102C0600,2005,Nottingham,27
+CarEnteringRoundabout,20053102C3039,2005,Nottingham,29
+CarEnteringRoundabout,200532C502605,2005,Lincolnshire,60
+CarEnteringRoundabout,2.00533E+12,2005,Leicestershire,55
+CarEnteringRoundabout,2.00533E+12,2005,Leicestershire,20
+CarEnteringRoundabout,2.00533E+12,2005,Rutland,44
+CarEnteringRoundabout,2.00533E+12,2005,Leicestershire,25
+CarEnteringRoundabout,2.00533E+12,2005,Leicestershire,17
+CarEnteringRoundabout,2.00533E+12,2005,Leicestershire,32
+CarEnteringRoundabout,2.00533E+12,2005,Leicestershire,15
+CarEnteringRoundabout,200534NC03289,2005,Northamptonshire,13
+CarEnteringRoundabout,200534NC05362,2005,Northamptonshire,58
+CarEnteringRoundabout,200534NC06395,2005,Northamptonshire,56
+CarEnteringRoundabout,200534ND05671,2005,Northamptonshire,42
+CarEnteringRoundabout,2.00535E+12,2005,Cambridgeshire,22
+CarEnteringRoundabout,2.00535E+12,2005,Cambridgeshire,57
+CarEnteringRoundabout,2.00535E+12,2005,Cambridgeshire,23
+CarEnteringRoundabout,2.00535E+12,2005,Cambridgeshire,59
+CarEnteringRoundabout,2.00535E+12,2005,Cambridgeshire,71
+CarEnteringRoundabout,2.00535E+12,2005,Peterborough,30
+CarEnteringRoundabout,2.00535E+12,2005,Cambridgeshire,30
+CarEnteringRoundabout,2.00535E+12,2005,Cambridgeshire,26
+CarEnteringRoundabout,2.00535E+12,2005,Cambridgeshire,34
+CarEnteringRoundabout,2.00535E+12,2005,Cambridgeshire,32
+CarEnteringRoundabout,2.00535E+12,2005,Cambridgeshire,25
+CarEnteringRoundabout,2.00535E+12,2005,Cambridgeshire,55
+CarEnteringRoundabout,2.00535E+12,2005,Peterborough,34
+CarEnteringRoundabout,2.00535E+12,2005,Cambridgeshire,47
+CarEnteringRoundabout,2.00535E+12,2005,Cambridgeshire,32
+CarEnteringRoundabout,2.00536E+12,2005,Norfolk,41
+CarEnteringRoundabout,2.00536E+12,2005,Norfolk,16
+CarEnteringRoundabout,2.00536E+12,2005,Norfolk,42
+CarEnteringRoundabout,2.00536E+12,2005,Norfolk,37
+CarEnteringRoundabout,2.00536E+12,2005,Norfolk,49
+CarEnteringRoundabout,2.00536E+12,2005,Norfolk,15
+CarEnteringRoundabout,2.00536E+12,2005,Norfolk,49
+CarEnteringRoundabout,200536T050017,2005,Norfolk,63
+CarEnteringRoundabout,200537B023063,2005,Suffolk,30
+CarEnteringRoundabout,200537L012117,2005,Suffolk,44
+CarEnteringRoundabout,200540B000030,2005,Bedford Borough Council,60
+CarEnteringRoundabout,200540B020820,2005,Bedford Borough Council,35
+CarEnteringRoundabout,200540C030990,2005,Luton,55
+CarEnteringRoundabout,200540D000520,2005,Central Bedfordshire,22
+CarEnteringRoundabout,200540D030280,2005,Central Bedfordshire,35
+CarEnteringRoundabout,20054100B0298,2005,Hertfordshire,55
+CarEnteringRoundabout,20054100B0360,2005,Hertfordshire,26
+CarEnteringRoundabout,20054100C0078,2005,Hertfordshire,50
+CarEnteringRoundabout,20054100C0134,2005,Hertfordshire,37
+CarEnteringRoundabout,20054100F4963,2005,Hertfordshire,54
+CarEnteringRoundabout,20054100F5057,2005,Hertfordshire,25
+CarEnteringRoundabout,20054100G0343,2005,Hertfordshire,37
+CarEnteringRoundabout,20054100K0260,2005,Hertfordshire,22
+CarEnteringRoundabout,200542A002601,2005,Essex,50
+CarEnteringRoundabout,200542A048209,2005,Essex,44
+CarEnteringRoundabout,200542C002601,2005,Essex,58
+CarEnteringRoundabout,200542E016405,2005,Essex,34
+CarEnteringRoundabout,200542E032207,2005,Essex,49
+CarEnteringRoundabout,200542E040309,2005,Essex,34
+CarEnteringRoundabout,200542E045510,2005,Essex,67
+CarEnteringRoundabout,200542J038309,2005,Essex,18
+CarEnteringRoundabout,200543N025125,2005,Buckinghamshire,25
+CarEnteringRoundabout,200543N284015,2005,Buckinghamshire,44
+CarEnteringRoundabout,200543N550115,2005,Buckinghamshire,79
+CarEnteringRoundabout,200543P260125,2005,Oxfordshire,27
+CarEnteringRoundabout,200543S035015,2005,Milton Keynes,22
+CarEnteringRoundabout,200543W017115,2005,Windsor and Maidenhead,14
+CarEnteringRoundabout,200543W246045,2005,Wokingham,51
+CarEnteringRoundabout,200543W438105,2005,West Berkshire,11
+CarEnteringRoundabout,200543W466075,2005,Bracknell Forest,26
+CarEnteringRoundabout,200543W467075,2005,Wokingham,18
+CarEnteringRoundabout,200543W534075,2005,Windsor and Maidenhead,31
+CarEnteringRoundabout,2.00544E+12,2005,Hampshire,48
+CarEnteringRoundabout,2.00544E+12,2005,Hampshire,33
+CarEnteringRoundabout,2.00544E+12,2005,Portsmouth,70
+CarEnteringRoundabout,2.00544E+12,2005,Portsmouth,36
+CarEnteringRoundabout,2.00544E+12,2005,Portsmouth,40
+CarEnteringRoundabout,2.00544E+12,2005,Portsmouth,
+CarEnteringRoundabout,2.00544E+12,2005,Hampshire,
+CarEnteringRoundabout,2005445AA0004,2005,Hampshire,67
+CarEnteringRoundabout,2005445HF0009,2005,Hampshire,56
+CarEnteringRoundabout,2005445KK0219,2005,Portsmouth,34
+CarEnteringRoundabout,2005445KK0241,2005,Portsmouth,39
+CarEnteringRoundabout,2005445WE0157,2005,Hampshire,48
+CarEnteringRoundabout,200545GU71882,2005,Surrey,
+CarEnteringRoundabout,200545MO74005,2005,Surrey,71
+CarEnteringRoundabout,200545RE77696,2005,Surrey,57
+CarEnteringRoundabout,200545RU74046,2005,Surrey,55
+CarEnteringRoundabout,200545RU77576,2005,Surrey,20
+CarEnteringRoundabout,200545SU63856,2005,Surrey,30
+CarEnteringRoundabout,200545WA63501,2005,Surrey,37
+CarEnteringRoundabout,200545WA71598,2005,Surrey,22
+CarEnteringRoundabout,2.00546E+12,2005,Kent,18
+CarEnteringRoundabout,2.00546E+12,2005,Kent,81
+CarEnteringRoundabout,2.00546E+12,2005,Kent,21
+CarEnteringRoundabout,2.00547E+12,2005,West Sussex,24
+CarEnteringRoundabout,2.00547E+12,2005,West Sussex,27
+CarEnteringRoundabout,2.00547E+12,2005,West Sussex,48
+CarEnteringRoundabout,2.00547E+12,2005,West Sussex,27
+CarEnteringRoundabout,2.00547E+12,2005,West Sussex,55
+CarEnteringRoundabout,2.00547E+12,2005,West Sussex,48
+CarEnteringRoundabout,2.00547E+12,2005,East Sussex,53
+CarEnteringRoundabout,2.00547E+12,2005,West Sussex,16
+CarEnteringRoundabout,2.00547E+12,2005,West Sussex,30
+CarEnteringRoundabout,200550A31N687,2005,Cornwall and Isles of Scilly,29
+CarEnteringRoundabout,200550D21N194,2005,Devon,53
+CarEnteringRoundabout,200550D21O578,2005,Devon,34
+CarEnteringRoundabout,200550E21I949,2005,Plymouth,36
+CarEnteringRoundabout,200550E61I410,2005,Devon,51
+CarEnteringRoundabout,2.00552E+12,2005,City of Bristol,
+CarEnteringRoundabout,2.00552E+12,2005,City of Bristol,31
+CarEnteringRoundabout,2.00552E+12,2005,City of Bristol,28
+CarEnteringRoundabout,2.00552E+12,2005,South Gloucestershire,35
+CarEnteringRoundabout,2.00552E+12,2005,City of Bristol,46
+CarEnteringRoundabout,2.00552E+12,2005,City of Bristol,22
+CarEnteringRoundabout,2.00552E+12,2005,Bath and North East Somerset,24
+CarEnteringRoundabout,2.00553E+12,2005,Gloucestershire,52
+CarEnteringRoundabout,2.00553E+12,2005,Gloucestershire,22
+CarEnteringRoundabout,2.00553E+12,2005,Gloucestershire,50
+CarEnteringRoundabout,200554AM66105,2005,Wiltshire,37
+CarEnteringRoundabout,200554CT74405,2005,Wiltshire,46
+CarEnteringRoundabout,200554DC28605,2005,Swindon,33
+CarEnteringRoundabout,200554DW08805,2005,Swindon,14
+CarEnteringRoundabout,200554DW28705,2005,Swindon,30
+CarEnteringRoundabout,2005555E02888,2005,Dorset,33
+CarEnteringRoundabout,2005555P05079,2005,Poole,22
+CarEnteringRoundabout,200601LX50487,2006,London,28
+CarEnteringRoundabout,200604AN06018,2006,Blackpool,13
+CarEnteringRoundabout,200604BB06201,2006,Lancashire,41
+CarEnteringRoundabout,200604CA06005,2006,Lancashire,37
+CarEnteringRoundabout,200604CA06052,2006,Lancashire,36
+CarEnteringRoundabout,200604CK06173,2006,Lancashire,51
+CarEnteringRoundabout,200604CM06027,2006,Lancashire,46
+CarEnteringRoundabout,200604EN06044,2006,Lancashire,44
+CarEnteringRoundabout,200604FA06044,2006,Lancashire,37
+CarEnteringRoundabout,200604FL06064,2006,Lancashire,62
+CarEnteringRoundabout,200605AA09816,2006,Merseyside,49
+CarEnteringRoundabout,200605AA09952,2006,Merseyside,33
+CarEnteringRoundabout,200605AA13454,2006,Merseyside,54
+CarEnteringRoundabout,200605BB06283,2006,Merseyside,55
+CarEnteringRoundabout,200605BB09928,2006,Merseyside,45
+CarEnteringRoundabout,200605BB12165,2006,Merseyside,16
+CarEnteringRoundabout,200605CC12286,2006,Merseyside,25
+CarEnteringRoundabout,200605FF08605,2006,Merseyside,20
+CarEnteringRoundabout,200605FF14049,2006,Merseyside,53
+CarEnteringRoundabout,200606B053580,2006,Manchester,10
+CarEnteringRoundabout,200606C059539,2006,Manchester,42
+CarEnteringRoundabout,200606F047727,2006,Salford,40
+CarEnteringRoundabout,200606G045208,2006,Tameside,46
+CarEnteringRoundabout,200606G050448,2006,Tameside,52
+CarEnteringRoundabout,200606K042769,2006,Bolton,28
+CarEnteringRoundabout,200606K050821,2006,Bolton,45
+CarEnteringRoundabout,200606X058435,2006,Manchester,25
+CarEnteringRoundabout,2.00607E+12,2006,Warrington,50
+CarEnteringRoundabout,2.00607E+12,2006,Warrington,22
+CarEnteringRoundabout,2.00607E+12,2006,Cheshire West and Chester,32
+CarEnteringRoundabout,2.00607E+12,2006,Halton,43
+CarEnteringRoundabout,2.00607E+12,2006,Cheshire East,59
+CarEnteringRoundabout,2.00607E+12,2006,Warrington,40
+CarEnteringRoundabout,2.00607E+12,2006,Cheshire West and Chester,18
+CarEnteringRoundabout,2.0061E+12,2006,North Tyneside,32
+CarEnteringRoundabout,2.0061E+12,2006,North Tyneside,46
+CarEnteringRoundabout,2.0061E+12,2006,Northumberland,64
+CarEnteringRoundabout,2.0061E+12,2006,Gateshead,38
+CarEnteringRoundabout,2.0061E+12,2006,South Tyneside,35
+CarEnteringRoundabout,2.0061E+12,2006,Gateshead,58
+CarEnteringRoundabout,200611BD09510,2006,Durham,22
+CarEnteringRoundabout,200611CG04560,2006,Durham,35
+CarEnteringRoundabout,200611DJ07040,2006,Darlington,40
+CarEnteringRoundabout,2.00612E+12,2006,North Yorkshire,48
+CarEnteringRoundabout,2.00612E+12,2006,North Yorkshire,60
+CarEnteringRoundabout,2.00612E+12,2006,North Yorkshire,36
+CarEnteringRoundabout,2.00612E+12,2006,York,43
+CarEnteringRoundabout,2.00612E+12,2006,North Yorkshire,46
+CarEnteringRoundabout,2.00613E+12,2006,Wakefield,70
+CarEnteringRoundabout,2.00613E+12,2006,Leeds,79
+CarEnteringRoundabout,2.00613E+12,2006,Leeds,42
+CarEnteringRoundabout,2.00613E+12,2006,Leeds,47
+CarEnteringRoundabout,2.00613E+12,2006,Leeds,49
+CarEnteringRoundabout,200614A259506,2006,Doncaster,
+CarEnteringRoundabout,200614B078806,2006,Barnsley,27
+CarEnteringRoundabout,200614H070306,2006,Sheffield,25
+CarEnteringRoundabout,2006160A06120,2006,North East Lincolnshire,40
+CarEnteringRoundabout,2006160C00160,2006,East Riding of Yorkshire,44
+CarEnteringRoundabout,2006160C06920,2006,East Riding of Yorkshire,53
+CarEnteringRoundabout,2006160D00770,2006,Kingston Upon Hull,61
+CarEnteringRoundabout,2006160D03950,2006,Kingston Upon Hull,50
+CarEnteringRoundabout,2006160D05310,2006,Kingston Upon Hull,21
+CarEnteringRoundabout,2006160D07600,2006,Kingston Upon Hull,43
+CarEnteringRoundabout,2006170M11876,2006,Middlesbrough,32
+CarEnteringRoundabout,2006170M22316,2006,Middlesbrough,43
+CarEnteringRoundabout,2006170S11656,2006,Stockton on Tees,48
+CarEnteringRoundabout,2006170S22396,2006,Stockton on Tees,17
+CarEnteringRoundabout,2006170S23556,2006,Stockton on Tees,59
+CarEnteringRoundabout,2006170S34426,2006,Stockton on Tees,36
+CarEnteringRoundabout,200620D067101,2006,Birmingham,40
+CarEnteringRoundabout,200620D300501,2006,Birmingham,54
+CarEnteringRoundabout,200620E187501,2006,Birmingham,29
+CarEnteringRoundabout,200620F126601,2006,Birmingham,34
+CarEnteringRoundabout,200620F182101,2006,Birmingham,15
+CarEnteringRoundabout,200620F210401,2006,Birmingham,44
+CarEnteringRoundabout,200620G070902,2006,Wolverhampton,51
+CarEnteringRoundabout,200620H074602,2006,Walsall,33
+CarEnteringRoundabout,200620J031501,2006,Dudley,21
+CarEnteringRoundabout,200620K043102,2006,Sandwell,14
+CarEnteringRoundabout,200620K044602,2006,Sandwell,47
+CarEnteringRoundabout,200620L069601,2006,Solihull,46
+CarEnteringRoundabout,200620M042601,2006,Coventry,30
+CarEnteringRoundabout,2.00622E+12,2006,Staffordshire,43
+CarEnteringRoundabout,2.00622E+12,2006,Stoke on Trent,50
+CarEnteringRoundabout,2.00622E+12,2006,Staffordshire,45
+CarEnteringRoundabout,2.00622E+12,2006,Staffordshire,18
+CarEnteringRoundabout,2.00622E+12,2006,Staffordshire,13
+CarEnteringRoundabout,2.00622E+12,2006,Staffordshire,51
+CarEnteringRoundabout,200622CA56221,2006,Worcestershire,18
+CarEnteringRoundabout,200622DA85103,2006,Worcestershire,30
+CarEnteringRoundabout,200622DE53025,2006,Worcestershire,53
+CarEnteringRoundabout,200622EA34869,2006,Herefordshire,30
+CarEnteringRoundabout,200622FA85168,2006,Shropshire,56
+CarEnteringRoundabout,2.00623E+12,2006,Warwickshire,22
+CarEnteringRoundabout,2.00623E+12,2006,Warwickshire,
+CarEnteringRoundabout,2.00623E+12,2006,Warwickshire,22
+CarEnteringRoundabout,2.00623E+12,2006,Warwickshire,30
+CarEnteringRoundabout,2.00623E+12,2006,Warwickshire,50
+CarEnteringRoundabout,2.00623E+12,2006,Warwickshire,62
+CarEnteringRoundabout,200630A000149,2006,Derbyshire,16
+CarEnteringRoundabout,200630A000347,2006,Derbyshire,67
+CarEnteringRoundabout,200630A000621,2006,Derbyshire,51
+CarEnteringRoundabout,200630D000042,2006,Derby,32
+CarEnteringRoundabout,200630D000133,2006,Derby,28
+CarEnteringRoundabout,200630D000315,2006,Derby,20
+CarEnteringRoundabout,200630D000529,2006,Derby,38
+CarEnteringRoundabout,200630D000942,2006,Derby,42
+CarEnteringRoundabout,200630D000971,2006,Derby,18
+CarEnteringRoundabout,20063102C2872,2006,Nottingham,43
+CarEnteringRoundabout,20063102C3421,2006,Nottingham,31
+CarEnteringRoundabout,20063102D1560,2006,Nottinghamshire,44
+CarEnteringRoundabout,20063102D3094,2006,Nottinghamshire,36
+CarEnteringRoundabout,20063102D3158,2006,Nottinghamshire,55
+CarEnteringRoundabout,200632D001006,2006,Lincolnshire,67
+CarEnteringRoundabout,2.00633E+12,2006,Leicestershire,25
+CarEnteringRoundabout,2.00633E+12,2006,Leicestershire,60
+CarEnteringRoundabout,2.00633E+12,2006,Leicestershire,30
+CarEnteringRoundabout,2.00633E+12,2006,Leicestershire,20
+CarEnteringRoundabout,2.00633E+12,2006,Leicestershire,16
+CarEnteringRoundabout,2.00633E+12,2006,Leicestershire,25
+CarEnteringRoundabout,2.00633E+12,2006,Leicestershire,17
+CarEnteringRoundabout,200634NC00176,2006,Northamptonshire,62
+CarEnteringRoundabout,200634NN00608,2006,Northamptonshire,47
+CarEnteringRoundabout,200634WN03130,2006,Northamptonshire,39
+CarEnteringRoundabout,200634WN05315,2006,Northamptonshire,41
+CarEnteringRoundabout,2.00635E+12,2006,Cambridgeshire,51
+CarEnteringRoundabout,2.00635E+12,2006,Cambridgeshire,55
+CarEnteringRoundabout,2.00635E+12,2006,Cambridgeshire,34
+CarEnteringRoundabout,2.00635E+12,2006,Peterborough,67
+CarEnteringRoundabout,2.00635E+12,2006,Cambridgeshire,9
+CarEnteringRoundabout,2.00635E+12,2006,Peterborough,16
+CarEnteringRoundabout,2.00635E+12,2006,Peterborough,29
+CarEnteringRoundabout,2.00635E+12,2006,Cambridgeshire,22
+CarEnteringRoundabout,2.00635E+12,2006,Peterborough,46
+CarEnteringRoundabout,2.00635E+12,2006,Cambridgeshire,33
+CarEnteringRoundabout,2.00636E+12,2006,Norfolk,37
+CarEnteringRoundabout,2.00636E+12,2006,Norfolk,32
+CarEnteringRoundabout,2.00636E+12,2006,Norfolk,23
+CarEnteringRoundabout,2.00636E+12,2006,Norfolk,30
+CarEnteringRoundabout,2.00636E+12,2006,Norfolk,20
+CarEnteringRoundabout,2.00636E+12,2006,Norfolk,66
+CarEnteringRoundabout,200637G020370,2006,Suffolk,42
+CarEnteringRoundabout,200637G021320,2006,Suffolk,50
+CarEnteringRoundabout,200637G021327,2006,Suffolk,28
+CarEnteringRoundabout,200637L013320,2006,Suffolk,38
+CarEnteringRoundabout,200637L013569,2006,Suffolk,
+CarEnteringRoundabout,200640C013170,2006,Luton,41
+CarEnteringRoundabout,200640C018990,2006,Luton,24
+CarEnteringRoundabout,20064100A0451,2006,Hertfordshire,42
+CarEnteringRoundabout,20064100A0975,2006,Hertfordshire,27
+CarEnteringRoundabout,20064100B0684,2006,Hertfordshire,40
+CarEnteringRoundabout,20064100B0685,2006,Hertfordshire,11
+CarEnteringRoundabout,20064100B0874,2006,Hertfordshire,37
+CarEnteringRoundabout,20064100C0226,2006,Hertfordshire,37
+CarEnteringRoundabout,20064100C0435,2006,Hertfordshire,30
+CarEnteringRoundabout,20064100D0734,2006,Hertfordshire,17
+CarEnteringRoundabout,20064100G0571,2006,Hertfordshire,42
+CarEnteringRoundabout,20064100G0628,2006,Hertfordshire,40
+CarEnteringRoundabout,20064100G0768,2006,Hertfordshire,52
+CarEnteringRoundabout,20064100G0770,2006,Hertfordshire,49
+CarEnteringRoundabout,20064100J2217,2006,Hertfordshire,43
+CarEnteringRoundabout,20064100J2258,2006,Hertfordshire,15
+CarEnteringRoundabout,20064100J2636,2006,Hertfordshire,22
+CarEnteringRoundabout,20064100K0255,2006,Hertfordshire,29
+CarEnteringRoundabout,200642C019304,2006,Essex,22
+CarEnteringRoundabout,200642C036106,2006,Essex,34
+CarEnteringRoundabout,200642G033305,2006,Essex,37
+CarEnteringRoundabout,200642I357109,2006,Thurrock,58
+CarEnteringRoundabout,200642I374309,2006,Essex,55
+CarEnteringRoundabout,200642I406410,2006,Southend on Sea,74
+CarEnteringRoundabout,200642I462611,2006,Southend on Sea,19
+CarEnteringRoundabout,200642I470411,2006,Southend on Sea,22
+CarEnteringRoundabout,200642I484111,2006,Thurrock,44
+CarEnteringRoundabout,200642I490610,2006,Essex,16
+CarEnteringRoundabout,200642I500111,2006,Southend on Sea,60
+CarEnteringRoundabout,200643P012066,2006,Oxfordshire,20
+CarEnteringRoundabout,200643P033076,2006,Oxfordshire,65
+CarEnteringRoundabout,200643P122036,2006,Oxfordshire,39
+CarEnteringRoundabout,200643P346036,2006,Oxfordshire,40
+CarEnteringRoundabout,200643P414116,2006,Oxfordshire,23
+CarEnteringRoundabout,200643R005116,2006,Windsor and Maidenhead,40
+CarEnteringRoundabout,200643R049096,2006,Windsor and Maidenhead,40
+CarEnteringRoundabout,200643R052096,2006,Bracknell Forest,36
+CarEnteringRoundabout,200643R123096,2006,Bracknell Forest,18
+CarEnteringRoundabout,200643S026066,2006,Milton Keynes,36
+CarEnteringRoundabout,200643S034046,2006,Milton Keynes,21
+CarEnteringRoundabout,200643S053106,2006,Milton Keynes,22
+CarEnteringRoundabout,200643W061066,2006,Reading,65
+CarEnteringRoundabout,200643W065096,2006,Reading,34
+CarEnteringRoundabout,200643W137036,2006,Reading,
+CarEnteringRoundabout,200643W165076,2006,Wokingham,34
+CarEnteringRoundabout,200643W172056,2006,Wokingham,16
+CarEnteringRoundabout,200643W204046,2006,Wokingham,65
+CarEnteringRoundabout,200643W256096,2006,Reading,28
+CarEnteringRoundabout,200643W478016,2006,Slough,37
+CarEnteringRoundabout,2.00644E+12,2006,Portsmouth,43
+CarEnteringRoundabout,2.00644E+12,2006,Southampton ,47
+CarEnteringRoundabout,2.00644E+12,2006,Portsmouth,15
+CarEnteringRoundabout,2.00644E+12,2006,Hampshire,36
+CarEnteringRoundabout,2.00644E+12,2006,Hampshire,41
+CarEnteringRoundabout,2.00644E+12,2006,Hampshire,58
+CarEnteringRoundabout,2.00644E+12,2006,Hampshire,50
+CarEnteringRoundabout,2.00644E+12,2006,Hampshire,56
+CarEnteringRoundabout,2.00644E+12,2006,Hampshire,48
+CarEnteringRoundabout,2.00644E+12,2006,Hampshire,13
+CarEnteringRoundabout,2.00644E+12,2006,Hampshire,31
+CarEnteringRoundabout,2.00644E+12,2006,Portsmouth,12
+CarEnteringRoundabout,2.00644E+12,2006,Portsmouth,18
+CarEnteringRoundabout,2.00644E+12,2006,Hampshire,33
+CarEnteringRoundabout,2.00644E+12,2006,Hampshire,53
+CarEnteringRoundabout,2.00644E+12,2006,Hampshire,28
+CarEnteringRoundabout,2.00644E+12,2006,Hampshire,27
+CarEnteringRoundabout,2.00644E+12,2006,Southampton ,51
+CarEnteringRoundabout,200645EL94021,2006,Surrey,33
+CarEnteringRoundabout,200645GU80145,2006,Surrey,61
+CarEnteringRoundabout,200645RE88537,2006,Surrey,17
+CarEnteringRoundabout,200645WO97907,2006,Surrey,40
+CarEnteringRoundabout,2.00646E+12,2006,Medway,31
+CarEnteringRoundabout,2.00646E+12,2006,Kent,53
+CarEnteringRoundabout,2.00646E+12,2006,Kent,
+CarEnteringRoundabout,2.00646E+12,2006,Kent,21
+CarEnteringRoundabout,2.00646E+12,2006,Kent,41
+CarEnteringRoundabout,2.00646E+12,2006,Kent,44
+CarEnteringRoundabout,2.00646E+12,2006,Kent,52
+CarEnteringRoundabout,2.00646E+12,2006,Kent,22
+CarEnteringRoundabout,2.00646E+12,2006,Kent,27
+CarEnteringRoundabout,2.00646E+12,2006,Kent,37
+CarEnteringRoundabout,2.00647E+12,2006,West Sussex,36
+CarEnteringRoundabout,2.00647E+12,2006,East Sussex,42
+CarEnteringRoundabout,2.00647E+12,2006,East Sussex,13
+CarEnteringRoundabout,2.00647E+12,2006,West Sussex,78
+CarEnteringRoundabout,2.00647E+12,2006,West Sussex,40
+CarEnteringRoundabout,2.00647E+12,2006,West Sussex,26
+CarEnteringRoundabout,2.00647E+12,2006,West Sussex,40
+CarEnteringRoundabout,2.00647E+12,2006,West Sussex,48
+CarEnteringRoundabout,2.00647E+12,2006,West Sussex,72
+CarEnteringRoundabout,2.00647E+12,2006,East Sussex,34
+CarEnteringRoundabout,2.00647E+12,2006,West Sussex,19
+CarEnteringRoundabout,200650A33O522,2006,Cornwall and Isles of Scilly,
+CarEnteringRoundabout,200650A41B952,2006,Cornwall and Isles of Scilly,46
+CarEnteringRoundabout,200650C21O358,2006,Devon,83
+CarEnteringRoundabout,200650E52M686,2006,Plymouth,34
+CarEnteringRoundabout,200650E61G015,2006,Devon,32
+CarEnteringRoundabout,200650F41K296,2006,Devon,41
+CarEnteringRoundabout,2.00652E+12,2006,South Gloucestershire,37
+CarEnteringRoundabout,2.00652E+12,2006,City of Bristol,36
+CarEnteringRoundabout,2.00652E+12,2006,North Somerset,27
+CarEnteringRoundabout,2.00652E+12,2006,Somerset,42
+CarEnteringRoundabout,2.00652E+12,2006,Somerset,57
+CarEnteringRoundabout,2.00652E+12,2006,South Gloucestershire,40
+CarEnteringRoundabout,2.00652E+12,2006,North Somerset,45
+CarEnteringRoundabout,2.00652E+12,2006,Somerset,37
+CarEnteringRoundabout,2.00652E+12,2006,North Somerset,19
+CarEnteringRoundabout,2.00653E+12,2006,Gloucestershire,26
+CarEnteringRoundabout,2.00653E+12,2006,Gloucestershire,24
+CarEnteringRoundabout,200654AD25506,2006,Wiltshire,78
+CarEnteringRoundabout,200654AM30706,2006,Wiltshire,42
+CarEnteringRoundabout,200654CM02506,2006,Wiltshire,15
+CarEnteringRoundabout,200654CR60906,2006,Wiltshire,54
+CarEnteringRoundabout,200654CT53906,2006,Wiltshire,33
+CarEnteringRoundabout,200654CY63806,2006,Wiltshire,52
+CarEnteringRoundabout,200654DC10706,2006,Swindon,46
+CarEnteringRoundabout,200654DC21906,2006,Swindon,54
+CarEnteringRoundabout,200654DN37506,2006,Swindon,60
+CarEnteringRoundabout,200654DN39906,2006,Swindon,21
+CarEnteringRoundabout,200654DN49306,2006,Swindon,26
+CarEnteringRoundabout,200654DN50006,2006,Swindon,46
+CarEnteringRoundabout,200654DN58006,2006,Swindon,35
+CarEnteringRoundabout,200654DW07906,2006,Swindon,39
+CarEnteringRoundabout,200654DW23206,2006,Swindon,26
+CarEnteringRoundabout,2006556E02208,2006,Dorset,31
+CarEnteringRoundabout,2006556E05044,2006,Dorset,50
+CarEnteringRoundabout,2006556P00569,2006,Poole,41
+CarEnteringRoundabout,2006556P02582,2006,Poole,23
+CarEnteringRoundabout,2006556P03344,2006,Poole,26
+CarEnteringRoundabout,2006556P04717,2006,Poole,16
+CarEnteringRoundabout,2006556W04419,2006,Dorset,17
+CarEnteringRoundabout,200701GD67748,2007,London,
+CarEnteringRoundabout,200701RG65164,2007,London,38
+CarEnteringRoundabout,200701TW60369,2007,London,32
+CarEnteringRoundabout,200701TX20166,2007,London,23
+CarEnteringRoundabout,200701ZT62636,2007,London,
+CarEnteringRoundabout,200704AN07146,2007,Blackpool,43
+CarEnteringRoundabout,200704AX07009,2007,Blackpool,32
+CarEnteringRoundabout,200704BA07059,2007,Lancashire,39
+CarEnteringRoundabout,200704CJ07048,2007,Lancashire,47
+CarEnteringRoundabout,200704CL07053,2007,Lancashire,42
+CarEnteringRoundabout,200704CM07023,2007,Lancashire,41
+CarEnteringRoundabout,200704CM07024,2007,Lancashire,40
+CarEnteringRoundabout,200704CM07211,2007,Lancashire,46
+CarEnteringRoundabout,200704DF07086,2007,Lancashire,42
+CarEnteringRoundabout,200704DL07033,2007,Lancashire,63
+CarEnteringRoundabout,200704DL07166,2007,Lancashire,53
+CarEnteringRoundabout,200705AA18501,2007,Merseyside,62
+CarEnteringRoundabout,200705AA20374,2007,Merseyside,32
+CarEnteringRoundabout,200705AA21043,2007,Merseyside,30
+CarEnteringRoundabout,200705AA21322,2007,Merseyside,50
+CarEnteringRoundabout,200705BB14319,2007,Merseyside,29
+CarEnteringRoundabout,200705CC18420,2007,Merseyside,24
+CarEnteringRoundabout,200705DD22136,2007,Merseyside,33
+CarEnteringRoundabout,200705FF15273,2007,Merseyside,25
+CarEnteringRoundabout,200706F065483,2007,Salford,47
+CarEnteringRoundabout,200706G070857,2007,Tameside,59
+CarEnteringRoundabout,200706G074115,2007,Tameside,18
+CarEnteringRoundabout,200706J084091,2007,Stockport,35
+CarEnteringRoundabout,200706K071970,2007,Bolton,68
+CarEnteringRoundabout,200706L064836,2007,Wigan,49
+CarEnteringRoundabout,200706Q069040,2007,Oldham,38
+CarEnteringRoundabout,200706Q083106,2007,Oldham,75
+CarEnteringRoundabout,2.00707E+12,2007,Cheshire West and Chester,47
+CarEnteringRoundabout,2.00707E+12,2007,Warrington,23
+CarEnteringRoundabout,2.00707E+12,2007,Cheshire West and Chester,87
+CarEnteringRoundabout,2.00707E+12,2007,Cheshire East,36
+CarEnteringRoundabout,2.00707E+12,2007,Warrington,20
+CarEnteringRoundabout,2.00707E+12,2007,Warrington,24
+CarEnteringRoundabout,2.00707E+12,2007,Cheshire West and Chester,59
+CarEnteringRoundabout,2.00707E+12,2007,Cheshire East,53
+CarEnteringRoundabout,2.00707E+12,2007,Warrington,35
+CarEnteringRoundabout,2.00707E+12,2007,Warrington,39
+CarEnteringRoundabout,2.00707E+12,2007,Warrington,28
+CarEnteringRoundabout,2.00707E+12,2007,Warrington,47
+CarEnteringRoundabout,2.00707E+12,2007,Cheshire West and Chester,51
+CarEnteringRoundabout,2.00707E+12,2007,Warrington,34
+CarEnteringRoundabout,2.00707E+12,2007,Cheshire East,61
+CarEnteringRoundabout,2.00707E+12,2007,Warrington,29
+CarEnteringRoundabout,2.0071E+12,2007,South Tyneside,79
+CarEnteringRoundabout,2.0071E+12,2007,Northumberland,55
+CarEnteringRoundabout,2.0071E+12,2007,Northumberland,38
+CarEnteringRoundabout,2.0071E+12,2007,South Tyneside,66
+CarEnteringRoundabout,2.0071E+12,2007,South Tyneside,44
+CarEnteringRoundabout,2.0071E+12,2007,South Tyneside,30
+CarEnteringRoundabout,2.0071E+12,2007,Gateshead,43
+CarEnteringRoundabout,2.0071E+12,2007,North Tyneside,37
+CarEnteringRoundabout,200711DJ05300,2007,Darlington,49
+CarEnteringRoundabout,200711DJ13820,2007,Darlington,31
+CarEnteringRoundabout,2.00712E+12,2007,North Yorkshire,33
+CarEnteringRoundabout,2.00712E+12,2007,York,35
+CarEnteringRoundabout,2.00712E+12,2007,York,42
+CarEnteringRoundabout,2.00712E+12,2007,York,37
+CarEnteringRoundabout,2.00712E+12,2007,North Yorkshire,78
+CarEnteringRoundabout,2.00713E+12,2007,Leeds,57
+CarEnteringRoundabout,2.00713E+12,2007,Leeds,73
+CarEnteringRoundabout,2.00713E+12,2007,Leeds,61
+CarEnteringRoundabout,2.00713E+12,2007,Leeds,57
+CarEnteringRoundabout,200714A275007,2007,Doncaster,33
+CarEnteringRoundabout,200714B079207,2007,Barnsley,45
+CarEnteringRoundabout,200714C014907,2007,Rotherham,56
+CarEnteringRoundabout,200714H141907,2007,Sheffield,61
+CarEnteringRoundabout,2007160A02140,2007,North East Lincolnshire,28
+CarEnteringRoundabout,2007160D02360,2007,Kingston Upon Hull,64
+CarEnteringRoundabout,2007160D02410,2007,Kingston Upon Hull,55
+CarEnteringRoundabout,2007160D05950,2007,Kingston Upon Hull,25
+CarEnteringRoundabout,2007160D06120,2007,Kingston Upon Hull,43
+CarEnteringRoundabout,2007160D06130,2007,Kingston Upon Hull,40
+CarEnteringRoundabout,2007170H10287,2007,Hartlepool,40
+CarEnteringRoundabout,2007170H11157,2007,Hartlepool,61
+CarEnteringRoundabout,2007170L22477,2007,Redcar and Cleveland,46
+CarEnteringRoundabout,2007170M12777,2007,Middlesbrough,17
+CarEnteringRoundabout,2007170M13037,2007,Middlesbrough,55
+CarEnteringRoundabout,2007170S11787,2007,Stockton on Tees,34
+CarEnteringRoundabout,2007170S20177,2007,Stockton on Tees,29
+CarEnteringRoundabout,200720D095601,2007,Birmingham,41
+CarEnteringRoundabout,200720D104602,2007,Birmingham,10
+CarEnteringRoundabout,200720D115402,2007,Birmingham,
+CarEnteringRoundabout,200720D169402,2007,Birmingham,38
+CarEnteringRoundabout,200720D184502,2007,Birmingham,45
+CarEnteringRoundabout,200720D509801,2007,Birmingham,28
+CarEnteringRoundabout,200720E049502,2007,Birmingham,50
+CarEnteringRoundabout,200720E118403,2007,Birmingham,25
+CarEnteringRoundabout,200720E142902,2007,Birmingham,28
+CarEnteringRoundabout,200720E156602,2007,Birmingham,28
+CarEnteringRoundabout,200720F108401,2007,Birmingham,57
+CarEnteringRoundabout,200720F170301,2007,Birmingham,53
+CarEnteringRoundabout,200720F247202,2007,Birmingham,25
+CarEnteringRoundabout,200720F251303,2007,Birmingham,41
+CarEnteringRoundabout,200720G029602,2007,Wolverhampton,25
+CarEnteringRoundabout,200720H017201,2007,Walsall,27
+CarEnteringRoundabout,200720H017502,2007,Walsall,47
+CarEnteringRoundabout,200720J026002,2007,Dudley,24
+CarEnteringRoundabout,200720J072302,2007,Dudley,17
+CarEnteringRoundabout,200720J077601,2007,Dudley,31
+CarEnteringRoundabout,200720J101301,2007,Dudley,46
+CarEnteringRoundabout,200720K067501,2007,Sandwell,38
+CarEnteringRoundabout,200720L069201,2007,Solihull,49
+CarEnteringRoundabout,200720M022902,2007,Coventry,70
+CarEnteringRoundabout,200720M025902,2007,Coventry,31
+CarEnteringRoundabout,200720M050702,2007,Coventry,23
+CarEnteringRoundabout,200720M054503,2007,Coventry,28
+CarEnteringRoundabout,200720M063502,2007,Coventry,30
+CarEnteringRoundabout,200720M076202,2007,Coventry,26
+CarEnteringRoundabout,2.00722E+12,2007,Staffordshire,23
+CarEnteringRoundabout,2.00722E+12,2007,Staffordshire,44
+CarEnteringRoundabout,2.00722E+12,2007,Staffordshire,36
+CarEnteringRoundabout,2.00722E+12,2007,Staffordshire,29
+CarEnteringRoundabout,2.00722E+12,2007,Staffordshire,53
+CarEnteringRoundabout,2.00722E+12,2007,Staffordshire,57
+CarEnteringRoundabout,2.00722E+12,2007,Stoke on Trent,46
+CarEnteringRoundabout,2.00722E+12,2007,Staffordshire,77
+CarEnteringRoundabout,2.00722E+12,2007,Stoke on Trent,18
+CarEnteringRoundabout,2.00722E+12,2007,Staffordshire,16
+CarEnteringRoundabout,200722DA86398,2007,Worcestershire,34
+CarEnteringRoundabout,200722EA86044,2007,Herefordshire,17
+CarEnteringRoundabout,200722FA85990,2007,Shropshire,44
+CarEnteringRoundabout,200722FA86016,2007,Shropshire,38
+CarEnteringRoundabout,200722FA86429,2007,Shropshire,57
+CarEnteringRoundabout,200722FA87133,2007,Shropshire,25
+CarEnteringRoundabout,200722FA87147,2007,Shropshire,39
+CarEnteringRoundabout,200722GA85179,2007,Telford and Wrekin,23
+CarEnteringRoundabout,200722GA85947,2007,Telford and Wrekin,21
+CarEnteringRoundabout,2.00723E+12,2007,Warwickshire,21
+CarEnteringRoundabout,2.00723E+12,2007,Warwickshire,35
+CarEnteringRoundabout,2.00723E+12,2007,Warwickshire,60
+CarEnteringRoundabout,2.00723E+12,2007,Warwickshire,21
+CarEnteringRoundabout,200730C000323,2007,Derbyshire,35
+CarEnteringRoundabout,200730C000609,2007,Derbyshire,46
+CarEnteringRoundabout,200730D000145,2007,Derby,41
+CarEnteringRoundabout,200730D000180,2007,Derby,66
+CarEnteringRoundabout,200730D000399,2007,Derby,40
+CarEnteringRoundabout,200730D000454,2007,Derby,42
+CarEnteringRoundabout,200730D000575,2007,Derby,45
+CarEnteringRoundabout,200730D000802,2007,Derby,49
+CarEnteringRoundabout,200730D000818,2007,Derby,26
+CarEnteringRoundabout,20073102B0499,2007,Nottinghamshire,36
+CarEnteringRoundabout,20073102B3308,2007,Nottinghamshire,60
+CarEnteringRoundabout,20073102C3086,2007,Nottingham,52
+CarEnteringRoundabout,20073102C3986,2007,Nottingham,
+CarEnteringRoundabout,20073102C4012,2007,Nottingham,
+CarEnteringRoundabout,20073102D3148,2007,Nottinghamshire,
+CarEnteringRoundabout,200732B370607,2007,Lincolnshire,21
+CarEnteringRoundabout,200732D366607,2007,Lincolnshire,45
+CarEnteringRoundabout,2.00733E+12,2007,Leicestershire,64
+CarEnteringRoundabout,2.00733E+12,2007,Leicestershire,58
+CarEnteringRoundabout,2.00733E+12,2007,Leicestershire,
+CarEnteringRoundabout,2.00733E+12,2007,Leicestershire,34
+CarEnteringRoundabout,2.00733E+12,2007,Leicestershire,43
+CarEnteringRoundabout,2.00733E+12,2007,Leicestershire,34
+CarEnteringRoundabout,200734NC51237,2007,Northamptonshire,61
+CarEnteringRoundabout,200734WD48347,2007,Northamptonshire,45
+CarEnteringRoundabout,200734WD53087,2007,Northamptonshire,41
+CarEnteringRoundabout,200734WN23747,2007,Northamptonshire,70
+CarEnteringRoundabout,2.00735E+12,2007,Peterborough,21
+CarEnteringRoundabout,2.00735E+12,2007,Cambridgeshire,54
+CarEnteringRoundabout,2.00735E+12,2007,Cambridgeshire,41
+CarEnteringRoundabout,2.00735E+12,2007,Cambridgeshire,48
+CarEnteringRoundabout,2.00735E+12,2007,Cambridgeshire,14
+CarEnteringRoundabout,2.00735E+12,2007,Cambridgeshire,55
+CarEnteringRoundabout,2.00736E+12,2007,Norfolk,9
+CarEnteringRoundabout,2.00736E+12,2007,Norfolk,68
+CarEnteringRoundabout,2.00736E+12,2007,Norfolk,41
+CarEnteringRoundabout,2.00736E+12,2007,Norfolk,33
+CarEnteringRoundabout,200737B027063,2007,Suffolk,55
+CarEnteringRoundabout,200737B028575,2007,Suffolk,44
+CarEnteringRoundabout,200737G022260,2007,Suffolk,24
+CarEnteringRoundabout,200737G022403,2007,Suffolk,
+CarEnteringRoundabout,2007400B00325,2007,Bedford Borough Council,28
+CarEnteringRoundabout,2007400B03601,2007,Bedford Borough Council,30
+CarEnteringRoundabout,2007400C00323,2007,Luton,49
+CarEnteringRoundabout,2007400C00441,2007,Luton,48
+CarEnteringRoundabout,2007400C02232,2007,Luton,24
+CarEnteringRoundabout,2007400C02248,2007,Luton,37
+CarEnteringRoundabout,2007400D00903,2007,Central Bedfordshire,12
+CarEnteringRoundabout,20074100B0030,2007,Hertfordshire,31
+CarEnteringRoundabout,20074100B0316,2007,Hertfordshire,25
+CarEnteringRoundabout,20074100B0336,2007,Hertfordshire,18
+CarEnteringRoundabout,20074100B0405,2007,Hertfordshire,30
+CarEnteringRoundabout,20074100B0441,2007,Hertfordshire,27
+CarEnteringRoundabout,20074100B0861,2007,Hertfordshire,17
+CarEnteringRoundabout,20074100D0221,2007,Hertfordshire,19
+CarEnteringRoundabout,20074100D0370,2007,Hertfordshire,38
+CarEnteringRoundabout,20074100D0962,2007,Hertfordshire,60
+CarEnteringRoundabout,20074100F4098,2007,Hertfordshire,15
+CarEnteringRoundabout,20074100G0074,2007,Hertfordshire,36
+CarEnteringRoundabout,20074100G0190,2007,Hertfordshire,41
+CarEnteringRoundabout,20074100G0611,2007,Hertfordshire,49
+CarEnteringRoundabout,20074100J2081,2007,Hertfordshire,71
+CarEnteringRoundabout,20074100J2438,2007,Hertfordshire,12
+CarEnteringRoundabout,20074100J2688,2007,Hertfordshire,26
+CarEnteringRoundabout,200742I012801,2007,Essex,31
+CarEnteringRoundabout,200742I049302,2007,Southend on Sea,37
+CarEnteringRoundabout,200742I162004,2007,Essex,46
+CarEnteringRoundabout,200742I283207,2007,Essex,52
+CarEnteringRoundabout,200742I350008,2007,Essex,30
+CarEnteringRoundabout,200742I364308,2007,Thurrock,30
+CarEnteringRoundabout,200742I370209,2007,Essex,71
+CarEnteringRoundabout,200742I378109,2007,Essex,49
+CarEnteringRoundabout,200742I420910,2007,Essex,47
+CarEnteringRoundabout,200742I455111,2007,Thurrock,27
+CarEnteringRoundabout,200742I460811,2007,Essex,25
+CarEnteringRoundabout,200742I463411,2007,Essex,31
+CarEnteringRoundabout,200743N016127,2007,Buckinghamshire,42
+CarEnteringRoundabout,200743N177067,2007,Buckinghamshire,40
+CarEnteringRoundabout,200743N267077,2007,Buckinghamshire,66
+CarEnteringRoundabout,200743P051097,2007,Oxfordshire,37
+CarEnteringRoundabout,200743P081077,2007,Oxfordshire,69
+CarEnteringRoundabout,200743P221087,2007,Oxfordshire,27
+CarEnteringRoundabout,200743R034127,2007,Wokingham,58
+CarEnteringRoundabout,200743R183057,2007,Windsor and Maidenhead,34
+CarEnteringRoundabout,200743R207097,2007,Bracknell Forest,25
+CarEnteringRoundabout,200743R223127,2007,Wokingham,57
+CarEnteringRoundabout,200743R230127,2007,Windsor and Maidenhead,50
+CarEnteringRoundabout,200743R264017,2007,Windsor and Maidenhead,44
+CarEnteringRoundabout,200743R305107,2007,Bracknell Forest,57
+CarEnteringRoundabout,200743S045057,2007,Milton Keynes,21
+CarEnteringRoundabout,200743S104127,2007,Milton Keynes,44
+CarEnteringRoundabout,200743W043087,2007,Reading,36
+CarEnteringRoundabout,200743W209097,2007,West Berkshire,50
+CarEnteringRoundabout,200743W225077,2007,Reading,26
+CarEnteringRoundabout,200743W231117,2007,West Berkshire,18
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,45
+CarEnteringRoundabout,2.00744E+12,2007,Isle of Wight,33
+CarEnteringRoundabout,2.00744E+12,2007,Portsmouth,27
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,56
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,18
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,24
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,24
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,45
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,28
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,47
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,15
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,25
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,40
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,26
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,37
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,26
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,37
+CarEnteringRoundabout,2.00744E+12,2007,Portsmouth,24
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,52
+CarEnteringRoundabout,2.00744E+12,2007,Portsmouth,26
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,33
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,45
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,37
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,42
+CarEnteringRoundabout,2.00744E+12,2007,Portsmouth,46
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,63
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,31
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,28
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,37
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,42
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,40
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,28
+CarEnteringRoundabout,2.00744E+12,2007,Portsmouth,36
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,38
+CarEnteringRoundabout,2.00744E+12,2007,Southampton ,22
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,17
+CarEnteringRoundabout,2.00744E+12,2007,Southampton ,33
+CarEnteringRoundabout,2.00744E+12,2007,Hampshire,51
+CarEnteringRoundabout,200745MO13224,2007,Surrey,48
+CarEnteringRoundabout,200745RE02984,2007,Surrey,49
+CarEnteringRoundabout,200745SP01498,2007,Surrey,44
+CarEnteringRoundabout,200745SU03814,2007,Surrey,14
+CarEnteringRoundabout,200745SU15870,2007,Surrey,46
+CarEnteringRoundabout,200745TA09682,2007,Surrey,35
+CarEnteringRoundabout,200745WA04575,2007,Surrey,47
+CarEnteringRoundabout,200745WA14691,2007,Surrey,47
+CarEnteringRoundabout,2.00746E+12,2007,Kent,49
+CarEnteringRoundabout,2.00746E+12,2007,Kent,32
+CarEnteringRoundabout,2.00746E+12,2007,Kent,18
+CarEnteringRoundabout,2.00746E+12,2007,Kent,24
+CarEnteringRoundabout,2.00746E+12,2007,Kent,54
+CarEnteringRoundabout,2.00746E+12,2007,Kent,48
+CarEnteringRoundabout,2.00747E+12,2007,West Sussex,45
+CarEnteringRoundabout,2.00747E+12,2007,West Sussex,45
+CarEnteringRoundabout,2.00747E+12,2007,West Sussex,46
+CarEnteringRoundabout,2.00747E+12,2007,East Sussex,38
+CarEnteringRoundabout,2.00747E+12,2007,West Sussex,63
+CarEnteringRoundabout,2.00747E+12,2007,West Sussex,14
+CarEnteringRoundabout,2.00747E+12,2007,West Sussex,23
+CarEnteringRoundabout,2.00747E+12,2007,West Sussex,35
+CarEnteringRoundabout,2.00747E+12,2007,East Sussex,21
+CarEnteringRoundabout,2.00747E+12,2007,West Sussex,64
+CarEnteringRoundabout,2.00747E+12,2007,West Sussex,55
+CarEnteringRoundabout,200750A22L808,2007,Cornwall and Isles of Scilly,
+CarEnteringRoundabout,200750A61N471,2007,Cornwall and Isles of Scilly,20
+CarEnteringRoundabout,200750E31N148,2007,Plymouth,28
+CarEnteringRoundabout,200750E41L190,2007,Plymouth,44
+CarEnteringRoundabout,200750F41M768,2007,Devon,42
+CarEnteringRoundabout,2.00752E+12,2007,City of Bristol,39
+CarEnteringRoundabout,2.00752E+12,2007,City of Bristol,18
+CarEnteringRoundabout,2.00752E+12,2007,South Gloucestershire,43
+CarEnteringRoundabout,2.00752E+12,2007,South Gloucestershire,19
+CarEnteringRoundabout,2.00752E+12,2007,Somerset,28
+CarEnteringRoundabout,2.00752E+12,2007,City of Bristol,37
+CarEnteringRoundabout,2.00752E+12,2007,City of Bristol,40
+CarEnteringRoundabout,2.00752E+12,2007,City of Bristol,40
+CarEnteringRoundabout,2.00752E+12,2007,City of Bristol,27
+CarEnteringRoundabout,2.00752E+12,2007,Somerset,39
+CarEnteringRoundabout,2.00752E+12,2007,South Gloucestershire,29
+CarEnteringRoundabout,2.00752E+12,2007,Somerset,55
+CarEnteringRoundabout,2.00752E+12,2007,South Gloucestershire,26
+CarEnteringRoundabout,2.00752E+12,2007,South Gloucestershire,43
+CarEnteringRoundabout,2.00753E+12,2007,Gloucestershire,17
+CarEnteringRoundabout,2.00753E+12,2007,Gloucestershire,19
+CarEnteringRoundabout,200754DC04907,2007,Swindon,42
+CarEnteringRoundabout,200754DE36607,2007,Swindon,17
+CarEnteringRoundabout,200754DN27907,2007,Swindon,40
+CarEnteringRoundabout,200754DN46507,2007,Swindon,43
+CarEnteringRoundabout,200754DN52207,2007,Swindon,35
+CarEnteringRoundabout,200754EM37907,2007,Wiltshire,44
+CarEnteringRoundabout,200754EZ41207,2007,Wiltshire,60
+CarEnteringRoundabout,2007557B02100,2007,Bournemouth,28
+CarEnteringRoundabout,2007557B05629,2007,Bournemouth,49
+CarEnteringRoundabout,2.01E+138,2007,Dorset,36
+CarEnteringRoundabout,2007557P00350,2007,Poole,24
+CarEnteringRoundabout,2007557P00414,2007,Poole,25
+CarEnteringRoundabout,2007557P00900,2007,Poole,30
+CarEnteringRoundabout,2007557P04818,2007,Poole,28
+CarEnteringRoundabout,2007557P05306,2007,Dorset,33
+CarEnteringRoundabout,2007557W04821,2007,Dorset,38
+CarEnteringRoundabout,2007558E00421,2007,Dorset,46
+CarEnteringRoundabout,200801CW10654,2008,London,45
+CarEnteringRoundabout,200801HT69298,2008,London,36
+CarEnteringRoundabout,200801JC74337,2008,London,23
+CarEnteringRoundabout,200801JI73521,2008,London,44
+CarEnteringRoundabout,200804AN08129,2008,Blackpool,51
+CarEnteringRoundabout,200804CC08023,2008,Lancashire,30
+CarEnteringRoundabout,200804CC08097,2008,Lancashire,33
+CarEnteringRoundabout,200804CJ08101,2008,Lancashire,36
+CarEnteringRoundabout,200804CM08223,2008,Lancashire,39
+CarEnteringRoundabout,200804DA08097,2008,Lancashire,54
+CarEnteringRoundabout,200804DF08262,2008,Lancashire,42
+CarEnteringRoundabout,200804FA08102,2008,Lancashire,19
+CarEnteringRoundabout,200805AA26505,2008,Merseyside,60
+CarEnteringRoundabout,200805AA28087,2008,Merseyside,57
+CarEnteringRoundabout,200805BB23665,2008,Merseyside,81
+CarEnteringRoundabout,200805CC27711,2008,Merseyside,66
+CarEnteringRoundabout,200806C088032,2008,Manchester,33
+CarEnteringRoundabout,200806F089969,2008,Salford,32
+CarEnteringRoundabout,200806F096541,2008,Salford,45
+CarEnteringRoundabout,200806K001202,2008,Bolton,43
+CarEnteringRoundabout,200806M007309,2008,Trafford,34
+CarEnteringRoundabout,200806P094284,2008,Rochdale,16
+CarEnteringRoundabout,200806Q094304,2008,Oldham,42
+CarEnteringRoundabout,2.00807E+12,2008,Halton,43
+CarEnteringRoundabout,2.00807E+12,2008,Cheshire West and Chester,50
+CarEnteringRoundabout,2.00807E+12,2008,Warrington,64
+CarEnteringRoundabout,2.00807E+12,2008,Cheshire West and Chester,31
+CarEnteringRoundabout,2.00807E+12,2008,Warrington,30
+CarEnteringRoundabout,2.00807E+12,2008,Cheshire West and Chester,14
+CarEnteringRoundabout,2.00807E+12,2008,Warrington,40
+CarEnteringRoundabout,2.0081E+12,2008,North Tyneside,36
+CarEnteringRoundabout,2.0081E+12,2008,Gateshead,35
+CarEnteringRoundabout,2.0081E+12,2008,South Tyneside,64
+CarEnteringRoundabout,2.0081E+12,2008,Newcastle upon Tyne,51
+CarEnteringRoundabout,2.0081E+12,2008,North Tyneside,53
+CarEnteringRoundabout,2.0081E+12,2008,South Tyneside,28
+CarEnteringRoundabout,2.0081E+12,2008,Newcastle upon Tyne,21
+CarEnteringRoundabout,2.0081E+12,2008,Newcastle upon Tyne,45
+CarEnteringRoundabout,2.0081E+12,2008,Newcastle upon Tyne,42
+CarEnteringRoundabout,2.0081E+12,2008,Gateshead,42
+CarEnteringRoundabout,2.0081E+12,2008,South Tyneside,54
+CarEnteringRoundabout,2.0081E+12,2008,Newcastle upon Tyne,46
+CarEnteringRoundabout,2.0081E+12,2008,Newcastle upon Tyne,32
+CarEnteringRoundabout,200811ND29398,2008,Durham,52
+CarEnteringRoundabout,200811SJ07838,2008,Darlington,44
+CarEnteringRoundabout,200811SJ30528,2008,Darlington,26
+CarEnteringRoundabout,2.00812E+12,2008,North Yorkshire,43
+CarEnteringRoundabout,2.00812E+12,2008,North Yorkshire,35
+CarEnteringRoundabout,2.00812E+12,2008,North Yorkshire,23
+CarEnteringRoundabout,2.00812E+12,2008,York,37
+CarEnteringRoundabout,2.00812E+12,2008,York,46
+CarEnteringRoundabout,2.00812E+12,2008,North Yorkshire,55
+CarEnteringRoundabout,2.00812E+12,2008,York,41
+CarEnteringRoundabout,2.00812E+12,2008,York,44
+CarEnteringRoundabout,2.00812E+12,2008,York,38
+CarEnteringRoundabout,2.00812E+12,2008,North Yorkshire,21
+CarEnteringRoundabout,2.00812E+12,2008,North Yorkshire,30
+CarEnteringRoundabout,2.00813E+12,2008,Leeds,30
+CarEnteringRoundabout,2.00813E+12,2008,Kirklees,22
+CarEnteringRoundabout,2.00813E+12,2008,Leeds,47
+CarEnteringRoundabout,2.00813E+12,2008,Leeds,56
+CarEnteringRoundabout,2.00813E+12,2008,Leeds,72
+CarEnteringRoundabout,200814A140908,2008,Doncaster,31
+CarEnteringRoundabout,200814C104108,2008,Rotherham,30
+CarEnteringRoundabout,2008160A00310,2008,North East Lincolnshire,31
+CarEnteringRoundabout,2008160A01890,2008,North East Lincolnshire,54
+CarEnteringRoundabout,2008160A05110,2008,North East Lincolnshire,16
+CarEnteringRoundabout,2008160B02040,2008,North Lincolnshire,59
+CarEnteringRoundabout,2008160C06830,2008,East Riding of Yorkshire,60
+CarEnteringRoundabout,2008160D00390,2008,Kingston Upon Hull,29
+CarEnteringRoundabout,2008160D01500,2008,Kingston Upon Hull,55
+CarEnteringRoundabout,2008160D04940,2008,Kingston Upon Hull,41
+CarEnteringRoundabout,2008160D05230,2008,Kingston Upon Hull,18
+CarEnteringRoundabout,2008160D06620,2008,Kingston Upon Hull,25
+CarEnteringRoundabout,2008160D07660,2008,Kingston Upon Hull,40
+CarEnteringRoundabout,2008170H10598,2008,Hartlepool,49
+CarEnteringRoundabout,2008170S13278,2008,Stockton on Tees,55
+CarEnteringRoundabout,2008170S21308,2008,Stockton on Tees,37
+CarEnteringRoundabout,2008170S23528,2008,Stockton on Tees,31
+CarEnteringRoundabout,200820D024003,2008,Birmingham,39
+CarEnteringRoundabout,200820D144601,2008,Birmingham,25
+CarEnteringRoundabout,200820D191001,2008,Birmingham,14
+CarEnteringRoundabout,200820D208401,2008,Birmingham,20
+CarEnteringRoundabout,200820D208501,2008,Birmingham,51
+CarEnteringRoundabout,200820D224901,2008,Birmingham,23
+CarEnteringRoundabout,200820E067203,2008,Birmingham,
+CarEnteringRoundabout,200820F023101,2008,Birmingham,45
+CarEnteringRoundabout,200820F213601,2008,Birmingham,
+CarEnteringRoundabout,200820F218001,2008,Birmingham,48
+CarEnteringRoundabout,200820G067902,2008,Wolverhampton,60
+CarEnteringRoundabout,200820G500102,2008,Wolverhampton,30
+CarEnteringRoundabout,200820H066202,2008,Walsall,18
+CarEnteringRoundabout,200820J081901,2008,Dudley,49
+CarEnteringRoundabout,200820K091902,2008,Sandwell,27
+CarEnteringRoundabout,200820L123201,2008,Solihull,51
+CarEnteringRoundabout,200820M009901,2008,Coventry,51
+CarEnteringRoundabout,200820M029902,2008,Coventry,20
+CarEnteringRoundabout,200820M035001,2008,Coventry,28
+CarEnteringRoundabout,200820M038602,2008,Coventry,31
+CarEnteringRoundabout,2.00822E+12,2008,Staffordshire,55
+CarEnteringRoundabout,2.00822E+12,2008,Staffordshire,38
+CarEnteringRoundabout,2.00822E+12,2008,Staffordshire,13
+CarEnteringRoundabout,2.00822E+12,2008,Staffordshire,33
+CarEnteringRoundabout,2.00822E+12,2008,Staffordshire,
+CarEnteringRoundabout,2.00822E+12,2008,Stoke on Trent,53
+CarEnteringRoundabout,2.00822E+12,2008,Staffordshire,38
+CarEnteringRoundabout,200822CA00250,2008,Worcestershire,21
+CarEnteringRoundabout,200822CA87378,2008,Worcestershire,63
+CarEnteringRoundabout,200822CA87390,2008,Worcestershire,56
+CarEnteringRoundabout,200822CA87692,2008,Worcestershire,20
+CarEnteringRoundabout,200822CA87801,2008,Worcestershire,35
+CarEnteringRoundabout,200822DA87671,2008,Worcestershire,39
+CarEnteringRoundabout,200822EA88030,2008,Herefordshire,22
+CarEnteringRoundabout,200822FA88149,2008,Shropshire,21
+CarEnteringRoundabout,200822FA88963,2008,Shropshire,64
+CarEnteringRoundabout,200822GA00657,2008,Telford and Wrekin,61
+CarEnteringRoundabout,2.00823E+12,2008,Warwickshire,65
+CarEnteringRoundabout,2.00823E+12,2008,Warwickshire,18
+CarEnteringRoundabout,200830A000015,2008,Derbyshire,26
+CarEnteringRoundabout,200830A000083,2008,Derbyshire,71
+CarEnteringRoundabout,200830A000141,2008,Derbyshire,14
+CarEnteringRoundabout,200830A000611,2008,Derbyshire,
+CarEnteringRoundabout,200830C000025,2008,Derbyshire,
+CarEnteringRoundabout,200830C000390,2008,Derbyshire,32
+CarEnteringRoundabout,200830C000673,2008,Derbyshire,44
+CarEnteringRoundabout,200830C000775,2008,Derbyshire,45
+CarEnteringRoundabout,200830D000867,2008,Derby,56
+CarEnteringRoundabout,20083102C1189,2008,Nottingham,41
+CarEnteringRoundabout,20083102C1813,2008,Nottingham,37
+CarEnteringRoundabout,20083102C2121,2008,Nottingham,28
+CarEnteringRoundabout,20083102C2380,2008,Nottingham,52
+CarEnteringRoundabout,20083102C2581,2008,Nottingham,
+CarEnteringRoundabout,20083102C2637,2008,Nottingham,21
+CarEnteringRoundabout,20083102C3406,2008,Nottingham,
+CarEnteringRoundabout,20083102C3514,2008,Nottingham,26
+CarEnteringRoundabout,20083102D3049,2008,Nottinghamshire,38
+CarEnteringRoundabout,200832C070008,2008,Lincolnshire,70
+CarEnteringRoundabout,200832D235308,2008,Lincolnshire,59
+CarEnteringRoundabout,2.00833E+12,2008,Leicestershire,60
+CarEnteringRoundabout,2.00833E+12,2008,Leicestershire,44
+CarEnteringRoundabout,2.00833E+12,2008,Leicestershire,30
+CarEnteringRoundabout,2.00833E+12,2008,Leicestershire,32
+CarEnteringRoundabout,2.00833E+12,2008,Leicestershire,26
+CarEnteringRoundabout,2.00833E+12,2008,Leicestershire,41
+CarEnteringRoundabout,2.00833E+12,2008,Leicestershire,27
+CarEnteringRoundabout,2.00833E+12,2008,Leicestershire,33
+CarEnteringRoundabout,2.00833E+12,2008,Leicestershire,55
+CarEnteringRoundabout,2.00833E+12,2008,Leicestershire,39
+CarEnteringRoundabout,2.00833E+12,2008,Leicestershire,33
+CarEnteringRoundabout,2.00833E+12,2008,Leicestershire,36
+CarEnteringRoundabout,200834NE02178,2008,Northamptonshire,51
+CarEnteringRoundabout,200834NW20368,2008,Northamptonshire,22
+CarEnteringRoundabout,200834TE36928,2008,Northamptonshire,47
+CarEnteringRoundabout,200834WN07368,2008,Northamptonshire,49
+CarEnteringRoundabout,200834WN10248,2008,Northamptonshire,43
+CarEnteringRoundabout,200834WN52318,2008,Northamptonshire,23
+CarEnteringRoundabout,200834WN52338,2008,Northamptonshire,20
+CarEnteringRoundabout,2.00835E+12,2008,Cambridgeshire,25
+CarEnteringRoundabout,2.00835E+12,2008,Peterborough,28
+CarEnteringRoundabout,2.00835E+12,2008,Peterborough,38
+CarEnteringRoundabout,2.00835E+12,2008,Peterborough,33
+CarEnteringRoundabout,2.00835E+12,2008,Peterborough,50
+CarEnteringRoundabout,2.00835E+12,2008,Cambridgeshire,36
+CarEnteringRoundabout,2.00835E+12,2008,Cambridgeshire,26
+CarEnteringRoundabout,2.00835E+12,2008,Cambridgeshire,57
+CarEnteringRoundabout,2.00835E+12,2008,Cambridgeshire,36
+CarEnteringRoundabout,2.00835E+12,2008,Peterborough,43
+CarEnteringRoundabout,2.00835E+12,2008,Cambridgeshire,42
+CarEnteringRoundabout,2.00835E+12,2008,Peterborough,
+CarEnteringRoundabout,2.00835E+12,2008,Cambridgeshire,47
+CarEnteringRoundabout,2.00835E+12,2008,Cambridgeshire,21
+CarEnteringRoundabout,2.00835E+12,2008,Cambridgeshire,43
+CarEnteringRoundabout,2.00835E+12,2008,Cambridgeshire,48
+CarEnteringRoundabout,2.00835E+12,2008,Peterborough,41
+CarEnteringRoundabout,2.00835E+12,2008,Cambridgeshire,71
+CarEnteringRoundabout,2.00835E+12,2008,Cambridgeshire,23
+CarEnteringRoundabout,2.00836E+12,2008,Norfolk,26
+CarEnteringRoundabout,2.00836E+12,2008,Norfolk,40
+CarEnteringRoundabout,2.00836E+12,2008,Norfolk,56
+CarEnteringRoundabout,200837G024482,2008,Suffolk,44
+CarEnteringRoundabout,200837G024780,2008,Suffolk,41
+CarEnteringRoundabout,200837G025116,2008,Suffolk,42
+CarEnteringRoundabout,200837G025799,2008,Suffolk,37
+CarEnteringRoundabout,200837G026249,2008,Suffolk,62
+CarEnteringRoundabout,200837L016250,2008,Suffolk,53
+CarEnteringRoundabout,2008400B01439,2008,Bedford Borough Council,61
+CarEnteringRoundabout,2008400B02332,2008,Bedford Borough Council,22
+CarEnteringRoundabout,2008400B02675,2008,Central Bedfordshire,18
+CarEnteringRoundabout,2008400B03523,2008,Bedford Borough Council,17
+CarEnteringRoundabout,2008400C01474,2008,Luton,33
+CarEnteringRoundabout,2008400D01249,2008,Central Bedfordshire,15
+CarEnteringRoundabout,2008400D02580,2008,Central Bedfordshire,22
+CarEnteringRoundabout,20084100A0256,2008,Hertfordshire,68
+CarEnteringRoundabout,20084100B0234,2008,Hertfordshire,73
+CarEnteringRoundabout,20084100B0665,2008,Hertfordshire,23
+CarEnteringRoundabout,20084100C0018,2008,Hertfordshire,35
+CarEnteringRoundabout,20084100C1272,2008,Hertfordshire,41
+CarEnteringRoundabout,20084100D0412,2008,Hertfordshire,37
+CarEnteringRoundabout,20084100D0603,2008,Hertfordshire,36
+CarEnteringRoundabout,20084100D0809,2008,Hertfordshire,61
+CarEnteringRoundabout,20084100E0532,2008,Hertfordshire,63
+CarEnteringRoundabout,20084100F4317,2008,Hertfordshire,43
+CarEnteringRoundabout,20084100F4424,2008,Hertfordshire,34
+CarEnteringRoundabout,20084100F4842,2008,Hertfordshire,31
+CarEnteringRoundabout,20084100F4963,2008,Hertfordshire,15
+CarEnteringRoundabout,20084100G0264,2008,Hertfordshire,58
+CarEnteringRoundabout,20084100G0394,2008,Hertfordshire,27
+CarEnteringRoundabout,20084100G0655,2008,Hertfordshire,44
+CarEnteringRoundabout,20084100J2682,2008,Hertfordshire,25
+CarEnteringRoundabout,20084100K0094,2008,Hertfordshire,34
+CarEnteringRoundabout,20084100K0301,2008,Hertfordshire,27
+CarEnteringRoundabout,20084100K0502,2008,Hertfordshire,47
+CarEnteringRoundabout,200842I006601,2008,Essex,24
+CarEnteringRoundabout,200842I039902,2008,Essex,39
+CarEnteringRoundabout,200842I169405,2008,Essex,55
+CarEnteringRoundabout,200842I310008,2008,Essex,35
+CarEnteringRoundabout,200842I313309,2008,Southend on Sea,22
+CarEnteringRoundabout,200842I387011,2008,Southend on Sea,45
+CarEnteringRoundabout,200843N249048,2008,Buckinghamshire,
+CarEnteringRoundabout,200843P037118,2008,Oxfordshire,37
+CarEnteringRoundabout,200843P070068,2008,Oxfordshire,33
+CarEnteringRoundabout,200843P095088,2008,Oxfordshire,27
+CarEnteringRoundabout,200843P127128,2008,Oxfordshire,34
+CarEnteringRoundabout,200843P265068,2008,Oxfordshire,14
+CarEnteringRoundabout,200843P349068,2008,Oxfordshire,62
+CarEnteringRoundabout,200843R011028,2008,Windsor and Maidenhead,30
+CarEnteringRoundabout,200843R017058,2008,Windsor and Maidenhead,36
+CarEnteringRoundabout,200843R024108,2008,Windsor and Maidenhead,38
+CarEnteringRoundabout,200843R028068,2008,Windsor and Maidenhead,40
+CarEnteringRoundabout,200843R076118,2008,Bracknell Forest,51
+CarEnteringRoundabout,200843R104108,2008,Windsor and Maidenhead,27
+CarEnteringRoundabout,200843R247038,2008,Windsor and Maidenhead,44
+CarEnteringRoundabout,200843S006118,2008,Milton Keynes,23
+CarEnteringRoundabout,200843S040068,2008,Milton Keynes,38
+CarEnteringRoundabout,200843S134118,2008,Milton Keynes,
+CarEnteringRoundabout,200843W005108,2008,Wokingham,38
+CarEnteringRoundabout,200843W020108,2008,Wokingham,32
+CarEnteringRoundabout,200843W049118,2008,Reading,20
+CarEnteringRoundabout,200843W067038,2008,West Berkshire,23
+CarEnteringRoundabout,200843W084048,2008,Oxfordshire,39
+CarEnteringRoundabout,200843W140108,2008,Reading,46
+CarEnteringRoundabout,200843W157018,2008,Reading,22
+CarEnteringRoundabout,200843W177098,2008,Reading,41
+CarEnteringRoundabout,200843W183058,2008,Reading,25
+CarEnteringRoundabout,200843W283068,2008,Wokingham,57
+CarEnteringRoundabout,2.00844E+12,2008,Southampton ,23
+CarEnteringRoundabout,2.00844E+12,2008,Hampshire,48
+CarEnteringRoundabout,2.00844E+12,2008,Hampshire,47
+CarEnteringRoundabout,2.00844E+12,2008,Hampshire,51
+CarEnteringRoundabout,2.00844E+12,2008,Hampshire,40
+CarEnteringRoundabout,2.00844E+12,2008,Portsmouth,74
+CarEnteringRoundabout,2.00844E+12,2008,Hampshire,19
+CarEnteringRoundabout,2.00844E+12,2008,Hampshire,38
+CarEnteringRoundabout,2.00844E+12,2008,Hampshire,27
+CarEnteringRoundabout,2.00844E+12,2008,Hampshire,51
+CarEnteringRoundabout,2.00844E+12,2008,Hampshire,15
+CarEnteringRoundabout,2.00844E+12,2008,Hampshire,50
+CarEnteringRoundabout,2.00844E+12,2008,Hampshire,43
+CarEnteringRoundabout,2.00844E+12,2008,Portsmouth,46
+CarEnteringRoundabout,2.00844E+12,2008,Hampshire,38
+CarEnteringRoundabout,2.00844E+12,2008,Hampshire,35
+CarEnteringRoundabout,2.00844E+12,2008,Portsmouth,23
+CarEnteringRoundabout,2.00844E+12,2008,Portsmouth,17
+CarEnteringRoundabout,2.00844E+12,2008,Hampshire,30
+CarEnteringRoundabout,200845SP27838,2008,Surrey,60
+CarEnteringRoundabout,200845SU23419,2008,Surrey,17
+CarEnteringRoundabout,200845WO30872,2008,Surrey,35
+CarEnteringRoundabout,2.00846E+12,2008,Medway,53
+CarEnteringRoundabout,2.00846E+12,2008,Kent,28
+CarEnteringRoundabout,2.00847E+12,2008,Brighton and Hove,22
+CarEnteringRoundabout,2.00847E+12,2008,West Sussex,42
+CarEnteringRoundabout,2.00847E+12,2008,West Sussex,16
+CarEnteringRoundabout,2.00847E+12,2008,East Sussex,56
+CarEnteringRoundabout,2.00847E+12,2008,West Sussex,26
+CarEnteringRoundabout,2.00847E+12,2008,West Sussex,56
+CarEnteringRoundabout,2.00847E+12,2008,West Sussex,61
+CarEnteringRoundabout,2.00847E+12,2008,East Sussex,38
+CarEnteringRoundabout,2.00847E+12,2008,Brighton and Hove,22
+CarEnteringRoundabout,2.00847E+12,2008,Brighton and Hove,15
+CarEnteringRoundabout,200850CB2R013,2008,Devon,38
+CarEnteringRoundabout,200850E31A572,2008,Plymouth,27
+CarEnteringRoundabout,200850FT2I007,2008,Torbay,14
+CarEnteringRoundabout,2.00852E+12,2008,South Gloucestershire,35
+CarEnteringRoundabout,2.00852E+12,2008,South Gloucestershire,26
+CarEnteringRoundabout,2.00852E+12,2008,Somerset,30
+CarEnteringRoundabout,2.00852E+12,2008,South Gloucestershire,17
+CarEnteringRoundabout,2.00852E+12,2008,South Gloucestershire,23
+CarEnteringRoundabout,2.00852E+12,2008,South Gloucestershire,47
+CarEnteringRoundabout,2.00852E+12,2008,South Gloucestershire,37
+CarEnteringRoundabout,2.00852E+12,2008,South Gloucestershire,37
+CarEnteringRoundabout,2.00853E+12,2008,Gloucestershire,31
+CarEnteringRoundabout,2.00853E+12,2008,Gloucestershire,42
+CarEnteringRoundabout,2.00853E+12,2008,Gloucestershire,38
+CarEnteringRoundabout,2.00853E+12,2008,Gloucestershire,31
+CarEnteringRoundabout,200854DC12108,2008,Swindon,22
+CarEnteringRoundabout,200854DE31808,2008,Swindon,50
+CarEnteringRoundabout,200854DE48408,2008,Swindon,44
+CarEnteringRoundabout,200854DN45308,2008,Swindon,30
+CarEnteringRoundabout,200854DT02508,2008,Swindon,14
+CarEnteringRoundabout,200854DT29908,2008,Swindon,39
+CarEnteringRoundabout,200854ED43108,2008,Wiltshire,14
+CarEnteringRoundabout,200854EP31808,2008,Wiltshire,42
+CarEnteringRoundabout,2008558B00450,2008,Bournemouth,27
+CarEnteringRoundabout,2008558B01099,2008,Bournemouth,39
+CarEnteringRoundabout,2008558C02544,2008,Poole,15
+CarEnteringRoundabout,2008558C03125,2008,Bournemouth,51
+CarEnteringRoundabout,2008558C03256,2008,Bournemouth,87
+CarEnteringRoundabout,2008558C04284,2008,Bournemouth,52
+CarEnteringRoundabout,2008558C04319,2008,Bournemouth,27
+CarEnteringRoundabout,2008558C04573,2008,Poole,26
+CarEnteringRoundabout,2008558C04679,2008,Poole,47
+CarEnteringRoundabout,2008558C05019,2008,Poole,28
+CarEnteringRoundabout,2008558C05085,2008,Poole,27
+CarEnteringRoundabout,2008558C05401,2008,Bournemouth,33
+CarEnteringRoundabout,2008558C05561,2008,Bournemouth,19
+CarEnteringRoundabout,2008558D02207,2008,Dorset,74
+CarEnteringRoundabout,2008558D04128,2008,Dorset,76
+CarEnteringRoundabout,2008558D04198,2008,Dorset,36
+CarEnteringRoundabout,2008558D05317,2008,Dorset,51
+CarEnteringRoundabout,2008558D05444,2008,Dorset,36
+CarEnteringRoundabout,200901KD50405,2009,London,15
+CarEnteringRoundabout,200901VW40116,2009,London,37
+CarEnteringRoundabout,200901XH30427,2009,London,48
+CarEnteringRoundabout,200901YE80462,2009,London,31
+CarEnteringRoundabout,200904AL09216,2009,Lancashire,57
+CarEnteringRoundabout,200904AN09006,2009,Blackpool,25
+CarEnteringRoundabout,200904CM09011,2009,Lancashire,44
+CarEnteringRoundabout,200904CM09026,2009,Lancashire,35
+CarEnteringRoundabout,200904DA09015,2009,Lancashire,23
+CarEnteringRoundabout,200904FA09016,2009,Lancashire,13
+CarEnteringRoundabout,200904FL09002,2009,Lancashire,58
+CarEnteringRoundabout,200905AA30824,2009,Merseyside,58
+CarEnteringRoundabout,200905AA31659,2009,Merseyside,49
+CarEnteringRoundabout,200905AA31881,2009,Merseyside,34
+CarEnteringRoundabout,200905BB01392,2009,Merseyside,66
+CarEnteringRoundabout,200905BB02016,2009,Merseyside,39
+CarEnteringRoundabout,200905BB02162,2009,Merseyside,15
+CarEnteringRoundabout,200905BB02297,2009,Merseyside,33
+CarEnteringRoundabout,200905BB31884,2009,Merseyside,16
+CarEnteringRoundabout,200905CC01183,2009,Merseyside,41
+CarEnteringRoundabout,200905DD31756,2009,Merseyside,46
+CarEnteringRoundabout,200905EE02188,2009,Merseyside,33
+CarEnteringRoundabout,200906A025754,2009,Manchester,33
+CarEnteringRoundabout,200906B008724,2009,Manchester,33
+CarEnteringRoundabout,200906B009171,2009,Manchester,59
+CarEnteringRoundabout,200906B012718,2009,Manchester,32
+CarEnteringRoundabout,200906B021735,2009,Manchester,29
+CarEnteringRoundabout,200906C012680,2009,Manchester,38
+CarEnteringRoundabout,200906F011332,2009,Salford,36
+CarEnteringRoundabout,200906G023151,2009,Tameside,27
+CarEnteringRoundabout,200906J020051,2009,Stockport,43
+CarEnteringRoundabout,200906M014042,2009,Trafford,19
+CarEnteringRoundabout,200906M017728,2009,Trafford,30
+CarEnteringRoundabout,200906M024669,2009,Trafford,36
+CarEnteringRoundabout,2.00907E+12,2009,Cheshire West and Chester,43
+CarEnteringRoundabout,2.00907E+12,2009,Cheshire West and Chester,30
+CarEnteringRoundabout,2.00907E+12,2009,Cheshire West and Chester,49
+CarEnteringRoundabout,2.00907E+12,2009,Cheshire West and Chester,23
+CarEnteringRoundabout,2.00907E+12,2009,Cheshire West and Chester,49
+CarEnteringRoundabout,2.00907E+12,2009,Warrington,53
+CarEnteringRoundabout,2.00907E+12,2009,Halton,43
+CarEnteringRoundabout,2.00907E+12,2009,Cheshire East,16
+CarEnteringRoundabout,2.00907E+12,2009,Cheshire East,48
+CarEnteringRoundabout,2.00907E+12,2009,Cheshire West and Chester,56
+CarEnteringRoundabout,2.00907E+12,2009,Warrington,25
+CarEnteringRoundabout,2.0091E+12,2009,North Tyneside,23
+CarEnteringRoundabout,2.0091E+12,2009,Newcastle upon Tyne,
+CarEnteringRoundabout,2.0091E+12,2009,South Tyneside,26
+CarEnteringRoundabout,2.0091E+12,2009,Northumberland,49
+CarEnteringRoundabout,2.0091E+12,2009,South Tyneside,30
+CarEnteringRoundabout,2.0091E+12,2009,Newcastle upon Tyne,21
+CarEnteringRoundabout,2.0091E+12,2009,North Tyneside,23
+CarEnteringRoundabout,2.0091E+12,2009,South Tyneside,56
+CarEnteringRoundabout,2.0091E+12,2009,North Tyneside,57
+CarEnteringRoundabout,2.0091E+12,2009,North Tyneside,23
+CarEnteringRoundabout,2.0091E+12,2009,South Tyneside,14
+CarEnteringRoundabout,2.0091E+12,2009,South Tyneside,60
+CarEnteringRoundabout,2.0091E+12,2009,North Tyneside,46
+CarEnteringRoundabout,2.0091E+12,2009,North Tyneside,56
+CarEnteringRoundabout,2.0091E+12,2009,South Tyneside,55
+CarEnteringRoundabout,2.0091E+12,2009,North Tyneside,40
+CarEnteringRoundabout,2.0091E+12,2009,North Tyneside,38
+CarEnteringRoundabout,2.0091E+12,2009,North Tyneside,48
+CarEnteringRoundabout,2.0091E+12,2009,South Tyneside,48
+CarEnteringRoundabout,200911SJ00459,2009,Darlington,50
+CarEnteringRoundabout,200911SJ24949,2009,Darlington,30
+CarEnteringRoundabout,200911SJ30279,2009,Darlington,42
+CarEnteringRoundabout,2.00912E+12,2009,York,25
+CarEnteringRoundabout,2.00912E+12,2009,North Yorkshire,19
+CarEnteringRoundabout,2.00912E+12,2009,York,29
+CarEnteringRoundabout,2.00912E+12,2009,York,45
+CarEnteringRoundabout,2.00912E+12,2009,York,62
+CarEnteringRoundabout,2.00912E+12,2009,York,18
+CarEnteringRoundabout,2.00912E+12,2009,York,18
+CarEnteringRoundabout,2.00912E+12,2009,York,60
+CarEnteringRoundabout,2.00913E+12,2009,Bradford,74
+CarEnteringRoundabout,2.00913E+12,2009,Leeds,32
+CarEnteringRoundabout,2.00913E+12,2009,Leeds,23
+CarEnteringRoundabout,2.00913E+12,2009,Leeds,41
+CarEnteringRoundabout,2.00913E+12,2009,Leeds,39
+CarEnteringRoundabout,2.00913E+12,2009,Wakefield,49
+CarEnteringRoundabout,2.00913E+12,2009,Wakefield,53
+CarEnteringRoundabout,2.00913E+12,2009,Bradford,62
+CarEnteringRoundabout,2.00913E+12,2009,Bradford,53
+CarEnteringRoundabout,200914A008509,2009,Doncaster,36
+CarEnteringRoundabout,200914A172609,2009,Doncaster,30
+CarEnteringRoundabout,200914A182309,2009,Doncaster,30
+CarEnteringRoundabout,200914B136509,2009,Barnsley,41
+CarEnteringRoundabout,200914C029909,2009,Rotherham,37
+CarEnteringRoundabout,200914K357609,2009,Sheffield,31
+CarEnteringRoundabout,2009160A00910,2009,North East Lincolnshire,40
+CarEnteringRoundabout,2009160A01020,2009,North East Lincolnshire,44
+CarEnteringRoundabout,2009160A01650,2009,North East Lincolnshire,36
+CarEnteringRoundabout,2009160A03990,2009,North East Lincolnshire,33
+CarEnteringRoundabout,2009160A04980,2009,North East Lincolnshire,71
+CarEnteringRoundabout,2009160B01020,2009,North Lincolnshire,41
+CarEnteringRoundabout,2009160B04320,2009,North Lincolnshire,43
+CarEnteringRoundabout,2009160C01280,2009,East Riding of Yorkshire,36
+CarEnteringRoundabout,2009160C01470,2009,East Riding of Yorkshire,37
+CarEnteringRoundabout,2009160D00210,2009,Kingston Upon Hull,55
+CarEnteringRoundabout,2009160D00530,2009,Kingston Upon Hull,22
+CarEnteringRoundabout,2009160D00900,2009,Kingston Upon Hull,46
+CarEnteringRoundabout,2009160D02960,2009,Kingston Upon Hull,33
+CarEnteringRoundabout,2009160D06520,2009,Kingston Upon Hull,65
+CarEnteringRoundabout,2009160D06540,2009,Kingston Upon Hull,32
+CarEnteringRoundabout,2009160D07030,2009,Kingston Upon Hull,58
+CarEnteringRoundabout,2009160D07210,2009,Kingston Upon Hull,50
+CarEnteringRoundabout,2009170L10869,2009,Redcar and Cleveland,36
+CarEnteringRoundabout,200920D053801,2009,Birmingham,31
+CarEnteringRoundabout,200920D144203,2009,Birmingham,52
+CarEnteringRoundabout,200920D293601,2009,Birmingham,36
+CarEnteringRoundabout,200920E008803,2009,Birmingham,56
+CarEnteringRoundabout,200920E028903,2009,Birmingham,45
+CarEnteringRoundabout,200920E038302,2009,Birmingham,26
+CarEnteringRoundabout,200920E076701,2009,Birmingham,40
+CarEnteringRoundabout,200920E088203,2009,Birmingham,35
+CarEnteringRoundabout,200920H068302,2009,Walsall,20
+CarEnteringRoundabout,200920K064102,2009,Sandwell,49
+CarEnteringRoundabout,200920K103102,2009,Sandwell,30
+CarEnteringRoundabout,200920L040001,2009,Solihull,44
+CarEnteringRoundabout,200920L043001,2009,Solihull,39
+CarEnteringRoundabout,200920L060601,2009,Solihull,17
+CarEnteringRoundabout,200920L069101,2009,Solihull,49
+CarEnteringRoundabout,200920L168601,2009,Solihull,32
+CarEnteringRoundabout,200920M004102,2009,Coventry,48
+CarEnteringRoundabout,200920M009302,2009,Coventry,31
+CarEnteringRoundabout,200920M023702,2009,Coventry,28
+CarEnteringRoundabout,200920M047501,2009,Coventry,35
+CarEnteringRoundabout,200920M065302,2009,Coventry,67
+CarEnteringRoundabout,200920M067101,2009,Coventry,58
+CarEnteringRoundabout,2.00922E+12,2009,Staffordshire,45
+CarEnteringRoundabout,2.00922E+12,2009,Stoke on Trent,51
+CarEnteringRoundabout,2.00922E+12,2009,Staffordshire,40
+CarEnteringRoundabout,2.00922E+12,2009,Stoke on Trent,
+CarEnteringRoundabout,2.00922E+12,2009,Stoke on Trent,46
+CarEnteringRoundabout,2.00922E+12,2009,Staffordshire,40
+CarEnteringRoundabout,2.00922E+12,2009,Staffordshire,45
+CarEnteringRoundabout,2.00922E+12,2009,Staffordshire,43
+CarEnteringRoundabout,2.00922E+12,2009,Staffordshire,27
+CarEnteringRoundabout,2.00922E+12,2009,Stoke on Trent,39
+CarEnteringRoundabout,20092190X0129,2009,Staffordshire,49
+CarEnteringRoundabout,200922C901195,2009,Worcestershire,60
+CarEnteringRoundabout,200922C903111,2009,Worcestershire,61
+CarEnteringRoundabout,200922C904612,2009,Worcestershire,56
+CarEnteringRoundabout,200922C906258,2009,Worcestershire,48
+CarEnteringRoundabout,200922D900676,2009,Worcestershire,29
+CarEnteringRoundabout,200922D902308,2009,Worcestershire,21
+CarEnteringRoundabout,200922E903258,2009,Herefordshire,60
+CarEnteringRoundabout,200922E905390,2009,Herefordshire,23
+CarEnteringRoundabout,200922F900309,2009,Shropshire,42
+CarEnteringRoundabout,200922F902371,2009,Shropshire,51
+CarEnteringRoundabout,200922F902936,2009,Shropshire,27
+CarEnteringRoundabout,200922F904041,2009,Shropshire,12
+CarEnteringRoundabout,2.00923E+12,2009,Warwickshire,24
+CarEnteringRoundabout,2.00923E+12,2009,Warwickshire,67
+CarEnteringRoundabout,2.00923E+12,2009,Warwickshire,37
+CarEnteringRoundabout,200930A000300,2009,Derbyshire,72
+CarEnteringRoundabout,200930A000342,2009,Derbyshire,15
+CarEnteringRoundabout,200930A000598,2009,Derbyshire,32
+CarEnteringRoundabout,200930A000613,2009,Derbyshire,44
+CarEnteringRoundabout,200930A000643,2009,Derbyshire,30
+CarEnteringRoundabout,200930B000319,2009,Derbyshire,38
+CarEnteringRoundabout,200930C000303,2009,Derbyshire,38
+CarEnteringRoundabout,200930D000109,2009,Derby,38
+CarEnteringRoundabout,200930D000214,2009,Derby,33
+CarEnteringRoundabout,200930D000300,2009,Derby,38
+CarEnteringRoundabout,200930D000334,2009,Derby,44
+CarEnteringRoundabout,200930D000773,2009,Derby,65
+CarEnteringRoundabout,20093102A1270,2009,Nottinghamshire,
+CarEnteringRoundabout,20093102A1325,2009,Nottinghamshire,44
+CarEnteringRoundabout,20093102A1670,2009,Nottinghamshire,50
+CarEnteringRoundabout,20093102C1089,2009,Nottingham,22
+CarEnteringRoundabout,20093102C2372,2009,Nottingham,38
+CarEnteringRoundabout,20093102C2887,2009,Nottingham,
+CarEnteringRoundabout,20093102C3157,2009,Nottingham,20
+CarEnteringRoundabout,20093102D2623,2009,Nottinghamshire,26
+CarEnteringRoundabout,20093104B1970,2009,Nottinghamshire,42
+CarEnteringRoundabout,200932B357209,2009,Lincolnshire,13
+CarEnteringRoundabout,200932B381709,2009,Lincolnshire,28
+CarEnteringRoundabout,200932C052309,2009,Lincolnshire,37
+CarEnteringRoundabout,200932C165309,2009,Lincolnshire,11
+CarEnteringRoundabout,200932C293409,2009,Lincolnshire,33
+CarEnteringRoundabout,2.00933E+12,2009,Leicestershire,
+CarEnteringRoundabout,2.00933E+12,2009,Leicestershire,32
+CarEnteringRoundabout,2.00933E+12,2009,Leicestershire,40
+CarEnteringRoundabout,2.00933E+12,2009,Leicestershire,29
+CarEnteringRoundabout,2.00933E+12,2009,Leicestershire,47
+CarEnteringRoundabout,2.00933E+12,2009,Leicestershire,39
+CarEnteringRoundabout,2.00933E+12,2009,Leicestershire,35
+CarEnteringRoundabout,200934NE32819,2009,Northamptonshire,47
+CarEnteringRoundabout,200934WN31339,2009,Northamptonshire,29
+CarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,40
+CarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,32
+CarEnteringRoundabout,2.00935E+12,2009,Peterborough,38
+CarEnteringRoundabout,2.00935E+12,2009,Peterborough,23
+CarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,76
+CarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,20
+CarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,77
+CarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,47
+CarEnteringRoundabout,2.00935E+12,2009,Peterborough,52
+CarEnteringRoundabout,2.00935E+12,2009,Peterborough,48
+CarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,32
+CarEnteringRoundabout,2.00935E+12,2009,Peterborough,13
+CarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,52
+CarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,37
+CarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,26
+CarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,24
+CarEnteringRoundabout,2.00935E+12,2009,Cambridgeshire,28
+CarEnteringRoundabout,2.00936E+12,2009,Norfolk,27
+CarEnteringRoundabout,2.00936E+12,2009,Norfolk,49
+CarEnteringRoundabout,2.00936E+12,2009,Norfolk,22
+CarEnteringRoundabout,2.00936E+12,2009,Norfolk,50
+CarEnteringRoundabout,2.00936E+12,2009,Norfolk,42
+CarEnteringRoundabout,2.00936E+12,2009,Norfolk,59
+CarEnteringRoundabout,2.00936E+12,2009,Norfolk,32
+CarEnteringRoundabout,2.00936E+12,2009,Norfolk,40
+CarEnteringRoundabout,2.00936E+12,2009,Norfolk,28
+CarEnteringRoundabout,2.00936E+12,2009,Norfolk,42
+CarEnteringRoundabout,200937G026617,2009,Suffolk,16
+CarEnteringRoundabout,200937G027790,2009,Suffolk,30
+CarEnteringRoundabout,200937L016815,2009,Suffolk,29
+CarEnteringRoundabout,2009400B00151,2009,Bedford Borough Council,20
+CarEnteringRoundabout,2009400B03497,2009,Bedford Borough Council,24
+CarEnteringRoundabout,2009400B03517,2009,Bedford Borough Council,24
+CarEnteringRoundabout,2009400C02514,2009,Luton,58
+CarEnteringRoundabout,2009400C02813,2009,Luton,60
+CarEnteringRoundabout,2009400C03713,2009,Luton,60
+CarEnteringRoundabout,2009400D01507,2009,Central Bedfordshire,77
+CarEnteringRoundabout,20094100B0051,2009,Hertfordshire,33
+CarEnteringRoundabout,20094100B0135,2009,Hertfordshire,22
+CarEnteringRoundabout,20094100B9013,2009,Hertfordshire,51
+CarEnteringRoundabout,20094100C1094,2009,Hertfordshire,47
+CarEnteringRoundabout,20094100D0371,2009,Hertfordshire,50
+CarEnteringRoundabout,20094100D0865,2009,Hertfordshire,53
+CarEnteringRoundabout,2.01E+244,2009,Hertfordshire,42
+CarEnteringRoundabout,20094100F0178,2009,Hertfordshire,19
+CarEnteringRoundabout,20094100F0409,2009,Hertfordshire,25
+CarEnteringRoundabout,20094100F0437,2009,Hertfordshire,35
+CarEnteringRoundabout,20094100F0467,2009,Hertfordshire,49
+CarEnteringRoundabout,20094100G0318,2009,Hertfordshire,63
+CarEnteringRoundabout,20094100G0494,2009,Hertfordshire,46
+CarEnteringRoundabout,20094100G0692,2009,Hertfordshire,32
+CarEnteringRoundabout,20094100G0707,2009,Hertfordshire,49
+CarEnteringRoundabout,20094100G0748,2009,Hertfordshire,32
+CarEnteringRoundabout,200942I095903,2009,Essex,26
+CarEnteringRoundabout,200942I243508,2009,Essex,42
+CarEnteringRoundabout,200942I256008,2009,Southend on Sea,28
+CarEnteringRoundabout,200942I283609,2009,Essex,35
+CarEnteringRoundabout,200942I401211,2009,Essex,33
+CarEnteringRoundabout,200943N054119,2009,Buckinghamshire,41
+CarEnteringRoundabout,200943N121019,2009,Buckinghamshire,47
+CarEnteringRoundabout,200943P012049,2009,Oxfordshire,42
+CarEnteringRoundabout,200943P044099,2009,Oxfordshire,63
+CarEnteringRoundabout,200943P045089,2009,Oxfordshire,
+CarEnteringRoundabout,200943P060099,2009,Oxfordshire,42
+CarEnteringRoundabout,200943P062049,2009,Oxfordshire,29
+CarEnteringRoundabout,200943P226099,2009,Oxfordshire,36
+CarEnteringRoundabout,200943P261029,2009,Oxfordshire,14
+CarEnteringRoundabout,200943P276119,2009,Oxfordshire,65
+CarEnteringRoundabout,200943P287109,2009,Oxfordshire,12
+CarEnteringRoundabout,200943P405119,2009,Oxfordshire,24
+CarEnteringRoundabout,200943R212079,2009,Windsor and Maidenhead,67
+CarEnteringRoundabout,200943R267119,2009,Bracknell Forest,30
+CarEnteringRoundabout,200943S051079,2009,Milton Keynes,39
+CarEnteringRoundabout,200943S076119,2009,Milton Keynes,40
+CarEnteringRoundabout,200943S086099,2009,Milton Keynes,33
+CarEnteringRoundabout,200943S136099,2009,Milton Keynes,28
+CarEnteringRoundabout,200943W100029,2009,Reading,22
+CarEnteringRoundabout,200943W117019,2009,Wokingham,45
+CarEnteringRoundabout,200943W128049,2009,Reading,27
+CarEnteringRoundabout,200943W149119,2009,Reading,19
+CarEnteringRoundabout,200943W242119,2009,West Berkshire,61
+CarEnteringRoundabout,200943W248109,2009,Wokingham,52
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,25
+CarEnteringRoundabout,2.00944E+12,2009,Portsmouth,45
+CarEnteringRoundabout,2.00944E+12,2009,Portsmouth,35
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,31
+CarEnteringRoundabout,2.00944E+12,2009,Portsmouth,18
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,37
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,24
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,48
+CarEnteringRoundabout,2.00944E+12,2009,Portsmouth,40
+CarEnteringRoundabout,2.00944E+12,2009,Southampton ,24
+CarEnteringRoundabout,2.00944E+12,2009,Southampton ,51
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,31
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,44
+CarEnteringRoundabout,2.00944E+12,2009,Portsmouth,12
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,24
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,29
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,40
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,43
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,26
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,39
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,77
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,47
+CarEnteringRoundabout,2.00944E+12,2009,Southampton ,22
+CarEnteringRoundabout,2.00944E+12,2009,Hampshire,33
+CarEnteringRoundabout,200945EL44754,2009,Surrey,45
+CarEnteringRoundabout,200945GU43405,2009,Surrey,32
+CarEnteringRoundabout,200945RU44468,2009,Surrey,38
+CarEnteringRoundabout,200945SP44064,2009,Surrey,29
+CarEnteringRoundabout,200945SP44808,2009,Surrey,
+CarEnteringRoundabout,200945WA34628,2009,Surrey,51
+CarEnteringRoundabout,200945WO45414,2009,Surrey,52
+CarEnteringRoundabout,200945WO47085,2009,Surrey,60
+CarEnteringRoundabout,2.00946E+12,2009,Kent,34
+CarEnteringRoundabout,2.00946E+12,2009,Kent,49
+CarEnteringRoundabout,2.00947E+12,2009,West Sussex,51
+CarEnteringRoundabout,2.00947E+12,2009,West Sussex,35
+CarEnteringRoundabout,2.00947E+12,2009,West Sussex,50
+CarEnteringRoundabout,2.00947E+12,2009,East Sussex,22
+CarEnteringRoundabout,2.00947E+12,2009,West Sussex,14
+CarEnteringRoundabout,2.00947E+12,2009,East Sussex,62
+CarEnteringRoundabout,2.00947E+12,2009,West Sussex,38
+CarEnteringRoundabout,2.00947E+12,2009,West Sussex,40
+CarEnteringRoundabout,2.00947E+12,2009,West Sussex,15
+CarEnteringRoundabout,2.00947E+12,2009,West Sussex,27
+CarEnteringRoundabout,2.00947E+12,2009,West Sussex,39
+CarEnteringRoundabout,200950ED2B011,2009,Plymouth,14
+CarEnteringRoundabout,200950ED2N008,2009,Plymouth,35
+CarEnteringRoundabout,200950JS2P003,2009,Devon,17
+CarEnteringRoundabout,2.00952E+12,2009,Somerset,12
+CarEnteringRoundabout,2.00952E+12,2009,Somerset,44
+CarEnteringRoundabout,2.00952E+12,2009,South Gloucestershire,47
+CarEnteringRoundabout,2.00952E+12,2009,Somerset,38
+CarEnteringRoundabout,2.00952E+12,2009,South Gloucestershire,40
+CarEnteringRoundabout,2.00952E+12,2009,City of Bristol,29
+CarEnteringRoundabout,2.00952E+12,2009,South Gloucestershire,38
+CarEnteringRoundabout,2.00952E+12,2009,Somerset,28
+CarEnteringRoundabout,2.00952E+12,2009,Somerset,46
+CarEnteringRoundabout,2.00952E+12,2009,South Gloucestershire,43
+CarEnteringRoundabout,2.00952E+12,2009,South Gloucestershire,45
+CarEnteringRoundabout,2.00952E+12,2009,Somerset,56
+CarEnteringRoundabout,2.00952E+12,2009,North Somerset,30
+CarEnteringRoundabout,2.00952E+12,2009,South Gloucestershire,51
+CarEnteringRoundabout,2.00953E+12,2009,Gloucestershire,19
+CarEnteringRoundabout,2.00953E+12,2009,Gloucestershire,44
+CarEnteringRoundabout,2.00953E+12,2009,Gloucestershire,40
+CarEnteringRoundabout,2.00953E+12,2009,Gloucestershire,32
+CarEnteringRoundabout,200954DC12809,2009,Swindon,50
+CarEnteringRoundabout,200954DC32809,2009,Swindon,37
+CarEnteringRoundabout,200954DC43909,2009,Swindon,29
+CarEnteringRoundabout,200954DN20709,2009,Swindon,38
+CarEnteringRoundabout,200954DN35509,2009,Swindon,42
+CarEnteringRoundabout,200954DN40909,2009,Swindon,29
+CarEnteringRoundabout,200954DN45109,2009,Swindon,63
+CarEnteringRoundabout,200954DW22109,2009,Swindon,34
+CarEnteringRoundabout,200954DW29409,2009,Swindon,40
+CarEnteringRoundabout,200954ET37409,2009,Wiltshire,15
+CarEnteringRoundabout,2009559C00772,2009,Bournemouth,30
+CarEnteringRoundabout,2009559C00836,2009,Bournemouth,28
+CarEnteringRoundabout,2009559C00847,2009,Bournemouth,50
+CarEnteringRoundabout,2009559C00905,2009,Bournemouth,15
+CarEnteringRoundabout,2009559C02768,2009,Poole,35
+CarEnteringRoundabout,2009559C04312,2009,Bournemouth,35
+CarEnteringRoundabout,2009559C04852,2009,Poole,27
+CarEnteringRoundabout,2009559C04963,2009,Bournemouth,40
+CarEnteringRoundabout,2009559C05001,2009,Bournemouth,33
+CarEnteringRoundabout,2009559D01845,2009,Dorset,35
+CarEnteringRoundabout,2009559D02053,2009,Dorset,62
+CarEnteringRoundabout,2009559D02478,2009,Dorset,38
+CarEnteringRoundabout,2009559D02743,2009,Dorset,33
+CarEnteringRoundabout,2009559D02888,2009,Dorset,35
+CarEnteringRoundabout,2009559D03252,2009,Dorset,42
+CarEnteringRoundabout,201001KF60304,2010,London,19
+CarEnteringRoundabout,201001MM70537,2010,London,24
+CarEnteringRoundabout,201001VK30175,2010,London,13
+CarEnteringRoundabout,201001XD80412,2010,London,16
+CarEnteringRoundabout,201001XH30380,2010,London,23
+CarEnteringRoundabout,2.01003E+12,2010,Cumbria,77
+CarEnteringRoundabout,2.01003E+12,2010,Cumbria,10
+CarEnteringRoundabout,2.01003E+12,2010,Cumbria,40
+CarEnteringRoundabout,201004BA10096,2010,Lancashire,23
+CarEnteringRoundabout,201004BC10172,2010,Lancashire,45
+CarEnteringRoundabout,201004BC10259,2010,Lancashire,33
+CarEnteringRoundabout,201004CL10055,2010,Lancashire,38
+CarEnteringRoundabout,201004CM10080,2010,Lancashire,48
+CarEnteringRoundabout,201004CM10096,2010,Lancashire,35
+CarEnteringRoundabout,201004FG10057,2010,Lancashire,57
+CarEnteringRoundabout,201004FG10074,2010,Lancashire,39
+CarEnteringRoundabout,201005AA01983,2010,Merseyside,37
+CarEnteringRoundabout,201005AA05675,2010,Merseyside,40
+CarEnteringRoundabout,201005BB02951,2010,Merseyside,24
+CarEnteringRoundabout,201005BB03703,2010,Merseyside,29
+CarEnteringRoundabout,201005BB05257,2010,Merseyside,14
+CarEnteringRoundabout,201005CC02825,2010,Merseyside,34
+CarEnteringRoundabout,201005DD04825,2010,Merseyside,19
+CarEnteringRoundabout,201005DD05187,2010,Merseyside,25
+CarEnteringRoundabout,201006C035385,2010,Manchester,48
+CarEnteringRoundabout,201006F038784,2010,Salford,15
+CarEnteringRoundabout,201006G030575,2010,Tameside,42
+CarEnteringRoundabout,201006G037478,2010,Tameside,55
+CarEnteringRoundabout,201006J026985,2010,Stockport,31
+CarEnteringRoundabout,201006J027686,2010,Stockport,44
+CarEnteringRoundabout,201006J027691,2010,Stockport,25
+CarEnteringRoundabout,201006K038088,2010,Bolton,30
+CarEnteringRoundabout,201006M028020,2010,Trafford,49
+CarEnteringRoundabout,201006M039064,2010,Trafford,66
+CarEnteringRoundabout,201006NP33984,2010,Bury,27
+CarEnteringRoundabout,201006P032073,2010,Rochdale,45
+CarEnteringRoundabout,201006X033386,2010,Bolton,76
+CarEnteringRoundabout,2.01007E+12,2010,Warrington,56
+CarEnteringRoundabout,2.01007E+12,2010,Cheshire East,41
+CarEnteringRoundabout,2.01007E+12,2010,Warrington,39
+CarEnteringRoundabout,2.01007E+12,2010,Cheshire West and Chester,46
+CarEnteringRoundabout,2.01007E+12,2010,Warrington,19
+CarEnteringRoundabout,2.01007E+12,2010,Cheshire West and Chester,56
+CarEnteringRoundabout,2.01007E+12,2010,Cheshire East,80
+CarEnteringRoundabout,2.01007E+12,2010,Warrington,28
+CarEnteringRoundabout,2.01007E+12,2010,Cheshire East,18
+CarEnteringRoundabout,2.01007E+12,2010,Warrington,47
+CarEnteringRoundabout,2.0101E+12,2010,North Tyneside,44
+CarEnteringRoundabout,2.0101E+12,2010,North Tyneside,49
+CarEnteringRoundabout,2.0101E+12,2010,North Tyneside,19
+CarEnteringRoundabout,2.0101E+12,2010,Newcastle upon Tyne,42
+CarEnteringRoundabout,2.0101E+12,2010,Newcastle upon Tyne,42
+CarEnteringRoundabout,2.0101E+12,2010,Newcastle upon Tyne,28
+CarEnteringRoundabout,2.0101E+12,2010,North Tyneside,35
+CarEnteringRoundabout,2.0101E+12,2010,North Tyneside,31
+CarEnteringRoundabout,2.0101E+12,2010,Newcastle upon Tyne,38
+CarEnteringRoundabout,2.0101E+12,2010,Newcastle upon Tyne,38
+CarEnteringRoundabout,2.0101E+12,2010,Newcastle upon Tyne,20
+CarEnteringRoundabout,201011NH18060,2010,Durham,28
+CarEnteringRoundabout,2.01012E+12,2010,North Yorkshire,56
+CarEnteringRoundabout,2.01012E+12,2010,York,35
+CarEnteringRoundabout,2.01012E+12,2010,York,47
+CarEnteringRoundabout,2.01012E+12,2010,North Yorkshire,22
+CarEnteringRoundabout,2.01013E+12,2010,Wakefield,27
+CarEnteringRoundabout,2.01013E+12,2010,Bradford,52
+CarEnteringRoundabout,2.01013E+12,2010,Calderdale,39
+CarEnteringRoundabout,2.01013E+12,2010,Leeds,31
+CarEnteringRoundabout,2.01013E+12,2010,Wakefield,25
+CarEnteringRoundabout,2.01013E+12,2010,Leeds,24
+CarEnteringRoundabout,2.01013E+12,2010,Leeds,33
+CarEnteringRoundabout,2.01013E+12,2010,Wakefield,42
+CarEnteringRoundabout,2.01013E+12,2010,Wakefield,20
+CarEnteringRoundabout,2.01013E+12,2010,Leeds,31
+CarEnteringRoundabout,2.01013E+12,2010,Leeds,64
+CarEnteringRoundabout,2.01013E+12,2010,Wakefield,48
+CarEnteringRoundabout,2.01013E+12,2010,Calderdale,37
+CarEnteringRoundabout,2.01013E+12,2010,Kirklees,56
+CarEnteringRoundabout,201014A031410,2010,Doncaster,53
+CarEnteringRoundabout,201014A150610,2010,Doncaster,41
+CarEnteringRoundabout,201014A180810,2010,Doncaster,29
+CarEnteringRoundabout,201014A184510,2010,Doncaster,73
+CarEnteringRoundabout,201014A199010,2010,Doncaster,29
+CarEnteringRoundabout,201014A201810,2010,Doncaster,40
+CarEnteringRoundabout,201014C042710,2010,Rotherham,41
+CarEnteringRoundabout,201014C059210,2010,Rotherham,41
+CarEnteringRoundabout,201014C105910,2010,Rotherham,43
+CarEnteringRoundabout,201014K022710,2010,Sheffield,42
+CarEnteringRoundabout,201014K251410,2010,Sheffield,49
+CarEnteringRoundabout,201014K278610,2010,Sheffield,44
+CarEnteringRoundabout,2010160A02581,2010,North East Lincolnshire,24
+CarEnteringRoundabout,2010160A03831,2010,North East Lincolnshire,19
+CarEnteringRoundabout,2010160B02651,2010,North Lincolnshire,15
+CarEnteringRoundabout,2010160B03591,2010,North Lincolnshire,21
+CarEnteringRoundabout,2010160B03981,2010,North Lincolnshire,41
+CarEnteringRoundabout,2010160C01471,2010,East Riding of Yorkshire,32
+CarEnteringRoundabout,2010160C06251,2010,East Riding of Yorkshire,52
+CarEnteringRoundabout,2010160C07161,2010,East Riding of Yorkshire,48
+CarEnteringRoundabout,2010160D00341,2010,Kingston Upon Hull,19
+CarEnteringRoundabout,2010160D00851,2010,Kingston Upon Hull,24
+CarEnteringRoundabout,2010160D01651,2010,Kingston Upon Hull,57
+CarEnteringRoundabout,2010160D02541,2010,Kingston Upon Hull,46
+CarEnteringRoundabout,2010160D05421,2010,Kingston Upon Hull,27
+CarEnteringRoundabout,2010160D06591,2010,Kingston Upon Hull,29
+CarEnteringRoundabout,2010160D06621,2010,Kingston Upon Hull,34
+CarEnteringRoundabout,2010160D07111,2010,Kingston Upon Hull,52
+CarEnteringRoundabout,2010160D07401,2010,Kingston Upon Hull,28
+CarEnteringRoundabout,2010160D07721,2010,Kingston Upon Hull,51
+CarEnteringRoundabout,2010170M13130,2010,Middlesbrough,45
+CarEnteringRoundabout,2010170M31250,2010,Middlesbrough,24
+CarEnteringRoundabout,2010170S30900,2010,Stockton on Tees,71
+CarEnteringRoundabout,201020G004630,2010,Wolverhampton,40
+CarEnteringRoundabout,201020G007470,2010,Wolverhampton,43
+CarEnteringRoundabout,201020G010960,2010,Wolverhampton,17
+CarEnteringRoundabout,201020H009500,2010,Walsall,39
+CarEnteringRoundabout,201020J005100,2010,Dudley,44
+CarEnteringRoundabout,201020K011180,2010,Sandwell,54
+CarEnteringRoundabout,201020K011911,2010,Sandwell,41
+CarEnteringRoundabout,201020K012820,2010,Sandwell,47
+CarEnteringRoundabout,201020K014540,2010,Sandwell,53
+CarEnteringRoundabout,201020L500760,2010,Solihull,57
+CarEnteringRoundabout,201020M008913,2010,Coventry,38
+CarEnteringRoundabout,201020M008970,2010,Coventry,53
+CarEnteringRoundabout,201020M010410,2010,Coventry,59
+CarEnteringRoundabout,201020S036650,2010,Birmingham,30
+CarEnteringRoundabout,201020S502800,2010,Birmingham,40
+CarEnteringRoundabout,201020T002490,2010,Birmingham,29
+CarEnteringRoundabout,201020T017690,2010,Birmingham,25
+CarEnteringRoundabout,201020T027410,2010,Birmingham,44
+CarEnteringRoundabout,201020T029400,2010,Birmingham,54
+CarEnteringRoundabout,201020W003160,2010,Birmingham,27
+CarEnteringRoundabout,201020W023070,2010,Birmingham,48
+CarEnteringRoundabout,201020W028500,2010,Birmingham,22
+CarEnteringRoundabout,2.01021E+12,2010,Stoke on Trent,46
+CarEnteringRoundabout,2.01021E+12,2010,Staffordshire,39
+CarEnteringRoundabout,2.01021E+12,2010,Staffordshire,38
+CarEnteringRoundabout,2.01021E+12,2010,Staffordshire,34
+CarEnteringRoundabout,2.01021E+12,2010,Staffordshire,49
+CarEnteringRoundabout,2.01021E+12,2010,Stoke on Trent,25
+CarEnteringRoundabout,2.01021E+12,2010,Staffordshire,18
+CarEnteringRoundabout,2.01021E+12,2010,Stoke on Trent,30
+CarEnteringRoundabout,2.01021E+12,2010,Staffordshire,44
+CarEnteringRoundabout,2.01021E+12,2010,Staffordshire,53
+CarEnteringRoundabout,201022C004411,2010,Worcestershire,48
+CarEnteringRoundabout,201022C005032,2010,Worcestershire,45
+CarEnteringRoundabout,201022C005513,2010,Worcestershire,16
+CarEnteringRoundabout,201022C006072,2010,Worcestershire,22
+CarEnteringRoundabout,201022D002640,2010,Worcestershire,22
+CarEnteringRoundabout,201022E004681,2010,Herefordshire,44
+CarEnteringRoundabout,201022E005388,2010,Herefordshire,18
+CarEnteringRoundabout,201022F000662,2010,Shropshire,66
+CarEnteringRoundabout,201022F004439,2010,Shropshire,73
+CarEnteringRoundabout,201022G003265,2010,Shropshire,41
+CarEnteringRoundabout,2.01023E+12,2010,Warwickshire,35
+CarEnteringRoundabout,2.01023E+12,2010,Warwickshire,39
+CarEnteringRoundabout,201030C000557,2010,Derbyshire,34
+CarEnteringRoundabout,201030D000050,2010,Derbyshire,29
+CarEnteringRoundabout,201030D000086,2010,Derby,26
+CarEnteringRoundabout,201030D000305,2010,Derby,12
+CarEnteringRoundabout,201030D000342,2010,Derby,58
+CarEnteringRoundabout,201030D000349,2010,Derby,30
+CarEnteringRoundabout,201030D000756,2010,Derby,28
+CarEnteringRoundabout,201030D000972,2010,Derby,27
+CarEnteringRoundabout,201030D000975,2010,Derbyshire,46
+CarEnteringRoundabout,201030D001107,2010,Derbyshire,
+CarEnteringRoundabout,201030D001186,2010,Derbyshire,47
+CarEnteringRoundabout,20103102A2748,2010,Nottinghamshire,30
+CarEnteringRoundabout,20103102B0842,2010,Nottinghamshire,47
+CarEnteringRoundabout,20103102B1544,2010,Nottinghamshire,77
+CarEnteringRoundabout,20103102C0213,2010,Nottingham,43
+CarEnteringRoundabout,20103102C0411,2010,Nottingham,52
+CarEnteringRoundabout,20103102C0606,2010,Nottingham,23
+CarEnteringRoundabout,20103102C0898,2010,Nottingham,27
+CarEnteringRoundabout,201032B206310,2010,Lincolnshire,52
+CarEnteringRoundabout,201032C061310,2010,Lincolnshire,45
+CarEnteringRoundabout,201032C083210,2010,Lincolnshire,34
+CarEnteringRoundabout,2.01033E+12,2010,Leicestershire,20
+CarEnteringRoundabout,2.01033E+12,2010,Leicestershire,41
+CarEnteringRoundabout,2.01033E+12,2010,Leicestershire,55
+CarEnteringRoundabout,2.01033E+12,2010,Leicestershire,16
+CarEnteringRoundabout,2.01033E+12,2010,Leicestershire,40
+CarEnteringRoundabout,2.01033E+12,2010,Leicestershire,40
+CarEnteringRoundabout,201034NE14880,2010,Northamptonshire,64
+CarEnteringRoundabout,201034NE36890,2010,Northamptonshire,28
+CarEnteringRoundabout,201034WD18850,2010,Northamptonshire,28
+CarEnteringRoundabout,2.01035E+12,2010,Cambridgeshire,38
+CarEnteringRoundabout,2.01035E+12,2010,Cambridgeshire,49
+CarEnteringRoundabout,2.01035E+12,2010,Cambridgeshire,
+CarEnteringRoundabout,2.01035E+12,2010,Peterborough,59
+CarEnteringRoundabout,2.01035E+12,2010,Cambridgeshire,18
+CarEnteringRoundabout,2.01035E+12,2010,Peterborough,41
+CarEnteringRoundabout,2.01035E+12,2010,Peterborough,42
+CarEnteringRoundabout,2.01035E+12,2010,Peterborough,68
+CarEnteringRoundabout,2.01035E+12,2010,Peterborough,37
+CarEnteringRoundabout,2.01035E+12,2010,Peterborough,20
+CarEnteringRoundabout,2.01035E+12,2010,Peterborough,53
+CarEnteringRoundabout,2.01035E+12,2010,Peterborough,38
+CarEnteringRoundabout,2.01035E+12,2010,Cambridgeshire,20
+CarEnteringRoundabout,2.01035E+12,2010,Cambridgeshire,25
+CarEnteringRoundabout,2.01035E+12,2010,Cambridgeshire,31
+CarEnteringRoundabout,2.01035E+12,2010,Cambridgeshire,25
+CarEnteringRoundabout,2.01035E+12,2010,Cambridgeshire,35
+CarEnteringRoundabout,2.01036E+12,2010,Norfolk,20
+CarEnteringRoundabout,2.01036E+12,2010,Norfolk,27
+CarEnteringRoundabout,2.01036E+12,2010,Norfolk,26
+CarEnteringRoundabout,2.01036E+12,2010,Norfolk,37
+CarEnteringRoundabout,2.01036E+12,2010,Norfolk,47
+CarEnteringRoundabout,201037B044263,2010,Suffolk,27
+CarEnteringRoundabout,201037B045467,2010,Suffolk,55
+CarEnteringRoundabout,201037B045731,2010,Suffolk,47
+CarEnteringRoundabout,201037G029219,2010,Suffolk,41
+CarEnteringRoundabout,201037G029241,2010,Suffolk,49
+CarEnteringRoundabout,201037G029366,2010,Suffolk,48
+CarEnteringRoundabout,201037G029607,2010,Suffolk,39
+CarEnteringRoundabout,201037G029969,2010,Suffolk,29
+CarEnteringRoundabout,201037G029976,2010,Suffolk,46
+CarEnteringRoundabout,201037G029981,2010,Suffolk,36
+CarEnteringRoundabout,201037G030260,2010,Suffolk,46
+CarEnteringRoundabout,201037G030320,2010,Suffolk,54
+CarEnteringRoundabout,201037L018119,2010,Suffolk,46
+CarEnteringRoundabout,201037L018611,2010,Suffolk,39
+CarEnteringRoundabout,201037L018612,2010,Suffolk,59
+CarEnteringRoundabout,2010400B00993,2010,Bedford Borough Council,19
+CarEnteringRoundabout,2010400B01096,2010,Central Bedfordshire,32
+CarEnteringRoundabout,2010400B01407,2010,Bedford Borough Council,19
+CarEnteringRoundabout,2010400B01592,2010,Bedford Borough Council,70
+CarEnteringRoundabout,2010400C00725,2010,Luton,54
+CarEnteringRoundabout,2010400C03271,2010,Luton,50
+CarEnteringRoundabout,2010400D02052,2010,Central Bedfordshire,45
+CarEnteringRoundabout,20104100A0178,2010,Hertfordshire,50
+CarEnteringRoundabout,20104100B0495,2010,Hertfordshire,49
+CarEnteringRoundabout,20104100B0580,2010,Hertfordshire,25
+CarEnteringRoundabout,20104100B0581,2010,Hertfordshire,22
+CarEnteringRoundabout,20104100B0599,2010,Hertfordshire,66
+CarEnteringRoundabout,20104100B0677,2010,Hertfordshire,35
+CarEnteringRoundabout,20104100C0249,2010,Hertfordshire,50
+CarEnteringRoundabout,20104100C0578,2010,Hertfordshire,37
+CarEnteringRoundabout,20104100C1019,2010,Hertfordshire,30
+CarEnteringRoundabout,20104100D0400,2010,Hertfordshire,31
+CarEnteringRoundabout,2.01E+220,2010,Hertfordshire,26
+CarEnteringRoundabout,2.01E+279,2010,Hertfordshire,44
+CarEnteringRoundabout,20104100F0257,2010,Hertfordshire,26
+CarEnteringRoundabout,20104100F0269,2010,Hertfordshire,32
+CarEnteringRoundabout,20104100F0803,2010,Hertfordshire,47
+CarEnteringRoundabout,20104100G0191,2010,Hertfordshire,34
+CarEnteringRoundabout,20104100G0203,2010,Hertfordshire,36
+CarEnteringRoundabout,20104100G0539,2010,Hertfordshire,47
+CarEnteringRoundabout,20104100J0231,2010,Hertfordshire,48
+CarEnteringRoundabout,20104100J0451,2010,Hertfordshire,41
+CarEnteringRoundabout,201042I002101,2010,Essex,19
+CarEnteringRoundabout,201042I036302,2010,Essex,65
+CarEnteringRoundabout,201042I085903,2010,Essex,22
+CarEnteringRoundabout,201042I089103,2010,Essex,53
+CarEnteringRoundabout,201042I251008,2010,Essex,54
+CarEnteringRoundabout,201042I264408,2010,Thurrock,15
+CarEnteringRoundabout,201042I286709,2010,Essex,54
+CarEnteringRoundabout,201042I341610,2010,Southend on Sea,18
+CarEnteringRoundabout,201043N188050,2010,Buckinghamshire,56
+CarEnteringRoundabout,201043N208100,2010,Buckinghamshire,40
+CarEnteringRoundabout,201043P060100,2010,Oxfordshire,13
+CarEnteringRoundabout,201043P067030,2010,Oxfordshire,46
+CarEnteringRoundabout,201043P166050,2010,Oxfordshire,44
+CarEnteringRoundabout,201043P172110,2010,Oxfordshire,36
+CarEnteringRoundabout,201043P218050,2010,Oxfordshire,37
+CarEnteringRoundabout,201043P313020,2010,Oxfordshire,34
+CarEnteringRoundabout,201043R076120,2010,Windsor and Maidenhead,29
+CarEnteringRoundabout,201043R140090,2010,Slough,38
+CarEnteringRoundabout,201043R163050,2010,Windsor and Maidenhead,24
+CarEnteringRoundabout,201043R210060,2010,Windsor and Maidenhead,27
+CarEnteringRoundabout,201043R228030,2010,Slough,70
+CarEnteringRoundabout,201043S002070,2010,Milton Keynes,30
+CarEnteringRoundabout,201043S025010,2010,Milton Keynes,36
+CarEnteringRoundabout,201043S039090,2010,Milton Keynes,26
+CarEnteringRoundabout,201043S066090,2010,Milton Keynes,30
+CarEnteringRoundabout,201043S080020,2010,Milton Keynes,26
+CarEnteringRoundabout,201043S084090,2010,Milton Keynes,33
+CarEnteringRoundabout,201043S123010,2010,Milton Keynes,39
+CarEnteringRoundabout,201043W079090,2010,West Berkshire,37
+CarEnteringRoundabout,201043W121030,2010,Wokingham,13
+CarEnteringRoundabout,201043W241100,2010,Wokingham,38
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,27
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,21
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,51
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,39
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,46
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,37
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,49
+CarEnteringRoundabout,2.01044E+12,2010,Portsmouth,48
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,38
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,26
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,49
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,58
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,41
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,24
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,28
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,23
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,26
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,28
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,33
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,56
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,49
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,42
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,42
+CarEnteringRoundabout,2.01044E+12,2010,Portsmouth,36
+CarEnteringRoundabout,2.01044E+12,2010,Portsmouth,68
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,52
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,51
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,47
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,48
+CarEnteringRoundabout,2.01044E+12,2010,Southampton ,65
+CarEnteringRoundabout,2.01044E+12,2010,Hampshire,32
+CarEnteringRoundabout,201045EL48614,2010,Surrey,46
+CarEnteringRoundabout,201045EL50464,2010,Surrey,49
+CarEnteringRoundabout,201045EL56150,2010,Surrey,
+CarEnteringRoundabout,201045EL57104,2010,Surrey,50
+CarEnteringRoundabout,201045EP52179,2010,Surrey,43
+CarEnteringRoundabout,201045EP54282,2010,Surrey,52
+CarEnteringRoundabout,201045GU48686,2010,Surrey,31
+CarEnteringRoundabout,201045GU51301,2010,Surrey,64
+CarEnteringRoundabout,201045RE52249,2010,Surrey,
+CarEnteringRoundabout,201045RU47498,2010,Surrey,21
+CarEnteringRoundabout,201045SP55848,2010,Surrey,25
+CarEnteringRoundabout,201045WA53244,2010,Surrey,38
+CarEnteringRoundabout,2.01046E+12,2010,Medway,42
+CarEnteringRoundabout,2.01046E+12,2010,Kent,17
+CarEnteringRoundabout,2.01046E+12,2010,Kent,21
+CarEnteringRoundabout,2.01047E+12,2010,East Sussex,38
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,87
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,60
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,33
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,64
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,31
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,25
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,44
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,30
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,46
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,40
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,58
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,25
+CarEnteringRoundabout,2.01047E+12,2010,East Sussex,35
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,33
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,50
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,49
+CarEnteringRoundabout,2.01047E+12,2010,West Sussex,23
+CarEnteringRoundabout,201050CB2U007,2010,Devon,38
+CarEnteringRoundabout,201050DE2G021,2010,Devon,21
+CarEnteringRoundabout,201050DE2H022,2010,Devon,46
+CarEnteringRoundabout,201050DE2J046,2010,Devon,44
+CarEnteringRoundabout,201050GC2H011,2010,Cornwall and Isles of Scilly,42
+CarEnteringRoundabout,201050GC2M009,2010,Cornwall and Isles of Scilly,32
+CarEnteringRoundabout,201050JS2B009,2010,Devon,33
+CarEnteringRoundabout,201050KE5P004,2010,Devon,51
+CarEnteringRoundabout,2.01052E+12,2010,South Gloucestershire,28
+CarEnteringRoundabout,2.01052E+12,2010,South Gloucestershire,30
+CarEnteringRoundabout,2.01052E+12,2010,South Gloucestershire,68
+CarEnteringRoundabout,2.01052E+12,2010,South Gloucestershire,35
+CarEnteringRoundabout,2.01052E+12,2010,City of Bristol,21
+CarEnteringRoundabout,2.01052E+12,2010,North Somerset,49
+CarEnteringRoundabout,2.01053E+12,2010,Gloucestershire,51
+CarEnteringRoundabout,2.01053E+12,2010,Gloucestershire,54
+CarEnteringRoundabout,201054DC37110,2010,Swindon,38
+CarEnteringRoundabout,201054DN34610,2010,Swindon,47
+CarEnteringRoundabout,201054DW14810,2010,Swindon,20
+CarEnteringRoundabout,201054DW36810,2010,Swindon,44
+CarEnteringRoundabout,201054EM18610,2010,Wiltshire,56
+CarEnteringRoundabout,20105500C0177,2010,Bournemouth,44
+CarEnteringRoundabout,20105500C0571,2010,Poole,11
+CarEnteringRoundabout,20105500C0681,2010,Poole,22
+CarEnteringRoundabout,20105500C1138,2010,Bournemouth,27
+CarEnteringRoundabout,20105500D0238,2010,Dorset,75
+CarEnteringRoundabout,20105500D0432,2010,Dorset,53
+CarEnteringRoundabout,20105500D0880,2010,Dorset,39
+CarEnteringRoundabout,20105500D1071,2010,Dorset,48
+CarEnteringRoundabout,20105500D1121,2010,Dorset,12
+CarEnteringRoundabout,20105500D1125,2010,Dorset,48
+CarEnteringRoundabout,2010550C14460,2010,Bournemouth,22
+CarEnteringRoundabout,2010550C15398,2010,Bournemouth,55
+CarEnteringRoundabout,2010550C17437,2010,Poole,49
+CarEnteringRoundabout,2010550C32772,2010,Poole,15
+CarEnteringRoundabout,2010550C36369,2010,Bournemouth,33
+CarEnteringRoundabout,2010550C41980,2010,Bournemouth,30
+CarEnteringRoundabout,2010550C48498,2010,Poole,33
+CarEnteringRoundabout,2010550D18939,2010,Dorset,17
+CarEnteringRoundabout,2010550D20304,2010,Dorset,48
+CarEnteringRoundabout,2010550D24139,2010,Dorset,53
+CarEnteringRoundabout,2010550D24146,2010,Dorset,47
+CarEnteringRoundabout,2010550D32132,2010,Dorset,21
+CarEnteringRoundabout,2010550D36811,2010,Dorset,52
+CarEnteringRoundabout,2010550D38232,2010,Dorset,17
+CarEnteringRoundabout,2010550D43988,2010,Dorset,31
+CarEnteringRoundabout,2011201101GD10559,2011,London,29
+CarEnteringRoundabout,2011201101KF60256,2011,London,41
+CarEnteringRoundabout,2011201101PL60490,2011,London,42
+CarEnteringRoundabout,2011201101PY20259,2011,London,53
+CarEnteringRoundabout,2011201101SX20824,2011,London,53
+CarEnteringRoundabout,2011201101TA00481,2011,London,29
+CarEnteringRoundabout,2011201101TA01050,2011,London,13
+CarEnteringRoundabout,2011201101TW60304,2011,London,28
+CarEnteringRoundabout,2011201101VK30101,2011,London,33
+CarEnteringRoundabout,2.0112E+16,2011,Cumbria,49
+CarEnteringRoundabout,2.0112E+16,2011,Cumbria,45
+CarEnteringRoundabout,2011201104AL11029,2011,Lancashire,28
+CarEnteringRoundabout,2011201104CJ11018,2011,Lancashire,61
+CarEnteringRoundabout,2011201104CJ11069,2011,Lancashire,46
+CarEnteringRoundabout,2011201104CL11077,2011,Lancashire,37
+CarEnteringRoundabout,2011201104CM11092,2011,Lancashire,42
+CarEnteringRoundabout,2011201104DR11003,2011,Lancashire,47
+CarEnteringRoundabout,2011201104EN11005,2011,Lancashire,44
+CarEnteringRoundabout,2011201104FL11081,2011,Lancashire,58
+CarEnteringRoundabout,2011201105AA03108,2011,Merseyside,44
+CarEnteringRoundabout,2011201105AA03140,2011,Merseyside,39
+CarEnteringRoundabout,2011201105AA03837,2011,Merseyside,20
+CarEnteringRoundabout,2011201105AA04551,2011,Merseyside,58
+CarEnteringRoundabout,2011201105AA06482,2011,Merseyside,49
+CarEnteringRoundabout,2011201105AA06867,2011,Merseyside,43
+CarEnteringRoundabout,2011201105BB01478,2011,Merseyside,55
+CarEnteringRoundabout,2011201105BB03157,2011,Merseyside,40
+CarEnteringRoundabout,2011201105BB03715,2011,Merseyside,18
+CarEnteringRoundabout,2011201105CC03228,2011,Merseyside,52
+CarEnteringRoundabout,2011201105CC04049,2011,Merseyside,54
+CarEnteringRoundabout,2011201105CC05335,2011,Merseyside,40
+CarEnteringRoundabout,2011201105FF03412,2011,Merseyside,22
+CarEnteringRoundabout,2011201105FF05206,2011,Merseyside,36
+CarEnteringRoundabout,2011201106A053393,2011,Manchester,27
+CarEnteringRoundabout,2011201106C046881,2011,Manchester,38
+CarEnteringRoundabout,2011201106C051558,2011,Manchester,44
+CarEnteringRoundabout,2011201106F048183,2011,Salford,41
+CarEnteringRoundabout,2011201106G049872,2011,Tameside,41
+CarEnteringRoundabout,2011201106J048808,2011,Stockport,48
+CarEnteringRoundabout,2011201106K041952,2011,Bolton,40
+CarEnteringRoundabout,2011201106K050569,2011,Bolton,36
+CarEnteringRoundabout,2011201106M041036,2011,Trafford,25
+CarEnteringRoundabout,2011201106M041046,2011,Trafford,45
+CarEnteringRoundabout,2011201106P054890,2011,Rochdale,58
+CarEnteringRoundabout,2.0112E+16,2011,Warrington,37
+CarEnteringRoundabout,2.0112E+16,2011,Warrington,25
+CarEnteringRoundabout,2.0112E+16,2011,Warrington,56
+CarEnteringRoundabout,2.0112E+16,2011,Cheshire East,39
+CarEnteringRoundabout,2.0112E+16,2011,Warrington,32
+CarEnteringRoundabout,2.0112E+16,2011,Cheshire East,68
+CarEnteringRoundabout,2.0112E+16,2011,Cheshire East,51
+CarEnteringRoundabout,2.0112E+16,2011,Warrington,45
+CarEnteringRoundabout,2.0112E+16,2011,Cheshire East,43
+CarEnteringRoundabout,2.0112E+16,2011,Cheshire West and Chester,30
+CarEnteringRoundabout,2.0112E+16,2011,Warrington,24
+CarEnteringRoundabout,2.0112E+16,2011,Cheshire East,22
+CarEnteringRoundabout,2.0112E+16,2011,Cheshire West and Chester,41
+CarEnteringRoundabout,2.0112E+16,2011,Warrington,31
+CarEnteringRoundabout,2.0112E+16,2011,South Tyneside,40
+CarEnteringRoundabout,2.0112E+16,2011,South Tyneside,24
+CarEnteringRoundabout,2.0112E+16,2011,North Tyneside,27
+CarEnteringRoundabout,2.0112E+16,2011,Newcastle upon Tyne,54
+CarEnteringRoundabout,2.0112E+16,2011,Newcastle upon Tyne,49
+CarEnteringRoundabout,2.0112E+16,2011,South Tyneside,44
+CarEnteringRoundabout,2.0112E+16,2011,Newcastle upon Tyne,34
+CarEnteringRoundabout,2.0112E+16,2011,Northumberland,47
+CarEnteringRoundabout,2.0112E+16,2011,South Tyneside,37
+CarEnteringRoundabout,2.0112E+16,2011,Newcastle upon Tyne,20
+CarEnteringRoundabout,2011201111NI25191,2011,Durham,19
+CarEnteringRoundabout,2011201111SA23841,2011,Durham,56
+CarEnteringRoundabout,2011201111SJ21441,2011,Darlington,50
+CarEnteringRoundabout,2011201111SJ24601,2011,Darlington,49
+CarEnteringRoundabout,2.0112E+16,2011,York,20
+CarEnteringRoundabout,2.0112E+16,2011,North Yorkshire,45
+CarEnteringRoundabout,2.0112E+16,2011,York,57
+CarEnteringRoundabout,2.0112E+16,2011,York,40
+CarEnteringRoundabout,2.0112E+16,2011,York,34
+CarEnteringRoundabout,2.0112E+16,2011,Wakefield,28
+CarEnteringRoundabout,2.0112E+16,2011,Leeds,33
+CarEnteringRoundabout,2.0112E+16,2011,Leeds,49
+CarEnteringRoundabout,2.0112E+16,2011,Bradford,34
+CarEnteringRoundabout,2.0112E+16,2011,Leeds,37
+CarEnteringRoundabout,2.0112E+16,2011,Wakefield,37
+CarEnteringRoundabout,2.0112E+16,2011,Wakefield,54
+CarEnteringRoundabout,2.0112E+16,2011,Kirklees,26
+CarEnteringRoundabout,2.0112E+16,2011,Leeds,26
+CarEnteringRoundabout,2.0112E+16,2011,Bradford,56
+CarEnteringRoundabout,2.0112E+16,2011,Leeds,29
+CarEnteringRoundabout,2.0112E+16,2011,Leeds,17
+CarEnteringRoundabout,2011201114A052811,2011,Doncaster,62
+CarEnteringRoundabout,2011201114A130011,2011,Doncaster,42
+CarEnteringRoundabout,2011201114A175111,2011,Doncaster,63
+CarEnteringRoundabout,2011201114A177811,2011,Doncaster,43
+CarEnteringRoundabout,2011201114A204411,2011,Doncaster,86
+CarEnteringRoundabout,2011201114K124611,2011,Sheffield,50
+CarEnteringRoundabout,20112011160B04881,2011,North Lincolnshire,39
+CarEnteringRoundabout,20112011160C03541,2011,East Riding of Yorkshire,20
+CarEnteringRoundabout,20112011160C07471,2011,East Riding of Yorkshire,42
+CarEnteringRoundabout,20112011160C08311,2011,East Riding of Yorkshire,20
+CarEnteringRoundabout,20112011160D00311,2011,Kingston Upon Hull,44
+CarEnteringRoundabout,20112011160D00671,2011,Kingston Upon Hull,24
+CarEnteringRoundabout,20112011160D01121,2011,Kingston Upon Hull,51
+CarEnteringRoundabout,20112011160D05511,2011,Kingston Upon Hull,77
+CarEnteringRoundabout,20112011160D07391,2011,Kingston Upon Hull,23
+CarEnteringRoundabout,20112011170L41151,2011,Redcar and Cleveland,44
+CarEnteringRoundabout,20112011170M11521,2011,Middlesbrough,48
+CarEnteringRoundabout,20112011170M20181,2011,Middlesbrough,28
+CarEnteringRoundabout,20112011170M31701,2011,Middlesbrough,48
+CarEnteringRoundabout,20112011170S10471,2011,Stockton on Tees,38
+CarEnteringRoundabout,20112011170S12971,2011,Stockton on Tees,27
+CarEnteringRoundabout,20112011170S13321,2011,Stockton on Tees,60
+CarEnteringRoundabout,2011201120G008181,2011,Wolverhampton,53
+CarEnteringRoundabout,2011201120G010731,2011,Wolverhampton,44
+CarEnteringRoundabout,2011201120H006151,2011,Walsall,39
+CarEnteringRoundabout,2011201120K000381,2011,Sandwell,49
+CarEnteringRoundabout,2011201120L001321,2011,Solihull,21
+CarEnteringRoundabout,2011201120L008091,2011,Solihull,48
+CarEnteringRoundabout,2011201120M002241,2011,Coventry,39
+CarEnteringRoundabout,2011201120M002711,2011,Coventry,45
+CarEnteringRoundabout,2011201120M004191,2011,Coventry,72
+CarEnteringRoundabout,2011201120M014181,2011,Coventry,42
+CarEnteringRoundabout,2011201120M014471,2011,Coventry,-1
+CarEnteringRoundabout,2011201120M500441,2011,Coventry,39
+CarEnteringRoundabout,2011201120N009671,2011,Birmingham,61
+CarEnteringRoundabout,2011201120N043741,2011,Birmingham,40
+CarEnteringRoundabout,2011201120N062081,2011,Birmingham,42
+CarEnteringRoundabout,2011201120S008341,2011,Birmingham,25
+CarEnteringRoundabout,2011201120S053271,2011,Birmingham,22
+CarEnteringRoundabout,2011201120T023001,2011,Birmingham,46
+CarEnteringRoundabout,2011201120T041531,2011,Birmingham,43
+CarEnteringRoundabout,2011201120T043411,2011,Birmingham,30
+CarEnteringRoundabout,2011201120W003531,2011,Birmingham,35
+CarEnteringRoundabout,2011201120W004111,2011,Birmingham,38
+CarEnteringRoundabout,2011201120W050491,2011,Birmingham,31
+CarEnteringRoundabout,2011201120W057021,2011,Birmingham,28
+CarEnteringRoundabout,2.0112E+16,2011,Stoke on Trent,39
+CarEnteringRoundabout,2.0112E+16,2011,Stoke on Trent,32
+CarEnteringRoundabout,2.0112E+16,2011,Staffordshire,24
+CarEnteringRoundabout,2.0112E+16,2011,Stoke on Trent,20
+CarEnteringRoundabout,2.0112E+16,2011,Stoke on Trent,62
+CarEnteringRoundabout,2.0112E+16,2011,Staffordshire,54
+CarEnteringRoundabout,2.0112E+16,2011,Staffordshire,52
+CarEnteringRoundabout,2.0112E+16,2011,Staffordshire,39
+CarEnteringRoundabout,2.0112E+16,2011,Staffordshire,32
+CarEnteringRoundabout,2.0112E+16,2011,Staffordshire,43
+CarEnteringRoundabout,2.0112E+16,2011,Staffordshire,38
+CarEnteringRoundabout,2.0112E+16,2011,Staffordshire,36
+CarEnteringRoundabout,2.0112E+16,2011,Staffordshire,30
+CarEnteringRoundabout,2.0112E+16,2011,Staffordshire,55
+CarEnteringRoundabout,2.0112E+16,2011,Staffordshire,22
+CarEnteringRoundabout,2.0112E+16,2011,Stoke on Trent,61
+CarEnteringRoundabout,2.0112E+16,2011,Stoke on Trent,28
+CarEnteringRoundabout,2.0112E+16,2011,Staffordshire,44
+CarEnteringRoundabout,2.0112E+16,2011,Staffordshire,39
+CarEnteringRoundabout,2011201122C103332,2011,Worcestershire,44
+CarEnteringRoundabout,2011201122D100397,2011,Worcestershire,19
+CarEnteringRoundabout,2011201122D100867,2011,Worcestershire,20
+CarEnteringRoundabout,2011201122D105246,2011,Worcestershire,22
+CarEnteringRoundabout,2011201122E101585,2011,Herefordshire,23
+CarEnteringRoundabout,2011201122E103007,2011,Herefordshire,25
+CarEnteringRoundabout,2011201122E104719,2011,Herefordshire,51
+CarEnteringRoundabout,2011201122F100786,2011,Shropshire,28
+CarEnteringRoundabout,2011201122F101730,2011,Shropshire,48
+CarEnteringRoundabout,2011201122F104218,2011,Shropshire,17
+CarEnteringRoundabout,2011201122F104587,2011,Shropshire,54
+CarEnteringRoundabout,2011201122G103762,2011,Telford and Wrekin,19
+CarEnteringRoundabout,2.0112E+16,2011,Warwickshire,39
+CarEnteringRoundabout,2.0112E+16,2011,Warwickshire,69
+CarEnteringRoundabout,2.0112E+16,2011,Warwickshire,32
+CarEnteringRoundabout,2011201130B000195,2011,Derbyshire,25
+CarEnteringRoundabout,2011201130B000346,2011,Derbyshire,52
+CarEnteringRoundabout,2011201130C000146,2011,Derbyshire,45
+CarEnteringRoundabout,2011201130D000125,2011,Derby,43
+CarEnteringRoundabout,2011201130D000162,2011,Derby,46
+CarEnteringRoundabout,2011201130D000403,2011,Derby,21
+CarEnteringRoundabout,2011201130D000543,2011,Derbyshire,40
+CarEnteringRoundabout,2011201130D000829,2011,Derbyshire,36
+CarEnteringRoundabout,2011201130D000872,2011,Derbyshire,42
+CarEnteringRoundabout,2011201130D000964,2011,Derbyshire,43
+CarEnteringRoundabout,2011201130D000992,2011,Derby,32
+CarEnteringRoundabout,2011201130D001106,2011,Derby,23
+CarEnteringRoundabout,2011201130D001163,2011,Derby,-1
+CarEnteringRoundabout,2011201130D001169,2011,Derby,50
+CarEnteringRoundabout,2011201130D001198,2011,Derbyshire,59
+CarEnteringRoundabout,2011201131A046511,2011,Nottinghamshire,-1
+CarEnteringRoundabout,2011201131A200811,2011,Nottinghamshire,-1
+CarEnteringRoundabout,2011201131B003411,2011,Nottinghamshire,52
+CarEnteringRoundabout,2011201131B003511,2011,Nottinghamshire,52
+CarEnteringRoundabout,2011201131B017511,2011,Nottinghamshire,16
+CarEnteringRoundabout,2011201131C008711,2011,Nottingham,40
+CarEnteringRoundabout,2011201131C178511,2011,Nottingham,37
+CarEnteringRoundabout,2011201131C183311,2011,Nottingham,26
+CarEnteringRoundabout,2011201131C269611,2011,Nottingham,24
+CarEnteringRoundabout,2011201131C290311,2011,Nottingham,42
+CarEnteringRoundabout,2011201131C295311,2011,Nottingham,29
+CarEnteringRoundabout,2011201131D141311,2011,Nottinghamshire,25
+CarEnteringRoundabout,2011201131D213911,2011,Nottinghamshire,26
+CarEnteringRoundabout,2011201132B008111,2011,Lincolnshire,-1
+CarEnteringRoundabout,2011201132B321511,2011,Lincolnshire,45
+CarEnteringRoundabout,2011201132N357011,2011,Lincolnshire,46
+CarEnteringRoundabout,2.0112E+16,2011,Leicestershire,35
+CarEnteringRoundabout,2.0112E+16,2011,Leicestershire,55
+CarEnteringRoundabout,2.0112E+16,2011,Leicestershire,38
+CarEnteringRoundabout,2.0112E+16,2011,Leicestershire,55
+CarEnteringRoundabout,2.0112E+16,2011,Leicestershire,26
+CarEnteringRoundabout,2.0112E+16,2011,Leicestershire,23
+CarEnteringRoundabout,2.0112E+16,2011,Leicestershire,47
+CarEnteringRoundabout,2.0112E+16,2011,Leicestershire,39
+CarEnteringRoundabout,2.0112E+16,2011,Leicestershire,21
+CarEnteringRoundabout,2.0112E+16,2011,Leicestershire,16
+CarEnteringRoundabout,2011201134NC01151,2011,Northamptonshire,52
+CarEnteringRoundabout,2011201134NC08851,2011,Northamptonshire,41
+CarEnteringRoundabout,2011201134NK00431,2011,Northamptonshire,46
+CarEnteringRoundabout,2011201134NK00481,2011,Northamptonshire,53
+CarEnteringRoundabout,2011201134NK13551,2011,Northamptonshire,38
+CarEnteringRoundabout,2011201134NW27231,2011,Northamptonshire,22
+CarEnteringRoundabout,2011201134NW32371,2011,Northamptonshire,24
+CarEnteringRoundabout,2011201134WD31711,2011,Northamptonshire,50
+CarEnteringRoundabout,2011201134WN02261,2011,Northamptonshire,56
+CarEnteringRoundabout,2011201134WN12561,2011,Northamptonshire,-1
+CarEnteringRoundabout,2011201134WN13521,2011,Northamptonshire,52
+CarEnteringRoundabout,2.0112E+16,2011,Cambridgeshire,29
+CarEnteringRoundabout,2.0112E+16,2011,Cambridgeshire,34
+CarEnteringRoundabout,2.0112E+16,2011,Peterborough,32
+CarEnteringRoundabout,2.0112E+16,2011,Cambridgeshire,53
+CarEnteringRoundabout,2.0112E+16,2011,Peterborough,36
+CarEnteringRoundabout,2.0112E+16,2011,Cambridgeshire,35
+CarEnteringRoundabout,2.0112E+16,2011,Peterborough,29
+CarEnteringRoundabout,2.0112E+16,2011,Cambridgeshire,63
+CarEnteringRoundabout,2.0112E+16,2011,Peterborough,18
+CarEnteringRoundabout,2.0112E+16,2011,Cambridgeshire,39
+CarEnteringRoundabout,2.0112E+16,2011,Cambridgeshire,20
+CarEnteringRoundabout,2.0112E+16,2011,Cambridgeshire,48
+CarEnteringRoundabout,2.0112E+16,2011,Peterborough,70
+CarEnteringRoundabout,2.0112E+16,2011,Peterborough,32
+CarEnteringRoundabout,2.0112E+16,2011,Peterborough,39
+CarEnteringRoundabout,2.0112E+16,2011,Cambridgeshire,38
+CarEnteringRoundabout,2.0112E+16,2011,Cambridgeshire,25
+CarEnteringRoundabout,2.0112E+16,2011,Cambridgeshire,48
+CarEnteringRoundabout,2.0112E+16,2011,Cambridgeshire,32
+CarEnteringRoundabout,2.0112E+16,2011,Norfolk,60
+CarEnteringRoundabout,2.0112E+16,2011,Norfolk,45
+CarEnteringRoundabout,2.0112E+16,2011,Norfolk,24
+CarEnteringRoundabout,2.0112E+16,2011,Norfolk,35
+CarEnteringRoundabout,2.0112E+16,2011,Norfolk,26
+CarEnteringRoundabout,2.0112E+16,2011,Norfolk,25
+CarEnteringRoundabout,2.0112E+16,2011,Norfolk,43
+CarEnteringRoundabout,2.0112E+16,2011,Norfolk,38
+CarEnteringRoundabout,2.0112E+16,2011,Norfolk,15
+CarEnteringRoundabout,2011201136T110080,2011,Norfolk,25
+CarEnteringRoundabout,2.0112E+16,2011,Suffolk,58
+CarEnteringRoundabout,2.0112E+16,2011,Suffolk,20
+CarEnteringRoundabout,2.0112E+16,2011,Suffolk,42
+CarEnteringRoundabout,2.0112E+16,2011,Suffolk,37
+CarEnteringRoundabout,2.0112E+16,2011,Suffolk,17
+CarEnteringRoundabout,2.0112E+16,2011,Suffolk,20
+CarEnteringRoundabout,2.0112E+16,2011,Suffolk,19
+CarEnteringRoundabout,20112011400BA0152,2011,Bedford Borough Council,35
+CarEnteringRoundabout,20112011400BA0427,2011,Bedford Borough Council,17
+CarEnteringRoundabout,20112011400DA0358,2011,Central Bedfordshire,26
+CarEnteringRoundabout,201120114100A0231,2011,Hertfordshire,50
+CarEnteringRoundabout,201120114100A0275,2011,Hertfordshire,45
+CarEnteringRoundabout,201120114100A0518,2011,Hertfordshire,36
+CarEnteringRoundabout,201120114100A0645,2011,Hertfordshire,39
+CarEnteringRoundabout,201120114100B0012,2011,Hertfordshire,34
+CarEnteringRoundabout,201120114100B0014,2011,Hertfordshire,39
+CarEnteringRoundabout,201120114100B0031,2011,Hertfordshire,19
+CarEnteringRoundabout,201120114100B0326,2011,Hertfordshire,28
+CarEnteringRoundabout,201120114100B0662,2011,Hertfordshire,46
+CarEnteringRoundabout,201120114100C0095,2011,Hertfordshire,47
+CarEnteringRoundabout,201120114100C0333,2011,Hertfordshire,66
+CarEnteringRoundabout,201120114100C0370,2011,Hertfordshire,51
+CarEnteringRoundabout,201120114100C0979,2011,Hertfordshire,41
+CarEnteringRoundabout,201120114100C1259,2011,Hertfordshire,23
+CarEnteringRoundabout,201120114100D0231,2011,Hertfordshire,55
+CarEnteringRoundabout,201120114100D0239,2011,Hertfordshire,15
+CarEnteringRoundabout,201120114100D0557,2011,Hertfordshire,18
+CarEnteringRoundabout,201120114100D0797,2011,Hertfordshire,27
+CarEnteringRoundabout,2.01E+296,2011,Hertfordshire,49
+CarEnteringRoundabout,201120114100F0161,2011,Hertfordshire,37
+CarEnteringRoundabout,201120114100F0516,2011,Hertfordshire,42
+CarEnteringRoundabout,201120114100F0821,2011,Hertfordshire,40
+CarEnteringRoundabout,201120114100G0019,2011,Hertfordshire,47
+CarEnteringRoundabout,201120114100G0500,2011,Hertfordshire,28
+CarEnteringRoundabout,201120114100G0551,2011,Hertfordshire,49
+CarEnteringRoundabout,201120114100J0015,2011,Hertfordshire,46
+CarEnteringRoundabout,201120114100J0477,2011,Hertfordshire,40
+CarEnteringRoundabout,201120114100K0333,2011,Hertfordshire,38
+CarEnteringRoundabout,2011201142I007901,2011,Essex,-1
+CarEnteringRoundabout,2011201142I040002,2011,Essex,24
+CarEnteringRoundabout,2011201142I125804,2011,Southend on Sea,27
+CarEnteringRoundabout,2011201142I273409,2011,Essex,47
+CarEnteringRoundabout,2011201142I322710,2011,Essex,72
+CarEnteringRoundabout,2011201142I322910,2011,Essex,53
+CarEnteringRoundabout,2011201142I371510,2011,Essex,44
+CarEnteringRoundabout,2011201142I398212,2011,Essex,29
+CarEnteringRoundabout,2011201143N015091,2011,Buckinghamshire,49
+CarEnteringRoundabout,2011201143N054121,2011,Buckinghamshire,40
+CarEnteringRoundabout,2011201143N228111,2011,Buckinghamshire,50
+CarEnteringRoundabout,2011201143P008111,2011,Oxfordshire,43
+CarEnteringRoundabout,2011201143P030011,2011,Oxfordshire,44
+CarEnteringRoundabout,2011201143P056111,2011,Oxfordshire,19
+CarEnteringRoundabout,2011201143P065011,2011,Oxfordshire,29
+CarEnteringRoundabout,2011201143P068091,2011,Oxfordshire,51
+CarEnteringRoundabout,2011201143P117031,2011,Oxfordshire,39
+CarEnteringRoundabout,2011201143P118101,2011,Oxfordshire,33
+CarEnteringRoundabout,2011201143P158021,2011,Oxfordshire,22
+CarEnteringRoundabout,2011201143P183121,2011,Oxfordshire,17
+CarEnteringRoundabout,2011201143P208101,2011,Oxfordshire,40
+CarEnteringRoundabout,2011201143P222041,2011,Oxfordshire,25
+CarEnteringRoundabout,2011201143P241021,2011,Oxfordshire,45
+CarEnteringRoundabout,2011201143P338121,2011,Oxfordshire,20
+CarEnteringRoundabout,2011201143R012101,2011,Bracknell Forest,27
+CarEnteringRoundabout,2011201143R013101,2011,Slough,47
+CarEnteringRoundabout,2011201143R117051,2011,Wokingham,23
+CarEnteringRoundabout,2011201143R172081,2011,Windsor and Maidenhead,45
+CarEnteringRoundabout,2011201143R175091,2011,Bracknell Forest,51
+CarEnteringRoundabout,2011201143R211031,2011,Windsor and Maidenhead,40
+CarEnteringRoundabout,2011201143R238011,2011,Bracknell Forest,31
+CarEnteringRoundabout,2011201143S013091,2011,Milton Keynes,20
+CarEnteringRoundabout,2011201143S014041,2011,Milton Keynes,34
+CarEnteringRoundabout,2011201143S029021,2011,Milton Keynes,36
+CarEnteringRoundabout,2011201143S033041,2011,Milton Keynes,74
+CarEnteringRoundabout,2011201143S064101,2011,Milton Keynes,39
+CarEnteringRoundabout,2011201143S118041,2011,Milton Keynes,65
+CarEnteringRoundabout,2011201143S118091,2011,Milton Keynes,43
+CarEnteringRoundabout,2011201143S129091,2011,Milton Keynes,26
+CarEnteringRoundabout,2011201143W005011,2011,Wokingham,25
+CarEnteringRoundabout,2011201143W110021,2011,Wokingham,41
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,36
+CarEnteringRoundabout,2.0112E+16,2011,Southampton ,39
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,32
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,46
+CarEnteringRoundabout,2.0112E+16,2011,Portsmouth,21
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,36
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,32
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,29
+CarEnteringRoundabout,2.0112E+16,2011,Southampton ,25
+CarEnteringRoundabout,2.0112E+16,2011,Southampton ,39
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,42
+CarEnteringRoundabout,2.0112E+16,2011,Portsmouth,36
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,26
+CarEnteringRoundabout,2.0112E+16,2011,Southampton ,44
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,40
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,32
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,52
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,45
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,55
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,46
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,50
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,23
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,48
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,15
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,49
+CarEnteringRoundabout,2.0112E+16,2011,Portsmouth,37
+CarEnteringRoundabout,2.0112E+16,2011,Portsmouth,17
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,36
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,26
+CarEnteringRoundabout,2.0112E+16,2011,Portsmouth,51
+CarEnteringRoundabout,2.0112E+16,2011,Hampshire,39
+CarEnteringRoundabout,2011201145EL64974,2011,Surrey,60
+CarEnteringRoundabout,2011201145RE64571,2011,Surrey,47
+CarEnteringRoundabout,2011201145RU57691,2011,Surrey,38
+CarEnteringRoundabout,2011201145RU63127,2011,Surrey,26
+CarEnteringRoundabout,2011201145RU65695,2011,Surrey,46
+CarEnteringRoundabout,2011201145SP66762,2011,Surrey,51
+CarEnteringRoundabout,2011201145WA58268,2011,Surrey,33
+CarEnteringRoundabout,2.0112E+16,2011,Medway,37
+CarEnteringRoundabout,2.0112E+16,2011,Medway,31
+CarEnteringRoundabout,2.0112E+16,2011,Kent,57
+CarEnteringRoundabout,2.0112E+16,2011,West Sussex,58
+CarEnteringRoundabout,2.0112E+16,2011,West Sussex,23
+CarEnteringRoundabout,2.0112E+16,2011,Brighton and Hove,39
+CarEnteringRoundabout,2.0112E+16,2011,East Sussex,50
+CarEnteringRoundabout,2.0112E+16,2011,Brighton and Hove,17
+CarEnteringRoundabout,2.0112E+16,2011,West Sussex,37
+CarEnteringRoundabout,2.0112E+16,2011,West Sussex,39
+CarEnteringRoundabout,2.0112E+16,2011,West Sussex,43
+CarEnteringRoundabout,2.0112E+16,2011,Brighton and Hove,38
+CarEnteringRoundabout,2.0112E+16,2011,West Sussex,48
+CarEnteringRoundabout,2.0112E+16,2011,West Sussex,56
+CarEnteringRoundabout,2.0112E+16,2011,West Sussex,37
+CarEnteringRoundabout,2.0112E+16,2011,West Sussex,32
+CarEnteringRoundabout,2.0112E+16,2011,West Sussex,53
+CarEnteringRoundabout,2.0112E+16,2011,Brighton and Hove,41
+CarEnteringRoundabout,2011201150AY2C012,2011,Cornwall and Isles of Scilly,46
+CarEnteringRoundabout,2011201150AY2H006,2011,Cornwall and Isles of Scilly,15
+CarEnteringRoundabout,2011201150CB2D011,2011,Devon,62
+CarEnteringRoundabout,2011201150DE2T010,2011,Devon,47
+CarEnteringRoundabout,2011201150DE2U005,2011,Devon,15
+CarEnteringRoundabout,2011201150EC2E052,2011,Plymouth,19
+CarEnteringRoundabout,2011201150EC2E102,2011,Plymouth,46
+CarEnteringRoundabout,2011201150ED2N041,2011,Plymouth,50
+CarEnteringRoundabout,2011201150EK2B011,2011,Plymouth,33
+CarEnteringRoundabout,2011201150EL2S014,2011,Plymouth,24
+CarEnteringRoundabout,2011201150FT2E030,2011,Torbay,-1
+CarEnteringRoundabout,2011201150GC2H025,2011,Cornwall and Isles of Scilly,57
+CarEnteringRoundabout,2011201150GT3F014,2011,Cornwall and Isles of Scilly,-1
+CarEnteringRoundabout,2.0112E+16,2011,Somerset,47
+CarEnteringRoundabout,2.0112E+16,2011,Somerset,55
+CarEnteringRoundabout,2.0112E+16,2011,Somerset,59
+CarEnteringRoundabout,2.0112E+16,2011,Somerset,42
+CarEnteringRoundabout,2.0112E+16,2011,Somerset,26
+CarEnteringRoundabout,2.0112E+16,2011,North Somerset,40
+CarEnteringRoundabout,2.0112E+16,2011,South Gloucestershire,32
+CarEnteringRoundabout,2.0112E+16,2011,South Gloucestershire,59
+CarEnteringRoundabout,2.0112E+16,2011,City of Bristol,42
+CarEnteringRoundabout,2.0112E+16,2011,Bath and North East Somerset,20
+CarEnteringRoundabout,2.0112E+16,2011,South Gloucestershire,33
+CarEnteringRoundabout,2.0112E+16,2011,City of Bristol,28
+CarEnteringRoundabout,2.0112E+16,2011,South Gloucestershire,45
+CarEnteringRoundabout,2.0112E+16,2011,Gloucestershire,39
+CarEnteringRoundabout,2.0112E+16,2011,Gloucestershire,30
+CarEnteringRoundabout,2.0112E+16,2011,Gloucestershire,45
+CarEnteringRoundabout,2.0112E+16,2011,Swindon,37
+CarEnteringRoundabout,2.0112E+16,2011,Swindon,30
+CarEnteringRoundabout,2.0112E+16,2011,Wiltshire,35
+CarEnteringRoundabout,2011201154DE06511,2011,Swindon,25
+CarEnteringRoundabout,2011201154DW01711,2011,Swindon,39
+CarEnteringRoundabout,2011201154DW12611,2011,Swindon,22
+CarEnteringRoundabout,2011201154EP04611,2011,Wiltshire,54
+CarEnteringRoundabout,20112011551C02421,2011,Bournemouth,31
+CarEnteringRoundabout,20112011551C04450,2011,Bournemouth,27
+CarEnteringRoundabout,20112011551C06111,2011,Bournemouth,30
+CarEnteringRoundabout,20112011551C06205,2011,Poole,33
+CarEnteringRoundabout,20112011551C07550,2011,Bournemouth,33
+CarEnteringRoundabout,20112011551C07987,2011,Bournemouth,28
+CarEnteringRoundabout,20112011551C09826,2011,Poole,52
+CarEnteringRoundabout,20112011551C15826,2011,Bournemouth,50
+CarEnteringRoundabout,20112011551C17622,2011,Bournemouth,33
+CarEnteringRoundabout,20112011551C20470,2011,Bournemouth,51
+CarEnteringRoundabout,20112011551C26555,2011,Bournemouth,36
+CarEnteringRoundabout,20112011551C27515,2011,Poole,34
+CarEnteringRoundabout,20112011551C29602,2011,Bournemouth,52
+CarEnteringRoundabout,20112011551C31523,2011,Bournemouth,61
+CarEnteringRoundabout,20112011551C40604,2011,Poole,77
+CarEnteringRoundabout,20112011551C41209,2011,Poole,25
+CarEnteringRoundabout,20112011551C42022,2011,Bournemouth,19
+CarEnteringRoundabout,20112011551C42100,2011,Bournemouth,26
+CarEnteringRoundabout,20112011551C44593,2011,Bournemouth,15
+CarEnteringRoundabout,20112011551C45136,2011,Dorset,15
+CarEnteringRoundabout,20112011551C47575,2011,Bournemouth,41
+CarEnteringRoundabout,20112011551C49939,2011,Bournemouth,52
+CarEnteringRoundabout,20112011551C50047,2011,Bournemouth,45
+CarEnteringRoundabout,20112011551C51514,2011,Bournemouth,34
+CarEnteringRoundabout,20112011551C52212,2011,Poole,26
+CarEnteringRoundabout,20112011551C55443,2011,Bournemouth,32
+CarEnteringRoundabout,20112011551C55471,2011,Poole,40
+CarEnteringRoundabout,20112011551C57256,2011,Poole,57
+CarEnteringRoundabout,20112011551D02086,2011,Dorset,30
+CarEnteringRoundabout,20112011551D07578,2011,Dorset,56
+CarEnteringRoundabout,20112011551D10391,2011,Dorset,39
+CarEnteringRoundabout,20112011551D18234,2011,Dorset,33
+CarEnteringRoundabout,20112011551D52543,2011,Dorset,29
+CarEnteringRoundabout,2012201201TA00341,2012,London,29
+CarEnteringRoundabout,2012201201YR90362,2012,London,26
+CarEnteringRoundabout,2012201204AM12022,2012,Blackpool,43
+CarEnteringRoundabout,2012201204BC12168,2012,Lancashire,80
+CarEnteringRoundabout,2012201204CA12080,2012,Lancashire,34
+CarEnteringRoundabout,2012201204CJ12012,2012,Lancashire,31
+CarEnteringRoundabout,2012201204CJ12144,2012,Lancashire,27
+CarEnteringRoundabout,2012201204CJ12158,2012,Lancashire,24
+CarEnteringRoundabout,2012201204CL12003,2012,Lancashire,40
+CarEnteringRoundabout,2012201204CL12058,2012,Lancashire,48
+CarEnteringRoundabout,2012201204CL12088,2012,Lancashire,43
+CarEnteringRoundabout,2012201204CL12097,2012,Lancashire,34
+CarEnteringRoundabout,2012201204CL12164,2012,Lancashire,30
+CarEnteringRoundabout,2012201204CL12169,2012,Lancashire,40
+CarEnteringRoundabout,2012201204DL12119,2012,Lancashire,23
+CarEnteringRoundabout,2012201204FL12018,2012,Lancashire,48
+CarEnteringRoundabout,2012201205AA01005,2012,Merseyside,58
+CarEnteringRoundabout,2012201205AA04990,2012,Merseyside,44
+CarEnteringRoundabout,2012201205BB02409,2012,Merseyside,55
+CarEnteringRoundabout,2012201205BB02792,2012,Merseyside,73
+CarEnteringRoundabout,2012201205BB02919,2012,Merseyside,15
+CarEnteringRoundabout,2012201205BB02928,2012,Merseyside,30
+CarEnteringRoundabout,2012201205BB03866,2012,Merseyside,64
+CarEnteringRoundabout,2012201205BB06178,2012,Merseyside,40
+CarEnteringRoundabout,2012201205BB06337,2012,Merseyside,67
+CarEnteringRoundabout,2012201205CC01198,2012,Merseyside,56
+CarEnteringRoundabout,2012201205CC06635,2012,Merseyside,34
+CarEnteringRoundabout,2012201205DD03316,2012,Merseyside,22
+CarEnteringRoundabout,2012201205FF06402,2012,Merseyside,21
+CarEnteringRoundabout,2012201206A065606,2012,Manchester,39
+CarEnteringRoundabout,2012201206E064201,2012,Manchester,32
+CarEnteringRoundabout,2012201206E065585,2012,Manchester,10
+CarEnteringRoundabout,2012201206F061214,2012,Salford,30
+CarEnteringRoundabout,2012201206F063643,2012,Salford,30
+CarEnteringRoundabout,2012201206J058699,2012,Stockport,49
+CarEnteringRoundabout,2012201206J064349,2012,Stockport,29
+CarEnteringRoundabout,2012201206M067276,2012,Trafford,22
+CarEnteringRoundabout,2012201206M068361,2012,Trafford,23
+CarEnteringRoundabout,2012201206NP59553,2012,Bury,32
+CarEnteringRoundabout,2.0122E+16,2012,Cheshire West and Chester,41
+CarEnteringRoundabout,2.0122E+16,2012,Warrington,19
+CarEnteringRoundabout,2.0122E+16,2012,Warrington,49
+CarEnteringRoundabout,2.0122E+16,2012,Warrington,31
+CarEnteringRoundabout,2.0122E+16,2012,Warrington,34
+CarEnteringRoundabout,2.0122E+16,2012,Cheshire East,62
+CarEnteringRoundabout,2.0122E+16,2012,Cheshire West and Chester,47
+CarEnteringRoundabout,2.0122E+16,2012,Cheshire West and Chester,49
+CarEnteringRoundabout,2.0122E+16,2012,Warrington,55
+CarEnteringRoundabout,2.0122E+16,2012,Cheshire West and Chester,46
+CarEnteringRoundabout,2.0122E+16,2012,Cheshire East,36
+CarEnteringRoundabout,2.0122E+16,2012,Cheshire West and Chester,55
+CarEnteringRoundabout,2.0122E+16,2012,Warrington,58
+CarEnteringRoundabout,2.0122E+16,2012,Cheshire West and Chester,18
+CarEnteringRoundabout,2.0122E+16,2012,Cheshire West and Chester,30
+CarEnteringRoundabout,2.0122E+16,2012,Cheshire West and Chester,24
+CarEnteringRoundabout,2.0122E+16,2012,Cheshire East,66
+CarEnteringRoundabout,2.0122E+16,2012,Cheshire East,29
+CarEnteringRoundabout,2.0122E+16,2012,Warrington,30
+CarEnteringRoundabout,2.0122E+16,2012,Cheshire West and Chester,29
+CarEnteringRoundabout,2.0122E+16,2012,Warrington,53
+CarEnteringRoundabout,2.0122E+16,2012,Cheshire West and Chester,37
+CarEnteringRoundabout,2.0122E+16,2012,Halton,43
+CarEnteringRoundabout,2.0122E+16,2012,Halton,21
+CarEnteringRoundabout,2.0122E+16,2012,Warrington,28
+CarEnteringRoundabout,2.0122E+16,2012,Warrington,55
+CarEnteringRoundabout,2.0122E+16,2012,Northumberland,26
+CarEnteringRoundabout,2.0122E+16,2012,South Tyneside,33
+CarEnteringRoundabout,2.0122E+16,2012,North Tyneside,33
+CarEnteringRoundabout,2.0122E+16,2012,North Tyneside,34
+CarEnteringRoundabout,2.0122E+16,2012,South Tyneside,23
+CarEnteringRoundabout,2.0122E+16,2012,South Tyneside,30
+CarEnteringRoundabout,2012201211NG12782,2012,Durham,20
+CarEnteringRoundabout,2012201211NI01522,2012,Durham,49
+CarEnteringRoundabout,2012201211NI05632,2012,Durham,55
+CarEnteringRoundabout,2012201211SA25462,2012,Durham,36
+CarEnteringRoundabout,2012201211SJ23422,2012,Darlington,30
+CarEnteringRoundabout,2012201211SJ25502,2012,Darlington,35
+CarEnteringRoundabout,2.0122E+16,2012,North Yorkshire,32
+CarEnteringRoundabout,2.0122E+16,2012,North Yorkshire,24
+CarEnteringRoundabout,2.0122E+16,2012,York,73
+CarEnteringRoundabout,2.0122E+16,2012,North Yorkshire,45
+CarEnteringRoundabout,2.0122E+16,2012,North Yorkshire,31
+CarEnteringRoundabout,2.0122E+16,2012,North Yorkshire,51
+CarEnteringRoundabout,2.0122E+16,2012,Leeds,14
+CarEnteringRoundabout,2.0122E+16,2012,Leeds,44
+CarEnteringRoundabout,2.0122E+16,2012,Leeds,30
+CarEnteringRoundabout,2.0122E+16,2012,Leeds,44
+CarEnteringRoundabout,2.0122E+16,2012,Leeds,36
+CarEnteringRoundabout,2.0122E+16,2012,Leeds,25
+CarEnteringRoundabout,2.0122E+16,2012,Kirklees,48
+CarEnteringRoundabout,2.0122E+16,2012,Leeds,29
+CarEnteringRoundabout,2.0122E+16,2012,Leeds,12
+CarEnteringRoundabout,2.0122E+16,2012,Bradford,33
+CarEnteringRoundabout,2.0122E+16,2012,Bradford,44
+CarEnteringRoundabout,2.0122E+16,2012,Leeds,28
+CarEnteringRoundabout,2012201214A170112,2012,Doncaster,30
+CarEnteringRoundabout,2012201214C071312,2012,Rotherham,41
+CarEnteringRoundabout,2012201214K187712,2012,Sheffield,50
+CarEnteringRoundabout,2012201214K224812,2012,Sheffield,34
+CarEnteringRoundabout,2012201214K285312,2012,Sheffield,42
+CarEnteringRoundabout,20122012160A00021,2012,North East Lincolnshire,18
+CarEnteringRoundabout,20122012160A00431,2012,North East Lincolnshire,61
+CarEnteringRoundabout,20122012160A03691,2012,North East Lincolnshire,38
+CarEnteringRoundabout,20122012160C01011,2012,East Riding of Yorkshire,39
+CarEnteringRoundabout,20122012160C02571,2012,East Riding of Yorkshire,43
+CarEnteringRoundabout,20122012160C04001,2012,East Riding of Yorkshire,34
+CarEnteringRoundabout,20122012160C04051,2012,East Riding of Yorkshire,47
+CarEnteringRoundabout,20122012160C07091,2012,East Riding of Yorkshire,53
+CarEnteringRoundabout,20122012160D00241,2012,Kingston Upon Hull,28
+CarEnteringRoundabout,20122012160D00271,2012,Kingston Upon Hull,35
+CarEnteringRoundabout,20122012160D05801,2012,Kingston Upon Hull,45
+CarEnteringRoundabout,20122012160D05821,2012,Kingston Upon Hull,22
+CarEnteringRoundabout,20122012160D06051,2012,Kingston Upon Hull,40
+CarEnteringRoundabout,20122012160D06641,2012,Kingston Upon Hull,30
+CarEnteringRoundabout,20122012160D07261,2012,Kingston Upon Hull,32
+CarEnteringRoundabout,20122012160D07421,2012,Kingston Upon Hull,50
+CarEnteringRoundabout,20122012160D07831,2012,Kingston Upon Hull,23
+CarEnteringRoundabout,20122012160D08061,2012,Kingston Upon Hull,29
+CarEnteringRoundabout,20122012160D08691,2012,Kingston Upon Hull,51
+CarEnteringRoundabout,20122012170H10222,2012,Hartlepool,31
+CarEnteringRoundabout,20122012170H10332,2012,Hartlepool,24
+CarEnteringRoundabout,20122012170H10642,2012,Hartlepool,42
+CarEnteringRoundabout,20122012170M10452,2012,Middlesbrough,32
+CarEnteringRoundabout,20122012170S13032,2012,Stockton on Tees,56
+CarEnteringRoundabout,20122012170S13082,2012,Stockton on Tees,34
+CarEnteringRoundabout,20122012170S13602,2012,Stockton on Tees,32
+CarEnteringRoundabout,20122012170S40862,2012,Stockton on Tees,48
+CarEnteringRoundabout,2012201220H006682,2012,Walsall,57
+CarEnteringRoundabout,2012201220K007242,2012,Sandwell,37
+CarEnteringRoundabout,2012201220K011422,2012,Sandwell,19
+CarEnteringRoundabout,2012201220K015802,2012,Sandwell,-1
+CarEnteringRoundabout,2012201220L008962,2012,Solihull,25
+CarEnteringRoundabout,2012201220M004032,2012,Coventry,27
+CarEnteringRoundabout,2012201220M004382,2012,Coventry,20
+CarEnteringRoundabout,2012201220M009252,2012,Coventry,41
+CarEnteringRoundabout,2012201220M010312,2012,Coventry,45
+CarEnteringRoundabout,2012201220S026762,2012,Birmingham,56
+CarEnteringRoundabout,2012201220T028372,2012,Birmingham,48
+CarEnteringRoundabout,2012201220T058922,2012,Birmingham,47
+CarEnteringRoundabout,2012201220W003672,2012,Birmingham,37
+CarEnteringRoundabout,2012201220W050662,2012,Birmingham,53
+CarEnteringRoundabout,2012201220W056742,2012,Birmingham,21
+CarEnteringRoundabout,2012201220W059362,2012,Birmingham,31
+CarEnteringRoundabout,2.0122E+16,2012,Staffordshire,33
+CarEnteringRoundabout,2.0122E+16,2012,Staffordshire,39
+CarEnteringRoundabout,2.0122E+16,2012,Stoke on Trent,44
+CarEnteringRoundabout,2.0122E+16,2012,Staffordshire,49
+CarEnteringRoundabout,2.0122E+16,2012,Staffordshire,24
+CarEnteringRoundabout,2.0122E+16,2012,Staffordshire,46
+CarEnteringRoundabout,2.0122E+16,2012,Stoke on Trent,37
+CarEnteringRoundabout,2.0122E+16,2012,Staffordshire,47
+CarEnteringRoundabout,2.0122E+16,2012,Staffordshire,39
+CarEnteringRoundabout,2.0122E+16,2012,Staffordshire,31
+CarEnteringRoundabout,2.0122E+16,2012,Staffordshire,25
+CarEnteringRoundabout,2.0122E+16,2012,Stoke on Trent,25
+CarEnteringRoundabout,201220122120X0110,2012,Staffordshire,36
+CarEnteringRoundabout,201220122120X0142,2012,Staffordshire,26
+CarEnteringRoundabout,201220122120X0195,2012,Stoke on Trent,27
+CarEnteringRoundabout,2012201222C203346,2012,Worcestershire,51
+CarEnteringRoundabout,2012201222C203736,2012,Worcestershire,37
+CarEnteringRoundabout,2012201222C203910,2012,Worcestershire,41
+CarEnteringRoundabout,2012201222C204467,2012,Worcestershire,50
+CarEnteringRoundabout,2012201222D200322,2012,Worcestershire,23
+CarEnteringRoundabout,2012201222D201682,2012,Worcestershire,31
+CarEnteringRoundabout,2012201222D201865,2012,Worcestershire,70
+CarEnteringRoundabout,2012201222D203677,2012,Worcestershire,30
+CarEnteringRoundabout,2012201222D204733,2012,Worcestershire,25
+CarEnteringRoundabout,2012201222E203359,2012,Herefordshire,17
+CarEnteringRoundabout,2012201222E204075,2012,Herefordshire,19
+CarEnteringRoundabout,2012201222E204797,2012,Herefordshire,30
+CarEnteringRoundabout,2012201222E205080,2012,Herefordshire,31
+CarEnteringRoundabout,2012201222E205163,2012,Herefordshire,35
+CarEnteringRoundabout,2012201222F203382,2012,Shropshire,67
+CarEnteringRoundabout,2012201222G200925,2012,Telford and Wrekin,36
+CarEnteringRoundabout,2012201222G202592,2012,Telford and Wrekin,38
+CarEnteringRoundabout,2012201222G203760,2012,Telford and Wrekin,47
+CarEnteringRoundabout,2012201222G204297,2012,Telford and Wrekin,34
+CarEnteringRoundabout,2012201222G204375,2012,Telford and Wrekin,27
+CarEnteringRoundabout,2.0122E+16,2012,Warwickshire,29
+CarEnteringRoundabout,2012201230C000387,2012,Derbyshire,52
+CarEnteringRoundabout,2012201230C002649,2012,Derbyshire,38
+CarEnteringRoundabout,2012201230D000186,2012,Derby,26
+CarEnteringRoundabout,2012201230D000511,2012,Derby,31
+CarEnteringRoundabout,2012201230D000683,2012,Derbyshire,38
+CarEnteringRoundabout,2012201230D001207,2012,Derby,45
+CarEnteringRoundabout,2012201230D001431,2012,Derby,31
+CarEnteringRoundabout,2012201230D001764,2012,Derby,39
+CarEnteringRoundabout,2012201230D002077,2012,Derby,45
+CarEnteringRoundabout,2012201230D002199,2012,Derbyshire,83
+CarEnteringRoundabout,2012201230D002399,2012,Derbyshire,49
+CarEnteringRoundabout,2012201230D002434,2012,Derbyshire,60
+CarEnteringRoundabout,2012201230D002440,2012,Derbyshire,-1
+CarEnteringRoundabout,2012201230D002488,2012,Derby,15
+CarEnteringRoundabout,2012201230D002712,2012,Derbyshire,44
+CarEnteringRoundabout,2012201231B075212,2012,Nottinghamshire,-1
+CarEnteringRoundabout,2012201231C057712,2012,Nottingham,51
+CarEnteringRoundabout,2012201231C223612,2012,Nottingham,23
+CarEnteringRoundabout,2012201231C225612,2012,Nottingham,35
+CarEnteringRoundabout,2012201231D014612,2012,Nottinghamshire,19
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,55
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,31
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,28
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,25
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,25
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,41
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,37
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,16
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,47
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,37
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,27
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,22
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,44
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,40
+CarEnteringRoundabout,2.0122E+16,2012,Leicestershire,68
+CarEnteringRoundabout,2012201234NC30752,2012,Northamptonshire,18
+CarEnteringRoundabout,2012201234NE19662,2012,Northamptonshire,24
+CarEnteringRoundabout,2012201234NW10522,2012,Northamptonshire,-1
+CarEnteringRoundabout,2012201234WN12602,2012,Northamptonshire,79
+CarEnteringRoundabout,2.0122E+16,2012,Peterborough,31
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,57
+CarEnteringRoundabout,2.0122E+16,2012,Peterborough,39
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,51
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,23
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,35
+CarEnteringRoundabout,2.0122E+16,2012,Peterborough,32
+CarEnteringRoundabout,2.0122E+16,2012,Peterborough,29
+CarEnteringRoundabout,2.0122E+16,2012,Peterborough,17
+CarEnteringRoundabout,2.0122E+16,2012,Peterborough,-1
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,27
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,67
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,14
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,35
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,39
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,29
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,23
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,37
+CarEnteringRoundabout,2.0122E+16,2012,Peterborough,34
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,36
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,43
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,16
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,20
+CarEnteringRoundabout,2.0122E+16,2012,Cambridgeshire,24
+CarEnteringRoundabout,2.0122E+16,2012,Norfolk,24
+CarEnteringRoundabout,2.0122E+16,2012,Norfolk,57
+CarEnteringRoundabout,2.0122E+16,2012,Norfolk,15
+CarEnteringRoundabout,2.0122E+16,2012,Norfolk,20
+CarEnteringRoundabout,2.0122E+16,2012,Norfolk,27
+CarEnteringRoundabout,2.0122E+16,2012,Norfolk,47
+CarEnteringRoundabout,2.0122E+16,2012,Norfolk,33
+CarEnteringRoundabout,2.0122E+16,2012,Norfolk,36
+CarEnteringRoundabout,2.0122E+16,2012,Norfolk,36
+CarEnteringRoundabout,2012201236T120104,2012,Norfolk,53
+CarEnteringRoundabout,2.0122E+16,2012,Suffolk,21
+CarEnteringRoundabout,2.0122E+16,2012,Suffolk,49
+CarEnteringRoundabout,2.0122E+16,2012,Suffolk,64
+CarEnteringRoundabout,2.0122E+16,2012,Suffolk,20
+CarEnteringRoundabout,2.0122E+16,2012,Suffolk,23
+CarEnteringRoundabout,2.0122E+16,2012,Suffolk,66
+CarEnteringRoundabout,2.0122E+16,2012,Suffolk,30
+CarEnteringRoundabout,20122012400BA0610,2012,Bedford Borough Council,46
+CarEnteringRoundabout,20122012400BA0761,2012,Central Bedfordshire,25
+CarEnteringRoundabout,20122012400BA0815,2012,Bedford Borough Council,54
+CarEnteringRoundabout,20122012400BA0900,2012,Bedford Borough Council,42
+CarEnteringRoundabout,20122012400CA0175,2012,Luton,41
+CarEnteringRoundabout,20122012400CA0489,2012,Central Bedfordshire,58
+CarEnteringRoundabout,20122012400CA0856,2012,Luton,43
+CarEnteringRoundabout,20122012400CA0932,2012,Luton,41
+CarEnteringRoundabout,20122012400CA1341,2012,Luton,55
+CarEnteringRoundabout,20122012400DA0012,2012,Luton,35
+CarEnteringRoundabout,20122012400DA0417,2012,Central Bedfordshire,31
+CarEnteringRoundabout,20122012400DA0605,2012,Central Bedfordshire,35
+CarEnteringRoundabout,201220124100A0743,2012,Hertfordshire,33
+CarEnteringRoundabout,201220124100B0140,2012,Hertfordshire,53
+CarEnteringRoundabout,201220124100B0407,2012,Hertfordshire,31
+CarEnteringRoundabout,201220124100B0468,2012,Hertfordshire,23
+CarEnteringRoundabout,201220124100B0477,2012,Hertfordshire,39
+CarEnteringRoundabout,201220124100B0577,2012,Hertfordshire,18
+CarEnteringRoundabout,201220124100B0599,2012,Hertfordshire,47
+CarEnteringRoundabout,201220124100C0183,2012,Hertfordshire,37
+CarEnteringRoundabout,201220124100C0648,2012,Hertfordshire,67
+CarEnteringRoundabout,201220124100C0985,2012,Hertfordshire,31
+CarEnteringRoundabout,201220124100C1072,2012,Hertfordshire,20
+CarEnteringRoundabout,201220124100D0238,2012,Hertfordshire,32
+CarEnteringRoundabout,201220124100D0593,2012,Hertfordshire,43
+CarEnteringRoundabout,201220124100F0754,2012,Hertfordshire,43
+CarEnteringRoundabout,201220124100G0115,2012,Hertfordshire,51
+CarEnteringRoundabout,201220124100G0332,2012,Hertfordshire,30
+CarEnteringRoundabout,201220124100G0559,2012,Hertfordshire,26
+CarEnteringRoundabout,201220124100J0219,2012,Hertfordshire,46
+CarEnteringRoundabout,201220124100J0384,2012,Hertfordshire,18
+CarEnteringRoundabout,201220124100J0746,2012,Hertfordshire,55
+CarEnteringRoundabout,201220124100K0057,2012,Hertfordshire,38
+CarEnteringRoundabout,201220124100K0172,2012,Hertfordshire,32
+CarEnteringRoundabout,201220124100K0460,2012,Hertfordshire,60
+CarEnteringRoundabout,201220124100K0487,2012,Hertfordshire,24
+CarEnteringRoundabout,201220124100K0501,2012,Hertfordshire,26
+CarEnteringRoundabout,201220124100K0609,2012,Hertfordshire,81
+CarEnteringRoundabout,2012201242I005701,2012,Essex,40
+CarEnteringRoundabout,2012201242I040502,2012,Essex,35
+CarEnteringRoundabout,2012201242I047002,2012,Essex,36
+CarEnteringRoundabout,2012201242I161202,2012,Southend on Sea,-1
+CarEnteringRoundabout,2012201242I204906,2012,Essex,55
+CarEnteringRoundabout,2012201242I207307,2012,Essex,51
+CarEnteringRoundabout,2012201242I223107,2012,Southend on Sea,17
+CarEnteringRoundabout,2012201242I228407,2012,Essex,31
+CarEnteringRoundabout,2012201242I278509,2012,Essex,73
+CarEnteringRoundabout,2012201242I281809,2012,Essex,58
+CarEnteringRoundabout,2012201242I317810,2012,Essex,60
+CarEnteringRoundabout,2012201242I342410,2012,Essex,21
+CarEnteringRoundabout,2012201242I367310,2012,Southend on Sea,42
+CarEnteringRoundabout,2012201242I408212,2012,Essex,54
+CarEnteringRoundabout,2012201243N112012,2012,Buckinghamshire,67
+CarEnteringRoundabout,2012201243N133042,2012,Buckinghamshire,35
+CarEnteringRoundabout,2012201243N161032,2012,Buckinghamshire,57
+CarEnteringRoundabout,2012201243N239092,2012,Buckinghamshire,60
+CarEnteringRoundabout,2012201243P001112,2012,Oxfordshire,67
+CarEnteringRoundabout,2012201243P017032,2012,Oxfordshire,32
+CarEnteringRoundabout,2012201243P021102,2012,Oxfordshire,25
+CarEnteringRoundabout,2012201243P033112,2012,Oxfordshire,27
+CarEnteringRoundabout,2012201243P054052,2012,Oxfordshire,39
+CarEnteringRoundabout,2012201243P060112,2012,Oxfordshire,52
+CarEnteringRoundabout,2012201243P067122,2012,Oxfordshire,32
+CarEnteringRoundabout,2012201243P090072,2012,Oxfordshire,40
+CarEnteringRoundabout,2012201243P098052,2012,Oxfordshire,36
+CarEnteringRoundabout,2012201243P104112,2012,Oxfordshire,38
+CarEnteringRoundabout,2012201243P122052,2012,Oxfordshire,19
+CarEnteringRoundabout,2012201243P147112,2012,Oxfordshire,39
+CarEnteringRoundabout,2012201243P202012,2012,Oxfordshire,42
+CarEnteringRoundabout,2012201243P247092,2012,Oxfordshire,26
+CarEnteringRoundabout,2012201243P253042,2012,Oxfordshire,50
+CarEnteringRoundabout,2012201243P267052,2012,Oxfordshire,27
+CarEnteringRoundabout,2012201243P278112,2012,Oxfordshire,31
+CarEnteringRoundabout,2012201243P283012,2012,Oxfordshire,23
+CarEnteringRoundabout,2012201243P299032,2012,Oxfordshire,28
+CarEnteringRoundabout,2012201243P334122,2012,Oxfordshire,42
+CarEnteringRoundabout,2012201243P348102,2012,Oxfordshire,36
+CarEnteringRoundabout,2012201243R002102,2012,Bracknell Forest,33
+CarEnteringRoundabout,2012201243R074072,2012,Windsor and Maidenhead,31
+CarEnteringRoundabout,2012201243R082112,2012,Bracknell Forest,36
+CarEnteringRoundabout,2012201243R098102,2012,Bracknell Forest,24
+CarEnteringRoundabout,2012201243R127042,2012,Windsor and Maidenhead,19
+CarEnteringRoundabout,2012201243R145062,2012,Windsor and Maidenhead,44
+CarEnteringRoundabout,2012201243R211022,2012,Windsor and Maidenhead,63
+CarEnteringRoundabout,2012201243R252052,2012,Windsor and Maidenhead,56
+CarEnteringRoundabout,2012201243R266072,2012,Windsor and Maidenhead,54
+CarEnteringRoundabout,2012201243S020012,2012,Milton Keynes,39
+CarEnteringRoundabout,2012201243S052092,2012,Milton Keynes,26
+CarEnteringRoundabout,2012201243S060082,2012,Milton Keynes,34
+CarEnteringRoundabout,2012201243S063092,2012,Milton Keynes,26
+CarEnteringRoundabout,2012201243S070042,2012,Milton Keynes,55
+CarEnteringRoundabout,2012201243S092122,2012,Milton Keynes,39
+CarEnteringRoundabout,2012201243S121112,2012,Milton Keynes,53
+CarEnteringRoundabout,2012201243S124022,2012,Milton Keynes,29
+CarEnteringRoundabout,2012201243W014062,2012,Wokingham,43
+CarEnteringRoundabout,2012201243W016062,2012,Wokingham,57
+CarEnteringRoundabout,2012201243W046042,2012,Reading,21
+CarEnteringRoundabout,2012201243W075082,2012,Wokingham,34
+CarEnteringRoundabout,2012201243W084022,2012,Reading,19
+CarEnteringRoundabout,2012201243W113042,2012,Reading,33
+CarEnteringRoundabout,2012201243W146112,2012,Wokingham,26
+CarEnteringRoundabout,2012201243W171102,2012,West Berkshire,32
+CarEnteringRoundabout,2012201243W198022,2012,Reading,16
+CarEnteringRoundabout,2012201243W228052,2012,Reading,46
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,50
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,48
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,54
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,26
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,49
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,23
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,50
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,32
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,20
+CarEnteringRoundabout,2.0122E+16,2012,Portsmouth,39
+CarEnteringRoundabout,2.0122E+16,2012,Portsmouth,19
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,62
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,51
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,57
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,33
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,32
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,48
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,33
+CarEnteringRoundabout,2.0122E+16,2012,Portsmouth,24
+CarEnteringRoundabout,2.0122E+16,2012,Isle of Wight,32
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,77
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,16
+CarEnteringRoundabout,2.0122E+16,2012,Portsmouth,26
+CarEnteringRoundabout,2.0122E+16,2012,Portsmouth,20
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,34
+CarEnteringRoundabout,2.0122E+16,2012,Portsmouth,26
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,82
+CarEnteringRoundabout,2.0122E+16,2012,Portsmouth,51
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,38
+CarEnteringRoundabout,2.0122E+16,2012,Hampshire,58
+CarEnteringRoundabout,2.0122E+16,2012,Surrey,27
+CarEnteringRoundabout,2.0122E+16,2012,Surrey,43
+CarEnteringRoundabout,2012201245EL70815,2012,Surrey,37
+CarEnteringRoundabout,2012201245EL74288,2012,Surrey,45
+CarEnteringRoundabout,2012201245EL75086,2012,Surrey,22
+CarEnteringRoundabout,2012201245GU68000,2012,Surrey,64
+CarEnteringRoundabout,2012201245GU68505,2012,Surrey,43
+CarEnteringRoundabout,2012201245MO73772,2012,Surrey,29
+CarEnteringRoundabout,2012201245RU74008,2012,Surrey,52
+CarEnteringRoundabout,2012201245SP72123,2012,Surrey,59
+CarEnteringRoundabout,2012201245SP74589,2012,Surrey,61
+CarEnteringRoundabout,2012201245TA72631,2012,Surrey,27
+CarEnteringRoundabout,2012201245WA67514,2012,Surrey,31
+CarEnteringRoundabout,2012201245WO67929,2012,Surrey,58
+CarEnteringRoundabout,2012201245WO68563,2012,Surrey,48
+CarEnteringRoundabout,2012201245WO73672,2012,Surrey,33
+CarEnteringRoundabout,2012201245WO74778,2012,Surrey,17
+CarEnteringRoundabout,2.0122E+16,2012,Kent,46
+CarEnteringRoundabout,2.0122E+16,2012,Medway,23
+CarEnteringRoundabout,2.0122E+16,2012,Kent,44
+CarEnteringRoundabout,2.0122E+16,2012,Kent,43
+CarEnteringRoundabout,2.0122E+16,2012,Kent,44
+CarEnteringRoundabout,2.0122E+16,2012,Kent,41
+CarEnteringRoundabout,2.0122E+16,2012,Medway,45
+CarEnteringRoundabout,2.0122E+16,2012,Kent,46
+CarEnteringRoundabout,2.0122E+16,2012,Kent,38
+CarEnteringRoundabout,2.0122E+16,2012,Medway,19
+CarEnteringRoundabout,2.0122E+16,2012,Kent,36
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,14
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,40
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,17
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,48
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,27
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,17
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,38
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,44
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,24
+CarEnteringRoundabout,2.0122E+16,2012,East Sussex,47
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,39
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,19
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,35
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,20
+CarEnteringRoundabout,2.0122E+16,2012,Brighton and Hove,38
+CarEnteringRoundabout,2.0122E+16,2012,East Sussex,28
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,70
+CarEnteringRoundabout,2.0122E+16,2012,West Sussex,40
+CarEnteringRoundabout,2012201250AY2C018,2012,Cornwall and Isles of Scilly,70
+CarEnteringRoundabout,2012201250DE2C008,2012,Devon,35
+CarEnteringRoundabout,2012201250DE2C012,2012,Devon,-1
+CarEnteringRoundabout,2012201250DE2G002,2012,Devon,35
+CarEnteringRoundabout,2012201250EC2G015,2012,Plymouth,17
+CarEnteringRoundabout,2012201250EC2H005,2012,Plymouth,18
+CarEnteringRoundabout,2012201250ED2B017,2012,Plymouth,43
+CarEnteringRoundabout,2012201250EK2A006,2012,Plymouth,45
+CarEnteringRoundabout,2012201250EK2A018,2012,Plymouth,35
+CarEnteringRoundabout,2012201250EL2K018,2012,Plymouth,28
+CarEnteringRoundabout,2012201250JS3N009,2012,Devon,49
+CarEnteringRoundabout,2012201250KE5P001,2012,Devon,19
+CarEnteringRoundabout,2012201250KT3B003,2012,Devon,54
+CarEnteringRoundabout,2.0122E+16,2012,Somerset,15
+CarEnteringRoundabout,2.0122E+16,2012,City of Bristol,53
+CarEnteringRoundabout,2.0122E+16,2012,South Gloucestershire,27
+CarEnteringRoundabout,2.0122E+16,2012,North Somerset,46
+CarEnteringRoundabout,2.0122E+16,2012,North Somerset,54
+CarEnteringRoundabout,2.0122E+16,2012,North Somerset,41
+CarEnteringRoundabout,2.0122E+16,2012,North Somerset,52
+CarEnteringRoundabout,2.0122E+16,2012,South Gloucestershire,44
+CarEnteringRoundabout,2.0122E+16,2012,South Gloucestershire,12
+CarEnteringRoundabout,2.0122E+16,2012,City of Bristol,28
+CarEnteringRoundabout,2.0122E+16,2012,South Gloucestershire,32
+CarEnteringRoundabout,2.0122E+16,2012,North Somerset,53
+CarEnteringRoundabout,2.0122E+16,2012,South Gloucestershire,47
+CarEnteringRoundabout,2.0122E+16,2012,Gloucestershire,31
+CarEnteringRoundabout,2.0122E+16,2012,Gloucestershire,48
+CarEnteringRoundabout,2.0122E+16,2012,Gloucestershire,24
+CarEnteringRoundabout,2.0122E+16,2012,Gloucestershire,34
+CarEnteringRoundabout,2.0122E+16,2012,Gloucestershire,47
+CarEnteringRoundabout,2.0122E+16,2012,Gloucestershire,74
+CarEnteringRoundabout,2.0122E+16,2012,Gloucestershire,30
+CarEnteringRoundabout,2.0122E+16,2012,Wiltshire,53
+CarEnteringRoundabout,2.0122E+16,2012,Swindon,58
+CarEnteringRoundabout,2.0122E+16,2012,Swindon,17
+CarEnteringRoundabout,2.0122E+16,2012,Swindon,26
+CarEnteringRoundabout,2.0122E+16,2012,Swindon,29
+CarEnteringRoundabout,2.0122E+16,2012,Swindon,53
+CarEnteringRoundabout,2.0122E+16,2012,Swindon,35
+CarEnteringRoundabout,2012201254B006312,2012,Swindon,58
+CarEnteringRoundabout,2012201254B255312,2012,Swindon,38
+CarEnteringRoundabout,20122012552C01306,2012,Bournemouth,31
+CarEnteringRoundabout,20122012552C02817,2012,Bournemouth,20
+CarEnteringRoundabout,20122012552C03691,2012,Bournemouth,25
+CarEnteringRoundabout,20122012552C04390,2012,Poole,57
+CarEnteringRoundabout,20122012552C04800,2012,Bournemouth,54
+CarEnteringRoundabout,20122012552C19026,2012,Bournemouth,33
+CarEnteringRoundabout,20122012552C19913,2012,Bournemouth,33
+CarEnteringRoundabout,20122012552C20848,2012,Bournemouth,45
+CarEnteringRoundabout,20122012552C21546,2012,Bournemouth,25
+CarEnteringRoundabout,20122012552C23979,2012,Bournemouth,32
+CarEnteringRoundabout,20122012552C24029,2012,Bournemouth,53
+CarEnteringRoundabout,20122012552C30384,2012,Bournemouth,18
+CarEnteringRoundabout,20122012552C30552,2012,Bournemouth,23
+CarEnteringRoundabout,20122012552C34920,2012,Bournemouth,32
+CarEnteringRoundabout,20122012552C42698,2012,Bournemouth,25
+CarEnteringRoundabout,20122012552C44099,2012,Poole,34
+CarEnteringRoundabout,20122012552C44377,2012,Bournemouth,44
+CarEnteringRoundabout,20122012552C44484,2012,Bournemouth,39
+CarEnteringRoundabout,20122012552C51703,2012,Bournemouth,21
+CarEnteringRoundabout,20122012552C51959,2012,Bournemouth,36
+CarEnteringRoundabout,20122012552C52233,2012,Bournemouth,25
+CarEnteringRoundabout,20122012552D20188,2012,Dorset,24
+CarEnteringRoundabout,20122012552D29207,2012,Dorset,25
+CarEnteringRoundabout,20122012552D30564,2012,Dorset,54
+CarEnteringRoundabout,20122012552D43616,2012,Dorset,48
+CarEnteringRoundabout,20122012552D47256,2012,Bournemouth,35
+CarEnteringRoundabout,20122012553C04778,2012,Poole,28

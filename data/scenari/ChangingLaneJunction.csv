@@ -1,0 +1,99 @@
+Scenario,urn,accyr,LAName,Age
+ChangingLaneJunction,199901HT00976,1999,London,22
+ChangingLaneJunction,199904E019999,1999,Blackburn with Darwen,29
+ChangingLaneJunction,199904E095299,1999,Blackburn with Darwen,12
+ChangingLaneJunction,199920E223801,1999,Birmingham,38
+ChangingLaneJunction,199947C005221,1999,Brighton and Hove,28
+ChangingLaneJunction,2.00005E+12,2000,Merseyside,25
+ChangingLaneJunction,200014KK01213,2000,Sheffield,18
+ChangingLaneJunction,20004100C0308,2000,Hertfordshire,11
+ChangingLaneJunction,2.00052E+12,2000,North Somerset,17
+ChangingLaneJunction,200143P130121,2001,Oxfordshire,32
+ChangingLaneJunction,200146SK42972,2001,Kent,14
+ChangingLaneJunction,200146WK43797,2001,Kent,13
+ChangingLaneJunction,200152G793757,2001,Somerset,11
+ChangingLaneJunction,200206G008605,2002,Tameside,47
+ChangingLaneJunction,2.00207E+12,2002,Warrington,17
+ChangingLaneJunction,200246WL61492,2002,Kent,8
+ChangingLaneJunction,200247C146019,2002,Brighton and Hove,36
+ChangingLaneJunction,200314HH00771,2003,Sheffield,5
+ChangingLaneJunction,20034200H0500,2003,Southend on Sea,12
+ChangingLaneJunction,200345RN43864,2003,Surrey,13
+ChangingLaneJunction,200504CM05084,2005,Lancashire,8
+ChangingLaneJunction,2.00507E+12,2005,Cheshire East,43
+ChangingLaneJunction,2.00513E+12,2005,Wakefield,17
+ChangingLaneJunction,2.00522E+12,2005,Staffordshire,17
+ChangingLaneJunction,2.00535E+12,2005,Cambridgeshire,24
+ChangingLaneJunction,200537L012191,2005,Suffolk,30
+ChangingLaneJunction,2.00544E+12,2005,Hampshire,54
+ChangingLaneJunction,2.00544E+12,2005,Hampshire,
+ChangingLaneJunction,2.00544E+12,2005,Southampton ,14
+ChangingLaneJunction,200545EL70808,2005,Surrey,9
+ChangingLaneJunction,200545SP75165,2005,Surrey,14
+ChangingLaneJunction,2.00552E+12,2005,Bath and North East Somerset,
+ChangingLaneJunction,2.00603E+12,2006,Cumbria,17
+ChangingLaneJunction,200606F041943,2006,Salford,37
+ChangingLaneJunction,200606K047900,2006,Bolton,34
+ChangingLaneJunction,200606P050807,2006,Rochdale,13
+ChangingLaneJunction,200614A143506,2006,Doncaster,31
+ChangingLaneJunction,200642A014303,2006,Essex,34
+ChangingLaneJunction,2.00646E+12,2006,Kent,17
+ChangingLaneJunction,2.00647E+12,2006,West Sussex,17
+ChangingLaneJunction,200701FH10520,2007,London,44
+ChangingLaneJunction,2.00712E+12,2007,North Yorkshire,5
+ChangingLaneJunction,2.00713E+12,2007,Kirklees,6
+ChangingLaneJunction,2007160C06790,2007,East Riding of Yorkshire,10
+ChangingLaneJunction,2.00722E+12,2007,Staffordshire,9
+ChangingLaneJunction,200732C200707,2007,Lincolnshire,12
+ChangingLaneJunction,2.00733E+12,2007,Leicestershire,17
+ChangingLaneJunction,200743P210087,2007,Oxfordshire,10
+ChangingLaneJunction,200743P393127,2007,Oxfordshire,32
+ChangingLaneJunction,200743W014037,2007,Reading,28
+ChangingLaneJunction,200750E31F902,2007,Plymouth,
+ChangingLaneJunction,2.00752E+12,2007,North Somerset,54
+ChangingLaneJunction,2.00752E+12,2007,City of Bristol,14
+ChangingLaneJunction,2.00753E+12,2007,Gloucestershire,14
+ChangingLaneJunction,200801JI75133,2008,London,19
+ChangingLaneJunction,2.0081E+12,2008,North Tyneside,15
+ChangingLaneJunction,200811ND00638,2008,Durham,40
+ChangingLaneJunction,200811SJ19818,2008,Darlington,12
+ChangingLaneJunction,2.00812E+12,2008,North Yorkshire,70
+ChangingLaneJunction,200820F098703,2008,Birmingham,46
+ChangingLaneJunction,2.00835E+12,2008,Peterborough,28
+ChangingLaneJunction,2.00852E+12,2008,South Gloucestershire,50
+ChangingLaneJunction,2.00852E+12,2008,City of Bristol,12
+ChangingLaneJunction,2.00852E+12,2008,Somerset,14
+ChangingLaneJunction,200901LX50763,2009,London,53
+ChangingLaneJunction,2.00903E+12,2009,Cumbria,6
+ChangingLaneJunction,200911NE17689,2009,Durham,35
+ChangingLaneJunction,2.00913E+12,2009,Leeds,45
+ChangingLaneJunction,200914B080309,2009,Barnsley,9
+ChangingLaneJunction,200914K186309,2009,Sheffield,12
+ChangingLaneJunction,200932D142309,2009,Lincolnshire,17
+ChangingLaneJunction,2.00935E+12,2009,Peterborough,12
+ChangingLaneJunction,2.00935E+12,2009,Cambridgeshire,19
+ChangingLaneJunction,200943W105079,2009,Wokingham,14
+ChangingLaneJunction,201006B035928,2010,Manchester,23
+ChangingLaneJunction,2.01035E+12,2010,Cambridgeshire,24
+ChangingLaneJunction,201043R168100,2010,Windsor and Maidenhead,28
+ChangingLaneJunction,2.01044E+12,2010,Hampshire,21
+ChangingLaneJunction,2.01044E+12,2010,Hampshire,8
+ChangingLaneJunction,201045RE49738,2010,Surrey,29
+ChangingLaneJunction,2.01046E+12,2010,Kent,45
+ChangingLaneJunction,2.01047E+12,2010,West Sussex,19
+ChangingLaneJunction,201050KU2G004,2010,Devon,15
+ChangingLaneJunction,20105500C0289,2010,Bournemouth,33
+ChangingLaneJunction,2011201106J048061,2011,Stockport,45
+ChangingLaneJunction,2.0112E+16,2011,North Yorkshire,11
+ChangingLaneJunction,2.0112E+16,2011,Leeds,9
+ChangingLaneJunction,2011201114A108911,2011,Doncaster,49
+ChangingLaneJunction,2011201136T110180,2011,Norfolk,61
+ChangingLaneJunction,2011201145EP64682,2011,Surrey,31
+ChangingLaneJunction,2.0112E+16,2011,Kent,42
+ChangingLaneJunction,2011201150BU2C009,2011,Cornwall and Isles of Scilly,39
+ChangingLaneJunction,2011201150ED2J008,2011,Plymouth,10
+ChangingLaneJunction,2011201150ED2N054,2011,Plymouth,14
+ChangingLaneJunction,2.0122E+16,2012,Cumbria,54
+ChangingLaneJunction,2.0122E+16,2012,Cheshire East,14
+ChangingLaneJunction,2012201242I088603,2012,Essex,12
+ChangingLaneJunction,2012201245WO74446,2012,Surrey,40

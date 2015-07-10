@@ -1,0 +1,1746 @@
+Scenario,urn,accyr,LAName,Age
+ChangingLane,199901CD00323,1999,London,
+ChangingLane,199901CP00004,1999,London,22
+ChangingLane,199901CP00255,1999,London,31
+ChangingLane,199901DM00399,1999,London,23
+ChangingLane,199901DM00733,1999,London,22
+ChangingLane,199901EK00174,1999,London,17
+ChangingLane,199901EK00362,1999,London,13
+ChangingLane,199901EO00306,1999,London,36
+ChangingLane,199901FH00871,1999,London,23
+ChangingLane,199901GN00338,1999,London,14
+ChangingLane,199901JC00334,1999,London,
+ChangingLane,199901JI00280,1999,London,13
+ChangingLane,199901JI00649,1999,London,
+ChangingLane,199901KF00217,1999,London,11
+ChangingLane,199901PL00391,1999,London,14
+ChangingLane,199901QA00155,1999,London,
+ChangingLane,199901RG00592,1999,London,9
+ChangingLane,199901TX00258,1999,London,14
+ChangingLane,199901TX00323,1999,London,12
+ChangingLane,199901VW00466,1999,London,11
+ChangingLane,199901VW00576,1999,London,45
+ChangingLane,199901WA00059,1999,London,26
+ChangingLane,199901WW00390,1999,London,17
+ChangingLane,199901WW00804,1999,London,31
+ChangingLane,199901WW00982,1999,London,60
+ChangingLane,199901XH00877,1999,London,14
+ChangingLane,199901XH01193,1999,London,18
+ChangingLane,199901YE00117,1999,London,13
+ChangingLane,199901YE00485,1999,London,29
+ChangingLane,199901ZD00459,1999,London,19
+ChangingLane,199901ZD00514,1999,London,59
+ChangingLane,199901ZN00823,1999,London,13
+ChangingLane,1.99903E+12,1999,Cumbria,9
+ChangingLane,1.99903E+12,1999,Cumbria,12
+ChangingLane,1.99903E+12,1999,Cumbria,9
+ChangingLane,199904A028499,1999,Lancashire,14
+ChangingLane,199904A039199,1999,Blackpool,13
+ChangingLane,199904C005499,1999,Lancashire,12
+ChangingLane,199904C017199,1999,Lancashire,12
+ChangingLane,199904C092899,1999,Lancashire,19
+ChangingLane,199904D052099,1999,Lancashire,27
+ChangingLane,199904F058299,1999,Lancashire,10
+ChangingLane,1.99905E+12,1999,Merseyside,13
+ChangingLane,1.99905E+12,1999,Merseyside,11
+ChangingLane,1.99905E+12,1999,Merseyside,7
+ChangingLane,1.99905E+12,1999,Merseyside,9
+ChangingLane,1.99905E+12,1999,Merseyside,12
+ChangingLane,1.99905E+12,1999,Merseyside,63
+ChangingLane,1.99905E+12,1999,Merseyside,9
+ChangingLane,1.99905E+12,1999,Merseyside,14
+ChangingLane,1.99905E+12,1999,Merseyside,13
+ChangingLane,199906C007992,1999,Manchester,20
+ChangingLane,199906C008588,1999,Manchester,74
+ChangingLane,199906J005463,1999,Stockport,12
+ChangingLane,199906L006489,1999,Wigan,52
+ChangingLane,199906M004921,1999,Trafford,13
+ChangingLane,199906M004955,1999,Trafford,22
+ChangingLane,199906M346899,1999,Trafford,50
+ChangingLane,199906N288599,1999,Bury,37
+ChangingLane,1999079A20506,1999,Cheshire West and Chester,67
+ChangingLane,1999079A21300,1999,Cheshire West and Chester,7
+ChangingLane,1999079A21775,1999,Cheshire West and Chester,19
+ChangingLane,1999079B10981,1999,Halton,11
+ChangingLane,1999079B11320,1999,Halton,4
+ChangingLane,1999079B21458,1999,Warrington,10
+ChangingLane,1999079C10299,1999,Cheshire West and Chester,28
+ChangingLane,199910O339299,1999,South Tyneside,24
+ChangingLane,1999110DJ2036,1999,Darlington,21
+ChangingLane,1999119BE1955,1999,Durham,8
+ChangingLane,1.99912E+12,1999,North Yorkshire,11
+ChangingLane,1.99912E+12,1999,North Yorkshire,16
+ChangingLane,199913BB13299,1999,Leeds,15
+ChangingLane,199913BB17399,1999,Leeds,7
+ChangingLane,199913CA35099,1999,Leeds,30
+ChangingLane,199913DA00899,1999,Wakefield,13
+ChangingLane,199913EA52799,1999,Kirklees,9
+ChangingLane,199913EC22699,1999,Kirklees,6
+ChangingLane,199913FD25999,1999,Calderdale,27
+ChangingLane,199913GC09499,1999,Bradford,14
+ChangingLane,199914BB00444,1999,Doncaster,10
+ChangingLane,199914BB00778,1999,Doncaster,16
+ChangingLane,199914EE00240,1999,Barnsley,10
+ChangingLane,199914GG00314,1999,Rotherham,14
+ChangingLane,199914GG00624,1999,Rotherham,8
+ChangingLane,199914HH00337,1999,Sheffield,12
+ChangingLane,199914HH01122,1999,Sheffield,14
+ChangingLane,199916A025799,1999,North East Lincolnshire,63
+ChangingLane,199916A033399,1999,North East Lincolnshire,15
+ChangingLane,199916B019399,1999,North Lincolnshire,18
+ChangingLane,199916B019999,1999,North Lincolnshire,14
+ChangingLane,199916B026999,1999,North Lincolnshire,11
+ChangingLane,199916B029899,1999,North Lincolnshire,12
+ChangingLane,199916C011299,1999,East Riding of Yorkshire,33
+ChangingLane,199916D025099,1999,Kingston Upon Hull,15
+ChangingLane,199916D029499,1999,East Riding of Yorkshire,14
+ChangingLane,199916D032899,1999,Kingston Upon Hull,14
+ChangingLane,199916F014099,1999,Kingston Upon Hull,49
+ChangingLane,199917L300309,1999,Redcar and Cleveland,54
+ChangingLane,199917S100319,1999,Stockton on Tees,11
+ChangingLane,199920D368801,1999,Birmingham,48
+ChangingLane,199920E067701,1999,Birmingham,78
+ChangingLane,199920F248101,1999,Birmingham,13
+ChangingLane,199920G055702,1999,Wolverhampton,13
+ChangingLane,199920H090101,1999,Walsall,19
+ChangingLane,199920H097902,1999,Walsall,23
+ChangingLane,199920J049801,1999,Dudley,13
+ChangingLane,199920J061702,1999,Dudley,28
+ChangingLane,199920K071202,1999,Sandwell,12
+ChangingLane,1.99922E+12,1999,Staffordshire,11
+ChangingLane,1.99922E+12,1999,Staffordshire,10
+ChangingLane,1.99922E+12,1999,Staffordshire,12
+ChangingLane,199922EA11201,1999,Herefordshire,54
+ChangingLane,1.99924E+12,1999,Warwickshire,26
+ChangingLane,1.99924E+12,1999,Warwickshire,58
+ChangingLane,199930D000655,1999,Derbyshire,12
+ChangingLane,1999317A20679,1999,Nottinghamshire,14
+ChangingLane,1999317A80497,1999,Nottinghamshire,9
+ChangingLane,1999317A80607,1999,Nottinghamshire,16
+ChangingLane,1999317B20777,1999,Nottingham,11
+ChangingLane,1999317D20763,1999,Nottinghamshire,17
+ChangingLane,1999317E20902,1999,Nottinghamshire,12
+ChangingLane,199932B002849,1999,Lincolnshire,10
+ChangingLane,199932B012219,1999,Lincolnshire,11
+ChangingLane,199932D002369,1999,Lincolnshire,55
+ChangingLane,199932D005329,1999,Lincolnshire,6
+ChangingLane,199932D008659,1999,Lincolnshire,12
+ChangingLane,1.99934E+12,1999,Leicestershire,10
+ChangingLane,1.99934E+12,1999,Leicestershire,10
+ChangingLane,1.99934E+12,1999,Leicestershire,12
+ChangingLane,199934ND00570,1999,Northamptonshire,17
+ChangingLane,199934NN00762,1999,Northamptonshire,12
+ChangingLane,1.99935E+12,1999,Cambridgeshire,28
+ChangingLane,1.99935E+12,1999,Peterborough,11
+ChangingLane,1.99935E+12,1999,Cambridgeshire,12
+ChangingLane,1.99935E+12,1999,Cambridgeshire,18
+ChangingLane,1.99935E+12,1999,Cambridgeshire,68
+ChangingLane,1.99935E+12,1999,Peterborough,22
+ChangingLane,1.99935E+12,1999,Cambridgeshire,
+ChangingLane,1.99935E+12,1999,Cambridgeshire,14
+ChangingLane,199936N990130,1999,Norfolk,
+ChangingLane,199937B005708,1999,Suffolk,9
+ChangingLane,199937G004727,1999,Suffolk,9
+ChangingLane,199937L002954,1999,Suffolk,8
+ChangingLane,199940B110299,1999,Bedford Borough Council,18
+ChangingLane,199940B231899,1999,Central Bedfordshire,9
+ChangingLane,199940B273399,1999,Bedford Borough Council,49
+ChangingLane,199940C209699,1999,Luton,11
+ChangingLane,199940D207099,1999,Central Bedfordshire,13
+ChangingLane,19994100C0508,1999,Hertfordshire,10
+ChangingLane,19994100C0675,1999,Hertfordshire,15
+ChangingLane,2.00E+63,1999,Hertfordshire,12
+ChangingLane,19994200C0474,1999,Essex,87
+ChangingLane,19994200D0149,1999,Essex,13
+ChangingLane,19994200D0327,1999,Essex,14
+ChangingLane,2.00E+180,1999,Essex,15
+ChangingLane,19994200H0041,1999,Southend on Sea,25
+ChangingLane,19994200H0571,1999,Southend on Sea,61
+ChangingLane,199943N016099,1999,Buckinghamshire,16
+ChangingLane,199943P171019,1999,Oxfordshire,35
+ChangingLane,199943P182119,1999,Oxfordshire,34
+ChangingLane,199943P261039,1999,Oxfordshire,18
+ChangingLane,199943P276109,1999,Oxfordshire,15
+ChangingLane,199943P283019,1999,Oxfordshire,14
+ChangingLane,199943P323059,1999,Oxfordshire,9
+ChangingLane,199943P506019,1999,Oxfordshire,36
+ChangingLane,199943R099049,1999,Slough,8
+ChangingLane,199943R161119,1999,Windsor and Maidenhead,13
+ChangingLane,199943R305049,1999,Bracknell Forest,10
+ChangingLane,199943R309059,1999,Wokingham,15
+ChangingLane,199943S026089,1999,Milton Keynes,17
+ChangingLane,199943W216059,1999,Reading,15
+ChangingLane,199943W297039,1999,West Berkshire,44
+ChangingLane,199943W317069,1999,Wokingham,85
+ChangingLane,199943W389129,1999,Wokingham,15
+ChangingLane,1999440DH0013,1999,Hampshire,14
+ChangingLane,1999440DH0194,1999,Hampshire,12
+ChangingLane,1999440DR0150,1999,Hampshire,77
+ChangingLane,1999440DT0055,1999,Hampshire,17
+ChangingLane,1999440GG0113,1999,Hampshire,12
+ChangingLane,1999440HF0202,1999,Hampshire,13
+ChangingLane,1999440HF0392,1999,Hampshire,20
+ChangingLane,1999440JL0094,1999,Hampshire,12
+ChangingLane,1999440JW0198,1999,Hampshire,11
+ChangingLane,1999440JW0295,1999,Hampshire,13
+ChangingLane,1999440KS0052,1999,Portsmouth,8
+ChangingLane,1999440LR0106,1999,Hampshire,14
+ChangingLane,1999440OL1296,1999,Hampshire,71
+ChangingLane,1999440RF0375,1999,Portsmouth,10
+ChangingLane,1999440RF0451,1999,Portsmouth,14
+ChangingLane,1999440SP0258,1999,Southampton ,6
+ChangingLane,1999440SP0430,1999,Southampton ,14
+ChangingLane,1999440YS0417,1999,Southampton ,13
+ChangingLane,199945NW00229,1999,Surrey,15
+ChangingLane,199945NW00271,1999,Surrey,9
+ChangingLane,199945NW00288,1999,Surrey,16
+ChangingLane,199945WF00341,1999,Surrey,36
+ChangingLane,199946MA01033,1999,Kent,28
+ChangingLane,199946ME00967,1999,Medway,14
+ChangingLane,199946ME02777,1999,Medway,14
+ChangingLane,199946ME04344,1999,Medway,18
+ChangingLane,199946NK09228,1999,Kent,23
+ChangingLane,199946SW10583,1999,Kent,9
+ChangingLane,199946WL09327,1999,Kent,40
+ChangingLane,199947C003908,1999,Brighton and Hove,16
+ChangingLane,199947C004573,1999,Brighton and Hove,73
+ChangingLane,199947C005753,1999,Brighton and Hove,13
+ChangingLane,199947H002167,1999,West Sussex,30
+ChangingLane,199947H002266,1999,West Sussex,12
+ChangingLane,199947H003649,1999,West Sussex,12
+ChangingLane,199947N002694,1999,West Sussex,33
+ChangingLane,199947N002988,1999,West Sussex,13
+ChangingLane,199947T002853,1999,East Sussex,68
+ChangingLane,199947X002033,1999,West Sussex,21
+ChangingLane,199947X002536,1999,West Sussex,39
+ChangingLane,199947X002969,1999,West Sussex,13
+ChangingLane,199947X002971,1999,West Sussex,12
+ChangingLane,199947X003347,1999,West Sussex,20
+ChangingLane,199947X003416,1999,West Sussex,38
+ChangingLane,199947X003541,1999,West Sussex,13
+ChangingLane,199947X004025,1999,West Sussex,15
+ChangingLane,199947Y001993,1999,West Sussex,15
+ChangingLane,199947Y002234,1999,West Sussex,20
+ChangingLane,199947Y002324,1999,West Sussex,15
+ChangingLane,199947Y002433,1999,West Sussex,79
+ChangingLane,199950A330132,1999,Cornwall and Isles of Scilly,10
+ChangingLane,199950C314104,1999,Devon,14
+ChangingLane,199950D215316,1999,Devon,15
+ChangingLane,199950E210912,1999,Plymouth,12
+ChangingLane,1.99952E+12,1999,Somerset,26
+ChangingLane,1.99952E+12,1999,City of Bristol,70
+ChangingLane,1.99952E+12,1999,South Gloucestershire,12
+ChangingLane,1.99952E+12,1999,South Gloucestershire,56
+ChangingLane,1.99952E+12,1999,City of Bristol,20
+ChangingLane,1.99952E+12,1999,South Gloucestershire,16
+ChangingLane,1999530AI1825,1999,Gloucestershire,27
+ChangingLane,1999530AI3102,1999,Gloucestershire,14
+ChangingLane,1999530AI3311,1999,Gloucestershire,25
+ChangingLane,1999530AI3457,1999,Gloucestershire,13
+ChangingLane,199954AY34899,1999,Wiltshire,16
+ChangingLane,1999550B02122,1999,Bournemouth,39
+ChangingLane,1999550B03091,1999,Bournemouth,74
+ChangingLane,1999550B05190,1999,Bournemouth,33
+ChangingLane,1999550P03213,1999,Poole,12
+ChangingLane,200001DM01674,2000,London,40
+ChangingLane,200001FH00223,2000,London,14
+ChangingLane,200001HT00288,2000,London,41
+ChangingLane,200001HT00582,2000,London,53
+ChangingLane,200001LX01350,2000,London,36
+ChangingLane,200001LX02082,2000,London,
+ChangingLane,200001MM01473,2000,London,33
+ChangingLane,200001NI00506,2000,London,28
+ChangingLane,200001NI00897,2000,London,27
+ChangingLane,200001RX00048,2000,London,31
+ChangingLane,200001SA00051,2000,Hertfordshire,15
+ChangingLane,200001TW00382,2000,London,10
+ChangingLane,200001TX00858,2000,London,30
+ChangingLane,200001VK00293,2000,London,41
+ChangingLane,200001VW00461,2000,London,17
+ChangingLane,200001YR00623,2000,London,38
+ChangingLane,200001ZD00991,2000,London,11
+ChangingLane,200001ZD01255,2000,London,10
+ChangingLane,200001ZP00118,2000,London,13
+ChangingLane,2.00003E+12,2000,Cumbria,16
+ChangingLane,2.00003E+12,2000,Cumbria,16
+ChangingLane,200004A084000,2000,Lancashire,84
+ChangingLane,200004B031700,2000,Lancashire,7
+ChangingLane,200004C033600,2000,Lancashire,5
+ChangingLane,200004D069800,2000,Lancashire,11
+ChangingLane,200004E023600,2000,Lancashire,27
+ChangingLane,2.00005E+12,2000,Merseyside,18
+ChangingLane,2.00005E+12,2000,Merseyside,37
+ChangingLane,2.00005E+12,2000,Merseyside,12
+ChangingLane,2.00005E+12,2000,Merseyside,9
+ChangingLane,2.00005E+12,2000,Merseyside,17
+ChangingLane,200006C011859,2000,Manchester,11
+ChangingLane,200006C011885,2000,Manchester,17
+ChangingLane,200006J006774,2000,Stockport,10
+ChangingLane,200006M005189,2000,Trafford,14
+ChangingLane,200006M005527,2000,Trafford,52
+ChangingLane,200006P005668,2000,Rochdale,12
+ChangingLane,2.00007E+12,2000,Cheshire West and Chester,10
+ChangingLane,2.00007E+12,2000,Cheshire West and Chester,15
+ChangingLane,2.00007E+12,2000,Cheshire West and Chester,18
+ChangingLane,2.00007E+12,2000,Cheshire West and Chester,19
+ChangingLane,2.00007E+12,2000,Cheshire East,14
+ChangingLane,2.00007E+12,2000,Warrington,14
+ChangingLane,200010I009900,2000,North Tyneside,66
+ChangingLane,200010L074700,2000,South Tyneside,50
+ChangingLane,200010L362800,2000,South Tyneside,10
+ChangingLane,200010L369600,2000,South Tyneside,13
+ChangingLane,200011BD32710,2000,Durham,19
+ChangingLane,2.00012E+12,2000,York,11
+ChangingLane,2.00012E+12,2000,North Yorkshire,27
+ChangingLane,2.00012E+12,2000,North Yorkshire,11
+ChangingLane,2.00012E+12,2000,York,10
+ChangingLane,2.00012E+12,2000,North Yorkshire,10
+ChangingLane,2.00012E+12,2000,York,21
+ChangingLane,2.00012E+12,2000,North Yorkshire,10
+ChangingLane,2.00012E+12,2000,York,25
+ChangingLane,2.00012E+12,2000,North Yorkshire,70
+ChangingLane,2.00013E+12,2000,Wakefield,11
+ChangingLane,2.00013E+12,2000,Kirklees,15
+ChangingLane,2.00013E+12,2000,Kirklees,9
+ChangingLane,2.00013E+12,2000,Bradford,27
+ChangingLane,2.00013E+12,2000,Kirklees,5
+ChangingLane,200014HH00625,2000,Sheffield,
+ChangingLane,200014JJ00814,2000,Sheffield,16
+ChangingLane,200016A071200,2000,North East Lincolnshire,14
+ChangingLane,200016B027700,2000,North Lincolnshire,9
+ChangingLane,200016B041300,2000,North Lincolnshire,10
+ChangingLane,200016D071100,2000,Kingston Upon Hull,69
+ChangingLane,200017L300021,2000,Redcar and Cleveland,13
+ChangingLane,200020D245801,2000,Birmingham,17
+ChangingLane,200020E115601,2000,Birmingham,47
+ChangingLane,200020E189101,2000,Birmingham,30
+ChangingLane,200020F182601,2000,Birmingham,36
+ChangingLane,200020L035501,2000,Solihull,14
+ChangingLane,200020L075301,2000,Solihull,11
+ChangingLane,200020L114801,2000,Solihull,70
+ChangingLane,200020M052201,2000,Coventry,50
+ChangingLane,200020M104902,2000,Coventry,
+ChangingLane,200020M105302,2000,Coventry,16
+ChangingLane,200022CA19877,2000,Worcestershire,33
+ChangingLane,200022EA15004,2000,Herefordshire,13
+ChangingLane,200022FE18399,2000,Shropshire,12
+ChangingLane,2.00023E+12,2000,Warwickshire,69
+ChangingLane,2.00023E+12,2000,Warwickshire,41
+ChangingLane,2.00023E+12,2000,Warwickshire,11
+ChangingLane,2.00023E+12,2000,Warwickshire,14
+ChangingLane,200030A000577,2000,Derbyshire,14
+ChangingLane,200030C000376,2000,Derbyshire,7
+ChangingLane,200030C000545,2000,Derbyshire,16
+ChangingLane,200030D000707,2000,Derbyshire,13
+ChangingLane,200030D000855,2000,Derbyshire,8
+ChangingLane,200030D001009,2000,Derby,8
+ChangingLane,2000317A20150,2000,Nottinghamshire,8
+ChangingLane,2000317E81031,2000,Nottinghamshire,16
+ChangingLane,200032B011710,2000,Lincolnshire,13
+ChangingLane,200032C001450,2000,Lincolnshire,15
+ChangingLane,200032C007200,2000,Lincolnshire,11
+ChangingLane,200032D007400,2000,Lincolnshire,13
+ChangingLane,200032D015700,2000,Lincolnshire,11
+ChangingLane,2.00033E+12,2000,Leicestershire,17
+ChangingLane,2.00033E+12,2000,Leicestershire,37
+ChangingLane,2.00033E+12,2000,Leicestershire,11
+ChangingLane,2.00033E+12,2000,Leicestershire,55
+ChangingLane,2.00033E+12,2000,Leicestershire,20
+ChangingLane,200034NC00087,2000,Northamptonshire,10
+ChangingLane,200034NC00339,2000,Northamptonshire,10
+ChangingLane,200034ND00575,2000,Northamptonshire,32
+ChangingLane,200034NN00310,2000,Northamptonshire,12
+ChangingLane,200034NN01297,2000,Northamptonshire,33
+ChangingLane,200034NN01481,2000,Northamptonshire,33
+ChangingLane,2.00035E+12,2000,Cambridgeshire,
+ChangingLane,2.00035E+12,2000,Cambridgeshire,33
+ChangingLane,2.00035E+12,2000,Cambridgeshire,18
+ChangingLane,2.00035E+12,2000,Cambridgeshire,11
+ChangingLane,2.00035E+12,2000,Cambridgeshire,14
+ChangingLane,2.00035E+12,2000,Cambridgeshire,17
+ChangingLane,2.00035E+12,2000,Cambridgeshire,13
+ChangingLane,2.00035E+12,2000,Cambridgeshire,45
+ChangingLane,200036G000283,2000,Norfolk,40
+ChangingLane,200037G006953,2000,Suffolk,14
+ChangingLane,200037G007013,2000,Suffolk,10
+ChangingLane,200037G007277,2000,Suffolk,70
+ChangingLane,200037L004747,2000,Suffolk,12
+ChangingLane,200037L004805,2000,Suffolk,8
+ChangingLane,2000400B02162,2000,Bedford Borough Council,41
+ChangingLane,2000400C01313,2000,Luton,13
+ChangingLane,2000400C01882,2000,Luton,
+ChangingLane,2000400C02188,2000,Luton,12
+ChangingLane,20004100G0154,2000,Hertfordshire,20
+ChangingLane,20004200A0542,2000,Essex,20
+ChangingLane,20004200B0252,2000,Essex,14
+ChangingLane,20004200C0406,2000,Essex,11
+ChangingLane,20004200D0315,2000,Essex,9
+ChangingLane,20004200D0396,2000,Essex,7
+ChangingLane,2.00E+103,2000,Essex,16
+ChangingLane,20004200E0335,2000,Essex,22
+ChangingLane,20004200H0080,2000,Southend on Sea,16
+ChangingLane,20004200X0124,2000,Essex,56
+ChangingLane,200043N122040,2000,Buckinghamshire,12
+ChangingLane,200043P091030,2000,Oxfordshire,
+ChangingLane,200043P123050,2000,Oxfordshire,12
+ChangingLane,200043P186070,2000,Oxfordshire,15
+ChangingLane,200043P300100,2000,Oxfordshire,15
+ChangingLane,200043P417070,2000,Oxfordshire,14
+ChangingLane,200043S010080,2000,Milton Keynes,14
+ChangingLane,200043W103080,2000,Slough,15
+ChangingLane,200043W535060,2000,West Berkshire,32
+ChangingLane,2000440GG0121,2000,Hampshire,13
+ChangingLane,2000440GG0438,2000,Hampshire,20
+ChangingLane,2000440HF0346,2000,Hampshire,12
+ChangingLane,2000440LN0123,2000,Hampshire,15
+ChangingLane,2000440RC0016,2000,Portsmouth,14
+ChangingLane,2000440RC0309,2000,Portsmouth,21
+ChangingLane,2000440RF0354,2000,Portsmouth,30
+ChangingLane,2000440ST0315,2000,Southampton ,14
+ChangingLane,2000440SY0357,2000,Southampton ,10
+ChangingLane,2000440TB0111,2000,Southampton ,11
+ChangingLane,200045EC00111,2000,Surrey,15
+ChangingLane,200045ED00146,2000,Surrey,
+ChangingLane,200045ER00197,2000,Surrey,13
+ChangingLane,200045NC00075,2000,Surrey,25
+ChangingLane,200045NC00186,2000,Surrey,9
+ChangingLane,200046CT25590,2000,Kent,8
+ChangingLane,200046NK28877,2000,Kent,16
+ChangingLane,200046SK30181,2000,Kent,35
+ChangingLane,200046SW25148,2000,Kent,15
+ChangingLane,200046SW26144,2000,Kent,11
+ChangingLane,200046SW29451,2000,Kent,12
+ChangingLane,200046TH28922,2000,Kent,20
+ChangingLane,200046WK24489,2000,Kent,15
+ChangingLane,200046WK29852,2000,Kent,9
+ChangingLane,200047N004771,2000,West Sussex,51
+ChangingLane,200047N131653,2000,West Sussex,15
+ChangingLane,200047S005545,2000,East Sussex,12
+ChangingLane,200047T004108,2000,East Sussex,14
+ChangingLane,200047T004147,2000,East Sussex,17
+ChangingLane,200047T129189,2000,East Sussex,15
+ChangingLane,200047X004645,2000,West Sussex,
+ChangingLane,200047X004832,2000,West Sussex,13
+ChangingLane,200047X004860,2000,West Sussex,12
+ChangingLane,200047X004916,2000,West Sussex,9
+ChangingLane,200047X004955,2000,West Sussex,13
+ChangingLane,200047X005032,2000,West Sussex,82
+ChangingLane,200047X126909,2000,West Sussex,9
+ChangingLane,200047Y003312,2000,West Sussex,12
+ChangingLane,200050A210101,2000,Cornwall and Isles of Scilly,14
+ChangingLane,200050A610801,2000,Cornwall and Isles of Scilly,50
+ChangingLane,200050B310791,2000,Cornwall and Isles of Scilly,12
+ChangingLane,200050B510928,2000,Cornwall and Isles of Scilly,7
+ChangingLane,200050D214522,2000,Devon,10
+ChangingLane,200050E522600,2000,Plymouth,34
+ChangingLane,200050F414213,2000,Devon,28
+ChangingLane,200050F452070,2000,Devon,8
+ChangingLane,2.00052E+12,2000,North Somerset,13
+ChangingLane,2.00052E+12,2000,North Somerset,8
+ChangingLane,200052G940306,2000,Somerset,14
+ChangingLane,200052GT35586,2000,Somerset,24
+ChangingLane,2000530AI1817,2000,Gloucestershire,12
+ChangingLane,200054CT30000,2000,Wiltshire,19
+ChangingLane,2000550B05742,2000,Bournemouth,11
+ChangingLane,2000550P04933,2000,Poole,
+ChangingLane,200101DM00670,2001,London,30
+ChangingLane,200101FH00730,2001,London,12
+ChangingLane,200101GD00977,2001,London,27
+ChangingLane,200101HT01230,2001,London,30
+ChangingLane,200101LX00462,2001,London,27
+ChangingLane,200101MM00523,2001,London,32
+ChangingLane,200101MM00745,2001,London,15
+ChangingLane,200101MM00894,2001,London,21
+ChangingLane,200101NI00454,2001,London,31
+ChangingLane,200101RG00036,2001,London,25
+ChangingLane,200101TX00702,2001,London,76
+ChangingLane,200101VK00041,2001,London,25
+ChangingLane,200101VK00253,2001,London,89
+ChangingLane,200101VW00073,2001,London,16
+ChangingLane,200101WW00443,2001,London,26
+ChangingLane,200104D044501,2001,Lancashire,14
+ChangingLane,200104D049401,2001,Lancashire,23
+ChangingLane,200104E057201,2001,Lancashire,9
+ChangingLane,2.00105E+12,2001,Merseyside,13
+ChangingLane,2.00105E+12,2001,Merseyside,9
+ChangingLane,200106A009973,2001,Manchester,20
+ChangingLane,200106F007960,2001,Salford,12
+ChangingLane,200106J009404,2001,Stockport,21
+ChangingLane,200106K009768,2001,Bolton,10
+ChangingLane,200106K009790,2001,Bolton,16
+ChangingLane,200106N006498,2001,Bury,8
+ChangingLane,200106P007958,2001,Rochdale,14
+ChangingLane,200106Q007823,2001,Oldham,9
+ChangingLane,2.00107E+12,2001,Halton,8
+ChangingLane,2.00107E+12,2001,Warrington,15
+ChangingLane,2.00107E+12,2001,Cheshire West and Chester,11
+ChangingLane,2.00107E+12,2001,Warrington,12
+ChangingLane,2.00107E+12,2001,Cheshire East,53
+ChangingLane,2.00107E+12,2001,Cheshire East,18
+ChangingLane,2.00107E+12,2001,Warrington,18
+ChangingLane,2.00107E+12,2001,Warrington,53
+ChangingLane,200110K422801,2001,Gateshead,18
+ChangingLane,200110O054801,2001,South Tyneside,14
+ChangingLane,200111BD31180,2001,Durham,16
+ChangingLane,2.00112E+12,2001,York,11
+ChangingLane,2.00112E+12,2001,North Yorkshire,12
+ChangingLane,2.00112E+12,2001,North Yorkshire,50
+ChangingLane,2.00112E+12,2001,North Yorkshire,16
+ChangingLane,2.00113E+12,2001,Leeds,13
+ChangingLane,2.00113E+12,2001,Leeds,29
+ChangingLane,2.00113E+12,2001,Leeds,7
+ChangingLane,2.00113E+12,2001,Bradford,10
+ChangingLane,2.00113E+12,2001,Bradford,15
+ChangingLane,2.00113E+12,2001,Bradford,16
+ChangingLane,2.00113E+12,2001,Wakefield,12
+ChangingLane,2.00113E+12,2001,Wakefield,31
+ChangingLane,2.00113E+12,2001,Bradford,8
+ChangingLane,200114HH01203,2001,Sheffield,14
+ChangingLane,200116B049301,2001,North Lincolnshire,14
+ChangingLane,200116D008501,2001,Kingston Upon Hull,14
+ChangingLane,200116D031601,2001,Kingston Upon Hull,11
+ChangingLane,200116D039601,2001,Kingston Upon Hull,10
+ChangingLane,200120D268403,2001,Birmingham,10
+ChangingLane,200120D331603,2001,Birmingham,45
+ChangingLane,200120G117902,2001,Wolverhampton,10
+ChangingLane,200120G137002,2001,Wolverhampton,15
+ChangingLane,200120J074101,2001,Dudley,11
+ChangingLane,2.00121E+12,2001,Stoke on Trent,10
+ChangingLane,200122AA16846,2001,Worcestershire,60
+ChangingLane,200122CE20971,2001,Worcestershire,32
+ChangingLane,2.00123E+12,2001,Warwickshire,13
+ChangingLane,2.00123E+12,2001,Warwickshire,11
+ChangingLane,2.00123E+12,2001,Warwickshire,16
+ChangingLane,2.00123E+12,2001,Warwickshire,12
+ChangingLane,2.00123E+12,2001,Warwickshire,17
+ChangingLane,2.00123E+12,2001,Warwickshire,15
+ChangingLane,20013102B0257,2001,Nottinghamshire,34
+ChangingLane,20013104B1171,2001,Nottingham,14
+ChangingLane,20013108E0800,2001,Nottinghamshire,64
+ChangingLane,200132B151801,2001,Lincolnshire,37
+ChangingLane,200132C090601,2001,Lincolnshire,17
+ChangingLane,200132C154001,2001,Lincolnshire,
+ChangingLane,200132D038901,2001,Lincolnshire,14
+ChangingLane,200132D076001,2001,Lincolnshire,12
+ChangingLane,200132D098101,2001,Lincolnshire,24
+ChangingLane,2.00133E+12,2001,Leicestershire,17
+ChangingLane,2.00133E+12,2001,Leicestershire,35
+ChangingLane,200134NC00320,2001,Northamptonshire,17
+ChangingLane,200134NC00353,2001,Northamptonshire,11
+ChangingLane,200134NN00432,2001,Northamptonshire,11
+ChangingLane,200134NN00625,2001,Northamptonshire,14
+ChangingLane,200134NW00564,2001,Northamptonshire,16
+ChangingLane,200134NW00641,2001,Northamptonshire,17
+ChangingLane,2.00135E+12,2001,Peterborough,66
+ChangingLane,2.00135E+12,2001,Cambridgeshire,
+ChangingLane,2.00135E+12,2001,Peterborough,
+ChangingLane,2.00135E+12,2001,Peterborough,13
+ChangingLane,2.00135E+12,2001,Cambridgeshire,35
+ChangingLane,2.00135E+12,2001,Cambridgeshire,18
+ChangingLane,2.00135E+12,2001,Cambridgeshire,
+ChangingLane,2.00135E+12,2001,Peterborough,15
+ChangingLane,200137G007825,2001,Suffolk,15
+ChangingLane,200137L005948,2001,Suffolk,15
+ChangingLane,2001400B02139,2001,Bedford Borough Council,40
+ChangingLane,2001400B02929,2001,Luton,9
+ChangingLane,2001400B03607,2001,Bedford Borough Council,11
+ChangingLane,20014100A0643,2001,Hertfordshire,51
+ChangingLane,20014100B0784,2001,Hertfordshire,24
+ChangingLane,20014100C0087,2001,Hertfordshire,17
+ChangingLane,20014100K0219,2001,Hertfordshire,17
+ChangingLane,20014200C0270,2001,Essex,16
+ChangingLane,20014200C0322,2001,Essex,13
+ChangingLane,20014200H0162,2001,Southend on Sea,11
+ChangingLane,20014200H0600,2001,Southend on Sea,
+ChangingLane,200143P098061,2001,Oxfordshire,15
+ChangingLane,200143P162121,2001,Oxfordshire,13
+ChangingLane,200143P313101,2001,Oxfordshire,14
+ChangingLane,200143P354081,2001,Oxfordshire,14
+ChangingLane,200143P472111,2001,Oxfordshire,16
+ChangingLane,2001440AA0077,2001,Hampshire,23
+ChangingLane,2001440BB1145,2001,Hampshire,13
+ChangingLane,2001440DH0068,2001,Hampshire,11
+ChangingLane,2001440DW0179,2001,Hampshire,18
+ChangingLane,2001440DW0292,2001,Hampshire,18
+ChangingLane,2001440HP0282,2001,Hampshire,14
+ChangingLane,2001440HP0389,2001,Hampshire,18
+ChangingLane,2001440JH0132,2001,Hampshire,71
+ChangingLane,2001440JW0386,2001,Hampshire,14
+ChangingLane,2001440KK1062,2001,Portsmouth,49
+ChangingLane,2001440KK1884,2001,Portsmouth,17
+ChangingLane,2001440LA0378,2001,Hampshire,9
+ChangingLane,2001440SC0580,2001,Southampton ,37
+ChangingLane,2001440SY0533,2001,Southampton ,11
+ChangingLane,2001440ZD0003,2001,Isle of Wight,14
+ChangingLane,2001440ZD1278,2001,Isle of Wight,15
+ChangingLane,200145ME08092,2001,Surrey,10
+ChangingLane,200145MN04973,2001,Surrey,12
+ChangingLane,200146CT46562,2001,Kent,9
+ChangingLane,200146MA42151,2001,Kent,64
+ChangingLane,200147N137158,2001,West Sussex,15
+ChangingLane,200147S137439,2001,East Sussex,13
+ChangingLane,200147T136201,2001,East Sussex,9
+ChangingLane,200147T137531,2001,East Sussex,14
+ChangingLane,200147T139169,2001,East Sussex,8
+ChangingLane,200147X137366,2001,West Sussex,18
+ChangingLane,200147X143555,2001,West Sussex,16
+ChangingLane,200150C213701,2001,Devon,7
+ChangingLane,200150D412248,2001,Devon,15
+ChangingLane,200150E311770,2001,Plymouth,30
+ChangingLane,200150F316238,2001,Torbay,15
+ChangingLane,2.00152E+12,2001,Somerset,15
+ChangingLane,200152G737337,2001,Somerset,21
+ChangingLane,2001530AI2430,2001,Gloucestershire,13
+ChangingLane,200201CP00108,2002,London,34
+ChangingLane,200201EO00954,2002,London,15
+ChangingLane,200201JI00404,2002,London,
+ChangingLane,200201MM01377,2002,London,25
+ChangingLane,200201SX01308,2002,London,32
+ChangingLane,200201TW09062,2002,London,34
+ChangingLane,200201TX00966,2002,London,19
+ChangingLane,200201VK00147,2002,London,8
+ChangingLane,200201VW00011,2002,London,25
+ChangingLane,200201VW00737,2002,London,12
+ChangingLane,200201XS00198,2002,London,20
+ChangingLane,200201YF00295,2002,London,13
+ChangingLane,2.00203E+12,2002,Cumbria,18
+ChangingLane,200204A033202,2002,Blackpool,7
+ChangingLane,200204B065302,2002,Lancashire,13
+ChangingLane,200204D056002,2002,Lancashire,
+ChangingLane,200204E069202,2002,Lancashire,7
+ChangingLane,200204F020302,2002,Lancashire,10
+ChangingLane,2.00205E+12,2002,Merseyside,13
+ChangingLane,2.00205E+12,2002,Merseyside,11
+ChangingLane,2.00205E+12,2002,Merseyside,8
+ChangingLane,200205CH00077,2002,Merseyside,52
+ChangingLane,200206F010965,2002,Salford,14
+ChangingLane,200206L012187,2002,Wigan,36
+ChangingLane,200206L013027,2002,Wigan,15
+ChangingLane,2.00207E+12,2002,Cheshire West and Chester,42
+ChangingLane,2.00207E+12,2002,Cheshire West and Chester,16
+ChangingLane,2.00207E+12,2002,Warrington,11
+ChangingLane,2.00207E+12,2002,Cheshire West and Chester,14
+ChangingLane,2.00207E+12,2002,Cheshire West and Chester,10
+ChangingLane,2.00207E+12,2002,Cheshire West and Chester,31
+ChangingLane,2.00207E+12,2002,Cheshire West and Chester,13
+ChangingLane,2.0021E+12,2002,Northumberland,15
+ChangingLane,200211DJ08170,2002,Darlington,18
+ChangingLane,2.00212E+12,2002,York,11
+ChangingLane,2.00212E+12,2002,York,82
+ChangingLane,2.00213E+12,2002,Kirklees,15
+ChangingLane,2.00213E+12,2002,Wakefield,11
+ChangingLane,2.00213E+12,2002,Wakefield,11
+ChangingLane,2.00213E+12,2002,Kirklees,8
+ChangingLane,2.00213E+12,2002,Calderdale,10
+ChangingLane,2.00213E+12,2002,Leeds,23
+ChangingLane,2.00213E+12,2002,Bradford,14
+ChangingLane,200214BB00741,2002,Doncaster,18
+ChangingLane,200214DD00586,2002,Barnsley,74
+ChangingLane,200216D006702,2002,Kingston Upon Hull,24
+ChangingLane,200216D048402,2002,Kingston Upon Hull,30
+ChangingLane,200216D072602,2002,Kingston Upon Hull,57
+ChangingLane,2002170L22902,2002,Redcar and Cleveland,11
+ChangingLane,200220D294902,2002,Birmingham,10
+ChangingLane,200220D350501,2002,Birmingham,60
+ChangingLane,200220E131701,2002,Birmingham,6
+ChangingLane,200220H057702,2002,Walsall,12
+ChangingLane,200220K095201,2002,Sandwell,13
+ChangingLane,2.00221E+12,2002,Staffordshire,15
+ChangingLane,200222BD25674,2002,Worcestershire,16
+ChangingLane,200222GC25894,2002,Shropshire,13
+ChangingLane,2.00223E+12,2002,Warwickshire,27
+ChangingLane,2.00223E+12,2002,Warwickshire,54
+ChangingLane,2.00223E+12,2002,Warwickshire,52
+ChangingLane,2.00223E+12,2002,Warwickshire,15
+ChangingLane,2.00223E+12,2002,Warwickshire,15
+ChangingLane,2.00223E+12,2002,Warwickshire,15
+ChangingLane,200230A000564,2002,Derbyshire,12
+ChangingLane,200230C000649,2002,Derbyshire,10
+ChangingLane,200230D000325,2002,Derby,11
+ChangingLane,20023102D1102,2002,Nottinghamshire,17
+ChangingLane,200232B007302,2002,Lincolnshire,8
+ChangingLane,200232B027802,2002,Lincolnshire,72
+ChangingLane,200232B071102,2002,Lincolnshire,16
+ChangingLane,200232C123402,2002,Lincolnshire,13
+ChangingLane,200232D053502,2002,Lincolnshire,79
+ChangingLane,200232D127402,2002,Lincolnshire,13
+ChangingLane,2.00233E+12,2002,Leicestershire,14
+ChangingLane,200234NC02119,2002,Northamptonshire,7
+ChangingLane,200234NC02965,2002,Northamptonshire,16
+ChangingLane,200234NN00193,2002,Northamptonshire,55
+ChangingLane,200234TD00596,2002,Northamptonshire,37
+ChangingLane,2.00235E+12,2002,Cambridgeshire,57
+ChangingLane,2.00235E+12,2002,Cambridgeshire,49
+ChangingLane,2.00235E+12,2002,Cambridgeshire,15
+ChangingLane,2.00235E+12,2002,Cambridgeshire,8
+ChangingLane,2.00235E+12,2002,Cambridgeshire,
+ChangingLane,200236N020633,2002,Norfolk,43
+ChangingLane,200237G010615,2002,Suffolk,8
+ChangingLane,2002400D02836,2002,Central Bedfordshire,11
+ChangingLane,2002400D03302,2002,Central Bedfordshire,12
+ChangingLane,20024100B0817,2002,Hertfordshire,15
+ChangingLane,20024100C5517,2002,Hertfordshire,22
+ChangingLane,20024100DA173,2002,Hertfordshire,10
+ChangingLane,20024100G0812,2002,Hertfordshire,9
+ChangingLane,20024200A0173,2002,Essex,17
+ChangingLane,20024200F0492,2002,Thurrock,10
+ChangingLane,20024200G0093,2002,Essex,15
+ChangingLane,20024200G0244,2002,Essex,16
+ChangingLane,20024200G0434,2002,Essex,9
+ChangingLane,20024200G0664,2002,Essex,64
+ChangingLane,20024200H0172,2002,Southend on Sea,31
+ChangingLane,20024200J0399,2002,Essex,
+ChangingLane,200243P265082,2002,Oxfordshire,10
+ChangingLane,200243P380042,2002,Oxfordshire,14
+ChangingLane,200243P534102,2002,Oxfordshire,19
+ChangingLane,200243S008092,2002,Milton Keynes,14
+ChangingLane,200243W207022,2002,Reading,50
+ChangingLane,200243W267122,2002,West Berkshire,16
+ChangingLane,2002440AA1117,2002,Hampshire,17
+ChangingLane,2002440GG0227,2002,Hampshire,18
+ChangingLane,2002440HB0109,2002,Hampshire,14
+ChangingLane,2002440HF0074,2002,Hampshire,46
+ChangingLane,2002440HP0157,2002,Hampshire,64
+ChangingLane,2002440JH0003,2002,Hampshire,58
+ChangingLane,2002440LA0461,2002,Hampshire,9
+ChangingLane,2002440LA0464,2002,Hampshire,14
+ChangingLane,2002440OL1251,2002,Hampshire,10
+ChangingLane,2002440SP0386,2002,Southampton ,14
+ChangingLane,2002440ST0790,2002,Southampton ,20
+ChangingLane,2002440ZD0043,2002,Isle of Wight,25
+ChangingLane,200245RE19634,2002,Surrey,26
+ChangingLane,200245RS30787,2002,Surrey,15
+ChangingLane,200245SX27488,2002,Surrey,
+ChangingLane,200245SX29090,2002,Surrey,
+ChangingLane,200246MA60726,2002,Kent,8
+ChangingLane,200246WK57259,2002,Kent,9
+ChangingLane,200246WK68847,2002,Kent,14
+ChangingLane,200247K149939,2002,Brighton and Hove,14
+ChangingLane,200247K150804,2002,West Sussex,54
+ChangingLane,200247K150962,2002,Brighton and Hove,50
+ChangingLane,200247K153887,2002,East Sussex,27
+ChangingLane,200247K157516,2002,West Sussex,25
+ChangingLane,200247X148499,2002,West Sussex,
+ChangingLane,200250A310836,2002,Cornwall and Isles of Scilly,22
+ChangingLane,200250A410085,2002,Cornwall and Isles of Scilly,54
+ChangingLane,200250F413135,2002,Devon,16
+ChangingLane,2.00252E+12,2002,City of Bristol,13
+ChangingLane,2.00252E+12,2002,South Gloucestershire,11
+ChangingLane,2.00252E+12,2002,City of Bristol,60
+ChangingLane,2.00252E+12,2002,Somerset,15
+ChangingLane,200254AM59502,2002,Wiltshire,15
+ChangingLane,2002550B03436,2002,Bournemouth,14
+ChangingLane,2002552E06861,2002,Dorset,13
+ChangingLane,2002552W03783,2002,Dorset,14
+ChangingLane,200301DM00777,2003,London,36
+ChangingLane,200301DM00999,2003,London,25
+ChangingLane,200301EO00603,2003,London,37
+ChangingLane,200301EO01521,2003,London,32
+ChangingLane,200301EO01653,2003,London,15
+ChangingLane,200301EO01917,2003,London,15
+ChangingLane,200301HT00704,2003,London,12
+ChangingLane,200301MM01267,2003,London,14
+ChangingLane,200301PL00468,2003,London,15
+ChangingLane,200301RY00023,2003,London,19
+ChangingLane,200301TW00179,2003,London,89
+ChangingLane,200301VK00088,2003,London,11
+ChangingLane,200301VW00548,2003,London,18
+ChangingLane,200301ZT00344,2003,London,53
+ChangingLane,2.00303E+12,2003,Cumbria,22
+ChangingLane,2.00303E+12,2003,Cumbria,11
+ChangingLane,200304D011503,2003,Lancashire,24
+ChangingLane,200305AW00590,2003,Merseyside,43
+ChangingLane,200305AW01137,2003,Merseyside,30
+ChangingLane,200305ET01937,2003,Merseyside,28
+ChangingLane,200305FT01157,2003,Merseyside,12
+ChangingLane,200306J013398,2003,Stockport,79
+ChangingLane,200306J013642,2003,Stockport,58
+ChangingLane,200306M012267,2003,Trafford,48
+ChangingLane,200306P012629,2003,Rochdale,38
+ChangingLane,2.00307E+12,2003,Cheshire West and Chester,59
+ChangingLane,2.00307E+12,2003,Cheshire West and Chester,11
+ChangingLane,2.00307E+12,2003,Cheshire East,47
+ChangingLane,2.0031E+12,2003,North Tyneside,20
+ChangingLane,2.0031E+12,2003,Newcastle upon Tyne,53
+ChangingLane,2.0031E+12,2003,Northumberland,65
+ChangingLane,2.00312E+12,2003,York,9
+ChangingLane,2.00312E+12,2003,North Yorkshire,11
+ChangingLane,2.00312E+12,2003,North Yorkshire,14
+ChangingLane,2.00312E+12,2003,York,18
+ChangingLane,2.00312E+12,2003,York,55
+ChangingLane,2.00313E+12,2003,Leeds,14
+ChangingLane,2.00313E+12,2003,Leeds,42
+ChangingLane,200314HH01004,2003,Sheffield,51
+ChangingLane,200314JJ00670,2003,Sheffield,18
+ChangingLane,200314KK01154,2003,Sheffield,16
+ChangingLane,200316D009503,2003,Kingston Upon Hull,52
+ChangingLane,200316D034703,2003,Kingston Upon Hull,12
+ChangingLane,200316D036903,2003,Kingston Upon Hull,18
+ChangingLane,2003170M12873,2003,Middlesbrough,57
+ChangingLane,200320G017102,2003,Wolverhampton,
+ChangingLane,200320G063601,2003,Wolverhampton,10
+ChangingLane,200320G097001,2003,Wolverhampton,20
+ChangingLane,200320H024601,2003,Walsall,13
+ChangingLane,200320L200401,2003,Solihull,52
+ChangingLane,200320M095303,2003,Coventry,19
+ChangingLane,2.00321E+12,2003,Stoke on Trent,15
+ChangingLane,2.00321E+12,2003,Staffordshire,17
+ChangingLane,2.00321E+12,2003,Staffordshire,9
+ChangingLane,200322CE37329,2003,Worcestershire,16
+ChangingLane,200330A000401,2003,Derbyshire,12
+ChangingLane,200330D000566,2003,Derby,9
+ChangingLane,200330D000846,2003,Derby,14
+ChangingLane,20033102B1070,2003,Nottinghamshire,67
+ChangingLane,20033102B5036,2003,Nottinghamshire,79
+ChangingLane,20033102D5401,2003,Nottinghamshire,14
+ChangingLane,200332B002103,2003,Lincolnshire,21
+ChangingLane,200332B097303,2003,Lincolnshire,11
+ChangingLane,200332C181403,2003,Lincolnshire,55
+ChangingLane,200332D066703,2003,Lincolnshire,14
+ChangingLane,2.00333E+12,2003,Leicestershire,9
+ChangingLane,200334ND00141,2003,Northamptonshire,12
+ChangingLane,2.00335E+12,2003,Cambridgeshire,18
+ChangingLane,2.00335E+12,2003,Cambridgeshire,9
+ChangingLane,2.00335E+12,2003,Peterborough,
+ChangingLane,2.00335E+12,2003,Cambridgeshire,50
+ChangingLane,200336T030151,2003,Norfolk,9
+ChangingLane,200337G013981,2003,Suffolk,14
+ChangingLane,200337L009281,2003,Suffolk,18
+ChangingLane,2003400B01969,2003,Bedford Borough Council,9
+ChangingLane,2003400C02950,2003,Luton,35
+ChangingLane,2003400D00548,2003,Central Bedfordshire,9
+ChangingLane,20034100D0377,2003,Hertfordshire,9
+ChangingLane,20034100D0501,2003,Hertfordshire,10
+ChangingLane,20034100G0510,2003,Hertfordshire,60
+ChangingLane,20034200A0446,2003,Essex,8
+ChangingLane,20034200A0766,2003,Essex,
+ChangingLane,20034200C0319,2003,Essex,67
+ChangingLane,20034200E0566,2003,Essex,14
+ChangingLane,20034200E0583,2003,Essex,14
+ChangingLane,20034200F0176,2003,Thurrock,15
+ChangingLane,20034200G0578,2003,Essex,55
+ChangingLane,20034200H0124,2003,Southend on Sea,45
+ChangingLane,20034200H0262,2003,Southend on Sea,32
+ChangingLane,20034200H0323,2003,Southend on Sea,15
+ChangingLane,20034200H0443,2003,Southend on Sea,8
+ChangingLane,20034200H0506,2003,Southend on Sea,43
+ChangingLane,200343N052093,2003,Buckinghamshire,9
+ChangingLane,200343P031023,2003,Oxfordshire,17
+ChangingLane,200343P086083,2003,Oxfordshire,12
+ChangingLane,200343P373013,2003,Oxfordshire,30
+ChangingLane,200343W128113,2003,Windsor and Maidenhead,43
+ChangingLane,200343W154103,2003,Bracknell Forest,14
+ChangingLane,200343W503073,2003,Reading,48
+ChangingLane,200343W529093,2003,Slough,13
+ChangingLane,200343W573023,2003,Wokingham,
+ChangingLane,2003440DH0133,2003,Hampshire,11
+ChangingLane,2003440DW0256,2003,Hampshire,13
+ChangingLane,2003440KK0566,2003,Portsmouth,41
+ChangingLane,2003440OL1297,2003,Hampshire,10
+ChangingLane,2003440ZD1026,2003,Isle of Wight,10
+ChangingLane,200345RN43214,2003,Surrey,
+ChangingLane,200345RN43267,2003,Surrey,14
+ChangingLane,200346CT86591,2003,Kent,15
+ChangingLane,200346SK80012,2003,Kent,12
+ChangingLane,200346SK80754,2003,Kent,20
+ChangingLane,200347K163547,2003,East Sussex,9
+ChangingLane,200347K168004,2003,Brighton and Hove,82
+ChangingLane,200347K169927,2003,West Sussex,68
+ChangingLane,200350C51J316,2003,Devon,13
+ChangingLane,200350D21S013,2003,Devon,18
+ChangingLane,200350E21B131,2003,Plymouth,9
+ChangingLane,2.00352E+12,2003,Bath and North East Somerset,8
+ChangingLane,2.00352E+12,2003,City of Bristol,21
+ChangingLane,2.00352E+12,2003,City of Bristol,16
+ChangingLane,2.00352E+12,2003,Somerset,13
+ChangingLane,200354CT60303,2003,Wiltshire,10
+ChangingLane,200354DW60703,2003,Swindon,11
+ChangingLane,2003550B06591,2003,Bournemouth,15
+ChangingLane,2003550P03383,2003,Poole,35
+ChangingLane,2003553W03852,2003,Dorset,10
+ChangingLane,200401DM00660,2004,London,31
+ChangingLane,200401DM01230,2004,London,13
+ChangingLane,200401FH00660,2004,London,15
+ChangingLane,200401LX50403,2004,London,13
+ChangingLane,200401MM70372,2004,London,10
+ChangingLane,200401PL60435,2004,London,17
+ChangingLane,200401QK00626,2004,London,13
+ChangingLane,200401RG40417,2004,London,
+ChangingLane,200401RG40462,2004,London,15
+ChangingLane,200401VK00133,2004,London,22
+ChangingLane,200401ZT80035,2004,London,16
+ChangingLane,200401ZT80413,2004,London,13
+ChangingLane,200404B038204,2004,Lancashire,13
+ChangingLane,200404C053904,2004,Lancashire,13
+ChangingLane,200404C056204,2004,Lancashire,15
+ChangingLane,200405AW00439,2004,Merseyside,18
+ChangingLane,200405AW01848,2004,Merseyside,55
+ChangingLane,200405BS01699,2004,Merseyside,68
+ChangingLane,200405DH00358,2004,Merseyside,14
+ChangingLane,200405ET02483,2004,Merseyside,48
+ChangingLane,200405FT00031,2004,Merseyside,81
+ChangingLane,200405FT01408,2004,Merseyside,18
+ChangingLane,200406A909917,2004,Manchester,18
+ChangingLane,200406C906776,2004,Manchester,12
+ChangingLane,200406G902430,2004,Tameside,13
+ChangingLane,200406L911789,2004,Wigan,25
+ChangingLane,200406M905256,2004,Trafford,3
+ChangingLane,200406N901980,2004,Bury,11
+ChangingLane,200406N903761,2004,Bury,11
+ChangingLane,200406N905951,2004,Bury,4
+ChangingLane,200406Q903517,2004,Oldham,11
+ChangingLane,2.00407E+12,2004,Cheshire West and Chester,14
+ChangingLane,2.00407E+12,2004,Cheshire West and Chester,23
+ChangingLane,2.00407E+12,2004,Halton,7
+ChangingLane,2.00407E+12,2004,Cheshire East,15
+ChangingLane,2.0041E+12,2004,Newcastle upon Tyne,40
+ChangingLane,2.0041E+12,2004,South Tyneside,17
+ChangingLane,2.0041E+12,2004,South Tyneside,35
+ChangingLane,2.00412E+12,2004,North Yorkshire,11
+ChangingLane,2.00412E+12,2004,North Yorkshire,9
+ChangingLane,2.00413E+12,2004,Kirklees,13
+ChangingLane,2.00413E+12,2004,Bradford,7
+ChangingLane,2.00413E+12,2004,Leeds,13
+ChangingLane,200414AA02752,2004,Doncaster,12
+ChangingLane,200414BB00828,2004,Barnsley,17
+ChangingLane,200414CC02188,2004,Rotherham,15
+ChangingLane,200414EE01080,2004,Sheffield,12
+ChangingLane,200414FF00033,2004,Sheffield,11
+ChangingLane,2004160A02710,2004,North East Lincolnshire,14
+ChangingLane,2004160C01640,2004,East Riding of Yorkshire,14
+ChangingLane,2004160C10220,2004,East Riding of Yorkshire,14
+ChangingLane,2004160D05100,2004,Kingston Upon Hull,11
+ChangingLane,2004160D05660,2004,Kingston Upon Hull,11
+ChangingLane,2004170H10234,2004,Hartlepool,14
+ChangingLane,2004170S32584,2004,Stockton on Tees,11
+ChangingLane,200420F322102,2004,Birmingham,25
+ChangingLane,200422FA41584,2004,Shropshire,40
+ChangingLane,200422FE39083,2004,Shropshire,12
+ChangingLane,200422FJ40792,2004,Shropshire,12
+ChangingLane,200422GA36055,2004,Telford and Wrekin,11
+ChangingLane,2.00423E+12,2004,Warwickshire,12
+ChangingLane,200430D000043,2004,Derbyshire,13
+ChangingLane,200432D082904,2004,Lincolnshire,15
+ChangingLane,200432D103604,2004,Lincolnshire,10
+ChangingLane,200432D142304,2004,Lincolnshire,7
+ChangingLane,2.00433E+12,2004,Leicestershire,8
+ChangingLane,2.00435E+12,2004,Cambridgeshire,
+ChangingLane,2.00435E+12,2004,Cambridgeshire,
+ChangingLane,2.00435E+12,2004,Cambridgeshire,14
+ChangingLane,200437L009819,2004,Suffolk,14
+ChangingLane,200437L010066,2004,Suffolk,14
+ChangingLane,200437L010185,2004,Suffolk,4
+ChangingLane,20044100A0050,2004,Hertfordshire,15
+ChangingLane,20044100B0709,2004,Hertfordshire,8
+ChangingLane,20044100C0790,2004,Hertfordshire,15
+ChangingLane,20044100C0807,2004,Hertfordshire,17
+ChangingLane,20044100G0471,2004,Hertfordshire,14
+ChangingLane,20044100J2489,2004,Hertfordshire,25
+ChangingLane,20044200A0243,2004,Essex,24
+ChangingLane,20044200B0579,2004,Essex,13
+ChangingLane,20044200C0500,2004,Essex,11
+ChangingLane,20044200C0615,2004,Essex,15
+ChangingLane,20044200D0112,2004,Essex,46
+ChangingLane,20044200D0139,2004,Essex,18
+ChangingLane,20044200F0047,2004,Thurrock,7
+ChangingLane,20044200F0062,2004,Thurrock,17
+ChangingLane,20044200G0305,2004,Essex,8
+ChangingLane,20044200H0440,2004,Southend on Sea,26
+ChangingLane,20044200J0324,2004,Essex,13
+ChangingLane,200443N095084,2004,Buckinghamshire,13
+ChangingLane,200443N145104,2004,Buckinghamshire,11
+ChangingLane,200443P175024,2004,Oxfordshire,17
+ChangingLane,200443S074044,2004,Milton Keynes,14
+ChangingLane,200443W095084,2004,Reading,40
+ChangingLane,2004440GG0008,2004,Hampshire,13
+ChangingLane,2004440HF0591,2004,Hampshire,11
+ChangingLane,2004440HF0642,2004,Hampshire,14
+ChangingLane,2004440KK2015,2004,Portsmouth,21
+ChangingLane,2004440SC0443,2004,Southampton ,9
+ChangingLane,2004440SP0218,2004,Southampton ,15
+ChangingLane,2004440SY0907,2004,Southampton ,13
+ChangingLane,2004440WR0292,2004,Hampshire,8
+ChangingLane,200445EL53651,2004,Surrey,12
+ChangingLane,200445GU55508,2004,Surrey,
+ChangingLane,200445SP53224,2004,Surrey,71
+ChangingLane,200445SP54637,2004,Surrey,7
+ChangingLane,200445WA53676,2004,Surrey,67
+ChangingLane,200445WO48781,2004,Surrey,68
+ChangingLane,200445WO59986,2004,Surrey,16
+ChangingLane,200446MA93146,2004,Kent,13
+ChangingLane,200446MA99876,2004,Kent,16
+ChangingLane,200447K172317,2004,West Sussex,16
+ChangingLane,200447K173115,2004,West Sussex,10
+ChangingLane,200447K173418,2004,West Sussex,40
+ChangingLane,200447K177625,2004,East Sussex,12
+ChangingLane,200447K177850,2004,East Sussex,14
+ChangingLane,200450D21H193,2004,Devon,29
+ChangingLane,200450D21K242,2004,Devon,13
+ChangingLane,200450D33B857,2004,Devon,21
+ChangingLane,200450E61Q882,2004,Devon,
+ChangingLane,200450F31F157,2004,Torbay,12
+ChangingLane,2.00452E+12,2004,South Gloucestershire,5
+ChangingLane,2.00452E+12,2004,City of Bristol,19
+ChangingLane,2.00452E+12,2004,North Somerset,10
+ChangingLane,2.00452E+12,2004,Somerset,19
+ChangingLane,2.00452E+12,2004,North Somerset,17
+ChangingLane,2004550B00472,2004,Bournemouth,20
+ChangingLane,200501CP00098,2005,London,36
+ChangingLane,200501CW11018,2005,London,30
+ChangingLane,200501EO41167,2005,London,32
+ChangingLane,200501KD50031,2005,London,12
+ChangingLane,200501KG70023,2005,London,8
+ChangingLane,200501MM70961,2005,London,30
+ChangingLane,200501QK00035,2005,London,62
+ChangingLane,200501QK50732,2005,London,48
+ChangingLane,200501SX20467,2005,London,10
+ChangingLane,200501VK30394,2005,London,37
+ChangingLane,200501WW50075,2005,London,52
+ChangingLane,2.00503E+12,2005,Cumbria,12
+ChangingLane,2.00503E+12,2005,Cumbria,14
+ChangingLane,200504AL05056,2005,Lancashire,11
+ChangingLane,200504AL05140,2005,Lancashire,51
+ChangingLane,200504BB05046,2005,Lancashire,13
+ChangingLane,200504C006705,2005,Lancashire,24
+ChangingLane,200504E012305,2005,Blackburn with Darwen,13
+ChangingLane,200504E017605,2005,Blackburn with Darwen,13
+ChangingLane,200505AA02789,2005,Merseyside,14
+ChangingLane,200505AW01112,2005,Merseyside,13
+ChangingLane,200505FF04582,2005,Merseyside,9
+ChangingLane,200506C033876,2005,Manchester,15
+ChangingLane,200506F024327,2005,Salford,23
+ChangingLane,200506G036382,2005,Tameside,56
+ChangingLane,200506J026654,2005,Stockport,15
+ChangingLane,200506K031555,2005,Bolton,13
+ChangingLane,200506L027289,2005,Wigan,46
+ChangingLane,200506M029888,2005,Trafford,12
+ChangingLane,200506M031360,2005,Trafford,16
+ChangingLane,2.00507E+12,2005,Cheshire West and Chester,16
+ChangingLane,2.00507E+12,2005,Cheshire West and Chester,8
+ChangingLane,2.00507E+12,2005,Warrington,20
+ChangingLane,2.0051E+12,2005,Northumberland,12
+ChangingLane,2.0051E+12,2005,Northumberland,72
+ChangingLane,200511DC19160,2005,Durham,17
+ChangingLane,2.00512E+12,2005,North Yorkshire,22
+ChangingLane,2.00513E+12,2005,Kirklees,28
+ChangingLane,2.00513E+12,2005,Leeds,15
+ChangingLane,2.00513E+12,2005,Kirklees,23
+ChangingLane,2.00513E+12,2005,Kirklees,13
+ChangingLane,2.00513E+12,2005,Wakefield,13
+ChangingLane,200514C097005,2005,Rotherham,14
+ChangingLane,200514C129305,2005,Rotherham,16
+ChangingLane,200514D125305,2005,Sheffield,36
+ChangingLane,200514E074705,2005,Rotherham,16
+ChangingLane,200514E074905,2005,Sheffield,12
+ChangingLane,2005160D05530,2005,East Riding of Yorkshire,17
+ChangingLane,200520D503001,2005,Birmingham,64
+ChangingLane,200520H052302,2005,Walsall,11
+ChangingLane,200520H062002,2005,Walsall,9
+ChangingLane,200520M031203,2005,Coventry,63
+ChangingLane,200522CA45644,2005,Worcestershire,12
+ChangingLane,200522CC46871,2005,Worcestershire,78
+ChangingLane,200522DC47331,2005,Worcestershire,10
+ChangingLane,200522GB38915,2005,Telford and Wrekin,49
+ChangingLane,2.00523E+12,2005,Warwickshire,
+ChangingLane,200530D000347,2005,Derby,44
+ChangingLane,200530D000644,2005,Derbyshire,11
+ChangingLane,20053102C1126,2005,Nottingham,12
+ChangingLane,2.00533E+12,2005,Leicestershire,20
+ChangingLane,2.00533E+12,2005,Leicestershire,
+ChangingLane,2.00533E+12,2005,Leicestershire,71
+ChangingLane,2.00535E+12,2005,Peterborough,41
+ChangingLane,2.00535E+12,2005,Cambridgeshire,11
+ChangingLane,2.00535E+12,2005,Peterborough,27
+ChangingLane,2.00535E+12,2005,Cambridgeshire,6
+ChangingLane,2.00535E+12,2005,Cambridgeshire,70
+ChangingLane,2.00535E+12,2005,Cambridgeshire,22
+ChangingLane,200537B023204,2005,Suffolk,15
+ChangingLane,200537B023479,2005,Suffolk,19
+ChangingLane,200537B023963,2005,Suffolk,16
+ChangingLane,200537L011607,2005,Suffolk,11
+ChangingLane,200540D025670,2005,Central Bedfordshire,16
+ChangingLane,20054100E0384,2005,Hertfordshire,14
+ChangingLane,20054100F4904,2005,Hertfordshire,12
+ChangingLane,200542A039007,2005,Essex,25
+ChangingLane,200542A055510,2005,Essex,13
+ChangingLane,200542B014204,2005,Essex,10
+ChangingLane,200542E007002,2005,Essex,18
+ChangingLane,200542E038109,2005,Essex,21
+ChangingLane,200542F023805,2005,Thurrock,13
+ChangingLane,200542F044109,2005,Thurrock,10
+ChangingLane,200542G061008,2005,Essex,14
+ChangingLane,200543N009065,2005,Buckinghamshire,9
+ChangingLane,200543N162075,2005,Buckinghamshire,48
+ChangingLane,200543P135105,2005,Oxfordshire,14
+ChangingLane,200543P293085,2005,Oxfordshire,14
+ChangingLane,200543P374075,2005,Oxfordshire,16
+ChangingLane,2.00544E+12,2005,Hampshire,12
+ChangingLane,2.00544E+12,2005,Hampshire,13
+ChangingLane,2.00544E+12,2005,Hampshire,
+ChangingLane,2.00544E+12,2005,Hampshire,12
+ChangingLane,2.00544E+12,2005,Hampshire,14
+ChangingLane,2.00544E+12,2005,Hampshire,
+ChangingLane,2.00544E+12,2005,Hampshire,18
+ChangingLane,200545SP72760,2005,Surrey,
+ChangingLane,200545SU64632,2005,Surrey,
+ChangingLane,2.00546E+12,2005,Medway,48
+ChangingLane,2.00546E+12,2005,Kent,6
+ChangingLane,2.00546E+12,2005,Kent,17
+ChangingLane,2.00546E+12,2005,Kent,28
+ChangingLane,2.00546E+12,2005,Kent,26
+ChangingLane,2.00546E+12,2005,Kent,7
+ChangingLane,2.00546E+12,2005,Kent,6
+ChangingLane,2.00546E+12,2005,Kent,36
+ChangingLane,2.00547E+12,2005,West Sussex,14
+ChangingLane,2.00547E+12,2005,East Sussex,77
+ChangingLane,2.00547E+12,2005,West Sussex,12
+ChangingLane,2.00547E+12,2005,West Sussex,19
+ChangingLane,2.00547E+12,2005,Brighton and Hove,
+ChangingLane,2.00547E+12,2005,West Sussex,14
+ChangingLane,2.00547E+12,2005,West Sussex,15
+ChangingLane,200550A22J261,2005,Cornwall and Isles of Scilly,
+ChangingLane,200550A22M863,2005,Cornwall and Isles of Scilly,
+ChangingLane,200550D21J553,2005,Devon,15
+ChangingLane,200550D41M969,2005,Devon,11
+ChangingLane,200550E52M016,2005,Plymouth,9
+ChangingLane,2.00552E+12,2005,Somerset,14
+ChangingLane,2.00552E+12,2005,Somerset,18
+ChangingLane,2.00552E+12,2005,South Gloucestershire,15
+ChangingLane,2.00552E+12,2005,City of Bristol,16
+ChangingLane,2.00553E+12,2005,Gloucestershire,44
+ChangingLane,2.00553E+12,2005,Gloucestershire,17
+ChangingLane,200554CE40405,2005,Wiltshire,13
+ChangingLane,200554DC56305,2005,Swindon,53
+ChangingLane,200554DN47605,2005,Swindon,35
+ChangingLane,200554DW05705,2005,Swindon,14
+ChangingLane,2005555B02569,2005,Bournemouth,12
+ChangingLane,2005555P04730,2005,Poole,12
+ChangingLane,2005555W03152,2005,Dorset,7
+ChangingLane,200601CP00118,2006,London,29
+ChangingLane,200601CW10715,2006,London,21
+ChangingLane,200601EO40251,2006,London,
+ChangingLane,200601FH10047,2006,London,58
+ChangingLane,200601FH10166,2006,London,42
+ChangingLane,200601JI40388,2006,London,12
+ChangingLane,200601RG40379,2006,London,39
+ChangingLane,200601TD00255,2006,London,57
+ChangingLane,200601TE00124,2006,London,46
+ChangingLane,200601WW50364,2006,London,
+ChangingLane,200601WW50684,2006,London,31
+ChangingLane,2.00603E+12,2006,Cumbria,8
+ChangingLane,200604AL06208,2006,Lancashire,11
+ChangingLane,200604AN06016,2006,Blackpool,12
+ChangingLane,200604BA06009,2006,Lancashire,20
+ChangingLane,200604BC06013,2006,Lancashire,13
+ChangingLane,200604CD06018,2006,Lancashire,14
+ChangingLane,200604CK06204,2006,Lancashire,12
+ChangingLane,200604CM06124,2006,Lancashire,6
+ChangingLane,200604CM06212,2006,Lancashire,65
+ChangingLane,200604DL06100,2006,Lancashire,8
+ChangingLane,200604EL06057,2006,Lancashire,11
+ChangingLane,200605AA10419,2006,Merseyside,63
+ChangingLane,200605AA11356,2006,Merseyside,20
+ChangingLane,200605AA13043,2006,Merseyside,
+ChangingLane,200605FF06936,2006,Merseyside,59
+ChangingLane,200606B043883,2006,Manchester,27
+ChangingLane,200606F056861,2006,Salford,11
+ChangingLane,200606G051187,2006,Tameside,13
+ChangingLane,200606J053730,2006,Stockport,9
+ChangingLane,200606L046860,2006,Wigan,12
+ChangingLane,200606L049743,2006,Wigan,36
+ChangingLane,200606M054478,2006,Trafford,25
+ChangingLane,2.00607E+12,2006,Cheshire West and Chester,12
+ChangingLane,2.00607E+12,2006,Cheshire West and Chester,51
+ChangingLane,2.00607E+12,2006,Cheshire West and Chester,13
+ChangingLane,2.0061E+12,2006,Newcastle upon Tyne,46
+ChangingLane,2.0061E+12,2006,Northumberland,15
+ChangingLane,2.0061E+12,2006,South Tyneside,10
+ChangingLane,200611DJ17960,2006,Darlington,16
+ChangingLane,2.00612E+12,2006,North Yorkshire,54
+ChangingLane,2.00612E+12,2006,North Yorkshire,15
+ChangingLane,2.00612E+12,2006,York,22
+ChangingLane,2.00612E+12,2006,North Yorkshire,77
+ChangingLane,2.00613E+12,2006,Wakefield,35
+ChangingLane,2.00613E+12,2006,Bradford,44
+ChangingLane,2.00613E+12,2006,Kirklees,8
+ChangingLane,2.00613E+12,2006,Wakefield,53
+ChangingLane,200614A119106,2006,Doncaster,19
+ChangingLane,200614A185306,2006,Doncaster,12
+ChangingLane,200614C133606,2006,Rotherham,19
+ChangingLane,2006160A04500,2006,North East Lincolnshire,13
+ChangingLane,2006160B02920,2006,North Lincolnshire,15
+ChangingLane,2006170M30966,2006,Middlesbrough,13
+ChangingLane,200620G083501,2006,Wolverhampton,
+ChangingLane,200620H020202,2006,Walsall,7
+ChangingLane,200620H046602,2006,Walsall,
+ChangingLane,200620K044302,2006,Sandwell,14
+ChangingLane,200620K050602,2006,Sandwell,15
+ChangingLane,200620L173801,2006,Solihull,11
+ChangingLane,2.00622E+12,2006,Staffordshire,12
+ChangingLane,2.00623E+12,2006,Warwickshire,
+ChangingLane,2.00623E+12,2006,Warwickshire,15
+ChangingLane,2.00623E+12,2006,Warwickshire,13
+ChangingLane,200630C000522,2006,Derbyshire,12
+ChangingLane,200630D000121,2006,Derby,16
+ChangingLane,200630D000568,2006,Derby,16
+ChangingLane,200630D000820,2006,Derbyshire,12
+ChangingLane,200630D000908,2006,Derby,20
+ChangingLane,20063102B2901,2006,Nottinghamshire,59
+ChangingLane,20063102C3199,2006,Nottingham,26
+ChangingLane,20063102D0161,2006,Nottinghamshire,59
+ChangingLane,200632B179206,2006,Lincolnshire,10
+ChangingLane,200632D018406,2006,Lincolnshire,16
+ChangingLane,2.00633E+12,2006,Leicestershire,
+ChangingLane,2.00635E+12,2006,Cambridgeshire,13
+ChangingLane,200637B024942,2006,Suffolk,15
+ChangingLane,200637B026830,2006,Suffolk,22
+ChangingLane,200637G019212,2006,Suffolk,13
+ChangingLane,200637L013002,2006,Suffolk,15
+ChangingLane,20064100B0573,2006,Hertfordshire,9
+ChangingLane,20064100B0787,2006,Hertfordshire,23
+ChangingLane,20064100C0572,2006,Hertfordshire,54
+ChangingLane,200642B002801,2006,Essex,13
+ChangingLane,200642C003001,2006,Essex,20
+ChangingLane,200642I352209,2006,Essex,50
+ChangingLane,200643P295116,2006,Oxfordshire,25
+ChangingLane,200643P328086,2006,Oxfordshire,10
+ChangingLane,200643S018076,2006,Milton Keynes,9
+ChangingLane,200643S035076,2006,Milton Keynes,13
+ChangingLane,2.00644E+12,2006,Hampshire,42
+ChangingLane,200645EP89112,2006,Surrey,14
+ChangingLane,200645RE81131,2006,Surrey,22
+ChangingLane,200645SP84667,2006,Surrey,11
+ChangingLane,2.00646E+12,2006,Kent,19
+ChangingLane,2.00646E+12,2006,Kent,14
+ChangingLane,2.00646E+12,2006,Kent,12
+ChangingLane,2.00646E+12,2006,Kent,12
+ChangingLane,2.00646E+12,2006,Kent,9
+ChangingLane,2.00647E+12,2006,East Sussex,26
+ChangingLane,200650C31E457,2006,Devon,12
+ChangingLane,200650D33E037,2006,Devon,8
+ChangingLane,200650F21M746,2006,Torbay,33
+ChangingLane,2.00652E+12,2006,City of Bristol,24
+ChangingLane,2.00652E+12,2006,City of Bristol,30
+ChangingLane,2.00652E+12,2006,Somerset,20
+ChangingLane,2.00652E+12,2006,North Somerset,20
+ChangingLane,2.00652E+12,2006,Bath and North East Somerset,5
+ChangingLane,2.00652E+12,2006,South Gloucestershire,17
+ChangingLane,2.00653E+12,2006,Gloucestershire,14
+ChangingLane,2.00653E+12,2006,Gloucestershire,12
+ChangingLane,2006556E02525,2006,Dorset,12
+ChangingLane,2006556E04081,2006,Dorset,45
+ChangingLane,200701CW10410,2007,London,54
+ChangingLane,200701EO40052,2007,London,52
+ChangingLane,200701EO40356,2007,London,30
+ChangingLane,200701HT68328,2007,London,40
+ChangingLane,200701KD68123,2007,London,31
+ChangingLane,200701PY64113,2007,London,13
+ChangingLane,200701RY10033,2007,London,17
+ChangingLane,200701XH30226,2007,London,65
+ChangingLane,2.00703E+12,2007,Cumbria,14
+ChangingLane,2.00703E+12,2007,Cumbria,12
+ChangingLane,2.00703E+12,2007,Cumbria,9
+ChangingLane,200704AN07058,2007,Blackpool,11
+ChangingLane,200706B070499,2007,Manchester,19
+ChangingLane,200706C065032,2007,Manchester,19
+ChangingLane,200706G077283,2007,Tameside,7
+ChangingLane,200706L071408,2007,Wigan,9
+ChangingLane,200706P080630,2007,Rochdale,16
+ChangingLane,2.00707E+12,2007,Warrington,78
+ChangingLane,2.00707E+12,2007,Cheshire West and Chester,70
+ChangingLane,2.0071E+12,2007,Northumberland,42
+ChangingLane,2.0071E+12,2007,Northumberland,10
+ChangingLane,2.0071E+12,2007,Gateshead,18
+ChangingLane,2.00712E+12,2007,North Yorkshire,12
+ChangingLane,2.00712E+12,2007,York,40
+ChangingLane,2.00713E+12,2007,Kirklees,15
+ChangingLane,2.00713E+12,2007,Kirklees,29
+ChangingLane,2.00713E+12,2007,Bradford,8
+ChangingLane,2.00713E+12,2007,Leeds,14
+ChangingLane,2.00713E+12,2007,Kirklees,13
+ChangingLane,2.00713E+12,2007,Leeds,7
+ChangingLane,200714B004507,2007,Barnsley,18
+ChangingLane,200714H072607,2007,Sheffield,14
+ChangingLane,200714H090707,2007,Sheffield,12
+ChangingLane,2007160A02690,2007,North East Lincolnshire,7
+ChangingLane,2007170M11007,2007,Middlesbrough,44
+ChangingLane,200720D131803,2007,Birmingham,7
+ChangingLane,200720F207202,2007,Birmingham,14
+ChangingLane,200720G043902,2007,Wolverhampton,14
+ChangingLane,200720H023501,2007,Walsall,14
+ChangingLane,200720L162001,2007,Solihull,11
+ChangingLane,200720M053402,2007,Coventry,11
+ChangingLane,2.00722E+12,2007,Staffordshire,14
+ChangingLane,2.00722E+12,2007,Staffordshire,12
+ChangingLane,2.00723E+12,2007,Warwickshire,5
+ChangingLane,200730C000038,2007,Derbyshire,13
+ChangingLane,20073102B4534,2007,Nottinghamshire,19
+ChangingLane,200732B312507,2007,Lincolnshire,14
+ChangingLane,200732C396407,2007,Lincolnshire,
+ChangingLane,2.00735E+12,2007,Cambridgeshire,24
+ChangingLane,2.00735E+12,2007,Cambridgeshire,35
+ChangingLane,2.00735E+12,2007,Peterborough,17
+ChangingLane,2.00735E+12,2007,Cambridgeshire,12
+ChangingLane,2.00735E+12,2007,Cambridgeshire,85
+ChangingLane,2007400B04026,2007,Bedford Borough Council,23
+ChangingLane,2007400C00010,2007,Luton,35
+ChangingLane,20074100C0909,2007,Hertfordshire,12
+ChangingLane,2.01E+44,2007,Hertfordshire,16
+ChangingLane,20074100E0405,2007,Hertfordshire,14
+ChangingLane,20074100F4434,2007,Hertfordshire,10
+ChangingLane,20074100F4550,2007,Hertfordshire,12
+ChangingLane,200742I294707,2007,Essex,11
+ChangingLane,200742I405810,2007,Essex,13
+ChangingLane,200742I440010,2007,Essex,15
+ChangingLane,200743N146097,2007,Buckinghamshire,4
+ChangingLane,200743N177107,2007,Buckinghamshire,23
+ChangingLane,200743R036017,2007,Windsor and Maidenhead,26
+ChangingLane,200743R166047,2007,Slough,14
+ChangingLane,200743R304087,2007,Slough,44
+ChangingLane,200743S151117,2007,Milton Keynes,10
+ChangingLane,200743W150117,2007,Reading,12
+ChangingLane,200743W234017,2007,Wokingham,13
+ChangingLane,2.00744E+12,2007,Hampshire,29
+ChangingLane,2.00744E+12,2007,Hampshire,15
+ChangingLane,2.00744E+12,2007,Portsmouth,11
+ChangingLane,2.00744E+12,2007,Isle of Wight,12
+ChangingLane,2.00744E+12,2007,Hampshire,10
+ChangingLane,2.00744E+12,2007,Hampshire,15
+ChangingLane,2.00744E+12,2007,Portsmouth,28
+ChangingLane,2.00744E+12,2007,Hampshire,41
+ChangingLane,2.00744E+12,2007,Isle of Wight,15
+ChangingLane,200745RE12073,2007,Surrey,12
+ChangingLane,200745WA06062,2007,Surrey,14
+ChangingLane,2.00746E+12,2007,Kent,85
+ChangingLane,2.00747E+12,2007,West Sussex,15
+ChangingLane,2.00747E+12,2007,West Sussex,9
+ChangingLane,2.00747E+12,2007,West Sussex,12
+ChangingLane,2.00747E+12,2007,West Sussex,12
+ChangingLane,2.00747E+12,2007,West Sussex,13
+ChangingLane,200750A22C503,2007,Cornwall and Isles of Scilly,35
+ChangingLane,200750A41O442,2007,Cornwall and Isles of Scilly,79
+ChangingLane,200750B51P676,2007,Cornwall and Isles of Scilly,10
+ChangingLane,200750E21I952,2007,Plymouth,
+ChangingLane,2.00752E+12,2007,City of Bristol,9
+ChangingLane,2.00752E+12,2007,North Somerset,14
+ChangingLane,2.00752E+12,2007,Somerset,
+ChangingLane,2.00752E+12,2007,Somerset,13
+ChangingLane,2.00753E+12,2007,Gloucestershire,20
+ChangingLane,2.00753E+12,2007,Gloucestershire,11
+ChangingLane,2.00753E+12,2007,Gloucestershire,20
+ChangingLane,2.00753E+12,2007,Gloucestershire,17
+ChangingLane,200754DN39707,2007,Swindon,11
+ChangingLane,200754ET22507,2007,Wiltshire,13
+ChangingLane,2007557B02465,2007,Bournemouth,13
+ChangingLane,2007557B03642,2007,Bournemouth,11
+ChangingLane,2007557P03663,2007,Bournemouth,20
+ChangingLane,2007557W00232,2007,Dorset,30
+ChangingLane,200801CW12253,2008,London,27
+ChangingLane,200801GD73497,2008,London,33
+ChangingLane,200801GD74530,2008,London,26
+ChangingLane,200801HT73043,2008,London,22
+ChangingLane,200801LX72260,2008,London,19
+ChangingLane,200801SX20055,2008,London,53
+ChangingLane,200801TW60006,2008,London,19
+ChangingLane,200801TX20594,2008,London,10
+ChangingLane,200801WW50393,2008,London,11
+ChangingLane,200801WW73795,2008,London,60
+ChangingLane,200801XH30744,2008,London,34
+ChangingLane,200804BC08035,2008,Lancashire,13
+ChangingLane,200804BC08095,2008,Lancashire,16
+ChangingLane,200804CL08084,2008,Lancashire,11
+ChangingLane,200805AA24322,2008,Merseyside,17
+ChangingLane,200805AA26001,2008,Merseyside,13
+ChangingLane,200805CC29536,2008,Merseyside,48
+ChangingLane,200805DD27098,2008,Merseyside,14
+ChangingLane,200806C086823,2008,Manchester,30
+ChangingLane,200806C092238,2008,Manchester,40
+ChangingLane,200806F087181,2008,Salford,52
+ChangingLane,200806J002383,2008,Stockport,23
+ChangingLane,2.00807E+12,2008,Warrington,20
+ChangingLane,2.00807E+12,2008,Warrington,62
+ChangingLane,2.00807E+12,2008,Warrington,13
+ChangingLane,2.00807E+12,2008,Cheshire West and Chester,6
+ChangingLane,2.00807E+12,2008,Cheshire East,24
+ChangingLane,2.00807E+12,2008,Warrington,48
+ChangingLane,2.0081E+12,2008,Newcastle upon Tyne,11
+ChangingLane,200811ND00868,2008,Durham,63
+ChangingLane,2.00812E+12,2008,North Yorkshire,15
+ChangingLane,2.00812E+12,2008,York,13
+ChangingLane,2.00813E+12,2008,Leeds,37
+ChangingLane,2.00813E+12,2008,Leeds,14
+ChangingLane,200814C106208,2008,Rotherham,59
+ChangingLane,2008160A00190,2008,North East Lincolnshire,23
+ChangingLane,2008160A03680,2008,North East Lincolnshire,17
+ChangingLane,2008160B02020,2008,North Lincolnshire,7
+ChangingLane,2008160B03510,2008,North Lincolnshire,19
+ChangingLane,2008160C02510,2008,East Riding of Yorkshire,14
+ChangingLane,200820E078201,2008,Birmingham,14
+ChangingLane,2.00822E+12,2008,Staffordshire,13
+ChangingLane,2.00823E+12,2008,Warwickshire,15
+ChangingLane,2.00823E+12,2008,Warwickshire,10
+ChangingLane,2.00823E+12,2008,Warwickshire,12
+ChangingLane,2.00823E+12,2008,Warwickshire,14
+ChangingLane,200830A000254,2008,Derbyshire,16
+ChangingLane,200830D000804,2008,Derbyshire,15
+ChangingLane,200832B150208,2008,Lincolnshire,16
+ChangingLane,200832B355508,2008,Lincolnshire,11
+ChangingLane,200832C167708,2008,Lincolnshire,10
+ChangingLane,200832C210208,2008,Lincolnshire,16
+ChangingLane,200832D316208,2008,Lincolnshire,40
+ChangingLane,2.00833E+12,2008,Leicestershire,14
+ChangingLane,2.00833E+12,2008,Leicestershire,12
+ChangingLane,2.00833E+12,2008,Leicestershire,14
+ChangingLane,2.00835E+12,2008,Peterborough,14
+ChangingLane,2.00835E+12,2008,Cambridgeshire,10
+ChangingLane,2.00835E+12,2008,Cambridgeshire,16
+ChangingLane,2.00836E+12,2008,Norfolk,58
+ChangingLane,200837B029955,2008,Suffolk,16
+ChangingLane,200837L015731,2008,Suffolk,16
+ChangingLane,2008400B00970,2008,Bedford Borough Council,16
+ChangingLane,20084100K0223,2008,Hertfordshire,14
+ChangingLane,200842I007401,2008,Essex,17
+ChangingLane,200842I164605,2008,Southend on Sea,18
+ChangingLane,200842I349809,2008,Essex,12
+ChangingLane,200842I470710,2008,Essex,34
+ChangingLane,200843N094038,2008,Buckinghamshire,19
+ChangingLane,200843P306128,2008,Oxfordshire,35
+ChangingLane,200843S025088,2008,Milton Keynes,61
+ChangingLane,2.00844E+12,2008,Hampshire,24
+ChangingLane,2.00844E+12,2008,Hampshire,47
+ChangingLane,2.00844E+12,2008,Hampshire,9
+ChangingLane,200845GU21134,2008,Surrey,26
+ChangingLane,200845SP28587,2008,Surrey,18
+ChangingLane,200845SU28358,2008,Surrey,11
+ChangingLane,2.00846E+12,2008,Kent,52
+ChangingLane,2.00847E+12,2008,East Sussex,71
+ChangingLane,2.00847E+12,2008,West Sussex,11
+ChangingLane,2.00847E+12,2008,Brighton and Hove,39
+ChangingLane,2.00847E+12,2008,Brighton and Hove,20
+ChangingLane,2.00847E+12,2008,West Sussex,50
+ChangingLane,200850AY2C010,2008,Cornwall and Isles of Scilly,38
+ChangingLane,200850B51B862,2008,Cornwall and Isles of Scilly,41
+ChangingLane,2.00852E+12,2008,City of Bristol,22
+ChangingLane,2.00852E+12,2008,South Gloucestershire,12
+ChangingLane,2.00852E+12,2008,Somerset,24
+ChangingLane,2.00852E+12,2008,City of Bristol,18
+ChangingLane,2.00852E+12,2008,Somerset,13
+ChangingLane,2.00853E+12,2008,Gloucestershire,14
+ChangingLane,2.00853E+12,2008,Gloucestershire,16
+ChangingLane,200854DN50108,2008,Swindon,8
+ChangingLane,200854EW33808,2008,Wiltshire,76
+ChangingLane,200854EZ37208,2008,Wiltshire,15
+ChangingLane,2008558B00420,2008,Bournemouth,37
+ChangingLane,2008558C02428,2008,Bournemouth,18
+ChangingLane,2008558C03753,2008,Poole,29
+ChangingLane,2008558C04412,2008,Poole,6
+ChangingLane,2008558C04561,2008,Poole,10
+ChangingLane,200901CW10954,2009,London,25
+ChangingLane,200901FH10454,2009,London,13
+ChangingLane,200901HT20677,2009,London,
+ChangingLane,200901JI40712,2009,London,28
+ChangingLane,200901SX20008,2009,London,20
+ChangingLane,200901TB00017,2009,London,48
+ChangingLane,200901TW60201,2009,London,15
+ChangingLane,200901VK30081,2009,London,10
+ChangingLane,200901VK30260,2009,London,10
+ChangingLane,200904CM09134,2009,Lancashire,16
+ChangingLane,200904EB09043,2009,Blackburn with Darwen,48
+ChangingLane,200904FJ09028,2009,Lancashire,27
+ChangingLane,200905BB01061,2009,Merseyside,14
+ChangingLane,200905BB33158,2009,Merseyside,18
+ChangingLane,200905EE30070,2009,Merseyside,14
+ChangingLane,200906A019790,2009,Manchester,13
+ChangingLane,200906B019180,2009,Manchester,23
+ChangingLane,200906L015719,2009,Wigan,7
+ChangingLane,200906P014761,2009,Rochdale,12
+ChangingLane,2.00907E+12,2009,Cheshire East,12
+ChangingLane,2.00907E+12,2009,Cheshire East,14
+ChangingLane,2.0091E+12,2009,Northumberland,59
+ChangingLane,2.00912E+12,2009,York,13
+ChangingLane,2.00912E+12,2009,North Yorkshire,11
+ChangingLane,2.00913E+12,2009,Bradford,19
+ChangingLane,2.00913E+12,2009,Kirklees,7
+ChangingLane,2.00913E+12,2009,Calderdale,40
+ChangingLane,2.00913E+12,2009,Leeds,13
+ChangingLane,2.00913E+12,2009,Wakefield,16
+ChangingLane,200914A139009,2009,Doncaster,36
+ChangingLane,200914A157109,2009,Doncaster,65
+ChangingLane,200914A197509,2009,Doncaster,9
+ChangingLane,2009160D01270,2009,Kingston Upon Hull,18
+ChangingLane,2009170L31519,2009,Redcar and Cleveland,38
+ChangingLane,200920M045403,2009,Coventry,67
+ChangingLane,200930D000412,2009,Derbyshire,13
+ChangingLane,200930D000666,2009,Derby,19
+ChangingLane,200932B155109,2009,Lincolnshire,62
+ChangingLane,200932C063709,2009,Lincolnshire,40
+ChangingLane,200932C171909,2009,Lincolnshire,81
+ChangingLane,200932D079109,2009,Lincolnshire,10
+ChangingLane,2.00933E+12,2009,Leicestershire,28
+ChangingLane,2.00933E+12,2009,Leicestershire,13
+ChangingLane,2.00935E+12,2009,Peterborough,22
+ChangingLane,200937B042534,2009,Suffolk,8
+ChangingLane,200937B042917,2009,Suffolk,19
+ChangingLane,200937B043334,2009,Suffolk,32
+ChangingLane,200937G026943,2009,Suffolk,31
+ChangingLane,200937L016751,2009,Suffolk,20
+ChangingLane,200937L017042,2009,Suffolk,16
+ChangingLane,200937L017086,2009,Suffolk,8
+ChangingLane,20094100D0416,2009,Hertfordshire,47
+ChangingLane,200942I148205,2009,Essex,8
+ChangingLane,200942I223507,2009,Essex,22
+ChangingLane,200942I326610,2009,Essex,11
+ChangingLane,200942I391511,2009,Southend on Sea,43
+ChangingLane,2.00944E+12,2009,Hampshire,40
+ChangingLane,2.00944E+12,2009,Hampshire,28
+ChangingLane,2.00944E+12,2009,Hampshire,38
+ChangingLane,2.00944E+12,2009,Hampshire,31
+ChangingLane,2.00944E+12,2009,Portsmouth,14
+ChangingLane,200945SU45781,2009,Surrey,52
+ChangingLane,2.00946E+12,2009,Kent,14
+ChangingLane,2.00946E+12,2009,Kent,66
+ChangingLane,2.00946E+12,2009,Kent,33
+ChangingLane,2.00946E+12,2009,Kent,14
+ChangingLane,2.00947E+12,2009,East Sussex,20
+ChangingLane,2.00947E+12,2009,East Sussex,12
+ChangingLane,200950FT2B048,2009,Torbay,28
+ChangingLane,200950GE4W002,2009,Cornwall and Isles of Scilly,12
+ChangingLane,200950KS2H011,2009,Devon,30
+ChangingLane,2.00952E+12,2009,City of Bristol,29
+ChangingLane,2.00952E+12,2009,Somerset,25
+ChangingLane,2.00952E+12,2009,City of Bristol,32
+ChangingLane,2.00952E+12,2009,Somerset,27
+ChangingLane,2.00952E+12,2009,Somerset,
+ChangingLane,2.00952E+12,2009,Somerset,13
+ChangingLane,2.00952E+12,2009,Somerset,45
+ChangingLane,2.00952E+12,2009,City of Bristol,28
+ChangingLane,2.00952E+12,2009,Somerset,
+ChangingLane,2.00953E+12,2009,Gloucestershire,55
+ChangingLane,200954EL23209,2009,Wiltshire,12
+ChangingLane,200954EZ08809,2009,Wiltshire,38
+ChangingLane,2009559C02031,2009,Bournemouth,11
+ChangingLane,2009559C02460,2009,Poole,15
+ChangingLane,2009559D01381,2009,Dorset,10
+ChangingLane,201001EO40435,2010,London,19
+ChangingLane,201001FH10498,2010,London,40
+ChangingLane,201001KD50351,2010,London,13
+ChangingLane,201001PL60416,2010,London,39
+ChangingLane,201001RG40471,2010,London,40
+ChangingLane,201001VK30117,2010,London,39
+ChangingLane,201001YR90348,2010,London,17
+ChangingLane,201004AN10037,2010,Blackpool,38
+ChangingLane,201004BB10103,2010,Lancashire,7
+ChangingLane,201004BC10216,2010,Lancashire,14
+ChangingLane,201005AA03800,2010,Merseyside,57
+ChangingLane,201005BB03838,2010,Merseyside,9
+ChangingLane,201006F038203,2010,Salford,32
+ChangingLane,201006J033570,2010,Stockport,11
+ChangingLane,201006K033914,2010,Bolton,11
+ChangingLane,201006M036507,2010,Trafford,14
+ChangingLane,2.01007E+12,2010,Halton,40
+ChangingLane,2.01012E+12,2010,York,15
+ChangingLane,2.01013E+12,2010,Leeds,16
+ChangingLane,2.01013E+12,2010,Bradford,13
+ChangingLane,201014C073710,2010,Rotherham,44
+ChangingLane,201014C109310,2010,Rotherham,31
+ChangingLane,2010160B02001,2010,North Lincolnshire,16
+ChangingLane,2010160B02121,2010,North Lincolnshire,10
+ChangingLane,2010160C07431,2010,East Riding of Yorkshire,54
+ChangingLane,2010160D04611,2010,Kingston Upon Hull,26
+ChangingLane,201020K002690,2010,Sandwell,28
+ChangingLane,2.01021E+12,2010,Stoke on Trent,25
+ChangingLane,2.01021E+12,2010,Staffordshire,13
+ChangingLane,201022D004532,2010,Worcestershire,55
+ChangingLane,201030D000506,2010,Derbyshire,8
+ChangingLane,20103104C1441,2010,Nottingham,21
+ChangingLane,201032D321510,2010,Lincolnshire,13
+ChangingLane,2.01033E+12,2010,Leicestershire,10
+ChangingLane,201034WN18610,2010,Northamptonshire,11
+ChangingLane,2.01035E+12,2010,Peterborough,40
+ChangingLane,2.01035E+12,2010,Cambridgeshire,18
+ChangingLane,2.01035E+12,2010,Peterborough,14
+ChangingLane,2.01035E+12,2010,Cambridgeshire,12
+ChangingLane,2.01035E+12,2010,Cambridgeshire,43
+ChangingLane,201037G030452,2010,Suffolk,50
+ChangingLane,20104100A0265,2010,Hertfordshire,10
+ChangingLane,20104100A0439,2010,Hertfordshire,10
+ChangingLane,20104100A0461,2010,Hertfordshire,14
+ChangingLane,20104100C0622,2010,Hertfordshire,10
+ChangingLane,20104100C1063,2010,Hertfordshire,14
+ChangingLane,20104100D0256,2010,Hertfordshire,78
+ChangingLane,20104100G0247,2010,Hertfordshire,13
+ChangingLane,201042I077603,2010,Essex,18
+ChangingLane,201042I286009,2010,Essex,12
+ChangingLane,201042I397511,2010,Thurrock,46
+ChangingLane,201043P075110,2010,Oxfordshire,11
+ChangingLane,201043W101020,2010,Reading,22
+ChangingLane,2.01044E+12,2010,Hampshire,13
+ChangingLane,2.01044E+12,2010,Hampshire,14
+ChangingLane,201045SP53886,2010,Surrey,10
+ChangingLane,201045SU52036,2010,Surrey,17
+ChangingLane,2.01046E+12,2010,Kent,12
+ChangingLane,2.01047E+12,2010,West Sussex,85
+ChangingLane,2.01047E+12,2010,West Sussex,40
+ChangingLane,2.01047E+12,2010,West Sussex,57
+ChangingLane,2.01047E+12,2010,West Sussex,68
+ChangingLane,2.01052E+12,2010,City of Bristol,41
+ChangingLane,2.01052E+12,2010,Bath and North East Somerset,17
+ChangingLane,201054DE34210,2010,Swindon,18
+ChangingLane,20105500D0510,2010,Dorset,11
+ChangingLane,2011201101BS70206,2011,London,38
+ChangingLane,2011201101CW12052,2011,London,38
+ChangingLane,2011201101EO40212,2011,London,30
+ChangingLane,2011201101RY10257,2011,London,21
+ChangingLane,2011201101TA00995,2011,London,35
+ChangingLane,2011201101TW60029,2011,London,17
+ChangingLane,2011201101TX20437,2011,London,-1
+ChangingLane,2011201104AX11075,2011,Blackpool,12
+ChangingLane,2011201104CL11117,2011,Lancashire,43
+ChangingLane,2011201104EB11055,2011,Blackburn with Darwen,8
+ChangingLane,2011201104FL11060,2011,Lancashire,19
+ChangingLane,2011201105AA07129,2011,Merseyside,19
+ChangingLane,2011201105CC05644,2011,Merseyside,25
+ChangingLane,2011201106C049240,2011,Manchester,16
+ChangingLane,2.0112E+16,2011,Warrington,21
+ChangingLane,2.0112E+16,2011,Cheshire East,55
+ChangingLane,2.0112E+16,2011,North Yorkshire,9
+ChangingLane,2.0112E+16,2011,North Yorkshire,8
+ChangingLane,2.0112E+16,2011,Leeds,17
+ChangingLane,2.0112E+16,2011,Leeds,52
+ChangingLane,2.0112E+16,2011,Kirklees,9
+ChangingLane,2.0112E+16,2011,Wakefield,14
+ChangingLane,2011201114A016311,2011,Doncaster,35
+ChangingLane,2011201114A146311,2011,Doncaster,16
+ChangingLane,2011201114C077311,2011,Rotherham,17
+ChangingLane,2011201114C083711,2011,Rotherham,29
+ChangingLane,2011201114K112211,2011,Sheffield,20
+ChangingLane,20112011160C02881,2011,East Riding of Yorkshire,12
+ChangingLane,2011201120N051301,2011,Birmingham,10
+ChangingLane,2011201120T023601,2011,Birmingham,57
+ChangingLane,2.0112E+16,2011,Stoke on Trent,19
+ChangingLane,2011201122F101781,2011,Shropshire,15
+ChangingLane,2011201130C000499,2011,Derbyshire,-1
+ChangingLane,2011201131B121011,2011,Nottinghamshire,14
+ChangingLane,2011201131B300611,2011,Nottinghamshire,51
+ChangingLane,2.0112E+16,2011,Leicestershire,20
+ChangingLane,2.0112E+16,2011,Cambridgeshire,74
+ChangingLane,2.0112E+16,2011,Cambridgeshire,13
+ChangingLane,2.0112E+16,2011,Peterborough,21
+ChangingLane,2.0112E+16,2011,Cambridgeshire,17
+ChangingLane,2.0112E+16,2011,Peterborough,37
+ChangingLane,2.0112E+16,2011,Cambridgeshire,40
+ChangingLane,2.0112E+16,2011,Suffolk,14
+ChangingLane,201120114100G0376,2011,Hertfordshire,17
+ChangingLane,2011201142I070303,2011,Thurrock,15
+ChangingLane,2011201142I170806,2011,Essex,15
+ChangingLane,2011201142I297109,2011,Essex,13
+ChangingLane,2011201142I359511,2011,Southend on Sea,13
+ChangingLane,2011201143N118101,2011,Buckinghamshire,12
+ChangingLane,2011201143P108091,2011,Oxfordshire,41
+ChangingLane,2.0112E+16,2011,Hampshire,15
+ChangingLane,2.0112E+16,2011,Hampshire,12
+ChangingLane,2.0112E+16,2011,Hampshire,12
+ChangingLane,2.0112E+16,2011,Kent,16
+ChangingLane,2.0112E+16,2011,Kent,-1
+ChangingLane,2.0112E+16,2011,Kent,16
+ChangingLane,2.0112E+16,2011,Brighton and Hove,51
+ChangingLane,2.0112E+16,2011,West Sussex,34
+ChangingLane,2.0112E+16,2011,East Sussex,18
+ChangingLane,2.0112E+16,2011,East Sussex,13
+ChangingLane,2.0112E+16,2011,East Sussex,24
+ChangingLane,2.0112E+16,2011,West Sussex,69
+ChangingLane,2.0112E+16,2011,West Sussex,15
+ChangingLane,2.0112E+16,2011,West Sussex,15
+ChangingLane,2011201150DE2G018,2011,Devon,15
+ChangingLane,2011201150GC2M009,2011,Cornwall and Isles of Scilly,22
+ChangingLane,2011201150GN2L016,2011,Cornwall and Isles of Scilly,14
+ChangingLane,2011201150JG2H011,2011,Devon,15
+ChangingLane,2.0112E+16,2011,Bath and North East Somerset,7
+ChangingLane,2.0112E+16,2011,Wiltshire,28
+ChangingLane,20112011551C42354,2011,Bournemouth,13
+ChangingLane,20112011551D18854,2011,Dorset,66
+ChangingLane,2012201201CP00186,2012,London,26
+ChangingLane,2012201201CW10446,2012,London,-1
+ChangingLane,2012201201EO40400,2012,London,16
+ChangingLane,2012201201PY20666,2012,London,15
+ChangingLane,2012201201QK50797,2012,London,21
+ChangingLane,2012201201RG40451,2012,London,-1
+ChangingLane,2012201201TA00678,2012,London,35
+ChangingLane,2012201201WW50740,2012,London,26
+ChangingLane,2012201204AN12092,2012,Blackpool,49
+ChangingLane,2012201204BC12048,2012,Lancashire,11
+ChangingLane,2012201204DA12069,2012,Lancashire,14
+ChangingLane,2012201204DL12079,2012,Lancashire,26
+ChangingLane,2012201204FJ12033,2012,Lancashire,15
+ChangingLane,2012201205AA03954,2012,Merseyside,10
+ChangingLane,2012201205FF01477,2012,Merseyside,23
+ChangingLane,2012201206E062863,2012,Manchester,40
+ChangingLane,2012201206K064437,2012,Bolton,16
+ChangingLane,2012201206K064845,2012,Bolton,31
+ChangingLane,2012201206L060375,2012,Wigan,17
+ChangingLane,2.0122E+16,2012,Cheshire East,45
+ChangingLane,2.0122E+16,2012,Cheshire East,20
+ChangingLane,2.0122E+16,2012,Warrington,64
+ChangingLane,2.0122E+16,2012,Warrington,20
+ChangingLane,2012201211SJ15932,2012,Darlington,11
+ChangingLane,2.0122E+16,2012,Leeds,16
+ChangingLane,2.0122E+16,2012,Bradford,13
+ChangingLane,20122012160A00771,2012,North East Lincolnshire,21
+ChangingLane,20122012160A02671,2012,North East Lincolnshire,17
+ChangingLane,20122012160C01811,2012,East Riding of Yorkshire,16
+ChangingLane,20122012160C06501,2012,East Riding of Yorkshire,14
+ChangingLane,20122012160D02151,2012,Kingston Upon Hull,20
+ChangingLane,20122012170S21722,2012,Stockton on Tees,11
+ChangingLane,2012201220M003532,2012,Coventry,14
+ChangingLane,2012201220M004562,2012,Coventry,44
+ChangingLane,2012201220T045042,2012,Birmingham,10
+ChangingLane,2012201222D202198,2012,Worcestershire,7
+ChangingLane,2012201222F202576,2012,Shropshire,63
+ChangingLane,2012201231A241112,2012,Nottinghamshire,17
+ChangingLane,2012201232B118312,2012,Lincolnshire,30
+ChangingLane,2.0122E+16,2012,Cambridgeshire,19
+ChangingLane,2.0122E+16,2012,Cambridgeshire,-1
+ChangingLane,2.0122E+16,2012,Cambridgeshire,33
+ChangingLane,2.0122E+16,2012,Peterborough,15
+ChangingLane,2.0122E+16,2012,Peterborough,32
+ChangingLane,2.0122E+16,2012,Suffolk,40
+ChangingLane,2.0122E+16,2012,Suffolk,15
+ChangingLane,201220124100C0685,2012,Hertfordshire,60
+ChangingLane,201220124100E0502,2012,Hertfordshire,26
+ChangingLane,2012201242I165706,2012,Essex,21
+ChangingLane,2012201242I223407,2012,Essex,55
+ChangingLane,2012201242I415312,2012,Essex,82
+ChangingLane,2012201243P286082,2012,Oxfordshire,36
+ChangingLane,2012201243P325062,2012,Oxfordshire,65
+ChangingLane,2012201243R066082,2012,Slough,39
+ChangingLane,2012201243R157042,2012,Slough,47
+ChangingLane,2012201243W051022,2012,Wokingham,42
+ChangingLane,2012201243W080072,2012,Reading,13
+ChangingLane,2012201243W156082,2012,Wokingham,32
+ChangingLane,2.0122E+16,2012,Portsmouth,32
+ChangingLane,2012201245EL69161,2012,Surrey,24
+ChangingLane,2012201245EL73896,2012,Surrey,17
+ChangingLane,2012201245GU70170,2012,Surrey,18
+ChangingLane,2012201245GU74432,2012,Surrey,17
+ChangingLane,2.0122E+16,2012,Kent,16
+ChangingLane,2.0122E+16,2012,West Sussex,25
+ChangingLane,2.0122E+16,2012,West Sussex,16
+ChangingLane,2.0122E+16,2012,West Sussex,17
+ChangingLane,2.0122E+16,2012,Brighton and Hove,9
+ChangingLane,2.0122E+16,2012,East Sussex,16
+ChangingLane,2.0122E+16,2012,East Sussex,20
+ChangingLane,2012201250AY2B007,2012,Cornwall and Isles of Scilly,65
+ChangingLane,2012201250CT3Y005,2012,Devon,13
+ChangingLane,2012201250FT2F013,2012,Torbay,15
+ChangingLane,2012201250GA2M006,2012,Cornwall and Isles of Scilly,12
+ChangingLane,2012201250GA2O012,2012,Cornwall and Isles of Scilly,-1
+ChangingLane,2.0122E+16,2012,Somerset,64
+ChangingLane,2.0122E+16,2012,City of Bristol,-1
+ChangingLane,2.0122E+16,2012,City of Bristol,30
+ChangingLane,2.0122E+16,2012,City of Bristol,20
+ChangingLane,2.0122E+16,2012,City of Bristol,36
+ChangingLane,2.0122E+16,2012,Gloucestershire,15
+ChangingLane,2.0122E+16,2012,Gloucestershire,13
+ChangingLane,2.0122E+16,2012,Wiltshire,40
+ChangingLane,2012201254B838012,2012,Swindon,52
+ChangingLane,20122012552D35098,2012,Dorset,29

@@ -1,0 +1,1660 @@
+Scenario,urn,accyr,LAName,Age
+EnteringRightCarPrivate,199901BS00255,1999,London,12
+EnteringRightCarPrivate,199901BS00529,1999,London,21
+EnteringRightCarPrivate,199901BS00857,1999,London,33
+EnteringRightCarPrivate,199901CX00153,1999,London,26
+EnteringRightCarPrivate,199901EH00253,1999,London,28
+EnteringRightCarPrivate,199901EK00372,1999,London,25
+EnteringRightCarPrivate,199901EK00429,1999,London,29
+EnteringRightCarPrivate,199901GN00201,1999,London,27
+EnteringRightCarPrivate,199901GN00670,1999,London,21
+EnteringRightCarPrivate,199901HT00911,1999,London,29
+EnteringRightCarPrivate,199901JC00254,1999,London,9
+EnteringRightCarPrivate,199901JI00417,1999,London,37
+EnteringRightCarPrivate,199901JI00487,1999,London,
+EnteringRightCarPrivate,199901KD00597,1999,London,
+EnteringRightCarPrivate,199901KG00052,1999,London,5
+EnteringRightCarPrivate,199901LS00269,1999,London,36
+EnteringRightCarPrivate,199901LX00108,1999,London,24
+EnteringRightCarPrivate,199901LX00331,1999,London,29
+EnteringRightCarPrivate,199901MD00512,1999,London,32
+EnteringRightCarPrivate,199901MD00541,1999,London,24
+EnteringRightCarPrivate,199901NH00292,1999,London,37
+EnteringRightCarPrivate,199901NI00008,1999,London,24
+EnteringRightCarPrivate,199901NI09107,1999,London,35
+EnteringRightCarPrivate,199901NI09124,1999,London,31
+EnteringRightCarPrivate,199901PL00225,1999,London,20
+EnteringRightCarPrivate,199901PL00360,1999,London,24
+EnteringRightCarPrivate,199901PL00583,1999,London,22
+EnteringRightCarPrivate,199901PL00636,1999,London,37
+EnteringRightCarPrivate,199901PL00653,1999,London,30
+EnteringRightCarPrivate,199901PY00322,1999,London,25
+EnteringRightCarPrivate,199901PY00479,1999,London,36
+EnteringRightCarPrivate,199901QD00327,1999,London,50
+EnteringRightCarPrivate,199901QD00489,1999,London,30
+EnteringRightCarPrivate,199901QK00470,1999,London,24
+EnteringRightCarPrivate,199901RA00176,1999,London,8
+EnteringRightCarPrivate,199901RG00228,1999,London,16
+EnteringRightCarPrivate,199901RX00010,1999,London,29
+EnteringRightCarPrivate,199901RY00515,1999,London,23
+EnteringRightCarPrivate,199901SA00223,1999,Hertfordshire,69
+EnteringRightCarPrivate,199901TG00194,1999,Surrey,24
+EnteringRightCarPrivate,199901VW00120,1999,London,34
+EnteringRightCarPrivate,199901WW00306,1999,London,5
+EnteringRightCarPrivate,199901WW00871,1999,London,38
+EnteringRightCarPrivate,199901WW01055,1999,London,37
+EnteringRightCarPrivate,199901YF00406,1999,London,16
+EnteringRightCarPrivate,199901ZN00211,1999,London,31
+EnteringRightCarPrivate,199901ZN00335,1999,London,14
+EnteringRightCarPrivate,199901ZP00415,1999,London,24
+EnteringRightCarPrivate,1.99903E+12,1999,Cumbria,13
+EnteringRightCarPrivate,199904A009399,1999,Lancashire,56
+EnteringRightCarPrivate,199904A063099,1999,Blackpool,54
+EnteringRightCarPrivate,199904C105999,1999,Lancashire,31
+EnteringRightCarPrivate,199904D051899,1999,Lancashire,14
+EnteringRightCarPrivate,199904E061699,1999,Blackburn with Darwen,29
+EnteringRightCarPrivate,199904E065699,1999,Lancashire,53
+EnteringRightCarPrivate,1.99905E+12,1999,Merseyside,43
+EnteringRightCarPrivate,1.99905E+12,1999,Merseyside,25
+EnteringRightCarPrivate,1.99905E+12,1999,Merseyside,15
+EnteringRightCarPrivate,199906C009226,1999,Manchester,47
+EnteringRightCarPrivate,199906C650099,1999,Manchester,35
+EnteringRightCarPrivate,199906C655699,1999,Manchester,31
+EnteringRightCarPrivate,199906G003397,1999,Tameside,55
+EnteringRightCarPrivate,199906G004509,1999,Tameside,53
+EnteringRightCarPrivate,199906J004752,1999,Stockport,40
+EnteringRightCarPrivate,199906K005887,1999,Bolton,34
+EnteringRightCarPrivate,199906K409499,1999,Bolton,33
+EnteringRightCarPrivate,199906L005446,1999,Wigan,11
+EnteringRightCarPrivate,199906L005811,1999,Wigan,15
+EnteringRightCarPrivate,199906M004303,1999,Trafford,30
+EnteringRightCarPrivate,199906Q003945,1999,Oldham,39
+EnteringRightCarPrivate,1999079B21855,1999,Warrington,33
+EnteringRightCarPrivate,1999079C30178,1999,Cheshire West and Chester,49
+EnteringRightCarPrivate,1.99912E+12,1999,North Yorkshire,53
+EnteringRightCarPrivate,199913AA09699,1999,Leeds,24
+EnteringRightCarPrivate,199913EA19499,1999,Kirklees,17
+EnteringRightCarPrivate,199913FA14099,1999,Calderdale,30
+EnteringRightCarPrivate,199916B049199,1999,North Lincolnshire,44
+EnteringRightCarPrivate,199916B049599,1999,North Lincolnshire,18
+EnteringRightCarPrivate,199916D022899,1999,Kingston Upon Hull,18
+EnteringRightCarPrivate,199916E020199,1999,East Riding of Yorkshire,27
+EnteringRightCarPrivate,199916F039199,1999,Kingston Upon Hull,19
+EnteringRightCarPrivate,199920D213901,1999,Birmingham,28
+EnteringRightCarPrivate,199920E167001,1999,Birmingham,9
+EnteringRightCarPrivate,199920F210701,1999,Birmingham,28
+EnteringRightCarPrivate,199920F234201,1999,Birmingham,21
+EnteringRightCarPrivate,199920F315401,1999,Birmingham,41
+EnteringRightCarPrivate,199920H107702,1999,Walsall,37
+EnteringRightCarPrivate,199920J036202,1999,Dudley,20
+EnteringRightCarPrivate,199920L022801,1999,Solihull,30
+EnteringRightCarPrivate,199920L104801,1999,Solihull,
+EnteringRightCarPrivate,1.99922E+12,1999,Stoke on Trent,
+EnteringRightCarPrivate,1.99922E+12,1999,Staffordshire,9
+EnteringRightCarPrivate,1.99922E+12,1999,Staffordshire,5
+EnteringRightCarPrivate,1.99922E+12,1999,Staffordshire,38
+EnteringRightCarPrivate,1.99922E+12,1999,Staffordshire,20
+EnteringRightCarPrivate,199922AC01429,1999,Worcestershire,14
+EnteringRightCarPrivate,199922CA10743,1999,Worcestershire,19
+EnteringRightCarPrivate,199922CL01621,1999,Worcestershire,28
+EnteringRightCarPrivate,199922FF00236,1999,Shropshire,50
+EnteringRightCarPrivate,199922GM00679,1999,Telford and Wrekin,25
+EnteringRightCarPrivate,1.99924E+12,1999,Warwickshire,12
+EnteringRightCarPrivate,1.99924E+12,1999,Warwickshire,
+EnteringRightCarPrivate,1.99924E+12,1999,Warwickshire,15
+EnteringRightCarPrivate,1.99924E+12,1999,Warwickshire,14
+EnteringRightCarPrivate,1.99924E+12,1999,Warwickshire,40
+EnteringRightCarPrivate,1.99924E+12,1999,Warwickshire,15
+EnteringRightCarPrivate,1.99924E+12,1999,Warwickshire,8
+EnteringRightCarPrivate,1999309C00227,1999,Derbyshire,15
+EnteringRightCarPrivate,1999309D00209,1999,Derby,
+EnteringRightCarPrivate,199930A000591,1999,Derbyshire,56
+EnteringRightCarPrivate,199930D000380,1999,Derby,
+EnteringRightCarPrivate,1999317A20564,1999,Nottinghamshire,53
+EnteringRightCarPrivate,1999317C41880,1999,Nottinghamshire,23
+EnteringRightCarPrivate,1999317D42309,1999,Nottinghamshire,55
+EnteringRightCarPrivate,1999317E20490,1999,Nottinghamshire,63
+EnteringRightCarPrivate,199932C010329,1999,Lincolnshire,14
+EnteringRightCarPrivate,1.99934E+12,1999,Leicestershire,47
+EnteringRightCarPrivate,1.99934E+12,1999,Leicestershire,18
+EnteringRightCarPrivate,1.99934E+12,1999,Leicestershire,58
+EnteringRightCarPrivate,1.99934E+12,1999,Leicestershire,26
+EnteringRightCarPrivate,1.99934E+12,1999,Leicestershire,10
+EnteringRightCarPrivate,1.99934E+12,1999,Leicestershire,28
+EnteringRightCarPrivate,199934ND00332,1999,Northamptonshire,35
+EnteringRightCarPrivate,199934NN00873,1999,Northamptonshire,23
+EnteringRightCarPrivate,199934NN01036,1999,Northamptonshire,17
+EnteringRightCarPrivate,1.99935E+12,1999,Cambridgeshire,19
+EnteringRightCarPrivate,1.99935E+12,1999,Cambridgeshire,41
+EnteringRightCarPrivate,1.99935E+12,1999,Cambridgeshire,20
+EnteringRightCarPrivate,1.99935E+12,1999,Cambridgeshire,41
+EnteringRightCarPrivate,199936N992040,1999,Norfolk,30
+EnteringRightCarPrivate,199936T990435,1999,Norfolk,12
+EnteringRightCarPrivate,199936T990438,1999,Norfolk,31
+EnteringRightCarPrivate,199936T990524,1999,Norfolk,
+EnteringRightCarPrivate,199937G004662,1999,Suffolk,45
+EnteringRightCarPrivate,19994100A0425,1999,Hertfordshire,31
+EnteringRightCarPrivate,19994100B0034,1999,Hertfordshire,26
+EnteringRightCarPrivate,19994100C0251,1999,Hertfordshire,32
+EnteringRightCarPrivate,19994100D0237,1999,Hertfordshire,8
+EnteringRightCarPrivate,19994100G0394,1999,Hertfordshire,45
+EnteringRightCarPrivate,19994200A0340,1999,Essex,41
+EnteringRightCarPrivate,19994200B0534,1999,Essex,15
+EnteringRightCarPrivate,19994200B0544,1999,Essex,
+EnteringRightCarPrivate,19994200C0020,1999,Essex,16
+EnteringRightCarPrivate,19994200D0043,1999,Essex,42
+EnteringRightCarPrivate,19994200E0471,1999,Essex,
+EnteringRightCarPrivate,199943N034109,1999,Buckinghamshire,24
+EnteringRightCarPrivate,199943P234129,1999,Oxfordshire,36
+EnteringRightCarPrivate,199943P326079,1999,Oxfordshire,19
+EnteringRightCarPrivate,199943P412099,1999,Oxfordshire,
+EnteringRightCarPrivate,199943R212129,1999,Windsor and Maidenhead,22
+EnteringRightCarPrivate,199943R308059,1999,Bracknell Forest,12
+EnteringRightCarPrivate,199943W087079,1999,West Berkshire,
+EnteringRightCarPrivate,199945ED00074,1999,Surrey,57
+EnteringRightCarPrivate,199946MA01096,1999,Kent,13
+EnteringRightCarPrivate,199946SK00841,1999,Kent,27
+EnteringRightCarPrivate,199946SK07227,1999,Kent,62
+EnteringRightCarPrivate,199946SK07738,1999,Kent,12
+EnteringRightCarPrivate,199946WK11037,1999,Kent,40
+EnteringRightCarPrivate,199946WL08410,1999,Kent,19
+EnteringRightCarPrivate,199946WL10415,1999,Kent,27
+EnteringRightCarPrivate,199947C003976,1999,Brighton and Hove,25
+EnteringRightCarPrivate,199947N002433,1999,West Sussex,33
+EnteringRightCarPrivate,1.99952E+12,1999,Somerset,65
+EnteringRightCarPrivate,1.99952E+12,1999,North Somerset,16
+EnteringRightCarPrivate,1.99952E+12,1999,South Gloucestershire,35
+EnteringRightCarPrivate,1.99952E+12,1999,South Gloucestershire,21
+EnteringRightCarPrivate,1.99952E+12,1999,North Somerset,12
+EnteringRightCarPrivate,1.99952E+12,1999,City of Bristol,31
+EnteringRightCarPrivate,1999530AI0784,1999,Gloucestershire,33
+EnteringRightCarPrivate,1999530AI1745,1999,Gloucestershire,30
+EnteringRightCarPrivate,1999530AI2522,1999,Gloucestershire,34
+EnteringRightCarPrivate,1999530AI3864,1999,Gloucestershire,17
+EnteringRightCarPrivate,1999530AI4447,1999,Gloucestershire,27
+EnteringRightCarPrivate,1999530AI4681,1999,Gloucestershire,44
+EnteringRightCarPrivate,199954DS30599,1999,Swindon,16
+EnteringRightCarPrivate,1999550P02793,1999,Poole,39
+EnteringRightCarPrivate,1999550P05278,1999,Poole,39
+EnteringRightCarPrivate,19995599E0327,1999,Dorset,13
+EnteringRightCarPrivate,19995599W1083,1999,Dorset,46
+EnteringRightCarPrivate,1999559E04580,1999,Dorset,11
+EnteringRightCarPrivate,200001EK01253,2000,London,39
+EnteringRightCarPrivate,200001GD00450,2000,London,31
+EnteringRightCarPrivate,200001HT00023,2000,London,49
+EnteringRightCarPrivate,200001JC00956,2000,London,36
+EnteringRightCarPrivate,200001JI00391,2000,London,20
+EnteringRightCarPrivate,200001JI00711,2000,London,7
+EnteringRightCarPrivate,200001KG00134,2000,London,
+EnteringRightCarPrivate,200001KG00580,2000,London,17
+EnteringRightCarPrivate,200001LX00228,2000,London,27
+EnteringRightCarPrivate,200001LX00927,2000,London,25
+EnteringRightCarPrivate,200001LX00973,2000,London,44
+EnteringRightCarPrivate,200001LX01156,2000,London,37
+EnteringRightCarPrivate,200001LX01534,2000,London,40
+EnteringRightCarPrivate,200001MM01289,2000,London,37
+EnteringRightCarPrivate,200001NI00827,2000,London,
+EnteringRightCarPrivate,200001PL00210,2000,London,27
+EnteringRightCarPrivate,200001PL00546,2000,London,33
+EnteringRightCarPrivate,200001PY00358,2000,London,17
+EnteringRightCarPrivate,200001PY00504,2000,London,12
+EnteringRightCarPrivate,200001QA00555,2000,London,17
+EnteringRightCarPrivate,200001QD00058,2000,London,32
+EnteringRightCarPrivate,200001RG00297,2000,London,52
+EnteringRightCarPrivate,200001RG00842,2000,London,37
+EnteringRightCarPrivate,200001RX00006,2000,London,23
+EnteringRightCarPrivate,200001RY00344,2000,London,18
+EnteringRightCarPrivate,200001SX00895,2000,London,13
+EnteringRightCarPrivate,200001VK00321,2000,London,25
+EnteringRightCarPrivate,200001VK00531,2000,London,18
+EnteringRightCarPrivate,200001WW01075,2000,London,39
+EnteringRightCarPrivate,200001WW01373,2000,London,35
+EnteringRightCarPrivate,200001XD00164,2000,London,
+EnteringRightCarPrivate,200001XS00955,2000,London,29
+EnteringRightCarPrivate,200001YF00271,2000,London,62
+EnteringRightCarPrivate,200001YF00367,2000,London,17
+EnteringRightCarPrivate,200001ZD01154,2000,London,25
+EnteringRightCarPrivate,2.00003E+12,2000,Cumbria,69
+EnteringRightCarPrivate,2.00003E+12,2000,Cumbria,25
+EnteringRightCarPrivate,200004D042600,2000,Lancashire,42
+EnteringRightCarPrivate,200004F053300,2000,Lancashire,52
+EnteringRightCarPrivate,2.00005E+12,2000,Merseyside,31
+EnteringRightCarPrivate,2.00005E+12,2000,Merseyside,17
+EnteringRightCarPrivate,200006A007433,2000,Manchester,49
+EnteringRightCarPrivate,200006A007898,2000,Manchester,64
+EnteringRightCarPrivate,200006A008345,2000,Manchester,46
+EnteringRightCarPrivate,200006C010793,2000,Manchester,51
+EnteringRightCarPrivate,200006C010886,2000,Manchester,32
+EnteringRightCarPrivate,200006G004735,2000,Tameside,38
+EnteringRightCarPrivate,200006G005964,2000,Tameside,11
+EnteringRightCarPrivate,200006J008055,2000,Stockport,51
+EnteringRightCarPrivate,200006K007517,2000,Bolton,40
+EnteringRightCarPrivate,200006L007858,2000,Wigan,20
+EnteringRightCarPrivate,200006N005011,2000,Bury,37
+EnteringRightCarPrivate,2.00007E+12,2000,Cheshire East,62
+EnteringRightCarPrivate,200011AK01410,2000,Durham,25
+EnteringRightCarPrivate,2.00013E+12,2000,Kirklees,43
+EnteringRightCarPrivate,2.00013E+12,2000,Kirklees,31
+EnteringRightCarPrivate,200014DD00277,2000,Barnsley,29
+EnteringRightCarPrivate,200014KK00082,2000,Sheffield,50
+EnteringRightCarPrivate,200016A007000,2000,North East Lincolnshire,35
+EnteringRightCarPrivate,200016A031200,2000,North East Lincolnshire,19
+EnteringRightCarPrivate,200016A033600,2000,North East Lincolnshire,14
+EnteringRightCarPrivate,200016B002900,2000,North Lincolnshire,45
+EnteringRightCarPrivate,200016C022700,2000,East Riding of Yorkshire,18
+EnteringRightCarPrivate,200016D056800,2000,Kingston Upon Hull,24
+EnteringRightCarPrivate,200020D047201,2000,Birmingham,39
+EnteringRightCarPrivate,200020D138302,2000,Birmingham,12
+EnteringRightCarPrivate,200020F192101,2000,Birmingham,11
+EnteringRightCarPrivate,200020G079201,2000,Wolverhampton,36
+EnteringRightCarPrivate,200020H049002,2000,Walsall,20
+EnteringRightCarPrivate,200020K053302,2000,Sandwell,24
+EnteringRightCarPrivate,200020K115202,2000,Sandwell,31
+EnteringRightCarPrivate,200020M108801,2000,Coventry,31
+EnteringRightCarPrivate,2.00021E+12,2000,Stoke on Trent,13
+EnteringRightCarPrivate,2.00021E+12,2000,Staffordshire,34
+EnteringRightCarPrivate,2.00021E+12,2000,Staffordshire,35
+EnteringRightCarPrivate,2.00021E+12,2000,Staffordshire,18
+EnteringRightCarPrivate,200022BE12116,2000,Worcestershire,16
+EnteringRightCarPrivate,200022BJ15338,2000,Worcestershire,39
+EnteringRightCarPrivate,200022CA20715,2000,Worcestershire,63
+EnteringRightCarPrivate,200022EA13619,2000,Herefordshire,28
+EnteringRightCarPrivate,200022GB14420,2000,Telford and Wrekin,38
+EnteringRightCarPrivate,2.00023E+12,2000,Warwickshire,16
+EnteringRightCarPrivate,2.00023E+12,2000,Warwickshire,15
+EnteringRightCarPrivate,2.00023E+12,2000,Warwickshire,52
+EnteringRightCarPrivate,2.00023E+12,2000,Warwickshire,61
+EnteringRightCarPrivate,200030A000162,2000,Derbyshire,
+EnteringRightCarPrivate,200030C000034,2000,Derbyshire,17
+EnteringRightCarPrivate,200030D000511,2000,Derby,71
+EnteringRightCarPrivate,200030D000556,2000,Derby,56
+EnteringRightCarPrivate,200030D000567,2000,Derby,54
+EnteringRightCarPrivate,200030D000720,2000,Derby,73
+EnteringRightCarPrivate,2000317A20134,2000,Nottinghamshire,17
+EnteringRightCarPrivate,2000317B42715,2000,Nottingham,53
+EnteringRightCarPrivate,2000317C40027,2000,Nottinghamshire,45
+EnteringRightCarPrivate,2.00033E+12,2000,Leicestershire,20
+EnteringRightCarPrivate,2.00033E+12,2000,Leicestershire,40
+EnteringRightCarPrivate,2.00033E+12,2000,Leicestershire,26
+EnteringRightCarPrivate,200034NC00199,2000,Northamptonshire,50
+EnteringRightCarPrivate,200034NC00285,2000,Northamptonshire,34
+EnteringRightCarPrivate,200034ND00176,2000,Northamptonshire,14
+EnteringRightCarPrivate,200034NN01074,2000,Northamptonshire,32
+EnteringRightCarPrivate,2.00035E+12,2000,Cambridgeshire,14
+EnteringRightCarPrivate,2.00035E+12,2000,Cambridgeshire,45
+EnteringRightCarPrivate,2.00035E+12,2000,Cambridgeshire,55
+EnteringRightCarPrivate,2.00035E+12,2000,Peterborough,
+EnteringRightCarPrivate,2.00035E+12,2000,Cambridgeshire,20
+EnteringRightCarPrivate,2.00035E+12,2000,Cambridgeshire,38
+EnteringRightCarPrivate,2.00035E+12,2000,Cambridgeshire,54
+EnteringRightCarPrivate,2.00035E+12,2000,Cambridgeshire,25
+EnteringRightCarPrivate,200036K001043,2000,Norfolk,18
+EnteringRightCarPrivate,200036N000627,2000,Norfolk,70
+EnteringRightCarPrivate,200036T000094,2000,Norfolk,15
+EnteringRightCarPrivate,200036T000193,2000,Norfolk,13
+EnteringRightCarPrivate,200037B009539,2000,Suffolk,22
+EnteringRightCarPrivate,200037G005622,2000,Suffolk,39
+EnteringRightCarPrivate,200037G007225,2000,Suffolk,32
+EnteringRightCarPrivate,200037L004695,2000,Suffolk,63
+EnteringRightCarPrivate,2000400B02824,2000,Bedford Borough Council,50
+EnteringRightCarPrivate,2.00E+264,2000,Hertfordshire,46
+EnteringRightCarPrivate,20004100G0201,2000,Hertfordshire,12
+EnteringRightCarPrivate,20004100J1384,2000,Hertfordshire,25
+EnteringRightCarPrivate,20004200A0216,2000,Essex,36
+EnteringRightCarPrivate,20004200A0306,2000,Essex,26
+EnteringRightCarPrivate,20004200J0133,2000,Essex,36
+EnteringRightCarPrivate,20004200J0448,2000,Essex,53
+EnteringRightCarPrivate,20004200X0216,2000,Essex,53
+EnteringRightCarPrivate,200043N117070,2000,Buckinghamshire,
+EnteringRightCarPrivate,200043N141120,2000,Buckinghamshire,
+EnteringRightCarPrivate,200043N264010,2000,Buckinghamshire,16
+EnteringRightCarPrivate,200043N364010,2000,Buckinghamshire,
+EnteringRightCarPrivate,200043N426110,2000,Buckinghamshire,28
+EnteringRightCarPrivate,200043P023070,2000,Oxfordshire,15
+EnteringRightCarPrivate,200043P048040,2000,Oxfordshire,69
+EnteringRightCarPrivate,200043P326020,2000,Oxfordshire,30
+EnteringRightCarPrivate,200043W052020,2000,Reading,37
+EnteringRightCarPrivate,200043W059120,2000,West Berkshire,53
+EnteringRightCarPrivate,200043W285030,2000,Windsor and Maidenhead,
+EnteringRightCarPrivate,2000440AA1964,2000,Hampshire,30
+EnteringRightCarPrivate,2000440DG0269,2000,Hampshire,61
+EnteringRightCarPrivate,2000440SP0116,2000,Southampton ,26
+EnteringRightCarPrivate,2000440SP0269,2000,Southampton ,9
+EnteringRightCarPrivate,200045EZ00177,2000,Surrey,22
+EnteringRightCarPrivate,200045NS00348,2000,Surrey,16
+EnteringRightCarPrivate,200045NW00058,2000,Surrey,50
+EnteringRightCarPrivate,200046MA32719,2000,Kent,26
+EnteringRightCarPrivate,200046SW12444,2000,Kent,42
+EnteringRightCarPrivate,200046WK30585,2000,Kent,13
+EnteringRightCarPrivate,200047H004094,2000,West Sussex,21
+EnteringRightCarPrivate,200047X131086,2000,West Sussex,40
+EnteringRightCarPrivate,200050B420058,2000,Cornwall and Isles of Scilly,16
+EnteringRightCarPrivate,200050D332097,2000,Devon,13
+EnteringRightCarPrivate,2.00052E+12,2000,North Somerset,50
+EnteringRightCarPrivate,2.00052E+12,2000,City of Bristol,27
+EnteringRightCarPrivate,2.00052E+12,2000,Bath and North East Somerset,28
+EnteringRightCarPrivate,2.00052E+12,2000,City of Bristol,19
+EnteringRightCarPrivate,2.00052E+12,2000,City of Bristol,18
+EnteringRightCarPrivate,2.00052E+12,2000,City of Bristol,19
+EnteringRightCarPrivate,2.00052E+12,2000,South Gloucestershire,44
+EnteringRightCarPrivate,2.00052E+12,2000,Somerset,54
+EnteringRightCarPrivate,200052FY29386,2000,Somerset,43
+EnteringRightCarPrivate,2000530AI0364,2000,Gloucestershire,38
+EnteringRightCarPrivate,2000530AI2204,2000,Gloucestershire,34
+EnteringRightCarPrivate,2000530AI3107,2000,Gloucestershire,15
+EnteringRightCarPrivate,2000530AI3446,2000,Gloucestershire,72
+EnteringRightCarPrivate,200054AZ59400,2000,Wiltshire,46
+EnteringRightCarPrivate,200054DN62600,2000,Swindon,44
+EnteringRightCarPrivate,2000550E00996,2000,Dorset,73
+EnteringRightCarPrivate,2000550W01279,2000,Dorset,16
+EnteringRightCarPrivate,200101BS00792,2001,London,44
+EnteringRightCarPrivate,200101DM00589,2001,London,40
+EnteringRightCarPrivate,200101DM01528,2001,London,28
+EnteringRightCarPrivate,200101EK00220,2001,London,39
+EnteringRightCarPrivate,200101FH00060,2001,London,27
+EnteringRightCarPrivate,200101FH00484,2001,London,50
+EnteringRightCarPrivate,200101FH00800,2001,London,25
+EnteringRightCarPrivate,200101FH00892,2001,London,36
+EnteringRightCarPrivate,200101FH01007,2001,London,24
+EnteringRightCarPrivate,200101JC00037,2001,London,40
+EnteringRightCarPrivate,200101JI00459,2001,London,65
+EnteringRightCarPrivate,200101JI00508,2001,London,16
+EnteringRightCarPrivate,200101KD00356,2001,London,44
+EnteringRightCarPrivate,200101KG00237,2001,London,31
+EnteringRightCarPrivate,200101KO00258,2001,London,21
+EnteringRightCarPrivate,200101KO00662,2001,London,38
+EnteringRightCarPrivate,200101LX00649,2001,London,39
+EnteringRightCarPrivate,200101LX00859,2001,London,23
+EnteringRightCarPrivate,200101LX01356,2001,London,27
+EnteringRightCarPrivate,200101LX01728,2001,London,35
+EnteringRightCarPrivate,200101PL00482,2001,London,37
+EnteringRightCarPrivate,200101PL00714,2001,London,12
+EnteringRightCarPrivate,200101PY00573,2001,London,34
+EnteringRightCarPrivate,200101PY01161,2001,London,23
+EnteringRightCarPrivate,200101QA00779,2001,London,14
+EnteringRightCarPrivate,200101RG01078,2001,London,37
+EnteringRightCarPrivate,200101SX00793,2001,London,66
+EnteringRightCarPrivate,200101SX01160,2001,London,55
+EnteringRightCarPrivate,200101TW00577,2001,London,34
+EnteringRightCarPrivate,200101TX00082,2001,London,50
+EnteringRightCarPrivate,200101VW00290,2001,London,
+EnteringRightCarPrivate,200101WW00938,2001,London,28
+EnteringRightCarPrivate,200101WW01183,2001,London,47
+EnteringRightCarPrivate,200101XS00117,2001,London,23
+EnteringRightCarPrivate,200101XS00747,2001,London,35
+EnteringRightCarPrivate,200101XS01380,2001,London,28
+EnteringRightCarPrivate,200101XS01436,2001,London,27
+EnteringRightCarPrivate,200101XS01646,2001,London,
+EnteringRightCarPrivate,200101YE00191,2001,London,
+EnteringRightCarPrivate,200101YE00399,2001,London,44
+EnteringRightCarPrivate,200101ZD00045,2001,London,37
+EnteringRightCarPrivate,200101ZD00787,2001,London,22
+EnteringRightCarPrivate,200104A033601,2001,Lancashire,25
+EnteringRightCarPrivate,200104A067301,2001,Lancashire,62
+EnteringRightCarPrivate,200104C067101,2001,Lancashire,67
+EnteringRightCarPrivate,200104F031601,2001,Lancashire,42
+EnteringRightCarPrivate,2.00105E+12,2001,Merseyside,37
+EnteringRightCarPrivate,200106C013836,2001,Manchester,22
+EnteringRightCarPrivate,200106K009048,2001,Bolton,19
+EnteringRightCarPrivate,2.00107E+12,2001,Cheshire West and Chester,14
+EnteringRightCarPrivate,2.00107E+12,2001,Cheshire West and Chester,65
+EnteringRightCarPrivate,200110E057001,2001,Newcastle upon Tyne,44
+EnteringRightCarPrivate,200110F017901,2001,Newcastle upon Tyne,23
+EnteringRightCarPrivate,200110J242101,2001,Gateshead,33
+EnteringRightCarPrivate,2.00112E+12,2001,York,33
+EnteringRightCarPrivate,2.00112E+12,2001,York,44
+EnteringRightCarPrivate,200114AA00057,2001,Doncaster,35
+EnteringRightCarPrivate,200114FF00124,2001,Rotherham,33
+EnteringRightCarPrivate,200116A004101,2001,North East Lincolnshire,41
+EnteringRightCarPrivate,200116A015801,2001,North East Lincolnshire,38
+EnteringRightCarPrivate,200116A016701,2001,North East Lincolnshire,23
+EnteringRightCarPrivate,200116A019301,2001,North East Lincolnshire,70
+EnteringRightCarPrivate,200116A030001,2001,North East Lincolnshire,13
+EnteringRightCarPrivate,200116C062901,2001,East Riding of Yorkshire,63
+EnteringRightCarPrivate,200116D009901,2001,Kingston Upon Hull,29
+EnteringRightCarPrivate,200116D014301,2001,Kingston Upon Hull,34
+EnteringRightCarPrivate,200117S200057,2001,Stockton on Tees,28
+EnteringRightCarPrivate,200120D151401,2001,Birmingham,33
+EnteringRightCarPrivate,200120E067601,2001,Birmingham,55
+EnteringRightCarPrivate,200120E079001,2001,Birmingham,35
+EnteringRightCarPrivate,200120E174203,2001,Birmingham,21
+EnteringRightCarPrivate,200120E177302,2001,Birmingham,40
+EnteringRightCarPrivate,200120F356401,2001,Birmingham,17
+EnteringRightCarPrivate,200120H137701,2001,Walsall,44
+EnteringRightCarPrivate,200120J141902,2001,Dudley,14
+EnteringRightCarPrivate,2.00121E+12,2001,Stoke on Trent,22
+EnteringRightCarPrivate,2.00121E+12,2001,Staffordshire,29
+EnteringRightCarPrivate,2.00121E+12,2001,Staffordshire,40
+EnteringRightCarPrivate,2.00121E+12,2001,Staffordshire,10
+EnteringRightCarPrivate,200122AA17847,2001,Worcestershire,25
+EnteringRightCarPrivate,200122CA21828,2001,Worcestershire,39
+EnteringRightCarPrivate,200122EA16795,2001,Herefordshire,57
+EnteringRightCarPrivate,2.00123E+12,2001,Warwickshire,26
+EnteringRightCarPrivate,2.00123E+12,2001,Warwickshire,12
+EnteringRightCarPrivate,2.00123E+12,2001,Warwickshire,15
+EnteringRightCarPrivate,2.00123E+12,2001,Warwickshire,
+EnteringRightCarPrivate,200130A000715,2001,Derbyshire,65
+EnteringRightCarPrivate,200130B000416,2001,Derbyshire,17
+EnteringRightCarPrivate,200130D001057,2001,Derby,21
+EnteringRightCarPrivate,20013102C1069,2001,Nottinghamshire,23
+EnteringRightCarPrivate,20013108A0030,2001,Nottinghamshire,24
+EnteringRightCarPrivate,20013108A0328,2001,Nottinghamshire,26
+EnteringRightCarPrivate,20013108E0726,2001,Nottinghamshire,29
+EnteringRightCarPrivate,20013108E1053,2001,Nottinghamshire,36
+EnteringRightCarPrivate,20013108E1389,2001,Nottinghamshire,23
+EnteringRightCarPrivate,200132D064401,2001,Lincolnshire,19
+EnteringRightCarPrivate,2.00133E+12,2001,Leicestershire,22
+EnteringRightCarPrivate,200134NC00010,2001,Northamptonshire,16
+EnteringRightCarPrivate,200134NC00254,2001,Northamptonshire,62
+EnteringRightCarPrivate,200134NW00628,2001,Northamptonshire,16
+EnteringRightCarPrivate,2.00135E+12,2001,Peterborough,45
+EnteringRightCarPrivate,2.00135E+12,2001,Peterborough,84
+EnteringRightCarPrivate,200136G011523,2001,Norfolk,13
+EnteringRightCarPrivate,200136K012274,2001,Norfolk,58
+EnteringRightCarPrivate,200136N010841,2001,Norfolk,58
+EnteringRightCarPrivate,200137B009859,2001,Suffolk,41
+EnteringRightCarPrivate,20014100C0363,2001,Hertfordshire,46
+EnteringRightCarPrivate,20014100C0499,2001,Hertfordshire,30
+EnteringRightCarPrivate,20014200D0356,2001,Essex,12
+EnteringRightCarPrivate,200143N056061,2001,Buckinghamshire,73
+EnteringRightCarPrivate,200143N080041,2001,Buckinghamshire,18
+EnteringRightCarPrivate,200143N089111,2001,Buckinghamshire,23
+EnteringRightCarPrivate,200143P263041,2001,Oxfordshire,46
+EnteringRightCarPrivate,200143W101031,2001,Bracknell Forest,14
+EnteringRightCarPrivate,200143W324051,2001,Slough,
+EnteringRightCarPrivate,200143W381081,2001,Reading,
+EnteringRightCarPrivate,200143W527101,2001,Reading,15
+EnteringRightCarPrivate,200143W716071,2001,Windsor and Maidenhead,23
+EnteringRightCarPrivate,200143W802111,2001,Reading,36
+EnteringRightCarPrivate,2001440DH0062,2001,Hampshire,22
+EnteringRightCarPrivate,2001440JW0342,2001,Hampshire,49
+EnteringRightCarPrivate,2.00145E+12,2001,Surrey,29
+EnteringRightCarPrivate,200145ME13727,2001,Surrey,34
+EnteringRightCarPrivate,200145MN13403,2001,Surrey,44
+EnteringRightCarPrivate,200145NW13777,2001,Surrey,
+EnteringRightCarPrivate,200145NW16102,2001,Surrey,12
+EnteringRightCarPrivate,200146SK41343,2001,Kent,25
+EnteringRightCarPrivate,200146WK44694,2001,Kent,16
+EnteringRightCarPrivate,200147N136803,2001,West Sussex,68
+EnteringRightCarPrivate,200150A413683,2001,Cornwall and Isles of Scilly,11
+EnteringRightCarPrivate,200150A612046,2001,Cornwall and Isles of Scilly,50
+EnteringRightCarPrivate,200150B412924,2001,Cornwall and Isles of Scilly,37
+EnteringRightCarPrivate,200150B712915,2001,Cornwall and Isles of Scilly,38
+EnteringRightCarPrivate,200150E510092,2001,Plymouth,32
+EnteringRightCarPrivate,2.00152E+12,2001,North Somerset,31
+EnteringRightCarPrivate,2001530AI0441,2001,Gloucestershire,42
+EnteringRightCarPrivate,2001530AI0974,2001,Gloucestershire,39
+EnteringRightCarPrivate,2001530AI2524,2001,Gloucestershire,19
+EnteringRightCarPrivate,2001530AI2955,2001,Gloucestershire,42
+EnteringRightCarPrivate,2001530AI3532,2001,Gloucestershire,26
+EnteringRightCarPrivate,2001530AI3673,2001,Gloucestershire,55
+EnteringRightCarPrivate,200154CD44201,2001,Wiltshire,22
+EnteringRightCarPrivate,2001550B00436,2001,Bournemouth,17
+EnteringRightCarPrivate,2001550B00437,2001,Bournemouth,28
+EnteringRightCarPrivate,2001550B02417,2001,Bournemouth,30
+EnteringRightCarPrivate,2001550B02496,2001,Bournemouth,27
+EnteringRightCarPrivate,2001550B03346,2001,Bournemouth,45
+EnteringRightCarPrivate,2001550B03418,2001,Bournemouth,34
+EnteringRightCarPrivate,2001550B06208,2001,Bournemouth,30
+EnteringRightCarPrivate,2.00E+246,2001,Dorset,11
+EnteringRightCarPrivate,200201EK00358,2002,London,30
+EnteringRightCarPrivate,200201EO00019,2002,London,30
+EnteringRightCarPrivate,200201EO01382,2002,London,
+EnteringRightCarPrivate,200201HT00528,2002,London,39
+EnteringRightCarPrivate,200201JC00464,2002,London,16
+EnteringRightCarPrivate,200201KD00970,2002,London,60
+EnteringRightCarPrivate,200201KO00176,2002,London,18
+EnteringRightCarPrivate,200201LX00208,2002,London,36
+EnteringRightCarPrivate,200201LX01145,2002,London,32
+EnteringRightCarPrivate,200201LX01289,2002,London,27
+EnteringRightCarPrivate,200201LX01929,2002,London,
+EnteringRightCarPrivate,200201MM00341,2002,London,22
+EnteringRightCarPrivate,200201MM00786,2002,London,
+EnteringRightCarPrivate,200201MM01277,2002,London,31
+EnteringRightCarPrivate,200201MM01278,2002,London,53
+EnteringRightCarPrivate,200201NI00292,2002,London,29
+EnteringRightCarPrivate,200201PY00132,2002,London,24
+EnteringRightCarPrivate,200201PY00553,2002,London,35
+EnteringRightCarPrivate,200201QK00284,2002,London,26
+EnteringRightCarPrivate,200201RG00587,2002,London,34
+EnteringRightCarPrivate,200201RX00060,2002,London,52
+EnteringRightCarPrivate,200201RX00063,2002,London,34
+EnteringRightCarPrivate,200201SX00087,2002,London,24
+EnteringRightCarPrivate,200201TW00031,2002,London,33
+EnteringRightCarPrivate,200201TW00074,2002,London,33
+EnteringRightCarPrivate,200201TX00330,2002,London,36
+EnteringRightCarPrivate,200201TX00354,2002,London,22
+EnteringRightCarPrivate,200201TX00797,2002,London,59
+EnteringRightCarPrivate,200201VK00405,2002,London,32
+EnteringRightCarPrivate,200201VW00303,2002,London,38
+EnteringRightCarPrivate,200201VW00741,2002,London,33
+EnteringRightCarPrivate,200201WW00241,2002,London,51
+EnteringRightCarPrivate,200201WW00507,2002,London,33
+EnteringRightCarPrivate,200201WW01034,2002,London,29
+EnteringRightCarPrivate,200201XH09004,2002,London,45
+EnteringRightCarPrivate,200201XS01361,2002,London,30
+EnteringRightCarPrivate,200201ZT00438,2002,London,55
+EnteringRightCarPrivate,200204C054002,2002,Lancashire,43
+EnteringRightCarPrivate,2.00205E+12,2002,Merseyside,50
+EnteringRightCarPrivate,2.00205E+12,2002,Merseyside,5
+EnteringRightCarPrivate,2.00205E+12,2002,Merseyside,22
+EnteringRightCarPrivate,200205BS00151,2002,Merseyside,59
+EnteringRightCarPrivate,200205BS00479,2002,Merseyside,37
+EnteringRightCarPrivate,200206C018933,2002,Manchester,36
+EnteringRightCarPrivate,200206K012505,2002,Bolton,52
+EnteringRightCarPrivate,200206K013711,2002,Bolton,30
+EnteringRightCarPrivate,200206L011620,2002,Wigan,67
+EnteringRightCarPrivate,200206L012973,2002,Wigan,35
+EnteringRightCarPrivate,200206M010328,2002,Trafford,27
+EnteringRightCarPrivate,200206Q010350,2002,Oldham,49
+EnteringRightCarPrivate,2.0021E+12,2002,South Tyneside,25
+EnteringRightCarPrivate,2.0021E+12,2002,South Tyneside,31
+EnteringRightCarPrivate,2.0021E+12,2002,South Tyneside,57
+EnteringRightCarPrivate,2.0021E+12,2002,Newcastle upon Tyne,17
+EnteringRightCarPrivate,200210I029202,2002,North Tyneside,34
+EnteringRightCarPrivate,200214HH00832,2002,Sheffield,13
+EnteringRightCarPrivate,200216A012802,2002,North East Lincolnshire,22
+EnteringRightCarPrivate,200216A031902,2002,North East Lincolnshire,11
+EnteringRightCarPrivate,200216A035502,2002,North East Lincolnshire,40
+EnteringRightCarPrivate,200216A045002,2002,North East Lincolnshire,24
+EnteringRightCarPrivate,200216C057802,2002,East Riding of Yorkshire,59
+EnteringRightCarPrivate,200216D030702,2002,Kingston Upon Hull,17
+EnteringRightCarPrivate,200216D053602,2002,Kingston Upon Hull,17
+EnteringRightCarPrivate,2002170M14952,2002,Middlesbrough,44
+EnteringRightCarPrivate,2002170M14992,2002,Middlesbrough,33
+EnteringRightCarPrivate,200217H100022,2002,Hartlepool,42
+EnteringRightCarPrivate,200220D144101,2002,Birmingham,36
+EnteringRightCarPrivate,200220D331501,2002,Birmingham,
+EnteringRightCarPrivate,200220D366001,2002,Birmingham,33
+EnteringRightCarPrivate,200220E128903,2002,Birmingham,38
+EnteringRightCarPrivate,200220J007702,2002,Dudley,13
+EnteringRightCarPrivate,200220J039802,2002,Dudley,53
+EnteringRightCarPrivate,200220K092401,2002,Sandwell,38
+EnteringRightCarPrivate,200220L126801,2002,Solihull,19
+EnteringRightCarPrivate,200220M009702,2002,Coventry,30
+EnteringRightCarPrivate,2.00221E+12,2002,Staffordshire,14
+EnteringRightCarPrivate,200222AA19638,2002,Worcestershire,54
+EnteringRightCarPrivate,200222CA31289,2002,Worcestershire,39
+EnteringRightCarPrivate,200222FA26518,2002,Shropshire,35
+EnteringRightCarPrivate,200222GB28701,2002,Telford and Wrekin,58
+EnteringRightCarPrivate,2.00223E+12,2002,Warwickshire,
+EnteringRightCarPrivate,2.00223E+12,2002,Warwickshire,32
+EnteringRightCarPrivate,2.00223E+12,2002,Warwickshire,50
+EnteringRightCarPrivate,2.00223E+12,2002,Warwickshire,13
+EnteringRightCarPrivate,200230D000021,2002,Derbyshire,22
+EnteringRightCarPrivate,200230D000036,2002,Derbyshire,65
+EnteringRightCarPrivate,200230D000505,2002,Derbyshire,31
+EnteringRightCarPrivate,20023102D1169,2002,Nottinghamshire,
+EnteringRightCarPrivate,20023108C0464,2002,Nottingham,31
+EnteringRightCarPrivate,200232B179402,2002,Lincolnshire,23
+EnteringRightCarPrivate,2.00233E+12,2002,Leicestershire,13
+EnteringRightCarPrivate,2.00233E+12,2002,Leicestershire,33
+EnteringRightCarPrivate,2.00233E+12,2002,Leicestershire,18
+EnteringRightCarPrivate,2.00233E+12,2002,Leicestershire,32
+EnteringRightCarPrivate,200234NN02127,2002,Northamptonshire,38
+EnteringRightCarPrivate,200234NN02234,2002,Northamptonshire,10
+EnteringRightCarPrivate,2.00235E+12,2002,Cambridgeshire,27
+EnteringRightCarPrivate,2.00235E+12,2002,Peterborough,47
+EnteringRightCarPrivate,2.00235E+12,2002,Cambridgeshire,38
+EnteringRightCarPrivate,2.00235E+12,2002,Peterborough,59
+EnteringRightCarPrivate,2.00236E+12,2002,Norfolk,34
+EnteringRightCarPrivate,200236N020310,2002,Norfolk,47
+EnteringRightCarPrivate,200236N020750,2002,Norfolk,33
+EnteringRightCarPrivate,200236T020197,2002,Norfolk,21
+EnteringRightCarPrivate,200237L008047,2002,Suffolk,39
+EnteringRightCarPrivate,2002400D03102,2002,Central Bedfordshire,11
+EnteringRightCarPrivate,20024100B0452,2002,Hertfordshire,8
+EnteringRightCarPrivate,20024100C0177,2002,Hertfordshire,40
+EnteringRightCarPrivate,20024100D0105,2002,Hertfordshire,46
+EnteringRightCarPrivate,20024100K0894,2002,Hertfordshire,28
+EnteringRightCarPrivate,20024200B0125,2002,Essex,52
+EnteringRightCarPrivate,200243N058022,2002,Buckinghamshire,15
+EnteringRightCarPrivate,200243N061112,2002,Buckinghamshire,24
+EnteringRightCarPrivate,200243N076112,2002,Buckinghamshire,30
+EnteringRightCarPrivate,200243N257012,2002,Buckinghamshire,38
+EnteringRightCarPrivate,200243N266022,2002,Buckinghamshire,18
+EnteringRightCarPrivate,200243N300072,2002,Buckinghamshire,43
+EnteringRightCarPrivate,200243P130042,2002,Oxfordshire,33
+EnteringRightCarPrivate,200243W072072,2002,Reading,30
+EnteringRightCarPrivate,200243W433062,2002,West Berkshire,12
+EnteringRightCarPrivate,200243W529042,2002,Reading,38
+EnteringRightCarPrivate,200243W567062,2002,Windsor and Maidenhead,73
+EnteringRightCarPrivate,200243W661112,2002,Windsor and Maidenhead,60
+EnteringRightCarPrivate,200243W663012,2002,Slough,60
+EnteringRightCarPrivate,2002440JH0583,2002,Hampshire,10
+EnteringRightCarPrivate,2002440LH0453,2002,Hampshire,29
+EnteringRightCarPrivate,2002440OL1840,2002,Hampshire,41
+EnteringRightCarPrivate,200246SK68665,2002,Kent,36
+EnteringRightCarPrivate,200247K151056,2002,East Sussex,33
+EnteringRightCarPrivate,200247K151263,2002,East Sussex,80
+EnteringRightCarPrivate,200247K156176,2002,Brighton and Hove,77
+EnteringRightCarPrivate,200247N147894,2002,West Sussex,38
+EnteringRightCarPrivate,200250B714262,2002,Cornwall and Isles of Scilly,29
+EnteringRightCarPrivate,200250C214049,2002,Devon,39
+EnteringRightCarPrivate,200250E310192,2002,Plymouth,24
+EnteringRightCarPrivate,200250F312294,2002,Torbay,14
+EnteringRightCarPrivate,200250F511747,2002,Devon,34
+EnteringRightCarPrivate,2.00252E+12,2002,City of Bristol,30
+EnteringRightCarPrivate,2.00252E+12,2002,City of Bristol,52
+EnteringRightCarPrivate,2.00252E+12,2002,City of Bristol,44
+EnteringRightCarPrivate,2002530AI2434,2002,Gloucestershire,
+EnteringRightCarPrivate,2002530AI3560,2002,Gloucestershire,35
+EnteringRightCarPrivate,2002530AI4081,2002,Gloucestershire,58
+EnteringRightCarPrivate,200254AH51902,2002,Wiltshire,30
+EnteringRightCarPrivate,2002550P04902,2002,Poole,
+EnteringRightCarPrivate,2002552W01202,2002,Dorset,12
+EnteringRightCarPrivate,200301BS00618,2003,London,49
+EnteringRightCarPrivate,200301DM00454,2003,London,26
+EnteringRightCarPrivate,200301DM01436,2003,London,46
+EnteringRightCarPrivate,200301EO00984,2003,London,12
+EnteringRightCarPrivate,200301EO01010,2003,London,34
+EnteringRightCarPrivate,200301EO01262,2003,London,25
+EnteringRightCarPrivate,200301EO01894,2003,London,32
+EnteringRightCarPrivate,200301FH00483,2003,London,
+EnteringRightCarPrivate,200301FH00730,2003,London,26
+EnteringRightCarPrivate,200301GD00574,2003,London,33
+EnteringRightCarPrivate,200301HT00654,2003,London,25
+EnteringRightCarPrivate,200301JC00271,2003,London,40
+EnteringRightCarPrivate,200301KD00141,2003,London,18
+EnteringRightCarPrivate,200301LX01526,2003,London,
+EnteringRightCarPrivate,200301MM00345,2003,London,29
+EnteringRightCarPrivate,200301PY00235,2003,London,36
+EnteringRightCarPrivate,200301PY00332,2003,London,30
+EnteringRightCarPrivate,200301QK00948,2003,London,30
+EnteringRightCarPrivate,200301RG00116,2003,London,24
+EnteringRightCarPrivate,200301RG00761,2003,London,36
+EnteringRightCarPrivate,200301RG00802,2003,London,21
+EnteringRightCarPrivate,200301TA00181,2003,London,33
+EnteringRightCarPrivate,200301TX00321,2003,London,23
+EnteringRightCarPrivate,200301VK00326,2003,London,53
+EnteringRightCarPrivate,200301VW00485,2003,London,35
+EnteringRightCarPrivate,200301WW00256,2003,London,36
+EnteringRightCarPrivate,200301WW00498,2003,London,32
+EnteringRightCarPrivate,200301WW00615,2003,London,38
+EnteringRightCarPrivate,200301XH00872,2003,London,
+EnteringRightCarPrivate,200301XS00282,2003,London,22
+EnteringRightCarPrivate,200301XS00693,2003,London,59
+EnteringRightCarPrivate,200301YF00509,2003,London,24
+EnteringRightCarPrivate,200301YR00073,2003,London,26
+EnteringRightCarPrivate,200301ZD00767,2003,London,18
+EnteringRightCarPrivate,200301ZT00095,2003,London,18
+EnteringRightCarPrivate,2.00303E+12,2003,Cumbria,44
+EnteringRightCarPrivate,2.00303E+12,2003,Cumbria,39
+EnteringRightCarPrivate,200304B044003,2003,Lancashire,
+EnteringRightCarPrivate,200304C007103,2003,Lancashire,20
+EnteringRightCarPrivate,200304D068103,2003,Lancashire,71
+EnteringRightCarPrivate,200304E007203,2003,Blackburn with Darwen,20
+EnteringRightCarPrivate,200304E071803,2003,Blackburn with Darwen,49
+EnteringRightCarPrivate,200305ET02280,2003,Merseyside,15
+EnteringRightCarPrivate,200306C022124,2003,Manchester,40
+EnteringRightCarPrivate,200306J013558,2003,Stockport,48
+EnteringRightCarPrivate,200306Q011449,2003,Oldham,51
+EnteringRightCarPrivate,200306Q012302,2003,Oldham,34
+EnteringRightCarPrivate,2.0031E+12,2003,South Tyneside,12
+EnteringRightCarPrivate,2.0031E+12,2003,Newcastle upon Tyne,20
+EnteringRightCarPrivate,200311BE13590,2003,Durham,30
+EnteringRightCarPrivate,2.00312E+12,2003,York,20
+EnteringRightCarPrivate,2.00313E+12,2003,Leeds,36
+EnteringRightCarPrivate,2.00313E+12,2003,Leeds,28
+EnteringRightCarPrivate,2.00313E+12,2003,Kirklees,40
+EnteringRightCarPrivate,2.00313E+12,2003,Leeds,44
+EnteringRightCarPrivate,200316D012603,2003,Kingston Upon Hull,58
+EnteringRightCarPrivate,200316D045603,2003,Kingston Upon Hull,33
+EnteringRightCarPrivate,200316D063503,2003,Kingston Upon Hull,27
+EnteringRightCarPrivate,2003170L32343,2003,Redcar and Cleveland,46
+EnteringRightCarPrivate,200320D083203,2003,Birmingham,26
+EnteringRightCarPrivate,200320D438702,2003,Birmingham,23
+EnteringRightCarPrivate,200320J053902,2003,Dudley,39
+EnteringRightCarPrivate,200320L068601,2003,Solihull,38
+EnteringRightCarPrivate,200320L206801,2003,Solihull,40
+EnteringRightCarPrivate,200320M023302,2003,Coventry,24
+EnteringRightCarPrivate,200320M024201,2003,Coventry,33
+EnteringRightCarPrivate,200320M072402,2003,Coventry,40
+EnteringRightCarPrivate,200320M105203,2003,Coventry,28
+EnteringRightCarPrivate,2.00321E+12,2003,Stoke on Trent,12
+EnteringRightCarPrivate,2.00321E+12,2003,Stoke on Trent,26
+EnteringRightCarPrivate,2.00321E+12,2003,Staffordshire,37
+EnteringRightCarPrivate,2.00321E+12,2003,Staffordshire,17
+EnteringRightCarPrivate,2.00321E+12,2003,Staffordshire,26
+EnteringRightCarPrivate,2.00323E+12,2003,Warwickshire,37
+EnteringRightCarPrivate,2.00323E+12,2003,Warwickshire,26
+EnteringRightCarPrivate,2.00323E+12,2003,Warwickshire,43
+EnteringRightCarPrivate,200330B000326,2003,Derbyshire,14
+EnteringRightCarPrivate,200330B000627,2003,Derbyshire,31
+EnteringRightCarPrivate,200330B000632,2003,Derbyshire,15
+EnteringRightCarPrivate,200330C000600,2003,Derbyshire,21
+EnteringRightCarPrivate,200330D000119,2003,Derby,20
+EnteringRightCarPrivate,200330D000332,2003,Derby,22
+EnteringRightCarPrivate,200330D000913,2003,Derbyshire,12
+EnteringRightCarPrivate,20033102A0383,2003,Nottinghamshire,23
+EnteringRightCarPrivate,20033102C8706,2003,Nottingham,49
+EnteringRightCarPrivate,20033102D0577,2003,Nottinghamshire,47
+EnteringRightCarPrivate,200332C084303,2003,Lincolnshire,27
+EnteringRightCarPrivate,200332D066403,2003,Lincolnshire,50
+EnteringRightCarPrivate,200332D070903,2003,Lincolnshire,47
+EnteringRightCarPrivate,2.00333E+12,2003,Leicestershire,34
+EnteringRightCarPrivate,2.00333E+12,2003,Leicestershire,30
+EnteringRightCarPrivate,2.00333E+12,2003,Leicestershire,73
+EnteringRightCarPrivate,2.00333E+12,2003,Leicestershire,
+EnteringRightCarPrivate,200334NN00225,2003,Northamptonshire,65
+EnteringRightCarPrivate,2.00335E+12,2003,Cambridgeshire,41
+EnteringRightCarPrivate,2.00335E+12,2003,Cambridgeshire,27
+EnteringRightCarPrivate,2.00335E+12,2003,Cambridgeshire,36
+EnteringRightCarPrivate,2.00335E+12,2003,Cambridgeshire,34
+EnteringRightCarPrivate,2.00335E+12,2003,Peterborough,
+EnteringRightCarPrivate,2.00335E+12,2003,Peterborough,40
+EnteringRightCarPrivate,2.00335E+12,2003,Cambridgeshire,43
+EnteringRightCarPrivate,2.00335E+12,2003,Cambridgeshire,31
+EnteringRightCarPrivate,2.00336E+12,2003,Norfolk,52
+EnteringRightCarPrivate,2.00336E+12,2003,Norfolk,52
+EnteringRightCarPrivate,2.00336E+12,2003,Norfolk,55
+EnteringRightCarPrivate,200336T030252,2003,Norfolk,41
+EnteringRightCarPrivate,200337B017514,2003,Suffolk,12
+EnteringRightCarPrivate,200337G012285,2003,Suffolk,41
+EnteringRightCarPrivate,200337G013472,2003,Suffolk,49
+EnteringRightCarPrivate,20034100B0299,2003,Hertfordshire,60
+EnteringRightCarPrivate,20034100B0628,2003,Hertfordshire,44
+EnteringRightCarPrivate,20034100D1270,2003,Hertfordshire,83
+EnteringRightCarPrivate,20034100F4133,2003,Hertfordshire,38
+EnteringRightCarPrivate,20034100G0720,2003,Hertfordshire,30
+EnteringRightCarPrivate,20034200C0700,2003,Essex,37
+EnteringRightCarPrivate,20034200D0216,2003,Essex,75
+EnteringRightCarPrivate,200343N183103,2003,Buckinghamshire,13
+EnteringRightCarPrivate,200343N262023,2003,Buckinghamshire,54
+EnteringRightCarPrivate,200343N338053,2003,Buckinghamshire,16
+EnteringRightCarPrivate,200343P378043,2003,Oxfordshire,38
+EnteringRightCarPrivate,200343P583103,2003,West Berkshire,17
+EnteringRightCarPrivate,200343W182113,2003,Windsor and Maidenhead,43
+EnteringRightCarPrivate,200343W518093,2003,Reading,35
+EnteringRightCarPrivate,2003440HF0662,2003,Hampshire,50
+EnteringRightCarPrivate,2003440HP0543,2003,Hampshire,34
+EnteringRightCarPrivate,2003440LA0666,2003,Hampshire,16
+EnteringRightCarPrivate,200345RE46968,2003,Surrey,37
+EnteringRightCarPrivate,200345RS32976,2003,Surrey,22
+EnteringRightCarPrivate,200346CT86657,2003,Kent,29
+EnteringRightCarPrivate,200347K166942,2003,West Sussex,22
+EnteringRightCarPrivate,2.00352E+12,2003,South Gloucestershire,32
+EnteringRightCarPrivate,2.00352E+12,2003,City of Bristol,20
+EnteringRightCarPrivate,2.00352E+12,2003,Bath and North East Somerset,27
+EnteringRightCarPrivate,2.00352E+12,2003,City of Bristol,20
+EnteringRightCarPrivate,2.00352E+12,2003,Somerset,52
+EnteringRightCarPrivate,2003530AI1813,2003,Gloucestershire,38
+EnteringRightCarPrivate,2003530AI4003,2003,Gloucestershire,35
+EnteringRightCarPrivate,2003550B05920,2003,Bournemouth,
+EnteringRightCarPrivate,2.00E+167,2003,Dorset,7
+EnteringRightCarPrivate,2003553E02837,2003,Dorset,69
+EnteringRightCarPrivate,200401EO00033,2004,London,34
+EnteringRightCarPrivate,200401EO00055,2004,London,57
+EnteringRightCarPrivate,200401EO00074,2004,London,25
+EnteringRightCarPrivate,200401EO00119,2004,London,26
+EnteringRightCarPrivate,200401EO00304,2004,London,28
+EnteringRightCarPrivate,200401EO00881,2004,London,36
+EnteringRightCarPrivate,200401EO01091,2004,London,34
+EnteringRightCarPrivate,200401GD00291,2004,London,
+EnteringRightCarPrivate,200401HT00612,2004,London,33
+EnteringRightCarPrivate,200401HT00703,2004,London,34
+EnteringRightCarPrivate,200401PY20442,2004,London,30
+EnteringRightCarPrivate,200401QA00430,2004,London,23
+EnteringRightCarPrivate,200401RG40401,2004,London,61
+EnteringRightCarPrivate,200401TE00415,2004,London,19
+EnteringRightCarPrivate,200401TW00245,2004,London,33
+EnteringRightCarPrivate,200401TX00291,2004,London,42
+EnteringRightCarPrivate,200401VK00086,2004,London,40
+EnteringRightCarPrivate,200401VK00188,2004,London,28
+EnteringRightCarPrivate,200401WW00421,2004,London,44
+EnteringRightCarPrivate,200401WW00494,2004,London,28
+EnteringRightCarPrivate,200401ZD00264,2004,London,28
+EnteringRightCarPrivate,200401ZD30042,2004,London,33
+EnteringRightCarPrivate,200404C085404,2004,Lancashire,33
+EnteringRightCarPrivate,200405ET01158,2004,Merseyside,56
+EnteringRightCarPrivate,200406C025107,2004,Manchester,38
+EnteringRightCarPrivate,200406K915349,2004,Bolton,16
+EnteringRightCarPrivate,2.0041E+12,2004,Northumberland,13
+EnteringRightCarPrivate,200414AA00352,2004,Doncaster,43
+EnteringRightCarPrivate,2004160A02780,2004,North East Lincolnshire,10
+EnteringRightCarPrivate,2004160B03190,2004,North Lincolnshire,43
+EnteringRightCarPrivate,2004160C08670,2004,East Riding of Yorkshire,77
+EnteringRightCarPrivate,2004160D00110,2004,Kingston Upon Hull,17
+EnteringRightCarPrivate,2004160D04780,2004,Kingston Upon Hull,14
+EnteringRightCarPrivate,2004160D07190,2004,Kingston Upon Hull,18
+EnteringRightCarPrivate,2004170S42194,2004,Stockton on Tees,50
+EnteringRightCarPrivate,200420D174102,2004,Birmingham,30
+EnteringRightCarPrivate,200420D387402,2004,Birmingham,13
+EnteringRightCarPrivate,200420G012602,2004,Wolverhampton,38
+EnteringRightCarPrivate,200420G019102,2004,Wolverhampton,39
+EnteringRightCarPrivate,200420G039801,2004,Wolverhampton,38
+EnteringRightCarPrivate,200420H027301,2004,Walsall,40
+EnteringRightCarPrivate,200420J093702,2004,Dudley,32
+EnteringRightCarPrivate,200420M021301,2004,Coventry,22
+EnteringRightCarPrivate,200420M076001,2004,Coventry,36
+EnteringRightCarPrivate,2.00421E+12,2004,Stoke on Trent,33
+EnteringRightCarPrivate,2.00421E+12,2004,Stoke on Trent,18
+EnteringRightCarPrivate,2.00421E+12,2004,Staffordshire,15
+EnteringRightCarPrivate,2.00421E+12,2004,Staffordshire,47
+EnteringRightCarPrivate,2.00421E+12,2004,Staffordshire,35
+EnteringRightCarPrivate,2.00421E+12,2004,Staffordshire,55
+EnteringRightCarPrivate,2.00421E+12,2004,Staffordshire,10
+EnteringRightCarPrivate,2.00421E+12,2004,Staffordshire,11
+EnteringRightCarPrivate,2.00421E+12,2004,Staffordshire,16
+EnteringRightCarPrivate,200422CC45090,2004,Shropshire,29
+EnteringRightCarPrivate,2.00423E+12,2004,Warwickshire,15
+EnteringRightCarPrivate,2.00423E+12,2004,Warwickshire,17
+EnteringRightCarPrivate,2.00423E+12,2004,Warwickshire,28
+EnteringRightCarPrivate,2.00423E+12,2004,Warwickshire,69
+EnteringRightCarPrivate,2.00423E+12,2004,Warwickshire,33
+EnteringRightCarPrivate,200430A000469,2004,Derbyshire,14
+EnteringRightCarPrivate,200430A000571,2004,Derbyshire,11
+EnteringRightCarPrivate,200430B000478,2004,Derbyshire,41
+EnteringRightCarPrivate,200430C000338,2004,Derbyshire,11
+EnteringRightCarPrivate,200430D000288,2004,Derby,11
+EnteringRightCarPrivate,200430D000618,2004,Derby,44
+EnteringRightCarPrivate,200430D000687,2004,Derby,33
+EnteringRightCarPrivate,20043102A2368,2004,Nottinghamshire,17
+EnteringRightCarPrivate,20043102A3805,2004,Nottinghamshire,23
+EnteringRightCarPrivate,20043108C3916,2004,Nottingham,34
+EnteringRightCarPrivate,20043108C3958,2004,Nottingham,39
+EnteringRightCarPrivate,20043108D0845,2004,Nottinghamshire,
+EnteringRightCarPrivate,20043108D4955,2004,Nottinghamshire,75
+EnteringRightCarPrivate,200432B000704,2004,Lincolnshire,42
+EnteringRightCarPrivate,2.00433E+12,2004,Leicestershire,40
+EnteringRightCarPrivate,2.00433E+12,2004,Leicestershire,68
+EnteringRightCarPrivate,2.00433E+12,2004,Leicestershire,15
+EnteringRightCarPrivate,2.00433E+12,2004,Leicestershire,11
+EnteringRightCarPrivate,200434NN04576,2004,Northamptonshire,14
+EnteringRightCarPrivate,200434NN06696,2004,Northamptonshire,34
+EnteringRightCarPrivate,2.00435E+12,2004,Peterborough,
+EnteringRightCarPrivate,2.00435E+12,2004,Cambridgeshire,16
+EnteringRightCarPrivate,2.00435E+12,2004,Cambridgeshire,20
+EnteringRightCarPrivate,2.00436E+12,2004,Norfolk,72
+EnteringRightCarPrivate,2.00436E+12,2004,Norfolk,39
+EnteringRightCarPrivate,2.00436E+12,2004,Norfolk,12
+EnteringRightCarPrivate,2.00436E+12,2004,Norfolk,24
+EnteringRightCarPrivate,200436T040145,2004,Norfolk,54
+EnteringRightCarPrivate,200437B020459,2004,Suffolk,32
+EnteringRightCarPrivate,200437B020689,2004,Suffolk,36
+EnteringRightCarPrivate,200437L010579,2004,Suffolk,18
+EnteringRightCarPrivate,2004400D02083,2004,Central Bedfordshire,61
+EnteringRightCarPrivate,2004400D02873,2004,Central Bedfordshire,17
+EnteringRightCarPrivate,20044100A0817,2004,Hertfordshire,38
+EnteringRightCarPrivate,20044100F4890,2004,Hertfordshire,29
+EnteringRightCarPrivate,20044100F5016,2004,Hertfordshire,42
+EnteringRightCarPrivate,20044100J2877,2004,Hertfordshire,30
+EnteringRightCarPrivate,20044200J0367,2004,Essex,23
+EnteringRightCarPrivate,200443N051014,2004,Buckinghamshire,13
+EnteringRightCarPrivate,200443N125094,2004,Buckinghamshire,26
+EnteringRightCarPrivate,200443N325114,2004,Buckinghamshire,23
+EnteringRightCarPrivate,200443P034064,2004,Oxfordshire,34
+EnteringRightCarPrivate,200443P173084,2004,Oxfordshire,23
+EnteringRightCarPrivate,200443W064084,2004,Windsor and Maidenhead,49
+EnteringRightCarPrivate,200443W365054,2004,Wokingham,30
+EnteringRightCarPrivate,2004440BB0090,2004,Hampshire,49
+EnteringRightCarPrivate,2004440DH0170,2004,Hampshire,13
+EnteringRightCarPrivate,2004440GG0106,2004,Hampshire,60
+EnteringRightCarPrivate,2004440HG0669,2004,Hampshire,42
+EnteringRightCarPrivate,2004440KK0027,2004,Portsmouth,53
+EnteringRightCarPrivate,2004440OC1117,2004,Hampshire,10
+EnteringRightCarPrivate,2004440SC0532,2004,Southampton ,14
+EnteringRightCarPrivate,2004440ST0247,2004,Southampton ,26
+EnteringRightCarPrivate,2004440WR0387,2004,Hampshire,11
+EnteringRightCarPrivate,2004440WR0392,2004,Hampshire,59
+EnteringRightCarPrivate,200445WO58708,2004,Surrey,33
+EnteringRightCarPrivate,200446SK99539,2004,Kent,35
+EnteringRightCarPrivate,200446TH01822,2004,Kent,15
+EnteringRightCarPrivate,200446WK98876,2004,Kent,16
+EnteringRightCarPrivate,200447K179674,2004,West Sussex,39
+EnteringRightCarPrivate,2.00452E+12,2004,South Gloucestershire,33
+EnteringRightCarPrivate,2.00452E+12,2004,City of Bristol,34
+EnteringRightCarPrivate,2.00452E+12,2004,South Gloucestershire,41
+EnteringRightCarPrivate,2.00452E+12,2004,City of Bristol,54
+EnteringRightCarPrivate,2.00452E+12,2004,City of Bristol,40
+EnteringRightCarPrivate,2.00452E+12,2004,City of Bristol,50
+EnteringRightCarPrivate,2004530AI0238,2004,Gloucestershire,16
+EnteringRightCarPrivate,2004530AI0768,2004,Gloucestershire,36
+EnteringRightCarPrivate,2004530AI3323,2004,Gloucestershire,35
+EnteringRightCarPrivate,2004530AI4050,2004,Gloucestershire,59
+EnteringRightCarPrivate,2004530AI4513,2004,Gloucestershire,41
+EnteringRightCarPrivate,2004550B05327,2004,Bournemouth,21
+EnteringRightCarPrivate,2004554E01013,2004,Dorset,53
+EnteringRightCarPrivate,200501CW11058,2005,London,28
+EnteringRightCarPrivate,200501EO40304,2005,London,35
+EnteringRightCarPrivate,200501EO40574,2005,London,35
+EnteringRightCarPrivate,200501JI40921,2005,London,17
+EnteringRightCarPrivate,200501KF60281,2005,London,
+EnteringRightCarPrivate,200501LX51272,2005,London,26
+EnteringRightCarPrivate,200501MM71237,2005,London,
+EnteringRightCarPrivate,200501QA10327,2005,London,27
+EnteringRightCarPrivate,200501RG40548,2005,London,54
+EnteringRightCarPrivate,200501SX20385,2005,London,
+EnteringRightCarPrivate,200501TX20088,2005,London,39
+EnteringRightCarPrivate,200501TX20127,2005,London,28
+EnteringRightCarPrivate,200501TX20279,2005,London,10
+EnteringRightCarPrivate,200501VW40265,2005,London,33
+EnteringRightCarPrivate,200501WW50540,2005,London,
+EnteringRightCarPrivate,200501XH30027,2005,London,32
+EnteringRightCarPrivate,200501XH30056,2005,London,
+EnteringRightCarPrivate,200501YE80697,2005,London,13
+EnteringRightCarPrivate,200504C017005,2005,Lancashire,43
+EnteringRightCarPrivate,2.00513E+12,2005,Bradford,34
+EnteringRightCarPrivate,2005160A00170,2005,North East Lincolnshire,17
+EnteringRightCarPrivate,2005160A04000,2005,North East Lincolnshire,67
+EnteringRightCarPrivate,200520D095403,2005,Birmingham,14
+EnteringRightCarPrivate,200520D515102,2005,Birmingham,
+EnteringRightCarPrivate,200520E223001,2005,Birmingham,15
+EnteringRightCarPrivate,200520G054202,2005,Wolverhampton,49
+EnteringRightCarPrivate,200520H026001,2005,Walsall,17
+EnteringRightCarPrivate,200520J082102,2005,Dudley,12
+EnteringRightCarPrivate,200520K045301,2005,Sandwell,48
+EnteringRightCarPrivate,200520K067202,2005,Sandwell,22
+EnteringRightCarPrivate,200520L059901,2005,Solihull,36
+EnteringRightCarPrivate,200520M006102,2005,Coventry,56
+EnteringRightCarPrivate,2.00522E+12,2005,Stoke on Trent,31
+EnteringRightCarPrivate,2.00522E+12,2005,Staffordshire,31
+EnteringRightCarPrivate,2.00522E+12,2005,Staffordshire,14
+EnteringRightCarPrivate,2.00522E+12,2005,Staffordshire,60
+EnteringRightCarPrivate,200522FC46797,2005,Shropshire,35
+EnteringRightCarPrivate,2.00523E+12,2005,Warwickshire,42
+EnteringRightCarPrivate,200530A000172,2005,Derbyshire,34
+EnteringRightCarPrivate,200530B000294,2005,Derbyshire,25
+EnteringRightCarPrivate,200530C000278,2005,Derbyshire,12
+EnteringRightCarPrivate,20053102A1387,2005,Nottinghamshire,9
+EnteringRightCarPrivate,20053102A1984,2005,Nottinghamshire,6
+EnteringRightCarPrivate,20053102C1617,2005,Nottingham,20
+EnteringRightCarPrivate,200532B076405,2005,Lincolnshire,33
+EnteringRightCarPrivate,2.00535E+12,2005,Cambridgeshire,
+EnteringRightCarPrivate,2.00535E+12,2005,Cambridgeshire,50
+EnteringRightCarPrivate,2.00535E+12,2005,Cambridgeshire,30
+EnteringRightCarPrivate,200536T050048,2005,Norfolk,58
+EnteringRightCarPrivate,200537L011898,2005,Suffolk,23
+EnteringRightCarPrivate,20054100G0009,2005,Hertfordshire,66
+EnteringRightCarPrivate,20054100K0673,2005,Hertfordshire,17
+EnteringRightCarPrivate,200542J042710,2005,Essex,16
+EnteringRightCarPrivate,200543N215055,2005,Buckinghamshire,32
+EnteringRightCarPrivate,200543P468115,2005,Oxfordshire,62
+EnteringRightCarPrivate,200543S042075,2005,Milton Keynes,30
+EnteringRightCarPrivate,200543W072055,2005,Windsor and Maidenhead,44
+EnteringRightCarPrivate,2.00544E+12,2005,Hampshire,11
+EnteringRightCarPrivate,2.00544E+12,2005,Hampshire,12
+EnteringRightCarPrivate,2005445AA0331,2005,Hampshire,59
+EnteringRightCarPrivate,200545MO69655,2005,Surrey,40
+EnteringRightCarPrivate,200545SP73788,2005,Surrey,42
+EnteringRightCarPrivate,2.00546E+12,2005,Kent,36
+EnteringRightCarPrivate,2.00552E+12,2005,City of Bristol,56
+EnteringRightCarPrivate,2.00552E+12,2005,Somerset,48
+EnteringRightCarPrivate,2.00552E+12,2005,City of Bristol,13
+EnteringRightCarPrivate,2.00552E+12,2005,City of Bristol,30
+EnteringRightCarPrivate,2.00552E+12,2005,South Gloucestershire,21
+EnteringRightCarPrivate,2.00552E+12,2005,Somerset,38
+EnteringRightCarPrivate,2.00553E+12,2005,Gloucestershire,15
+EnteringRightCarPrivate,2.00553E+12,2005,Gloucestershire,47
+EnteringRightCarPrivate,2.00553E+12,2005,Gloucestershire,40
+EnteringRightCarPrivate,2005555B03469,2005,Bournemouth,7
+EnteringRightCarPrivate,200601EO41083,2006,London,34
+EnteringRightCarPrivate,200601JC30416,2006,London,31
+EnteringRightCarPrivate,200601JC30606,2006,London,24
+EnteringRightCarPrivate,200601KD50044,2006,London,6
+EnteringRightCarPrivate,200601LX50081,2006,London,33
+EnteringRightCarPrivate,200601PL60156,2006,London,37
+EnteringRightCarPrivate,200601PY20052,2006,London,35
+EnteringRightCarPrivate,200601PY20493,2006,London,25
+EnteringRightCarPrivate,200601PY20716,2006,London,78
+EnteringRightCarPrivate,200601QA10430,2006,London,43
+EnteringRightCarPrivate,200601QK50026,2006,London,26
+EnteringRightCarPrivate,200601RG40538,2006,London,27
+EnteringRightCarPrivate,200601RG40716,2006,London,33
+EnteringRightCarPrivate,200601RY10133,2006,London,17
+EnteringRightCarPrivate,200601VW40149,2006,London,15
+EnteringRightCarPrivate,200601WW50367,2006,London,33
+EnteringRightCarPrivate,200601WW50645,2006,London,48
+EnteringRightCarPrivate,200601XH30440,2006,London,40
+EnteringRightCarPrivate,200601YR90056,2006,London,16
+EnteringRightCarPrivate,200601YR90601,2006,London,
+EnteringRightCarPrivate,200601YR90754,2006,London,27
+EnteringRightCarPrivate,200601YR90802,2006,London,36
+EnteringRightCarPrivate,200601ZT80246,2006,London,16
+EnteringRightCarPrivate,2.00603E+12,2006,Cumbria,42
+EnteringRightCarPrivate,200606B060159,2006,Manchester,34
+EnteringRightCarPrivate,2.0061E+12,2006,South Tyneside,46
+EnteringRightCarPrivate,2.0061E+12,2006,Newcastle upon Tyne,30
+EnteringRightCarPrivate,200611BD18350,2006,Durham,58
+EnteringRightCarPrivate,2.00612E+12,2006,North Yorkshire,74
+EnteringRightCarPrivate,2.00613E+12,2006,Kirklees,20
+EnteringRightCarPrivate,2006160B01050,2006,North Lincolnshire,50
+EnteringRightCarPrivate,2006160D07220,2006,Kingston Upon Hull,58
+EnteringRightCarPrivate,2006170H10136,2006,Hartlepool,41
+EnteringRightCarPrivate,2006170S42236,2006,Stockton on Tees,30
+EnteringRightCarPrivate,200620D073502,2006,Birmingham,23
+EnteringRightCarPrivate,200620D147902,2006,Birmingham,60
+EnteringRightCarPrivate,200620E086501,2006,Birmingham,14
+EnteringRightCarPrivate,200620F052903,2006,Birmingham,28
+EnteringRightCarPrivate,200620H044202,2006,Walsall,17
+EnteringRightCarPrivate,200620H069502,2006,Walsall,47
+EnteringRightCarPrivate,200620J056301,2006,Dudley,12
+EnteringRightCarPrivate,200620K106701,2006,Sandwell,24
+EnteringRightCarPrivate,200620M006702,2006,Coventry,
+EnteringRightCarPrivate,2.00622E+12,2006,Staffordshire,16
+EnteringRightCarPrivate,2.00622E+12,2006,Staffordshire,31
+EnteringRightCarPrivate,2.00623E+12,2006,Warwickshire,34
+EnteringRightCarPrivate,200630A000461,2006,Derbyshire,14
+EnteringRightCarPrivate,200630C000462,2006,Derbyshire,13
+EnteringRightCarPrivate,200630D000610,2006,Derby,43
+EnteringRightCarPrivate,20063102A1687,2006,Nottinghamshire,51
+EnteringRightCarPrivate,20063102D2325,2006,Nottinghamshire,23
+EnteringRightCarPrivate,200632C003006,2006,Lincolnshire,
+EnteringRightCarPrivate,200632D403306,2006,Lincolnshire,21
+EnteringRightCarPrivate,2.00633E+12,2006,Leicestershire,35
+EnteringRightCarPrivate,2.00633E+12,2006,Leicestershire,43
+EnteringRightCarPrivate,2.00633E+12,2006,Leicestershire,
+EnteringRightCarPrivate,2.00635E+12,2006,Cambridgeshire,32
+EnteringRightCarPrivate,2.00636E+12,2006,Norfolk,31
+EnteringRightCarPrivate,20064100C0683,2006,Hertfordshire,73
+EnteringRightCarPrivate,20064100F5159,2006,Hertfordshire,37
+EnteringRightCarPrivate,20064100G0533,2006,Hertfordshire,37
+EnteringRightCarPrivate,200643N224086,2006,Buckinghamshire,37
+EnteringRightCarPrivate,200643W056066,2006,Reading,75
+EnteringRightCarPrivate,200643W209096,2006,Wokingham,
+EnteringRightCarPrivate,2.00644E+12,2006,Hampshire,50
+EnteringRightCarPrivate,2.00644E+12,2006,Hampshire,17
+EnteringRightCarPrivate,2.00644E+12,2006,Southampton ,23
+EnteringRightCarPrivate,200645RE81111,2006,Surrey,60
+EnteringRightCarPrivate,2.00646E+12,2006,Kent,
+EnteringRightCarPrivate,2.00652E+12,2006,City of Bristol,31
+EnteringRightCarPrivate,2.00652E+12,2006,City of Bristol,58
+EnteringRightCarPrivate,200654AZ08106,2006,Wiltshire,40
+EnteringRightCarPrivate,2006556E01524,2006,Dorset,25
+EnteringRightCarPrivate,200701CP00011,2007,London,
+EnteringRightCarPrivate,200701EO40213,2007,London,51
+EnteringRightCarPrivate,200701EO40524,2007,London,29
+EnteringRightCarPrivate,200701EO40812,2007,London,30
+EnteringRightCarPrivate,200701EO40850,2007,London,31
+EnteringRightCarPrivate,200701FH10549,2007,London,44
+EnteringRightCarPrivate,200701GD10350,2007,London,31
+EnteringRightCarPrivate,200701QA10177,2007,London,22
+EnteringRightCarPrivate,200701QK50175,2007,London,18
+EnteringRightCarPrivate,200701SX20645,2007,London,26
+EnteringRightCarPrivate,200701SX20656,2007,London,24
+EnteringRightCarPrivate,200701TB00063,2007,London,12
+EnteringRightCarPrivate,200701TE00074,2007,London,
+EnteringRightCarPrivate,200701TX20604,2007,London,54
+EnteringRightCarPrivate,200701VK30226,2007,London,15
+EnteringRightCarPrivate,200701WW50275,2007,London,27
+EnteringRightCarPrivate,200701WW50284,2007,London,40
+EnteringRightCarPrivate,200701WW50525,2007,London,27
+EnteringRightCarPrivate,200701XD80666,2007,London,49
+EnteringRightCarPrivate,200701XH30462,2007,London,25
+EnteringRightCarPrivate,200701XH30612,2007,London,29
+EnteringRightCarPrivate,200701YR64615,2007,London,29
+EnteringRightCarPrivate,200701ZT62128,2007,London,43
+EnteringRightCarPrivate,2.00703E+12,2007,Cumbria,41
+EnteringRightCarPrivate,200704DL07077,2007,Lancashire,46
+EnteringRightCarPrivate,200705BB20163,2007,Merseyside,34
+EnteringRightCarPrivate,200706A080823,2007,Manchester,26
+EnteringRightCarPrivate,200711DJ06820,2007,Darlington,9
+EnteringRightCarPrivate,2.00712E+12,2007,North Yorkshire,57
+EnteringRightCarPrivate,2007160D06980,2007,Kingston Upon Hull,45
+EnteringRightCarPrivate,2007160D08340,2007,Kingston Upon Hull,44
+EnteringRightCarPrivate,200720E074402,2007,Birmingham,9
+EnteringRightCarPrivate,2.00722E+12,2007,Staffordshire,13
+EnteringRightCarPrivate,2.00722E+12,2007,Staffordshire,41
+EnteringRightCarPrivate,200722CA85361,2007,Worcestershire,28
+EnteringRightCarPrivate,200722DA87169,2007,Worcestershire,14
+EnteringRightCarPrivate,2.00723E+12,2007,Warwickshire,49
+EnteringRightCarPrivate,200730C000516,2007,Derbyshire,6
+EnteringRightCarPrivate,200730D000612,2007,Derbyshire,15
+EnteringRightCarPrivate,20073102C0038,2007,Nottingham,28
+EnteringRightCarPrivate,20073102C3820,2007,Nottingham,35
+EnteringRightCarPrivate,20073102D4153,2007,Nottinghamshire,13
+EnteringRightCarPrivate,2.00733E+12,2007,Leicestershire,29
+EnteringRightCarPrivate,2.00735E+12,2007,Peterborough,
+EnteringRightCarPrivate,2.00735E+12,2007,Cambridgeshire,25
+EnteringRightCarPrivate,2.00736E+12,2007,Norfolk,60
+EnteringRightCarPrivate,2.00736E+12,2007,Norfolk,63
+EnteringRightCarPrivate,2.00736E+12,2007,Norfolk,39
+EnteringRightCarPrivate,2.00736E+12,2007,Norfolk,
+EnteringRightCarPrivate,200737B029470,2007,Suffolk,28
+EnteringRightCarPrivate,200737G021606,2007,Suffolk,14
+EnteringRightCarPrivate,20074100D0824,2007,Hertfordshire,36
+EnteringRightCarPrivate,20074100F5142,2007,Hertfordshire,34
+EnteringRightCarPrivate,20074100G0094,2007,Hertfordshire,22
+EnteringRightCarPrivate,200742I099203,2007,Essex,11
+EnteringRightCarPrivate,200742I179505,2007,Essex,19
+EnteringRightCarPrivate,200742I381809,2007,Southend on Sea,47
+EnteringRightCarPrivate,200742I409810,2007,Essex,37
+EnteringRightCarPrivate,200743N192017,2007,Buckinghamshire,30
+EnteringRightCarPrivate,200743P254117,2007,Oxfordshire,30
+EnteringRightCarPrivate,200743P354057,2007,Oxfordshire,
+EnteringRightCarPrivate,200743S103037,2007,Milton Keynes,27
+EnteringRightCarPrivate,200743W002037,2007,Reading,27
+EnteringRightCarPrivate,200743W088127,2007,Reading,29
+EnteringRightCarPrivate,2.00744E+12,2007,Southampton ,37
+EnteringRightCarPrivate,2.00744E+12,2007,Southampton ,25
+EnteringRightCarPrivate,2.00744E+12,2007,Hampshire,45
+EnteringRightCarPrivate,2.00744E+12,2007,Hampshire,74
+EnteringRightCarPrivate,2.00746E+12,2007,Medway,71
+EnteringRightCarPrivate,2.00746E+12,2007,Kent,36
+EnteringRightCarPrivate,2.00747E+12,2007,East Sussex,12
+EnteringRightCarPrivate,2.00752E+12,2007,City of Bristol,
+EnteringRightCarPrivate,2.00752E+12,2007,Somerset,36
+EnteringRightCarPrivate,2.00752E+12,2007,South Gloucestershire,41
+EnteringRightCarPrivate,2.00752E+12,2007,South Gloucestershire,9
+EnteringRightCarPrivate,2.00752E+12,2007,South Gloucestershire,37
+EnteringRightCarPrivate,2.00752E+12,2007,Somerset,39
+EnteringRightCarPrivate,200754CP01507,2007,Wiltshire,57
+EnteringRightCarPrivate,2007557B05151,2007,Bournemouth,17
+EnteringRightCarPrivate,200801BS70452,2008,London,60
+EnteringRightCarPrivate,200801CW10608,2008,London,58
+EnteringRightCarPrivate,200801CW11573,2008,London,25
+EnteringRightCarPrivate,200801CW12073,2008,London,41
+EnteringRightCarPrivate,200801HT75778,2008,London,25
+EnteringRightCarPrivate,200801LX50657,2008,London,33
+EnteringRightCarPrivate,200801LX50852,2008,London,23
+EnteringRightCarPrivate,200801LX59080,2008,London,26
+EnteringRightCarPrivate,200801PL60646,2008,London,32
+EnteringRightCarPrivate,200801PY20013,2008,London,35
+EnteringRightCarPrivate,200801QA10041,2008,London,28
+EnteringRightCarPrivate,200801QK50617,2008,London,31
+EnteringRightCarPrivate,200801RG40466,2008,London,49
+EnteringRightCarPrivate,200801SX20822,2008,London,14
+EnteringRightCarPrivate,200801TW60002,2008,London,34
+EnteringRightCarPrivate,200801TX20292,2008,London,65
+EnteringRightCarPrivate,200801VW40073,2008,London,28
+EnteringRightCarPrivate,200801VW40123,2008,London,11
+EnteringRightCarPrivate,200801VW40217,2008,London,33
+EnteringRightCarPrivate,200801WW50057,2008,London,33
+EnteringRightCarPrivate,200801WW50120,2008,London,38
+EnteringRightCarPrivate,200801WW50314,2008,London,24
+EnteringRightCarPrivate,200801WW50626,2008,London,31
+EnteringRightCarPrivate,200801XD80440,2008,London,24
+EnteringRightCarPrivate,200801XD80630,2008,London,37
+EnteringRightCarPrivate,200801YE80397,2008,London,39
+EnteringRightCarPrivate,200801YE80527,2008,London,
+EnteringRightCarPrivate,200801YR90534,2008,London,29
+EnteringRightCarPrivate,200801ZD30578,2008,London,37
+EnteringRightCarPrivate,200804AX08056,2008,Blackpool,14
+EnteringRightCarPrivate,200804DF08084,2008,Lancashire,33
+EnteringRightCarPrivate,200805BB27214,2008,Merseyside,13
+EnteringRightCarPrivate,200806B002513,2008,Manchester,57
+EnteringRightCarPrivate,200806B099572,2008,Manchester,25
+EnteringRightCarPrivate,200806F005697,2008,Salford,28
+EnteringRightCarPrivate,200806G089823,2008,Tameside,31
+EnteringRightCarPrivate,200811ND13048,2008,Durham,50
+EnteringRightCarPrivate,2.00813E+12,2008,Calderdale,30
+EnteringRightCarPrivate,2.00813E+12,2008,Leeds,24
+EnteringRightCarPrivate,200814B119608,2008,Barnsley,13
+EnteringRightCarPrivate,2008160B01210,2008,North Lincolnshire,30
+EnteringRightCarPrivate,2008160C04180,2008,East Riding of Yorkshire,48
+EnteringRightCarPrivate,2008160D03000,2008,Kingston Upon Hull,11
+EnteringRightCarPrivate,200820F241003,2008,Birmingham,25
+EnteringRightCarPrivate,200820H029502,2008,Walsall,42
+EnteringRightCarPrivate,200820J008401,2008,Dudley,13
+EnteringRightCarPrivate,200820J008802,2008,Dudley,44
+EnteringRightCarPrivate,200820L131501,2008,Solihull,49
+EnteringRightCarPrivate,200820L181601,2008,Solihull,48
+EnteringRightCarPrivate,200820M045602,2008,Coventry,83
+EnteringRightCarPrivate,2.00822E+12,2008,Staffordshire,10
+EnteringRightCarPrivate,2.00823E+12,2008,Warwickshire,27
+EnteringRightCarPrivate,2.00823E+12,2008,Warwickshire,43
+EnteringRightCarPrivate,2.00823E+12,2008,Warwickshire,30
+EnteringRightCarPrivate,200830D000442,2008,Derby,
+EnteringRightCarPrivate,20083102A0476,2008,Nottinghamshire,26
+EnteringRightCarPrivate,20083102A0536,2008,Nottinghamshire,11
+EnteringRightCarPrivate,2.00833E+12,2008,Leicestershire,49
+EnteringRightCarPrivate,200834NC02558,2008,Northamptonshire,53
+EnteringRightCarPrivate,2.00835E+12,2008,Cambridgeshire,24
+EnteringRightCarPrivate,2.00835E+12,2008,Cambridgeshire,27
+EnteringRightCarPrivate,2.00835E+12,2008,Cambridgeshire,72
+EnteringRightCarPrivate,200837B030155,2008,Suffolk,30
+EnteringRightCarPrivate,2008400C01076,2008,Luton,29
+EnteringRightCarPrivate,2008400C02099,2008,Luton,18
+EnteringRightCarPrivate,2008400D02186,2008,Central Bedfordshire,15
+EnteringRightCarPrivate,20084100A0373,2008,Hertfordshire,65
+EnteringRightCarPrivate,20084100C0383,2008,Hertfordshire,44
+EnteringRightCarPrivate,20084100C0477,2008,Hertfordshire,32
+EnteringRightCarPrivate,20084100F4913,2008,Hertfordshire,50
+EnteringRightCarPrivate,20084100F5007,2008,Hertfordshire,32
+EnteringRightCarPrivate,200843P057068,2008,Oxfordshire,41
+EnteringRightCarPrivate,200843R153068,2008,Windsor and Maidenhead,39
+EnteringRightCarPrivate,200843W154088,2008,Reading,25
+EnteringRightCarPrivate,2.00844E+12,2008,Hampshire,14
+EnteringRightCarPrivate,2.00844E+12,2008,Hampshire,35
+EnteringRightCarPrivate,2.00844E+12,2008,Hampshire,30
+EnteringRightCarPrivate,200845WO20876,2008,Surrey,25
+EnteringRightCarPrivate,2.00846E+12,2008,Medway,40
+EnteringRightCarPrivate,2.00846E+12,2008,Medway,17
+EnteringRightCarPrivate,2.00846E+12,2008,Medway,14
+EnteringRightCarPrivate,2.00846E+12,2008,Kent,22
+EnteringRightCarPrivate,2.00852E+12,2008,Somerset,44
+EnteringRightCarPrivate,2.00852E+12,2008,South Gloucestershire,24
+EnteringRightCarPrivate,2.00852E+12,2008,City of Bristol,36
+EnteringRightCarPrivate,2.00853E+12,2008,Gloucestershire,20
+EnteringRightCarPrivate,200854EZ58008,2008,Wiltshire,71
+EnteringRightCarPrivate,2008558C03342,2008,Poole,32
+EnteringRightCarPrivate,2008558W01118,2008,Dorset,57
+EnteringRightCarPrivate,200901CP00036,2009,London,62
+EnteringRightCarPrivate,200901CP00093,2009,London,26
+EnteringRightCarPrivate,200901CW11214,2009,London,32
+EnteringRightCarPrivate,200901EO40590,2009,London,28
+EnteringRightCarPrivate,200901EO40618,2009,London,35
+EnteringRightCarPrivate,200901FH10052,2009,London,33
+EnteringRightCarPrivate,200901FH10059,2009,London,28
+EnteringRightCarPrivate,200901FH10294,2009,London,38
+EnteringRightCarPrivate,200901HT20203,2009,London,23
+EnteringRightCarPrivate,200901HT20296,2009,London,25
+EnteringRightCarPrivate,200901KD50262,2009,London,15
+EnteringRightCarPrivate,200901LX50983,2009,London,54
+EnteringRightCarPrivate,200901MM70515,2009,London,31
+EnteringRightCarPrivate,200901MM70551,2009,London,46
+EnteringRightCarPrivate,200901MM70732,2009,London,30
+EnteringRightCarPrivate,200901MM70911,2009,London,9
+EnteringRightCarPrivate,200901PL60013,2009,London,32
+EnteringRightCarPrivate,200901PL60252,2009,London,24
+EnteringRightCarPrivate,200901PL60310,2009,London,31
+EnteringRightCarPrivate,200901PL60325,2009,London,27
+EnteringRightCarPrivate,200901PL60466,2009,London,23
+EnteringRightCarPrivate,200901PL60512,2009,London,20
+EnteringRightCarPrivate,200901PL60533,2009,London,36
+EnteringRightCarPrivate,200901PL60564,2009,London,34
+EnteringRightCarPrivate,200901PL60796,2009,London,33
+EnteringRightCarPrivate,200901PY20455,2009,London,63
+EnteringRightCarPrivate,200901QA10337,2009,London,24
+EnteringRightCarPrivate,200901QA10338,2009,London,51
+EnteringRightCarPrivate,200901RY10210,2009,London,49
+EnteringRightCarPrivate,200901RY10316,2009,London,15
+EnteringRightCarPrivate,200901SX20458,2009,London,49
+EnteringRightCarPrivate,200901SX21128,2009,London,26
+EnteringRightCarPrivate,200901TW60278,2009,London,56
+EnteringRightCarPrivate,200901TW60359,2009,London,37
+EnteringRightCarPrivate,200901TX20009,2009,London,25
+EnteringRightCarPrivate,200901VK30170,2009,London,47
+EnteringRightCarPrivate,200901VK30247,2009,London,
+EnteringRightCarPrivate,200901VW40184,2009,London,19
+EnteringRightCarPrivate,200901WW50531,2009,London,41
+EnteringRightCarPrivate,200901WW50587,2009,London,
+EnteringRightCarPrivate,200901XD80146,2009,London,39
+EnteringRightCarPrivate,200901XD80147,2009,London,21
+EnteringRightCarPrivate,200901XD80348,2009,London,
+EnteringRightCarPrivate,200901XD80452,2009,London,34
+EnteringRightCarPrivate,200901XD80640,2009,London,36
+EnteringRightCarPrivate,200901XD80709,2009,London,19
+EnteringRightCarPrivate,200901XH30211,2009,London,16
+EnteringRightCarPrivate,200901XH30387,2009,London,56
+EnteringRightCarPrivate,200901XH30462,2009,London,11
+EnteringRightCarPrivate,200901XH30558,2009,London,3
+EnteringRightCarPrivate,200901XH30569,2009,London,58
+EnteringRightCarPrivate,200901YE80164,2009,London,32
+EnteringRightCarPrivate,200901YE80236,2009,London,36
+EnteringRightCarPrivate,200901YE80667,2009,London,18
+EnteringRightCarPrivate,200901YR90364,2009,London,18
+EnteringRightCarPrivate,200901YR90727,2009,London,66
+EnteringRightCarPrivate,200901ZT80075,2009,London,22
+EnteringRightCarPrivate,200906A015586,2009,Manchester,37
+EnteringRightCarPrivate,200906B008770,2009,Manchester,46
+EnteringRightCarPrivate,200906J016949,2009,Stockport,54
+EnteringRightCarPrivate,200906J025411,2009,Stockport,30
+EnteringRightCarPrivate,200906M013763,2009,Trafford,29
+EnteringRightCarPrivate,2.00912E+12,2009,York,61
+EnteringRightCarPrivate,2.00913E+12,2009,Leeds,43
+EnteringRightCarPrivate,2.00913E+12,2009,Kirklees,44
+EnteringRightCarPrivate,2009160B01060,2009,North Lincolnshire,67
+EnteringRightCarPrivate,2009160D04550,2009,Kingston Upon Hull,54
+EnteringRightCarPrivate,2009170M32359,2009,Middlesbrough,30
+EnteringRightCarPrivate,200920F120102,2009,Birmingham,45
+EnteringRightCarPrivate,200920F213902,2009,Birmingham,24
+EnteringRightCarPrivate,200920F238401,2009,Birmingham,21
+EnteringRightCarPrivate,200920G030302,2009,Wolverhampton,41
+EnteringRightCarPrivate,200920K067901,2009,Sandwell,43
+EnteringRightCarPrivate,200920L089701,2009,Solihull,35
+EnteringRightCarPrivate,2.00922E+12,2009,Staffordshire,54
+EnteringRightCarPrivate,2.00922E+12,2009,Staffordshire,34
+EnteringRightCarPrivate,2.00922E+12,2009,Staffordshire,58
+EnteringRightCarPrivate,2.00923E+12,2009,Warwickshire,33
+EnteringRightCarPrivate,2.00923E+12,2009,Warwickshire,40
+EnteringRightCarPrivate,20093102B0727,2009,Nottinghamshire,33
+EnteringRightCarPrivate,200932B286009,2009,Lincolnshire,27
+EnteringRightCarPrivate,2.00933E+12,2009,Leicestershire,35
+EnteringRightCarPrivate,2.00933E+12,2009,Leicestershire,24
+EnteringRightCarPrivate,2.00933E+12,2009,Leicestershire,44
+EnteringRightCarPrivate,2.00933E+12,2009,Leicestershire,16
+EnteringRightCarPrivate,200934WD26929,2009,Northamptonshire,38
+EnteringRightCarPrivate,2.00935E+12,2009,Peterborough,24
+EnteringRightCarPrivate,2.00935E+12,2009,Cambridgeshire,24
+EnteringRightCarPrivate,2.00936E+12,2009,Norfolk,21
+EnteringRightCarPrivate,2.00936E+12,2009,Norfolk,75
+EnteringRightCarPrivate,2.00936E+12,2009,Norfolk,48
+EnteringRightCarPrivate,2.00936E+12,2009,Norfolk,42
+EnteringRightCarPrivate,2.00936E+12,2009,Norfolk,44
+EnteringRightCarPrivate,2.00936E+12,2009,Norfolk,37
+EnteringRightCarPrivate,200937L016733,2009,Suffolk,34
+EnteringRightCarPrivate,2009400B01436,2009,Bedford Borough Council,56
+EnteringRightCarPrivate,2009400C03545,2009,Luton,22
+EnteringRightCarPrivate,2009400D03429,2009,Central Bedfordshire,49
+EnteringRightCarPrivate,20094100G0530,2009,Hertfordshire,35
+EnteringRightCarPrivate,20094100K0212,2009,Hertfordshire,42
+EnteringRightCarPrivate,2.00944E+12,2009,Hampshire,50
+EnteringRightCarPrivate,2.00944E+12,2009,Hampshire,12
+EnteringRightCarPrivate,2.00944E+12,2009,Hampshire,71
+EnteringRightCarPrivate,2.00944E+12,2009,Hampshire,34
+EnteringRightCarPrivate,2.00946E+12,2009,Medway,34
+EnteringRightCarPrivate,2.00952E+12,2009,City of Bristol,30
+EnteringRightCarPrivate,2.00952E+12,2009,City of Bristol,33
+EnteringRightCarPrivate,2.00952E+12,2009,South Gloucestershire,44
+EnteringRightCarPrivate,2.00952E+12,2009,North Somerset,54
+EnteringRightCarPrivate,2009559D04854,2009,Dorset,44
+EnteringRightCarPrivate,201001BS70367,2010,London,46
+EnteringRightCarPrivate,201001BS70399,2010,London,30
+EnteringRightCarPrivate,201001BS70459,2010,London,
+EnteringRightCarPrivate,201001EO40338,2010,London,33
+EnteringRightCarPrivate,201001EO40424,2010,London,28
+EnteringRightCarPrivate,201001EO40430,2010,London,41
+EnteringRightCarPrivate,201001FH10465,2010,London,
+EnteringRightCarPrivate,201001FH10537,2010,London,22
+EnteringRightCarPrivate,201001LX50676,2010,London,44
+EnteringRightCarPrivate,201001LX50942,2010,London,49
+EnteringRightCarPrivate,201001LX51057,2010,London,30
+EnteringRightCarPrivate,201001MM70935,2010,London,55
+EnteringRightCarPrivate,201001PL60575,2010,London,46
+EnteringRightCarPrivate,201001PL60756,2010,London,27
+EnteringRightCarPrivate,201001PL60829,2010,London,45
+EnteringRightCarPrivate,201001QK50585,2010,London,
+EnteringRightCarPrivate,201001QK50760,2010,London,33
+EnteringRightCarPrivate,201001SX20086,2010,London,20
+EnteringRightCarPrivate,201001TW60180,2010,London,
+EnteringRightCarPrivate,201001TW60194,2010,London,51
+EnteringRightCarPrivate,201001TW60294,2010,London,33
+EnteringRightCarPrivate,201001TW60305,2010,London,36
+EnteringRightCarPrivate,201001TW60345,2010,London,21
+EnteringRightCarPrivate,201001VK30304,2010,London,41
+EnteringRightCarPrivate,201001VW40307,2010,London,48
+EnteringRightCarPrivate,201001WW50482,2010,London,36
+EnteringRightCarPrivate,201001WW50550,2010,London,51
+EnteringRightCarPrivate,201001WW50821,2010,London,22
+EnteringRightCarPrivate,201001XD80307,2010,London,18
+EnteringRightCarPrivate,201001YE80344,2010,London,37
+EnteringRightCarPrivate,201001ZD30003,2010,London,47
+EnteringRightCarPrivate,201001ZD30790,2010,London,65
+EnteringRightCarPrivate,201001ZD30862,2010,London,19
+EnteringRightCarPrivate,201004CJ10029,2010,Lancashire,29
+EnteringRightCarPrivate,201006A037285,2010,Manchester,34
+EnteringRightCarPrivate,201006C031722,2010,Manchester,11
+EnteringRightCarPrivate,201006L029474,2010,Wigan,38
+EnteringRightCarPrivate,201006N036207,2010,Bury,34
+EnteringRightCarPrivate,2.0101E+12,2010,Newcastle upon Tyne,49
+EnteringRightCarPrivate,201011ND24780,2010,Durham,42
+EnteringRightCarPrivate,201011SJ21210,2010,Darlington,61
+EnteringRightCarPrivate,2.01012E+12,2010,North Yorkshire,50
+EnteringRightCarPrivate,2.01013E+12,2010,Bradford,51
+EnteringRightCarPrivate,201014A138610,2010,Doncaster,42
+EnteringRightCarPrivate,2010160D00491,2010,Kingston Upon Hull,41
+EnteringRightCarPrivate,2010170S12830,2010,Stockton on Tees,15
+EnteringRightCarPrivate,2010170S42660,2010,Stockton on Tees,78
+EnteringRightCarPrivate,201020D021613,2010,Birmingham,14
+EnteringRightCarPrivate,201020G005511,2010,Wolverhampton,55
+EnteringRightCarPrivate,201020L012060,2010,Solihull,48
+EnteringRightCarPrivate,201020N012890,2010,Birmingham,44
+EnteringRightCarPrivate,201020S054410,2010,Birmingham,24
+EnteringRightCarPrivate,201020T019800,2010,Birmingham,38
+EnteringRightCarPrivate,201020T022080,2010,Birmingham,18
+EnteringRightCarPrivate,201020W022380,2010,Birmingham,49
+EnteringRightCarPrivate,201022F001872,2010,Shropshire,35
+EnteringRightCarPrivate,2.01023E+12,2010,Warwickshire,27
+EnteringRightCarPrivate,2.01023E+12,2010,Warwickshire,43
+EnteringRightCarPrivate,2.01023E+12,2010,Warwickshire,52
+EnteringRightCarPrivate,201030D000080,2010,Derby,19
+EnteringRightCarPrivate,201030D000178,2010,Derby,50
+EnteringRightCarPrivate,201030D001060,2010,Derbyshire,51
+EnteringRightCarPrivate,201030D001136,2010,Derby,45
+EnteringRightCarPrivate,20103102C1158,2010,Nottingham,42
+EnteringRightCarPrivate,20103102C2547,2010,Nottingham,36
+EnteringRightCarPrivate,20103102D3249,2010,Nottinghamshire,39
+EnteringRightCarPrivate,2.01033E+12,2010,Leicestershire,25
+EnteringRightCarPrivate,2.01035E+12,2010,Cambridgeshire,
+EnteringRightCarPrivate,2.01035E+12,2010,Peterborough,51
+EnteringRightCarPrivate,2.01035E+12,2010,Cambridgeshire,43
+EnteringRightCarPrivate,2.01035E+12,2010,Cambridgeshire,28
+EnteringRightCarPrivate,2.01035E+12,2010,Cambridgeshire,32
+EnteringRightCarPrivate,201037B044673,2010,Suffolk,37
+EnteringRightCarPrivate,201037B045520,2010,Suffolk,15
+EnteringRightCarPrivate,201037G030344,2010,Suffolk,36
+EnteringRightCarPrivate,2010400B00120,2010,Bedford Borough Council,26
+EnteringRightCarPrivate,2010400B00972,2010,Bedford Borough Council,76
+EnteringRightCarPrivate,2.01E+239,2010,Hertfordshire,35
+EnteringRightCarPrivate,20104100F0666,2010,Hertfordshire,38
+EnteringRightCarPrivate,201043N122060,2010,Buckinghamshire,42
+EnteringRightCarPrivate,201043P397110,2010,Oxfordshire,22
+EnteringRightCarPrivate,201043R033090,2010,Slough,52
+EnteringRightCarPrivate,201043R235090,2010,Windsor and Maidenhead,16
+EnteringRightCarPrivate,201043W015070,2010,Reading,44
+EnteringRightCarPrivate,201043W058080,2010,Reading,26
+EnteringRightCarPrivate,201043W186090,2010,Reading,47
+EnteringRightCarPrivate,201043W225060,2010,Reading,28
+EnteringRightCarPrivate,2.01044E+12,2010,Hampshire,46
+EnteringRightCarPrivate,2.01044E+12,2010,Hampshire,58
+EnteringRightCarPrivate,2.01044E+12,2010,Hampshire,18
+EnteringRightCarPrivate,2.01044E+12,2010,Portsmouth,60
+EnteringRightCarPrivate,2.01044E+12,2010,Hampshire,28
+EnteringRightCarPrivate,2.01044E+12,2010,Hampshire,39
+EnteringRightCarPrivate,2.01046E+12,2010,Medway,46
+EnteringRightCarPrivate,201050EL2R002,2010,Plymouth,54
+EnteringRightCarPrivate,2.01052E+12,2010,Somerset,17
+EnteringRightCarPrivate,2.01052E+12,2010,Somerset,47
+EnteringRightCarPrivate,2.01052E+12,2010,City of Bristol,48
+EnteringRightCarPrivate,2.01052E+12,2010,Bath and North East Somerset,42
+EnteringRightCarPrivate,2.01052E+12,2010,City of Bristol,26
+EnteringRightCarPrivate,2.01052E+12,2010,City of Bristol,25
+EnteringRightCarPrivate,201054DC40110,2010,Swindon,25
+EnteringRightCarPrivate,2011201101BS70284,2011,London,36
+EnteringRightCarPrivate,2011201101CP00382,2011,London,25
+EnteringRightCarPrivate,2011201101CW11679,2011,London,46
+EnteringRightCarPrivate,2011201101CW12233,2011,London,20
+EnteringRightCarPrivate,2011201101FH10531,2011,London,47
+EnteringRightCarPrivate,2011201101FH10532,2011,London,24
+EnteringRightCarPrivate,2011201101FH10628,2011,London,30
+EnteringRightCarPrivate,2011201101JC30471,2011,London,55
+EnteringRightCarPrivate,2011201101LX50878,2011,London,-1
+EnteringRightCarPrivate,2011201101LX50911,2011,London,31
+EnteringRightCarPrivate,2011201101MM70304,2011,London,38
+EnteringRightCarPrivate,2011201101MM70445,2011,London,34
+EnteringRightCarPrivate,2011201101MM70507,2011,London,25
+EnteringRightCarPrivate,2011201101PL60447,2011,London,24
+EnteringRightCarPrivate,2011201101PL60645,2011,London,27
+EnteringRightCarPrivate,2011201101PY20217,2011,London,37
+EnteringRightCarPrivate,2011201101QA10149,2011,London,63
+EnteringRightCarPrivate,2011201101QA10186,2011,London,20
+EnteringRightCarPrivate,2011201101QK50213,2011,London,20
+EnteringRightCarPrivate,2011201101QK50378,2011,London,13
+EnteringRightCarPrivate,2011201101QK50503,2011,London,27
+EnteringRightCarPrivate,2011201101RG40476,2011,London,23
+EnteringRightCarPrivate,2011201101TA00027,2011,London,39
+EnteringRightCarPrivate,2011201101TA00334,2011,London,49
+EnteringRightCarPrivate,2011201101TA00999,2011,London,36
+EnteringRightCarPrivate,2011201101TA01048,2011,London,27
+EnteringRightCarPrivate,2011201101TB00009,2011,London,20
+EnteringRightCarPrivate,2011201101TB00710,2011,London,14
+EnteringRightCarPrivate,2011201101VK30113,2011,London,22
+EnteringRightCarPrivate,2011201101VK30171,2011,London,18
+EnteringRightCarPrivate,2011201101VK30190,2011,London,63
+EnteringRightCarPrivate,2011201101VK30323,2011,London,56
+EnteringRightCarPrivate,2011201101VW40401,2011,London,23
+EnteringRightCarPrivate,2011201101WW50464,2011,London,28
+EnteringRightCarPrivate,2011201101WW50926,2011,London,26
+EnteringRightCarPrivate,2011201101XD80355,2011,London,26
+EnteringRightCarPrivate,2011201101ZD30377,2011,London,27
+EnteringRightCarPrivate,2011201101ZD30910,2011,London,51
+EnteringRightCarPrivate,2011201104DF11103,2011,Lancashire,42
+EnteringRightCarPrivate,2011201104DL11052,2011,Lancashire,54
+EnteringRightCarPrivate,2011201104FB11036,2011,Lancashire,52
+EnteringRightCarPrivate,2011201106A049044,2011,Manchester,22
+EnteringRightCarPrivate,2011201106A052297,2011,Manchester,33
+EnteringRightCarPrivate,2011201106C050901,2011,Manchester,46
+EnteringRightCarPrivate,2011201106J049602,2011,Stockport,44
+EnteringRightCarPrivate,2011201106N051265,2011,Bury,17
+EnteringRightCarPrivate,2011201106P046473,2011,Rochdale,66
+EnteringRightCarPrivate,2.0112E+16,2011,North Yorkshire,40
+EnteringRightCarPrivate,2.0112E+16,2011,Bradford,33
+EnteringRightCarPrivate,20112011160A04381,2011,North East Lincolnshire,39
+EnteringRightCarPrivate,20112011160C00501,2011,East Riding of Yorkshire,43
+EnteringRightCarPrivate,20112011170S32081,2011,Stockton on Tees,43
+EnteringRightCarPrivate,20112011170S32921,2011,Stockton on Tees,24
+EnteringRightCarPrivate,2011201120K016141,2011,Sandwell,42
+EnteringRightCarPrivate,2011201120M011261,2011,Coventry,38
+EnteringRightCarPrivate,2011201120N056111,2011,Birmingham,27
+EnteringRightCarPrivate,2011201120S021321,2011,Birmingham,51
+EnteringRightCarPrivate,2011201120W031341,2011,Birmingham,18
+EnteringRightCarPrivate,2.0112E+16,2011,Staffordshire,44
+EnteringRightCarPrivate,2.0112E+16,2011,Warwickshire,35
+EnteringRightCarPrivate,2.0112E+16,2011,Warwickshire,41
+EnteringRightCarPrivate,2.0112E+16,2011,Warwickshire,41
+EnteringRightCarPrivate,2.0112E+16,2011,Warwickshire,26
+EnteringRightCarPrivate,2.0112E+16,2011,Warwickshire,40
+EnteringRightCarPrivate,2011201130D001226,2011,Derbyshire,29
+EnteringRightCarPrivate,2011201131B132111,2011,Nottinghamshire,60
+EnteringRightCarPrivate,2011201131B194111,2011,Nottinghamshire,50
+EnteringRightCarPrivate,2011201131B318711,2011,Nottinghamshire,36
+EnteringRightCarPrivate,2011201131C141211,2011,Nottingham,21
+EnteringRightCarPrivate,2011201131C239611,2011,Nottingham,49
+EnteringRightCarPrivate,2011201131D106711,2011,Nottinghamshire,8
+EnteringRightCarPrivate,2.0112E+16,2011,Leicestershire,19
+EnteringRightCarPrivate,2.0112E+16,2011,Peterborough,65
+EnteringRightCarPrivate,2.0112E+16,2011,Cambridgeshire,60
+EnteringRightCarPrivate,2.0112E+16,2011,Peterborough,29
+EnteringRightCarPrivate,2.0112E+16,2011,Peterborough,23
+EnteringRightCarPrivate,2.0112E+16,2011,Suffolk,50
+EnteringRightCarPrivate,20112011400B00697,2011,Bedford Borough Council,28
+EnteringRightCarPrivate,201120114100A0415,2011,Hertfordshire,24
+EnteringRightCarPrivate,201120114100A0592,2011,Hertfordshire,43
+EnteringRightCarPrivate,201120114100C0513,2011,Hertfordshire,41
+EnteringRightCarPrivate,201120114100J0706,2011,Hertfordshire,46
+EnteringRightCarPrivate,201120114100K0551,2011,Hertfordshire,56
+EnteringRightCarPrivate,201120114100K0557,2011,Hertfordshire,40
+EnteringRightCarPrivate,2011201143N185091,2011,Buckinghamshire,45
+EnteringRightCarPrivate,2011201143N261011,2011,Buckinghamshire,55
+EnteringRightCarPrivate,2011201143W115111,2011,Reading,27
+EnteringRightCarPrivate,2.0112E+16,2011,Hampshire,36
+EnteringRightCarPrivate,2.0112E+16,2011,Hampshire,29
+EnteringRightCarPrivate,2.0112E+16,2011,Hampshire,50
+EnteringRightCarPrivate,2.0112E+16,2011,Southampton ,11
+EnteringRightCarPrivate,2.0112E+16,2011,Isle of Wight,47
+EnteringRightCarPrivate,2.0112E+16,2011,Portsmouth,19
+EnteringRightCarPrivate,2.0112E+16,2011,Isle of Wight,41
+EnteringRightCarPrivate,2.0112E+16,2011,Hampshire,14
+EnteringRightCarPrivate,2.0112E+16,2011,Hampshire,68
+EnteringRightCarPrivate,2.0112E+16,2011,Portsmouth,18
+EnteringRightCarPrivate,2.0112E+16,2011,Medway,28
+EnteringRightCarPrivate,2.0112E+16,2011,Medway,23
+EnteringRightCarPrivate,2.0112E+16,2011,Medway,26
+EnteringRightCarPrivate,2.0112E+16,2011,West Sussex,53
+EnteringRightCarPrivate,2.0112E+16,2011,Somerset,24
+EnteringRightCarPrivate,2.0112E+16,2011,South Gloucestershire,45
+EnteringRightCarPrivate,2011201154A174411,2011,Swindon,36
+EnteringRightCarPrivate,2011201154EN03311,2011,Wiltshire,56
+EnteringRightCarPrivate,2012201201BS70609,2012,London,27
+EnteringRightCarPrivate,2012201201CW10830,2012,London,51
+EnteringRightCarPrivate,2012201201EK40025,2012,London,48
+EnteringRightCarPrivate,2012201201FH10003,2012,London,31
+EnteringRightCarPrivate,2012201201FH10139,2012,London,-1
+EnteringRightCarPrivate,2012201201FH10208,2012,London,42
+EnteringRightCarPrivate,2012201201FH10283,2012,London,29
+EnteringRightCarPrivate,2012201201FH10287,2012,London,6
+EnteringRightCarPrivate,2012201201FH10296,2012,London,27
+EnteringRightCarPrivate,2012201201FH10435,2012,London,34
+EnteringRightCarPrivate,2012201201FH10495,2012,London,21
+EnteringRightCarPrivate,2012201201FH10542,2012,London,20
+EnteringRightCarPrivate,2012201201FH10597,2012,London,26
+EnteringRightCarPrivate,2012201201GD10109,2012,London,40
+EnteringRightCarPrivate,2012201201GD10285,2012,London,23
+EnteringRightCarPrivate,2012201201GD10348,2012,London,38
+EnteringRightCarPrivate,2012201201GD10448,2012,London,45
+EnteringRightCarPrivate,2012201201GD10472,2012,London,42
+EnteringRightCarPrivate,2012201201HT20476,2012,London,20
+EnteringRightCarPrivate,2012201201HT20544,2012,London,21
+EnteringRightCarPrivate,2012201201JC30145,2012,London,27
+EnteringRightCarPrivate,2012201201JC30251,2012,London,21
+EnteringRightCarPrivate,2012201201JC30444,2012,London,42
+EnteringRightCarPrivate,2012201201JI40482,2012,London,31
+EnteringRightCarPrivate,2012201201MM70853,2012,London,35
+EnteringRightCarPrivate,2012201201PY20526,2012,London,29
+EnteringRightCarPrivate,2012201201QK50247,2012,London,-1
+EnteringRightCarPrivate,2012201201RY10427,2012,London,43
+EnteringRightCarPrivate,2012201201TW60248,2012,London,38
+EnteringRightCarPrivate,2012201201TX20234,2012,London,21
+EnteringRightCarPrivate,2012201201VW40030,2012,London,35
+EnteringRightCarPrivate,2012201201VW40109,2012,London,32
+EnteringRightCarPrivate,2012201201WW50018,2012,London,33
+EnteringRightCarPrivate,2012201201WW50472,2012,London,37
+EnteringRightCarPrivate,2012201201WW50576,2012,London,35
+EnteringRightCarPrivate,2012201201WW50695,2012,London,31
+EnteringRightCarPrivate,2012201201WW50851,2012,London,32
+EnteringRightCarPrivate,2012201201WW51021,2012,London,34
+EnteringRightCarPrivate,2012201201WW51054,2012,London,31
+EnteringRightCarPrivate,2012201201XD80012,2012,London,16
+EnteringRightCarPrivate,2012201201ZD30880,2012,London,22
+EnteringRightCarPrivate,2012201201ZT80250,2012,London,46
+EnteringRightCarPrivate,2012201201ZT80274,2012,London,47
+EnteringRightCarPrivate,2012201204CJ12222,2012,Lancashire,34
+EnteringRightCarPrivate,2012201206E066079,2012,Manchester,49
+EnteringRightCarPrivate,2012201206K055945,2012,Bolton,58
+EnteringRightCarPrivate,2012201206L055988,2012,Wigan,40
+EnteringRightCarPrivate,2012201206L059616,2012,Wigan,40
+EnteringRightCarPrivate,2012201206L064070,2012,Wigan,26
+EnteringRightCarPrivate,2012201206N068180,2012,Bury,33
+EnteringRightCarPrivate,2.0122E+16,2012,Halton,28
+EnteringRightCarPrivate,2.0122E+16,2012,Halton,49
+EnteringRightCarPrivate,2.0122E+16,2012,Cheshire East,21
+EnteringRightCarPrivate,2.0122E+16,2012,Northumberland,44
+EnteringRightCarPrivate,2.0122E+16,2012,Newcastle upon Tyne,40
+EnteringRightCarPrivate,2.0122E+16,2012,Newcastle upon Tyne,44
+EnteringRightCarPrivate,2.0122E+16,2012,Northumberland,39
+EnteringRightCarPrivate,2.0122E+16,2012,North Yorkshire,19
+EnteringRightCarPrivate,2.0122E+16,2012,Leeds,16
+EnteringRightCarPrivate,2.0122E+16,2012,Leeds,29
+EnteringRightCarPrivate,20122012160C02671,2012,East Riding of Yorkshire,55
+EnteringRightCarPrivate,20122012160D08571,2012,Kingston Upon Hull,46
+EnteringRightCarPrivate,20122012170S42302,2012,Stockton on Tees,49
+EnteringRightCarPrivate,2012201220G007842,2012,Wolverhampton,39
+EnteringRightCarPrivate,2012201220H005992,2012,Walsall,30
+EnteringRightCarPrivate,2012201220J002422,2012,Dudley,41
+EnteringRightCarPrivate,2012201220M012892,2012,Coventry,33
+EnteringRightCarPrivate,2012201220N042382,2012,Birmingham,51
+EnteringRightCarPrivate,2012201220S042952,2012,Birmingham,30
+EnteringRightCarPrivate,2012201220T045722,2012,Birmingham,23
+EnteringRightCarPrivate,2.0122E+16,2012,Staffordshire,56
+EnteringRightCarPrivate,2.0122E+16,2012,Staffordshire,59
+EnteringRightCarPrivate,2.0122E+16,2012,Stoke on Trent,24
+EnteringRightCarPrivate,2.0122E+16,2012,Stoke on Trent,56
+EnteringRightCarPrivate,2.0122E+16,2012,Warwickshire,41
+EnteringRightCarPrivate,2.0122E+16,2012,Warwickshire,37
+EnteringRightCarPrivate,2012201231A183012,2012,Nottinghamshire,22
+EnteringRightCarPrivate,2012201231B061412,2012,Nottinghamshire,78
+EnteringRightCarPrivate,2012201231C014512,2012,Nottingham,49
+EnteringRightCarPrivate,2012201231C115212,2012,Nottingham,28
+EnteringRightCarPrivate,2012201231C254812,2012,Nottingham,20
+EnteringRightCarPrivate,2012201231D245212,2012,Nottinghamshire,50
+EnteringRightCarPrivate,2012201232B136312,2012,Lincolnshire,21
+EnteringRightCarPrivate,2012201232L181712,2012,Lincolnshire,58
+EnteringRightCarPrivate,2.0122E+16,2012,Leicestershire,22
+EnteringRightCarPrivate,2.0122E+16,2012,Cambridgeshire,18
+EnteringRightCarPrivate,2.0122E+16,2012,Norfolk,31
+EnteringRightCarPrivate,2.0122E+16,2012,Norfolk,86
+EnteringRightCarPrivate,2012201236T120034,2012,Norfolk,19
+EnteringRightCarPrivate,201220124100J0038,2012,Hertfordshire,30
+EnteringRightCarPrivate,2012201243N088012,2012,Buckinghamshire,50
+EnteringRightCarPrivate,2012201243P036102,2012,Oxfordshire,30
+EnteringRightCarPrivate,2012201243P076082,2012,Oxfordshire,30
+EnteringRightCarPrivate,2012201243P273082,2012,Oxfordshire,24
+EnteringRightCarPrivate,2012201243R012082,2012,Slough,33
+EnteringRightCarPrivate,2012201243R044032,2012,Windsor and Maidenhead,37
+EnteringRightCarPrivate,2012201243R184112,2012,Bracknell Forest,23
+EnteringRightCarPrivate,2012201243W056102,2012,West Berkshire,33
+EnteringRightCarPrivate,2.0122E+16,2012,Hampshire,25
+EnteringRightCarPrivate,2.0122E+16,2012,Hampshire,37
+EnteringRightCarPrivate,2.0122E+16,2012,Isle of Wight,50
+EnteringRightCarPrivate,2012201245RE71630,2012,Surrey,44
+EnteringRightCarPrivate,2.0122E+16,2012,Medway,16
+EnteringRightCarPrivate,2.0122E+16,2012,Kent,54
+EnteringRightCarPrivate,2.0122E+16,2012,Medway,18
+EnteringRightCarPrivate,2.0122E+16,2012,East Sussex,30
+EnteringRightCarPrivate,2.0122E+16,2012,West Sussex,46
+EnteringRightCarPrivate,2.0122E+16,2012,West Sussex,38
+EnteringRightCarPrivate,2.0122E+16,2012,West Sussex,49
+EnteringRightCarPrivate,2.0122E+16,2012,City of Bristol,25
+EnteringRightCarPrivate,20122012552C03943,2012,Poole,31
+EnteringRightCarPrivate,20122012552C38358,2012,Bournemouth,38

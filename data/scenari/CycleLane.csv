@@ -1,0 +1,330 @@
+Scenario,urn,accyr,LAName,Age
+CycleLane,199901KO00341,1999,London,19
+CycleLane,1.99905E+12,1999,Merseyside,34
+CycleLane,1.99905E+12,1999,Merseyside,29
+CycleLane,1.99912E+12,1999,North Yorkshire,8
+CycleLane,1.99912E+12,1999,York,32
+CycleLane,1.99912E+12,1999,North Yorkshire,47
+CycleLane,1.99912E+12,1999,North Yorkshire,25
+CycleLane,1.99912E+12,1999,North Yorkshire,41
+CycleLane,1.99912E+12,1999,York,72
+CycleLane,1.99912E+12,1999,North Yorkshire,39
+CycleLane,1.99912E+12,1999,North Yorkshire,37
+CycleLane,1.99912E+12,1999,North Yorkshire,57
+CycleLane,1.99912E+12,1999,North Yorkshire,14
+CycleLane,199913AA37499,1999,Leeds,59
+CycleLane,199913EA31999,1999,Kirklees,29
+CycleLane,199936N990056,1999,Norfolk,
+CycleLane,199936T990447,1999,Norfolk,12
+CycleLane,199937G005715,1999,Suffolk,
+CycleLane,199940D239499,1999,Central Bedfordshire,10
+CycleLane,199943P014069,1999,Oxfordshire,20
+CycleLane,199943P068039,1999,Oxfordshire,83
+CycleLane,199943S032059,1999,Milton Keynes,18
+CycleLane,199943S195099,1999,Milton Keynes,24
+CycleLane,199945NA00525,1999,Surrey,31
+CycleLane,199947N003221,1999,West Sussex,16
+CycleLane,199947Y002582,1999,West Sussex,50
+CycleLane,1.99952E+12,1999,Bath and North East Somerset,11
+CycleLane,1.99952E+12,1999,Somerset,18
+CycleLane,1999530AI3791,1999,Gloucestershire,11
+CycleLane,200001HT00846,2000,London,42
+CycleLane,200001KO00096,2000,London,34
+CycleLane,2.00007E+12,2000,Cheshire West and Chester,17
+CycleLane,2.00013E+12,2000,Kirklees,50
+CycleLane,200016C068100,2000,East Riding of Yorkshire,76
+CycleLane,200016D034600,2000,Kingston Upon Hull,23
+CycleLane,2.00033E+12,2000,Leicestershire,23
+CycleLane,2.00035E+12,2000,Cambridgeshire,32
+CycleLane,200036N001887,2000,Norfolk,10
+CycleLane,200043N188040,2000,Buckinghamshire,19
+CycleLane,2000440AA1772,2000,Hampshire,32
+CycleLane,200045NA00142,2000,Surrey,26
+CycleLane,200045NW00259,2000,Surrey,69
+CycleLane,2.00113E+12,2001,Bradford,65
+CycleLane,2.00135E+12,2001,Cambridgeshire,38
+CycleLane,2.00135E+12,2001,Cambridgeshire,23
+CycleLane,200137G008521,2001,Suffolk,47
+CycleLane,200143W330021,2001,Reading,23
+CycleLane,2001440KK0158,2001,Portsmouth,43
+CycleLane,2001440ST0715,2001,Southampton ,13
+CycleLane,200147C138212,2001,Brighton and Hove,51
+CycleLane,200147C140190,2001,Brighton and Hove,14
+CycleLane,200147N141572,2001,West Sussex,18
+CycleLane,200147X134481,2001,West Sussex,53
+CycleLane,2001530AI2121,2001,Gloucestershire,28
+CycleLane,2001530AI2268,2001,Gloucestershire,16
+CycleLane,200206M009355,2002,Trafford,23
+CycleLane,2.0021E+12,2002,Gateshead,15
+CycleLane,2.00212E+12,2002,York,38
+CycleLane,2.00213E+12,2002,Leeds,30
+CycleLane,200220M058102,2002,Coventry,27
+CycleLane,2.00233E+12,2002,Leicestershire,18
+CycleLane,2.00235E+12,2002,Cambridgeshire,13
+CycleLane,2.00235E+12,2002,Cambridgeshire,16
+CycleLane,2.00235E+12,2002,Cambridgeshire,38
+CycleLane,200243N271072,2002,Buckinghamshire,39
+CycleLane,200243P012112,2002,Oxfordshire,40
+CycleLane,200243W138092,2002,West Berkshire,41
+CycleLane,2002440AA0092,2002,Hampshire,44
+CycleLane,200245RN21541,2002,Surrey,66
+CycleLane,2.00247E+12,2002,Medway,24
+CycleLane,200301BS00601,2003,London,26
+CycleLane,200301FH00543,2003,London,50
+CycleLane,200306L015647,2003,Wigan,15
+CycleLane,200306M011841,2003,Trafford,57
+CycleLane,2.00313E+12,2003,Kirklees,45
+CycleLane,200316D080303,2003,Kingston Upon Hull,26
+CycleLane,2.00321E+12,2003,Staffordshire,31
+CycleLane,200322CC32839,2003,Worcestershire,42
+CycleLane,2.00E+231,2003,Essex,25
+CycleLane,20034200E0482,2003,Essex,46
+CycleLane,200343N140043,2003,Buckinghamshire,35
+CycleLane,200343P457093,2003,Oxfordshire,60
+CycleLane,200343W281053,2003,Wokingham,63
+CycleLane,2003440HF0318,2003,Hampshire,74
+CycleLane,2003440HP0279,2003,Hampshire,33
+CycleLane,2003440ST0738,2003,Southampton ,25
+CycleLane,200345RE41186,2003,Surrey,35
+CycleLane,2.00352E+12,2003,City of Bristol,23
+CycleLane,2.00352E+12,2003,City of Bristol,38
+CycleLane,2003530AI2100,2003,Gloucestershire,54
+CycleLane,200401QA09027,2004,London,13
+CycleLane,200401TE00153,2004,London,32
+CycleLane,200401ZD30397,2004,London,16
+CycleLane,2.00403E+12,2004,Cumbria,45
+CycleLane,200406A910686,2004,Manchester,34
+CycleLane,200406F906489,2004,Salford,39
+CycleLane,2.00412E+12,2004,York,
+CycleLane,2.00412E+12,2004,York,27
+CycleLane,2.00412E+12,2004,York,45
+CycleLane,2.00413E+12,2004,Kirklees,69
+CycleLane,20043108C3231,2004,Nottingham,
+CycleLane,200432D126804,2004,Lincolnshire,24
+CycleLane,2.00433E+12,2004,Leicestershire,20
+CycleLane,2.00435E+12,2004,Cambridgeshire,43
+CycleLane,2.00435E+12,2004,Cambridgeshire,
+CycleLane,20044100B0515,2004,Hertfordshire,29
+CycleLane,200443W362084,2004,Slough,59
+CycleLane,2004440HF0603,2004,Hampshire,16
+CycleLane,200445MO54673,2004,Surrey,28
+CycleLane,200447K172173,2004,Brighton and Hove,35
+CycleLane,200450C21F209,2004,Devon,31
+CycleLane,2.00452E+12,2004,City of Bristol,50
+CycleLane,200501CP00031,2005,London,25
+CycleLane,2.00503E+12,2005,Cumbria,41
+CycleLane,2.00533E+12,2005,Leicestershire,25
+CycleLane,2.00535E+12,2005,Cambridgeshire,35
+CycleLane,200542C068111,2005,Essex,36
+CycleLane,200543P327095,2005,Oxfordshire,17
+CycleLane,200543W239025,2005,Slough,24
+CycleLane,2.00544E+12,2005,Hampshire,30
+CycleLane,200545SP79103,2005,Surrey,18
+CycleLane,2.00547E+12,2005,Brighton and Hove,34
+CycleLane,2.00552E+12,2005,Somerset,42
+CycleLane,200601FH10430,2006,London,57
+CycleLane,200601TX20749,2006,London,46
+CycleLane,200601WW50724,2006,London,34
+CycleLane,200601WW50867,2006,London,31
+CycleLane,2.00603E+12,2006,Cumbria,25
+CycleLane,200606C045094,2006,Manchester,46
+CycleLane,200606J058757,2006,Stockport,49
+CycleLane,200606N047637,2006,Bury,31
+CycleLane,200606N048038,2006,Bury,10
+CycleLane,200606Q051899,2006,Oldham,5
+CycleLane,2.00612E+12,2006,York,48
+CycleLane,2.00613E+12,2006,Kirklees,20
+CycleLane,2006160D04180,2006,Kingston Upon Hull,27
+CycleLane,2.00622E+12,2006,Stoke on Trent,9
+CycleLane,2.00633E+12,2006,Leicestershire,32
+CycleLane,2.00635E+12,2006,Peterborough,32
+CycleLane,2.00636E+12,2006,Norfolk,18
+CycleLane,2.01E+189,2006,Hertfordshire,32
+CycleLane,200645SP79103,2006,Surrey,18
+CycleLane,200650F31D440,2006,Torbay,49
+CycleLane,2.00652E+12,2006,Somerset,27
+CycleLane,2.00653E+12,2006,Gloucestershire,48
+CycleLane,2.00653E+12,2006,Gloucestershire,42
+CycleLane,2.00653E+12,2006,Gloucestershire,60
+CycleLane,200701HT64794,2007,London,25
+CycleLane,200701HT67603,2007,London,28
+CycleLane,200701JC30299,2007,London,17
+CycleLane,200701JC65932,2007,London,32
+CycleLane,200701VK30176,2007,London,38
+CycleLane,200701YR62457,2007,London,18
+CycleLane,200701ZD30197,2007,London,37
+CycleLane,200704AL07132,2007,Lancashire,51
+CycleLane,200704BB07172,2007,Lancashire,47
+CycleLane,200704CM07037,2007,Lancashire,62
+CycleLane,200706K082514,2007,Bolton,34
+CycleLane,2.00712E+12,2007,York,40
+CycleLane,2.00713E+12,2007,Leeds,51
+CycleLane,2.00713E+12,2007,Leeds,47
+CycleLane,2.00713E+12,2007,Kirklees,16
+CycleLane,200714C161507,2007,Rotherham,38
+CycleLane,2007160A01630,2007,North East Lincolnshire,11
+CycleLane,200720F199001,2007,Birmingham,46
+CycleLane,2.00723E+12,2007,Warwickshire,51
+CycleLane,2.00735E+12,2007,Cambridgeshire,14
+CycleLane,2.00736E+12,2007,Norfolk,19
+CycleLane,2007400B01459,2007,Bedford Borough Council,60
+CycleLane,2007400B03120,2007,Bedford Borough Council,82
+CycleLane,200742I447311,2007,Essex,35
+CycleLane,200743P025117,2007,Oxfordshire,35
+CycleLane,200743P034107,2007,Oxfordshire,16
+CycleLane,200743P101107,2007,Oxfordshire,29
+CycleLane,200743P254067,2007,Oxfordshire,20
+CycleLane,200743W014057,2007,Reading,26
+CycleLane,2.00744E+12,2007,Southampton ,38
+CycleLane,2.00744E+12,2007,Portsmouth,33
+CycleLane,2.00744E+12,2007,Hampshire,57
+CycleLane,2.00744E+12,2007,Hampshire,17
+CycleLane,200745GU11147,2007,Surrey,12
+CycleLane,200745WO13753,2007,Surrey,12
+CycleLane,2.00746E+12,2007,Kent,54
+CycleLane,2.00746E+12,2007,Kent,32
+CycleLane,2.00746E+12,2007,Kent,36
+CycleLane,2.00752E+12,2007,Somerset,34
+CycleLane,2.00752E+12,2007,Somerset,28
+CycleLane,2.00752E+12,2007,City of Bristol,26
+CycleLane,2.00752E+12,2007,City of Bristol,37
+CycleLane,2.00752E+12,2007,City of Bristol,31
+CycleLane,2.00752E+12,2007,City of Bristol,50
+CycleLane,200801KG75388,2008,London,34
+CycleLane,200801ZD31045,2008,London,32
+CycleLane,200804EA08247,2008,Blackburn with Darwen,43
+CycleLane,200804FB08020,2008,Lancashire,14
+CycleLane,200806B089490,2008,Manchester,40
+CycleLane,200806M096528,2008,Trafford,40
+CycleLane,2.00813E+12,2008,Leeds,23
+CycleLane,2.00835E+12,2008,Cambridgeshire,30
+CycleLane,2.00835E+12,2008,Cambridgeshire,24
+CycleLane,2.00835E+12,2008,Cambridgeshire,25
+CycleLane,200843P237088,2008,Oxfordshire,44
+CycleLane,2.00844E+12,2008,Hampshire,38
+CycleLane,2.00844E+12,2008,Southampton ,25
+CycleLane,200845RE20154,2008,Surrey,54
+CycleLane,2.00846E+12,2008,Kent,22
+CycleLane,2.00847E+12,2008,Brighton and Hove,27
+CycleLane,200850E41A557,2008,Plymouth,42
+CycleLane,2.00852E+12,2008,City of Bristol,33
+CycleLane,200901FH10100,2009,London,49
+CycleLane,200901HT20406,2009,London,34
+CycleLane,200901JC30285,2009,London,29
+CycleLane,200901KG70048,2009,London,16
+CycleLane,200901WW50189,2009,London,29
+CycleLane,200904AL09114,2009,Lancashire,37
+CycleLane,200904BA09139,2009,Lancashire,35
+CycleLane,200904CM09100,2009,Lancashire,40
+CycleLane,200906K015311,2009,Bolton,42
+CycleLane,200906M024967,2009,Trafford,21
+CycleLane,2.00912E+12,2009,York,16
+CycleLane,2.00912E+12,2009,York,53
+CycleLane,2.00913E+12,2009,Bradford,49
+CycleLane,2.00913E+12,2009,Leeds,44
+CycleLane,200914C143409,2009,Rotherham,41
+CycleLane,20093104B2504,2009,Nottinghamshire,60
+CycleLane,2.00935E+12,2009,Cambridgeshire,17
+CycleLane,200937G026946,2009,Suffolk,42
+CycleLane,200937L016864,2009,Suffolk,44
+CycleLane,200943P036069,2009,Oxfordshire,22
+CycleLane,200943S073089,2009,Milton Keynes,17
+CycleLane,2.00944E+12,2009,Hampshire,54
+CycleLane,2.00944E+12,2009,Isle of Wight,26
+CycleLane,200945EL46734,2009,Surrey,36
+CycleLane,200945WO35797,2009,Surrey,25
+CycleLane,2.00947E+12,2009,Brighton and Hove,26
+CycleLane,2.00947E+12,2009,Brighton and Hove,26
+CycleLane,2.00947E+12,2009,West Sussex,37
+CycleLane,201001BS70328,2010,London,
+CycleLane,201001CP00254,2010,London,23
+CycleLane,201001JC30425,2010,London,34
+CycleLane,201001JC30449,2010,London,35
+CycleLane,201001JC30560,2010,London,28
+CycleLane,201001LX51123,2010,London,53
+CycleLane,201004BA10040,2010,Lancashire,22
+CycleLane,201005FF04207,2010,Merseyside,30
+CycleLane,201006M031557,2010,Trafford,62
+CycleLane,201006M037889,2010,Trafford,28
+CycleLane,2.01007E+12,2010,Cheshire West and Chester,49
+CycleLane,2.01012E+12,2010,York,14
+CycleLane,2.01013E+12,2010,Kirklees,44
+CycleLane,201014C112410,2010,Rotherham,11
+CycleLane,2010170L22050,2010,Redcar and Cleveland,52
+CycleLane,201032D249210,2010,Lincolnshire,10
+CycleLane,201032D290710,2010,Lincolnshire,35
+CycleLane,2.01035E+12,2010,Cambridgeshire,49
+CycleLane,2.01035E+12,2010,Cambridgeshire,21
+CycleLane,201037G030259,2010,Suffolk,23
+CycleLane,201037L018422,2010,Suffolk,11
+CycleLane,2010400B01898,2010,Bedford Borough Council,41
+CycleLane,201043P207070,2010,Oxfordshire,16
+CycleLane,2.01047E+12,2010,Brighton and Hove,59
+CycleLane,2.01047E+12,2010,Brighton and Hove,25
+CycleLane,2.01047E+12,2010,West Sussex,24
+CycleLane,2.01047E+12,2010,West Sussex,15
+CycleLane,2.01047E+12,2010,Brighton and Hove,35
+CycleLane,2.01047E+12,2010,West Sussex,43
+CycleLane,2.01052E+12,2010,Somerset,48
+CycleLane,2.01052E+12,2010,City of Bristol,18
+CycleLane,2011201101CP00114,2011,London,-1
+CycleLane,2011201101JC30184,2011,London,48
+CycleLane,2011201101TA01011,2011,London,61
+CycleLane,2011201101WW50693,2011,London,25
+CycleLane,2011201101ZD30420,2011,London,34
+CycleLane,2011201104BC11152,2011,Lancashire,16
+CycleLane,2011201111SJ11371,2011,Darlington,10
+CycleLane,2.0112E+16,2011,York,20
+CycleLane,20112011160B01851,2011,North Lincolnshire,24
+CycleLane,20112011160C05531,2011,East Riding of Yorkshire,41
+CycleLane,20112011160D00271,2011,Kingston Upon Hull,16
+CycleLane,20112011160D07231,2011,Kingston Upon Hull,9
+CycleLane,2011201120L500371,2011,Solihull,43
+CycleLane,2.0112E+16,2011,Leicestershire,50
+CycleLane,2.0112E+16,2011,Cambridgeshire,42
+CycleLane,2.0112E+16,2011,Cambridgeshire,30
+CycleLane,2.0112E+16,2011,Cambridgeshire,19
+CycleLane,2011201143P185011,2011,Oxfordshire,29
+CycleLane,2011201143R056051,2011,Slough,15
+CycleLane,2011201143R098021,2011,Slough,41
+CycleLane,2011201143W253101,2011,Reading,30
+CycleLane,2.0112E+16,2011,Hampshire,44
+CycleLane,2.0112E+16,2011,Hampshire,40
+CycleLane,2.0112E+16,2011,Portsmouth,57
+CycleLane,2.0112E+16,2011,West Sussex,60
+CycleLane,2.0112E+16,2011,West Sussex,47
+CycleLane,2.0112E+16,2011,Brighton and Hove,30
+CycleLane,2.0112E+16,2011,Somerset,25
+CycleLane,2012201201ZD30723,2012,London,38
+CycleLane,2012201204BA12179,2012,Lancashire,38
+CycleLane,2012201206M059323,2012,Trafford,25
+CycleLane,2.0122E+16,2012,Cheshire East,50
+CycleLane,2.0122E+16,2012,Cheshire East,33
+CycleLane,2.0122E+16,2012,York,62
+CycleLane,2.0122E+16,2012,Leeds,46
+CycleLane,2.0122E+16,2012,Leeds,26
+CycleLane,2012201214K069312,2012,Sheffield,36
+CycleLane,20122012160B03541,2012,North Lincolnshire,42
+CycleLane,20122012160C08101,2012,East Riding of Yorkshire,65
+CycleLane,2012201222F203671,2012,Shropshire,81
+CycleLane,2012201231A260112,2012,Nottinghamshire,12
+CycleLane,2.0122E+16,2012,Cambridgeshire,12
+CycleLane,2.0122E+16,2012,Cambridgeshire,25
+CycleLane,2.0122E+16,2012,Cambridgeshire,41
+CycleLane,2.0122E+16,2012,Suffolk,17
+CycleLane,201220124100A0712,2012,Hertfordshire,42
+CycleLane,201220124100C0204,2012,Hertfordshire,41
+CycleLane,2012201242I241308,2012,Essex,39
+CycleLane,2012201243P088112,2012,Oxfordshire,76
+CycleLane,2012201243P093032,2012,Oxfordshire,32
+CycleLane,2012201243P298032,2012,Oxfordshire,21
+CycleLane,2.0122E+16,2012,Hampshire,32
+CycleLane,2.0122E+16,2012,Kent,46
+CycleLane,2.0122E+16,2012,Kent,19
+CycleLane,2.0122E+16,2012,Brighton and Hove,40
+CycleLane,2012201250CN2B009,2012,Devon,34
+CycleLane,2012201250EP2D008,2012,Plymouth,-1
+CycleLane,2.0122E+16,2012,City of Bristol,28
+CycleLane,2.0122E+16,2012,City of Bristol,47
+CycleLane,2.0122E+16,2012,South Gloucestershire,43
+CycleLane,20122012552C36084,2012,Poole,22

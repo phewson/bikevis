@@ -1,0 +1,323 @@
+Scenario,urn,accyr,LAName,Age
+OvertakingCrossroadsCar,199901LD00517,1999,London,31
+OvertakingCrossroadsCar,199901TW00459,1999,London,
+OvertakingCrossroadsCar,199901WW00661,1999,London,30
+OvertakingCrossroadsCar,199901YR00672,1999,London,21
+OvertakingCrossroadsCar,1.99905E+12,1999,Merseyside,26
+OvertakingCrossroadsCar,1.99905E+12,1999,Merseyside,35
+OvertakingCrossroadsCar,199906A006157,1999,Manchester,45
+OvertakingCrossroadsCar,199906L006593,1999,Wigan,26
+OvertakingCrossroadsCar,199906M004243,1999,Trafford,18
+OvertakingCrossroadsCar,199916D031399,1999,Kingston Upon Hull,51
+OvertakingCrossroadsCar,1.99924E+12,1999,Warwickshire,16
+OvertakingCrossroadsCar,1.99924E+12,1999,Warwickshire,12
+OvertakingCrossroadsCar,1999317B21521,1999,Nottingham,47
+OvertakingCrossroadsCar,1999317C20492,1999,Nottingham,42
+OvertakingCrossroadsCar,199932C000429,1999,Lincolnshire,59
+OvertakingCrossroadsCar,1999440HB0202,1999,Hampshire,68
+OvertakingCrossroadsCar,200001BS00341,2000,London,56
+OvertakingCrossroadsCar,200001DM00894,2000,London,30
+OvertakingCrossroadsCar,200001EK01144,2000,London,
+OvertakingCrossroadsCar,200001GD00477,2000,London,27
+OvertakingCrossroadsCar,200001NI01425,2000,London,35
+OvertakingCrossroadsCar,200001TX00698,2000,London,35
+OvertakingCrossroadsCar,200001XS01320,2000,London,51
+OvertakingCrossroadsCar,200004F050400,2000,Lancashire,10
+OvertakingCrossroadsCar,2.00005E+12,2000,Merseyside,28
+OvertakingCrossroadsCar,200006L007312,2000,Wigan,20
+OvertakingCrossroadsCar,2.00013E+12,2000,Bradford,17
+OvertakingCrossroadsCar,2000317D40357,2000,Nottinghamshire,12
+OvertakingCrossroadsCar,2.00033E+12,2000,Leicestershire,20
+OvertakingCrossroadsCar,200043W047110,2000,Reading,28
+OvertakingCrossroadsCar,2000440OC0433,2000,Hampshire,38
+OvertakingCrossroadsCar,200050F313765,2000,Torbay,22
+OvertakingCrossroadsCar,2.00052E+12,2000,City of Bristol,27
+OvertakingCrossroadsCar,2000550B04762,2000,Bournemouth,28
+OvertakingCrossroadsCar,200101CP00313,2001,London,21
+OvertakingCrossroadsCar,200101DM02617,2001,London,30
+OvertakingCrossroadsCar,200101GD00873,2001,London,30
+OvertakingCrossroadsCar,200101NI01316,2001,London,27
+OvertakingCrossroadsCar,200101TX00882,2001,London,16
+OvertakingCrossroadsCar,200106C014414,2001,Manchester,13
+OvertakingCrossroadsCar,200106K010197,2001,Bolton,41
+OvertakingCrossroadsCar,2.00121E+12,2001,Stoke on Trent,9
+OvertakingCrossroadsCar,20013102C0224,2001,Nottingham,
+OvertakingCrossroadsCar,2.00133E+12,2001,Leicestershire,34
+OvertakingCrossroadsCar,2.00135E+12,2001,Cambridgeshire,30
+OvertakingCrossroadsCar,2001400C01323,2001,Luton,51
+OvertakingCrossroadsCar,2001440GG0093,2001,Hampshire,27
+OvertakingCrossroadsCar,2.00145E+12,2001,Surrey,50
+OvertakingCrossroadsCar,200150F514792,2001,Devon,14
+OvertakingCrossroadsCar,2.00152E+12,2001,South Gloucestershire,32
+OvertakingCrossroadsCar,2001550B04587,2001,Bournemouth,39
+OvertakingCrossroadsCar,200201BS00430,2002,London,46
+OvertakingCrossroadsCar,200201DM01763,2002,London,25
+OvertakingCrossroadsCar,200201NI00363,2002,London,25
+OvertakingCrossroadsCar,200201VK00328,2002,London,12
+OvertakingCrossroadsCar,200201YF00325,2002,London,53
+OvertakingCrossroadsCar,200205BS00231,2002,Merseyside,49
+OvertakingCrossroadsCar,200206C017751,2002,Manchester,24
+OvertakingCrossroadsCar,200206C017975,2002,Manchester,39
+OvertakingCrossroadsCar,200206C019095,2002,Manchester,47
+OvertakingCrossroadsCar,2.00212E+12,2002,North Yorkshire,39
+OvertakingCrossroadsCar,2.00213E+12,2002,Wakefield,43
+OvertakingCrossroadsCar,2.00213E+12,2002,Kirklees,33
+OvertakingCrossroadsCar,200214CC00165,2002,Doncaster,14
+OvertakingCrossroadsCar,200216A042202,2002,North East Lincolnshire,17
+OvertakingCrossroadsCar,200216A074002,2002,North East Lincolnshire,64
+OvertakingCrossroadsCar,2.00221E+12,2002,Staffordshire,16
+OvertakingCrossroadsCar,200230D000194,2002,Derby,35
+OvertakingCrossroadsCar,20024200C0451,2002,Essex,29
+OvertakingCrossroadsCar,20024200H0136,2002,Southend on Sea,11
+OvertakingCrossroadsCar,200243W152072,2002,Slough,17
+OvertakingCrossroadsCar,2002440SY0209,2002,Southampton ,29
+OvertakingCrossroadsCar,2.00252E+12,2002,City of Bristol,56
+OvertakingCrossroadsCar,2002550B05099,2002,Bournemouth,30
+OvertakingCrossroadsCar,2002550B06876,2002,Bournemouth,
+OvertakingCrossroadsCar,200301DM01240,2003,London,39
+OvertakingCrossroadsCar,200301GD00109,2003,London,43
+OvertakingCrossroadsCar,200301GD00188,2003,London,38
+OvertakingCrossroadsCar,200301GD01046,2003,London,30
+OvertakingCrossroadsCar,200301MM01432,2003,London,33
+OvertakingCrossroadsCar,200301PY00291,2003,London,62
+OvertakingCrossroadsCar,200301RG00470,2003,London,29
+OvertakingCrossroadsCar,200301TA00540,2003,London,33
+OvertakingCrossroadsCar,200301TD00150,2003,London,25
+OvertakingCrossroadsCar,200301WW00733,2003,London,21
+OvertakingCrossroadsCar,200301YF00230,2003,London,35
+OvertakingCrossroadsCar,200305BS01148,2003,Merseyside,29
+OvertakingCrossroadsCar,200306M012220,2003,Trafford,14
+OvertakingCrossroadsCar,2.00313E+12,2003,Leeds,25
+OvertakingCrossroadsCar,200316D028203,2003,Kingston Upon Hull,15
+OvertakingCrossroadsCar,200316D078403,2003,Kingston Upon Hull,16
+OvertakingCrossroadsCar,200320D295802,2003,Birmingham,15
+OvertakingCrossroadsCar,200330D000579,2003,Derby,24
+OvertakingCrossroadsCar,20033102C0670,2003,Nottingham,13
+OvertakingCrossroadsCar,2.00335E+12,2003,Cambridgeshire,23
+OvertakingCrossroadsCar,2003440HB0302,2003,Hampshire,69
+OvertakingCrossroadsCar,200401EO00708,2004,London,28
+OvertakingCrossroadsCar,200401EO00766,2004,London,19
+OvertakingCrossroadsCar,200401MM70809,2004,London,54
+OvertakingCrossroadsCar,200401YR00353,2004,London,51
+OvertakingCrossroadsCar,200404A053304,2004,Blackpool,10
+OvertakingCrossroadsCar,2.00413E+12,2004,Bradford,9
+OvertakingCrossroadsCar,200422DD39328,2004,Worcestershire,12
+OvertakingCrossroadsCar,20043102C0437,2004,Nottingham,52
+OvertakingCrossroadsCar,2.00435E+12,2004,Peterborough,23
+OvertakingCrossroadsCar,2.00436E+12,2004,Norfolk,38
+OvertakingCrossroadsCar,2004440SY0718,2004,Southampton ,13
+OvertakingCrossroadsCar,200445EP55298,2004,Surrey,42
+OvertakingCrossroadsCar,200450D33N730,2004,Devon,40
+OvertakingCrossroadsCar,2.00452E+12,2004,City of Bristol,20
+OvertakingCrossroadsCar,2004550B03627,2004,Bournemouth,41
+OvertakingCrossroadsCar,200501EO40400,2005,London,37
+OvertakingCrossroadsCar,200501EO40506,2005,London,48
+OvertakingCrossroadsCar,200501GD10292,2005,London,31
+OvertakingCrossroadsCar,200501KG70602,2005,London,57
+OvertakingCrossroadsCar,200501TX20458,2005,London,
+OvertakingCrossroadsCar,200501VW40475,2005,London,81
+OvertakingCrossroadsCar,200501WW50656,2005,London,30
+OvertakingCrossroadsCar,200505CH00703,2005,Merseyside,11
+OvertakingCrossroadsCar,200506M037028,2005,Trafford,18
+OvertakingCrossroadsCar,2.0051E+12,2005,Newcastle upon Tyne,42
+OvertakingCrossroadsCar,2.00512E+12,2005,York,50
+OvertakingCrossroadsCar,2005160A00660,2005,North East Lincolnshire,10
+OvertakingCrossroadsCar,2005170H11755,2005,Hartlepool,49
+OvertakingCrossroadsCar,20053102C1429,2005,Nottingham,39
+OvertakingCrossroadsCar,2.00536E+12,2005,Norfolk,52
+OvertakingCrossroadsCar,2.00546E+12,2005,Kent,42
+OvertakingCrossroadsCar,2.00552E+12,2005,North Somerset,39
+OvertakingCrossroadsCar,200601CP00338,2006,London,36
+OvertakingCrossroadsCar,200601CW10999,2006,London,21
+OvertakingCrossroadsCar,200601CW11775,2006,London,35
+OvertakingCrossroadsCar,200601FH10057,2006,London,47
+OvertakingCrossroadsCar,200601GD10255,2006,London,24
+OvertakingCrossroadsCar,200601MM70860,2006,London,30
+OvertakingCrossroadsCar,200601PY20220,2006,London,
+OvertakingCrossroadsCar,200601WW50501,2006,London,47
+OvertakingCrossroadsCar,200606L054046,2006,Wigan,31
+OvertakingCrossroadsCar,200614B067806,2006,Barnsley,55
+OvertakingCrossroadsCar,2006160A04160,2006,North East Lincolnshire,11
+OvertakingCrossroadsCar,200620F084702,2006,Birmingham,40
+OvertakingCrossroadsCar,200620H044301,2006,Walsall,15
+OvertakingCrossroadsCar,2.00636E+12,2006,Norfolk,64
+OvertakingCrossroadsCar,2.00644E+12,2006,Southampton ,33
+OvertakingCrossroadsCar,2.00647E+12,2006,Brighton and Hove,64
+OvertakingCrossroadsCar,2.00647E+12,2006,West Sussex,72
+OvertakingCrossroadsCar,2.00647E+12,2006,Brighton and Hove,40
+OvertakingCrossroadsCar,2.00647E+12,2006,West Sussex,20
+OvertakingCrossroadsCar,2.00653E+12,2006,Gloucestershire,16
+OvertakingCrossroadsCar,200701BS70451,2007,London,
+OvertakingCrossroadsCar,200701EO40254,2007,London,
+OvertakingCrossroadsCar,200701FH10214,2007,London,33
+OvertakingCrossroadsCar,200701HT63354,2007,London,30
+OvertakingCrossroadsCar,200701HT64837,2007,London,43
+OvertakingCrossroadsCar,200701RG40108,2007,London,20
+OvertakingCrossroadsCar,200701WW50374,2007,London,49
+OvertakingCrossroadsCar,200705AA21440,2007,Merseyside,15
+OvertakingCrossroadsCar,200706G074305,2007,Tameside,16
+OvertakingCrossroadsCar,2.00707E+12,2007,Cheshire West and Chester,14
+OvertakingCrossroadsCar,2.0071E+12,2007,South Tyneside,11
+OvertakingCrossroadsCar,2007170S10777,2007,Stockton on Tees,18
+OvertakingCrossroadsCar,200720K125502,2007,Sandwell,34
+OvertakingCrossroadsCar,200720M048603,2007,Coventry,35
+OvertakingCrossroadsCar,20073104D2198,2007,Nottinghamshire,42
+OvertakingCrossroadsCar,2.00733E+12,2007,Leicestershire,26
+OvertakingCrossroadsCar,200734NW35697,2007,Northamptonshire,60
+OvertakingCrossroadsCar,2.00735E+12,2007,Cambridgeshire,73
+OvertakingCrossroadsCar,2.00735E+12,2007,Cambridgeshire,21
+OvertakingCrossroadsCar,200742I411710,2007,Thurrock,26
+OvertakingCrossroadsCar,200742I432910,2007,Southend on Sea,55
+OvertakingCrossroadsCar,200801CW10435,2008,London,
+OvertakingCrossroadsCar,200801CW11066,2008,London,22
+OvertakingCrossroadsCar,200801CW11745,2008,London,77
+OvertakingCrossroadsCar,200801LX50582,2008,London,33
+OvertakingCrossroadsCar,200801MM70406,2008,London,
+OvertakingCrossroadsCar,200801MM70689,2008,London,29
+OvertakingCrossroadsCar,200801RG40258,2008,London,46
+OvertakingCrossroadsCar,200801XD80481,2008,London,29
+OvertakingCrossroadsCar,200806B093921,2008,Manchester,16
+OvertakingCrossroadsCar,200811ND24128,2008,Durham,14
+OvertakingCrossroadsCar,2.00813E+12,2008,Kirklees,32
+OvertakingCrossroadsCar,2008170M11148,2008,Middlesbrough,13
+OvertakingCrossroadsCar,200820D177002,2008,Birmingham,51
+OvertakingCrossroadsCar,200820D325701,2008,Birmingham,56
+OvertakingCrossroadsCar,2.00822E+12,2008,Stoke on Trent,28
+OvertakingCrossroadsCar,2.00822E+12,2008,Staffordshire,41
+OvertakingCrossroadsCar,2.00835E+12,2008,Cambridgeshire,66
+OvertakingCrossroadsCar,200845SP27417,2008,Surrey,52
+OvertakingCrossroadsCar,2.00852E+12,2008,City of Bristol,60
+OvertakingCrossroadsCar,2.00853E+12,2008,Gloucestershire,60
+OvertakingCrossroadsCar,200854ES41308,2008,Wiltshire,33
+OvertakingCrossroadsCar,2008558C05075,2008,Bournemouth,26
+OvertakingCrossroadsCar,200901BS70367,2009,London,53
+OvertakingCrossroadsCar,200901CP00174,2009,London,29
+OvertakingCrossroadsCar,200901CW10468,2009,London,19
+OvertakingCrossroadsCar,200901CW11120,2009,London,
+OvertakingCrossroadsCar,200901CW12808,2009,London,54
+OvertakingCrossroadsCar,200901EO40060,2009,London,26
+OvertakingCrossroadsCar,200901EO40706,2009,London,38
+OvertakingCrossroadsCar,200901FH10653,2009,London,9
+OvertakingCrossroadsCar,200901HT20424,2009,London,
+OvertakingCrossroadsCar,200901HT20645,2009,London,31
+OvertakingCrossroadsCar,200901KF60777,2009,London,
+OvertakingCrossroadsCar,200901LX50279,2009,London,51
+OvertakingCrossroadsCar,200901LX50483,2009,London,27
+OvertakingCrossroadsCar,200901RG40214,2009,London,31
+OvertakingCrossroadsCar,200901TW60332,2009,London,39
+OvertakingCrossroadsCar,2.00907E+12,2009,Halton,19
+OvertakingCrossroadsCar,2.00922E+12,2009,Staffordshire,26
+OvertakingCrossroadsCar,2.00923E+12,2009,Warwickshire,20
+OvertakingCrossroadsCar,2.00936E+12,2009,Norfolk,51
+OvertakingCrossroadsCar,20094100A0051,2009,Hertfordshire,40
+OvertakingCrossroadsCar,200942I022701,2009,Thurrock,70
+OvertakingCrossroadsCar,200943P162059,2009,Oxfordshire,45
+OvertakingCrossroadsCar,2.00944E+12,2009,Southampton ,60
+OvertakingCrossroadsCar,2.00946E+12,2009,Kent,62
+OvertakingCrossroadsCar,2.00952E+12,2009,City of Bristol,27
+OvertakingCrossroadsCar,2.00952E+12,2009,City of Bristol,18
+OvertakingCrossroadsCar,2.00953E+12,2009,Gloucestershire,32
+OvertakingCrossroadsCar,2009559C04214,2009,Poole,29
+OvertakingCrossroadsCar,201001CW12255,2010,London,27
+OvertakingCrossroadsCar,201001EO40702,2010,London,35
+OvertakingCrossroadsCar,201001EO40790,2010,London,38
+OvertakingCrossroadsCar,201001GD10846,2010,London,24
+OvertakingCrossroadsCar,201001HT20482,2010,London,17
+OvertakingCrossroadsCar,201001JC30227,2010,London,13
+OvertakingCrossroadsCar,201001KF60188,2010,London,57
+OvertakingCrossroadsCar,201001LX50027,2010,London,32
+OvertakingCrossroadsCar,201001LX50239,2010,London,27
+OvertakingCrossroadsCar,201001WW50876,2010,London,30
+OvertakingCrossroadsCar,201001XH30109,2010,London,43
+OvertakingCrossroadsCar,201001YR90676,2010,London,27
+OvertakingCrossroadsCar,201005BB04702,2010,Merseyside,58
+OvertakingCrossroadsCar,201005DD05525,2010,Merseyside,19
+OvertakingCrossroadsCar,201006MF30908,2010,Trafford,48
+OvertakingCrossroadsCar,2.0101E+12,2010,Newcastle upon Tyne,24
+OvertakingCrossroadsCar,2.01012E+12,2010,North Yorkshire,45
+OvertakingCrossroadsCar,2.01012E+12,2010,York,64
+OvertakingCrossroadsCar,2.01023E+12,2010,Warwickshire,60
+OvertakingCrossroadsCar,20103102C1590,2010,Nottingham,42
+OvertakingCrossroadsCar,2.01035E+12,2010,Cambridgeshire,62
+OvertakingCrossroadsCar,201037G029620,2010,Suffolk,22
+OvertakingCrossroadsCar,2.01044E+12,2010,Hampshire,57
+OvertakingCrossroadsCar,201054ET31810,2010,Wiltshire,34
+OvertakingCrossroadsCar,2010550C24649,2010,Poole,57
+OvertakingCrossroadsCar,2011201101CW10519,2011,London,44
+OvertakingCrossroadsCar,2011201101CW10898,2011,London,37
+OvertakingCrossroadsCar,2011201101CW11018,2011,London,19
+OvertakingCrossroadsCar,2011201101CW11061,2011,London,45
+OvertakingCrossroadsCar,2011201101CW11374,2011,London,58
+OvertakingCrossroadsCar,2011201101CW11396,2011,London,26
+OvertakingCrossroadsCar,2011201101CW12366,2011,London,23
+OvertakingCrossroadsCar,2011201101GD10072,2011,London,29
+OvertakingCrossroadsCar,2011201101GD10386,2011,London,24
+OvertakingCrossroadsCar,2011201101HT20052,2011,London,29
+OvertakingCrossroadsCar,2011201101HT20223,2011,London,29
+OvertakingCrossroadsCar,2011201101KF60406,2011,London,20
+OvertakingCrossroadsCar,2011201101TA00675,2011,London,27
+OvertakingCrossroadsCar,2011201101TB00597,2011,London,39
+OvertakingCrossroadsCar,2011201101TB00663,2011,London,43
+OvertakingCrossroadsCar,2011201101TB00880,2011,London,23
+OvertakingCrossroadsCar,2011201101YE80125,2011,London,63
+OvertakingCrossroadsCar,2011201106B046884,2011,Manchester,21
+OvertakingCrossroadsCar,2.0112E+16,2011,Leicestershire,43
+OvertakingCrossroadsCar,2.0112E+16,2011,Leicestershire,64
+OvertakingCrossroadsCar,20112011400BA0391,2011,Bedford Borough Council,31
+OvertakingCrossroadsCar,2.0112E+16,2011,Medway,46
+OvertakingCrossroadsCar,2.0112E+16,2011,Kent,41
+OvertakingCrossroadsCar,20112011551D16599,2011,Dorset,29
+OvertakingCrossroadsCar,2012201201BS70333,2012,London,51
+OvertakingCrossroadsCar,2012201201CP00024,2012,London,46
+OvertakingCrossroadsCar,2012201201CP00359,2012,London,48
+OvertakingCrossroadsCar,2012201201CW10363,2012,London,32
+OvertakingCrossroadsCar,2012201201CW11031,2012,London,35
+OvertakingCrossroadsCar,2012201201CW11332,2012,London,47
+OvertakingCrossroadsCar,2012201201CW11784,2012,London,33
+OvertakingCrossroadsCar,2012201201CW11866,2012,London,39
+OvertakingCrossroadsCar,2012201201EK40391,2012,London,13
+OvertakingCrossroadsCar,2012201201EK40611,2012,London,26
+OvertakingCrossroadsCar,2012201201EO40137,2012,London,50
+OvertakingCrossroadsCar,2012201201FH10037,2012,London,11
+OvertakingCrossroadsCar,2012201201FH10651,2012,London,42
+OvertakingCrossroadsCar,2012201201JI40419,2012,London,19
+OvertakingCrossroadsCar,2012201201KF60518,2012,London,-1
+OvertakingCrossroadsCar,2012201201LX50817,2012,London,29
+OvertakingCrossroadsCar,2012201201LX50974,2012,London,19
+OvertakingCrossroadsCar,2012201201MM70021,2012,London,35
+OvertakingCrossroadsCar,2012201201MM70266,2012,London,27
+OvertakingCrossroadsCar,2012201201MM70292,2012,London,37
+OvertakingCrossroadsCar,2012201201MM70445,2012,London,43
+OvertakingCrossroadsCar,2012201201MM70798,2012,London,24
+OvertakingCrossroadsCar,2012201201PL60348,2012,London,49
+OvertakingCrossroadsCar,2012201201RG40101,2012,London,42
+OvertakingCrossroadsCar,2012201201RG40182,2012,London,21
+OvertakingCrossroadsCar,2012201201SX20039,2012,London,72
+OvertakingCrossroadsCar,2012201201TA00533,2012,London,19
+OvertakingCrossroadsCar,2012201201TA00826,2012,London,40
+OvertakingCrossroadsCar,2012201201TB00640,2012,London,19
+OvertakingCrossroadsCar,2012201201TB00760,2012,London,54
+OvertakingCrossroadsCar,2012201201TW60113,2012,London,21
+OvertakingCrossroadsCar,2012201201TX20025,2012,London,44
+OvertakingCrossroadsCar,2012201201ZT80368,2012,London,45
+OvertakingCrossroadsCar,2012201204BC12160,2012,Lancashire,46
+OvertakingCrossroadsCar,2012201204CJ12259,2012,Lancashire,43
+OvertakingCrossroadsCar,2012201205BB03953,2012,Merseyside,15
+OvertakingCrossroadsCar,2012201206B057180,2012,Manchester,47
+OvertakingCrossroadsCar,2.0122E+16,2012,Kirklees,19
+OvertakingCrossroadsCar,2.0122E+16,2012,Leeds,34
+OvertakingCrossroadsCar,20122012170M11872,2012,Middlesbrough,34
+OvertakingCrossroadsCar,2012201220G007662,2012,Wolverhampton,31
+OvertakingCrossroadsCar,2.0122E+16,2012,Staffordshire,43
+OvertakingCrossroadsCar,2.0122E+16,2012,Stoke on Trent,24
+OvertakingCrossroadsCar,2012201231C067212,2012,Nottingham,-1
+OvertakingCrossroadsCar,2.0122E+16,2012,Leicestershire,28
+OvertakingCrossroadsCar,2.0122E+16,2012,Leicestershire,70
+OvertakingCrossroadsCar,2.0122E+16,2012,Cambridgeshire,24
+OvertakingCrossroadsCar,2.0122E+16,2012,Norfolk,36
+OvertakingCrossroadsCar,2.0122E+16,2012,Norfolk,27
+OvertakingCrossroadsCar,2.0122E+16,2012,Southampton ,19
+OvertakingCrossroadsCar,2.0122E+16,2012,Medway,27
+OvertakingCrossroadsCar,2.0122E+16,2012,City of Bristol,43
+OvertakingCrossroadsCar,2.0122E+16,2012,Gloucestershire,44
+OvertakingCrossroadsCar,20122012552D27628,2012,Dorset,16

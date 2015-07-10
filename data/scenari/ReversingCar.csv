@@ -1,0 +1,2523 @@
+Scenario,urn,accyr,LAName,Age
+ReversingCar,199901BH00038,1999,London,39
+ReversingCar,199901CX00165,1999,London,38
+ReversingCar,199901FH00298,1999,London,31
+ReversingCar,199901GD00079,1999,London,21
+ReversingCar,199901GD00663,1999,London,8
+ReversingCar,199901HT00011,1999,London,6
+ReversingCar,199901HT00782,1999,London,36
+ReversingCar,199901HT00825,1999,London,
+ReversingCar,199901HT00871,1999,London,11
+ReversingCar,199901JB00628,1999,London,14
+ReversingCar,199901JC00383,1999,London,54
+ReversingCar,199901LD00424,1999,London,42
+ReversingCar,199901LD00576,1999,London,33
+ReversingCar,199901LS00318,1999,London,8
+ReversingCar,199901LS00344,1999,London,21
+ReversingCar,199901MS00472,1999,London,6
+ReversingCar,199901NI00279,1999,London,30
+ReversingCar,199901NI00613,1999,London,16
+ReversingCar,199901PD00195,1999,London,38
+ReversingCar,199901QA00813,1999,London,23
+ReversingCar,199901QD00384,1999,London,13
+ReversingCar,199901RG00473,1999,London,15
+ReversingCar,199901RY00301,1999,London,12
+ReversingCar,199901RY00507,1999,London,18
+ReversingCar,199901RY00630,1999,London,16
+ReversingCar,199901SC01016,1999,London,11
+ReversingCar,199901TW00116,1999,London,35
+ReversingCar,199901TX00726,1999,London,
+ReversingCar,199901TX00770,1999,London,51
+ReversingCar,199901TX00870,1999,London,35
+ReversingCar,199901VK00255,1999,London,70
+ReversingCar,199901WW00165,1999,London,28
+ReversingCar,199901WW01082,1999,London,22
+ReversingCar,199901XD00489,1999,London,
+ReversingCar,199901XH00472,1999,London,14
+ReversingCar,199901XS00167,1999,London,21
+ReversingCar,199901XS00174,1999,London,35
+ReversingCar,199901YF00626,1999,London,28
+ReversingCar,199901ZD00300,1999,London,14
+ReversingCar,199901ZP00440,1999,Surrey,
+ReversingCar,199901ZP00549,1999,London,28
+ReversingCar,199901ZP00659,1999,London,7
+ReversingCar,199901ZP00681,1999,London,17
+ReversingCar,1.99903E+12,1999,Cumbria,25
+ReversingCar,199904B015699,1999,Lancashire,10
+ReversingCar,199904B058199,1999,Lancashire,13
+ReversingCar,199904C005599,1999,Lancashire,71
+ReversingCar,199904C031599,1999,Lancashire,4
+ReversingCar,199904C060199,1999,Lancashire,56
+ReversingCar,199904C107399,1999,Lancashire,3
+ReversingCar,199904D034299,1999,Lancashire,45
+ReversingCar,1.99905E+12,1999,Merseyside,14
+ReversingCar,1.99905E+12,1999,Merseyside,43
+ReversingCar,1.99905E+12,1999,Merseyside,12
+ReversingCar,1.99905E+12,1999,Merseyside,17
+ReversingCar,1.99905E+12,1999,Merseyside,45
+ReversingCar,1.99905E+12,1999,Merseyside,49
+ReversingCar,1.99905E+12,1999,Merseyside,14
+ReversingCar,199906C007542,1999,Manchester,6
+ReversingCar,199906C651399,1999,Manchester,14
+ReversingCar,199906G003576,1999,Tameside,4
+ReversingCar,199906J005371,1999,Stockport,29
+ReversingCar,199906J005450,1999,Stockport,6
+ReversingCar,199906K005113,1999,Bolton,14
+ReversingCar,199906L005835,1999,Wigan,7
+ReversingCar,199906L006553,1999,Wigan,39
+ReversingCar,199906L453899,1999,Wigan,25
+ReversingCar,199906M004935,1999,Trafford,57
+ReversingCar,199906P003909,1999,Rochdale,6
+ReversingCar,199906Q004083,1999,Oldham,6
+ReversingCar,1999079A21015,1999,Cheshire West and Chester,10
+ReversingCar,1999079A30684,1999,Cheshire West and Chester,4
+ReversingCar,1999079A31568,1999,Cheshire West and Chester,10
+ReversingCar,1999079A40626,1999,Cheshire West and Chester,42
+ReversingCar,1999079B20659,1999,Warrington,28
+ReversingCar,199910E377299,1999,Newcastle upon Tyne,6
+ReversingCar,199910I164599,1999,North Tyneside,12
+ReversingCar,199910L034199,1999,South Tyneside,28
+ReversingCar,199910L096999,1999,South Tyneside,10
+ReversingCar,199910O167599,1999,South Tyneside,3
+ReversingCar,199910O192999,1999,South Tyneside,6
+ReversingCar,199910O261999,1999,South Tyneside,5
+ReversingCar,1999119CG1619,1999,Durham,5
+ReversingCar,1999119CI1087,1999,Durham,6
+ReversingCar,1999119CI2899,1999,Durham,13
+ReversingCar,1.99912E+12,1999,York,57
+ReversingCar,1.99912E+12,1999,North Yorkshire,20
+ReversingCar,1.99912E+12,1999,North Yorkshire,50
+ReversingCar,1.99912E+12,1999,North Yorkshire,13
+ReversingCar,199913AC25799,1999,Leeds,5
+ReversingCar,199913BB32999,1999,Leeds,8
+ReversingCar,199913BB44199,1999,Leeds,57
+ReversingCar,199913CA22699,1999,Leeds,4
+ReversingCar,199913CA34699,1999,Leeds,37
+ReversingCar,199913CB27599,1999,Leeds,29
+ReversingCar,199913CB28499,1999,Leeds,9
+ReversingCar,199913DA15299,1999,Wakefield,8
+ReversingCar,199913DA28099,1999,Wakefield,12
+ReversingCar,199913DC28599,1999,Wakefield,4
+ReversingCar,199913EC26899,1999,Kirklees,11
+ReversingCar,199913EC45099,1999,Kirklees,8
+ReversingCar,199913HB26299,1999,Bradford,7
+ReversingCar,199913HD10099,1999,Bradford,7
+ReversingCar,199914AA00502,1999,Doncaster,27
+ReversingCar,199914BB00673,1999,Doncaster,9
+ReversingCar,199914BB00860,1999,Doncaster,57
+ReversingCar,199914DD00422,1999,Barnsley,7
+ReversingCar,199914DD00436,1999,Barnsley,
+ReversingCar,199914DD00462,1999,Barnsley,9
+ReversingCar,199914DD00548,1999,Barnsley,32
+ReversingCar,199914FF00710,1999,Rotherham,
+ReversingCar,199914GG00476,1999,Rotherham,15
+ReversingCar,199914HH00586,1999,Sheffield,6
+ReversingCar,199914JJ00549,1999,Sheffield,9
+ReversingCar,199914JJ01068,1999,Sheffield,14
+ReversingCar,199916A032999,1999,North East Lincolnshire,69
+ReversingCar,199916B026699,1999,North Lincolnshire,20
+ReversingCar,199916B040599,1999,North Lincolnshire,49
+ReversingCar,199916D013299,1999,Kingston Upon Hull,12
+ReversingCar,199916D022199,1999,Kingston Upon Hull,12
+ReversingCar,199916E033599,1999,East Riding of Yorkshire,22
+ReversingCar,199916F034199,1999,Kingston Upon Hull,30
+ReversingCar,199917L100110,1999,Redcar and Cleveland,14
+ReversingCar,199917L200105,1999,Redcar and Cleveland,9
+ReversingCar,199917M100383,1999,Middlesbrough,40
+ReversingCar,199917S100267,1999,Stockton on Tees,9
+ReversingCar,199917S300388,1999,Stockton on Tees,7
+ReversingCar,199920D173301,1999,Birmingham,11
+ReversingCar,199920D260701,1999,Birmingham,6
+ReversingCar,199920D317401,1999,Birmingham,36
+ReversingCar,199920E161301,1999,Birmingham,14
+ReversingCar,199920F086601,1999,Birmingham,5
+ReversingCar,199920F104401,1999,Birmingham,12
+ReversingCar,199920G019001,1999,Wolverhampton,13
+ReversingCar,199920G035801,1999,Wolverhampton,20
+ReversingCar,199920G038202,1999,Wolverhampton,15
+ReversingCar,199920G045601,1999,Wolverhampton,40
+ReversingCar,199920G059102,1999,Wolverhampton,13
+ReversingCar,199920G100601,1999,Wolverhampton,60
+ReversingCar,199920J076601,1999,Dudley,18
+ReversingCar,199920K060001,1999,Sandwell,15
+ReversingCar,199920K068702,1999,Sandwell,12
+ReversingCar,199920K069502,1999,Sandwell,13
+ReversingCar,199920L041301,1999,Solihull,14
+ReversingCar,1.99922E+12,1999,Stoke on Trent,10
+ReversingCar,1.99922E+12,1999,Staffordshire,13
+ReversingCar,1.99922E+12,1999,Staffordshire,40
+ReversingCar,1.99922E+12,1999,Staffordshire,10
+ReversingCar,1.99922E+12,1999,Staffordshire,13
+ReversingCar,199922BF00696,1999,Worcestershire,32
+ReversingCar,199922BV02181,1999,Worcestershire,8
+ReversingCar,199922CF12152,1999,Worcestershire,27
+ReversingCar,199922GA11115,1999,Telford and Wrekin,13
+ReversingCar,1.99924E+12,1999,Warwickshire,34
+ReversingCar,1.99924E+12,1999,Warwickshire,14
+ReversingCar,1.99924E+12,1999,Warwickshire,13
+ReversingCar,1.99924E+12,1999,Warwickshire,9
+ReversingCar,199930B000306,1999,Derbyshire,17
+ReversingCar,199930B000363,1999,Derbyshire,8
+ReversingCar,199930C000694,1999,Derbyshire,39
+ReversingCar,1999317A20552,1999,Nottinghamshire,10
+ReversingCar,1999317B40042,1999,Nottingham,13
+ReversingCar,1999317B41165,1999,Nottingham,12
+ReversingCar,1999317C20202,1999,Nottingham,
+ReversingCar,1999317C20591,1999,Nottingham,35
+ReversingCar,1999317D20210,1999,Nottingham,
+ReversingCar,1999317D42658,1999,Nottinghamshire,51
+ReversingCar,1999317E81593,1999,Nottinghamshire,11
+ReversingCar,199932A000639,1999,Lincolnshire,36
+ReversingCar,199932C003119,1999,Lincolnshire,37
+ReversingCar,199932D011419,1999,Lincolnshire,50
+ReversingCar,199932D014749,1999,Lincolnshire,42
+ReversingCar,1.99934E+12,1999,Leicestershire,18
+ReversingCar,199934NC00168,1999,Northamptonshire,18
+ReversingCar,199934NN00624,1999,Northamptonshire,11
+ReversingCar,199934NN01450,1999,Northamptonshire,24
+ReversingCar,199934NW00115,1999,Northamptonshire,28
+ReversingCar,1.99935E+12,1999,Cambridgeshire,53
+ReversingCar,1.99935E+12,1999,Cambridgeshire,42
+ReversingCar,1.99935E+12,1999,Peterborough,3
+ReversingCar,1.99935E+12,1999,Cambridgeshire,8
+ReversingCar,199936T990006,1999,Norfolk,42
+ReversingCar,199937B006605,1999,Suffolk,75
+ReversingCar,199937L002971,1999,Suffolk,14
+ReversingCar,199937L002994,1999,Suffolk,31
+ReversingCar,19994100B0200,1999,Hertfordshire,12
+ReversingCar,19994100C0635,1999,Hertfordshire,29
+ReversingCar,19994100C0744,1999,Hertfordshire,57
+ReversingCar,19994100F0264,1999,Hertfordshire,66
+ReversingCar,19994100G0067,1999,Hertfordshire,61
+ReversingCar,19994100G0223,1999,Hertfordshire,17
+ReversingCar,19994200A0758,1999,Essex,13
+ReversingCar,19994200B0506,1999,Essex,4
+ReversingCar,19994200C0586,1999,Essex,8
+ReversingCar,19994200C0872,1999,Essex,48
+ReversingCar,19994200D0150,1999,Essex,6
+ReversingCar,19994200D0278,1999,Essex,6
+ReversingCar,19994200D0336,1999,Essex,6
+ReversingCar,19994200E0378,1999,Essex,56
+ReversingCar,19994200F0197,1999,Thurrock,11
+ReversingCar,19994200G0949,1999,Essex,30
+ReversingCar,19994200J0339,1999,Essex,10
+ReversingCar,199943N446109,1999,Buckinghamshire,64
+ReversingCar,199943P039129,1999,Oxfordshire,70
+ReversingCar,199943P107079,1999,Oxfordshire,70
+ReversingCar,199943P115129,1999,Oxfordshire,61
+ReversingCar,199943P262059,1999,Oxfordshire,47
+ReversingCar,199943P333049,1999,Oxfordshire,15
+ReversingCar,199943P373049,1999,Oxfordshire,20
+ReversingCar,199943P493109,1999,Oxfordshire,11
+ReversingCar,199943S117099,1999,Milton Keynes,41
+ReversingCar,199943W041069,1999,Reading,36
+ReversingCar,199943W096129,1999,Reading,14
+ReversingCar,1999440AA0417,1999,Hampshire,15
+ReversingCar,1999440OC1142,1999,Hampshire,42
+ReversingCar,1999440SP0516,1999,Southampton ,16
+ReversingCar,1999440ZD0366,1999,Isle of Wight,15
+ReversingCar,199945EC00389,1999,Surrey,17
+ReversingCar,199945ER00166,1999,Surrey,5
+ReversingCar,199945NC00160,1999,Surrey,16
+ReversingCar,199945NC00261,1999,Surrey,5
+ReversingCar,199945WG00320,1999,Surrey,
+ReversingCar,199946CT00587,1999,Kent,14
+ReversingCar,199946CT00750,1999,Kent,11
+ReversingCar,199946ME01176,1999,Medway,13
+ReversingCar,199946ME03147,1999,Medway,15
+ReversingCar,199946ME05603,1999,Medway,
+ReversingCar,199946NK18571,1999,Kent,60
+ReversingCar,199946SW09194,1999,Kent,43
+ReversingCar,199946WK02841,1999,Kent,
+ReversingCar,199946WL02333,1999,Kent,2
+ReversingCar,199947H002525,1999,West Sussex,6
+ReversingCar,199947N002814,1999,West Sussex,10
+ReversingCar,199947N003118,1999,West Sussex,34
+ReversingCar,199947S003002,1999,East Sussex,40
+ReversingCar,199947T002715,1999,East Sussex,15
+ReversingCar,199947X002744,1999,West Sussex,8
+ReversingCar,199947X003098,1999,West Sussex,
+ReversingCar,199950A233546,1999,Cornwall and Isles of Scilly,58
+ReversingCar,199950A322976,1999,Cornwall and Isles of Scilly,50
+ReversingCar,199950A613222,1999,Cornwall and Isles of Scilly,17
+ReversingCar,199950C214055,1999,Devon,12
+ReversingCar,199950D213932,1999,Devon,5
+ReversingCar,199950E211059,1999,Plymouth,15
+ReversingCar,199950E312951,1999,Plymouth,17
+ReversingCar,199950F411502,1999,Devon,10
+ReversingCar,1.99952E+12,1999,Somerset,75
+ReversingCar,1.99952E+12,1999,City of Bristol,12
+ReversingCar,1.99952E+12,1999,City of Bristol,34
+ReversingCar,1.99952E+12,1999,Somerset,24
+ReversingCar,1.99952E+12,1999,Somerset,14
+ReversingCar,1.99952E+12,1999,Somerset,18
+ReversingCar,1.99952E+12,1999,South Gloucestershire,40
+ReversingCar,1999530AI0662,1999,Gloucestershire,47
+ReversingCar,1999530AI2203,1999,Gloucestershire,30
+ReversingCar,1999530AI2498,1999,Gloucestershire,4
+ReversingCar,1999530AI3337,1999,Gloucestershire,5
+ReversingCar,1999530AI3491,1999,Gloucestershire,12
+ReversingCar,199954AP33699,1999,Wiltshire,8
+ReversingCar,199954CT47899,1999,Wiltshire,16
+ReversingCar,199954DS01569,1999,Swindon,83
+ReversingCar,1999550B02812,1999,Bournemouth,32
+ReversingCar,200001DM00244,2000,London,31
+ReversingCar,200001EK00523,2000,London,38
+ReversingCar,200001EK00983,2000,London,53
+ReversingCar,200001EK01339,2000,London,
+ReversingCar,200001FH00176,2000,London,24
+ReversingCar,200001GN00171,2000,London,20
+ReversingCar,200001GN00402,2000,London,48
+ReversingCar,200001HT00554,2000,London,50
+ReversingCar,200001HT00674,2000,London,50
+ReversingCar,200001HT01057,2000,London,29
+ReversingCar,200001HT01208,2000,London,29
+ReversingCar,200001JI00506,2000,London,40
+ReversingCar,200001JI01342,2000,London,36
+ReversingCar,200001KG00294,2000,London,16
+ReversingCar,200001KO00412,2000,London,16
+ReversingCar,200001LX00896,2000,London,13
+ReversingCar,200001LX01260,2000,London,29
+ReversingCar,200001LX01385,2000,London,24
+ReversingCar,200001MM00932,2000,London,37
+ReversingCar,200001MM00951,2000,London,66
+ReversingCar,200001MM01020,2000,London,9
+ReversingCar,200001NI00320,2000,London,33
+ReversingCar,200001NI00773,2000,London,74
+ReversingCar,200001NI01328,2000,London,30
+ReversingCar,200001PL00656,2000,London,43
+ReversingCar,200001PY01028,2000,London,60
+ReversingCar,200001QD00547,2000,London,15
+ReversingCar,200001SX01264,2000,London,9
+ReversingCar,200001TW00130,2000,London,52
+ReversingCar,200001TW00370,2000,London,24
+ReversingCar,200001TX00575,2000,London,5
+ReversingCar,200001TX00576,2000,London,5
+ReversingCar,200001TX01254,2000,London,83
+ReversingCar,200001WW00852,2000,London,21
+ReversingCar,200001XH00629,2000,London,15
+ReversingCar,200001XH00762,2000,London,6
+ReversingCar,200001YE00130,2000,London,12
+ReversingCar,200001YE00435,2000,London,
+ReversingCar,200001YE00589,2000,London,1
+ReversingCar,200001YF00489,2000,London,12
+ReversingCar,200001YR00597,2000,London,8
+ReversingCar,200001ZP00212,2000,London,
+ReversingCar,200001ZP00254,2000,Surrey,14
+ReversingCar,2.00003E+12,2000,Cumbria,26
+ReversingCar,2.00003E+12,2000,Cumbria,11
+ReversingCar,2.00003E+12,2000,Cumbria,10
+ReversingCar,200004A013200,2000,Blackpool,25
+ReversingCar,200004A046600,2000,Blackpool,28
+ReversingCar,200004D047800,2000,Lancashire,10
+ReversingCar,2.00005E+12,2000,Merseyside,14
+ReversingCar,2.00005E+12,2000,Merseyside,15
+ReversingCar,2.00005E+12,2000,Merseyside,6
+ReversingCar,2.00005E+12,2000,Merseyside,12
+ReversingCar,2.00005E+12,2000,Merseyside,37
+ReversingCar,200006A007150,2000,Manchester,32
+ReversingCar,200006C010889,2000,Manchester,40
+ReversingCar,200006C011723,2000,Manchester,78
+ReversingCar,200006F006302,2000,Salford,8
+ReversingCar,200006F007268,2000,Salford,25
+ReversingCar,200006J007427,2000,Stockport,22
+ReversingCar,200006K007633,2000,Bolton,10
+ReversingCar,200006L007684,2000,Wigan,66
+ReversingCar,200006M006559,2000,Trafford,13
+ReversingCar,200006N004928,2000,Bury,13
+ReversingCar,200006N005079,2000,Bury,13
+ReversingCar,200006Q006242,2000,Oldham,10
+ReversingCar,2.00007E+12,2000,Cheshire West and Chester,
+ReversingCar,2.00007E+12,2000,Cheshire East,21
+ReversingCar,200010B090700,2000,Northumberland,39
+ReversingCar,200010C103200,2000,Northumberland,11
+ReversingCar,200010C123200,2000,Northumberland,13
+ReversingCar,200010C326900,2000,Northumberland,7
+ReversingCar,200010C407900,2000,Northumberland,18
+ReversingCar,200010H331200,2000,North Tyneside,6
+ReversingCar,200010I025100,2000,North Tyneside,45
+ReversingCar,200010J384700,2000,Gateshead,4
+ReversingCar,200011BD15290,2000,Durham,4
+ReversingCar,200011DJ28710,2000,Darlington,74
+ReversingCar,2.00012E+12,2000,York,12
+ReversingCar,2.00012E+12,2000,North Yorkshire,15
+ReversingCar,2.00012E+12,2000,York,8
+ReversingCar,2.00012E+12,2000,York,31
+ReversingCar,2.00013E+12,2000,Wakefield,10
+ReversingCar,2.00013E+12,2000,Calderdale,16
+ReversingCar,2.00013E+12,2000,Bradford,15
+ReversingCar,2.00013E+12,2000,Kirklees,50
+ReversingCar,2.00013E+12,2000,Leeds,10
+ReversingCar,200014BB00728,2000,Doncaster,53
+ReversingCar,200014CC00294,2000,Doncaster,7
+ReversingCar,200014CC00586,2000,Doncaster,23
+ReversingCar,200014GG00508,2000,Rotherham,16
+ReversingCar,200014HH00416,2000,Sheffield,11
+ReversingCar,200014KK00816,2000,Sheffield,10
+ReversingCar,200016A006300,2000,North East Lincolnshire,12
+ReversingCar,200016A026400,2000,North East Lincolnshire,9
+ReversingCar,200016A046900,2000,North East Lincolnshire,4
+ReversingCar,200016A065400,2000,North East Lincolnshire,12
+ReversingCar,200016B007000,2000,North Lincolnshire,18
+ReversingCar,200016B030200,2000,North Lincolnshire,61
+ReversingCar,200016B053200,2000,North Lincolnshire,76
+ReversingCar,200016C050500,2000,East Riding of Yorkshire,3
+ReversingCar,200016C083900,2000,East Riding of Yorkshire,9
+ReversingCar,200016D050900,2000,Kingston Upon Hull,
+ReversingCar,200017L100242,2000,Redcar and Cleveland,4
+ReversingCar,200017L200113,2000,Redcar and Cleveland,20
+ReversingCar,200017L300169,2000,Redcar and Cleveland,68
+ReversingCar,200020D260103,2000,Birmingham,10
+ReversingCar,200020G082402,2000,Wolverhampton,30
+ReversingCar,200020G096601,2000,Wolverhampton,19
+ReversingCar,200020J070402,2000,Dudley,12
+ReversingCar,200020L004701,2000,Solihull,30
+ReversingCar,200020L076201,2000,Solihull,24
+ReversingCar,2.00021E+12,2000,Stoke on Trent,13
+ReversingCar,2.00021E+12,2000,Stoke on Trent,13
+ReversingCar,2.00021E+12,2000,Stoke on Trent,4
+ReversingCar,2.00021E+12,2000,Staffordshire,8
+ReversingCar,2.00021E+12,2000,Staffordshire,21
+ReversingCar,2.00021E+12,2000,Staffordshire,13
+ReversingCar,2.00021E+12,2000,Staffordshire,
+ReversingCar,2.00021E+12,2000,Staffordshire,61
+ReversingCar,2.00021E+12,2000,Staffordshire,60
+ReversingCar,2.00021E+12,2000,Staffordshire,12
+ReversingCar,2.00021E+12,2000,Staffordshire,60
+ReversingCar,200022CG15654,2000,Worcestershire,54
+ReversingCar,200022EA13855,2000,Herefordshire,60
+ReversingCar,200022GB14014,2000,Telford and Wrekin,24
+ReversingCar,200022GB17421,2000,Telford and Wrekin,12
+ReversingCar,2.00023E+12,2000,Warwickshire,14
+ReversingCar,2.00023E+12,2000,Warwickshire,15
+ReversingCar,2.00023E+12,2000,Warwickshire,
+ReversingCar,2.00023E+12,2000,Warwickshire,8
+ReversingCar,2.00023E+12,2000,Warwickshire,14
+ReversingCar,200030A000267,2000,Derbyshire,6
+ReversingCar,200030B000304,2000,Derbyshire,
+ReversingCar,200030B000589,2000,Derbyshire,33
+ReversingCar,200030C000175,2000,Derbyshire,10
+ReversingCar,200030D000541,2000,Derby,9
+ReversingCar,2000317B20767,2000,Nottingham,11
+ReversingCar,2000317B41473,2000,Nottingham,13
+ReversingCar,2000317D20052,2000,Nottingham,
+ReversingCar,2000317D20767,2000,Nottinghamshire,11
+ReversingCar,2000317E20012,2000,Nottinghamshire,15
+ReversingCar,2000317E20091,2000,Nottinghamshire,67
+ReversingCar,2000317E20865,2000,Nottinghamshire,30
+ReversingCar,200032B002280,2000,Lincolnshire,36
+ReversingCar,200032B004020,2000,Lincolnshire,14
+ReversingCar,200032B005710,2000,Lincolnshire,7
+ReversingCar,200032C007650,2000,Lincolnshire,73
+ReversingCar,200032D011820,2000,Lincolnshire,70
+ReversingCar,2.00033E+12,2000,Leicestershire,11
+ReversingCar,2.00033E+12,2000,Leicestershire,24
+ReversingCar,2.00033E+12,2000,Leicestershire,33
+ReversingCar,2.00033E+12,2000,Leicestershire,15
+ReversingCar,2.00033E+12,2000,Leicestershire,29
+ReversingCar,2.00033E+12,2000,Leicestershire,22
+ReversingCar,200034NN00931,2000,Northamptonshire,12
+ReversingCar,200034NW00518,2000,Northamptonshire,8
+ReversingCar,2.00035E+12,2000,Cambridgeshire,27
+ReversingCar,2.00035E+12,2000,Cambridgeshire,49
+ReversingCar,2.00035E+12,2000,Cambridgeshire,45
+ReversingCar,2.00035E+12,2000,Cambridgeshire,16
+ReversingCar,2.00035E+12,2000,Cambridgeshire,47
+ReversingCar,2.00035E+12,2000,Cambridgeshire,45
+ReversingCar,2.00035E+12,2000,Cambridgeshire,26
+ReversingCar,2.00035E+12,2000,Cambridgeshire,21
+ReversingCar,200036G000734,2000,Norfolk,12
+ReversingCar,200036N000461,2000,Norfolk,50
+ReversingCar,200036N001482,2000,Norfolk,10
+ReversingCar,200036T000415,2000,Norfolk,42
+ReversingCar,2000400B01416,2000,Bedford Borough Council,26
+ReversingCar,2000400D02695,2000,Central Bedfordshire,14
+ReversingCar,20004100B0761,2000,Hertfordshire,19
+ReversingCar,20004100F0381,2000,Hertfordshire,11
+ReversingCar,20004100J1628,2000,Hertfordshire,19
+ReversingCar,20004200A0402,2000,Essex,9
+ReversingCar,20004200A0856,2000,Essex,43
+ReversingCar,20004200D0300,2000,Essex,25
+ReversingCar,20004200D0375,2000,Essex,11
+ReversingCar,2.00E+212,2000,Essex,34
+ReversingCar,20004200E0399,2000,Essex,9
+ReversingCar,20004200E0468,2000,Essex,11
+ReversingCar,20004200F0148,2000,Thurrock,
+ReversingCar,20004200F0218,2000,Thurrock,6
+ReversingCar,20004200G0925,2000,Essex,12
+ReversingCar,200043N024100,2000,Buckinghamshire,75
+ReversingCar,200043N225030,2000,Buckinghamshire,87
+ReversingCar,200043P024050,2000,Oxfordshire,13
+ReversingCar,200043P062080,2000,Oxfordshire,50
+ReversingCar,200043P245090,2000,Oxfordshire,63
+ReversingCar,200043P259080,2000,Oxfordshire,74
+ReversingCar,200043S023050,2000,Milton Keynes,52
+ReversingCar,200043W390110,2000,Slough,18
+ReversingCar,200043W489040,2000,Reading,33
+ReversingCar,2000440AA1123,2000,Hampshire,13
+ReversingCar,2000440BB1234,2000,Hampshire,31
+ReversingCar,2000440DF0095,2000,Hampshire,78
+ReversingCar,2000440DG0044,2000,Hampshire,61
+ReversingCar,2000440HB0073,2000,Hampshire,41
+ReversingCar,2000440HF0143,2000,Hampshire,6
+ReversingCar,2000440JL0108,2000,Hampshire,12
+ReversingCar,2000440JW0294,2000,Hampshire,22
+ReversingCar,2000440RF0053,2000,Portsmouth,47
+ReversingCar,2000440SP0079,2000,Southampton ,23
+ReversingCar,2000440SP0555,2000,Southampton ,34
+ReversingCar,2000440ST0479,2000,Southampton ,14
+ReversingCar,200045EC00273,2000,Surrey,8
+ReversingCar,200045EZ00250,2000,Surrey,50
+ReversingCar,200045NW00041,2000,Surrey,5
+ReversingCar,200045NW00113,2000,Surrey,16
+ReversingCar,200045WF00261,2000,Surrey,41
+ReversingCar,200045WF00299,2000,Surrey,5
+ReversingCar,200046CT12905,2000,Kent,64
+ReversingCar,200046CT26751,2000,Kent,
+ReversingCar,200046MA27815,2000,Kent,13
+ReversingCar,200046NK33170,2000,Kent,31
+ReversingCar,200046SK14006,2000,Kent,14
+ReversingCar,200046SW12823,2000,Kent,54
+ReversingCar,200046SW15963,2000,Kent,12
+ReversingCar,200046TH28934,2000,Kent,8
+ReversingCar,200046WK31301,2000,Kent,8
+ReversingCar,200046WL14247,2000,Kent,40
+ReversingCar,200047C006114,2000,Brighton and Hove,37
+ReversingCar,200047C006971,2000,Brighton and Hove,21
+ReversingCar,200047S127467,2000,East Sussex,43
+ReversingCar,200047X004766,2000,West Sussex,7
+ReversingCar,200047X128220,2000,West Sussex,5
+ReversingCar,200047Y003631,2000,West Sussex,13
+ReversingCar,200050A233492,2000,Cornwall and Isles of Scilly,18
+ReversingCar,200050A413576,2000,Cornwall and Isles of Scilly,37
+ReversingCar,200050D212642,2000,Devon,34
+ReversingCar,200050D214278,2000,Devon,32
+ReversingCar,200050D416632,2000,Devon,88
+ReversingCar,200050E535863,2000,Devon,7
+ReversingCar,200050E611140,2000,Devon,7
+ReversingCar,2.00052E+12,2000,South Gloucestershire,13
+ReversingCar,2.00052E+12,2000,City of Bristol,24
+ReversingCar,2.00052E+12,2000,South Gloucestershire,40
+ReversingCar,2.00052E+12,2000,City of Bristol,11
+ReversingCar,2.00052E+12,2000,South Gloucestershire,36
+ReversingCar,2.00052E+12,2000,South Gloucestershire,37
+ReversingCar,2.00052E+12,2000,Bath and North East Somerset,23
+ReversingCar,200052F376486,2000,Somerset,55
+ReversingCar,200052G573716,2000,Somerset,10
+ReversingCar,200052GB12636,2000,Somerset,53
+ReversingCar,200052GW33456,2000,Somerset,12
+ReversingCar,2000530AI1610,2000,Gloucestershire,58
+ReversingCar,2000530AI1681,2000,Gloucestershire,37
+ReversingCar,2000530AI2757,2000,Gloucestershire,11
+ReversingCar,2000550B00367,2000,Bournemouth,
+ReversingCar,2000550B01130,2000,Bournemouth,78
+ReversingCar,2000550E04259,2000,Dorset,53
+ReversingCar,2000550P04568,2000,Poole,
+ReversingCar,2000550P04954,2000,Poole,20
+ReversingCar,2000550W03031,2000,Dorset,9
+ReversingCar,2000550W03087,2000,Dorset,6
+ReversingCar,200101DM01149,2001,London,49
+ReversingCar,200101EK00107,2001,London,62
+ReversingCar,200101EK00567,2001,London,31
+ReversingCar,200101EK01181,2001,London,
+ReversingCar,200101FH00592,2001,London,37
+ReversingCar,200101FH00732,2001,London,29
+ReversingCar,200101FH00944,2001,London,32
+ReversingCar,200101GD00483,2001,London,32
+ReversingCar,200101GD00999,2001,London,27
+ReversingCar,200101HT01293,2001,London,25
+ReversingCar,200101KG00464,2001,London,7
+ReversingCar,200101KO00447,2001,London,16
+ReversingCar,200101KO01120,2001,London,15
+ReversingCar,200101LX00314,2001,London,37
+ReversingCar,200101MM00629,2001,London,32
+ReversingCar,200101MM01550,2001,London,18
+ReversingCar,200101NI01318,2001,London,43
+ReversingCar,200101PL00420,2001,London,10
+ReversingCar,200101QA00365,2001,London,65
+ReversingCar,200101QD00136,2001,London,35
+ReversingCar,200101QD00225,2001,London,19
+ReversingCar,200101RY00674,2001,London,
+ReversingCar,200101SX01089,2001,London,12
+ReversingCar,200101TX00980,2001,London,36
+ReversingCar,200101TX01050,2001,London,39
+ReversingCar,200101VK00365,2001,London,
+ReversingCar,200101VK00433,2001,London,64
+ReversingCar,200101WW00236,2001,London,20
+ReversingCar,200101WW00373,2001,London,28
+ReversingCar,200101XH00466,2001,London,11
+ReversingCar,200101XH00747,2001,London,71
+ReversingCar,200101YF00370,2001,London,21
+ReversingCar,200101YR00439,2001,London,39
+ReversingCar,200101ZP00339,2001,London,9
+ReversingCar,2.00103E+12,2001,Cumbria,21
+ReversingCar,2.00103E+12,2001,Cumbria,10
+ReversingCar,2.00103E+12,2001,Cumbria,7
+ReversingCar,200104A087801,2001,Blackpool,86
+ReversingCar,200104B026101,2001,Lancashire,8
+ReversingCar,200104B033401,2001,Lancashire,36
+ReversingCar,200104C049601,2001,Lancashire,46
+ReversingCar,200104D065201,2001,Lancashire,16
+ReversingCar,200104F047101,2001,Lancashire,6
+ReversingCar,200104F098301,2001,Lancashire,13
+ReversingCar,2.00105E+12,2001,Merseyside,36
+ReversingCar,2.00105E+12,2001,Merseyside,6
+ReversingCar,2.00105E+12,2001,Merseyside,34
+ReversingCar,2.00105E+12,2001,Merseyside,58
+ReversingCar,2.00105E+12,2001,Merseyside,70
+ReversingCar,2.00105E+12,2001,Merseyside,12
+ReversingCar,200106C014961,2001,Manchester,22
+ReversingCar,200106G007095,2001,Tameside,14
+ReversingCar,200106J009893,2001,Stockport,24
+ReversingCar,200106L011353,2001,Wigan,11
+ReversingCar,200106M007490,2001,Trafford,19
+ReversingCar,200106M007704,2001,Trafford,4
+ReversingCar,200106N006176,2001,Bury,30
+ReversingCar,200106P007619,2001,Rochdale,2
+ReversingCar,2.00107E+12,2001,Cheshire East,41
+ReversingCar,2.00107E+12,2001,Cheshire West and Chester,7
+ReversingCar,2.00107E+12,2001,Cheshire West and Chester,15
+ReversingCar,2.00107E+12,2001,Cheshire West and Chester,10
+ReversingCar,2.00107E+12,2001,Halton,6
+ReversingCar,2.00107E+12,2001,Warrington,5
+ReversingCar,2.00107E+12,2001,Warrington,34
+ReversingCar,2.00107E+12,2001,Cheshire East,7
+ReversingCar,200110D151201,2001,Newcastle upon Tyne,31
+ReversingCar,200110H173601,2001,North Tyneside,5
+ReversingCar,200110H213201,2001,North Tyneside,50
+ReversingCar,200111CI29980,2001,Durham,63
+ReversingCar,200111DJ08010,2001,Darlington,12
+ReversingCar,200111DJ12540,2001,Darlington,40
+ReversingCar,2.00112E+12,2001,North Yorkshire,45
+ReversingCar,2.00112E+12,2001,North Yorkshire,4
+ReversingCar,2.00112E+12,2001,North Yorkshire,11
+ReversingCar,2.00112E+12,2001,York,25
+ReversingCar,2.00113E+12,2001,Calderdale,42
+ReversingCar,200114BB01007,2001,Doncaster,36
+ReversingCar,200114DD00420,2001,Barnsley,7
+ReversingCar,200114FF00767,2001,Rotherham,11
+ReversingCar,200114GG00495,2001,Rotherham,11
+ReversingCar,200114HH00888,2001,Sheffield,9
+ReversingCar,200116C022401,2001,East Riding of Yorkshire,12
+ReversingCar,200116C023001,2001,East Riding of Yorkshire,47
+ReversingCar,200116C025101,2001,East Riding of Yorkshire,36
+ReversingCar,200116C052101,2001,East Riding of Yorkshire,15
+ReversingCar,200116C075601,2001,East Riding of Yorkshire,9
+ReversingCar,200116C099601,2001,East Riding of Yorkshire,13
+ReversingCar,200116C104901,2001,East Riding of Yorkshire,53
+ReversingCar,200116D007601,2001,Kingston Upon Hull,30
+ReversingCar,200116D021701,2001,Kingston Upon Hull,22
+ReversingCar,200116D061901,2001,Kingston Upon Hull,27
+ReversingCar,200116D065901,2001,Kingston Upon Hull,34
+ReversingCar,200116D074401,2001,Kingston Upon Hull,37
+ReversingCar,200116D074601,2001,Kingston Upon Hull,49
+ReversingCar,200117L200184,2001,Redcar and Cleveland,18
+ReversingCar,200117S100092,2001,Stockton on Tees,6
+ReversingCar,200117S400152,2001,Stockton on Tees,8
+ReversingCar,200120D192802,2001,Birmingham,
+ReversingCar,200120D268203,2001,Birmingham,40
+ReversingCar,200120D313003,2001,Birmingham,11
+ReversingCar,200120E163001,2001,Birmingham,19
+ReversingCar,200120E237401,2001,Birmingham,24
+ReversingCar,200120E257303,2001,Birmingham,35
+ReversingCar,200120H065201,2001,Walsall,38
+ReversingCar,200120H101101,2001,Walsall,9
+ReversingCar,200120J110401,2001,Dudley,45
+ReversingCar,200120K144802,2001,Sandwell,7
+ReversingCar,200120M084103,2001,Coventry,10
+ReversingCar,2.00121E+12,2001,Staffordshire,13
+ReversingCar,2.00121E+12,2001,Staffordshire,24
+ReversingCar,2.00121E+12,2001,Staffordshire,22
+ReversingCar,2.00121E+12,2001,Staffordshire,12
+ReversingCar,2.00121E+12,2001,Staffordshire,20
+ReversingCar,2.00121E+12,2001,Staffordshire,6
+ReversingCar,2.00121E+12,2001,Staffordshire,52
+ReversingCar,200122EA16797,2001,Herefordshire,11
+ReversingCar,200122EA17187,2001,Herefordshire,30
+ReversingCar,200122FA24580,2001,Shropshire,5
+ReversingCar,200122FB23900,2001,Shropshire,9
+ReversingCar,2.00123E+12,2001,Warwickshire,57
+ReversingCar,200130B000474,2001,Derbyshire,14
+ReversingCar,20013102B0042,2001,Nottingham,17
+ReversingCar,20013102B0889,2001,Nottinghamshire,10
+ReversingCar,20013102B0920,2001,Nottinghamshire,14
+ReversingCar,20013102C0980,2001,Nottinghamshire,39
+ReversingCar,20013102C1232,2001,Nottingham,
+ReversingCar,20013102D0924,2001,Nottingham,30
+ReversingCar,20013104D0993,2001,Nottinghamshire,15
+ReversingCar,2.00E+96,2001,Nottinghamshire,85
+ReversingCar,200132B075001,2001,Lincolnshire,83
+ReversingCar,200132D025901,2001,Lincolnshire,17
+ReversingCar,2.00133E+12,2001,Leicestershire,36
+ReversingCar,2.00133E+12,2001,Leicestershire,14
+ReversingCar,2.00133E+12,2001,Leicestershire,55
+ReversingCar,2.00133E+12,2001,Leicestershire,11
+ReversingCar,200134NC00285,2001,Northamptonshire,7
+ReversingCar,200134ND00553,2001,Northamptonshire,11
+ReversingCar,200134NN00548,2001,Northamptonshire,10
+ReversingCar,200134NN00691,2001,Northamptonshire,27
+ReversingCar,200134NW00323,2001,Northamptonshire,10
+ReversingCar,2.00135E+12,2001,Cambridgeshire,47
+ReversingCar,2.00135E+12,2001,Cambridgeshire,24
+ReversingCar,2.00135E+12,2001,Cambridgeshire,44
+ReversingCar,2.00135E+12,2001,Cambridgeshire,12
+ReversingCar,2.00135E+12,2001,Cambridgeshire,18
+ReversingCar,2.00135E+12,2001,Cambridgeshire,57
+ReversingCar,2.00135E+12,2001,Cambridgeshire,
+ReversingCar,200136G012072,2001,Norfolk,45
+ReversingCar,200136K010929,2001,Norfolk,79
+ReversingCar,200136N010747,2001,Norfolk,
+ReversingCar,200136N011670,2001,Norfolk,28
+ReversingCar,200137B011409,2001,Suffolk,11
+ReversingCar,200137G008650,2001,Suffolk,55
+ReversingCar,200137G008967,2001,Suffolk,8
+ReversingCar,2001400B01679,2001,Bedford Borough Council,4
+ReversingCar,2001400B02798,2001,Bedford Borough Council,21
+ReversingCar,2001400D02570,2001,Central Bedfordshire,10
+ReversingCar,20014100C0264,2001,Hertfordshire,11
+ReversingCar,20014200A0505,2001,Essex,60
+ReversingCar,20014200B0321,2001,Essex,33
+ReversingCar,20014200H0002,2001,Southend on Sea,
+ReversingCar,20014200J0248,2001,Essex,58
+ReversingCar,200143N002051,2001,Buckinghamshire,25
+ReversingCar,200143P391021,2001,Oxfordshire,20
+ReversingCar,200143P487011,2001,Oxfordshire,16
+ReversingCar,200143W153011,2001,Reading,
+ReversingCar,200143W234081,2001,West Berkshire,21
+ReversingCar,2001440HP0137,2001,Hampshire,14
+ReversingCar,2001440JH0496,2001,Hampshire,10
+ReversingCar,2001440JW0293,2001,Hampshire,41
+ReversingCar,2001440KK1331,2001,Portsmouth,48
+ReversingCar,2001440KK2664,2001,Portsmouth,12
+ReversingCar,2001440LR0271,2001,Hampshire,54
+ReversingCar,2001440SC0393,2001,Southampton ,35
+ReversingCar,2001440ST0160,2001,Southampton ,51
+ReversingCar,200145EM10164,2001,Surrey,70
+ReversingCar,200145ES12793,2001,Surrey,
+ReversingCar,200145MW07433,2001,Surrey,60
+ReversingCar,200145WF10029,2001,Surrey,8
+ReversingCar,200146TH46204,2001,Kent,46
+ReversingCar,200146WK41162,2001,Kent,75
+ReversingCar,200147C135496,2001,Brighton and Hove,12
+ReversingCar,200147C142198,2001,Brighton and Hove,12
+ReversingCar,200147C142825,2001,Brighton and Hove,29
+ReversingCar,200147N134916,2001,West Sussex,18
+ReversingCar,200147N135565,2001,West Sussex,34
+ReversingCar,200147N136966,2001,West Sussex,11
+ReversingCar,200147S139300,2001,East Sussex,
+ReversingCar,200150A513673,2001,Cornwall and Isles of Scilly,6
+ReversingCar,200150B322214,2001,Cornwall and Isles of Scilly,8
+ReversingCar,200150B513744,2001,Cornwall and Isles of Scilly,3
+ReversingCar,200150D214016,2001,Devon,13
+ReversingCar,200150D214889,2001,Devon,6
+ReversingCar,200150D310701,2001,Devon,79
+ReversingCar,200150D355299,2001,Devon,21
+ReversingCar,200150E211072,2001,Plymouth,13
+ReversingCar,200150F451609,2001,Devon,72
+ReversingCar,200150F552360,2001,Devon,8
+ReversingCar,2.00152E+12,2001,North Somerset,62
+ReversingCar,2.00152E+12,2001,City of Bristol,68
+ReversingCar,200152FT99376,2001,Somerset,25
+ReversingCar,2001530AI1084,2001,Gloucestershire,4
+ReversingCar,2001530AI1810,2001,Gloucestershire,10
+ReversingCar,2001530AI4581,2001,Gloucestershire,75
+ReversingCar,2001550B02756,2001,Bournemouth,25
+ReversingCar,2001550B05196,2001,Bournemouth,17
+ReversingCar,2001550B05467,2001,Bournemouth,28
+ReversingCar,2001551E05281,2001,Dorset,16
+ReversingCar,200201BS00280,2002,London,39
+ReversingCar,200201DM01597,2002,London,36
+ReversingCar,200201EK00301,2002,London,32
+ReversingCar,200201EO00126,2002,London,27
+ReversingCar,200201EO01813,2002,London,28
+ReversingCar,200201FH00296,2002,London,
+ReversingCar,200201HT00364,2002,London,41
+ReversingCar,200201JC00066,2002,London,11
+ReversingCar,200201JC00098,2002,London,28
+ReversingCar,200201KD00358,2002,London,4
+ReversingCar,200201KD00430,2002,London,
+ReversingCar,200201KG00371,2002,London,8
+ReversingCar,200201KG00604,2002,London,65
+ReversingCar,200201KO00693,2002,London,16
+ReversingCar,200201LX01692,2002,London,30
+ReversingCar,200201QK01176,2002,London,35
+ReversingCar,200201RG00357,2002,London,39
+ReversingCar,200201TW00277,2002,London,16
+ReversingCar,200201TW00440,2002,London,56
+ReversingCar,200201TX00745,2002,London,29
+ReversingCar,200201TX00801,2002,London,9
+ReversingCar,200201VK00133,2002,London,9
+ReversingCar,200201VK00371,2002,London,46
+ReversingCar,200201ZT00050,2002,London,25
+ReversingCar,2.00203E+12,2002,Cumbria,20
+ReversingCar,2.00203E+12,2002,Cumbria,11
+ReversingCar,200204A006902,2002,Blackpool,30
+ReversingCar,200204A032102,2002,Lancashire,18
+ReversingCar,200204A060202,2002,Blackpool,7
+ReversingCar,200204B007502,2002,Lancashire,34
+ReversingCar,200204B040502,2002,Lancashire,12
+ReversingCar,200204C030102,2002,Lancashire,10
+ReversingCar,200204D054002,2002,Lancashire,54
+ReversingCar,200204E071902,2002,Lancashire,5
+ReversingCar,200204F043202,2002,Lancashire,4
+ReversingCar,2.00205E+12,2002,Merseyside,44
+ReversingCar,2.00205E+12,2002,Merseyside,15
+ReversingCar,2.00205E+12,2002,Merseyside,6
+ReversingCar,2.00205E+12,2002,Merseyside,4
+ReversingCar,2.00205E+12,2002,Merseyside,13
+ReversingCar,2.00205E+12,2002,Merseyside,5
+ReversingCar,2.00205E+12,2002,Merseyside,12
+ReversingCar,200205FT00122,2002,Merseyside,12
+ReversingCar,200206C018096,2002,Manchester,
+ReversingCar,200206C018973,2002,Manchester,6
+ReversingCar,200206C019525,2002,Manchester,5
+ReversingCar,200206C019969,2002,Manchester,12
+ReversingCar,200206F011154,2002,Salford,24
+ReversingCar,200206G008544,2002,Tameside,9
+ReversingCar,200206J011839,2002,Stockport,35
+ReversingCar,200206K012401,2002,Bolton,9
+ReversingCar,200206L011820,2002,Wigan,15
+ReversingCar,200206L012496,2002,Wigan,20
+ReversingCar,200206L012818,2002,Wigan,13
+ReversingCar,200206L013407,2002,Wigan,50
+ReversingCar,2.00207E+12,2002,Cheshire West and Chester,39
+ReversingCar,2.0021E+12,2002,Northumberland,32
+ReversingCar,2.0021E+12,2002,South Tyneside,
+ReversingCar,2.0021E+12,2002,Northumberland,4
+ReversingCar,2.0021E+12,2002,North Tyneside,15
+ReversingCar,200211DJ11520,2002,Darlington,8
+ReversingCar,2.00212E+12,2002,North Yorkshire,6
+ReversingCar,2.00212E+12,2002,York,40
+ReversingCar,2.00213E+12,2002,Leeds,38
+ReversingCar,2.00213E+12,2002,Bradford,6
+ReversingCar,2.00213E+12,2002,Bradford,8
+ReversingCar,2.00213E+12,2002,Bradford,8
+ReversingCar,2.00213E+12,2002,Leeds,20
+ReversingCar,2.00213E+12,2002,Leeds,42
+ReversingCar,200214AA00204,2002,Doncaster,25
+ReversingCar,200214CC00226,2002,Doncaster,8
+ReversingCar,200214II00276,2002,Sheffield,25
+ReversingCar,200216A014702,2002,North East Lincolnshire,10
+ReversingCar,200216A026402,2002,North East Lincolnshire,74
+ReversingCar,200216A039602,2002,North East Lincolnshire,39
+ReversingCar,200216A043602,2002,North East Lincolnshire,55
+ReversingCar,200216A047402,2002,North East Lincolnshire,14
+ReversingCar,200216A048902,2002,North East Lincolnshire,60
+ReversingCar,200216A050902,2002,North East Lincolnshire,14
+ReversingCar,200216C051702,2002,East Riding of Yorkshire,11
+ReversingCar,200216C052002,2002,East Riding of Yorkshire,62
+ReversingCar,200216C068802,2002,East Riding of Yorkshire,11
+ReversingCar,200216C080202,2002,East Riding of Yorkshire,
+ReversingCar,200216C086302,2002,East Riding of Yorkshire,44
+ReversingCar,200216C097802,2002,East Riding of Yorkshire,5
+ReversingCar,200216D031702,2002,Kingston Upon Hull,4
+ReversingCar,200217S200163,2002,Stockton on Tees,14
+ReversingCar,200217S400194,2002,Stockton on Tees,14
+ReversingCar,200220D508002,2002,Birmingham,15
+ReversingCar,200220H035302,2002,Walsall,25
+ReversingCar,200220H061801,2002,Walsall,8
+ReversingCar,200220M071601,2002,Coventry,23
+ReversingCar,2.00221E+12,2002,Stoke on Trent,14
+ReversingCar,2.00221E+12,2002,Staffordshire,8
+ReversingCar,200222AA20978,2002,Worcestershire,45
+ReversingCar,200222BF25778,2002,Worcestershire,33
+ReversingCar,2.00223E+12,2002,Warwickshire,6
+ReversingCar,2.00223E+12,2002,Warwickshire,12
+ReversingCar,200230D000413,2002,Derby,10
+ReversingCar,200230D000842,2002,Derby,13
+ReversingCar,20023102B0242,2002,Nottinghamshire,13
+ReversingCar,20023102B0617,2002,Nottinghamshire,77
+ReversingCar,20023102D0331,2002,Nottinghamshire,
+ReversingCar,20023102D0518,2002,Nottinghamshire,21
+ReversingCar,200232B000702,2002,Lincolnshire,69
+ReversingCar,200232D113902,2002,Lincolnshire,8
+ReversingCar,200232D121002,2002,Lincolnshire,15
+ReversingCar,2.00233E+12,2002,Leicestershire,50
+ReversingCar,2.00233E+12,2002,Leicestershire,11
+ReversingCar,200234NC00276,2002,Northamptonshire,58
+ReversingCar,200234NC00303,2002,Northamptonshire,45
+ReversingCar,200234NC02880,2002,Northamptonshire,35
+ReversingCar,200234NN00738,2002,Northamptonshire,5
+ReversingCar,2.00235E+12,2002,Cambridgeshire,37
+ReversingCar,2.00235E+12,2002,Cambridgeshire,11
+ReversingCar,2.00235E+12,2002,Cambridgeshire,59
+ReversingCar,2.00235E+12,2002,Cambridgeshire,24
+ReversingCar,2.00235E+12,2002,Cambridgeshire,9
+ReversingCar,2.00235E+12,2002,Peterborough,57
+ReversingCar,2.00235E+12,2002,Cambridgeshire,
+ReversingCar,2.00235E+12,2002,Peterborough,19
+ReversingCar,2.00235E+12,2002,Cambridgeshire,53
+ReversingCar,2.00236E+12,2002,Norfolk,33
+ReversingCar,2.00236E+12,2002,Norfolk,65
+ReversingCar,200236K020791,2002,Norfolk,42
+ReversingCar,200237B015096,2002,Suffolk,61
+ReversingCar,200237L006816,2002,Suffolk,13
+ReversingCar,200237L007192,2002,Suffolk,28
+ReversingCar,200237L007605,2002,Suffolk,13
+ReversingCar,200237L007793,2002,Suffolk,10
+ReversingCar,2002400B00494,2002,Bedford Borough Council,51
+ReversingCar,2002400B01068,2002,Bedford Borough Council,50
+ReversingCar,20024100B0816,2002,Hertfordshire,6
+ReversingCar,20024100D0112,2002,Hertfordshire,10
+ReversingCar,20024100D5430,2002,Hertfordshire,35
+ReversingCar,20024100F4516,2002,Hertfordshire,70
+ReversingCar,20024100K0055,2002,Hertfordshire,28
+ReversingCar,20024200A0552,2002,Essex,81
+ReversingCar,20024200C0402,2002,Essex,39
+ReversingCar,20024200E0438,2002,Essex,
+ReversingCar,20024200G0450,2002,Essex,7
+ReversingCar,20024200G0708,2002,Essex,19
+ReversingCar,20024200H0079,2002,Southend on Sea,57
+ReversingCar,20024200H0355,2002,Southend on Sea,12
+ReversingCar,20024200J0307,2002,Essex,7
+ReversingCar,200243N173042,2002,Buckinghamshire,12
+ReversingCar,200243N336032,2002,Buckinghamshire,35
+ReversingCar,200243P048052,2002,Oxfordshire,68
+ReversingCar,200243P258032,2002,Oxfordshire,14
+ReversingCar,200243P471102,2002,Oxfordshire,60
+ReversingCar,200243W225122,2002,Reading,27
+ReversingCar,200243W746012,2002,Wokingham,21
+ReversingCar,2002440AA0198,2002,Hampshire,83
+ReversingCar,2002440BB0944,2002,Hampshire,13
+ReversingCar,2002440BB1380,2002,Hampshire,35
+ReversingCar,2002440DW0187,2002,Hampshire,46
+ReversingCar,2002440DW0304,2002,Hampshire,87
+ReversingCar,2002440JW0535,2002,Hampshire,15
+ReversingCar,2002440JW0557,2002,Hampshire,57
+ReversingCar,2002440KK1671,2002,Portsmouth,70
+ReversingCar,2002440SP0489,2002,Southampton ,46
+ReversingCar,200245RE19333,2002,Surrey,53
+ReversingCar,200245RN24240,2002,Surrey,45
+ReversingCar,200245RN27020,2002,Surrey,5
+ReversingCar,2.00247E+12,2002,Medway,71
+ReversingCar,2.00247E+12,2002,Medway,70
+ReversingCar,200246MY54933,2002,Medway,70
+ReversingCar,200246NK62454,2002,Kent,9
+ReversingCar,200246TH64163,2002,Kent,
+ReversingCar,200247C148183,2002,Brighton and Hove,17
+ReversingCar,200247K152931,2002,West Sussex,41
+ReversingCar,200247K153219,2002,Brighton and Hove,15
+ReversingCar,200247K153835,2002,East Sussex,9
+ReversingCar,200247K154752,2002,East Sussex,15
+ReversingCar,200247K155053,2002,West Sussex,13
+ReversingCar,200247Y149366,2002,West Sussex,40
+ReversingCar,200250A323540,2002,Cornwall and Isles of Scilly,16
+ReversingCar,200250B410766,2002,Cornwall and Isles of Scilly,6
+ReversingCar,200250C230461,2002,Devon,17
+ReversingCar,200250F415586,2002,Devon,8
+ReversingCar,2.00252E+12,2002,City of Bristol,42
+ReversingCar,2.00252E+12,2002,Bath and North East Somerset,14
+ReversingCar,2.00252E+12,2002,South Gloucestershire,56
+ReversingCar,2.00252E+12,2002,City of Bristol,33
+ReversingCar,2002530AI0384,2002,Gloucestershire,18
+ReversingCar,2002530AI2776,2002,Gloucestershire,86
+ReversingCar,200254AM37002,2002,Wiltshire,7
+ReversingCar,2002550B00349,2002,Bournemouth,25
+ReversingCar,2002550P03753,2002,Poole,11
+ReversingCar,2002550P03850,2002,Poole,22
+ReversingCar,200301DM00354,2003,London,29
+ReversingCar,200301DM01052,2003,London,27
+ReversingCar,200301EO02130,2003,London,39
+ReversingCar,200301FH00485,2003,London,36
+ReversingCar,200301FH00520,2003,London,26
+ReversingCar,200301GD00980,2003,London,25
+ReversingCar,200301JI00015,2003,London,43
+ReversingCar,200301JI00054,2003,London,33
+ReversingCar,200301KG00486,2003,London,11
+ReversingCar,200301KO00100,2003,London,26
+ReversingCar,200301KO00565,2003,London,7
+ReversingCar,200301PL00800,2003,London,27
+ReversingCar,200301PY00570,2003,London,12
+ReversingCar,200301PY00899,2003,London,11
+ReversingCar,200301QA00446,2003,London,8
+ReversingCar,200301SX00687,2003,London,10
+ReversingCar,200301SX00700,2003,London,8
+ReversingCar,200301TA00510,2003,London,28
+ReversingCar,200301TC00373,2003,London,28
+ReversingCar,200301TW00152,2003,London,13
+ReversingCar,200301TW00521,2003,London,54
+ReversingCar,200301TX00268,2003,London,3
+ReversingCar,200301XH00388,2003,London,44
+ReversingCar,200301XS00681,2003,London,33
+ReversingCar,200301XS01039,2003,London,47
+ReversingCar,200301ZD00298,2003,London,40
+ReversingCar,2.00303E+12,2003,Cumbria,42
+ReversingCar,2.00303E+12,2003,Cumbria,62
+ReversingCar,2.00303E+12,2003,Cumbria,8
+ReversingCar,2.00303E+12,2003,Cumbria,
+ReversingCar,200304A034003,2003,Blackpool,
+ReversingCar,200304B024403,2003,Lancashire,8
+ReversingCar,200304C032103,2003,Lancashire,10
+ReversingCar,200304C046703,2003,Lancashire,12
+ReversingCar,200304C055003,2003,Lancashire,5
+ReversingCar,200304D031803,2003,Lancashire,8
+ReversingCar,200305CH00768,2003,Merseyside,6
+ReversingCar,200305CH00817,2003,Merseyside,10
+ReversingCar,200305DH00577,2003,Merseyside,10
+ReversingCar,200305ET02847,2003,Merseyside,40
+ReversingCar,200306A014490,2003,Manchester,19
+ReversingCar,200306A014725,2003,Manchester,9
+ReversingCar,200306C023810,2003,Manchester,8
+ReversingCar,200306F012754,2003,Salford,8
+ReversingCar,200306J013735,2003,Stockport,13
+ReversingCar,200306J014930,2003,Stockport,28
+ReversingCar,200306K015138,2003,Bolton,14
+ReversingCar,200306N009552,2003,Bury,20
+ReversingCar,200306N009696,2003,Bury,37
+ReversingCar,200306P011135,2003,Rochdale,46
+ReversingCar,200306Q011587,2003,Oldham,26
+ReversingCar,2.00307E+12,2003,Cheshire West and Chester,8
+ReversingCar,2.00307E+12,2003,Cheshire East,73
+ReversingCar,2.00307E+12,2003,Warrington,8
+ReversingCar,2.00307E+12,2003,Cheshire West and Chester,45
+ReversingCar,2.00307E+12,2003,Cheshire West and Chester,12
+ReversingCar,2.0031E+12,2003,Gateshead,25
+ReversingCar,2.0031E+12,2003,Gateshead,23
+ReversingCar,2.0031E+12,2003,Newcastle upon Tyne,5
+ReversingCar,2.0031E+12,2003,Newcastle upon Tyne,11
+ReversingCar,2.0031E+12,2003,South Tyneside,11
+ReversingCar,2.0031E+12,2003,South Tyneside,4
+ReversingCar,2.0031E+12,2003,Newcastle upon Tyne,22
+ReversingCar,200311DJ07610,2003,Darlington,7
+ReversingCar,2.00312E+12,2003,North Yorkshire,63
+ReversingCar,2.00312E+12,2003,York,43
+ReversingCar,2.00312E+12,2003,York,5
+ReversingCar,2.00312E+12,2003,York,27
+ReversingCar,2.00312E+12,2003,North Yorkshire,10
+ReversingCar,2.00312E+12,2003,North Yorkshire,8
+ReversingCar,2.00312E+12,2003,North Yorkshire,71
+ReversingCar,2.00312E+12,2003,York,40
+ReversingCar,2.00313E+12,2003,Kirklees,4
+ReversingCar,2.00313E+12,2003,Calderdale,9
+ReversingCar,2.00313E+12,2003,Calderdale,3
+ReversingCar,2.00313E+12,2003,Wakefield,50
+ReversingCar,2.00313E+12,2003,Leeds,26
+ReversingCar,2.00313E+12,2003,Kirklees,39
+ReversingCar,2.00313E+12,2003,Wakefield,7
+ReversingCar,2.00313E+12,2003,Wakefield,9
+ReversingCar,200314AA00918,2003,Doncaster,16
+ReversingCar,200314CC00330,2003,Doncaster,10
+ReversingCar,200314DD00299,2003,Barnsley,7
+ReversingCar,200314DD00337,2003,Barnsley,11
+ReversingCar,200314EE00986,2003,Barnsley,
+ReversingCar,200314FF00686,2003,Rotherham,10
+ReversingCar,200314JJ00716,2003,Sheffield,7
+ReversingCar,200314KK00576,2003,Sheffield,12
+ReversingCar,200316A013403,2003,North East Lincolnshire,15
+ReversingCar,200316A038403,2003,North East Lincolnshire,8
+ReversingCar,200316A054503,2003,North East Lincolnshire,12
+ReversingCar,200316B026203,2003,North Lincolnshire,18
+ReversingCar,200316C026003,2003,East Riding of Yorkshire,71
+ReversingCar,200316D021803,2003,Kingston Upon Hull,32
+ReversingCar,200316D026603,2003,Kingston Upon Hull,30
+ReversingCar,200316D027903,2003,Kingston Upon Hull,45
+ReversingCar,200316D088103,2003,Kingston Upon Hull,22
+ReversingCar,2003170L31783,2003,Redcar and Cleveland,4
+ReversingCar,2003170S32313,2003,Stockton on Tees,11
+ReversingCar,200320D328702,2003,Birmingham,17
+ReversingCar,200320E163501,2003,Birmingham,14
+ReversingCar,200320L121501,2003,Solihull,7
+ReversingCar,200320M060302,2003,Coventry,27
+ReversingCar,200320M069203,2003,Coventry,23
+ReversingCar,2.00321E+12,2003,Stoke on Trent,8
+ReversingCar,2.00321E+12,2003,Staffordshire,13
+ReversingCar,2.00321E+12,2003,Staffordshire,5
+ReversingCar,2.00321E+12,2003,Staffordshire,16
+ReversingCar,200322CA35184,2003,Worcestershire,30
+ReversingCar,200322EA24233,2003,Herefordshire,2
+ReversingCar,2.00323E+12,2003,Warwickshire,23
+ReversingCar,2.00323E+12,2003,Warwickshire,7
+ReversingCar,2.00323E+12,2003,Warwickshire,
+ReversingCar,200330A000093,2003,Derbyshire,13
+ReversingCar,200330D000044,2003,Derby,14
+ReversingCar,200330D000483,2003,Derbyshire,11
+ReversingCar,20033102A1096,2003,Nottinghamshire,
+ReversingCar,20033102A1117,2003,Nottinghamshire,4
+ReversingCar,20033102B0212,2003,Nottinghamshire,36
+ReversingCar,20033102B8245,2003,Nottinghamshire,15
+ReversingCar,20033102C2854,2003,Nottingham,28
+ReversingCar,200332C067803,2003,Lincolnshire,53
+ReversingCar,2.00333E+12,2003,Leicestershire,50
+ReversingCar,2.00333E+12,2003,Leicestershire,47
+ReversingCar,2.00333E+12,2003,Leicestershire,27
+ReversingCar,200334NC01582,2003,Northamptonshire,5
+ReversingCar,200334NC01678,2003,Northamptonshire,4
+ReversingCar,200334ND03065,2003,Northamptonshire,11
+ReversingCar,2.00335E+12,2003,Cambridgeshire,32
+ReversingCar,2.00335E+12,2003,Cambridgeshire,63
+ReversingCar,2.00335E+12,2003,Cambridgeshire,34
+ReversingCar,2.00336E+12,2003,Norfolk,46
+ReversingCar,2.00336E+12,2003,Norfolk,59
+ReversingCar,200337G013713,2003,Suffolk,19
+ReversingCar,200337G013965,2003,Suffolk,44
+ReversingCar,2003400B00441,2003,Bedford Borough Council,33
+ReversingCar,2003400B02163,2003,Bedford Borough Council,40
+ReversingCar,2003400D02684,2003,Central Bedfordshire,21
+ReversingCar,20034100B0358,2003,Hertfordshire,11
+ReversingCar,20034100B1036,2003,Hertfordshire,14
+ReversingCar,20034100C0265,2003,Hertfordshire,35
+ReversingCar,20034100D0459,2003,Hertfordshire,13
+ReversingCar,20034100E0690,2003,Hertfordshire,40
+ReversingCar,20034200B0240,2003,Essex,9
+ReversingCar,20034200C0263,2003,Essex,48
+ReversingCar,20034200G0822,2003,Essex,8
+ReversingCar,200343P144063,2003,Oxfordshire,14
+ReversingCar,200343P394073,2003,Oxfordshire,22
+ReversingCar,200343S151053,2003,Milton Keynes,8
+ReversingCar,200343W065023,2003,Wokingham,15
+ReversingCar,200343W118063,2003,Wokingham,25
+ReversingCar,200343W137053,2003,Reading,31
+ReversingCar,200343W686053,2003,Windsor and Maidenhead,45
+ReversingCar,2003440AA1353,2003,Hampshire,5
+ReversingCar,2003440KK0774,2003,Portsmouth,55
+ReversingCar,2003440KK0994,2003,Portsmouth,14
+ReversingCar,2003440KK2163,2003,Portsmouth,14
+ReversingCar,2003440NA0527,2003,Hampshire,54
+ReversingCar,2003440ZD0212,2003,Isle of Wight,40
+ReversingCar,200345RN40098,2003,Surrey,
+ReversingCar,200345RS35769,2003,Surrey,6
+ReversingCar,200345RW35857,2003,Surrey,54
+ReversingCar,2.00347E+12,2003,Medway,39
+ReversingCar,2.00347E+12,2003,Medway,23
+ReversingCar,200346CT79838,2003,Kent,13
+ReversingCar,200346CT81568,2003,Kent,40
+ReversingCar,200346CT84147,2003,Kent,38
+ReversingCar,200346NK74990,2003,Kent,5
+ReversingCar,200346TH79510,2003,Kent,63
+ReversingCar,200346WK75057,2003,Kent,31
+ReversingCar,200347K160049,2003,West Sussex,12
+ReversingCar,200347K163574,2003,Brighton and Hove,44
+ReversingCar,200347K164717,2003,East Sussex,9
+ReversingCar,200347K166488,2003,East Sussex,48
+ReversingCar,200347K168660,2003,West Sussex,23
+ReversingCar,200350A41R806,2003,Cornwall and Isles of Scilly,33
+ReversingCar,200350A62D421,2003,Cornwall and Isles of Scilly,10
+ReversingCar,200350B62C782,2003,Cornwall and Isles of Scilly,37
+ReversingCar,200350C21M928,2003,Devon,46
+ReversingCar,200350C41N924,2003,Devon,12
+ReversingCar,200350D21O191,2003,Devon,39
+ReversingCar,200350D21O493,2003,Devon,12
+ReversingCar,2.00352E+12,2003,City of Bristol,58
+ReversingCar,2.00352E+12,2003,City of Bristol,39
+ReversingCar,2.00352E+12,2003,City of Bristol,7
+ReversingCar,2.00352E+12,2003,City of Bristol,41
+ReversingCar,2.00352E+12,2003,Somerset,11
+ReversingCar,2003530AI1498,2003,Gloucestershire,10
+ReversingCar,2003530AI3173,2003,Gloucestershire,32
+ReversingCar,200354DE06503,2003,Swindon,23
+ReversingCar,2003550B02847,2003,Bournemouth,14
+ReversingCar,2003550B03112,2003,Bournemouth,
+ReversingCar,2003550P02939,2003,Poole,15
+ReversingCar,2003553E02371,2003,Dorset,42
+ReversingCar,2003553W05519,2003,Dorset,12
+ReversingCar,200401DM01196,2004,London,55
+ReversingCar,200401EO01344,2004,London,31
+ReversingCar,200401GD00446,2004,London,3
+ReversingCar,200401KG00333,2004,London,16
+ReversingCar,200401LX00324,2004,London,34
+ReversingCar,200401LX50749,2004,London,40
+ReversingCar,200401PL60425,2004,London,41
+ReversingCar,200401QA00295,2004,London,13
+ReversingCar,200401QK00622,2004,London,45
+ReversingCar,200401RG40361,2004,London,7
+ReversingCar,200401RY00120,2004,London,15
+ReversingCar,200401SX00675,2004,London,18
+ReversingCar,200401TW00059,2004,London,26
+ReversingCar,200401VK00180,2004,London,10
+ReversingCar,200401VW00390,2004,London,10
+ReversingCar,200401XS00335,2004,London,12
+ReversingCar,200401YF00235,2004,London,13
+ReversingCar,200401YR00826,2004,London,47
+ReversingCar,200401ZD30282,2004,London,14
+ReversingCar,200401ZD30314,2004,London,11
+ReversingCar,200401ZD30597,2004,London,10
+ReversingCar,2.00403E+12,2004,Cumbria,31
+ReversingCar,2.00403E+12,2004,Cumbria,10
+ReversingCar,200404B049204,2004,Lancashire,17
+ReversingCar,200404E030304,2004,Blackburn with Darwen,6
+ReversingCar,200405BS00054,2004,Merseyside,48
+ReversingCar,200405BS00982,2004,Merseyside,10
+ReversingCar,200405CH00518,2004,Merseyside,55
+ReversingCar,200405ET01509,2004,Merseyside,10
+ReversingCar,200406A914591,2004,Manchester,40
+ReversingCar,200406C903631,2004,Manchester,10
+ReversingCar,200406C915407,2004,Manchester,30
+ReversingCar,200406G903694,2004,Tameside,4
+ReversingCar,200406K017110,2004,Bolton,5
+ReversingCar,200406K909549,2004,Bolton,8
+ReversingCar,200406L916364,2004,Wigan,15
+ReversingCar,200406M908077,2004,Trafford,63
+ReversingCar,200406M908441,2004,Trafford,69
+ReversingCar,200406N902650,2004,Bury,9
+ReversingCar,200406N903764,2004,Bury,11
+ReversingCar,200406P901513,2004,Rochdale,35
+ReversingCar,200406P908402,2004,Rochdale,3
+ReversingCar,2.00407E+12,2004,Cheshire West and Chester,5
+ReversingCar,2.00407E+12,2004,Cheshire West and Chester,7
+ReversingCar,2.00407E+12,2004,Cheshire West and Chester,14
+ReversingCar,2.00407E+12,2004,Cheshire West and Chester,36
+ReversingCar,2.00407E+12,2004,Cheshire West and Chester,18
+ReversingCar,2.0041E+12,2004,South Tyneside,47
+ReversingCar,2.0041E+12,2004,South Tyneside,6
+ReversingCar,2.0041E+12,2004,Gateshead,10
+ReversingCar,2.0041E+12,2004,Newcastle upon Tyne,52
+ReversingCar,2.00412E+12,2004,North Yorkshire,49
+ReversingCar,2.00413E+12,2004,Bradford,4
+ReversingCar,2.00413E+12,2004,Calderdale,12
+ReversingCar,200414AA00193,2004,Doncaster,52
+ReversingCar,200414CC00867,2004,Rotherham,11
+ReversingCar,200414EE00688,2004,Sheffield,14
+ReversingCar,200414EE00788,2004,Sheffield,14
+ReversingCar,200414EE01154,2004,Sheffield,25
+ReversingCar,2004160A00830,2004,North East Lincolnshire,13
+ReversingCar,2004160A01020,2004,North East Lincolnshire,13
+ReversingCar,2004160A01650,2004,North East Lincolnshire,
+ReversingCar,2004160A04280,2004,North East Lincolnshire,37
+ReversingCar,2004160B00650,2004,North Lincolnshire,11
+ReversingCar,2004160B01560,2004,North Lincolnshire,34
+ReversingCar,2004170L23204,2004,Redcar and Cleveland,39
+ReversingCar,2004170L32634,2004,Redcar and Cleveland,11
+ReversingCar,200420D079503,2004,Birmingham,12
+ReversingCar,200420D315302,2004,Birmingham,14
+ReversingCar,200420D409203,2004,Birmingham,21
+ReversingCar,200420F276202,2004,Birmingham,5
+ReversingCar,200420J080402,2004,Dudley,42
+ReversingCar,200420L148801,2004,Solihull,67
+ReversingCar,200420L153601,2004,Solihull,12
+ReversingCar,2.00421E+12,2004,Stoke on Trent,8
+ReversingCar,2.00421E+12,2004,Staffordshire,13
+ReversingCar,2.00421E+12,2004,Staffordshire,12
+ReversingCar,2.00421E+12,2004,Staffordshire,4
+ReversingCar,200422CF41152,2004,Worcestershire,14
+ReversingCar,200422EG29578,2004,Herefordshire,48
+ReversingCar,200422FA38031,2004,Shropshire,12
+ReversingCar,2.00423E+12,2004,Warwickshire,60
+ReversingCar,2.00423E+12,2004,Warwickshire,10
+ReversingCar,2.00423E+12,2004,Warwickshire,
+ReversingCar,200430A000108,2004,Derbyshire,
+ReversingCar,200430A000154,2004,Derbyshire,15
+ReversingCar,200430A000294,2004,Derbyshire,11
+ReversingCar,200430A000426,2004,Derbyshire,16
+ReversingCar,200430B000327,2004,Derbyshire,5
+ReversingCar,200430D000174,2004,Derby,17
+ReversingCar,20043102B2095,2004,Nottinghamshire,9
+ReversingCar,20043102B2963,2004,Nottinghamshire,4
+ReversingCar,20043102B3117,2004,Nottinghamshire,8
+ReversingCar,20043102B3119,2004,Nottinghamshire,
+ReversingCar,20043102D1729,2004,Nottinghamshire,5
+ReversingCar,20043108B0609,2004,Nottinghamshire,8
+ReversingCar,20043108C6292,2004,Nottingham,11
+ReversingCar,200432B137004,2004,Lincolnshire,48
+ReversingCar,200432C120304,2004,Lincolnshire,17
+ReversingCar,200432D131204,2004,Lincolnshire,22
+ReversingCar,200432D137904,2004,Lincolnshire,57
+ReversingCar,2.00433E+12,2004,Leicestershire,54
+ReversingCar,2.00433E+12,2004,Leicestershire,17
+ReversingCar,2.00433E+12,2004,Leicestershire,21
+ReversingCar,2.00433E+12,2004,Leicestershire,14
+ReversingCar,2.00433E+12,2004,Leicestershire,12
+ReversingCar,200434NN02259,2004,Northamptonshire,25
+ReversingCar,2.00435E+12,2004,Cambridgeshire,25
+ReversingCar,2.00435E+12,2004,Cambridgeshire,11
+ReversingCar,2.00435E+12,2004,Cambridgeshire,19
+ReversingCar,2.00435E+12,2004,Cambridgeshire,62
+ReversingCar,2.00435E+12,2004,Cambridgeshire,28
+ReversingCar,2.00436E+12,2004,Norfolk,60
+ReversingCar,2.00436E+12,2004,Norfolk,27
+ReversingCar,2.00436E+12,2004,Norfolk,67
+ReversingCar,200437B021275,2004,Suffolk,36
+ReversingCar,200437L010311,2004,Suffolk,55
+ReversingCar,2004400B02420,2004,Bedford Borough Council,29
+ReversingCar,2004400C02169,2004,Luton,15
+ReversingCar,2004400D00023,2004,Central Bedfordshire,58
+ReversingCar,2004400D00270,2004,Central Bedfordshire,36
+ReversingCar,20044100B0371,2004,Hertfordshire,20
+ReversingCar,20044100J2103,2004,Hertfordshire,15
+ReversingCar,20044100K0561,2004,Hertfordshire,14
+ReversingCar,20044200B0565,2004,Essex,
+ReversingCar,2.00E+165,2004,Essex,15
+ReversingCar,20044200E0459,2004,Essex,10
+ReversingCar,20044200J0131,2004,Essex,
+ReversingCar,200443N051094,2004,Buckinghamshire,
+ReversingCar,200443N252064,2004,Buckinghamshire,8
+ReversingCar,200443P172094,2004,Oxfordshire,13
+ReversingCar,200443P220044,2004,Oxfordshire,5
+ReversingCar,200443P338044,2004,Oxfordshire,5
+ReversingCar,200443P409034,2004,Oxfordshire,
+ReversingCar,200443W066064,2004,Wokingham,56
+ReversingCar,200443W194104,2004,Wokingham,31
+ReversingCar,200443W216074,2004,Wokingham,67
+ReversingCar,2004440DH0125,2004,Hampshire,14
+ReversingCar,2004440HG0655,2004,Hampshire,11
+ReversingCar,2004440JW0143,2004,Hampshire,9
+ReversingCar,2004440JW0338,2004,Hampshire,42
+ReversingCar,2004440KK0639,2004,Portsmouth,39
+ReversingCar,2004440KK0910,2004,Portsmouth,68
+ReversingCar,2004440KK1718,2004,Portsmouth,59
+ReversingCar,2004440KK1825,2004,Portsmouth,32
+ReversingCar,2004440LH0006,2004,Hampshire,3
+ReversingCar,2004440NA0253,2004,Hampshire,4
+ReversingCar,2004440WR0302,2004,Hampshire,16
+ReversingCar,200445GU62990,2004,Surrey,23
+ReversingCar,200445RE50092,2004,Surrey,41
+ReversingCar,200445RU58169,2004,Surrey,
+ReversingCar,200445SP54679,2004,Surrey,47
+ReversingCar,200445SP61935,2004,Surrey,17
+ReversingCar,2.00446E+12,2004,Medway,10
+ReversingCar,2.00446E+12,2004,Medway,8
+ReversingCar,200446CT95125,2004,Kent,24
+ReversingCar,200446MA91579,2004,Kent,8
+ReversingCar,200446SK99695,2004,Kent,17
+ReversingCar,200446WK94036,2004,Kent,13
+ReversingCar,200447K171973,2004,Brighton and Hove,21
+ReversingCar,200447K177573,2004,East Sussex,13
+ReversingCar,200447K179474,2004,East Sussex,26
+ReversingCar,200447K181618,2004,West Sussex,45
+ReversingCar,200447K182071,2004,West Sussex,13
+ReversingCar,200450A33Q966,2004,Cornwall and Isles of Scilly,13
+ReversingCar,200450C23P698,2004,Devon,71
+ReversingCar,200450C24M663,2004,Devon,
+ReversingCar,200450D21G519,2004,Devon,54
+ReversingCar,200450D21H023,2004,Devon,39
+ReversingCar,200450D42N693,2004,Devon,66
+ReversingCar,2.00452E+12,2004,Bath and North East Somerset,32
+ReversingCar,2.00452E+12,2004,North Somerset,14
+ReversingCar,2.00452E+12,2004,North Somerset,19
+ReversingCar,2.00452E+12,2004,Somerset,4
+ReversingCar,2.00452E+12,2004,Bath and North East Somerset,8
+ReversingCar,2.00452E+12,2004,City of Bristol,45
+ReversingCar,2.00452E+12,2004,South Gloucestershire,11
+ReversingCar,2.00452E+12,2004,Bath and North East Somerset,51
+ReversingCar,2.00452E+12,2004,Somerset,16
+ReversingCar,2.00452E+12,2004,Somerset,7
+ReversingCar,2004530AI3318,2004,Gloucestershire,7
+ReversingCar,2004530AI3476,2004,Gloucestershire,11
+ReversingCar,2004530AI4541,2004,Gloucestershire,67
+ReversingCar,200454DC22004,2004,Swindon,19
+ReversingCar,200454DN65704,2004,Swindon,15
+ReversingCar,2004550B02490,2004,Bournemouth,25
+ReversingCar,2004550B03607,2004,Bournemouth,18
+ReversingCar,2004550B04280,2004,Bournemouth,12
+ReversingCar,2004550P00673,2004,Poole,43
+ReversingCar,2004550P05552,2004,Poole,
+ReversingCar,2004554W01197,2004,Dorset,40
+ReversingCar,200501CW10962,2005,London,24
+ReversingCar,200501CW10966,2005,London,
+ReversingCar,200501EO40819,2005,London,50
+ReversingCar,200501FH10483,2005,London,5
+ReversingCar,200501GD10393,2005,London,19
+ReversingCar,200501KG70397,2005,London,13
+ReversingCar,200501MM71257,2005,London,42
+ReversingCar,200501PL60767,2005,London,11
+ReversingCar,200501PL60783,2005,London,25
+ReversingCar,200501QA10288,2005,London,16
+ReversingCar,200501QA10477,2005,London,
+ReversingCar,200501RG40107,2005,London,14
+ReversingCar,200501RG40643,2005,London,18
+ReversingCar,200501TC00186,2005,London,8
+ReversingCar,200501TC09059,2005,London,35
+ReversingCar,200501XD80227,2005,London,23
+ReversingCar,200501YE80889,2005,London,16
+ReversingCar,200501YR90192,2005,London,5
+ReversingCar,200501YR90634,2005,London,14
+ReversingCar,200501ZD31030,2005,London,28
+ReversingCar,200501ZT80216,2005,London,
+ReversingCar,200501ZT80294,2005,London,20
+ReversingCar,2.00503E+12,2005,Cumbria,4
+ReversingCar,2.00503E+12,2005,Cumbria,7
+ReversingCar,2.00503E+12,2005,Cumbria,7
+ReversingCar,2.00503E+12,2005,Cumbria,88
+ReversingCar,200504A012505,2005,Blackpool,24
+ReversingCar,200504AX05063,2005,Blackpool,62
+ReversingCar,200504B008805,2005,Lancashire,46
+ReversingCar,200504D014305,2005,Lancashire,56
+ReversingCar,200504DL05125,2005,Lancashire,24
+ReversingCar,200504EA05092,2005,Blackburn with Darwen,6
+ReversingCar,200505AW00826,2005,Merseyside,14
+ReversingCar,200505AW01128,2005,Merseyside,12
+ReversingCar,200505CH00252,2005,Merseyside,6
+ReversingCar,200505CH00556,2005,Merseyside,16
+ReversingCar,200505ET01189,2005,Merseyside,15
+ReversingCar,200506C032153,2005,Manchester,17
+ReversingCar,200506C036722,2005,Manchester,17
+ReversingCar,200506C038325,2005,Manchester,10
+ReversingCar,200506G026877,2005,Tameside,6
+ReversingCar,200506J024938,2005,Stockport,62
+ReversingCar,200506J040791,2005,Stockport,14
+ReversingCar,200506K038414,2005,Bolton,5
+ReversingCar,200506Q026880,2005,Oldham,10
+ReversingCar,2.00507E+12,2005,Cheshire West and Chester,26
+ReversingCar,2.00507E+12,2005,Cheshire West and Chester,13
+ReversingCar,2.00507E+12,2005,Cheshire West and Chester,22
+ReversingCar,2.00507E+12,2005,Halton,14
+ReversingCar,2.00507E+12,2005,Cheshire West and Chester,16
+ReversingCar,2.0051E+12,2005,Northumberland,78
+ReversingCar,2.0051E+12,2005,North Tyneside,11
+ReversingCar,2.0051E+12,2005,Newcastle upon Tyne,15
+ReversingCar,200511DJ12040,2005,Darlington,12
+ReversingCar,200511DJ19350,2005,Darlington,14
+ReversingCar,2.00512E+12,2005,York,60
+ReversingCar,2.00512E+12,2005,North Yorkshire,52
+ReversingCar,2.00512E+12,2005,North Yorkshire,34
+ReversingCar,2.00512E+12,2005,North Yorkshire,46
+ReversingCar,2.00512E+12,2005,North Yorkshire,61
+ReversingCar,2.00513E+12,2005,Leeds,10
+ReversingCar,2.00513E+12,2005,Bradford,3
+ReversingCar,200514B086005,2005,Barnsley,17
+ReversingCar,200514B120505,2005,Barnsley,13
+ReversingCar,200514B141005,2005,Barnsley,15
+ReversingCar,200514C057105,2005,Rotherham,39
+ReversingCar,200514E090305,2005,Sheffield,7
+ReversingCar,200514E128305,2005,Sheffield,58
+ReversingCar,2005160A02170,2005,North East Lincolnshire,28
+ReversingCar,2005160B00870,2005,North Lincolnshire,11
+ReversingCar,2005160C06140,2005,East Riding of Yorkshire,72
+ReversingCar,2005160C06350,2005,East Riding of Yorkshire,73
+ReversingCar,2005160C07880,2005,East Riding of Yorkshire,29
+ReversingCar,2005160C08850,2005,East Riding of Yorkshire,45
+ReversingCar,2005160D02700,2005,Kingston Upon Hull,6
+ReversingCar,2005160D03640,2005,Kingston Upon Hull,42
+ReversingCar,2005170L32015,2005,Redcar and Cleveland,3
+ReversingCar,200520D094602,2005,Birmingham,61
+ReversingCar,200520D221303,2005,Birmingham,8
+ReversingCar,200520D503402,2005,Birmingham,16
+ReversingCar,200520E198203,2005,Birmingham,66
+ReversingCar,200520E216101,2005,Birmingham,3
+ReversingCar,200520F010402,2005,Birmingham,24
+ReversingCar,200520J030702,2005,Dudley,52
+ReversingCar,200520J083901,2005,Dudley,37
+ReversingCar,200520K063802,2005,Sandwell,39
+ReversingCar,200520L018701,2005,Solihull,45
+ReversingCar,200520M010801,2005,Coventry,40
+ReversingCar,200520M020103,2005,Coventry,22
+ReversingCar,200520M049601,2005,Coventry,32
+ReversingCar,200520M058201,2005,Coventry,20
+ReversingCar,2.00522E+12,2005,Staffordshire,13
+ReversingCar,2.00522E+12,2005,Staffordshire,51
+ReversingCar,200522DE47555,2005,Worcestershire,18
+ReversingCar,200522GA39848,2005,Telford and Wrekin,37
+ReversingCar,200522GB39931,2005,Telford and Wrekin,14
+ReversingCar,200530C000387,2005,Derbyshire,9
+ReversingCar,200530C000427,2005,Derbyshire,50
+ReversingCar,200530D000389,2005,Derby,77
+ReversingCar,20053102A1910,2005,Nottinghamshire,15
+ReversingCar,20053102A2603,2005,Nottinghamshire,61
+ReversingCar,20053102A2741,2005,Nottinghamshire,33
+ReversingCar,20053102D1092,2005,Nottinghamshire,12
+ReversingCar,200532B087005,2005,Lincolnshire,51
+ReversingCar,200532D065305,2005,Lincolnshire,38
+ReversingCar,2.00533E+12,2005,Leicestershire,29
+ReversingCar,2.00533E+12,2005,Leicestershire,27
+ReversingCar,200534NC03239,2005,Northamptonshire,2
+ReversingCar,200534NC04027,2005,Northamptonshire,11
+ReversingCar,200534NN05324,2005,Northamptonshire,14
+ReversingCar,200534NW02379,2005,Northamptonshire,11
+ReversingCar,2.00535E+12,2005,Cambridgeshire,
+ReversingCar,2.00535E+12,2005,Cambridgeshire,20
+ReversingCar,2.00535E+12,2005,Cambridgeshire,75
+ReversingCar,2.00535E+12,2005,Cambridgeshire,36
+ReversingCar,2.00535E+12,2005,Peterborough,12
+ReversingCar,2.00535E+12,2005,Cambridgeshire,30
+ReversingCar,2.00536E+12,2005,Norfolk,21
+ReversingCar,2.00536E+12,2005,Norfolk,27
+ReversingCar,2.00536E+12,2005,Norfolk,50
+ReversingCar,2.00536E+12,2005,Norfolk,11
+ReversingCar,2.00536E+12,2005,Norfolk,
+ReversingCar,200536T050130,2005,Norfolk,17
+ReversingCar,200540B014990,2005,Bedford Borough Council,55
+ReversingCar,20054100A0638,2005,Hertfordshire,3
+ReversingCar,20054100D0777,2005,Hertfordshire,12
+ReversingCar,20054100K0313,2005,Hertfordshire,29
+ReversingCar,20054100K0385,2005,Hertfordshire,14
+ReversingCar,200542A010202,2005,Essex,15
+ReversingCar,200542A031806,2005,Essex,13
+ReversingCar,200542A038808,2005,Essex,
+ReversingCar,200542E020405,2005,Essex,26
+ReversingCar,200542G020103,2005,Essex,83
+ReversingCar,200543N109105,2005,Buckinghamshire,63
+ReversingCar,200543N154105,2005,Milton Keynes,31
+ReversingCar,200543N402085,2005,Buckinghamshire,79
+ReversingCar,200543P019065,2005,Oxfordshire,36
+ReversingCar,200543P067015,2005,Oxfordshire,
+ReversingCar,200543P082125,2005,Oxfordshire,48
+ReversingCar,200543P330045,2005,Oxfordshire,31
+ReversingCar,200543P330105,2005,Oxfordshire,27
+ReversingCar,200543W087105,2005,Reading,55
+ReversingCar,200543W252105,2005,Windsor and Maidenhead,78
+ReversingCar,2.00544E+12,2005,Hampshire,54
+ReversingCar,2.00544E+12,2005,Isle of Wight,58
+ReversingCar,2.00544E+12,2005,Hampshire,
+ReversingCar,2.00544E+12,2005,Hampshire,48
+ReversingCar,2.00544E+12,2005,Hampshire,
+ReversingCar,2.00544E+12,2005,Isle of Wight,29
+ReversingCar,2.00544E+12,2005,Southampton ,
+ReversingCar,2.00544E+12,2005,Hampshire,13
+ReversingCar,200545EL64350,2005,Surrey,
+ReversingCar,200545EL70904,2005,Surrey,58
+ReversingCar,200545EL74632,2005,Surrey,4
+ReversingCar,200545EL79582,2005,Surrey,
+ReversingCar,200545GU64323,2005,Surrey,21
+ReversingCar,200545GU69755,2005,Surrey,24
+ReversingCar,200545MO73386,2005,Surrey,14
+ReversingCar,200545WA71772,2005,Surrey,55
+ReversingCar,200545WO69695,2005,Surrey,32
+ReversingCar,200545WO74950,2005,Surrey,56
+ReversingCar,2.00546E+12,2005,Kent,53
+ReversingCar,2.00546E+12,2005,Kent,17
+ReversingCar,2.00546E+12,2005,Kent,10
+ReversingCar,2.00546E+12,2005,Kent,31
+ReversingCar,2.00546E+12,2005,Kent,55
+ReversingCar,2.00547E+12,2005,Brighton and Hove,27
+ReversingCar,2.00547E+12,2005,West Sussex,50
+ReversingCar,2.00547E+12,2005,West Sussex,80
+ReversingCar,200550A31L396,2005,Cornwall and Isles of Scilly,49
+ReversingCar,200550B32E294,2005,Cornwall and Isles of Scilly,15
+ReversingCar,200550D21M584,2005,Devon,16
+ReversingCar,200550E21K400,2005,Plymouth,5
+ReversingCar,200550E31Q577,2005,Plymouth,
+ReversingCar,2.00552E+12,2005,Bath and North East Somerset,21
+ReversingCar,2.00552E+12,2005,North Somerset,60
+ReversingCar,2.00552E+12,2005,Somerset,25
+ReversingCar,2.00552E+12,2005,Somerset,24
+ReversingCar,2.00553E+12,2005,Gloucestershire,16
+ReversingCar,2.00553E+12,2005,Gloucestershire,5
+ReversingCar,2.00553E+12,2005,Gloucestershire,39
+ReversingCar,2.00553E+12,2005,Gloucestershire,21
+ReversingCar,2.00553E+12,2005,Gloucestershire,7
+ReversingCar,200554CT25605,2005,Wiltshire,31
+ReversingCar,200554CW02405,2005,Wiltshire,51
+ReversingCar,200554DC03305,2005,Swindon,54
+ReversingCar,200554DE18405,2005,Swindon,15
+ReversingCar,2005555B03982,2005,Bournemouth,16
+ReversingCar,2005555B04837,2005,Bournemouth,16
+ReversingCar,2005555P03657,2005,Poole,10
+ReversingCar,2005555W01020,2005,Dorset,18
+ReversingCar,2005555W01214,2005,Dorset,54
+ReversingCar,2005555W03502,2005,Dorset,13
+ReversingCar,200601BS70485,2006,London,
+ReversingCar,200601EO40319,2006,London,35
+ReversingCar,200601EO40485,2006,London,28
+ReversingCar,200601GD10318,2006,London,34
+ReversingCar,200601KF60682,2006,London,26
+ReversingCar,200601LX51074,2006,London,29
+ReversingCar,200601MM70562,2006,London,28
+ReversingCar,200601PL60778,2006,London,74
+ReversingCar,200601QK50413,2006,London,17
+ReversingCar,200601RG40866,2006,London,33
+ReversingCar,200601SX20485,2006,London,14
+ReversingCar,200601TW60340,2006,London,44
+ReversingCar,200601TX20481,2006,London,10
+ReversingCar,200601VW40207,2006,London,43
+ReversingCar,200601XD80763,2006,London,17
+ReversingCar,200601XD80812,2006,London,16
+ReversingCar,200601XH30416,2006,London,40
+ReversingCar,200601YE80060,2006,London,81
+ReversingCar,200601YE80669,2006,London,32
+ReversingCar,200601YR90819,2006,London,41
+ReversingCar,200601ZT80299,2006,London,22
+ReversingCar,2.00603E+12,2006,Cumbria,37
+ReversingCar,2.00603E+12,2006,Cumbria,12
+ReversingCar,200604AM06110,2006,Blackpool,11
+ReversingCar,200604BA06159,2006,Lancashire,14
+ReversingCar,200604BA06166,2006,Lancashire,45
+ReversingCar,200604BC06159,2006,Lancashire,21
+ReversingCar,200604BJ06038,2006,Lancashire,38
+ReversingCar,200604CH06036,2006,Lancashire,49
+ReversingCar,200604DF06173,2006,Lancashire,22
+ReversingCar,200604DL06124,2006,Lancashire,36
+ReversingCar,200605BB05764,2006,Merseyside,45
+ReversingCar,200605BB10342,2006,Merseyside,8
+ReversingCar,200605DD08531,2006,Merseyside,8
+ReversingCar,200606A052368,2006,Manchester,48
+ReversingCar,200606J057633,2006,Stockport,37
+ReversingCar,200606J058527,2006,Stockport,45
+ReversingCar,200606J061764,2006,Stockport,11
+ReversingCar,2.00607E+12,2006,Halton,32
+ReversingCar,2.00607E+12,2006,Cheshire West and Chester,34
+ReversingCar,2.00607E+12,2006,Cheshire West and Chester,15
+ReversingCar,2.0061E+12,2006,Gateshead,30
+ReversingCar,2.0061E+12,2006,Newcastle upon Tyne,47
+ReversingCar,2.0061E+12,2006,South Tyneside,8
+ReversingCar,2.0061E+12,2006,Gateshead,25
+ReversingCar,2.0061E+12,2006,Northumberland,5
+ReversingCar,2.0061E+12,2006,South Tyneside,16
+ReversingCar,200611DJ10570,2006,Darlington,6
+ReversingCar,2.00612E+12,2006,North Yorkshire,71
+ReversingCar,2.00612E+12,2006,York,18
+ReversingCar,2.00612E+12,2006,North Yorkshire,55
+ReversingCar,2.00613E+12,2006,Leeds,4
+ReversingCar,2.00613E+12,2006,Leeds,6
+ReversingCar,2.00613E+12,2006,Calderdale,10
+ReversingCar,2.00613E+12,2006,Bradford,7
+ReversingCar,2.00613E+12,2006,Leeds,13
+ReversingCar,2.00613E+12,2006,Wakefield,13
+ReversingCar,200614A128406,2006,Doncaster,35
+ReversingCar,200614C158806,2006,Rotherham,5
+ReversingCar,200614H091006,2006,Sheffield,11
+ReversingCar,200614H147206,2006,Sheffield,14
+ReversingCar,200614H208006,2006,Sheffield,10
+ReversingCar,2006160A01110,2006,North East Lincolnshire,15
+ReversingCar,2006160B00320,2006,North Lincolnshire,3
+ReversingCar,2006160B02950,2006,North Lincolnshire,5
+ReversingCar,2006160D04540,2006,Kingston Upon Hull,81
+ReversingCar,2006170L32286,2006,Redcar and Cleveland,14
+ReversingCar,2006170M13146,2006,Middlesbrough,4
+ReversingCar,200620D267802,2006,Birmingham,
+ReversingCar,200620E082801,2006,Birmingham,9
+ReversingCar,200620G027601,2006,Wolverhampton,28
+ReversingCar,200620J036602,2006,Dudley,10
+ReversingCar,200620K106102,2006,Sandwell,
+ReversingCar,200620K108602,2006,Sandwell,19
+ReversingCar,200620M061102,2006,Coventry,34
+ReversingCar,2.00622E+12,2006,Stoke on Trent,7
+ReversingCar,2.00622E+12,2006,Staffordshire,12
+ReversingCar,200622CA56237,2006,Worcestershire,11
+ReversingCar,200622DA51367,2006,Worcestershire,46
+ReversingCar,200622DA52783,2006,Worcestershire,15
+ReversingCar,200622FA49362,2006,Shropshire,7
+ReversingCar,2.00623E+12,2006,Warwickshire,16
+ReversingCar,2.00623E+12,2006,Warwickshire,36
+ReversingCar,200630A000106,2006,Derbyshire,13
+ReversingCar,200630A000385,2006,Derbyshire,16
+ReversingCar,200630A000431,2006,Derbyshire,11
+ReversingCar,200630D000793,2006,Derbyshire,11
+ReversingCar,20063102C0298,2006,Nottingham,10
+ReversingCar,20063102D1923,2006,Nottinghamshire,6
+ReversingCar,20063102D2539,2006,Nottinghamshire,12
+ReversingCar,200632B011606,2006,Lincolnshire,49
+ReversingCar,200634NC03727,2006,Northamptonshire,10
+ReversingCar,2.00635E+12,2006,Cambridgeshire,13
+ReversingCar,2.00635E+12,2006,Cambridgeshire,23
+ReversingCar,2.00635E+12,2006,Peterborough,16
+ReversingCar,2.00635E+12,2006,Cambridgeshire,14
+ReversingCar,2.00635E+12,2006,Cambridgeshire,50
+ReversingCar,2.00635E+12,2006,Peterborough,57
+ReversingCar,2.00635E+12,2006,Cambridgeshire,73
+ReversingCar,2.00636E+12,2006,Norfolk,54
+ReversingCar,200637G020698,2006,Suffolk,33
+ReversingCar,200637G020885,2006,Suffolk,53
+ReversingCar,200640D021970,2006,Central Bedfordshire,64
+ReversingCar,20064100C0636,2006,Hertfordshire,7
+ReversingCar,20064100F4106,2006,Hertfordshire,52
+ReversingCar,20064100G0257,2006,Hertfordshire,23
+ReversingCar,200642C010602,2006,Essex,59
+ReversingCar,200642H022706,2006,Southend on Sea,35
+ReversingCar,200642I339108,2006,Southend on Sea,6
+ReversingCar,200642I362509,2006,Thurrock,10
+ReversingCar,200642I531212,2006,Essex,54
+ReversingCar,200642J011403,2006,Essex,12
+ReversingCar,200642J015104,2006,Essex,15
+ReversingCar,200643N035116,2006,Buckinghamshire,33
+ReversingCar,200643N289016,2006,Buckinghamshire,48
+ReversingCar,200643N315036,2006,Milton Keynes,40
+ReversingCar,200643P018106,2006,Oxfordshire,21
+ReversingCar,200643P256086,2006,Oxfordshire,
+ReversingCar,200643P338096,2006,Oxfordshire,5
+ReversingCar,200643P355096,2006,Oxfordshire,53
+ReversingCar,200643W096016,2006,Windsor and Maidenhead,63
+ReversingCar,200643W262116,2006,West Berkshire,9
+ReversingCar,2.00644E+12,2006,Isle of Wight,44
+ReversingCar,2.00644E+12,2006,Hampshire,48
+ReversingCar,2.00644E+12,2006,Hampshire,15
+ReversingCar,2.00644E+12,2006,Hampshire,74
+ReversingCar,2.00644E+12,2006,Hampshire,12
+ReversingCar,2.00644E+12,2006,Hampshire,31
+ReversingCar,200645RE88120,2006,Surrey,15
+ReversingCar,2.00646E+12,2006,Kent,4
+ReversingCar,2.00646E+12,2006,Kent,32
+ReversingCar,2.00646E+12,2006,Kent,6
+ReversingCar,2.00646E+12,2006,Kent,34
+ReversingCar,2.00646E+12,2006,Kent,17
+ReversingCar,2.00647E+12,2006,West Sussex,34
+ReversingCar,200650B41L244,2006,Cornwall and Isles of Scilly,9
+ReversingCar,200650C21G062,2006,Devon,16
+ReversingCar,200650D21A587,2006,Devon,39
+ReversingCar,200650D21A617,2006,Devon,
+ReversingCar,200650D21A943,2006,Devon,34
+ReversingCar,200650D21H886,2006,Devon,
+ReversingCar,200650D21M300,2006,Devon,50
+ReversingCar,200650D21M779,2006,Devon,
+ReversingCar,200650E21E234,2006,Plymouth,20
+ReversingCar,200650E21N748,2006,Plymouth,22
+ReversingCar,2.00652E+12,2006,Somerset,41
+ReversingCar,2.00652E+12,2006,City of Bristol,50
+ReversingCar,2.00652E+12,2006,North Somerset,40
+ReversingCar,2.00652E+12,2006,City of Bristol,17
+ReversingCar,2.00652E+12,2006,City of Bristol,24
+ReversingCar,2.00653E+12,2006,Gloucestershire,21
+ReversingCar,200654CK36506,2006,Wiltshire,57
+ReversingCar,200654CM25306,2006,Wiltshire,43
+ReversingCar,200654CP38806,2006,Wiltshire,39
+ReversingCar,200654CR57606,2006,Wiltshire,50
+ReversingCar,200654DN05106,2006,Swindon,11
+ReversingCar,2006556B03623,2006,Bournemouth,22
+ReversingCar,2006556E04204,2006,Dorset,51
+ReversingCar,2006556P02264,2006,Poole,16
+ReversingCar,200701BS70465,2007,London,18
+ReversingCar,200701CP00135,2007,London,
+ReversingCar,200701CW11387,2007,London,28
+ReversingCar,200701FH10639,2007,London,30
+ReversingCar,200701GD10263,2007,London,33
+ReversingCar,200701HT20043,2007,London,62
+ReversingCar,200701KG66061,2007,London,9
+ReversingCar,200701LX50257,2007,London,46
+ReversingCar,200701MM70254,2007,London,9
+ReversingCar,200701PL60356,2007,London,20
+ReversingCar,200701RG40024,2007,London,45
+ReversingCar,200701RY10181,2007,London,9
+ReversingCar,200701TC00075,2007,London,33
+ReversingCar,200701TW60261,2007,London,22
+ReversingCar,200701TW60344,2007,London,45
+ReversingCar,200701TX20034,2007,London,63
+ReversingCar,200701VK30165,2007,London,14
+ReversingCar,200701VK30171,2007,London,57
+ReversingCar,200701XD80362,2007,London,3
+ReversingCar,200701XH30394,2007,London,41
+ReversingCar,200701XH62198,2007,London,13
+ReversingCar,200701ZD30430,2007,London,10
+ReversingCar,2.00703E+12,2007,Cumbria,9
+ReversingCar,200704AM07079,2007,Blackpool,11
+ReversingCar,200704BA07174,2007,Lancashire,9
+ReversingCar,200704CJ07071,2007,Lancashire,41
+ReversingCar,200704DL07028,2007,Lancashire,20
+ReversingCar,200704EA07232,2007,Blackburn with Darwen,7
+ReversingCar,200705BB18032,2007,Merseyside,50
+ReversingCar,200705BB20988,2007,Merseyside,12
+ReversingCar,200706C077929,2007,Manchester,30
+ReversingCar,200706K074216,2007,Bolton,60
+ReversingCar,200706K080086,2007,Bolton,4
+ReversingCar,200706M072379,2007,Trafford,56
+ReversingCar,200706N073033,2007,Bury,63
+ReversingCar,200706P065864,2007,Rochdale,15
+ReversingCar,2.00707E+12,2007,Cheshire West and Chester,8
+ReversingCar,2.00707E+12,2007,Cheshire West and Chester,55
+ReversingCar,2.00707E+12,2007,Cheshire West and Chester,4
+ReversingCar,2.00707E+12,2007,Cheshire West and Chester,14
+ReversingCar,2.00707E+12,2007,Warrington,7
+ReversingCar,2.00707E+12,2007,Halton,28
+ReversingCar,2.0071E+12,2007,Northumberland,13
+ReversingCar,2.0071E+12,2007,South Tyneside,13
+ReversingCar,2.0071E+12,2007,Northumberland,12
+ReversingCar,2.0071E+12,2007,Northumberland,17
+ReversingCar,2.0071E+12,2007,South Tyneside,24
+ReversingCar,200711AL15090,2007,Durham,44
+ReversingCar,200711BE15420,2007,Durham,4
+ReversingCar,200711DJ18480,2007,Darlington,31
+ReversingCar,2.00712E+12,2007,York,16
+ReversingCar,2.00712E+12,2007,North Yorkshire,13
+ReversingCar,2.00712E+12,2007,York,40
+ReversingCar,2.00713E+12,2007,Kirklees,15
+ReversingCar,2.00713E+12,2007,Kirklees,4
+ReversingCar,2.00713E+12,2007,Kirklees,14
+ReversingCar,2.00713E+12,2007,Bradford,14
+ReversingCar,2.00713E+12,2007,Bradford,4
+ReversingCar,2.00713E+12,2007,Bradford,23
+ReversingCar,2.00713E+12,2007,Leeds,38
+ReversingCar,200714A247907,2007,Doncaster,34
+ReversingCar,200714B083407,2007,Barnsley,7
+ReversingCar,2007160C03350,2007,East Riding of Yorkshire,56
+ReversingCar,2007160D01520,2007,Kingston Upon Hull,54
+ReversingCar,2007160D08320,2007,Kingston Upon Hull,39
+ReversingCar,200720D106703,2007,Birmingham,6
+ReversingCar,200720D186002,2007,Birmingham,72
+ReversingCar,200720D187602,2007,Birmingham,11
+ReversingCar,200720H049201,2007,Walsall,6
+ReversingCar,200722CA86529,2007,Worcestershire,31
+ReversingCar,200722DA86501,2007,Worcestershire,11
+ReversingCar,200730A000219,2007,Derbyshire,15
+ReversingCar,200730C000279,2007,Derbyshire,
+ReversingCar,20073102A2563,2007,Nottinghamshire,7
+ReversingCar,20073102C3163,2007,Nottingham,42
+ReversingCar,20073102C4494,2007,Nottingham,46
+ReversingCar,20073102D0829,2007,Nottinghamshire,44
+ReversingCar,20073102D3389,2007,Nottinghamshire,35
+ReversingCar,200732B142807,2007,Lincolnshire,16
+ReversingCar,200732C003007,2007,Lincolnshire,18
+ReversingCar,2.00733E+12,2007,Leicestershire,24
+ReversingCar,2.00733E+12,2007,Leicestershire,14
+ReversingCar,2.00733E+12,2007,Leicestershire,17
+ReversingCar,200734NW57497,2007,Northamptonshire,52
+ReversingCar,2.00735E+12,2007,Peterborough,48
+ReversingCar,2.00735E+12,2007,Cambridgeshire,44
+ReversingCar,2.00735E+12,2007,Cambridgeshire,57
+ReversingCar,2.00735E+12,2007,Peterborough,12
+ReversingCar,2.00736E+12,2007,Norfolk,50
+ReversingCar,2.00736E+12,2007,Norfolk,14
+ReversingCar,2.00736E+12,2007,Norfolk,11
+ReversingCar,200737G022788,2007,Suffolk,30
+ReversingCar,200737G022963,2007,Suffolk,60
+ReversingCar,20074100D0709,2007,Hertfordshire,25
+ReversingCar,20074100J2376,2007,Hertfordshire,41
+ReversingCar,20074100K0664,2007,Hertfordshire,87
+ReversingCar,200742I013901,2007,Essex,47
+ReversingCar,200742I075302,2007,Essex,68
+ReversingCar,200742I182705,2007,Essex,31
+ReversingCar,200742I272507,2007,Essex,26
+ReversingCar,200742I284807,2007,Essex,71
+ReversingCar,200742I379709,2007,Essex,37
+ReversingCar,200743N154067,2007,Buckinghamshire,14
+ReversingCar,200743N235097,2007,Buckinghamshire,33
+ReversingCar,200743P067097,2007,Oxfordshire,68
+ReversingCar,200743P120097,2007,Oxfordshire,60
+ReversingCar,200743P199107,2007,Oxfordshire,10
+ReversingCar,200743P393077,2007,Oxfordshire,23
+ReversingCar,200743R044107,2007,Windsor and Maidenhead,53
+ReversingCar,200743R299087,2007,Windsor and Maidenhead,47
+ReversingCar,200743R325107,2007,Windsor and Maidenhead,44
+ReversingCar,200743W204067,2007,West Berkshire,63
+ReversingCar,200743W289117,2007,West Berkshire,38
+ReversingCar,2.00744E+12,2007,Portsmouth,21
+ReversingCar,2.00744E+12,2007,Hampshire,50
+ReversingCar,2.00744E+12,2007,Southampton ,19
+ReversingCar,2.00744E+12,2007,Hampshire,54
+ReversingCar,2.00744E+12,2007,Hampshire,6
+ReversingCar,2.00744E+12,2007,Hampshire,67
+ReversingCar,2.00744E+12,2007,Portsmouth,38
+ReversingCar,200745EL05118,2007,Surrey,58
+ReversingCar,200745MO04331,2007,Surrey,8
+ReversingCar,200745MO12203,2007,Surrey,62
+ReversingCar,200745SP09622,2007,Surrey,
+ReversingCar,200745WO05047,2007,Surrey,
+ReversingCar,2.00746E+12,2007,Kent,16
+ReversingCar,2.00746E+12,2007,Kent,11
+ReversingCar,2.00746E+12,2007,Kent,14
+ReversingCar,2.00746E+12,2007,Kent,13
+ReversingCar,2.00747E+12,2007,West Sussex,19
+ReversingCar,2.00747E+12,2007,East Sussex,31
+ReversingCar,2.00747E+12,2007,East Sussex,39
+ReversingCar,2.00747E+12,2007,West Sussex,15
+ReversingCar,2.00747E+12,2007,West Sussex,65
+ReversingCar,2.00747E+12,2007,Brighton and Hove,88
+ReversingCar,200750A32J257,2007,Cornwall and Isles of Scilly,35
+ReversingCar,200750C21I902,2007,Devon,
+ReversingCar,200750D21E386,2007,Devon,33
+ReversingCar,2.00752E+12,2007,South Gloucestershire,24
+ReversingCar,2.00752E+12,2007,City of Bristol,38
+ReversingCar,2.00752E+12,2007,City of Bristol,27
+ReversingCar,2.00752E+12,2007,City of Bristol,61
+ReversingCar,2.00752E+12,2007,North Somerset,81
+ReversingCar,2.00752E+12,2007,South Gloucestershire,12
+ReversingCar,2.00752E+12,2007,Bath and North East Somerset,44
+ReversingCar,2.00752E+12,2007,Somerset,13
+ReversingCar,2.00752E+12,2007,City of Bristol,18
+ReversingCar,2.00753E+12,2007,Gloucestershire,48
+ReversingCar,2.00753E+12,2007,Gloucestershire,37
+ReversingCar,2007557B02287,2007,Bournemouth,6
+ReversingCar,2007557B04729,2007,Bournemouth,47
+ReversingCar,2007557B05031,2007,Bournemouth,43
+ReversingCar,200801BS70759,2008,London,40
+ReversingCar,200801GD69643,2008,London,33
+ReversingCar,200801GD72806,2008,London,35
+ReversingCar,200801GD75627,2008,London,47
+ReversingCar,200801GD75960,2008,London,10
+ReversingCar,200801HT72290,2008,London,33
+ReversingCar,200801JC73203,2008,London,35
+ReversingCar,200801LX50344,2008,London,14
+ReversingCar,200801MM70581,2008,London,24
+ReversingCar,200801QK50536,2008,London,29
+ReversingCar,200801SX20115,2008,London,30
+ReversingCar,200801TW60161,2008,London,29
+ReversingCar,200801XH30540,2008,London,13
+ReversingCar,200801YR90387,2008,London,
+ReversingCar,200804DF08140,2008,Lancashire,66
+ReversingCar,200804EL08140,2008,Lancashire,13
+ReversingCar,200804FA08153,2008,Lancashire,46
+ReversingCar,200805AA23565,2008,Merseyside,12
+ReversingCar,200805BB27754,2008,Merseyside,7
+ReversingCar,200805CC29968,2008,Merseyside,
+ReversingCar,200805EE27124,2008,Merseyside,10
+ReversingCar,200806A001429,2008,Manchester,30
+ReversingCar,200806A099837,2008,Manchester,40
+ReversingCar,200806C005674,2008,Manchester,6
+ReversingCar,200806C095876,2008,Manchester,9
+ReversingCar,200806J000004,2008,Stockport,46
+ReversingCar,200806K093946,2008,Bolton,64
+ReversingCar,200806L001275,2008,Wigan,61
+ReversingCar,200806L001442,2008,Wigan,32
+ReversingCar,200806L088942,2008,Wigan,11
+ReversingCar,200806L094544,2008,Wigan,55
+ReversingCar,200806N094132,2008,Bury,25
+ReversingCar,2.00807E+12,2008,Warrington,17
+ReversingCar,2.00807E+12,2008,Warrington,9
+ReversingCar,2.00807E+12,2008,Cheshire West and Chester,19
+ReversingCar,2.00807E+12,2008,Cheshire West and Chester,55
+ReversingCar,2.0081E+12,2008,South Tyneside,29
+ReversingCar,2.0081E+12,2008,South Tyneside,5
+ReversingCar,2.0081E+12,2008,South Tyneside,9
+ReversingCar,2.0081E+12,2008,Northumberland,45
+ReversingCar,2.00813E+12,2008,Leeds,10
+ReversingCar,2.00813E+12,2008,Bradford,31
+ReversingCar,2.00813E+12,2008,Bradford,9
+ReversingCar,2.00813E+12,2008,Wakefield,8
+ReversingCar,2.00813E+12,2008,Kirklees,5
+ReversingCar,2.00813E+12,2008,Kirklees,18
+ReversingCar,200814A021408,2008,Doncaster,10
+ReversingCar,200814A181508,2008,Doncaster,
+ReversingCar,200814B130308,2008,Barnsley,13
+ReversingCar,200814K252508,2008,Sheffield,13
+ReversingCar,2008160A01390,2008,North East Lincolnshire,28
+ReversingCar,2008160B02060,2008,North Lincolnshire,11
+ReversingCar,2008160B02700,2008,North Lincolnshire,27
+ReversingCar,2008160C05250,2008,East Riding of Yorkshire,8
+ReversingCar,2008170L21018,2008,Redcar and Cleveland,6
+ReversingCar,2008170S12008,2008,Stockton on Tees,6
+ReversingCar,200820D072703,2008,Birmingham,12
+ReversingCar,200820F053701,2008,Birmingham,33
+ReversingCar,200820G032001,2008,Wolverhampton,17
+ReversingCar,200820H053202,2008,Walsall,47
+ReversingCar,200820J014702,2008,Dudley,17
+ReversingCar,200820J057802,2008,Dudley,
+ReversingCar,200820J064202,2008,Dudley,12
+ReversingCar,200820K021502,2008,Sandwell,20
+ReversingCar,2.00822E+12,2008,Staffordshire,14
+ReversingCar,2.00822E+12,2008,Staffordshire,15
+ReversingCar,2.00822E+12,2008,Staffordshire,19
+ReversingCar,200822FA00138,2008,Shropshire,42
+ReversingCar,200830A000356,2008,Derbyshire,10
+ReversingCar,200830C000653,2008,Derbyshire,
+ReversingCar,200830D000472,2008,Derbyshire,10
+ReversingCar,200830D000650,2008,Derby,10
+ReversingCar,20083102A1693,2008,Nottinghamshire,
+ReversingCar,20083102B3637,2008,Nottinghamshire,29
+ReversingCar,20083102C2881,2008,Nottingham,27
+ReversingCar,20083102D3622,2008,Nottinghamshire,44
+ReversingCar,200832C234508,2008,Lincolnshire,12
+ReversingCar,200832C310608,2008,Lincolnshire,55
+ReversingCar,2.00833E+12,2008,Leicestershire,35
+ReversingCar,2.00833E+12,2008,Leicestershire,14
+ReversingCar,2.00833E+12,2008,Leicestershire,7
+ReversingCar,2.00833E+12,2008,Leicestershire,63
+ReversingCar,200834WN37258,2008,Northamptonshire,14
+ReversingCar,2.00835E+12,2008,Cambridgeshire,7
+ReversingCar,2.00835E+12,2008,Cambridgeshire,72
+ReversingCar,2.00835E+12,2008,Peterborough,59
+ReversingCar,2.00835E+12,2008,Cambridgeshire,31
+ReversingCar,2.00835E+12,2008,Cambridgeshire,20
+ReversingCar,2.00835E+12,2008,Peterborough,44
+ReversingCar,2.00835E+12,2008,Cambridgeshire,63
+ReversingCar,2.00836E+12,2008,Norfolk,73
+ReversingCar,200837B040837,2008,Suffolk,52
+ReversingCar,2008400B00960,2008,Bedford Borough Council,37
+ReversingCar,20084100B0498,2008,Hertfordshire,71
+ReversingCar,20084100G0625,2008,Hertfordshire,78
+ReversingCar,200842I260007,2008,Southend on Sea,45
+ReversingCar,200842I330209,2008,Essex,31
+ReversingCar,200842I390811,2008,Essex,40
+ReversingCar,200842I393210,2008,Essex,11
+ReversingCar,200843N047048,2008,Buckinghamshire,
+ReversingCar,200843P126118,2008,Oxfordshire,70
+ReversingCar,200843P182118,2008,Oxfordshire,
+ReversingCar,200843P236068,2008,Oxfordshire,58
+ReversingCar,200843R132068,2008,Slough,59
+ReversingCar,200843W087078,2008,West Berkshire,12
+ReversingCar,2.00844E+12,2008,Hampshire,37
+ReversingCar,2.00844E+12,2008,Portsmouth,25
+ReversingCar,2.00844E+12,2008,Hampshire,34
+ReversingCar,2.00844E+12,2008,Southampton ,29
+ReversingCar,200845EL24161,2008,Surrey,31
+ReversingCar,200845EP22047,2008,Surrey,40
+ReversingCar,2.00846E+12,2008,Kent,15
+ReversingCar,2.00847E+12,2008,Brighton and Hove,32
+ReversingCar,2.00847E+12,2008,West Sussex,10
+ReversingCar,2.00847E+12,2008,West Sussex,28
+ReversingCar,2.00847E+12,2008,West Sussex,12
+ReversingCar,2.00847E+12,2008,West Sussex,30
+ReversingCar,200850DE2P004,2008,Devon,39
+ReversingCar,200850ED2D006,2008,Plymouth,7
+ReversingCar,200850EL2H005,2008,Plymouth,38
+ReversingCar,200850JG2E004,2008,Devon,
+ReversingCar,2.00852E+12,2008,North Somerset,15
+ReversingCar,2.00852E+12,2008,City of Bristol,39
+ReversingCar,2.00852E+12,2008,South Gloucestershire,41
+ReversingCar,2.00852E+12,2008,Somerset,43
+ReversingCar,2.00852E+12,2008,South Gloucestershire,33
+ReversingCar,2.00853E+12,2008,Gloucestershire,67
+ReversingCar,2.00853E+12,2008,Gloucestershire,63
+ReversingCar,200854DN07208,2008,Swindon,48
+ReversingCar,200854EP31908,2008,Wiltshire,22
+ReversingCar,200854ES06608,2008,Wiltshire,57
+ReversingCar,2008558B00079,2008,Bournemouth,33
+ReversingCar,200901CW10619,2009,London,50
+ReversingCar,200901CW10843,2009,London,61
+ReversingCar,200901CW11980,2009,London,52
+ReversingCar,200901CW12228,2009,London,48
+ReversingCar,200901EO40335,2009,London,28
+ReversingCar,200901EO40754,2009,London,22
+ReversingCar,200901FH10332,2009,London,
+ReversingCar,200901HT20428,2009,London,33
+ReversingCar,200901HT20766,2009,London,27
+ReversingCar,200901JC30583,2009,London,40
+ReversingCar,200901JC30645,2009,London,15
+ReversingCar,200901JI40069,2009,London,17
+ReversingCar,200901KD50163,2009,London,15
+ReversingCar,200901KD50199,2009,London,
+ReversingCar,200901KF76981,2009,London,11
+ReversingCar,200901LX50678,2009,London,12
+ReversingCar,200901LX50852,2009,London,7
+ReversingCar,200901LX50869,2009,London,31
+ReversingCar,200901LX50907,2009,London,18
+ReversingCar,200901MM70398,2009,London,27
+ReversingCar,200901VW40275,2009,London,25
+ReversingCar,200901WW50083,2009,London,35
+ReversingCar,200901WW50713,2009,London,36
+ReversingCar,200901WW50857,2009,London,11
+ReversingCar,200901XD80837,2009,London,
+ReversingCar,200901XH30604,2009,London,54
+ReversingCar,2.00903E+12,2009,Cumbria,13
+ReversingCar,200904CM09084,2009,Lancashire,15
+ReversingCar,200905BB01470,2009,Merseyside,17
+ReversingCar,200905BB31847,2009,Merseyside,20
+ReversingCar,200905DD02518,2009,Merseyside,46
+ReversingCar,200906A020876,2009,Manchester,4
+ReversingCar,200906C017430,2009,Manchester,18
+ReversingCar,200906J021583,2009,Stockport,32
+ReversingCar,200906L017908,2009,Wigan,43
+ReversingCar,200906M015306,2009,Trafford,39
+ReversingCar,200906M016077,2009,Trafford,10
+ReversingCar,200906N018230,2009,Bury,11
+ReversingCar,200906Q016269,2009,Oldham,4
+ReversingCar,200906Q017353,2009,Oldham,11
+ReversingCar,2.00907E+12,2009,Cheshire East,33
+ReversingCar,2.00907E+12,2009,Halton,16
+ReversingCar,2.00907E+12,2009,Cheshire West and Chester,31
+ReversingCar,2.00907E+12,2009,Warrington,10
+ReversingCar,2.00907E+12,2009,Cheshire West and Chester,8
+ReversingCar,2.00912E+12,2009,York,42
+ReversingCar,2.00912E+12,2009,York,62
+ReversingCar,2.00912E+12,2009,York,71
+ReversingCar,2.00913E+12,2009,Kirklees,9
+ReversingCar,2.00913E+12,2009,Kirklees,10
+ReversingCar,2.00913E+12,2009,Kirklees,41
+ReversingCar,2.00913E+12,2009,Leeds,35
+ReversingCar,200914A123309,2009,Doncaster,66
+ReversingCar,200914C074509,2009,Rotherham,11
+ReversingCar,200914C076709,2009,Rotherham,33
+ReversingCar,200914K104009,2009,Sheffield,17
+ReversingCar,200914K187209,2009,Sheffield,15
+ReversingCar,2009160C04630,2009,East Riding of Yorkshire,11
+ReversingCar,2009160D06470,2009,Kingston Upon Hull,44
+ReversingCar,200920L056601,2009,Solihull,63
+ReversingCar,200920M019403,2009,Coventry,16
+ReversingCar,2.00922E+12,2009,Stoke on Trent,24
+ReversingCar,2.00922E+12,2009,Staffordshire,12
+ReversingCar,200922F904640,2009,Shropshire,41
+ReversingCar,200922G905082,2009,Shropshire,61
+ReversingCar,2.00923E+12,2009,Warwickshire,53
+ReversingCar,200930A000156,2009,Derbyshire,13
+ReversingCar,200930A000468,2009,Derbyshire,14
+ReversingCar,20093102A1265,2009,Nottinghamshire,17
+ReversingCar,20093102C2202,2009,Nottingham,11
+ReversingCar,200932B195909,2009,Lincolnshire,9
+ReversingCar,200932C047209,2009,Lincolnshire,60
+ReversingCar,2.00933E+12,2009,Leicestershire,15
+ReversingCar,2.00933E+12,2009,Leicestershire,14
+ReversingCar,200934NC15629,2009,Northamptonshire,5
+ReversingCar,2.00935E+12,2009,Cambridgeshire,81
+ReversingCar,2.00935E+12,2009,Cambridgeshire,39
+ReversingCar,2.00935E+12,2009,Cambridgeshire,28
+ReversingCar,2.00935E+12,2009,Peterborough,52
+ReversingCar,2.00936E+12,2009,Norfolk,6
+ReversingCar,2.00936E+12,2009,Norfolk,82
+ReversingCar,2.00936E+12,2009,Norfolk,44
+ReversingCar,200937G027428,2009,Suffolk,50
+ReversingCar,200937G027718,2009,Suffolk,36
+ReversingCar,200937G028519,2009,Suffolk,12
+ReversingCar,200937L017218,2009,Suffolk,18
+ReversingCar,2009400D01096,2009,Central Bedfordshire,3
+ReversingCar,20094100B0259,2009,Hertfordshire,27
+ReversingCar,20094100C0405,2009,Hertfordshire,11
+ReversingCar,20094100F4254,2009,Hertfordshire,29
+ReversingCar,20094100J0298,2009,Hertfordshire,33
+ReversingCar,200942I093801,2009,Thurrock,15
+ReversingCar,200942I112404,2009,Southend on Sea,62
+ReversingCar,200942I123304,2009,Southend on Sea,14
+ReversingCar,200942I173606,2009,Essex,9
+ReversingCar,200942I301109,2009,Essex,14
+ReversingCar,200943P014039,2009,Oxfordshire,33
+ReversingCar,200943P052099,2009,Oxfordshire,35
+ReversingCar,200943P095129,2009,Oxfordshire,71
+ReversingCar,200943P100089,2009,Oxfordshire,57
+ReversingCar,200943P213029,2009,Oxfordshire,12
+ReversingCar,200943P296089,2009,Oxfordshire,5
+ReversingCar,200943P301109,2009,Oxfordshire,47
+ReversingCar,200943P318119,2009,Oxfordshire,23
+ReversingCar,200943R089069,2009,Slough,24
+ReversingCar,200943R143049,2009,Bracknell Forest,45
+ReversingCar,200943S049099,2009,Milton Keynes,11
+ReversingCar,2.00944E+12,2009,Hampshire,13
+ReversingCar,2.00944E+12,2009,Hampshire,17
+ReversingCar,2.00944E+12,2009,Isle of Wight,52
+ReversingCar,2.00944E+12,2009,Hampshire,7
+ReversingCar,2.00944E+12,2009,Hampshire,55
+ReversingCar,2.00944E+12,2009,Hampshire,29
+ReversingCar,2.00944E+12,2009,Southampton ,39
+ReversingCar,2.00944E+12,2009,Southampton ,30
+ReversingCar,200945GU38284,2009,Surrey,43
+ReversingCar,200945SU42511,2009,Surrey,50
+ReversingCar,2.00946E+12,2009,Kent,43
+ReversingCar,2.00946E+12,2009,Kent,85
+ReversingCar,2.00946E+12,2009,Kent,38
+ReversingCar,2.00946E+12,2009,Kent,19
+ReversingCar,2.00947E+12,2009,West Sussex,41
+ReversingCar,2.00947E+12,2009,West Sussex,9
+ReversingCar,2.00947E+12,2009,West Sussex,52
+ReversingCar,2.00947E+12,2009,East Sussex,13
+ReversingCar,2.00947E+12,2009,East Sussex,24
+ReversingCar,2.00947E+12,2009,West Sussex,14
+ReversingCar,2.00947E+12,2009,West Sussex,30
+ReversingCar,2.00947E+12,2009,Brighton and Hove,25
+ReversingCar,2.00947E+12,2009,West Sussex,24
+ReversingCar,200950AC2D012,2009,Cornwall and Isles of Scilly,12
+ReversingCar,200950CB2U008,2009,Devon,10
+ReversingCar,200950CB2U018,2009,Devon,13
+ReversingCar,200950DE2A005,2009,Devon,2
+ReversingCar,200950DE2H017,2009,Devon,35
+ReversingCar,200950DE2O021,2009,Devon,8
+ReversingCar,200950GR2A009,2009,Cornwall and Isles of Scilly,16
+ReversingCar,200950JN2K008,2009,Devon,11
+ReversingCar,200950JN2P020,2009,Devon,10
+ReversingCar,200950JT2Q007,2009,Devon,47
+ReversingCar,2.00952E+12,2009,City of Bristol,42
+ReversingCar,2.00953E+12,2009,Gloucestershire,31
+ReversingCar,200954ED00809,2009,Wiltshire,11
+ReversingCar,200954ET15809,2009,Wiltshire,8
+ReversingCar,2009559C02477,2009,Bournemouth,38
+ReversingCar,2009559C04749,2009,Bournemouth,10
+ReversingCar,201001EO40400,2010,London,32
+ReversingCar,201001EO40544,2010,London,42
+ReversingCar,201001FH10151,2010,London,41
+ReversingCar,201001GD10163,2010,London,27
+ReversingCar,201001GD10668,2010,London,42
+ReversingCar,201001HT20455,2010,London,30
+ReversingCar,201001HT20757,2010,London,33
+ReversingCar,201001KF60528,2010,London,33
+ReversingCar,201001KG70146,2010,London,14
+ReversingCar,201001LX50211,2010,London,23
+ReversingCar,201001PY20083,2010,London,38
+ReversingCar,201001PY20443,2010,London,50
+ReversingCar,201001QK50719,2010,London,48
+ReversingCar,201001SX20405,2010,London,45
+ReversingCar,201001TB00113,2010,London,15
+ReversingCar,201001TD00033,2010,London,
+ReversingCar,201001XD80882,2010,London,42
+ReversingCar,201001XH30264,2010,London,34
+ReversingCar,201001YE80543,2010,London,60
+ReversingCar,2.01003E+12,2010,Cumbria,3
+ReversingCar,201004AL10002,2010,Lancashire,67
+ReversingCar,201004CK10175,2010,Lancashire,
+ReversingCar,201004DR10069,2010,Lancashire,6
+ReversingCar,201004DR10114,2010,Lancashire,43
+ReversingCar,201005AA05882,2010,Merseyside,7
+ReversingCar,201005DD03583,2010,Merseyside,4
+ReversingCar,201005EE02336,2010,Merseyside,17
+ReversingCar,201006A030578,2010,Manchester,40
+ReversingCar,201006N030632,2010,Bury,14
+ReversingCar,201006P030760,2010,Rochdale,58
+ReversingCar,2.01007E+12,2010,Cheshire West and Chester,22
+ReversingCar,2.01007E+12,2010,Cheshire East,23
+ReversingCar,2.01007E+12,2010,Warrington,48
+ReversingCar,2.01007E+12,2010,Cheshire West and Chester,5
+ReversingCar,2.01007E+12,2010,Cheshire West and Chester,8
+ReversingCar,2.0101E+12,2010,Gateshead,12
+ReversingCar,2.0101E+12,2010,Newcastle upon Tyne,47
+ReversingCar,2.0101E+12,2010,Gateshead,11
+ReversingCar,2.0101E+12,2010,North Tyneside,19
+ReversingCar,201011NI09880,2010,Durham,8
+ReversingCar,2.01013E+12,2010,Kirklees,43
+ReversingCar,201014A043010,2010,Doncaster,15
+ReversingCar,201014A059210,2010,Doncaster,69
+ReversingCar,201014K201610,2010,Sheffield,21
+ReversingCar,2010160C02421,2010,East Riding of Yorkshire,16
+ReversingCar,2010160C07111,2010,East Riding of Yorkshire,37
+ReversingCar,2010160D01571,2010,Kingston Upon Hull,59
+ReversingCar,2010170M12070,2010,Middlesbrough,13
+ReversingCar,201020G003080,2010,Wolverhampton,7
+ReversingCar,201020H002410,2010,Walsall,34
+ReversingCar,201020H010920,2010,Walsall,46
+ReversingCar,201020L008710,2010,Solihull,45
+ReversingCar,201020M011530,2010,Coventry,47
+ReversingCar,201020N027200,2010,Birmingham,44
+ReversingCar,201020S010740,2010,Birmingham,15
+ReversingCar,201020T041090,2010,Birmingham,7
+ReversingCar,201020W008890,2010,Birmingham,26
+ReversingCar,2.01021E+12,2010,Stoke on Trent,23
+ReversingCar,2.01021E+12,2010,Staffordshire,14
+ReversingCar,2.01021E+12,2010,Staffordshire,82
+ReversingCar,201022C005544,2010,Worcestershire,41
+ReversingCar,201022F001895,2010,Shropshire,47
+ReversingCar,201022F005438,2010,Shropshire,60
+ReversingCar,201022F005638,2010,Shropshire,22
+ReversingCar,2.01023E+12,2010,Warwickshire,41
+ReversingCar,201030D000320,2010,Derby,10
+ReversingCar,201030D001163,2010,Derbyshire,12
+ReversingCar,20103102C1514,2010,Nottingham,20
+ReversingCar,201032C105410,2010,Lincolnshire,10
+ReversingCar,201032C250710,2010,Lincolnshire,10
+ReversingCar,201032D280010,2010,Lincolnshire,17
+ReversingCar,2.01033E+12,2010,Leicestershire,50
+ReversingCar,2.01033E+12,2010,Leicestershire,43
+ReversingCar,2.01035E+12,2010,Cambridgeshire,9
+ReversingCar,2.01035E+12,2010,Cambridgeshire,75
+ReversingCar,2.01035E+12,2010,Cambridgeshire,14
+ReversingCar,2.01036E+12,2010,Norfolk,64
+ReversingCar,2.01036E+12,2010,Norfolk,12
+ReversingCar,20104100C1050,2010,Hertfordshire,39
+ReversingCar,20104100F0108,2010,Hertfordshire,26
+ReversingCar,20104100F0625,2010,Hertfordshire,23
+ReversingCar,201042I045702,2010,Essex,33
+ReversingCar,201042I047102,2010,Essex,46
+ReversingCar,201042I074303,2010,Essex,62
+ReversingCar,201042I329810,2010,Essex,
+ReversingCar,201043N098050,2010,Buckinghamshire,10
+ReversingCar,201043P007050,2010,Oxfordshire,26
+ReversingCar,201043P248080,2010,Oxfordshire,13
+ReversingCar,201043S045120,2010,Milton Keynes,43
+ReversingCar,201043S122050,2010,Milton Keynes,46
+ReversingCar,201043W178120,2010,Reading,41
+ReversingCar,2.01044E+12,2010,Southampton ,14
+ReversingCar,2.01044E+12,2010,Hampshire,16
+ReversingCar,2.01044E+12,2010,Hampshire,17
+ReversingCar,2.01044E+12,2010,Southampton ,29
+ReversingCar,201045EL49924,2010,Surrey,
+ReversingCar,201045EL55861,2010,Surrey,10
+ReversingCar,201045RU52885,2010,Surrey,
+ReversingCar,201045TA51882,2010,Surrey,16
+ReversingCar,2.01046E+12,2010,Medway,17
+ReversingCar,2.01046E+12,2010,Kent,15
+ReversingCar,2.01047E+12,2010,Brighton and Hove,14
+ReversingCar,2.01047E+12,2010,Brighton and Hove,36
+ReversingCar,2.01047E+12,2010,West Sussex,6
+ReversingCar,201050CD2L003,2010,Devon,3
+ReversingCar,201050ED2N010,2010,Plymouth,42
+ReversingCar,201050JN2L014,2010,Devon,46
+ReversingCar,201050KO2W004,2010,Devon,38
+ReversingCar,2.01052E+12,2010,Somerset,68
+ReversingCar,2.01052E+12,2010,City of Bristol,30
+ReversingCar,2.01052E+12,2010,South Gloucestershire,48
+ReversingCar,2.01052E+12,2010,City of Bristol,31
+ReversingCar,2.01052E+12,2010,City of Bristol,23
+ReversingCar,2.01052E+12,2010,City of Bristol,67
+ReversingCar,201054ED25110,2010,Wiltshire,72
+ReversingCar,2010550D24245,2010,Dorset,38
+ReversingCar,2010550D33867,2010,Dorset,19
+ReversingCar,2010550D50349,2010,Dorset,65
+ReversingCar,2011201101CP00352,2011,London,33
+ReversingCar,2011201101CW10735,2011,London,45
+ReversingCar,2011201101CW11380,2011,London,64
+ReversingCar,2011201101FH10287,2011,London,10
+ReversingCar,2011201101GD10550,2011,London,58
+ReversingCar,2011201101HT20345,2011,London,27
+ReversingCar,2011201101KG70335,2011,London,22
+ReversingCar,2011201101LX50753,2011,London,16
+ReversingCar,2011201101MM70575,2011,London,26
+ReversingCar,2011201101PL60256,2011,London,10
+ReversingCar,2011201101PL60795,2011,London,31
+ReversingCar,2011201101PY20337,2011,London,30
+ReversingCar,2011201101QA10312,2011,London,35
+ReversingCar,2011201101QK50581,2011,London,50
+ReversingCar,2011201101RG40627,2011,London,51
+ReversingCar,2011201101RY10154,2011,London,16
+ReversingCar,2011201101TA00594,2011,London,42
+ReversingCar,2011201101TB00369,2011,London,34
+ReversingCar,2011201101TB00470,2011,London,54
+ReversingCar,2011201101TB00973,2011,London,33
+ReversingCar,2011201101TX20067,2011,London,22
+ReversingCar,2011201101WW50873,2011,London,30
+ReversingCar,2011201101XH30328,2011,London,21
+ReversingCar,2011201101XH30366,2011,London,28
+ReversingCar,2011201101YR90336,2011,London,46
+ReversingCar,2011201101ZD30292,2011,London,-1
+ReversingCar,2.0112E+16,2011,Cumbria,9
+ReversingCar,2011201104AX11035,2011,Blackpool,6
+ReversingCar,2011201104BC11228,2011,Lancashire,18
+ReversingCar,2011201104CC11078,2011,Lancashire,43
+ReversingCar,2011201104EA11140,2011,Blackburn with Darwen,8
+ReversingCar,2011201105AA01380,2011,Merseyside,9
+ReversingCar,2011201105AA03755,2011,Merseyside,35
+ReversingCar,2011201105AA03784,2011,Merseyside,5
+ReversingCar,2011201105BB06587,2011,Merseyside,45
+ReversingCar,2011201105DD02881,2011,Merseyside,46
+ReversingCar,2011201105EE01156,2011,Merseyside,10
+ReversingCar,2011201105EE03970,2011,Merseyside,35
+ReversingCar,2011201105EE06464,2011,Merseyside,51
+ReversingCar,2011201106B054299,2011,Manchester,19
+ReversingCar,2011201106J050094,2011,Stockport,44
+ReversingCar,2011201106N050274,2011,Bury,10
+ReversingCar,2.0112E+16,2011,Cheshire West and Chester,23
+ReversingCar,2.0112E+16,2011,South Tyneside,48
+ReversingCar,2.0112E+16,2011,South Tyneside,-1
+ReversingCar,2.0112E+16,2011,North Tyneside,16
+ReversingCar,2.0112E+16,2011,Newcastle upon Tyne,22
+ReversingCar,2.0112E+16,2011,Northumberland,78
+ReversingCar,2.0112E+16,2011,South Tyneside,5
+ReversingCar,2.0112E+16,2011,Northumberland,30
+ReversingCar,2.0112E+16,2011,Gateshead,9
+ReversingCar,2011201111SJ21341,2011,Darlington,37
+ReversingCar,2.0112E+16,2011,North Yorkshire,21
+ReversingCar,2.0112E+16,2011,Leeds,26
+ReversingCar,2.0112E+16,2011,Leeds,16
+ReversingCar,2.0112E+16,2011,Bradford,15
+ReversingCar,2.0112E+16,2011,Bradford,43
+ReversingCar,2.0112E+16,2011,Leeds,8
+ReversingCar,2.0112E+16,2011,Leeds,42
+ReversingCar,2011201114A098911,2011,Doncaster,31
+ReversingCar,2011201114A133711,2011,Doncaster,-1
+ReversingCar,2011201114C039411,2011,Rotherham,9
+ReversingCar,2011201114C087111,2011,Rotherham,7
+ReversingCar,2011201114K228011,2011,Sheffield,8
+ReversingCar,2011201114K258011,2011,Sheffield,10
+ReversingCar,20112011160C08591,2011,East Riding of Yorkshire,6
+ReversingCar,20112011160D06841,2011,Kingston Upon Hull,16
+ReversingCar,2011201120J007661,2011,Dudley,9
+ReversingCar,2011201120L005381,2011,Solihull,10
+ReversingCar,2011201120S035971,2011,Birmingham,22
+ReversingCar,2011201120S058351,2011,Birmingham,34
+ReversingCar,2.0112E+16,2011,Staffordshire,53
+ReversingCar,2.0112E+16,2011,Staffordshire,15
+ReversingCar,2.0112E+16,2011,Staffordshire,10
+ReversingCar,2011201122E104319,2011,Herefordshire,25
+ReversingCar,2011201122G100940,2011,Telford and Wrekin,58
+ReversingCar,2011201130D001339,2011,Derbyshire,31
+ReversingCar,2011201131B147011,2011,Nottinghamshire,11
+ReversingCar,2011201131B211011,2011,Nottinghamshire,75
+ReversingCar,2011201131D241411,2011,Nottinghamshire,38
+ReversingCar,2011201132B008411,2011,Lincolnshire,66
+ReversingCar,2011201132B152011,2011,Lincolnshire,31
+ReversingCar,2011201132N304711,2011,Lincolnshire,33
+ReversingCar,2.0112E+16,2011,Leicestershire,37
+ReversingCar,2.0112E+16,2011,Leicestershire,35
+ReversingCar,2011201134NC10161,2011,Northamptonshire,82
+ReversingCar,2011201134NE33251,2011,Northamptonshire,37
+ReversingCar,2011201134NW32101,2011,Northamptonshire,-1
+ReversingCar,2011201134WN06101,2011,Northamptonshire,19
+ReversingCar,2011201134WN23721,2011,Northamptonshire,16
+ReversingCar,2011201134WN37971,2011,Northamptonshire,52
+ReversingCar,2011201134WN39291,2011,Northamptonshire,31
+ReversingCar,2.0112E+16,2011,Cambridgeshire,84
+ReversingCar,2.0112E+16,2011,Cambridgeshire,27
+ReversingCar,2.0112E+16,2011,Peterborough,33
+ReversingCar,2.0112E+16,2011,Cambridgeshire,78
+ReversingCar,2.0112E+16,2011,Peterborough,41
+ReversingCar,2.0112E+16,2011,Peterborough,10
+ReversingCar,2.0112E+16,2011,Peterborough,15
+ReversingCar,2.0112E+16,2011,Peterborough,19
+ReversingCar,2.0112E+16,2011,Suffolk,32
+ReversingCar,20112011400BA0020,2011,Bedford Borough Council,35
+ReversingCar,20112011400BA0177,2011,Bedford Borough Council,24
+ReversingCar,201120114100D0158,2011,Hertfordshire,12
+ReversingCar,201120114100D0543,2011,Hertfordshire,7
+ReversingCar,201120114100K0407,2011,Hertfordshire,35
+ReversingCar,2011201142I189606,2011,Essex,45
+ReversingCar,2011201142I193406,2011,Thurrock,20
+ReversingCar,2011201142I234407,2011,Thurrock,11
+ReversingCar,2011201142I264108,2011,Southend on Sea,29
+ReversingCar,2011201142I332610,2011,Essex,47
+ReversingCar,2011201142I356111,2011,Essex,15
+ReversingCar,2011201142I392011,2011,Essex,80
+ReversingCar,2011201143N027041,2011,Buckinghamshire,14
+ReversingCar,2011201143R055021,2011,Slough,21
+ReversingCar,2011201143R075071,2011,Bracknell Forest,38
+ReversingCar,2011201143R144071,2011,Slough,19
+ReversingCar,2011201143R203071,2011,Slough,24
+ReversingCar,2011201143R218121,2011,Bracknell Forest,39
+ReversingCar,2011201143R226031,2011,Slough,42
+ReversingCar,2011201143S030081,2011,Milton Keynes,16
+ReversingCar,2011201143W120011,2011,West Berkshire,64
+ReversingCar,2.0112E+16,2011,Hampshire,9
+ReversingCar,2.0112E+16,2011,Isle of Wight,43
+ReversingCar,2.0112E+16,2011,Hampshire,52
+ReversingCar,2.0112E+16,2011,Portsmouth,16
+ReversingCar,2.0112E+16,2011,Hampshire,35
+ReversingCar,2.0112E+16,2011,Portsmouth,78
+ReversingCar,2.0112E+16,2011,Southampton ,48
+ReversingCar,2.0112E+16,2011,Hampshire,20
+ReversingCar,2011201145EP63367,2011,Surrey,27
+ReversingCar,2011201145GU60742,2011,Surrey,73
+ReversingCar,2011201145MO64460,2011,Surrey,-1
+ReversingCar,2011201145WO65998,2011,Surrey,17
+ReversingCar,2.0112E+16,2011,Kent,15
+ReversingCar,2.0112E+16,2011,Kent,34
+ReversingCar,2.0112E+16,2011,Kent,44
+ReversingCar,2.0112E+16,2011,Kent,23
+ReversingCar,2.0112E+16,2011,Kent,19
+ReversingCar,2.0112E+16,2011,West Sussex,51
+ReversingCar,2.0112E+16,2011,West Sussex,30
+ReversingCar,2.0112E+16,2011,West Sussex,57
+ReversingCar,2.0112E+16,2011,West Sussex,35
+ReversingCar,2.0112E+16,2011,East Sussex,10
+ReversingCar,2011201150AS2A001,2011,Cornwall and Isles of Scilly,14
+ReversingCar,2011201150JI2I007,2011,Devon,31
+ReversingCar,2011201150JK2M002,2011,Devon,13
+ReversingCar,2.0112E+16,2011,Somerset,30
+ReversingCar,2.0112E+16,2011,City of Bristol,42
+ReversingCar,2.0112E+16,2011,South Gloucestershire,14
+ReversingCar,2.0112E+16,2011,Gloucestershire,31
+ReversingCar,2.0112E+16,2011,Gloucestershire,54
+ReversingCar,2.0112E+16,2011,Gloucestershire,39
+ReversingCar,2.0112E+16,2011,Wiltshire,10
+ReversingCar,2.0112E+16,2011,Swindon,57
+ReversingCar,20112011551C11841,2011,Bournemouth,11
+ReversingCar,20112011551C16519,2011,Bournemouth,20
+ReversingCar,20112011551C17176,2011,Bournemouth,28
+ReversingCar,20112011551C17651,2011,Bournemouth,12
+ReversingCar,20112011551C24995,2011,Bournemouth,46
+ReversingCar,2012201201EK40101,2012,London,32
+ReversingCar,2012201201EO40077,2012,London,27
+ReversingCar,2012201201EO40544,2012,London,-1
+ReversingCar,2012201201FH10142,2012,London,52
+ReversingCar,2012201201KF60487,2012,London,17
+ReversingCar,2012201201LX50012,2012,London,37
+ReversingCar,2012201201PL60443,2012,London,37
+ReversingCar,2012201201QK50418,2012,London,-1
+ReversingCar,2012201201RY10214,2012,London,13
+ReversingCar,2012201201TA00503,2012,London,52
+ReversingCar,2012201201TA00828,2012,London,54
+ReversingCar,2012201201TW60050,2012,London,30
+ReversingCar,2012201201TX20219,2012,London,27
+ReversingCar,2012201201TX20333,2012,London,15
+ReversingCar,2012201201TX20401,2012,London,15
+ReversingCar,2012201201VK30219,2012,London,15
+ReversingCar,2012201201WW50932,2012,London,25
+ReversingCar,2012201201XD80403,2012,London,32
+ReversingCar,2012201201XH30506,2012,London,36
+ReversingCar,2012201201ZD30453,2012,London,15
+ReversingCar,2.0122E+16,2012,Cumbria,28
+ReversingCar,2012201204AM12089,2012,Blackpool,41
+ReversingCar,2012201204DF12046,2012,Lancashire,10
+ReversingCar,2012201204DL12117,2012,Lancashire,23
+ReversingCar,2012201205BB06656,2012,Merseyside,57
+ReversingCar,2012201205DD04863,2012,Merseyside,22
+ReversingCar,2012201205EE04334,2012,Merseyside,19
+ReversingCar,2012201205FF03439,2012,Merseyside,23
+ReversingCar,2012201205FF05469,2012,Merseyside,10
+ReversingCar,2012201206A056012,2012,Manchester,11
+ReversingCar,2012201206A063641,2012,Manchester,29
+ReversingCar,2012201206J067579,2012,Stockport,76
+ReversingCar,2012201206M063074,2012,Trafford,22
+ReversingCar,2012201206N058684,2012,Bury,38
+ReversingCar,2.0122E+16,2012,Cheshire East,63
+ReversingCar,2.0122E+16,2012,Cheshire East,12
+ReversingCar,2.0122E+16,2012,South Tyneside,7
+ReversingCar,2.0122E+16,2012,North Tyneside,44
+ReversingCar,2.0122E+16,2012,Northumberland,87
+ReversingCar,2.0122E+16,2012,Northumberland,-1
+ReversingCar,2.0122E+16,2012,North Yorkshire,68
+ReversingCar,2.0122E+16,2012,North Yorkshire,12
+ReversingCar,2.0122E+16,2012,North Yorkshire,49
+ReversingCar,2.0122E+16,2012,North Yorkshire,72
+ReversingCar,2.0122E+16,2012,North Yorkshire,29
+ReversingCar,2.0122E+16,2012,Wakefield,16
+ReversingCar,2.0122E+16,2012,Leeds,46
+ReversingCar,2.0122E+16,2012,Kirklees,42
+ReversingCar,2.0122E+16,2012,Wakefield,7
+ReversingCar,2.0122E+16,2012,Bradford,19
+ReversingCar,2.0122E+16,2012,Kirklees,54
+ReversingCar,2.0122E+16,2012,Wakefield,52
+ReversingCar,2.0122E+16,2012,Calderdale,38
+ReversingCar,2012201214C058912,2012,Rotherham,24
+ReversingCar,2012201214C117612,2012,Rotherham,15
+ReversingCar,2012201214C127712,2012,Rotherham,40
+ReversingCar,2012201214K154712,2012,Sheffield,37
+ReversingCar,2012201214K243012,2012,Sheffield,-1
+ReversingCar,20122012160A03371,2012,North East Lincolnshire,59
+ReversingCar,20122012160A04561,2012,North East Lincolnshire,17
+ReversingCar,20122012160B03831,2012,North Lincolnshire,32
+ReversingCar,20122012160B04721,2012,North Lincolnshire,69
+ReversingCar,20122012160C02181,2012,East Riding of Yorkshire,9
+ReversingCar,20122012160C04831,2012,East Riding of Yorkshire,14
+ReversingCar,20122012160C07651,2012,East Riding of Yorkshire,82
+ReversingCar,20122012160C08391,2012,East Riding of Yorkshire,54
+ReversingCar,20122012160D01451,2012,Kingston Upon Hull,28
+ReversingCar,20122012160D04921,2012,Kingston Upon Hull,30
+ReversingCar,20122012160D05831,2012,Kingston Upon Hull,24
+ReversingCar,20122012160D08121,2012,Kingston Upon Hull,48
+ReversingCar,20122012160D08731,2012,Kingston Upon Hull,48
+ReversingCar,20122012170L20302,2012,Redcar and Cleveland,25
+ReversingCar,20122012170M11062,2012,Middlesbrough,34
+ReversingCar,20122012170M12052,2012,Middlesbrough,14
+ReversingCar,2012201220G002042,2012,Wolverhampton,19
+ReversingCar,2012201220G009052,2012,Wolverhampton,27
+ReversingCar,2012201220L500202,2012,Solihull,8
+ReversingCar,2012201220T020082,2012,Birmingham,37
+ReversingCar,2.0122E+16,2012,Staffordshire,38
+ReversingCar,2.0122E+16,2012,Staffordshire,9
+ReversingCar,2.0122E+16,2012,Staffordshire,49
+ReversingCar,2.0122E+16,2012,Warwickshire,-1
+ReversingCar,2012201230C001643,2012,Derbyshire,66
+ReversingCar,2012201230D000466,2012,Derbyshire,35
+ReversingCar,2012201230D001140,2012,Derbyshire,-1
+ReversingCar,2012201230D001756,2012,Derby,10
+ReversingCar,2012201231A066312,2012,Nottinghamshire,46
+ReversingCar,2012201231B278412,2012,Nottinghamshire,65
+ReversingCar,2012201231C203212,2012,Nottingham,35
+ReversingCar,2012201231D117812,2012,Nottinghamshire,15
+ReversingCar,2012201232B158812,2012,Lincolnshire,45
+ReversingCar,2012201232B366312,2012,Lincolnshire,16
+ReversingCar,2012201232N027112,2012,Lincolnshire,14
+ReversingCar,2012201232N384912,2012,Lincolnshire,62
+ReversingCar,2.0122E+16,2012,Leicestershire,10
+ReversingCar,2.0122E+16,2012,Leicestershire,13
+ReversingCar,2.0122E+16,2012,Leicestershire,35
+ReversingCar,2.0122E+16,2012,Leicestershire,53
+ReversingCar,2.0122E+16,2012,Leicestershire,7
+ReversingCar,2012201234NC30102,2012,Northamptonshire,29
+ReversingCar,2012201234NK30072,2012,Northamptonshire,43
+ReversingCar,2012201234WN07052,2012,Northamptonshire,39
+ReversingCar,2.0122E+16,2012,Peterborough,73
+ReversingCar,2.0122E+16,2012,Peterborough,34
+ReversingCar,2.0122E+16,2012,Peterborough,30
+ReversingCar,2.0122E+16,2012,Cambridgeshire,31
+ReversingCar,2.0122E+16,2012,Norfolk,24
+ReversingCar,2.0122E+16,2012,Norfolk,49
+ReversingCar,2.0122E+16,2012,Norfolk,25
+ReversingCar,2.0122E+16,2012,Suffolk,58
+ReversingCar,2.0122E+16,2012,Suffolk,18
+ReversingCar,20122012400CA0565,2012,Luton,44
+ReversingCar,201220124100C0559,2012,Hertfordshire,45
+ReversingCar,201220124100J0090,2012,Hertfordshire,29
+ReversingCar,201220124100J0562,2012,Hertfordshire,40
+ReversingCar,2012201242I015201,2012,Essex,40
+ReversingCar,2012201242I107104,2012,Southend on Sea,47
+ReversingCar,2012201242I146005,2012,Thurrock,6
+ReversingCar,2012201242I146205,2012,Essex,17
+ReversingCar,2012201242I234807,2012,Essex,36
+ReversingCar,2012201242I256308,2012,Essex,42
+ReversingCar,2012201242I419812,2012,Essex,-1
+ReversingCar,2012201243P028042,2012,Oxfordshire,51
+ReversingCar,2012201243P042062,2012,Oxfordshire,64
+ReversingCar,2012201243R045062,2012,Windsor and Maidenhead,91
+ReversingCar,2012201243R141052,2012,Slough,44
+ReversingCar,2012201243S003102,2012,Milton Keynes,11
+ReversingCar,2012201243W144042,2012,Reading,24
+ReversingCar,2012201243W157082,2012,Reading,26
+ReversingCar,2.0122E+16,2012,Hampshire,72
+ReversingCar,2.0122E+16,2012,Hampshire,9
+ReversingCar,2.0122E+16,2012,Portsmouth,60
+ReversingCar,2.0122E+16,2012,Hampshire,31
+ReversingCar,2.0122E+16,2012,Hampshire,16
+ReversingCar,2012201245EL72603,2012,Surrey,46
+ReversingCar,2012201245EP68159,2012,Surrey,57
+ReversingCar,2012201245MO69675,2012,Surrey,53
+ReversingCar,2012201245RE69298,2012,Surrey,61
+ReversingCar,2012201245RE69665,2012,Surrey,25
+ReversingCar,2012201245RE73514,2012,Surrey,44
+ReversingCar,2.0122E+16,2012,Kent,15
+ReversingCar,2.0122E+16,2012,Kent,37
+ReversingCar,2.0122E+16,2012,Brighton and Hove,24
+ReversingCar,2.0122E+16,2012,West Sussex,42
+ReversingCar,2.0122E+16,2012,West Sussex,20
+ReversingCar,2.0122E+16,2012,West Sussex,13
+ReversingCar,2.0122E+16,2012,West Sussex,20
+ReversingCar,2012201250ED2P004,2012,Plymouth,49
+ReversingCar,2012201250GE4V002,2012,Cornwall and Isles of Scilly,40
+ReversingCar,2012201250JC3H015,2012,Devon,57
+ReversingCar,2012201250JO2H007,2012,Devon,16
+ReversingCar,2.0122E+16,2012,Somerset,46
+ReversingCar,2.0122E+16,2012,Somerset,7
+ReversingCar,2.0122E+16,2012,South Gloucestershire,10
+ReversingCar,2.0122E+16,2012,Gloucestershire,30
+ReversingCar,2.0122E+16,2012,Gloucestershire,32
+ReversingCar,2.0122E+16,2012,Gloucestershire,31
+ReversingCar,2.0122E+16,2012,Swindon,62
+ReversingCar,2.0122E+16,2012,Wiltshire,9
+ReversingCar,20122012552C10557,2012,Bournemouth,25

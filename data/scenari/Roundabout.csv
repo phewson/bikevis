@@ -1,0 +1,1501 @@
+Scenario,urn,accyr,LAName,Age
+Roundabout,199901DP00338,1999,London,34
+Roundabout,1.99905E+12,1999,Merseyside,52
+Roundabout,1.99905E+12,1999,Merseyside,43
+Roundabout,1.99905E+12,1999,Merseyside,20
+Roundabout,1999079A11050,1999,Cheshire East,19
+Roundabout,199910H040799,1999,North Tyneside,18
+Roundabout,199913FD30799,1999,Calderdale,35
+Roundabout,199916B039999,1999,North Lincolnshire,47
+Roundabout,199930D000365,1999,Derbyshire,49
+Roundabout,199937L003447,1999,Suffolk,35
+Roundabout,2.00E+171,1999,Essex,56
+Roundabout,19994200J0328,1999,Essex,
+Roundabout,1999440RF0725,1999,Portsmouth,33
+Roundabout,1999440ZD0456,1999,Isle of Wight,41
+Roundabout,199946WL03614,1999,Kent,50
+Roundabout,199947Y002040,1999,West Sussex,33
+Roundabout,199947Y002847,1999,West Sussex,66
+Roundabout,1.99952E+12,1999,City of Bristol,34
+Roundabout,1.99952E+12,1999,North Somerset,78
+Roundabout,19995599E2340,1999,Dorset,27
+Roundabout,19995599W0790,1999,Dorset,60
+Roundabout,19995599W3429,1999,Dorset,67
+Roundabout,2.00005E+12,2000,Merseyside,34
+Roundabout,2.00005E+12,2000,Merseyside,35
+Roundabout,200016A062600,2000,North East Lincolnshire,47
+Roundabout,200016A063400,2000,North East Lincolnshire,19
+Roundabout,200020K100802,2000,Sandwell,25
+Roundabout,200022GB13611,2000,Telford and Wrekin,27
+Roundabout,20004100B0378,2000,Hertfordshire,30
+Roundabout,20004100C0055,2000,Hertfordshire,41
+Roundabout,20004100D0107,2000,Hertfordshire,34
+Roundabout,20004100D0243,2000,Hertfordshire,24
+Roundabout,20004100K0031,2000,Hertfordshire,30
+Roundabout,200043P134020,2000,Oxfordshire,
+Roundabout,2000440AA1494,2000,Hampshire,62
+Roundabout,200046MA27744,2000,Kent,48
+Roundabout,200046TH31790,2000,Kent,22
+Roundabout,200046WK27744,2000,Kent,48
+Roundabout,200047Y125990,2000,West Sussex,18
+Roundabout,200101MM01147,2001,London,41
+Roundabout,200101MM01281,2001,London,26
+Roundabout,2.00103E+12,2001,Cumbria,34
+Roundabout,200104B004701,2001,Lancashire,42
+Roundabout,200106G007104,2001,Tameside,36
+Roundabout,200114II00538,2001,Sheffield,36
+Roundabout,20013104D1627,2001,Nottinghamshire,46
+Roundabout,20014100F0072,2001,Hertfordshire,20
+Roundabout,20014100G2524,2001,Hertfordshire,34
+Roundabout,200145EM10408,2001,Surrey,37
+Roundabout,200145SP09098,2001,Surrey,38
+Roundabout,200147Y142883,2001,West Sussex,37
+Roundabout,200150A332008,2001,Cornwall and Isles of Scilly,36
+Roundabout,2.00152E+12,2001,Bath and North East Somerset,22
+Roundabout,2.00203E+12,2002,Cumbria,16
+Roundabout,200204B056402,2002,Lancashire,51
+Roundabout,200220K075801,2002,Sandwell,30
+Roundabout,20024100C0088,2002,Hertfordshire,21
+Roundabout,20024100C5265,2002,Hertfordshire,30
+Roundabout,2002440KK2214,2002,Portsmouth,31
+Roundabout,200245RN23358,2002,Surrey,41
+Roundabout,200245RN24077,2002,Surrey,13
+Roundabout,200246SW57127,2002,Kent,17
+Roundabout,2.00252E+12,2002,City of Bristol,12
+Roundabout,2002550B07403,2002,Bournemouth,24
+Roundabout,2002550P06973,2002,Poole,
+Roundabout,200301MM01436,2003,London,40
+Roundabout,200304B001603,2003,Lancashire,30
+Roundabout,200304C082903,2003,Lancashire,68
+Roundabout,200320D096301,2003,Birmingham,52
+Roundabout,200320L190201,2003,Solihull,28
+Roundabout,200330A000413,2003,Derbyshire,61
+Roundabout,200332C062103,2003,Lincolnshire,32
+Roundabout,2.00335E+12,2003,Cambridgeshire,32
+Roundabout,20034100C1258,2003,Hertfordshire,22
+Roundabout,200343P214103,2003,Oxfordshire,21
+Roundabout,200343P324093,2003,Oxfordshire,22
+Roundabout,200345RN35904,2003,Surrey,52
+Roundabout,200346WL83227,2003,Kent,16
+Roundabout,200347K159647,2003,West Sussex,56
+Roundabout,200350A51G539,2003,Cornwall and Isles of Scilly,32
+Roundabout,2.00352E+12,2003,City of Bristol,15
+Roundabout,2.00352E+12,2003,Bath and North East Somerset,22
+Roundabout,2003550B03425,2003,Bournemouth,24
+Roundabout,200401KF60004,2004,London,35
+Roundabout,200405AW00246,2004,Merseyside,25
+Roundabout,200432C006304,2004,Lincolnshire,46
+Roundabout,20044100B0200,2004,Hertfordshire,35
+Roundabout,2004440KK2002,2004,Portsmouth,19
+Roundabout,200445RE48653,2004,Surrey,57
+Roundabout,200447K174905,2004,Brighton and Hove,21
+Roundabout,2004550P00900,2004,Poole,60
+Roundabout,200501CW10990,2005,London,29
+Roundabout,200501CW11232,2005,London,35
+Roundabout,200501EO41333,2005,London,27
+Roundabout,200501FH00043,2005,London,28
+Roundabout,200501FH10498,2005,London,38
+Roundabout,200501FH10595,2005,London,55
+Roundabout,200501GD10838,2005,London,34
+Roundabout,200501GD10849,2005,London,26
+Roundabout,200501HT20267,2005,London,27
+Roundabout,200501HT20563,2005,London,
+Roundabout,200501JI40247,2005,London,54
+Roundabout,200501JI40360,2005,London,20
+Roundabout,200501KD50699,2005,London,56
+Roundabout,200501KF60358,2005,London,36
+Roundabout,200501KG70490,2005,London,41
+Roundabout,200501LX50554,2005,London,46
+Roundabout,200501LX51100,2005,London,20
+Roundabout,200501MM70725,2005,London,39
+Roundabout,200501MM70938,2005,London,24
+Roundabout,200501MM71219,2005,London,45
+Roundabout,200501PL60161,2005,London,34
+Roundabout,200501PL60963,2005,London,45
+Roundabout,200501QA00087,2005,London,39
+Roundabout,200501QA10475,2005,London,25
+Roundabout,200501QA10509,2005,London,41
+Roundabout,200501RG40307,2005,London,38
+Roundabout,200501SX20239,2005,London,40
+Roundabout,200501SX21123,2005,London,20
+Roundabout,200501TW60197,2005,London,41
+Roundabout,200501TX20139,2005,London,28
+Roundabout,200501TX20235,2005,London,24
+Roundabout,200501TX20259,2005,London,
+Roundabout,200501TX20283,2005,London,18
+Roundabout,200501WW50260,2005,London,34
+Roundabout,200501WW59104,2005,London,31
+Roundabout,200501XD80067,2005,London,56
+Roundabout,200501XH00023,2005,London,25
+Roundabout,200501XH30189,2005,London,46
+Roundabout,200501XS00067,2005,London,33
+Roundabout,200501YE81098,2005,London,42
+Roundabout,2.00503E+12,2005,Cumbria,11
+Roundabout,200504C004705,2005,Lancashire,33
+Roundabout,200505AA01817,2005,Merseyside,38
+Roundabout,200505AA03722,2005,Merseyside,76
+Roundabout,200505CH00787,2005,Merseyside,37
+Roundabout,200505DH00413,2005,Merseyside,34
+Roundabout,200505EE01796,2005,Merseyside,20
+Roundabout,200506L920027,2005,Wigan,39
+Roundabout,200506M028900,2005,Trafford,27
+Roundabout,200506M039211,2005,Trafford,74
+Roundabout,200506M922496,2005,Trafford,41
+Roundabout,2.00507E+12,2005,Warrington,39
+Roundabout,2.00507E+12,2005,Halton,27
+Roundabout,2.00507E+12,2005,Cheshire East,47
+Roundabout,2.0051E+12,2005,Newcastle upon Tyne,24
+Roundabout,2.0051E+12,2005,South Tyneside,16
+Roundabout,2.0051E+12,2005,North Tyneside,16
+Roundabout,2.0051E+12,2005,Newcastle upon Tyne,11
+Roundabout,2.0051E+12,2005,North Tyneside,20
+Roundabout,2.0051E+12,2005,Gateshead,41
+Roundabout,2.0051E+12,2005,North Tyneside,41
+Roundabout,2.0051E+12,2005,North Tyneside,45
+Roundabout,2.0051E+12,2005,Newcastle upon Tyne,20
+Roundabout,2.0051E+12,2005,North Tyneside,67
+Roundabout,2.0051E+12,2005,North Tyneside,55
+Roundabout,2.0051E+12,2005,Newcastle upon Tyne,68
+Roundabout,2.00512E+12,2005,North Yorkshire,35
+Roundabout,2.00512E+12,2005,North Yorkshire,35
+Roundabout,2.00513E+12,2005,Leeds,40
+Roundabout,2.00513E+12,2005,Kirklees,18
+Roundabout,2.00513E+12,2005,Leeds,51
+Roundabout,200514A240305,2005,Doncaster,50
+Roundabout,2005160C00220,2005,East Riding of Yorkshire,46
+Roundabout,2005160C04550,2005,East Riding of Yorkshire,45
+Roundabout,2005160D00850,2005,Kingston Upon Hull,35
+Roundabout,2005160D04330,2005,Kingston Upon Hull,80
+Roundabout,2005160D06170,2005,Kingston Upon Hull,15
+Roundabout,2005160D07930,2005,Kingston Upon Hull,27
+Roundabout,200520E113102,2005,Birmingham,57
+Roundabout,200520E135701,2005,Birmingham,46
+Roundabout,200520E517403,2005,Birmingham,45
+Roundabout,200520G081202,2005,Wolverhampton,48
+Roundabout,200520K029501,2005,Sandwell,25
+Roundabout,200520K082401,2005,Sandwell,13
+Roundabout,200520K094501,2005,Sandwell,40
+Roundabout,200520L017401,2005,Solihull,60
+Roundabout,200520L058001,2005,Solihull,40
+Roundabout,2.00522E+12,2005,Staffordshire,28
+Roundabout,2.00522E+12,2005,Staffordshire,39
+Roundabout,200522FA42543,2005,Shropshire,12
+Roundabout,200522FA44130,2005,Shropshire,38
+Roundabout,200522FG45530,2005,Shropshire,35
+Roundabout,2.00523E+12,2005,Warwickshire,32
+Roundabout,2.00523E+12,2005,Warwickshire,67
+Roundabout,20053102C0803,2005,Nottingham,19
+Roundabout,20053102C1775,2005,Nottingham,40
+Roundabout,200534NC04841,2005,Northamptonshire,13
+Roundabout,200534NN02581,2005,Northamptonshire,19
+Roundabout,2.00535E+12,2005,Cambridgeshire,23
+Roundabout,2.00535E+12,2005,Peterborough,26
+Roundabout,2.00535E+12,2005,Cambridgeshire,20
+Roundabout,2.00535E+12,2005,Peterborough,39
+Roundabout,2.00535E+12,2005,Peterborough,16
+Roundabout,2.00536E+12,2005,Norfolk,31
+Roundabout,2.00536E+12,2005,Norfolk,48
+Roundabout,200537G018952,2005,Suffolk,19
+Roundabout,20054100G0405,2005,Hertfordshire,46
+Roundabout,20054100K0268,2005,Hertfordshire,30
+Roundabout,200542C000301,2005,Essex,50
+Roundabout,200542H039709,2005,Southend on Sea,37
+Roundabout,200543P257055,2005,Oxfordshire,69
+Roundabout,200543P449125,2005,Oxfordshire,17
+Roundabout,200543S115035,2005,Milton Keynes,28
+Roundabout,200543W307015,2005,Bracknell Forest,13
+Roundabout,200543W522125,2005,West Berkshire,53
+Roundabout,2.00544E+12,2005,Hampshire,60
+Roundabout,2.00544E+12,2005,Portsmouth,37
+Roundabout,2.00544E+12,2005,Hampshire,42
+Roundabout,2.00544E+12,2005,Hampshire,35
+Roundabout,2.00544E+12,2005,Hampshire,30
+Roundabout,2.00544E+12,2005,Hampshire,27
+Roundabout,2.00544E+12,2005,Portsmouth,35
+Roundabout,2005445WA0039,2005,Hampshire,24
+Roundabout,200545GU69291,2005,Surrey,49
+Roundabout,200545GU75853,2005,Surrey,71
+Roundabout,200545MO63936,2005,Surrey,51
+Roundabout,200545RU63404,2005,Surrey,31
+Roundabout,200545RU76412,2005,Surrey,37
+Roundabout,200545SU66685,2005,Surrey,26
+Roundabout,200545SU70368,2005,Surrey,52
+Roundabout,2.00546E+12,2005,Kent,
+Roundabout,2.00547E+12,2005,West Sussex,43
+Roundabout,2.00547E+12,2005,West Sussex,16
+Roundabout,2.00547E+12,2005,West Sussex,69
+Roundabout,2.00547E+12,2005,East Sussex,29
+Roundabout,200550A21K559,2005,Cornwall and Isles of Scilly,53
+Roundabout,200550A31O086,2005,Cornwall and Isles of Scilly,37
+Roundabout,200550D21H249,2005,Devon,32
+Roundabout,200550D21O597,2005,Devon,28
+Roundabout,200550E41K386,2005,Plymouth,41
+Roundabout,200550E41N498,2005,Plymouth,46
+Roundabout,200550F41B277,2005,Devon,35
+Roundabout,2.00552E+12,2005,City of Bristol,17
+Roundabout,2.00552E+12,2005,City of Bristol,25
+Roundabout,2.00552E+12,2005,City of Bristol,30
+Roundabout,200554CP19905,2005,Wiltshire,46
+Roundabout,200554DW08605,2005,Swindon,43
+Roundabout,2005555B00490,2005,Bournemouth,23
+Roundabout,2005555B00678,2005,Bournemouth,63
+Roundabout,2005555B01246,2005,Bournemouth,35
+Roundabout,2005555B01985,2005,Bournemouth,26
+Roundabout,2005555B03727,2005,Bournemouth,25
+Roundabout,2005555B03738,2005,Bournemouth,21
+Roundabout,2005555B04534,2005,Bournemouth,27
+Roundabout,2005555B04681,2005,Poole,53
+Roundabout,2005555B04910,2005,Bournemouth,31
+Roundabout,2005555B05755,2005,Poole,33
+Roundabout,2005555B05979,2005,Bournemouth,39
+Roundabout,2005555E05918,2005,Dorset,38
+Roundabout,2005555P02700,2005,Poole,79
+Roundabout,2005555P04831,2005,Poole,30
+Roundabout,2005555P05170,2005,Dorset,32
+Roundabout,2005555W04013,2005,Dorset,71
+Roundabout,200601BS70425,2006,London,26
+Roundabout,200601BS70546,2006,London,60
+Roundabout,200601CW10277,2006,London,31
+Roundabout,200601CW10714,2006,London,29
+Roundabout,200601CW11044,2006,London,
+Roundabout,200601EO40082,2006,London,28
+Roundabout,200601EO40480,2006,London,27
+Roundabout,200601EO40884,2006,London,45
+Roundabout,200601EO41311,2006,London,33
+Roundabout,200601FH10218,2006,London,27
+Roundabout,200601GD10167,2006,London,24
+Roundabout,200601GD10656,2006,London,43
+Roundabout,200601GD10719,2006,London,39
+Roundabout,200601GD10787,2006,London,
+Roundabout,200601HT20748,2006,London,28
+Roundabout,200601ID60026,2006,London,51
+Roundabout,200601JC30532,2006,London,
+Roundabout,200601JI40726,2006,London,44
+Roundabout,200601KG70341,2006,London,44
+Roundabout,200601LX50783,2006,London,39
+Roundabout,200601MM70093,2006,London,41
+Roundabout,200601MM70376,2006,London,26
+Roundabout,200601MM70432,2006,London,25
+Roundabout,200601MM70673,2006,London,25
+Roundabout,200601MM71167,2006,London,31
+Roundabout,200601QA10206,2006,London,
+Roundabout,200601QA19036,2006,London,70
+Roundabout,200601QK50458,2006,London,29
+Roundabout,200601RY10311,2006,London,16
+Roundabout,200601RY10435,2006,London,45
+Roundabout,200601TD00177,2006,London,27
+Roundabout,200601TW60090,2006,London,
+Roundabout,200601TX20038,2006,London,47
+Roundabout,200601TX20548,2006,London,62
+Roundabout,200601TX20557,2006,London,32
+Roundabout,200601TX29032,2006,London,29
+Roundabout,200601VK30001,2006,London,62
+Roundabout,200601VK30071,2006,London,30
+Roundabout,200601VK30152,2006,London,24
+Roundabout,200601VK30246,2006,London,58
+Roundabout,200601VK30263,2006,London,36
+Roundabout,200601VW40312,2006,London,32
+Roundabout,200601VW40403,2006,London,24
+Roundabout,200601VW40456,2006,London,41
+Roundabout,200601WW50417,2006,London,20
+Roundabout,200601XD80624,2006,London,54
+Roundabout,200601XH30015,2006,London,28
+Roundabout,200601XH30628,2006,London,49
+Roundabout,200601XH30664,2006,London,39
+Roundabout,200601XH30685,2006,London,
+Roundabout,200601XH30713,2006,London,63
+Roundabout,200601XH30750,2006,London,42
+Roundabout,200601YE80805,2006,London,
+Roundabout,200601ZD30655,2006,London,27
+Roundabout,200601ZD30943,2006,London,34
+Roundabout,200601ZD30964,2006,London,
+Roundabout,200601ZT80349,2006,London,35
+Roundabout,200604CM06175,2006,Lancashire,41
+Roundabout,200605BB07867,2006,Merseyside,70
+Roundabout,200605BB12673,2006,Merseyside,83
+Roundabout,200605BB12894,2006,Merseyside,50
+Roundabout,200606C045077,2006,Manchester,35
+Roundabout,200606F062760,2006,Salford,17
+Roundabout,200606K064156,2006,Bolton,25
+Roundabout,200606M043928,2006,Trafford,21
+Roundabout,200606P043737,2006,Rochdale,39
+Roundabout,200606Q057675,2006,Oldham,27
+Roundabout,2.00607E+12,2006,Warrington,44
+Roundabout,2.00607E+12,2006,Warrington,37
+Roundabout,2.00607E+12,2006,Warrington,42
+Roundabout,2.0061E+12,2006,Newcastle upon Tyne,47
+Roundabout,2.0061E+12,2006,South Tyneside,20
+Roundabout,2.0061E+12,2006,North Tyneside,30
+Roundabout,2.0061E+12,2006,Newcastle upon Tyne,48
+Roundabout,2.0061E+12,2006,South Tyneside,17
+Roundabout,2.0061E+12,2006,South Tyneside,32
+Roundabout,2.0061E+12,2006,South Tyneside,42
+Roundabout,2.0061E+12,2006,South Tyneside,41
+Roundabout,2.0061E+12,2006,South Tyneside,59
+Roundabout,2.0061E+12,2006,South Tyneside,50
+Roundabout,2.0061E+12,2006,North Tyneside,62
+Roundabout,2.0061E+12,2006,South Tyneside,13
+Roundabout,2.0061E+12,2006,Newcastle upon Tyne,41
+Roundabout,2.0061E+12,2006,Northumberland,70
+Roundabout,2.0061E+12,2006,South Tyneside,12
+Roundabout,2.0061E+12,2006,Northumberland,33
+Roundabout,2.0061E+12,2006,North Tyneside,40
+Roundabout,2.0061E+12,2006,Newcastle upon Tyne,50
+Roundabout,2.0061E+12,2006,South Tyneside,21
+Roundabout,2.0061E+12,2006,South Tyneside,25
+Roundabout,2.0061E+12,2006,South Tyneside,43
+Roundabout,2.00612E+12,2006,North Yorkshire,42
+Roundabout,2.00613E+12,2006,Leeds,56
+Roundabout,2.00613E+12,2006,Wakefield,48
+Roundabout,200614A149406,2006,Doncaster,27
+Roundabout,2006160C00090,2006,East Riding of Yorkshire,14
+Roundabout,2006160C01700,2006,East Riding of Yorkshire,15
+Roundabout,2006160D00300,2006,Kingston Upon Hull,20
+Roundabout,2006170H11096,2006,Hartlepool,8
+Roundabout,2006170M20256,2006,Middlesbrough,36
+Roundabout,200620D159802,2006,Birmingham,57
+Roundabout,200620E161302,2006,Birmingham,53
+Roundabout,200620G042701,2006,Wolverhampton,
+Roundabout,200620H016301,2006,Walsall,38
+Roundabout,200620H064001,2006,Walsall,34
+Roundabout,200620K614501,2006,Sandwell,31
+Roundabout,200620M059901,2006,Coventry,25
+Roundabout,2.00622E+12,2006,Staffordshire,34
+Roundabout,2.00623E+12,2006,Warwickshire,64
+Roundabout,2.00623E+12,2006,Warwickshire,59
+Roundabout,200630D000031,2006,Derby,58
+Roundabout,200630D000468,2006,Derby,13
+Roundabout,20063102C3115,2006,Nottingham,
+Roundabout,200632C000506,2006,Lincolnshire,27
+Roundabout,200632D161906,2006,Lincolnshire,30
+Roundabout,2.00633E+12,2006,Leicestershire,44
+Roundabout,2.00633E+12,2006,Leicestershire,42
+Roundabout,2.00633E+12,2006,Leicestershire,33
+Roundabout,200634NC01137,2006,Northamptonshire,59
+Roundabout,200634NN00230,2006,Northamptonshire,43
+Roundabout,2.00635E+12,2006,Peterborough,
+Roundabout,2.00636E+12,2006,Norfolk,69
+Roundabout,2.00636E+12,2006,Norfolk,24
+Roundabout,2.01E+306,2006,Essex,21
+Roundabout,200642H027906,2006,Southend on Sea,21
+Roundabout,200643P177096,2006,Oxfordshire,28
+Roundabout,200643P188126,2006,Oxfordshire,19
+Roundabout,200643P343106,2006,Oxfordshire,31
+Roundabout,200643R178106,2006,Windsor and Maidenhead,26
+Roundabout,200643W119076,2006,Wokingham,35
+Roundabout,200643W177116,2006,Reading,51
+Roundabout,2.00644E+12,2006,Portsmouth,71
+Roundabout,2.00644E+12,2006,Hampshire,49
+Roundabout,2.00644E+12,2006,Portsmouth,16
+Roundabout,2.00644E+12,2006,Hampshire,45
+Roundabout,2.00644E+12,2006,Southampton ,26
+Roundabout,2.00644E+12,2006,Southampton ,45
+Roundabout,2.00644E+12,2006,Hampshire,38
+Roundabout,200645WA86166,2006,Surrey,24
+Roundabout,200645WA89702,2006,Surrey,44
+Roundabout,2.00646E+12,2006,Medway,27
+Roundabout,2.00646E+12,2006,Medway,54
+Roundabout,2.00646E+12,2006,Kent,14
+Roundabout,2.00647E+12,2006,West Sussex,59
+Roundabout,2.00647E+12,2006,West Sussex,62
+Roundabout,2.00647E+12,2006,Brighton and Hove,30
+Roundabout,2.00647E+12,2006,East Sussex,15
+Roundabout,200650A31G464,2006,Cornwall and Isles of Scilly,
+Roundabout,200650A41P880,2006,Cornwall and Isles of Scilly,15
+Roundabout,200650A61N511,2006,Cornwall and Isles of Scilly,
+Roundabout,200650C21D460,2006,Devon,23
+Roundabout,200650D21N168,2006,Devon,29
+Roundabout,200650E31F641,2006,Plymouth,34
+Roundabout,200650E31P849,2006,Plymouth,
+Roundabout,200650E52A207,2006,Plymouth,39
+Roundabout,200650F51O744,2006,Devon,54
+Roundabout,2.00652E+12,2006,North Somerset,17
+Roundabout,2.00652E+12,2006,City of Bristol,53
+Roundabout,2.00652E+12,2006,South Gloucestershire,
+Roundabout,2.00653E+12,2006,Gloucestershire,18
+Roundabout,200654AM57706,2006,Wiltshire,31
+Roundabout,200654DC34706,2006,Swindon,54
+Roundabout,200654DH35006,2006,Swindon,37
+Roundabout,2006556B02727,2006,Bournemouth,65
+Roundabout,2006556B03732,2006,Bournemouth,29
+Roundabout,2006556B04512,2006,Bournemouth,26
+Roundabout,2006556B04515,2006,Bournemouth,51
+Roundabout,2006556B06199,2006,Bournemouth,30
+Roundabout,2.01E+59,2006,Dorset,59
+Roundabout,2006556P05378,2006,Poole,40
+Roundabout,2006556W00185,2006,Dorset,43
+Roundabout,2006556W01472,2006,Dorset,31
+Roundabout,2006556W02724,2006,Dorset,56
+Roundabout,2006556W03715,2006,Dorset,33
+Roundabout,2006556W04025,2006,Dorset,11
+Roundabout,2006556W05723,2006,Dorset,38
+Roundabout,200701BS70238,2007,London,20
+Roundabout,200701BS70277,2007,London,40
+Roundabout,200701BS70429,2007,London,41
+Roundabout,200701BS70554,2007,London,25
+Roundabout,200701CW10291,2007,London,40
+Roundabout,200701CW10576,2007,London,45
+Roundabout,200701CW11242,2007,London,32
+Roundabout,200701EO40805,2007,London,42
+Roundabout,200701GD10112,2007,London,30
+Roundabout,200701HT67483,2007,London,24
+Roundabout,200701JC30254,2007,London,36
+Roundabout,200701LX50723,2007,London,27
+Roundabout,200701MM70143,2007,London,25
+Roundabout,200701MM70616,2007,London,
+Roundabout,200701PL60122,2007,London,44
+Roundabout,200701PL60141,2007,London,24
+Roundabout,200701RG40106,2007,London,39
+Roundabout,200701RY10238,2007,London,11
+Roundabout,200701SX20798,2007,London,
+Roundabout,200701TE00105,2007,London,40
+Roundabout,200701TW60390,2007,London,48
+Roundabout,200701TX20122,2007,London,51
+Roundabout,200701TX20242,2007,London,29
+Roundabout,200701TX20760,2007,London,37
+Roundabout,200701VK30001,2007,London,29
+Roundabout,200701VK30066,2007,London,33
+Roundabout,200701VK30078,2007,London,47
+Roundabout,200701VK30080,2007,London,50
+Roundabout,200701VK30325,2007,London,19
+Roundabout,200701VW40117,2007,London,21
+Roundabout,200701VW40376,2007,London,65
+Roundabout,200701WW50279,2007,London,28
+Roundabout,200701XD80225,2007,London,22
+Roundabout,200701ZD62232,2007,London,35
+Roundabout,200701ZT80265,2007,London,29
+Roundabout,200704BC07052,2007,Lancashire,48
+Roundabout,200704BC07249,2007,Lancashire,51
+Roundabout,200704CM07107,2007,Lancashire,50
+Roundabout,200704FB07093,2007,Lancashire,30
+Roundabout,200706G080864,2007,Tameside,14
+Roundabout,200706L083138,2007,Wigan,63
+Roundabout,200706M070180,2007,Trafford,40
+Roundabout,2.00707E+12,2007,Warrington,
+Roundabout,2.00707E+12,2007,Cheshire West and Chester,58
+Roundabout,2.00707E+12,2007,Warrington,36
+Roundabout,2.00707E+12,2007,Cheshire West and Chester,17
+Roundabout,2.0071E+12,2007,Northumberland,50
+Roundabout,2.0071E+12,2007,Northumberland,54
+Roundabout,2.0071E+12,2007,Newcastle upon Tyne,39
+Roundabout,2.0071E+12,2007,Gateshead,42
+Roundabout,2.0071E+12,2007,North Tyneside,68
+Roundabout,2.0071E+12,2007,Gateshead,31
+Roundabout,2.0071E+12,2007,South Tyneside,34
+Roundabout,2.0071E+12,2007,Newcastle upon Tyne,22
+Roundabout,2.0071E+12,2007,Newcastle upon Tyne,20
+Roundabout,2.0071E+12,2007,Gateshead,49
+Roundabout,2.0071E+12,2007,South Tyneside,39
+Roundabout,2.0071E+12,2007,South Tyneside,43
+Roundabout,2.0071E+12,2007,North Tyneside,60
+Roundabout,2.0071E+12,2007,Northumberland,43
+Roundabout,2.0071E+12,2007,Newcastle upon Tyne,25
+Roundabout,2.0071E+12,2007,Newcastle upon Tyne,44
+Roundabout,2.00713E+12,2007,Wakefield,37
+Roundabout,2.00713E+12,2007,Wakefield,51
+Roundabout,200714G168707,2007,Sheffield,16
+Roundabout,2007160C01510,2007,East Riding of Yorkshire,52
+Roundabout,2007160D04570,2007,Kingston Upon Hull,20
+Roundabout,2007170L32387,2007,Redcar and Cleveland,62
+Roundabout,2007170S10097,2007,Stockton on Tees,35
+Roundabout,2007170S32057,2007,Stockton on Tees,30
+Roundabout,200720D129903,2007,Birmingham,13
+Roundabout,200720D219002,2007,Birmingham,53
+Roundabout,200720F247702,2007,Birmingham,43
+Roundabout,200720G048301,2007,Wolverhampton,32
+Roundabout,200720K067101,2007,Sandwell,57
+Roundabout,200720K105302,2007,Sandwell,49
+Roundabout,200720L054101,2007,Solihull,35
+Roundabout,200720L089101,2007,Solihull,42
+Roundabout,200720M030401,2007,Coventry,19
+Roundabout,2.00722E+12,2007,Staffordshire,14
+Roundabout,200722EA86618,2007,Herefordshire,32
+Roundabout,200722GA85676,2007,Telford and Wrekin,37
+Roundabout,2.00723E+12,2007,Warwickshire,70
+Roundabout,2.00723E+12,2007,Warwickshire,47
+Roundabout,20073102A0126,2007,Nottinghamshire,66
+Roundabout,20073102C2805,2007,Nottingham,31
+Roundabout,200734NE55617,2007,Northamptonshire,66
+Roundabout,200734NK46277,2007,Northamptonshire,14
+Roundabout,200734WD51817,2007,Northamptonshire,66
+Roundabout,200734WN33817,2007,Northamptonshire,41
+Roundabout,200734WN36247,2007,Northamptonshire,21
+Roundabout,200734WN50607,2007,Northamptonshire,48
+Roundabout,2.00735E+12,2007,Peterborough,60
+Roundabout,2.00735E+12,2007,Cambridgeshire,54
+Roundabout,2.00735E+12,2007,Peterborough,60
+Roundabout,2.00735E+12,2007,Cambridgeshire,44
+Roundabout,2.00736E+12,2007,Norfolk,18
+Roundabout,200737B029082,2007,Suffolk,35
+Roundabout,200737G022620,2007,Suffolk,60
+Roundabout,200737G023904,2007,Suffolk,37
+Roundabout,2007400C03666,2007,Luton,37
+Roundabout,20074100D0342,2007,Hertfordshire,42
+Roundabout,20074100D0554,2007,Hertfordshire,18
+Roundabout,20074100G0053,2007,Hertfordshire,44
+Roundabout,20074100G0850,2007,Hertfordshire,45
+Roundabout,200742I193505,2007,Essex,67
+Roundabout,200742I209003,2007,Essex,49
+Roundabout,200742I315007,2007,Essex,47
+Roundabout,200742I452710,2007,Thurrock,21
+Roundabout,200742I454911,2007,Essex,39
+Roundabout,200742I503812,2007,Essex,10
+Roundabout,200743P020117,2007,Oxfordshire,41
+Roundabout,200743P031127,2007,Oxfordshire,54
+Roundabout,200743P082087,2007,Oxfordshire,31
+Roundabout,200743P197107,2007,Oxfordshire,20
+Roundabout,200743P238077,2007,Oxfordshire,22
+Roundabout,200743P320107,2007,Oxfordshire,25
+Roundabout,200743P422077,2007,Oxfordshire,35
+Roundabout,200743S040087,2007,Milton Keynes,36
+Roundabout,2.00744E+12,2007,Portsmouth,81
+Roundabout,2.00744E+12,2007,Portsmouth,28
+Roundabout,2.00744E+12,2007,Hampshire,62
+Roundabout,2.00744E+12,2007,Hampshire,39
+Roundabout,2.00744E+12,2007,Hampshire,25
+Roundabout,2.00744E+12,2007,Hampshire,20
+Roundabout,2.00744E+12,2007,Southampton ,25
+Roundabout,2.00744E+12,2007,Isle of Wight,9
+Roundabout,2.00744E+12,2007,Hampshire,57
+Roundabout,2.00744E+12,2007,Hampshire,48
+Roundabout,2.00744E+12,2007,Southampton ,53
+Roundabout,200745EL05380,2007,Surrey,18
+Roundabout,200745GU14582,2007,Surrey,42
+Roundabout,200745RU10405,2007,Surrey,46
+Roundabout,200745WO11415,2007,Surrey,46
+Roundabout,2.00747E+12,2007,East Sussex,19
+Roundabout,2.00747E+12,2007,West Sussex,30
+Roundabout,2.00747E+12,2007,Brighton and Hove,34
+Roundabout,200750A62E259,2007,Cornwall and Isles of Scilly,
+Roundabout,200750E41K457,2007,Plymouth,34
+Roundabout,200750E41O626,2007,Plymouth,17
+Roundabout,200750F41O343,2007,Devon,58
+Roundabout,2.00752E+12,2007,Somerset,66
+Roundabout,2.00752E+12,2007,Somerset,37
+Roundabout,2.00752E+12,2007,Bath and North East Somerset,40
+Roundabout,2.00752E+12,2007,Bath and North East Somerset,44
+Roundabout,2.00752E+12,2007,City of Bristol,25
+Roundabout,200754DW09607,2007,Swindon,24
+Roundabout,2007557B00754,2007,Bournemouth,25
+Roundabout,2007557B03528,2007,Bournemouth,31
+Roundabout,2007557B03973,2007,Bournemouth,22
+Roundabout,2007557B04893,2007,Bournemouth,29
+Roundabout,2007557E00881,2007,Dorset,35
+Roundabout,2007557P03096,2007,Poole,24
+Roundabout,2007557P04792,2007,Poole,42
+Roundabout,200801BS70379,2008,London,23
+Roundabout,200801BS70591,2008,London,47
+Roundabout,200801CW12047,2008,London,26
+Roundabout,200801EO40482,2008,London,30
+Roundabout,200801EO40802,2008,London,60
+Roundabout,200801GD74352,2008,London,28
+Roundabout,200801GD74514,2008,London,39
+Roundabout,200801HT74325,2008,London,32
+Roundabout,200801KF69946,2008,London,
+Roundabout,200801KF75754,2008,London,20
+Roundabout,200801KG73337,2008,London,22
+Roundabout,200801LX50578,2008,London,31
+Roundabout,200801MM70521,2008,London,38
+Roundabout,200801MM70634,2008,London,20
+Roundabout,200801MM70737,2008,London,63
+Roundabout,200801MM70976,2008,London,20
+Roundabout,200801MM71055,2008,London,25
+Roundabout,200801MM71134,2008,London,27
+Roundabout,200801PL60149,2008,London,39
+Roundabout,200801PL60470,2008,London,27
+Roundabout,200801PY20327,2008,London,29
+Roundabout,200801PY20430,2008,London,25
+Roundabout,200801PY20529,2008,London,52
+Roundabout,200801PY20651,2008,London,63
+Roundabout,200801QA10210,2008,London,43
+Roundabout,200801RG40033,2008,London,42
+Roundabout,200801RG40209,2008,London,36
+Roundabout,200801RG40691,2008,London,40
+Roundabout,200801TW60288,2008,London,
+Roundabout,200801TX20622,2008,London,21
+Roundabout,200801VK30201,2008,London,
+Roundabout,200801VW40176,2008,London,39
+Roundabout,200801VW40263,2008,London,27
+Roundabout,200801WW50264,2008,London,33
+Roundabout,200801WW50388,2008,London,52
+Roundabout,200801WW50478,2008,London,33
+Roundabout,200801WW50741,2008,London,33
+Roundabout,200801XH30585,2008,London,42
+Roundabout,200801XH30643,2008,London,59
+Roundabout,200801XH30727,2008,London,40
+Roundabout,200801YE80718,2008,London,53
+Roundabout,200801ZD30071,2008,London,48
+Roundabout,200801ZD30291,2008,London,33
+Roundabout,200801ZD30855,2008,London,28
+Roundabout,200801ZT80192,2008,London,12
+Roundabout,200804FB08022,2008,Lancashire,28
+Roundabout,200806F007902,2008,Salford,21
+Roundabout,200806J087635,2008,Stockport,49
+Roundabout,200806K097839,2008,Bolton,47
+Roundabout,200806M004253,2008,Trafford,37
+Roundabout,200806M095216,2008,Trafford,17
+Roundabout,200806N004724,2008,Bury,80
+Roundabout,2.00807E+12,2008,Warrington,43
+Roundabout,2.00807E+12,2008,Cheshire West and Chester,55
+Roundabout,2.0081E+12,2008,South Tyneside,13
+Roundabout,2.0081E+12,2008,Northumberland,
+Roundabout,2.0081E+12,2008,North Tyneside,28
+Roundabout,2.0081E+12,2008,Northumberland,21
+Roundabout,2.0081E+12,2008,South Tyneside,64
+Roundabout,2.0081E+12,2008,South Tyneside,30
+Roundabout,2.0081E+12,2008,Northumberland,34
+Roundabout,2.0081E+12,2008,South Tyneside,16
+Roundabout,2.0081E+12,2008,North Tyneside,37
+Roundabout,2.0081E+12,2008,North Tyneside,22
+Roundabout,2.0081E+12,2008,Northumberland,25
+Roundabout,2.0081E+12,2008,South Tyneside,29
+Roundabout,2.0081E+12,2008,Northumberland,26
+Roundabout,2.0081E+12,2008,Northumberland,24
+Roundabout,2.0081E+12,2008,Newcastle upon Tyne,21
+Roundabout,2.0081E+12,2008,Northumberland,43
+Roundabout,2.0081E+12,2008,Newcastle upon Tyne,47
+Roundabout,2.0081E+12,2008,North Tyneside,34
+Roundabout,2.00813E+12,2008,Kirklees,47
+Roundabout,2008160C02700,2008,East Riding of Yorkshire,13
+Roundabout,2008170M23098,2008,Middlesbrough,38
+Roundabout,2008170S11708,2008,Stockton on Tees,31
+Roundabout,200820E086902,2008,Birmingham,23
+Roundabout,200820E095002,2008,Birmingham,29
+Roundabout,200820E125503,2008,Birmingham,45
+Roundabout,200820E146503,2008,Birmingham,37
+Roundabout,200820F144701,2008,Birmingham,60
+Roundabout,200820G065101,2008,Wolverhampton,42
+Roundabout,200820K009701,2008,Sandwell,44
+Roundabout,200820L055201,2008,Solihull,57
+Roundabout,2.00822E+12,2008,Staffordshire,20
+Roundabout,2.00823E+12,2008,Warwickshire,15
+Roundabout,2.00823E+12,2008,Warwickshire,61
+Roundabout,2.00823E+12,2008,Warwickshire,37
+Roundabout,2.00823E+12,2008,Warwickshire,58
+Roundabout,2.00823E+12,2008,Warwickshire,47
+Roundabout,200830A000443,2008,Derbyshire,17
+Roundabout,200830C000297,2008,Derbyshire,
+Roundabout,200830C000404,2008,Derbyshire,23
+Roundabout,200830D000586,2008,Derby,52
+Roundabout,20083104D2587,2008,Nottinghamshire,61
+Roundabout,2.00833E+12,2008,Leicestershire,29
+Roundabout,2.00833E+12,2008,Leicestershire,27
+Roundabout,2.00835E+12,2008,Cambridgeshire,47
+Roundabout,2.00835E+12,2008,Cambridgeshire,20
+Roundabout,2.00835E+12,2008,Cambridgeshire,18
+Roundabout,2.00836E+12,2008,Norfolk,52
+Roundabout,2.00836E+12,2008,Norfolk,30
+Roundabout,200837L016135,2008,Suffolk,53
+Roundabout,20084100B0368,2008,Hertfordshire,13
+Roundabout,20084100B0734,2008,Hertfordshire,29
+Roundabout,20084100G0597,2008,Hertfordshire,28
+Roundabout,20084100J2028,2008,Hertfordshire,46
+Roundabout,20084100K0057,2008,Hertfordshire,30
+Roundabout,200842I131304,2008,Essex,13
+Roundabout,200842I244807,2008,Essex,39
+Roundabout,200842I294908,2008,Essex,40
+Roundabout,200842I338309,2008,Essex,42
+Roundabout,200842I431410,2008,Essex,14
+Roundabout,200843N223068,2008,Buckinghamshire,40
+Roundabout,200843N226068,2008,Buckinghamshire,52
+Roundabout,200843N286058,2008,Buckinghamshire,15
+Roundabout,200843R025108,2008,Windsor and Maidenhead,72
+Roundabout,200843R111028,2008,Windsor and Maidenhead,30
+Roundabout,200843R188108,2008,Slough,31
+Roundabout,200843S005088,2008,Milton Keynes,10
+Roundabout,200843S117098,2008,Milton Keynes,44
+Roundabout,200843W233048,2008,Reading,27
+Roundabout,2.00844E+12,2008,Hampshire,46
+Roundabout,2.00844E+12,2008,Hampshire,43
+Roundabout,2.00844E+12,2008,Hampshire,34
+Roundabout,2.00844E+12,2008,Hampshire,24
+Roundabout,2.00844E+12,2008,Hampshire,18
+Roundabout,2.00844E+12,2008,Portsmouth,31
+Roundabout,2.00844E+12,2008,Hampshire,47
+Roundabout,200845SP23630,2008,Surrey,35
+Roundabout,200845WO25025,2008,Surrey,40
+Roundabout,2.00846E+12,2008,Medway,32
+Roundabout,2.00846E+12,2008,Kent,64
+Roundabout,2.00846E+12,2008,Kent,
+Roundabout,2.00846E+12,2008,Kent,41
+Roundabout,2.00846E+12,2008,Kent,39
+Roundabout,2.00847E+12,2008,West Sussex,42
+Roundabout,2.00847E+12,2008,Brighton and Hove,51
+Roundabout,2.00847E+12,2008,West Sussex,17
+Roundabout,2.00847E+12,2008,West Sussex,18
+Roundabout,2.00847E+12,2008,West Sussex,63
+Roundabout,2.00852E+12,2008,City of Bristol,19
+Roundabout,2.00852E+12,2008,North Somerset,40
+Roundabout,2.00852E+12,2008,City of Bristol,36
+Roundabout,2.00852E+12,2008,Somerset,16
+Roundabout,2.00852E+12,2008,Somerset,48
+Roundabout,2.00852E+12,2008,Bath and North East Somerset,43
+Roundabout,2.00852E+12,2008,Somerset,27
+Roundabout,2.00852E+12,2008,City of Bristol,44
+Roundabout,2.00852E+12,2008,Somerset,46
+Roundabout,2.00852E+12,2008,North Somerset,19
+Roundabout,2.00852E+12,2008,City of Bristol,28
+Roundabout,2.00852E+12,2008,Bath and North East Somerset,25
+Roundabout,2.00852E+12,2008,City of Bristol,30
+Roundabout,2.00852E+12,2008,North Somerset,44
+Roundabout,2.00852E+12,2008,City of Bristol,53
+Roundabout,2008558C01641,2008,Poole,53
+Roundabout,2008558C02947,2008,Bournemouth,23
+Roundabout,2008558C04724,2008,Poole,57
+Roundabout,2008558P01018,2008,Poole,47
+Roundabout,200901BS70406,2009,London,27
+Roundabout,200901BS70665,2009,London,34
+Roundabout,200901CW11759,2009,London,26
+Roundabout,200901FH10172,2009,London,
+Roundabout,200901FH10723,2009,London,31
+Roundabout,200901GD10050,2009,London,40
+Roundabout,200901HT20817,2009,London,27
+Roundabout,200901JC30122,2009,London,9
+Roundabout,200901JC30491,2009,London,25
+Roundabout,200901KD50338,2009,London,32
+Roundabout,200901KF60014,2009,London,26
+Roundabout,200901LX50058,2009,London,31
+Roundabout,200901LX50285,2009,London,45
+Roundabout,200901LX50384,2009,London,64
+Roundabout,200901LX50612,2009,London,45
+Roundabout,200901LX50738,2009,London,28
+Roundabout,200901LX50971,2009,London,44
+Roundabout,200901MM70038,2009,London,66
+Roundabout,200901MM70683,2009,London,27
+Roundabout,200901MM70700,2009,London,44
+Roundabout,200901MM70885,2009,London,38
+Roundabout,200901PL60321,2009,London,37
+Roundabout,200901PL60439,2009,London,29
+Roundabout,200901PY20345,2009,London,31
+Roundabout,200901PY20461,2009,London,56
+Roundabout,200901PY20645,2009,London,36
+Roundabout,200901QK50363,2009,London,19
+Roundabout,200901RG40281,2009,London,17
+Roundabout,200901RG40518,2009,London,28
+Roundabout,200901RG49066,2009,London,22
+Roundabout,200901RY10430,2009,London,38
+Roundabout,200901TW60056,2009,London,55
+Roundabout,200901TW60161,2009,London,33
+Roundabout,200901TW60344,2009,London,36
+Roundabout,200901TX20114,2009,London,41
+Roundabout,200901TX20399,2009,London,64
+Roundabout,200901VK30251,2009,London,52
+Roundabout,200901VK30256,2009,London,31
+Roundabout,200901VK30313,2009,London,61
+Roundabout,200901VW40087,2009,London,54
+Roundabout,200901VW40267,2009,London,31
+Roundabout,200901VW40374,2009,London,55
+Roundabout,200901WW50356,2009,London,28
+Roundabout,200901XD80282,2009,London,73
+Roundabout,200901XD80506,2009,London,
+Roundabout,200901XD80589,2009,London,27
+Roundabout,200901XD80811,2009,London,53
+Roundabout,200901XH30241,2009,London,45
+Roundabout,200901XH30786,2009,London,36
+Roundabout,200901XH39004,2009,London,25
+Roundabout,200901YR90811,2009,London,45
+Roundabout,200901ZD30414,2009,London,37
+Roundabout,200904BC09108,2009,Lancashire,19
+Roundabout,200904CL09060,2009,Lancashire,26
+Roundabout,200905AA03298,2009,Merseyside,63
+Roundabout,200905AA32296,2009,Merseyside,36
+Roundabout,200905BB33229,2009,Merseyside,24
+Roundabout,200906A014787,2009,Manchester,26
+Roundabout,200906A015580,2009,Manchester,22
+Roundabout,200906A016418,2009,Manchester,37
+Roundabout,200906J012300,2009,Stockport,38
+Roundabout,200906J022787,2009,Stockport,42
+Roundabout,200906K017028,2009,Bolton,40
+Roundabout,200906M017906,2009,Trafford,37
+Roundabout,200906M025035,2009,Trafford,28
+Roundabout,2.00907E+12,2009,Warrington,44
+Roundabout,2.00907E+12,2009,Cheshire West and Chester,47
+Roundabout,2.00907E+12,2009,Halton,46
+Roundabout,2.00907E+12,2009,Warrington,31
+Roundabout,2.00907E+12,2009,Warrington,45
+Roundabout,2.0091E+12,2009,Newcastle upon Tyne,56
+Roundabout,2.0091E+12,2009,Newcastle upon Tyne,27
+Roundabout,2.0091E+12,2009,South Tyneside,46
+Roundabout,2.0091E+12,2009,Newcastle upon Tyne,32
+Roundabout,2.0091E+12,2009,South Tyneside,40
+Roundabout,2.0091E+12,2009,Newcastle upon Tyne,56
+Roundabout,2.0091E+12,2009,North Tyneside,34
+Roundabout,2.0091E+12,2009,South Tyneside,42
+Roundabout,2.0091E+12,2009,North Tyneside,29
+Roundabout,2.0091E+12,2009,South Tyneside,22
+Roundabout,2.0091E+12,2009,Newcastle upon Tyne,27
+Roundabout,2.0091E+12,2009,Northumberland,24
+Roundabout,2.0091E+12,2009,Newcastle upon Tyne,37
+Roundabout,2.0091E+12,2009,South Tyneside,40
+Roundabout,2.0091E+12,2009,Northumberland,49
+Roundabout,2.0091E+12,2009,Northumberland,50
+Roundabout,2.0091E+12,2009,Gateshead,42
+Roundabout,2.0091E+12,2009,South Tyneside,67
+Roundabout,2.0091E+12,2009,Newcastle upon Tyne,40
+Roundabout,2.0091E+12,2009,South Tyneside,47
+Roundabout,2.0091E+12,2009,South Tyneside,26
+Roundabout,200911SJ05239,2009,Darlington,43
+Roundabout,2.00912E+12,2009,York,31
+Roundabout,2.00912E+12,2009,North Yorkshire,24
+Roundabout,2.00913E+12,2009,Wakefield,56
+Roundabout,2.00913E+12,2009,Leeds,65
+Roundabout,2.00913E+12,2009,Leeds,
+Roundabout,200914A185409,2009,Doncaster,31
+Roundabout,200914C132509,2009,Rotherham,25
+Roundabout,2009170H10659,2009,Hartlepool,52
+Roundabout,200920D273903,2009,Birmingham,25
+Roundabout,200920E084602,2009,Birmingham,
+Roundabout,200920G025401,2009,Wolverhampton,38
+Roundabout,200920J016002,2009,Dudley,30
+Roundabout,200920K005601,2009,Sandwell,56
+Roundabout,2.00923E+12,2009,Warwickshire,36
+Roundabout,2.00923E+12,2009,Warwickshire,27
+Roundabout,2.00923E+12,2009,Warwickshire,50
+Roundabout,200930D000699,2009,Derby,68
+Roundabout,20093104C0107,2009,Nottingham,37
+Roundabout,200932B365009,2009,Lincolnshire,40
+Roundabout,2.00933E+12,2009,Leicestershire,29
+Roundabout,200934WN02969,2009,Northamptonshire,45
+Roundabout,2.00935E+12,2009,Cambridgeshire,33
+Roundabout,2.00936E+12,2009,Norfolk,15
+Roundabout,2.00936E+12,2009,Norfolk,28
+Roundabout,2.00936E+12,2009,Norfolk,24
+Roundabout,2.00936E+12,2009,Norfolk,26
+Roundabout,200937G028408,2009,Suffolk,21
+Roundabout,2009400C01950,2009,Luton,38
+Roundabout,20094100C0394,2009,Hertfordshire,40
+Roundabout,20094100K0086,2009,Hertfordshire,30
+Roundabout,200942I219806,2009,Essex,
+Roundabout,200942I229007,2009,Essex,38
+Roundabout,200942I311209,2009,Essex,58
+Roundabout,200942I369011,2009,Thurrock,29
+Roundabout,200943N259119,2009,Buckinghamshire,52
+Roundabout,200943P205099,2009,Oxfordshire,21
+Roundabout,200943R125119,2009,Windsor and Maidenhead,27
+Roundabout,200943R264079,2009,Reading,20
+Roundabout,200943S057049,2009,Milton Keynes,44
+Roundabout,200943S066049,2009,Milton Keynes,54
+Roundabout,200943S080079,2009,Milton Keynes,15
+Roundabout,200943S101119,2009,Milton Keynes,51
+Roundabout,200943S129119,2009,Milton Keynes,45
+Roundabout,2.00944E+12,2009,Portsmouth,24
+Roundabout,2.00944E+12,2009,Hampshire,24
+Roundabout,2.00944E+12,2009,Hampshire,62
+Roundabout,2.00944E+12,2009,Hampshire,36
+Roundabout,2.00944E+12,2009,Hampshire,16
+Roundabout,2.00944E+12,2009,Hampshire,28
+Roundabout,2.00944E+12,2009,Hampshire,17
+Roundabout,2.00944E+12,2009,Portsmouth,30
+Roundabout,2.00944E+12,2009,Southampton ,23
+Roundabout,2.00944E+12,2009,Hampshire,67
+Roundabout,2.00944E+12,2009,Hampshire,50
+Roundabout,200945MO47001,2009,Surrey,38
+Roundabout,200945RU37423,2009,Surrey,31
+Roundabout,2.00947E+12,2009,West Sussex,29
+Roundabout,2.00947E+12,2009,West Sussex,20
+Roundabout,2.00947E+12,2009,West Sussex,22
+Roundabout,2.00947E+12,2009,West Sussex,83
+Roundabout,2.00947E+12,2009,Brighton and Hove,27
+Roundabout,200950DE2G010,2009,Devon,32
+Roundabout,200950GA2Q012,2009,Cornwall and Isles of Scilly,49
+Roundabout,200950GT3W041,2009,Cornwall and Isles of Scilly,47
+Roundabout,200950JN2B015,2009,Devon,76
+Roundabout,2.00952E+12,2009,Somerset,73
+Roundabout,2.00952E+12,2009,Somerset,34
+Roundabout,2.00952E+12,2009,North Somerset,39
+Roundabout,2.00952E+12,2009,City of Bristol,29
+Roundabout,2.00952E+12,2009,Bath and North East Somerset,59
+Roundabout,2.00952E+12,2009,City of Bristol,33
+Roundabout,2.00952E+12,2009,City of Bristol,31
+Roundabout,2009559C02186,2009,Bournemouth,34
+Roundabout,2009559C02581,2009,Poole,39
+Roundabout,2009559C03065,2009,Bournemouth,23
+Roundabout,2009559C03081,2009,Bournemouth,23
+Roundabout,2009559C04381,2009,Bournemouth,18
+Roundabout,2009559D03985,2009,Dorset,62
+Roundabout,201001CW10199,2010,London,29
+Roundabout,201001CW10856,2010,London,26
+Roundabout,201001CW11600,2010,London,27
+Roundabout,201001CW12128,2010,London,31
+Roundabout,201001CW12585,2010,London,23
+Roundabout,201001EO40706,2010,London,32
+Roundabout,201001EO40787,2010,London,
+Roundabout,201001FH10461,2010,London,34
+Roundabout,201001FH10472,2010,London,26
+Roundabout,201001HT20039,2010,London,40
+Roundabout,201001HT20049,2010,London,51
+Roundabout,201001HT20634,2010,London,29
+Roundabout,201001HT20917,2010,London,45
+Roundabout,201001KF60581,2010,London,30
+Roundabout,201001KF60798,2010,London,29
+Roundabout,201001LX50032,2010,London,63
+Roundabout,201001LX50053,2010,London,28
+Roundabout,201001LX50121,2010,London,39
+Roundabout,201001LX50244,2010,London,21
+Roundabout,201001LX50993,2010,London,53
+Roundabout,201001LX51003,2010,London,38
+Roundabout,201001MM70138,2010,London,51
+Roundabout,201001MM70269,2010,London,45
+Roundabout,201001MM70297,2010,London,36
+Roundabout,201001MM70331,2010,London,36
+Roundabout,201001MM70551,2010,London,61
+Roundabout,201001MM70591,2010,London,32
+Roundabout,201001MM70678,2010,London,30
+Roundabout,201001MM70700,2010,London,
+Roundabout,201001MM70969,2010,London,
+Roundabout,201001MM71116,2010,London,44
+Roundabout,201001PL60034,2010,London,32
+Roundabout,201001PL60097,2010,London,28
+Roundabout,201001PL60795,2010,London,39
+Roundabout,201001PY20253,2010,London,36
+Roundabout,201001PY20312,2010,London,46
+Roundabout,201001PY20352,2010,London,38
+Roundabout,201001PY20581,2010,London,44
+Roundabout,201001PY20648,2010,London,
+Roundabout,201001PY20653,2010,London,31
+Roundabout,201001RG40190,2010,London,46
+Roundabout,201001RG40422,2010,London,53
+Roundabout,201001RG40749,2010,London,36
+Roundabout,201001RY10027,2010,London,56
+Roundabout,201001SX20175,2010,London,49
+Roundabout,201001TB00153,2010,London,37
+Roundabout,201001TD00077,2010,London,47
+Roundabout,201001TW60241,2010,London,26
+Roundabout,201001TX20397,2010,London,59
+Roundabout,201001VK30078,2010,London,25
+Roundabout,201001VK30144,2010,London,47
+Roundabout,201001VK30387,2010,London,33
+Roundabout,201001VW40290,2010,London,55
+Roundabout,201001VW40319,2010,London,40
+Roundabout,201001WW50121,2010,London,40
+Roundabout,201001WW50177,2010,London,31
+Roundabout,201001WW50911,2010,London,56
+Roundabout,201001WW50929,2010,London,29
+Roundabout,201001XD80286,2010,London,61
+Roundabout,201001XH30368,2010,London,38
+Roundabout,201001XH30516,2010,London,40
+Roundabout,201001YE80157,2010,London,45
+Roundabout,201001YE80598,2010,London,32
+Roundabout,201001YR90523,2010,London,28
+Roundabout,201001ZT80105,2010,London,42
+Roundabout,201004AN10080,2010,Blackpool,22
+Roundabout,201004BC10005,2010,Lancashire,20
+Roundabout,201004DL10092,2010,Lancashire,39
+Roundabout,201005DD06386,2010,Merseyside,23
+Roundabout,201005FF07156,2010,Merseyside,43
+Roundabout,201006J039885,2010,Stockport,30
+Roundabout,201006L031020,2010,Wigan,62
+Roundabout,201006L033134,2010,Wigan,29
+Roundabout,201006L038490,2010,Wigan,20
+Roundabout,201006M038029,2010,Trafford,40
+Roundabout,201006P035511,2010,Rochdale,51
+Roundabout,2.01007E+12,2010,Warrington,40
+Roundabout,2.01007E+12,2010,Cheshire West and Chester,48
+Roundabout,2.01007E+12,2010,Warrington,27
+Roundabout,2.01007E+12,2010,Cheshire East,29
+Roundabout,2.0101E+12,2010,Newcastle upon Tyne,18
+Roundabout,2.0101E+12,2010,Newcastle upon Tyne,30
+Roundabout,2.0101E+12,2010,Newcastle upon Tyne,54
+Roundabout,2.0101E+12,2010,Gateshead,17
+Roundabout,2.0101E+12,2010,South Tyneside,55
+Roundabout,2.0101E+12,2010,Northumberland,83
+Roundabout,2.0101E+12,2010,North Tyneside,38
+Roundabout,2.0101E+12,2010,South Tyneside,19
+Roundabout,2.0101E+12,2010,Gateshead,53
+Roundabout,2.0101E+12,2010,North Tyneside,27
+Roundabout,2.0101E+12,2010,South Tyneside,47
+Roundabout,2.0101E+12,2010,Northumberland,19
+Roundabout,2.0101E+12,2010,South Tyneside,40
+Roundabout,2.0101E+12,2010,Northumberland,50
+Roundabout,2.0101E+12,2010,Northumberland,41
+Roundabout,2.0101E+12,2010,Northumberland,23
+Roundabout,2.0101E+12,2010,Northumberland,51
+Roundabout,2.0101E+12,2010,Gateshead,31
+Roundabout,2.0101E+12,2010,South Tyneside,18
+Roundabout,2.0101E+12,2010,South Tyneside,48
+Roundabout,2.0101E+12,2010,Northumberland,45
+Roundabout,2.0101E+12,2010,Newcastle upon Tyne,20
+Roundabout,2.0101E+12,2010,Northumberland,53
+Roundabout,2.0101E+12,2010,Newcastle upon Tyne,80
+Roundabout,2.01012E+12,2010,North Yorkshire,63
+Roundabout,2.01013E+12,2010,Leeds,16
+Roundabout,2.01013E+12,2010,Bradford,54
+Roundabout,201014K097110,2010,Sheffield,38
+Roundabout,2010160C03781,2010,East Riding of Yorkshire,39
+Roundabout,2010170L30480,2010,Redcar and Cleveland,56
+Roundabout,201020H003670,2010,Walsall,35
+Roundabout,201020M001700,2010,Coventry,29
+Roundabout,201020W048580,2010,Birmingham,30
+Roundabout,2.01021E+12,2010,Staffordshire,51
+Roundabout,2.01021E+12,2010,Staffordshire,50
+Roundabout,201022E004393,2010,Herefordshire,68
+Roundabout,2.01023E+12,2010,Warwickshire,32
+Roundabout,2.01023E+12,2010,Warwickshire,12
+Roundabout,20103102D2773,2010,Nottinghamshire,38
+Roundabout,201032C018410,2010,Lincolnshire,
+Roundabout,2.01033E+12,2010,Leicestershire,60
+Roundabout,2.01033E+12,2010,Leicestershire,33
+Roundabout,2.01035E+12,2010,Cambridgeshire,32
+Roundabout,2.01036E+12,2010,Norfolk,26
+Roundabout,2.01036E+12,2010,Norfolk,28
+Roundabout,2010400D03586,2010,Central Bedfordshire,45
+Roundabout,201042I349410,2010,Essex,52
+Roundabout,201042I399911,2010,Essex,44
+Roundabout,201043N033060,2010,Buckinghamshire,46
+Roundabout,201043N090060,2010,Buckinghamshire,52
+Roundabout,201043N278030,2010,Buckinghamshire,68
+Roundabout,201043P062080,2010,Oxfordshire,35
+Roundabout,201043R079090,2010,Slough,25
+Roundabout,201043R125030,2010,Windsor and Maidenhead,32
+Roundabout,201043S056090,2010,Milton Keynes,15
+Roundabout,201043W145080,2010,Reading,15
+Roundabout,2.01044E+12,2010,Hampshire,41
+Roundabout,2.01044E+12,2010,Portsmouth,41
+Roundabout,2.01044E+12,2010,Portsmouth,38
+Roundabout,2.01044E+12,2010,Portsmouth,28
+Roundabout,2.01044E+12,2010,Hampshire,15
+Roundabout,2.01044E+12,2010,Hampshire,29
+Roundabout,2.01044E+12,2010,Portsmouth,58
+Roundabout,2.01044E+12,2010,Hampshire,39
+Roundabout,2.01044E+12,2010,Portsmouth,16
+Roundabout,2.01044E+12,2010,Hampshire,32
+Roundabout,2.01044E+12,2010,Portsmouth,29
+Roundabout,2.01044E+12,2010,Hampshire,13
+Roundabout,201045RU52749,2010,Surrey,43
+Roundabout,201045RU54158,2010,Surrey,39
+Roundabout,2.01046E+12,2010,Medway,46
+Roundabout,2.01046E+12,2010,Medway,20
+Roundabout,2.01047E+12,2010,West Sussex,14
+Roundabout,2.01047E+12,2010,Brighton and Hove,45
+Roundabout,2.01047E+12,2010,West Sussex,41
+Roundabout,2.01047E+12,2010,West Sussex,42
+Roundabout,2.01047E+12,2010,West Sussex,39
+Roundabout,201050CI2R001,2010,Devon,68
+Roundabout,201050EC2E072,2010,Plymouth,58
+Roundabout,201050GN2C014,2010,Cornwall and Isles of Scilly,42
+Roundabout,201050JN2K019,2010,Devon,60
+Roundabout,201050JN2O005,2010,Devon,48
+Roundabout,201050KU2F007,2010,Devon,14
+Roundabout,2.01052E+12,2010,Somerset,56
+Roundabout,2.01052E+12,2010,Somerset,61
+Roundabout,2.01052E+12,2010,Bath and North East Somerset,26
+Roundabout,2.01052E+12,2010,City of Bristol,52
+Roundabout,2.01052E+12,2010,City of Bristol,27
+Roundabout,2.01052E+12,2010,Bath and North East Somerset,28
+Roundabout,2.01052E+12,2010,Bath and North East Somerset,30
+Roundabout,2.01053E+12,2010,Gloucestershire,34
+Roundabout,201054DN17010,2010,Swindon,46
+Roundabout,201054EO43110,2010,Wiltshire,30
+Roundabout,20105500D0404,2010,Dorset,43
+Roundabout,20105500D1338,2010,Dorset,28
+Roundabout,2010550C26417,2010,Bournemouth,32
+Roundabout,2010550C31956,2010,Poole,21
+Roundabout,2010550D54365,2010,Dorset,43
+Roundabout,2011201101BS70215,2011,London,26
+Roundabout,2011201101EO40538,2011,London,25
+Roundabout,2011201101EO40552,2011,London,26
+Roundabout,2011201101EO40695,2011,London,29
+Roundabout,2011201101FH10312,2011,London,30
+Roundabout,2011201101GD10768,2011,London,44
+Roundabout,2011201101HT20069,2011,London,30
+Roundabout,2011201101HT20332,2011,London,48
+Roundabout,2011201101HT20433,2011,London,-1
+Roundabout,2011201101HT20508,2011,London,36
+Roundabout,2011201101HT20810,2011,London,30
+Roundabout,2011201101KD50269,2011,London,48
+Roundabout,2011201101KF60654,2011,London,43
+Roundabout,2011201101KG70351,2011,London,39
+Roundabout,2011201101KG70511,2011,London,51
+Roundabout,2011201101LX50325,2011,London,35
+Roundabout,2011201101LX50934,2011,London,46
+Roundabout,2011201101MM70267,2011,London,49
+Roundabout,2011201101MM70280,2011,London,58
+Roundabout,2011201101MM70403,2011,London,30
+Roundabout,2011201101MM70689,2011,London,33
+Roundabout,2011201101MM70692,2011,London,30
+Roundabout,2011201101MM70915,2011,London,25
+Roundabout,2011201101MM71030,2011,London,60
+Roundabout,2011201101MM79056,2011,London,62
+Roundabout,2011201101PL60611,2011,London,-1
+Roundabout,2011201101PL69048,2011,London,23
+Roundabout,2011201101PY20288,2011,London,-1
+Roundabout,2011201101PY20462,2011,London,42
+Roundabout,2011201101PY20497,2011,London,37
+Roundabout,2011201101PY20563,2011,London,10
+Roundabout,2011201101PY20677,2011,London,57
+Roundabout,2011201101QK50547,2011,London,23
+Roundabout,2011201101RG40284,2011,London,37
+Roundabout,2011201101RG40539,2011,London,30
+Roundabout,2011201101SX20639,2011,London,37
+Roundabout,2011201101TA00092,2011,London,31
+Roundabout,2011201101TA00105,2011,London,33
+Roundabout,2011201101TA00284,2011,London,27
+Roundabout,2011201101TA00370,2011,London,13
+Roundabout,2011201101TA00375,2011,London,46
+Roundabout,2011201101TA01024,2011,London,46
+Roundabout,2011201101TB00056,2011,London,26
+Roundabout,2011201101TB00182,2011,London,55
+Roundabout,2011201101TB00253,2011,London,46
+Roundabout,2011201101TB00355,2011,London,38
+Roundabout,2011201101TB00371,2011,London,47
+Roundabout,2011201101TB00404,2011,London,28
+Roundabout,2011201101TB00538,2011,London,37
+Roundabout,2011201101TB00545,2011,London,80
+Roundabout,2011201101TB00603,2011,London,37
+Roundabout,2011201101TW60327,2011,London,-1
+Roundabout,2011201101TX20432,2011,London,28
+Roundabout,2011201101TX20633,2011,London,23
+Roundabout,2011201101VK30137,2011,London,40
+Roundabout,2011201101VK30200,2011,London,33
+Roundabout,2011201101VK30352,2011,London,26
+Roundabout,2011201101XD80087,2011,London,28
+Roundabout,2011201101XD80569,2011,London,34
+Roundabout,2011201101XH30283,2011,London,38
+Roundabout,2011201101XH30400,2011,London,-1
+Roundabout,2011201101XH30621,2011,London,45
+Roundabout,2011201101XH30688,2011,London,62
+Roundabout,2011201101YE80265,2011,London,55
+Roundabout,2011201101ZD30312,2011,London,36
+Roundabout,2011201101ZD30686,2011,London,30
+Roundabout,2011201104BC11085,2011,Lancashire,16
+Roundabout,2011201104BC11096,2011,Lancashire,56
+Roundabout,2011201104DA11043,2011,Lancashire,23
+Roundabout,2011201104FL11062,2011,Lancashire,54
+Roundabout,2011201105CC02486,2011,Merseyside,76
+Roundabout,2011201105CC04759,2011,Merseyside,43
+Roundabout,2011201106G048153,2011,Tameside,14
+Roundabout,2011201106G051048,2011,Tameside,36
+Roundabout,2011201106J053900,2011,Stockport,57
+Roundabout,2.0112E+16,2011,Cheshire West and Chester,47
+Roundabout,2.0112E+16,2011,Cheshire West and Chester,48
+Roundabout,2.0112E+16,2011,Cheshire West and Chester,28
+Roundabout,2.0112E+16,2011,Warrington,26
+Roundabout,2.0112E+16,2011,Cheshire East,47
+Roundabout,2.0112E+16,2011,Cheshire West and Chester,51
+Roundabout,2.0112E+16,2011,Cheshire East,30
+Roundabout,2.0112E+16,2011,Newcastle upon Tyne,26
+Roundabout,2.0112E+16,2011,South Tyneside,69
+Roundabout,2.0112E+16,2011,Newcastle upon Tyne,15
+Roundabout,2.0112E+16,2011,Newcastle upon Tyne,39
+Roundabout,2.0112E+16,2011,Newcastle upon Tyne,41
+Roundabout,2.0112E+16,2011,Gateshead,46
+Roundabout,2.0112E+16,2011,Gateshead,59
+Roundabout,2.0112E+16,2011,Newcastle upon Tyne,32
+Roundabout,2.0112E+16,2011,Newcastle upon Tyne,36
+Roundabout,2.0112E+16,2011,Northumberland,32
+Roundabout,2.0112E+16,2011,Newcastle upon Tyne,58
+Roundabout,2.0112E+16,2011,South Tyneside,59
+Roundabout,2.0112E+16,2011,Newcastle upon Tyne,21
+Roundabout,2011201111NE10151,2011,Durham,27
+Roundabout,2011201111SA17031,2011,Durham,61
+Roundabout,2011201111SJ23031,2011,Darlington,50
+Roundabout,2011201111SJ30531,2011,Darlington,45
+Roundabout,2.0112E+16,2011,North Yorkshire,61
+Roundabout,2.0112E+16,2011,North Yorkshire,36
+Roundabout,2.0112E+16,2011,Leeds,30
+Roundabout,2.0112E+16,2011,Leeds,39
+Roundabout,2.0112E+16,2011,Leeds,34
+Roundabout,2.0112E+16,2011,Wakefield,39
+Roundabout,2011201114B013511,2011,Barnsley,45
+Roundabout,2011201114B114011,2011,Barnsley,39
+Roundabout,20112011160C08851,2011,East Riding of Yorkshire,31
+Roundabout,20112011160D05551,2011,Kingston Upon Hull,21
+Roundabout,2011201120H008911,2011,Walsall,17
+Roundabout,2011201120K015671,2011,Sandwell,38
+Roundabout,2.0112E+16,2011,Staffordshire,50
+Roundabout,2.0112E+16,2011,Warwickshire,38
+Roundabout,2.0112E+16,2011,Warwickshire,24
+Roundabout,2.0112E+16,2011,Warwickshire,50
+Roundabout,2011201131A285711,2011,Nottinghamshire,14
+Roundabout,2011201131C179111,2011,Nottingham,47
+Roundabout,2011201132D114611,2011,Lincolnshire,17
+Roundabout,2011201132D132011,2011,Lincolnshire,20
+Roundabout,2.0112E+16,2011,Leicestershire,52
+Roundabout,2.0112E+16,2011,Leicestershire,21
+Roundabout,2.0112E+16,2011,Rutland,-1
+Roundabout,2011201134NC41271,2011,Northamptonshire,30
+Roundabout,2011201134NK08521,2011,Northamptonshire,46
+Roundabout,2.0112E+16,2011,Norfolk,43
+Roundabout,2.0112E+16,2011,Suffolk,22
+Roundabout,20112011400CA0399,2011,Luton,23
+Roundabout,201120114100G0007,2011,Hertfordshire,49
+Roundabout,201120114100G0088,2011,Hertfordshire,18
+Roundabout,201120114100J0291,2011,Hertfordshire,28
+Roundabout,201120114100K0130,2011,Hertfordshire,41
+Roundabout,201120114100K0323,2011,Hertfordshire,51
+Roundabout,2011201142I053002,2011,Essex,42
+Roundabout,2011201142I071903,2011,Essex,32
+Roundabout,2011201142I192804,2011,Essex,28
+Roundabout,2011201142I359111,2011,Southend on Sea,54
+Roundabout,2011201142I365111,2011,Essex,17
+Roundabout,2011201143N247061,2011,Buckinghamshire,30
+Roundabout,2011201143R034011,2011,Windsor and Maidenhead,34
+Roundabout,2011201143R121081,2011,Bracknell Forest,20
+Roundabout,2011201143R167031,2011,Windsor and Maidenhead,43
+Roundabout,2011201143R254121,2011,Slough,30
+Roundabout,2011201143W007061,2011,West Berkshire,53
+Roundabout,2011201143W035051,2011,Reading,40
+Roundabout,2011201143W062011,2011,Reading,52
+Roundabout,2011201143W082071,2011,Wokingham,30
+Roundabout,2011201143W224021,2011,Reading,17
+Roundabout,2.0112E+16,2011,Portsmouth,26
+Roundabout,2.0112E+16,2011,Hampshire,41
+Roundabout,2.0112E+16,2011,Hampshire,25
+Roundabout,2.0112E+16,2011,Hampshire,24
+Roundabout,2.0112E+16,2011,Hampshire,33
+Roundabout,2.0112E+16,2011,Portsmouth,50
+Roundabout,2.0112E+16,2011,Hampshire,49
+Roundabout,2.0112E+16,2011,Hampshire,12
+Roundabout,2.0112E+16,2011,Hampshire,18
+Roundabout,2.0112E+16,2011,Hampshire,38
+Roundabout,2.0112E+16,2011,Hampshire,41
+Roundabout,2.0112E+16,2011,Hampshire,65
+Roundabout,2.0112E+16,2011,Hampshire,38
+Roundabout,2.0112E+16,2011,Hampshire,57
+Roundabout,2011201145EP64543,2011,Surrey,40
+Roundabout,2011201145MO65510,2011,Surrey,50
+Roundabout,2011201145RU57741,2011,Surrey,32
+Roundabout,2011201145RU62487,2011,Surrey,42
+Roundabout,2011201145WO58183,2011,Surrey,32
+Roundabout,2.0112E+16,2011,Kent,45
+Roundabout,2.0112E+16,2011,Kent,36
+Roundabout,2.0112E+16,2011,Kent,57
+Roundabout,2.0112E+16,2011,Kent,55
+Roundabout,2.0112E+16,2011,Kent,59
+Roundabout,2.0112E+16,2011,West Sussex,39
+Roundabout,2.0112E+16,2011,West Sussex,23
+Roundabout,2011201150DE2U016,2011,Devon,38
+Roundabout,2011201150JC3H012,2011,Devon,24
+Roundabout,2.0112E+16,2011,Somerset,15
+Roundabout,2.0112E+16,2011,North Somerset,72
+Roundabout,2.0112E+16,2011,Bath and North East Somerset,49
+Roundabout,2.0112E+16,2011,Bath and North East Somerset,46
+Roundabout,2.0112E+16,2011,City of Bristol,24
+Roundabout,2.0112E+16,2011,City of Bristol,35
+Roundabout,2.0112E+16,2011,City of Bristol,58
+Roundabout,2.0112E+16,2011,Gloucestershire,32
+Roundabout,2.0112E+16,2011,Gloucestershire,19
+Roundabout,2.0112E+16,2011,Swindon,54
+Roundabout,2.0112E+16,2011,Swindon,43
+Roundabout,2011201154DC16011,2011,Swindon,36
+Roundabout,20112011551C09344,2011,Poole,61
+Roundabout,20112011551C47071,2011,Poole,24
+Roundabout,20112011551D36163,2011,Dorset,11
+Roundabout,2012201201BS70548,2012,London,29
+Roundabout,2012201201BS70596,2012,London,20
+Roundabout,2012201201CP00219,2012,London,23
+Roundabout,2012201201CP00396,2012,London,76
+Roundabout,2012201201CW10228,2012,London,33
+Roundabout,2012201201CW10422,2012,London,19
+Roundabout,2012201201CW10789,2012,London,16
+Roundabout,2012201201CW11005,2012,London,33
+Roundabout,2012201201CW11397,2012,London,28
+Roundabout,2012201201CW11768,2012,London,26
+Roundabout,2012201201EO40778,2012,London,42
+Roundabout,2012201201FH10322,2012,London,29
+Roundabout,2012201201GD10274,2012,London,32
+Roundabout,2012201201HT20107,2012,London,25
+Roundabout,2012201201HT20212,2012,London,36
+Roundabout,2012201201HT20345,2012,London,30
+Roundabout,2012201201HT20425,2012,London,27
+Roundabout,2012201201HT20803,2012,London,34
+Roundabout,2012201201JC30189,2012,London,46
+Roundabout,2012201201JC30322,2012,London,32
+Roundabout,2012201201JC30336,2012,London,50
+Roundabout,2012201201JC30457,2012,London,37
+Roundabout,2012201201KD50258,2012,London,21
+Roundabout,2012201201KD50274,2012,London,20
+Roundabout,2012201201MM70164,2012,London,24
+Roundabout,2012201201MM70438,2012,London,18
+Roundabout,2012201201MM70508,2012,London,-1
+Roundabout,2012201201MM70687,2012,London,38
+Roundabout,2012201201MM70847,2012,London,42
+Roundabout,2012201201MM71013,2012,London,23
+Roundabout,2012201201MM71015,2012,London,35
+Roundabout,2012201201PL60195,2012,London,33
+Roundabout,2012201201PY20507,2012,London,-1
+Roundabout,2012201201QA10303,2012,London,35
+Roundabout,2012201201QA10322,2012,London,-1
+Roundabout,2012201201RG40423,2012,London,32
+Roundabout,2012201201RY10169,2012,London,42
+Roundabout,2012201201SX20004,2012,London,31
+Roundabout,2012201201SX20413,2012,London,26
+Roundabout,2012201201TA00213,2012,London,30
+Roundabout,2012201201TA00641,2012,London,43
+Roundabout,2012201201TA00707,2012,London,64
+Roundabout,2012201201TB00197,2012,London,34
+Roundabout,2012201201TB00251,2012,London,39
+Roundabout,2012201201TB01099,2012,London,28
+Roundabout,2012201201TW60008,2012,London,46
+Roundabout,2012201201TW60093,2012,London,43
+Roundabout,2012201201TW60140,2012,London,17
+Roundabout,2012201201TW60201,2012,London,51
+Roundabout,2012201201TW60400,2012,London,56
+Roundabout,2012201201TX20320,2012,London,43
+Roundabout,2012201201TX20587,2012,London,29
+Roundabout,2012201201VK30045,2012,London,31
+Roundabout,2012201201VK30166,2012,London,35
+Roundabout,2012201201VK30247,2012,London,41
+Roundabout,2012201201VK30289,2012,London,20
+Roundabout,2012201201VW40012,2012,London,66
+Roundabout,2012201201VW40088,2012,London,23
+Roundabout,2012201201VW40402,2012,London,60
+Roundabout,2012201201VW40410,2012,London,23
+Roundabout,2012201201WW50764,2012,London,27
+Roundabout,2012201201WW50889,2012,London,48
+Roundabout,2012201201XD80950,2012,London,51
+Roundabout,2012201201XH30051,2012,London,39
+Roundabout,2012201201XH30406,2012,London,32
+Roundabout,2012201201ZD30047,2012,London,49
+Roundabout,2.0122E+16,2012,Cumbria,35
+Roundabout,2.0122E+16,2012,Cumbria,43
+Roundabout,2.0122E+16,2012,Cumbria,17
+Roundabout,2012201204AM12070,2012,Blackpool,31
+Roundabout,2012201205BB04177,2012,Merseyside,68
+Roundabout,2012201205DD04640,2012,Merseyside,66
+Roundabout,2012201205FF02227,2012,Merseyside,35
+Roundabout,2012201206A059772,2012,Manchester,36
+Roundabout,2012201206Q059402,2012,Oldham,30
+Roundabout,2.0122E+16,2012,Warrington,25
+Roundabout,2.0122E+16,2012,Cheshire West and Chester,30
+Roundabout,2.0122E+16,2012,Warrington,28
+Roundabout,2.0122E+16,2012,Cheshire West and Chester,55
+Roundabout,2.0122E+16,2012,Warrington,49
+Roundabout,2.0122E+16,2012,Cheshire East,41
+Roundabout,2.0122E+16,2012,Warrington,52
+Roundabout,2.0122E+16,2012,North Tyneside,49
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,52
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,42
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,22
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,35
+Roundabout,2.0122E+16,2012,North Tyneside,45
+Roundabout,2.0122E+16,2012,South Tyneside,31
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,44
+Roundabout,2.0122E+16,2012,Gateshead,39
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,60
+Roundabout,2.0122E+16,2012,North Tyneside,10
+Roundabout,2.0122E+16,2012,South Tyneside,36
+Roundabout,2.0122E+16,2012,South Tyneside,45
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,29
+Roundabout,2.0122E+16,2012,Gateshead,30
+Roundabout,2.0122E+16,2012,South Tyneside,39
+Roundabout,2.0122E+16,2012,North Tyneside,28
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,54
+Roundabout,2.0122E+16,2012,South Tyneside,43
+Roundabout,2.0122E+16,2012,South Tyneside,40
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,56
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,26
+Roundabout,2.0122E+16,2012,South Tyneside,10
+Roundabout,2.0122E+16,2012,South Tyneside,67
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,38
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,58
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,20
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,22
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,14
+Roundabout,2.0122E+16,2012,North Tyneside,52
+Roundabout,2.0122E+16,2012,South Tyneside,48
+Roundabout,2.0122E+16,2012,Newcastle upon Tyne,24
+Roundabout,2.0122E+16,2012,North Tyneside,41
+Roundabout,2012201211ND06252,2012,Durham,41
+Roundabout,2012201211ND10082,2012,Durham,52
+Roundabout,2012201211NI16862,2012,Durham,55
+Roundabout,2.0122E+16,2012,North Yorkshire,30
+Roundabout,2.0122E+16,2012,North Yorkshire,50
+Roundabout,2.0122E+16,2012,York,46
+Roundabout,2.0122E+16,2012,North Yorkshire,48
+Roundabout,2.0122E+16,2012,Leeds,26
+Roundabout,2.0122E+16,2012,Wakefield,44
+Roundabout,2.0122E+16,2012,Leeds,30
+Roundabout,20122012160C01971,2012,East Riding of Yorkshire,47
+Roundabout,20122012160C03301,2012,East Riding of Yorkshire,36
+Roundabout,20122012160D02691,2012,Kingston Upon Hull,23
+Roundabout,2012201220T054702,2012,Birmingham,30
+Roundabout,2012201220W052162,2012,Birmingham,28
+Roundabout,2.0122E+16,2012,Staffordshire,45
+Roundabout,2.0122E+16,2012,Staffordshire,39
+Roundabout,2.0122E+16,2012,Staffordshire,59
+Roundabout,2012201222G200241,2012,Telford and Wrekin,47
+Roundabout,2.0122E+16,2012,Warwickshire,37
+Roundabout,2.0122E+16,2012,Warwickshire,45
+Roundabout,2.0122E+16,2012,Warwickshire,25
+Roundabout,2.0122E+16,2012,Warwickshire,46
+Roundabout,2.0122E+16,2012,Warwickshire,21
+Roundabout,2.0122E+16,2012,Warwickshire,50
+Roundabout,2012201231C093312,2012,Nottingham,26
+Roundabout,2012201231C293512,2012,Nottingham,48
+Roundabout,2012201232B344412,2012,Lincolnshire,37
+Roundabout,2012201232N242812,2012,Lincolnshire,39
+Roundabout,2.0122E+16,2012,Leicestershire,47
+Roundabout,2012201234WD02732,2012,Northamptonshire,40
+Roundabout,2012201234WD21402,2012,Northamptonshire,27
+Roundabout,2012201234WN00452,2012,Northamptonshire,55
+Roundabout,2012201234WN17292,2012,Northamptonshire,28
+Roundabout,2.0122E+16,2012,Cambridgeshire,26
+Roundabout,2.0122E+16,2012,Peterborough,20
+Roundabout,2.0122E+16,2012,Cambridgeshire,23
+Roundabout,2.0122E+16,2012,Cambridgeshire,43
+Roundabout,2.0122E+16,2012,Suffolk,17
+Roundabout,2.0122E+16,2012,Suffolk,60
+Roundabout,20122012400BA0032,2012,Bedford Borough Council,54
+Roundabout,20122012400BA0478,2012,Bedford Borough Council,18
+Roundabout,20122012400CA0756,2012,Luton,75
+Roundabout,201220124100G0492,2012,Hertfordshire,29
+Roundabout,201220124100G0517,2012,Hertfordshire,71
+Roundabout,2012201242I146605,2012,Essex,-1
+Roundabout,2012201242I355611,2012,Southend on Sea,41
+Roundabout,2012201243N054062,2012,Buckinghamshire,63
+Roundabout,2012201243N145082,2012,Buckinghamshire,30
+Roundabout,2012201243N221092,2012,Buckinghamshire,29
+Roundabout,2012201243N293072,2012,Buckinghamshire,45
+Roundabout,2012201243P212082,2012,Oxfordshire,40
+Roundabout,2012201243R044082,2012,Slough,27
+Roundabout,2012201243R128052,2012,Windsor and Maidenhead,-1
+Roundabout,2012201243R209012,2012,Slough,9
+Roundabout,2012201243S105072,2012,Milton Keynes,49
+Roundabout,2012201243W039052,2012,Reading,32
+Roundabout,2012201243W069102,2012,West Berkshire,41
+Roundabout,2012201243W169112,2012,West Berkshire,70
+Roundabout,2.0122E+16,2012,Portsmouth,51
+Roundabout,2.0122E+16,2012,Hampshire,22
+Roundabout,2.0122E+16,2012,Hampshire,43
+Roundabout,2.0122E+16,2012,Portsmouth,21
+Roundabout,2.0122E+16,2012,Southampton ,27
+Roundabout,2.0122E+16,2012,Hampshire,43
+Roundabout,2.0122E+16,2012,Hampshire,56
+Roundabout,2.0122E+16,2012,Southampton ,39
+Roundabout,2.0122E+16,2012,Portsmouth,47
+Roundabout,2.0122E+16,2012,Hampshire,18
+Roundabout,2.0122E+16,2012,Hampshire,50
+Roundabout,2.0122E+16,2012,Hampshire,38
+Roundabout,2.0122E+16,2012,Hampshire,52
+Roundabout,2.0122E+16,2012,Portsmouth,33
+Roundabout,2.0122E+16,2012,Hampshire,43
+Roundabout,2.0122E+16,2012,Surrey,33
+Roundabout,2012201245WO72367,2012,Surrey,16
+Roundabout,2.0122E+16,2012,Kent,39
+Roundabout,2.0122E+16,2012,Kent,43
+Roundabout,2.0122E+16,2012,Brighton and Hove,45
+Roundabout,2.0122E+16,2012,West Sussex,41
+Roundabout,2.0122E+16,2012,West Sussex,30
+Roundabout,2.0122E+16,2012,West Sussex,21
+Roundabout,2.0122E+16,2012,West Sussex,60
+Roundabout,2.0122E+16,2012,West Sussex,31
+Roundabout,2012201250AC3J018,2012,Cornwall and Isles of Scilly,32
+Roundabout,2012201250BS2G011,2012,Cornwall and Isles of Scilly,-1
+Roundabout,2012201250CB2D026,2012,Devon,63
+Roundabout,2012201250DE2D012,2012,Devon,19
+Roundabout,2012201250DE2T013,2012,Devon,38
+Roundabout,2012201250JS2B005,2012,Devon,19
+Roundabout,2012201250JT2R007,2012,Devon,45
+Roundabout,2.0122E+16,2012,City of Bristol,25
+Roundabout,2.0122E+16,2012,North Somerset,46
+Roundabout,2.0122E+16,2012,City of Bristol,24
+Roundabout,2.0122E+16,2012,City of Bristol,19
+Roundabout,2.0122E+16,2012,City of Bristol,-1
+Roundabout,2.0122E+16,2012,City of Bristol,46
+Roundabout,2.0122E+16,2012,City of Bristol,22
+Roundabout,2.0122E+16,2012,Gloucestershire,25
+Roundabout,2.0122E+16,2012,Wiltshire,53
+Roundabout,2012201254B015112,2012,Swindon,33
+Roundabout,20122012552D26415,2012,Dorset,71
+Roundabout,20122012552D38079,2012,Dorset,40

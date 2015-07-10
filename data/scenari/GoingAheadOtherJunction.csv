@@ -1,0 +1,2354 @@
+Scenario,urn,accyr,LAName,Age
+GoingAheadOtherJunction,199901AB00062,1999,London,21
+GoingAheadOtherJunction,199901BS00340,1999,London,35
+GoingAheadOtherJunction,199901CP00469,1999,London,22
+GoingAheadOtherJunction,199901DM00605,1999,London,47
+GoingAheadOtherJunction,199901DM00803,1999,London,16
+GoingAheadOtherJunction,199901DP00406,1999,London,31
+GoingAheadOtherJunction,199901DP00420,1999,London,31
+GoingAheadOtherJunction,199901FH00513,1999,London,61
+GoingAheadOtherJunction,199901GN00512,1999,London,12
+GoingAheadOtherJunction,199901HT00065,1999,London,
+GoingAheadOtherJunction,199901KD00608,1999,London,
+GoingAheadOtherJunction,199901MD00248,1999,London,33
+GoingAheadOtherJunction,199901MM00158,1999,London,7
+GoingAheadOtherJunction,199901MS09120,1999,London,28
+GoingAheadOtherJunction,199901NH00224,1999,London,
+GoingAheadOtherJunction,199901NH00279,1999,London,30
+GoingAheadOtherJunction,199901PY01010,1999,London,38
+GoingAheadOtherJunction,199901RY00383,1999,London,13
+GoingAheadOtherJunction,199901SA00455,1999,Hertfordshire,13
+GoingAheadOtherJunction,199901SC00464,1999,London,32
+GoingAheadOtherJunction,199901TG00099,1999,Surrey,10
+GoingAheadOtherJunction,199901TW00409,1999,London,
+GoingAheadOtherJunction,199901VW00607,1999,London,12
+GoingAheadOtherJunction,199901WA00129,1999,London,6
+GoingAheadOtherJunction,199901XD00118,1999,London,30
+GoingAheadOtherJunction,199901YF00044,1999,London,26
+GoingAheadOtherJunction,199901YR00345,1999,London,14
+GoingAheadOtherJunction,199901YR00542,1999,London,11
+GoingAheadOtherJunction,199901ZN00482,1999,London,13
+GoingAheadOtherJunction,199901ZN00575,1999,London,14
+GoingAheadOtherJunction,1.99903E+12,1999,Cumbria,8
+GoingAheadOtherJunction,199904A035699,1999,Lancashire,66
+GoingAheadOtherJunction,199904A044399,1999,Blackpool,11
+GoingAheadOtherJunction,199904A068099,1999,Blackpool,14
+GoingAheadOtherJunction,199904B039399,1999,Lancashire,7
+GoingAheadOtherJunction,199904D022799,1999,Lancashire,7
+GoingAheadOtherJunction,199904E051799,1999,Blackburn with Darwen,
+GoingAheadOtherJunction,199904F030299,1999,Lancashire,14
+GoingAheadOtherJunction,199904F037299,1999,Lancashire,5
+GoingAheadOtherJunction,199904F053199,1999,Lancashire,11
+GoingAheadOtherJunction,1.99905E+12,1999,Merseyside,9
+GoingAheadOtherJunction,1.99905E+12,1999,Merseyside,11
+GoingAheadOtherJunction,199906J004828,1999,Stockport,8
+GoingAheadOtherJunction,199906L006576,1999,Wigan,35
+GoingAheadOtherJunction,1999079A40278,1999,Cheshire West and Chester,7
+GoingAheadOtherJunction,1999079B20372,1999,Warrington,14
+GoingAheadOtherJunction,1999079C20777,1999,Cheshire West and Chester,6
+GoingAheadOtherJunction,199910C071299,1999,Northumberland,35
+GoingAheadOtherJunction,199910C402799,1999,Northumberland,31
+GoingAheadOtherJunction,199910O318799,1999,South Tyneside,15
+GoingAheadOtherJunction,1.99912E+12,1999,North Yorkshire,5
+GoingAheadOtherJunction,1.99912E+12,1999,York,17
+GoingAheadOtherJunction,1.99912E+12,1999,North Yorkshire,10
+GoingAheadOtherJunction,1.99912E+12,1999,North Yorkshire,40
+GoingAheadOtherJunction,199913AC10999,1999,Leeds,15
+GoingAheadOtherJunction,199913BB18799,1999,Leeds,5
+GoingAheadOtherJunction,199913BB19199,1999,Leeds,18
+GoingAheadOtherJunction,199913CA23299,1999,Leeds,6
+GoingAheadOtherJunction,199913CB24699,1999,Leeds,10
+GoingAheadOtherJunction,199913DA36199,1999,Wakefield,9
+GoingAheadOtherJunction,199913GC28199,1999,Bradford,13
+GoingAheadOtherJunction,199913GC34699,1999,Bradford,8
+GoingAheadOtherJunction,199913HA20899,1999,Bradford,11
+GoingAheadOtherJunction,199914AA00328,1999,Doncaster,47
+GoingAheadOtherJunction,199914AA00402,1999,Doncaster,7
+GoingAheadOtherJunction,199914AA00586,1999,Doncaster,4
+GoingAheadOtherJunction,199914AA00770,1999,Doncaster,76
+GoingAheadOtherJunction,199914BB00532,1999,Doncaster,
+GoingAheadOtherJunction,199914BB00554,1999,Doncaster,10
+GoingAheadOtherJunction,199914BB00603,1999,Doncaster,13
+GoingAheadOtherJunction,199914CC00250,1999,Doncaster,9
+GoingAheadOtherJunction,199914DD00252,1999,Barnsley,
+GoingAheadOtherJunction,199914FF00011,1999,Rotherham,10
+GoingAheadOtherJunction,199914HH01024,1999,Sheffield,14
+GoingAheadOtherJunction,199914KK00173,1999,Sheffield,34
+GoingAheadOtherJunction,199916C038599,1999,East Riding of Yorkshire,9
+GoingAheadOtherJunction,199916C042899,1999,East Riding of Yorkshire,11
+GoingAheadOtherJunction,199916C051699,1999,East Riding of Yorkshire,28
+GoingAheadOtherJunction,199916C056199,1999,East Riding of Yorkshire,12
+GoingAheadOtherJunction,199917H100129,1999,Hartlepool,8
+GoingAheadOtherJunction,199917H100224,1999,Hartlepool,18
+GoingAheadOtherJunction,199917L100147,1999,Redcar and Cleveland,7
+GoingAheadOtherJunction,199917L200089,1999,Redcar and Cleveland,13
+GoingAheadOtherJunction,199917M100281,1999,Middlesbrough,15
+GoingAheadOtherJunction,199917S100276,1999,Stockton on Tees,4
+GoingAheadOtherJunction,199917S200257,1999,Stockton on Tees,34
+GoingAheadOtherJunction,199920D264001,1999,Birmingham,16
+GoingAheadOtherJunction,199920E123201,1999,Birmingham,13
+GoingAheadOtherJunction,199920E189901,1999,Birmingham,7
+GoingAheadOtherJunction,199920H045602,1999,Walsall,8
+GoingAheadOtherJunction,199920H073002,1999,Walsall,4
+GoingAheadOtherJunction,199920H092302,1999,Walsall,9
+GoingAheadOtherJunction,199920L019101,1999,Solihull,57
+GoingAheadOtherJunction,199920M138401,1999,Coventry,9
+GoingAheadOtherJunction,1.99922E+12,1999,Stoke on Trent,36
+GoingAheadOtherJunction,1.99922E+12,1999,Staffordshire,7
+GoingAheadOtherJunction,1.99922E+12,1999,Staffordshire,9
+GoingAheadOtherJunction,199922CG10232,1999,Worcestershire,8
+GoingAheadOtherJunction,199922CJ03137,1999,Worcestershire,9
+GoingAheadOtherJunction,199922CV01284,1999,Worcestershire,19
+GoingAheadOtherJunction,199922CW02872,1999,Worcestershire,10
+GoingAheadOtherJunction,199922EA11290,1999,Herefordshire,25
+GoingAheadOtherJunction,199922GB10450,1999,Telford and Wrekin,13
+GoingAheadOtherJunction,199930A000393,1999,Derbyshire,10
+GoingAheadOtherJunction,199930B000727,1999,Derbyshire,17
+GoingAheadOtherJunction,1999317A20508,1999,Nottinghamshire,13
+GoingAheadOtherJunction,1999317C20041,1999,Nottinghamshire,31
+GoingAheadOtherJunction,1999317C21138,1999,Nottinghamshire,14
+GoingAheadOtherJunction,1999317C40742,1999,Nottingham,34
+GoingAheadOtherJunction,1999317D40299,1999,Nottinghamshire,20
+GoingAheadOtherJunction,1999317D41780,1999,Nottingham,11
+GoingAheadOtherJunction,1999317E20063,1999,Nottinghamshire,13
+GoingAheadOtherJunction,199932C004559,1999,Lincolnshire,11
+GoingAheadOtherJunction,199932C005739,1999,Lincolnshire,13
+GoingAheadOtherJunction,199932D003109,1999,Lincolnshire,20
+GoingAheadOtherJunction,1.99935E+12,1999,Cambridgeshire,37
+GoingAheadOtherJunction,1.99935E+12,1999,Peterborough,9
+GoingAheadOtherJunction,1.99935E+12,1999,Cambridgeshire,51
+GoingAheadOtherJunction,199936N990788,1999,Norfolk,33
+GoingAheadOtherJunction,199936N990826,1999,Norfolk,12
+GoingAheadOtherJunction,199936T990508,1999,Norfolk,50
+GoingAheadOtherJunction,199937B006310,1999,Suffolk,13
+GoingAheadOtherJunction,199937L003449,1999,Suffolk,10
+GoingAheadOtherJunction,199940B308999,1999,Bedford Borough Council,18
+GoingAheadOtherJunction,199940C081399,1999,Luton,20
+GoingAheadOtherJunction,19994100C0091,1999,Hertfordshire,18
+GoingAheadOtherJunction,19994100F0336,1999,Hertfordshire,13
+GoingAheadOtherJunction,19994200A0280,1999,Essex,14
+GoingAheadOtherJunction,19994200C0512,1999,Essex,
+GoingAheadOtherJunction,19994200C0616,1999,Essex,10
+GoingAheadOtherJunction,2.00E+121,1999,Essex,17
+GoingAheadOtherJunction,19994200E0510,1999,Essex,10
+GoingAheadOtherJunction,19994200F0003,1999,Thurrock,12
+GoingAheadOtherJunction,19994200F0323,1999,Thurrock,9
+GoingAheadOtherJunction,19994200G0521,1999,Essex,10
+GoingAheadOtherJunction,19994200G0695,1999,Essex,16
+GoingAheadOtherJunction,19994200G0753,1999,Essex,
+GoingAheadOtherJunction,19994200H0692,1999,Southend on Sea,19
+GoingAheadOtherJunction,19994200J0418,1999,Essex,15
+GoingAheadOtherJunction,199943N083069,1999,Buckinghamshire,10
+GoingAheadOtherJunction,199943P218019,1999,Oxfordshire,35
+GoingAheadOtherJunction,199943P274109,1999,Oxfordshire,11
+GoingAheadOtherJunction,199943P457099,1999,Oxfordshire,45
+GoingAheadOtherJunction,199943S047089,1999,Milton Keynes,12
+GoingAheadOtherJunction,199943S150079,1999,Milton Keynes,17
+GoingAheadOtherJunction,199943S163059,1999,Milton Keynes,12
+GoingAheadOtherJunction,1999440DH0350,1999,Hampshire,16
+GoingAheadOtherJunction,1999440GG0448,1999,Hampshire,11
+GoingAheadOtherJunction,1999440HB0269,1999,Hampshire,12
+GoingAheadOtherJunction,1999440HF0640,1999,Hampshire,17
+GoingAheadOtherJunction,1999440LA0105,1999,Hampshire,14
+GoingAheadOtherJunction,1999440LA0755,1999,Hampshire,23
+GoingAheadOtherJunction,1999440RC0346,1999,Portsmouth,80
+GoingAheadOtherJunction,1999440RC0355,1999,Portsmouth,15
+GoingAheadOtherJunction,1999440RF0110,1999,Portsmouth,25
+GoingAheadOtherJunction,1999440TB0735,1999,Southampton ,15
+GoingAheadOtherJunction,1999440YS0526,1999,Southampton ,5
+GoingAheadOtherJunction,199945ED00170,1999,Surrey,16
+GoingAheadOtherJunction,199945ED00291,1999,Surrey,
+GoingAheadOtherJunction,199945ER00129,1999,Surrey,15
+GoingAheadOtherJunction,199945NA00222,1999,Surrey,25
+GoingAheadOtherJunction,199945NA00509,1999,Surrey,19
+GoingAheadOtherJunction,199945NW00242,1999,Surrey,56
+GoingAheadOtherJunction,199946CT00451,1999,Kent,13
+GoingAheadOtherJunction,199946ME18399,1999,Medway,16
+GoingAheadOtherJunction,199946NK03266,1999,Kent,18
+GoingAheadOtherJunction,199946NK04889,1999,Kent,22
+GoingAheadOtherJunction,199946NK17227,1999,Kent,20
+GoingAheadOtherJunction,199946SK00343,1999,Kent,14
+GoingAheadOtherJunction,199946WK01641,1999,Kent,7
+GoingAheadOtherJunction,199946WK03171,1999,Kent,17
+GoingAheadOtherJunction,199946WK03957,1999,Kent,9
+GoingAheadOtherJunction,199946WK08919,1999,Kent,10
+GoingAheadOtherJunction,199946WL08075,1999,Kent,
+GoingAheadOtherJunction,199946WL10360,1999,Kent,13
+GoingAheadOtherJunction,199947H003213,1999,West Sussex,11
+GoingAheadOtherJunction,199947X002176,1999,West Sussex,59
+GoingAheadOtherJunction,199947X002863,1999,West Sussex,39
+GoingAheadOtherJunction,199947X003326,1999,West Sussex,11
+GoingAheadOtherJunction,199950A312014,1999,Cornwall and Isles of Scilly,6
+GoingAheadOtherJunction,199950A333101,1999,Cornwall and Isles of Scilly,9
+GoingAheadOtherJunction,199950C210554,1999,Devon,10
+GoingAheadOtherJunction,199950F412631,1999,Devon,35
+GoingAheadOtherJunction,199950F444705,1999,Devon,8
+GoingAheadOtherJunction,1.99952E+12,1999,Somerset,7
+GoingAheadOtherJunction,1.99952E+12,1999,City of Bristol,20
+GoingAheadOtherJunction,1.99952E+12,1999,North Somerset,33
+GoingAheadOtherJunction,1.99952E+12,1999,City of Bristol,43
+GoingAheadOtherJunction,1.99952E+12,1999,City of Bristol,46
+GoingAheadOtherJunction,1.99952E+12,1999,City of Bristol,13
+GoingAheadOtherJunction,1.99952E+12,1999,Somerset,13
+GoingAheadOtherJunction,1.99952E+12,1999,City of Bristol,7
+GoingAheadOtherJunction,1.99952E+12,1999,Somerset,14
+GoingAheadOtherJunction,1.99952E+12,1999,Somerset,17
+GoingAheadOtherJunction,1.99952E+12,1999,Bath and North East Somerset,11
+GoingAheadOtherJunction,1.99952E+12,1999,Somerset,48
+GoingAheadOtherJunction,1.99952E+12,1999,Bath and North East Somerset,30
+GoingAheadOtherJunction,1.99952E+12,1999,City of Bristol,34
+GoingAheadOtherJunction,1.99952E+12,1999,Somerset,15
+GoingAheadOtherJunction,199954AH32699,1999,Wiltshire,10
+GoingAheadOtherJunction,199954AM59899,1999,Wiltshire,7
+GoingAheadOtherJunction,199954CD07559,1999,Wiltshire,13
+GoingAheadOtherJunction,199954CM46099,1999,Wiltshire,11
+GoingAheadOtherJunction,199954CT35999,1999,Wiltshire,17
+GoingAheadOtherJunction,199954DN07469,1999,Swindon,13
+GoingAheadOtherJunction,199954DN41899,1999,Swindon,11
+GoingAheadOtherJunction,199954DN57199,1999,Swindon,11
+GoingAheadOtherJunction,199954DS30199,1999,Swindon,37
+GoingAheadOtherJunction,199954DS36699,1999,Swindon,23
+GoingAheadOtherJunction,199954DS37399,1999,Swindon,14
+GoingAheadOtherJunction,1999550P02966,1999,Poole,16
+GoingAheadOtherJunction,19995599W2252,1999,Dorset,14
+GoingAheadOtherJunction,200001BS00124,2000,London,30
+GoingAheadOtherJunction,200001BS00448,2000,London,8
+GoingAheadOtherJunction,200001BS00660,2000,London,
+GoingAheadOtherJunction,200001CP00189,2000,London,33
+GoingAheadOtherJunction,200001CP00226,2000,London,
+GoingAheadOtherJunction,200001DM00691,2000,London,20
+GoingAheadOtherJunction,200001DM01131,2000,London,29
+GoingAheadOtherJunction,200001DM01724,2000,London,26
+GoingAheadOtherJunction,200001EK00558,2000,London,30
+GoingAheadOtherJunction,200001MM00687,2000,London,6
+GoingAheadOtherJunction,200001QK00247,2000,London,53
+GoingAheadOtherJunction,200001RY00360,2000,London,14
+GoingAheadOtherJunction,200001RY00385,2000,London,16
+GoingAheadOtherJunction,200001TX00179,2000,London,41
+GoingAheadOtherJunction,200001VW00417,2000,London,
+GoingAheadOtherJunction,200001XD00083,2000,London,25
+GoingAheadOtherJunction,200001YF00221,2000,Hertfordshire,
+GoingAheadOtherJunction,200001YR00680,2000,London,39
+GoingAheadOtherJunction,200001ZD00820,2000,London,37
+GoingAheadOtherJunction,2.00003E+12,2000,Cumbria,5
+GoingAheadOtherJunction,2.00003E+12,2000,Cumbria,14
+GoingAheadOtherJunction,2.00003E+12,2000,Cumbria,8
+GoingAheadOtherJunction,200004B047400,2000,Lancashire,8
+GoingAheadOtherJunction,200004B054000,2000,Lancashire,6
+GoingAheadOtherJunction,200004B060200,2000,Lancashire,10
+GoingAheadOtherJunction,200004C017600,2000,Lancashire,8
+GoingAheadOtherJunction,200004C075200,2000,Lancashire,17
+GoingAheadOtherJunction,200004C111700,2000,Lancashire,23
+GoingAheadOtherJunction,200004E055100,2000,Blackburn with Darwen,10
+GoingAheadOtherJunction,200004E057400,2000,Blackburn with Darwen,11
+GoingAheadOtherJunction,200004E059300,2000,Blackburn with Darwen,13
+GoingAheadOtherJunction,200004E075000,2000,Lancashire,6
+GoingAheadOtherJunction,200004F001000,2000,Lancashire,40
+GoingAheadOtherJunction,200004F023200,2000,Lancashire,15
+GoingAheadOtherJunction,2.00005E+12,2000,Merseyside,40
+GoingAheadOtherJunction,200006A007757,2000,Manchester,16
+GoingAheadOtherJunction,200006C011239,2000,Manchester,19
+GoingAheadOtherJunction,200006G004687,2000,Tameside,23
+GoingAheadOtherJunction,200006K008408,2000,Bolton,14
+GoingAheadOtherJunction,200006M005125,2000,Trafford,9
+GoingAheadOtherJunction,200006M006194,2000,Trafford,24
+GoingAheadOtherJunction,200006N004949,2000,Bury,10
+GoingAheadOtherJunction,2.00007E+12,2000,Cheshire West and Chester,9
+GoingAheadOtherJunction,2.00007E+12,2000,Cheshire West and Chester,9
+GoingAheadOtherJunction,200010J260700,2000,Gateshead,8
+GoingAheadOtherJunction,2.00012E+12,2000,York,13
+GoingAheadOtherJunction,2.00012E+12,2000,North Yorkshire,8
+GoingAheadOtherJunction,2.00012E+12,2000,North Yorkshire,6
+GoingAheadOtherJunction,2.00012E+12,2000,North Yorkshire,31
+GoingAheadOtherJunction,200014AA00244,2000,Doncaster,6
+GoingAheadOtherJunction,200014GG00910,2000,Rotherham,13
+GoingAheadOtherJunction,200014HH00337,2000,Sheffield,18
+GoingAheadOtherJunction,200014KK00340,2000,Sheffield,33
+GoingAheadOtherJunction,200016A021900,2000,North East Lincolnshire,5
+GoingAheadOtherJunction,200016B050800,2000,North Lincolnshire,13
+GoingAheadOtherJunction,200016C063100,2000,East Riding of Yorkshire,10
+GoingAheadOtherJunction,200016C083000,2000,East Riding of Yorkshire,13
+GoingAheadOtherJunction,200017H100154,2000,Hartlepool,36
+GoingAheadOtherJunction,200017L200121,2000,Redcar and Cleveland,19
+GoingAheadOtherJunction,200020H025101,2000,Walsall,12
+GoingAheadOtherJunction,200020J072801,2000,Dudley,11
+GoingAheadOtherJunction,200020L032001,2000,Solihull,60
+GoingAheadOtherJunction,2.00021E+12,2000,Staffordshire,17
+GoingAheadOtherJunction,2.00021E+12,2000,Staffordshire,
+GoingAheadOtherJunction,200022AA14743,2000,Worcestershire,14
+GoingAheadOtherJunction,200022CF16716,2000,Worcestershire,13
+GoingAheadOtherJunction,200022EA15212,2000,Herefordshire,32
+GoingAheadOtherJunction,200022FA18751,2000,Shropshire,8
+GoingAheadOtherJunction,2.00023E+12,2000,Warwickshire,15
+GoingAheadOtherJunction,200030B000398,2000,Derbyshire,7
+GoingAheadOtherJunction,200030D000463,2000,Derby,12
+GoingAheadOtherJunction,200030D000580,2000,Derby,
+GoingAheadOtherJunction,2000317A20330,2000,Nottinghamshire,6
+GoingAheadOtherJunction,2000317A80738,2000,Nottinghamshire,7
+GoingAheadOtherJunction,2000317E20972,2000,Nottinghamshire,10
+GoingAheadOtherJunction,2.00033E+12,2000,Rutland,40
+GoingAheadOtherJunction,2.00035E+12,2000,Peterborough,3
+GoingAheadOtherJunction,2.00035E+12,2000,Cambridgeshire,11
+GoingAheadOtherJunction,2.00035E+12,2000,Peterborough,12
+GoingAheadOtherJunction,2.00035E+12,2000,Peterborough,13
+GoingAheadOtherJunction,200036N001747,2000,Norfolk,11
+GoingAheadOtherJunction,200036T000004,2000,Norfolk,
+GoingAheadOtherJunction,200036T000005,2000,Norfolk,
+GoingAheadOtherJunction,200037B009058,2000,Suffolk,12
+GoingAheadOtherJunction,200037G006913,2000,Suffolk,14
+GoingAheadOtherJunction,200037L004055,2000,Suffolk,12
+GoingAheadOtherJunction,2000400B02613,2000,Bedford Borough Council,35
+GoingAheadOtherJunction,20004200A0505,2000,Essex,11
+GoingAheadOtherJunction,20004200B0123,2000,Essex,50
+GoingAheadOtherJunction,20004200B0690,2000,Essex,57
+GoingAheadOtherJunction,20004200C0574,2000,Essex,13
+GoingAheadOtherJunction,20004200C0589,2000,Essex,11
+GoingAheadOtherJunction,20004200E0431,2000,Essex,16
+GoingAheadOtherJunction,20004200E0502,2000,Essex,14
+GoingAheadOtherJunction,20004200E0513,2000,Essex,10
+GoingAheadOtherJunction,20004200F0405,2000,Thurrock,9
+GoingAheadOtherJunction,20004200F0415,2000,Thurrock,12
+GoingAheadOtherJunction,20004200F0505,2000,Thurrock,10
+GoingAheadOtherJunction,20004200G0285,2000,Essex,11
+GoingAheadOtherJunction,20004200G0817,2000,Essex,45
+GoingAheadOtherJunction,20004200H0107,2000,Southend on Sea,12
+GoingAheadOtherJunction,20004200H0646,2000,Southend on Sea,42
+GoingAheadOtherJunction,20004200J0542,2000,Essex,49
+GoingAheadOtherJunction,200043P128050,2000,Oxfordshire,7
+GoingAheadOtherJunction,200043P267100,2000,Oxfordshire,15
+GoingAheadOtherJunction,200043S020070,2000,Milton Keynes,14
+GoingAheadOtherJunction,200043S027090,2000,Milton Keynes,21
+GoingAheadOtherJunction,200043S040090,2000,Milton Keynes,14
+GoingAheadOtherJunction,200043S045090,2000,Milton Keynes,9
+GoingAheadOtherJunction,200043S055090,2000,Milton Keynes,30
+GoingAheadOtherJunction,200043S132090,2000,Milton Keynes,20
+GoingAheadOtherJunction,200043S161070,2000,Milton Keynes,39
+GoingAheadOtherJunction,200043S189080,2000,Milton Keynes,52
+GoingAheadOtherJunction,200043S219110,2000,Milton Keynes,15
+GoingAheadOtherJunction,200043W562080,2000,Slough,10
+GoingAheadOtherJunction,2000440AA1353,2000,Hampshire,7
+GoingAheadOtherJunction,2000440DF0076,2000,Hampshire,15
+GoingAheadOtherJunction,2000440DR0083,2000,Hampshire,14
+GoingAheadOtherJunction,2000440JW0288,2000,Hampshire,16
+GoingAheadOtherJunction,2000440KS0210,2000,Portsmouth,28
+GoingAheadOtherJunction,2000440NA0409,2000,Hampshire,23
+GoingAheadOtherJunction,2000440NA0668,2000,Hampshire,34
+GoingAheadOtherJunction,2000440OL0286,2000,Hampshire,8
+GoingAheadOtherJunction,2000440RC0378,2000,Portsmouth,15
+GoingAheadOtherJunction,2000440RF0109,2000,Portsmouth,55
+GoingAheadOtherJunction,200045ED00162,2000,Surrey,16
+GoingAheadOtherJunction,200045ER00005,2000,Surrey,29
+GoingAheadOtherJunction,200045NC00101,2000,Surrey,50
+GoingAheadOtherJunction,200045NC00213,2000,Surrey,15
+GoingAheadOtherJunction,200045NC00392,2000,Surrey,
+GoingAheadOtherJunction,200045NW00061,2000,Surrey,14
+GoingAheadOtherJunction,200045WF00218,2000,Surrey,36
+GoingAheadOtherJunction,200045WF00352,2000,Surrey,
+GoingAheadOtherJunction,200045WG00257,2000,Surrey,27
+GoingAheadOtherJunction,200046MA14494,2000,Kent,
+GoingAheadOtherJunction,200046ME00243,2000,Medway,13
+GoingAheadOtherJunction,200046NK15842,2000,Kent,11
+GoingAheadOtherJunction,200046SW13451,2000,Kent,7
+GoingAheadOtherJunction,200046WK15362,2000,Kent,12
+GoingAheadOtherJunction,200046WK26772,2000,Kent,13
+GoingAheadOtherJunction,200046WL23929,2000,Kent,16
+GoingAheadOtherJunction,200047C006335,2000,Brighton and Hove,27
+GoingAheadOtherJunction,200047C129875,2000,Brighton and Hove,43
+GoingAheadOtherJunction,200047H003922,2000,West Sussex,12
+GoingAheadOtherJunction,200047T004694,2000,East Sussex,22
+GoingAheadOtherJunction,200047X004549,2000,West Sussex,
+GoingAheadOtherJunction,200047X126844,2000,West Sussex,44
+GoingAheadOtherJunction,200047Y129677,2000,West Sussex,49
+GoingAheadOtherJunction,200050A224251,2000,Cornwall and Isles of Scilly,50
+GoingAheadOtherJunction,200050A333479,2000,Cornwall and Isles of Scilly,15
+GoingAheadOtherJunction,200050C215890,2000,Devon,39
+GoingAheadOtherJunction,200050E311587,2000,Plymouth,13
+GoingAheadOtherJunction,200050F214055,2000,Torbay,10
+GoingAheadOtherJunction,2.00052E+12,2000,Bath and North East Somerset,34
+GoingAheadOtherJunction,2.00052E+12,2000,Bath and North East Somerset,26
+GoingAheadOtherJunction,2.00052E+12,2000,City of Bristol,10
+GoingAheadOtherJunction,2.00052E+12,2000,Bath and North East Somerset,11
+GoingAheadOtherJunction,2.00052E+12,2000,City of Bristol,15
+GoingAheadOtherJunction,2.00052E+12,2000,North Somerset,14
+GoingAheadOtherJunction,2.00052E+12,2000,City of Bristol,31
+GoingAheadOtherJunction,2.00052E+12,2000,Somerset,40
+GoingAheadOtherJunction,2.00052E+12,2000,Somerset,37
+GoingAheadOtherJunction,200052G636066,2000,Somerset,12
+GoingAheadOtherJunction,2000530AI2945,2000,Gloucestershire,12
+GoingAheadOtherJunction,200054AP33500,2000,Wiltshire,8
+GoingAheadOtherJunction,200054CE30400,2000,Wiltshire,21
+GoingAheadOtherJunction,200054CO28400,2000,Wiltshire,15
+GoingAheadOtherJunction,200054CR16900,2000,Wiltshire,8
+GoingAheadOtherJunction,200054CT22900,2000,Wiltshire,9
+GoingAheadOtherJunction,200054DN30800,2000,Swindon,9
+GoingAheadOtherJunction,200054DN31500,2000,Swindon,10
+GoingAheadOtherJunction,200054DN56400,2000,Swindon,9
+GoingAheadOtherJunction,2000550B00721,2000,Bournemouth,18
+GoingAheadOtherJunction,2000550E03149,2000,Dorset,39
+GoingAheadOtherJunction,2000550E05177,2000,Dorset,7
+GoingAheadOtherJunction,200101DM00891,2001,London,37
+GoingAheadOtherJunction,200101GD00523,2001,London,31
+GoingAheadOtherJunction,200101JC00616,2001,London,14
+GoingAheadOtherJunction,200101KG00375,2001,London,16
+GoingAheadOtherJunction,200101KO01180,2001,London,41
+GoingAheadOtherJunction,200101MM00944,2001,London,8
+GoingAheadOtherJunction,200101QK00071,2001,London,31
+GoingAheadOtherJunction,200101YE00209,2001,London,55
+GoingAheadOtherJunction,200101YR00169,2001,London,18
+GoingAheadOtherJunction,2.00103E+12,2001,Cumbria,15
+GoingAheadOtherJunction,200104A004401,2001,Blackpool,14
+GoingAheadOtherJunction,200104A060401,2001,Lancashire,44
+GoingAheadOtherJunction,200104A078401,2001,Lancashire,10
+GoingAheadOtherJunction,200104B044701,2001,Lancashire,6
+GoingAheadOtherJunction,200104C062401,2001,Lancashire,59
+GoingAheadOtherJunction,200104C083701,2001,Lancashire,13
+GoingAheadOtherJunction,200104C101301,2001,Lancashire,43
+GoingAheadOtherJunction,200104E014601,2001,Lancashire,10
+GoingAheadOtherJunction,200104E054401,2001,Blackburn with Darwen,44
+GoingAheadOtherJunction,200104F003901,2001,Lancashire,8
+GoingAheadOtherJunction,2.00105E+12,2001,Merseyside,9
+GoingAheadOtherJunction,2.00105E+12,2001,Merseyside,8
+GoingAheadOtherJunction,2.00105E+12,2001,Merseyside,12
+GoingAheadOtherJunction,2.00105E+12,2001,Merseyside,18
+GoingAheadOtherJunction,200106K010685,2001,Bolton,16
+GoingAheadOtherJunction,200106K010704,2001,Bolton,11
+GoingAheadOtherJunction,200106P008861,2001,Rochdale,13
+GoingAheadOtherJunction,2.00112E+12,2001,North Yorkshire,12
+GoingAheadOtherJunction,2.00113E+12,2001,Bradford,14
+GoingAheadOtherJunction,2.00113E+12,2001,Calderdale,25
+GoingAheadOtherJunction,2.00113E+12,2001,Calderdale,10
+GoingAheadOtherJunction,2.00113E+12,2001,Leeds,20
+GoingAheadOtherJunction,2.00113E+12,2001,Bradford,13
+GoingAheadOtherJunction,2.00113E+12,2001,Kirklees,11
+GoingAheadOtherJunction,2.00113E+12,2001,Leeds,29
+GoingAheadOtherJunction,2.00113E+12,2001,Calderdale,15
+GoingAheadOtherJunction,2.00113E+12,2001,Leeds,34
+GoingAheadOtherJunction,2.00113E+12,2001,Bradford,13
+GoingAheadOtherJunction,2.00113E+12,2001,Leeds,15
+GoingAheadOtherJunction,200114AA00632,2001,Doncaster,41
+GoingAheadOtherJunction,200114AA00691,2001,Doncaster,15
+GoingAheadOtherJunction,200114CC00372,2001,Doncaster,9
+GoingAheadOtherJunction,200114CC00561,2001,Doncaster,
+GoingAheadOtherJunction,200114GG00745,2001,Rotherham,14
+GoingAheadOtherJunction,200114GG00757,2001,Rotherham,11
+GoingAheadOtherJunction,200114HH00738,2001,Sheffield,14
+GoingAheadOtherJunction,200114KK00148,2001,Sheffield,12
+GoingAheadOtherJunction,200116B031901,2001,North Lincolnshire,6
+GoingAheadOtherJunction,200116C019401,2001,East Riding of Yorkshire,32
+GoingAheadOtherJunction,200117S200148,2001,Stockton on Tees,14
+GoingAheadOtherJunction,200120H077402,2001,Walsall,15
+GoingAheadOtherJunction,2.00121E+12,2001,Stoke on Trent,49
+GoingAheadOtherJunction,2.00121E+12,2001,Stoke on Trent,6
+GoingAheadOtherJunction,200122BB30411,2001,Worcestershire,11
+GoingAheadOtherJunction,200122CA23774,2001,Worcestershire,28
+GoingAheadOtherJunction,200122CA25801,2001,Worcestershire,24
+GoingAheadOtherJunction,200122CD22488,2001,Worcestershire,9
+GoingAheadOtherJunction,200130B000423,2001,Derbyshire,11
+GoingAheadOtherJunction,20013102A0921,2001,Nottinghamshire,11
+GoingAheadOtherJunction,20013102D1035,2001,Nottingham,6
+GoingAheadOtherJunction,20013102E1071,2001,Nottinghamshire,16
+GoingAheadOtherJunction,20013104B1396,2001,Nottingham,15
+GoingAheadOtherJunction,20013104C1962,2001,Nottingham,26
+GoingAheadOtherJunction,20013104D2225,2001,Nottinghamshire,12
+GoingAheadOtherJunction,20013104D2474,2001,Nottingham,18
+GoingAheadOtherJunction,20013108E1388,2001,Nottinghamshire,14
+GoingAheadOtherJunction,200132D072901,2001,Lincolnshire,15
+GoingAheadOtherJunction,200132D135701,2001,Lincolnshire,8
+GoingAheadOtherJunction,2.00133E+12,2001,Leicestershire,12
+GoingAheadOtherJunction,2.00133E+12,2001,Leicestershire,12
+GoingAheadOtherJunction,2.00135E+12,2001,Peterborough,13
+GoingAheadOtherJunction,2.00135E+12,2001,Peterborough,7
+GoingAheadOtherJunction,2.00135E+12,2001,Peterborough,7
+GoingAheadOtherJunction,2.00135E+12,2001,Cambridgeshire,14
+GoingAheadOtherJunction,2.00135E+12,2001,Cambridgeshire,10
+GoingAheadOtherJunction,2.00135E+12,2001,Peterborough,36
+GoingAheadOtherJunction,200136N011600,2001,Norfolk,20
+GoingAheadOtherJunction,200137B011045,2001,Suffolk,6
+GoingAheadOtherJunction,200137B011892,2001,Suffolk,14
+GoingAheadOtherJunction,200137B012401,2001,Suffolk,
+GoingAheadOtherJunction,200137G008170,2001,Suffolk,13
+GoingAheadOtherJunction,200137G009086,2001,Suffolk,26
+GoingAheadOtherJunction,200137G009734,2001,Suffolk,11
+GoingAheadOtherJunction,200137L006000,2001,Suffolk,13
+GoingAheadOtherJunction,200137L006182,2001,Suffolk,7
+GoingAheadOtherJunction,2001400C01630,2001,Luton,10
+GoingAheadOtherJunction,2001400C01754,2001,Luton,
+GoingAheadOtherJunction,20014100A1248,2001,Hertfordshire,12
+GoingAheadOtherJunction,20014200A0576,2001,Essex,
+GoingAheadOtherJunction,20014200A0669,2001,Essex,8
+GoingAheadOtherJunction,20014200D0173,2001,Essex,7
+GoingAheadOtherJunction,20014200E0318,2001,Essex,
+GoingAheadOtherJunction,20014200F0348,2001,Thurrock,6
+GoingAheadOtherJunction,20014200H0325,2001,Southend on Sea,10
+GoingAheadOtherJunction,20014200H0409,2001,Southend on Sea,12
+GoingAheadOtherJunction,20014200H0443,2001,Southend on Sea,
+GoingAheadOtherJunction,200143S026061,2001,Milton Keynes,6
+GoingAheadOtherJunction,200143S046051,2001,Milton Keynes,12
+GoingAheadOtherJunction,200143W284081,2001,Reading,9
+GoingAheadOtherJunction,200143W447051,2001,Reading,21
+GoingAheadOtherJunction,200143W477021,2001,Reading,14
+GoingAheadOtherJunction,2001440BB0574,2001,Hampshire,35
+GoingAheadOtherJunction,2001440BB0604,2001,Hampshire,13
+GoingAheadOtherJunction,2001440BB0882,2001,Hampshire,10
+GoingAheadOtherJunction,2001440BB1431,2001,Hampshire,29
+GoingAheadOtherJunction,2001440DT0318,2001,Hampshire,14
+GoingAheadOtherJunction,2001440HF0555,2001,Hampshire,33
+GoingAheadOtherJunction,2001440JH0423,2001,Hampshire,9
+GoingAheadOtherJunction,2001440KK0126,2001,Portsmouth,21
+GoingAheadOtherJunction,2001440LA0123,2001,Hampshire,13
+GoingAheadOtherJunction,2001440SP0586,2001,Southampton ,55
+GoingAheadOtherJunction,2001440SY0010,2001,Southampton ,31
+GoingAheadOtherJunction,2.00145E+12,2001,Surrey,13
+GoingAheadOtherJunction,2.00145E+12,2001,Surrey,
+GoingAheadOtherJunction,200145EM06455,2001,Surrey,58
+GoingAheadOtherJunction,200145EM13046,2001,Surrey,12
+GoingAheadOtherJunction,200145ES13309,2001,Surrey,
+GoingAheadOtherJunction,200145NW09453,2001,Surrey,
+GoingAheadOtherJunction,200146MA42811,2001,Kent,13
+GoingAheadOtherJunction,200146NK40535,2001,Kent,
+GoingAheadOtherJunction,200146NK41292,2001,Kent,
+GoingAheadOtherJunction,200146NK43849,2001,Kent,15
+GoingAheadOtherJunction,200146NK44583,2001,Kent,10
+GoingAheadOtherJunction,200146SW35164,2001,Kent,62
+GoingAheadOtherJunction,200146TH40676,2001,Kent,15
+GoingAheadOtherJunction,200147C135896,2001,Brighton and Hove,74
+GoingAheadOtherJunction,200147C138630,2001,Brighton and Hove,11
+GoingAheadOtherJunction,200147C139876,2001,Brighton and Hove,16
+GoingAheadOtherJunction,200147N138155,2001,West Sussex,35
+GoingAheadOtherJunction,200147X138823,2001,West Sussex,11
+GoingAheadOtherJunction,200147X142017,2001,West Sussex,49
+GoingAheadOtherJunction,200150A333117,2001,Cornwall and Isles of Scilly,17
+GoingAheadOtherJunction,200150A621563,2001,Cornwall and Isles of Scilly,8
+GoingAheadOtherJunction,200150B313779,2001,Cornwall and Isles of Scilly,50
+GoingAheadOtherJunction,200150D216125,2001,Devon,12
+GoingAheadOtherJunction,200150E612556,2001,Devon,13
+GoingAheadOtherJunction,200150F215072,2001,Torbay,11
+GoingAheadOtherJunction,200150F311871,2001,Torbay,16
+GoingAheadOtherJunction,2.00152E+12,2001,City of Bristol,10
+GoingAheadOtherJunction,2.00152E+12,2001,Bath and North East Somerset,13
+GoingAheadOtherJunction,2.00152E+12,2001,City of Bristol,32
+GoingAheadOtherJunction,2.00152E+12,2001,City of Bristol,9
+GoingAheadOtherJunction,2.00152E+12,2001,City of Bristol,33
+GoingAheadOtherJunction,2.00152E+12,2001,Bath and North East Somerset,30
+GoingAheadOtherJunction,2.00152E+12,2001,City of Bristol,18
+GoingAheadOtherJunction,2.00152E+12,2001,City of Bristol,9
+GoingAheadOtherJunction,2.00152E+12,2001,City of Bristol,16
+GoingAheadOtherJunction,2.00152E+12,2001,South Gloucestershire,11
+GoingAheadOtherJunction,2.00152E+12,2001,City of Bristol,30
+GoingAheadOtherJunction,2.00152E+12,2001,Somerset,7
+GoingAheadOtherJunction,2.00152E+12,2001,Somerset,12
+GoingAheadOtherJunction,2.00152E+12,2001,Somerset,11
+GoingAheadOtherJunction,2.00152E+12,2001,Somerset,13
+GoingAheadOtherJunction,2.00152E+12,2001,Somerset,7
+GoingAheadOtherJunction,200152F302877,2001,Somerset,12
+GoingAheadOtherJunction,200152FW75639,2001,Somerset,10
+GoingAheadOtherJunction,200152G836407,2001,Somerset,25
+GoingAheadOtherJunction,200152G995717,2001,Somerset,21
+GoingAheadOtherJunction,2001530AI2219,2001,Gloucestershire,20
+GoingAheadOtherJunction,200154AM38801,2001,Wiltshire,20
+GoingAheadOtherJunction,200154CD28801,2001,Wiltshire,41
+GoingAheadOtherJunction,200154DN51301,2001,Swindon,14
+GoingAheadOtherJunction,200154DN68901,2001,Swindon,53
+GoingAheadOtherJunction,200154DS53301,2001,Swindon,23
+GoingAheadOtherJunction,200201BS00351,2002,London,14
+GoingAheadOtherJunction,200201BS00645,2002,London,42
+GoingAheadOtherJunction,200201CP00131,2002,London,32
+GoingAheadOtherJunction,200201FH00463,2002,London,38
+GoingAheadOtherJunction,200201GD00926,2002,London,
+GoingAheadOtherJunction,200201GD01103,2002,London,48
+GoingAheadOtherJunction,200201JC00374,2002,London,20
+GoingAheadOtherJunction,200201PL00633,2002,London,10
+GoingAheadOtherJunction,200201PL00673,2002,London,7
+GoingAheadOtherJunction,200201QA00575,2002,London,7
+GoingAheadOtherJunction,200201SX00924,2002,London,22
+GoingAheadOtherJunction,200201YR00642,2002,London,13
+GoingAheadOtherJunction,200201ZD00706,2002,London,
+GoingAheadOtherJunction,200201ZD00745,2002,London,27
+GoingAheadOtherJunction,2.00203E+12,2002,Cumbria,17
+GoingAheadOtherJunction,2.00203E+12,2002,Cumbria,16
+GoingAheadOtherJunction,2.00203E+12,2002,Cumbria,40
+GoingAheadOtherJunction,200204A025502,2002,Blackpool,6
+GoingAheadOtherJunction,200204B031402,2002,Lancashire,17
+GoingAheadOtherJunction,200204B083002,2002,Lancashire,43
+GoingAheadOtherJunction,200204C046302,2002,Lancashire,34
+GoingAheadOtherJunction,200204E036902,2002,Blackburn with Darwen,6
+GoingAheadOtherJunction,200204E037702,2002,Blackburn with Darwen,7
+GoingAheadOtherJunction,200204E076102,2002,Lancashire,32
+GoingAheadOtherJunction,200204E100202,2002,Blackburn with Darwen,52
+GoingAheadOtherJunction,200204F011802,2002,Lancashire,11
+GoingAheadOtherJunction,200204F038902,2002,Lancashire,13
+GoingAheadOtherJunction,200204F061202,2002,Lancashire,9
+GoingAheadOtherJunction,2.00205E+12,2002,Merseyside,36
+GoingAheadOtherJunction,2.00205E+12,2002,Merseyside,12
+GoingAheadOtherJunction,200206F011001,2002,Salford,9
+GoingAheadOtherJunction,200206J011377,2002,Stockport,33
+GoingAheadOtherJunction,200206K012412,2002,Bolton,26
+GoingAheadOtherJunction,200206K012800,2002,Bolton,13
+GoingAheadOtherJunction,200206K013193,2002,Bolton,7
+GoingAheadOtherJunction,200206N008015,2002,Bury,18
+GoingAheadOtherJunction,200206P010110,2002,Rochdale,16
+GoingAheadOtherJunction,200206Q010012,2002,Oldham,11
+GoingAheadOtherJunction,200206Q010279,2002,Oldham,8
+GoingAheadOtherJunction,2.00207E+12,2002,Warrington,13
+GoingAheadOtherJunction,200211CH14310,2002,Durham,5
+GoingAheadOtherJunction,200211DJ33300,2002,Darlington,14
+GoingAheadOtherJunction,2.00212E+12,2002,North Yorkshire,4
+GoingAheadOtherJunction,2.00212E+12,2002,York,50
+GoingAheadOtherJunction,2.00212E+12,2002,North Yorkshire,50
+GoingAheadOtherJunction,2.00212E+12,2002,York,6
+GoingAheadOtherJunction,2.00212E+12,2002,North Yorkshire,7
+GoingAheadOtherJunction,2.00212E+12,2002,York,9
+GoingAheadOtherJunction,2.00213E+12,2002,Bradford,14
+GoingAheadOtherJunction,2.00213E+12,2002,Leeds,5
+GoingAheadOtherJunction,2.00213E+12,2002,Kirklees,43
+GoingAheadOtherJunction,2.00213E+12,2002,Wakefield,42
+GoingAheadOtherJunction,2.00213E+12,2002,Leeds,26
+GoingAheadOtherJunction,2.00213E+12,2002,Bradford,8
+GoingAheadOtherJunction,2.00213E+12,2002,Bradford,32
+GoingAheadOtherJunction,2.00213E+12,2002,Kirklees,11
+GoingAheadOtherJunction,2.00213E+12,2002,Calderdale,37
+GoingAheadOtherJunction,2.00213E+12,2002,Leeds,30
+GoingAheadOtherJunction,200214BB00463,2002,Doncaster,74
+GoingAheadOtherJunction,200214EE00438,2002,Barnsley,11
+GoingAheadOtherJunction,200214GG00016,2002,Rotherham,13
+GoingAheadOtherJunction,200214HH00377,2002,Sheffield,36
+GoingAheadOtherJunction,200214II00539,2002,Sheffield,19
+GoingAheadOtherJunction,200214KK00878,2002,Sheffield,11
+GoingAheadOtherJunction,200214KK00928,2002,Sheffield,12
+GoingAheadOtherJunction,200216B046202,2002,North Lincolnshire,27
+GoingAheadOtherJunction,200216C066602,2002,East Riding of Yorkshire,14
+GoingAheadOtherJunction,200216D065002,2002,Kingston Upon Hull,36
+GoingAheadOtherJunction,2002170L31842,2002,Redcar and Cleveland,8
+GoingAheadOtherJunction,200217L200135,2002,Redcar and Cleveland,13
+GoingAheadOtherJunction,200217S200132,2002,Stockton on Tees,11
+GoingAheadOtherJunction,200222CG27870,2002,Worcestershire,13
+GoingAheadOtherJunction,200222CG28236,2002,Worcestershire,9
+GoingAheadOtherJunction,200222CG29244,2002,Worcestershire,15
+GoingAheadOtherJunction,200222EA22638,2002,Herefordshire,15
+GoingAheadOtherJunction,200222EB20672,2002,Herefordshire,7
+GoingAheadOtherJunction,200222EB23059,2002,Herefordshire,9
+GoingAheadOtherJunction,200222FA30171,2002,Shropshire,14
+GoingAheadOtherJunction,200222FA30561,2002,Shropshire,15
+GoingAheadOtherJunction,200222GA26047,2002,Telford and Wrekin,29
+GoingAheadOtherJunction,2.00223E+12,2002,Warwickshire,14
+GoingAheadOtherJunction,20023102D0316,2002,Nottinghamshire,6
+GoingAheadOtherJunction,20023102D2548,2002,Nottinghamshire,12
+GoingAheadOtherJunction,200232C111802,2002,Lincolnshire,14
+GoingAheadOtherJunction,2.00233E+12,2002,Leicestershire,11
+GoingAheadOtherJunction,2.00235E+12,2002,Peterborough,11
+GoingAheadOtherJunction,2.00235E+12,2002,Peterborough,29
+GoingAheadOtherJunction,2.00235E+12,2002,Peterborough,3
+GoingAheadOtherJunction,2.00235E+12,2002,Cambridgeshire,10
+GoingAheadOtherJunction,2.00235E+12,2002,Peterborough,19
+GoingAheadOtherJunction,2.00235E+12,2002,Peterborough,13
+GoingAheadOtherJunction,2.00235E+12,2002,Cambridgeshire,7
+GoingAheadOtherJunction,2.00235E+12,2002,Cambridgeshire,17
+GoingAheadOtherJunction,2.00236E+12,2002,Norfolk,26
+GoingAheadOtherJunction,2.00236E+12,2002,Norfolk,19
+GoingAheadOtherJunction,200236K020438,2002,Norfolk,52
+GoingAheadOtherJunction,200236T020247,2002,Norfolk,19
+GoingAheadOtherJunction,200237L006674,2002,Suffolk,16
+GoingAheadOtherJunction,200237L007619,2002,Suffolk,13
+GoingAheadOtherJunction,2002400D03183,2002,Central Bedfordshire,6
+GoingAheadOtherJunction,20024200A0286,2002,Essex,12
+GoingAheadOtherJunction,20024200B0510,2002,Essex,8
+GoingAheadOtherJunction,20024200B0615,2002,Essex,13
+GoingAheadOtherJunction,20024200C0748,2002,Essex,53
+GoingAheadOtherJunction,2.00E+305,2002,Essex,
+GoingAheadOtherJunction,20024200F0202,2002,Thurrock,10
+GoingAheadOtherJunction,20024200F0402,2002,Thurrock,31
+GoingAheadOtherJunction,20024200F0416,2002,Thurrock,
+GoingAheadOtherJunction,20024200G0653,2002,Essex,
+GoingAheadOtherJunction,20024200G0713,2002,Essex,16
+GoingAheadOtherJunction,20024200H0466,2002,Southend on Sea,21
+GoingAheadOtherJunction,200243P197042,2002,Oxfordshire,14
+GoingAheadOtherJunction,200243P350012,2002,Oxfordshire,
+GoingAheadOtherJunction,2002440AA0727,2002,Hampshire,19
+GoingAheadOtherJunction,2002440AA1997,2002,Hampshire,12
+GoingAheadOtherJunction,2002440DH0149,2002,Hampshire,10
+GoingAheadOtherJunction,2002440DT0212,2002,Hampshire,32
+GoingAheadOtherJunction,2002440KK1359,2002,Portsmouth,14
+GoingAheadOtherJunction,2002440KK2692,2002,Portsmouth,63
+GoingAheadOtherJunction,2002440LA0706,2002,Hampshire,7
+GoingAheadOtherJunction,2002440LR0325,2002,Hampshire,57
+GoingAheadOtherJunction,2002440ST0668,2002,Southampton ,14
+GoingAheadOtherJunction,2002440SY0420,2002,Southampton ,14
+GoingAheadOtherJunction,2002440SY0735,2002,Southampton ,42
+GoingAheadOtherJunction,200245RE27345,2002,Surrey,46
+GoingAheadOtherJunction,200245RE29913,2002,Surrey,13
+GoingAheadOtherJunction,200245RN25352,2002,Surrey,55
+GoingAheadOtherJunction,200245RS26942,2002,Surrey,51
+GoingAheadOtherJunction,200245RW20054,2002,Surrey,
+GoingAheadOtherJunction,200245RW20416,2002,Surrey,47
+GoingAheadOtherJunction,2.00247E+12,2002,Medway,39
+GoingAheadOtherJunction,200246CT60475,2002,Kent,13
+GoingAheadOtherJunction,200246CT63468,2002,Kent,33
+GoingAheadOtherJunction,200246NK61418,2002,Kent,14
+GoingAheadOtherJunction,200247K154831,2002,West Sussex,13
+GoingAheadOtherJunction,200247Y146278,2002,West Sussex,14
+GoingAheadOtherJunction,200250A413351,2002,Cornwall and Isles of Scilly,50
+GoingAheadOtherJunction,200250C411694,2002,Devon,55
+GoingAheadOtherJunction,200250D210415,2002,Devon,16
+GoingAheadOtherJunction,200250D214961,2002,Devon,14
+GoingAheadOtherJunction,200250D422753,2002,Devon,11
+GoingAheadOtherJunction,200250E411593,2002,Plymouth,6
+GoingAheadOtherJunction,200250F415791,2002,Devon,12
+GoingAheadOtherJunction,2.00252E+12,2002,South Gloucestershire,5
+GoingAheadOtherJunction,2.00252E+12,2002,North Somerset,16
+GoingAheadOtherJunction,2.00252E+12,2002,Somerset,11
+GoingAheadOtherJunction,2.00252E+12,2002,Bath and North East Somerset,46
+GoingAheadOtherJunction,2.00252E+12,2002,Somerset,13
+GoingAheadOtherJunction,2.00252E+12,2002,Somerset,10
+GoingAheadOtherJunction,2.00252E+12,2002,Somerset,32
+GoingAheadOtherJunction,2.00252E+12,2002,Somerset,18
+GoingAheadOtherJunction,200254AZ48602,2002,Wiltshire,10
+GoingAheadOtherJunction,200254CB39102,2002,Wiltshire,13
+GoingAheadOtherJunction,200254CP49102,2002,Wiltshire,17
+GoingAheadOtherJunction,200254CR54602,2002,Wiltshire,16
+GoingAheadOtherJunction,2002552W04709,2002,Dorset,11
+GoingAheadOtherJunction,200301BS00161,2003,London,29
+GoingAheadOtherJunction,200301CP00279,2003,London,26
+GoingAheadOtherJunction,200301GD00321,2003,London,46
+GoingAheadOtherJunction,200301KG00563,2003,London,
+GoingAheadOtherJunction,200301LX00980,2003,London,14
+GoingAheadOtherJunction,200301LX01216,2003,London,22
+GoingAheadOtherJunction,200301MM00602,2003,London,28
+GoingAheadOtherJunction,200301MM00855,2003,London,6
+GoingAheadOtherJunction,200301PL00291,2003,London,40
+GoingAheadOtherJunction,200301XS00357,2003,London,28
+GoingAheadOtherJunction,200301ZD00091,2003,London,55
+GoingAheadOtherJunction,200301ZD00232,2003,London,13
+GoingAheadOtherJunction,200301ZD00885,2003,London,15
+GoingAheadOtherJunction,200301ZT00334,2003,London,12
+GoingAheadOtherJunction,2.00303E+12,2003,Cumbria,16
+GoingAheadOtherJunction,200304A037503,2003,Lancashire,41
+GoingAheadOtherJunction,200304B056903,2003,Lancashire,9
+GoingAheadOtherJunction,200304D019303,2003,Lancashire,16
+GoingAheadOtherJunction,200304E014303,2003,Blackburn with Darwen,12
+GoingAheadOtherJunction,200304E057803,2003,Blackburn with Darwen,42
+GoingAheadOtherJunction,200304E060403,2003,Lancashire,6
+GoingAheadOtherJunction,200304E064503,2003,Lancashire,18
+GoingAheadOtherJunction,200304E088603,2003,Blackburn with Darwen,17
+GoingAheadOtherJunction,200304F056303,2003,Lancashire,24
+GoingAheadOtherJunction,200305AW00697,2003,Merseyside,17
+GoingAheadOtherJunction,200305AW00940,2003,Merseyside,12
+GoingAheadOtherJunction,200305BS00267,2003,Merseyside,31
+GoingAheadOtherJunction,200305BS00925,2003,Merseyside,9
+GoingAheadOtherJunction,200305BS01445,2003,Merseyside,12
+GoingAheadOtherJunction,200305BS02019,2003,Merseyside,72
+GoingAheadOtherJunction,200305DH00705,2003,Merseyside,11
+GoingAheadOtherJunction,200305ET02242,2003,Merseyside,22
+GoingAheadOtherJunction,200306A015508,2003,Manchester,37
+GoingAheadOtherJunction,200306G010356,2003,Tameside,9
+GoingAheadOtherJunction,200306G011572,2003,Tameside,30
+GoingAheadOtherJunction,200306J013408,2003,Stockport,13
+GoingAheadOtherJunction,200306L015356,2003,Wigan,5
+GoingAheadOtherJunction,200306L016130,2003,Wigan,13
+GoingAheadOtherJunction,200306M012230,2003,Trafford,19
+GoingAheadOtherJunction,200306M012342,2003,Trafford,30
+GoingAheadOtherJunction,200306Q012567,2003,Oldham,22
+GoingAheadOtherJunction,2.00307E+12,2003,Cheshire West and Chester,11
+GoingAheadOtherJunction,2.00307E+12,2003,Warrington,17
+GoingAheadOtherJunction,2.0031E+12,2003,South Tyneside,14
+GoingAheadOtherJunction,2.0031E+12,2003,Gateshead,46
+GoingAheadOtherJunction,2.0031E+12,2003,South Tyneside,35
+GoingAheadOtherJunction,2.0031E+12,2003,Northumberland,15
+GoingAheadOtherJunction,2.0031E+12,2003,North Tyneside,14
+GoingAheadOtherJunction,200311AA11460,2003,Durham,8
+GoingAheadOtherJunction,200311CH09570,2003,Durham,7
+GoingAheadOtherJunction,200311DJ22400,2003,Darlington,12
+GoingAheadOtherJunction,2.00312E+12,2003,North Yorkshire,17
+GoingAheadOtherJunction,2.00312E+12,2003,York,13
+GoingAheadOtherJunction,2.00312E+12,2003,North Yorkshire,6
+GoingAheadOtherJunction,2.00312E+12,2003,York,15
+GoingAheadOtherJunction,2.00313E+12,2003,Calderdale,14
+GoingAheadOtherJunction,2.00313E+12,2003,Leeds,7
+GoingAheadOtherJunction,200314CC00554,2003,Doncaster,5
+GoingAheadOtherJunction,200314EE00225,2003,Barnsley,36
+GoingAheadOtherJunction,200314EE00571,2003,Barnsley,9
+GoingAheadOtherJunction,200314FF00355,2003,Rotherham,5
+GoingAheadOtherJunction,200314KK00795,2003,Sheffield,10
+GoingAheadOtherJunction,200316B037103,2003,North Lincolnshire,14
+GoingAheadOtherJunction,200316C082103,2003,East Riding of Yorkshire,9
+GoingAheadOtherJunction,2003170H11183,2003,Hartlepool,9
+GoingAheadOtherJunction,2003170M33413,2003,Middlesbrough,13
+GoingAheadOtherJunction,200320L075301,2003,Solihull,6
+GoingAheadOtherJunction,2.00321E+12,2003,Staffordshire,15
+GoingAheadOtherJunction,2.00321E+12,2003,Staffordshire,13
+GoingAheadOtherJunction,2.00321E+12,2003,Staffordshire,9
+GoingAheadOtherJunction,200322DJ30575,2003,Worcestershire,7
+GoingAheadOtherJunction,200322EA24083,2003,Herefordshire,8
+GoingAheadOtherJunction,200322FA34303,2003,Shropshire,4
+GoingAheadOtherJunction,200322GB30383,2003,Telford and Wrekin,69
+GoingAheadOtherJunction,200330B000104,2003,Derbyshire,23
+GoingAheadOtherJunction,200330B000529,2003,Derbyshire,
+GoingAheadOtherJunction,200330D000563,2003,Derby,36
+GoingAheadOtherJunction,20033102D0103,2003,Nottinghamshire,9
+GoingAheadOtherJunction,200332B098103,2003,Lincolnshire,18
+GoingAheadOtherJunction,200332B099303,2003,Lincolnshire,30
+GoingAheadOtherJunction,200332D061003,2003,Lincolnshire,30
+GoingAheadOtherJunction,200332D087503,2003,Lincolnshire,10
+GoingAheadOtherJunction,2.00333E+12,2003,Leicestershire,9
+GoingAheadOtherJunction,2.00335E+12,2003,Peterborough,8
+GoingAheadOtherJunction,2.00335E+12,2003,Cambridgeshire,54
+GoingAheadOtherJunction,2.00335E+12,2003,Cambridgeshire,13
+GoingAheadOtherJunction,2.00335E+12,2003,Peterborough,34
+GoingAheadOtherJunction,2.00335E+12,2003,Peterborough,8
+GoingAheadOtherJunction,2.00336E+12,2003,Norfolk,10
+GoingAheadOtherJunction,2.00336E+12,2003,Norfolk,8
+GoingAheadOtherJunction,2.00336E+12,2003,Norfolk,13
+GoingAheadOtherJunction,200337L009059,2003,Suffolk,40
+GoingAheadOtherJunction,20034100J2018,2003,Hertfordshire,32
+GoingAheadOtherJunction,20034200A0274,2003,Essex,
+GoingAheadOtherJunction,20034200B0075,2003,Essex,18
+GoingAheadOtherJunction,20034200B0304,2003,Essex,
+GoingAheadOtherJunction,20034200B0355,2003,Essex,
+GoingAheadOtherJunction,20034200C0608,2003,Essex,13
+GoingAheadOtherJunction,2.00E+169,2003,Essex,42
+GoingAheadOtherJunction,20034200F0182,2003,Thurrock,12
+GoingAheadOtherJunction,20034200G0343,2003,Essex,7
+GoingAheadOtherJunction,20034200G0390,2003,Essex,
+GoingAheadOtherJunction,20034200G0735,2003,Essex,
+GoingAheadOtherJunction,20034200J0050,2003,Essex,26
+GoingAheadOtherJunction,200343P351103,2003,Oxfordshire,13
+GoingAheadOtherJunction,2003440AA0686,2003,Hampshire,16
+GoingAheadOtherJunction,2003440BB0721,2003,Hampshire,20
+GoingAheadOtherJunction,2003440HP0318,2003,Hampshire,14
+GoingAheadOtherJunction,2003440JH0175,2003,Hampshire,10
+GoingAheadOtherJunction,2003440KK0430,2003,Portsmouth,20
+GoingAheadOtherJunction,2003440KK1063,2003,Portsmouth,12
+GoingAheadOtherJunction,2003440KK1204,2003,Portsmouth,14
+GoingAheadOtherJunction,2003440KK1800,2003,Portsmouth,15
+GoingAheadOtherJunction,2003440KK1888,2003,Portsmouth,33
+GoingAheadOtherJunction,2003440KK2170,2003,Portsmouth,67
+GoingAheadOtherJunction,2003440KK2376,2003,Portsmouth,22
+GoingAheadOtherJunction,2003440LA0743,2003,Hampshire,13
+GoingAheadOtherJunction,2003440LR0151,2003,Hampshire,42
+GoingAheadOtherJunction,2003440NA0411,2003,Hampshire,19
+GoingAheadOtherJunction,2003440SP0471,2003,Southampton ,24
+GoingAheadOtherJunction,2003440SY0926,2003,Southampton ,15
+GoingAheadOtherJunction,2003440ZD0791,2003,Isle of Wight,14
+GoingAheadOtherJunction,200345MO44660,2003,Surrey,
+GoingAheadOtherJunction,200345RE39514,2003,Surrey,37
+GoingAheadOtherJunction,200345RE43777,2003,Surrey,9
+GoingAheadOtherJunction,200345RS38488,2003,Surrey,12
+GoingAheadOtherJunction,200346CT75217,2003,Kent,9
+GoingAheadOtherJunction,200346WK78202,2003,Kent,14
+GoingAheadOtherJunction,200346WK82803,2003,Kent,12
+GoingAheadOtherJunction,200346WL83384,2003,Kent,6
+GoingAheadOtherJunction,200346WL87023,2003,Kent,46
+GoingAheadOtherJunction,200347K160045,2003,West Sussex,55
+GoingAheadOtherJunction,200347K164275,2003,Brighton and Hove,34
+GoingAheadOtherJunction,200347K165306,2003,West Sussex,39
+GoingAheadOtherJunction,200347K166590,2003,West Sussex,68
+GoingAheadOtherJunction,200347K166911,2003,Brighton and Hove,21
+GoingAheadOtherJunction,200347K167705,2003,West Sussex,13
+GoingAheadOtherJunction,200347K167729,2003,West Sussex,39
+GoingAheadOtherJunction,200347K169388,2003,West Sussex,53
+GoingAheadOtherJunction,200347K170390,2003,West Sussex,32
+GoingAheadOtherJunction,200350A21P200,2003,Cornwall and Isles of Scilly,10
+GoingAheadOtherJunction,200350C41K835,2003,Devon,5
+GoingAheadOtherJunction,200350E61M244,2003,Devon,14
+GoingAheadOtherJunction,200350F27H245,2003,Torbay,14
+GoingAheadOtherJunction,2.00352E+12,2003,South Gloucestershire,15
+GoingAheadOtherJunction,2.00352E+12,2003,South Gloucestershire,10
+GoingAheadOtherJunction,2.00352E+12,2003,North Somerset,11
+GoingAheadOtherJunction,200354AL18503,2003,Wiltshire,7
+GoingAheadOtherJunction,200354DC63903,2003,Swindon,28
+GoingAheadOtherJunction,200354DW00503,2003,Swindon,33
+GoingAheadOtherJunction,200354DW47903,2003,Swindon,11
+GoingAheadOtherJunction,2003553E05103,2003,Dorset,14
+GoingAheadOtherJunction,2003553W03141,2003,Dorset,34
+GoingAheadOtherJunction,200401EO01371,2004,London,48
+GoingAheadOtherJunction,200401JI00359,2004,London,11
+GoingAheadOtherJunction,200401KF60104,2004,London,16
+GoingAheadOtherJunction,200401KG00316,2004,London,7
+GoingAheadOtherJunction,200401KO00144,2004,London,30
+GoingAheadOtherJunction,200401KO00217,2004,London,42
+GoingAheadOtherJunction,200401KO00595,2004,London,17
+GoingAheadOtherJunction,200401LX00095,2004,London,35
+GoingAheadOtherJunction,200401LX59289,2004,London,26
+GoingAheadOtherJunction,200401MM70493,2004,London,37
+GoingAheadOtherJunction,200401PY20314,2004,London,11
+GoingAheadOtherJunction,200401QA00091,2004,London,30
+GoingAheadOtherJunction,200401QA00396,2004,London,15
+GoingAheadOtherJunction,200401SX00663,2004,London,6
+GoingAheadOtherJunction,200401TC00425,2004,London,15
+GoingAheadOtherJunction,200401TX00761,2004,London,39
+GoingAheadOtherJunction,200401XS00512,2004,London,57
+GoingAheadOtherJunction,200401XS00697,2004,London,23
+GoingAheadOtherJunction,200401YE00501,2004,London,15
+GoingAheadOtherJunction,200401YR00230,2004,London,44
+GoingAheadOtherJunction,200401YR00617,2004,London,13
+GoingAheadOtherJunction,200401ZD30730,2004,London,8
+GoingAheadOtherJunction,200401ZD30745,2004,London,29
+GoingAheadOtherJunction,2.00403E+12,2004,Cumbria,11
+GoingAheadOtherJunction,2.00403E+12,2004,Cumbria,64
+GoingAheadOtherJunction,200404A070304,2004,Blackpool,16
+GoingAheadOtherJunction,200404B020904,2004,Lancashire,14
+GoingAheadOtherJunction,200404B029704,2004,Lancashire,3
+GoingAheadOtherJunction,200404B039104,2004,Lancashire,41
+GoingAheadOtherJunction,200404B061404,2004,Lancashire,12
+GoingAheadOtherJunction,200404B064504,2004,Lancashire,16
+GoingAheadOtherJunction,200404C069204,2004,Lancashire,11
+GoingAheadOtherJunction,200404C072504,2004,Lancashire,15
+GoingAheadOtherJunction,200404D047404,2004,Lancashire,40
+GoingAheadOtherJunction,200404E030604,2004,Blackburn with Darwen,6
+GoingAheadOtherJunction,200404E033604,2004,Blackburn with Darwen,11
+GoingAheadOtherJunction,200404E060304,2004,Lancashire,6
+GoingAheadOtherJunction,200404E061504,2004,Blackburn with Darwen,11
+GoingAheadOtherJunction,200404E070204,2004,Blackburn with Darwen,10
+GoingAheadOtherJunction,200404E091504,2004,Blackburn with Darwen,49
+GoingAheadOtherJunction,200404F047304,2004,Lancashire,10
+GoingAheadOtherJunction,200405AW00830,2004,Merseyside,10
+GoingAheadOtherJunction,200405BS00319,2004,Merseyside,50
+GoingAheadOtherJunction,200405DH00838,2004,Merseyside,8
+GoingAheadOtherJunction,200405ET00803,2004,Merseyside,12
+GoingAheadOtherJunction,200405FT01283,2004,Merseyside,9
+GoingAheadOtherJunction,200406A902817,2004,Manchester,8
+GoingAheadOtherJunction,200406A904775,2004,Manchester,41
+GoingAheadOtherJunction,200406A907387,2004,Manchester,6
+GoingAheadOtherJunction,200406A907537,2004,Tameside,14
+GoingAheadOtherJunction,200406C902392,2004,Manchester,22
+GoingAheadOtherJunction,200406F903853,2004,Salford,21
+GoingAheadOtherJunction,200406F907236,2004,Salford,13
+GoingAheadOtherJunction,200406F908726,2004,Salford,7
+GoingAheadOtherJunction,200406F911559,2004,Salford,23
+GoingAheadOtherJunction,200406G012083,2004,Tameside,15
+GoingAheadOtherJunction,200406G012225,2004,Tameside,14
+GoingAheadOtherJunction,200406G901827,2004,Tameside,9
+GoingAheadOtherJunction,200406G904925,2004,Tameside,13
+GoingAheadOtherJunction,200406K016804,2004,Bolton,27
+GoingAheadOtherJunction,200406K902813,2004,Bolton,9
+GoingAheadOtherJunction,200406K907733,2004,Bolton,19
+GoingAheadOtherJunction,200406L016930,2004,Wigan,11
+GoingAheadOtherJunction,200406L017362,2004,Wigan,23
+GoingAheadOtherJunction,200406L910243,2004,Wigan,12
+GoingAheadOtherJunction,200406N010981,2004,Bury,8
+GoingAheadOtherJunction,200406N909174,2004,Bury,16
+GoingAheadOtherJunction,200406N915135,2004,Bury,13
+GoingAheadOtherJunction,200406P013505,2004,Rochdale,12
+GoingAheadOtherJunction,200406P905143,2004,Rochdale,55
+GoingAheadOtherJunction,200406P908128,2004,Rochdale,7
+GoingAheadOtherJunction,200406P908706,2004,Rochdale,12
+GoingAheadOtherJunction,200406P909297,2004,Rochdale,5
+GoingAheadOtherJunction,200406P914298,2004,Rochdale,30
+GoingAheadOtherJunction,200406Q902223,2004,Oldham,21
+GoingAheadOtherJunction,200406Q905338,2004,Oldham,12
+GoingAheadOtherJunction,200406Q906317,2004,Oldham,5
+GoingAheadOtherJunction,200406Q906658,2004,Oldham,31
+GoingAheadOtherJunction,200406Q908268,2004,Oldham,8
+GoingAheadOtherJunction,200406Q915881,2004,Oldham,35
+GoingAheadOtherJunction,2.0041E+12,2004,Gateshead,37
+GoingAheadOtherJunction,2.00412E+12,2004,York,12
+GoingAheadOtherJunction,2.00413E+12,2004,Leeds,17
+GoingAheadOtherJunction,2.00413E+12,2004,Leeds,15
+GoingAheadOtherJunction,2.00413E+12,2004,Bradford,26
+GoingAheadOtherJunction,2.00413E+12,2004,Bradford,21
+GoingAheadOtherJunction,200414AA01623,2004,Doncaster,14
+GoingAheadOtherJunction,200414AA01630,2004,Doncaster,6
+GoingAheadOtherJunction,200414AA01682,2004,Doncaster,8
+GoingAheadOtherJunction,200414BB00438,2004,Barnsley,17
+GoingAheadOtherJunction,200414BB00660,2004,Barnsley,8
+GoingAheadOtherJunction,200414CC00927,2004,Rotherham,14
+GoingAheadOtherJunction,200414FF01320,2004,Sheffield,39
+GoingAheadOtherJunction,2004160C02310,2004,East Riding of Yorkshire,9
+GoingAheadOtherJunction,2004170L11454,2004,Redcar and Cleveland,12
+GoingAheadOtherJunction,2004170L40984,2004,Redcar and Cleveland,14
+GoingAheadOtherJunction,2004170M11924,2004,Middlesbrough,15
+GoingAheadOtherJunction,2004170S11704,2004,Stockton on Tees,13
+GoingAheadOtherJunction,2.00421E+12,2004,Stoke on Trent,11
+GoingAheadOtherJunction,2.00421E+12,2004,Staffordshire,5
+GoingAheadOtherJunction,200422CA43917,2004,Worcestershire,13
+GoingAheadOtherJunction,200422CA45052,2004,Worcestershire,38
+GoingAheadOtherJunction,200422CC41078,2004,Worcestershire,14
+GoingAheadOtherJunction,200422DB36964,2004,Worcestershire,14
+GoingAheadOtherJunction,200422DE38372,2004,Worcestershire,11
+GoingAheadOtherJunction,200422DF41031,2004,Worcestershire,10
+GoingAheadOtherJunction,200422DR41894,2004,Worcestershire,55
+GoingAheadOtherJunction,200422EA28755,2004,Herefordshire,12
+GoingAheadOtherJunction,200422EB28873,2004,Herefordshire,11
+GoingAheadOtherJunction,200422EJ28816,2004,Herefordshire,13
+GoingAheadOtherJunction,200422FA39079,2004,Shropshire,14
+GoingAheadOtherJunction,200422FA41166,2004,Shropshire,11
+GoingAheadOtherJunction,200422FG39900,2004,Shropshire,10
+GoingAheadOtherJunction,200430C000602,2004,Derbyshire,8
+GoingAheadOtherJunction,200430D000006,2004,Derby,15
+GoingAheadOtherJunction,200430D000680,2004,Derby,5
+GoingAheadOtherJunction,20043102A2154,2004,Nottinghamshire,13
+GoingAheadOtherJunction,20043102B2235,2004,Nottinghamshire,16
+GoingAheadOtherJunction,20043108C2055,2004,Nottingham,18
+GoingAheadOtherJunction,20043108C4417,2004,Nottingham,
+GoingAheadOtherJunction,20043108D3984,2004,Nottinghamshire,12
+GoingAheadOtherJunction,20043108D5137,2004,Nottinghamshire,13
+GoingAheadOtherJunction,200432C009204,2004,Lincolnshire,28
+GoingAheadOtherJunction,200432C037104,2004,Lincolnshire,69
+GoingAheadOtherJunction,200432C100704,2004,Lincolnshire,31
+GoingAheadOtherJunction,200432D104404,2004,Lincolnshire,15
+GoingAheadOtherJunction,200432D159404,2004,Lincolnshire,24
+GoingAheadOtherJunction,200432D199604,2004,Lincolnshire,26
+GoingAheadOtherJunction,2.00435E+12,2004,Cambridgeshire,12
+GoingAheadOtherJunction,2.00435E+12,2004,Cambridgeshire,
+GoingAheadOtherJunction,2.00435E+12,2004,Peterborough,16
+GoingAheadOtherJunction,2.00435E+12,2004,Cambridgeshire,15
+GoingAheadOtherJunction,2.00436E+12,2004,Norfolk,32
+GoingAheadOtherJunction,2.00436E+12,2004,Norfolk,24
+GoingAheadOtherJunction,2.00436E+12,2004,Norfolk,42
+GoingAheadOtherJunction,20044100C0956,2004,Hertfordshire,12
+GoingAheadOtherJunction,20044200A0031,2004,Essex,14
+GoingAheadOtherJunction,20044200B0154,2004,Essex,37
+GoingAheadOtherJunction,20044200C0027,2004,Essex,12
+GoingAheadOtherJunction,20044200C0431,2004,Essex,16
+GoingAheadOtherJunction,20044200D0266,2004,Essex,6
+GoingAheadOtherJunction,20044200D0329,2004,Essex,14
+GoingAheadOtherJunction,2.00E+68,2004,Essex,11
+GoingAheadOtherJunction,2.00E+200,2004,Essex,13
+GoingAheadOtherJunction,2.00E+260,2004,Essex,
+GoingAheadOtherJunction,20044200E0350,2004,Essex,
+GoingAheadOtherJunction,20044200E0492,2004,Essex,16
+GoingAheadOtherJunction,20044200F0463,2004,Thurrock,9
+GoingAheadOtherJunction,20044200F0519,2004,Thurrock,12
+GoingAheadOtherJunction,20044200G0170,2004,Essex,
+GoingAheadOtherJunction,20044200G0208,2004,Essex,11
+GoingAheadOtherJunction,20044200G0383,2004,Essex,
+GoingAheadOtherJunction,20044200G0902,2004,Essex,7
+GoingAheadOtherJunction,20044200H0071,2004,Southend on Sea,19
+GoingAheadOtherJunction,20044200H0231,2004,Southend on Sea,54
+GoingAheadOtherJunction,20044200H0325,2004,Southend on Sea,30
+GoingAheadOtherJunction,20044200H0501,2004,Southend on Sea,
+GoingAheadOtherJunction,20044200J0198,2004,Essex,
+GoingAheadOtherJunction,20044200J0256,2004,Essex,10
+GoingAheadOtherJunction,200443N185054,2004,Buckinghamshire,13
+GoingAheadOtherJunction,200443S002074,2004,Milton Keynes,12
+GoingAheadOtherJunction,200443S013104,2004,Milton Keynes,23
+GoingAheadOtherJunction,2004440DG0027,2004,Hampshire,30
+GoingAheadOtherJunction,2004440HF0456,2004,Hampshire,9
+GoingAheadOtherJunction,2004440HG0504,2004,Hampshire,17
+GoingAheadOtherJunction,2004440JH0281,2004,Hampshire,11
+GoingAheadOtherJunction,2004440KK1177,2004,Portsmouth,6
+GoingAheadOtherJunction,2004440SC0021,2004,Southampton ,13
+GoingAheadOtherJunction,200445EL57343,2004,Surrey,80
+GoingAheadOtherJunction,200445EP54943,2004,Surrey,
+GoingAheadOtherJunction,200445RU54738,2004,Surrey,14
+GoingAheadOtherJunction,200445SU53693,2004,Surrey,20
+GoingAheadOtherJunction,200445TA51608,2004,Surrey,14
+GoingAheadOtherJunction,200445WO49862,2004,Surrey,
+GoingAheadOtherJunction,200445WO57437,2004,Surrey,17
+GoingAheadOtherJunction,2.00446E+12,2004,Medway,42
+GoingAheadOtherJunction,200446MA94240,2004,Kent,
+GoingAheadOtherJunction,200446TH03011,2004,Kent,22
+GoingAheadOtherJunction,200446WK92054,2004,Kent,30
+GoingAheadOtherJunction,200446WK93333,2004,Kent,11
+GoingAheadOtherJunction,200446WL94794,2004,Kent,12
+GoingAheadOtherJunction,200447K171906,2004,West Sussex,15
+GoingAheadOtherJunction,200447K173610,2004,Brighton and Hove,47
+GoingAheadOtherJunction,200447K174102,2004,Brighton and Hove,38
+GoingAheadOtherJunction,200447K176045,2004,East Sussex,12
+GoingAheadOtherJunction,200447K176390,2004,East Sussex,14
+GoingAheadOtherJunction,200447K178806,2004,East Sussex,13
+GoingAheadOtherJunction,200447K180209,2004,West Sussex,33
+GoingAheadOtherJunction,200447K182178,2004,West Sussex,36
+GoingAheadOtherJunction,200450A21L948,2004,Cornwall and Isles of Scilly,7
+GoingAheadOtherJunction,200450C21E025,2004,Devon,55
+GoingAheadOtherJunction,200450D21K210,2004,Devon,19
+GoingAheadOtherJunction,200450F41L475,2004,Devon,9
+GoingAheadOtherJunction,200450F44M997,2004,Devon,10
+GoingAheadOtherJunction,2.00452E+12,2004,South Gloucestershire,10
+GoingAheadOtherJunction,2.00452E+12,2004,South Gloucestershire,19
+GoingAheadOtherJunction,2.00452E+12,2004,Bath and North East Somerset,20
+GoingAheadOtherJunction,200454CM39804,2004,Wiltshire,11
+GoingAheadOtherJunction,200454CP29504,2004,Wiltshire,16
+GoingAheadOtherJunction,200454CW45704,2004,Wiltshire,9
+GoingAheadOtherJunction,200454DC23104,2004,Swindon,15
+GoingAheadOtherJunction,200454DW46804,2004,Swindon,19
+GoingAheadOtherJunction,2004554W04289,2004,Dorset,9
+GoingAheadOtherJunction,200501CW10812,2005,London,23
+GoingAheadOtherJunction,200501CW11514,2005,London,49
+GoingAheadOtherJunction,200501EK40088,2005,London,24
+GoingAheadOtherJunction,200501FH10639,2005,London,56
+GoingAheadOtherJunction,200501RG40817,2005,London,14
+GoingAheadOtherJunction,200501XD80782,2005,London,17
+GoingAheadOtherJunction,200501YE80850,2005,London,23
+GoingAheadOtherJunction,200501ZD31081,2005,London,28
+GoingAheadOtherJunction,2.00503E+12,2005,Cumbria,16
+GoingAheadOtherJunction,2.00503E+12,2005,Cumbria,8
+GoingAheadOtherJunction,2.00503E+12,2005,Cumbria,6
+GoingAheadOtherJunction,2.00503E+12,2005,Cumbria,10
+GoingAheadOtherJunction,200504A018405,2005,Lancashire,11
+GoingAheadOtherJunction,200504AL05047,2005,Lancashire,17
+GoingAheadOtherJunction,200504AL05088,2005,Lancashire,74
+GoingAheadOtherJunction,200504AM05028,2005,Blackpool,15
+GoingAheadOtherJunction,200504AM05077,2005,Blackpool,9
+GoingAheadOtherJunction,200504B021005,2005,Lancashire,53
+GoingAheadOtherJunction,200504B021105,2005,Lancashire,26
+GoingAheadOtherJunction,200504BB05043,2005,Lancashire,35
+GoingAheadOtherJunction,200504CM05109,2005,Lancashire,13
+GoingAheadOtherJunction,200504CP05045,2005,Lancashire,15
+GoingAheadOtherJunction,200504EL05056,2005,Lancashire,7
+GoingAheadOtherJunction,200504F026105,2005,Lancashire,17
+GoingAheadOtherJunction,200504FB05045,2005,Lancashire,15
+GoingAheadOtherJunction,200504FG05053,2005,Lancashire,
+GoingAheadOtherJunction,200505AA03587,2005,Merseyside,38
+GoingAheadOtherJunction,200505BS00297,2005,Merseyside,13
+GoingAheadOtherJunction,200505CH00430,2005,Merseyside,15
+GoingAheadOtherJunction,200505DD00630,2005,Merseyside,16
+GoingAheadOtherJunction,200505DH00204,2005,Merseyside,21
+GoingAheadOtherJunction,200505EE01813,2005,Merseyside,30
+GoingAheadOtherJunction,200506A026217,2005,Manchester,19
+GoingAheadOtherJunction,200506A035896,2005,Manchester,12
+GoingAheadOtherJunction,200506A038915,2005,Manchester,34
+GoingAheadOtherJunction,200506A040336,2005,Manchester,28
+GoingAheadOtherJunction,200506A041355,2005,Manchester,27
+GoingAheadOtherJunction,200506B030840,2005,Manchester,50
+GoingAheadOtherJunction,200506B037239,2005,Manchester,17
+GoingAheadOtherJunction,200506C035102,2005,Manchester,8
+GoingAheadOtherJunction,200506F030220,2005,Salford,11
+GoingAheadOtherJunction,200506F032721,2005,Salford,9
+GoingAheadOtherJunction,200506F920527,2005,Salford,6
+GoingAheadOtherJunction,200506G038165,2005,Tameside,17
+GoingAheadOtherJunction,200506J027099,2005,Stockport,38
+GoingAheadOtherJunction,200506J029227,2005,Stockport,25
+GoingAheadOtherJunction,200506J033004,2005,Stockport,19
+GoingAheadOtherJunction,200506J920311,2005,Stockport,43
+GoingAheadOtherJunction,200506K024912,2005,Bolton,39
+GoingAheadOtherJunction,200506K029347,2005,Bolton,12
+GoingAheadOtherJunction,200506K029719,2005,Bolton,18
+GoingAheadOtherJunction,200506K031427,2005,Bolton,14
+GoingAheadOtherJunction,200506K031628,2005,Bolton,11
+GoingAheadOtherJunction,200506L032577,2005,Wigan,10
+GoingAheadOtherJunction,200506L033864,2005,Wigan,16
+GoingAheadOtherJunction,200506L921174,2005,Wigan,11
+GoingAheadOtherJunction,200506M034990,2005,Trafford,32
+GoingAheadOtherJunction,200506M035363,2005,Trafford,42
+GoingAheadOtherJunction,200506M037024,2005,Trafford,13
+GoingAheadOtherJunction,200506N033357,2005,Bury,8
+GoingAheadOtherJunction,200506N034303,2005,Bury,18
+GoingAheadOtherJunction,200506P031836,2005,Rochdale,15
+GoingAheadOtherJunction,200506P033030,2005,Rochdale,11
+GoingAheadOtherJunction,200506P036108,2005,Rochdale,48
+GoingAheadOtherJunction,200506Q025688,2005,Oldham,20
+GoingAheadOtherJunction,200506Q028847,2005,Oldham,16
+GoingAheadOtherJunction,200506Q036425,2005,Oldham,9
+GoingAheadOtherJunction,200506Q920577,2005,Oldham,24
+GoingAheadOtherJunction,2.00507E+12,2005,Halton,8
+GoingAheadOtherJunction,2.00507E+12,2005,Cheshire West and Chester,20
+GoingAheadOtherJunction,2.00507E+12,2005,Cheshire East,9
+GoingAheadOtherJunction,2.00507E+12,2005,Cheshire West and Chester,12
+GoingAheadOtherJunction,2.0051E+12,2005,South Tyneside,5
+GoingAheadOtherJunction,2.00512E+12,2005,North Yorkshire,17
+GoingAheadOtherJunction,2.00512E+12,2005,North Yorkshire,18
+GoingAheadOtherJunction,2.00512E+12,2005,York,18
+GoingAheadOtherJunction,2.00512E+12,2005,York,11
+GoingAheadOtherJunction,2.00513E+12,2005,Leeds,34
+GoingAheadOtherJunction,2.00513E+12,2005,Bradford,10
+GoingAheadOtherJunction,2.00513E+12,2005,Kirklees,
+GoingAheadOtherJunction,2.00513E+12,2005,Kirklees,14
+GoingAheadOtherJunction,2.00513E+12,2005,Leeds,84
+GoingAheadOtherJunction,2.00513E+12,2005,Leeds,15
+GoingAheadOtherJunction,2.00513E+12,2005,Bradford,18
+GoingAheadOtherJunction,200514B008305,2005,Barnsley,
+GoingAheadOtherJunction,200514B080005,2005,Barnsley,9
+GoingAheadOtherJunction,200514C103705,2005,Rotherham,15
+GoingAheadOtherJunction,200514D129705,2005,Sheffield,53
+GoingAheadOtherJunction,200514D142805,2005,Sheffield,36
+GoingAheadOtherJunction,200514F113705,2005,Sheffield,12
+GoingAheadOtherJunction,200514F140805,2005,Sheffield,57
+GoingAheadOtherJunction,2005160C04240,2005,East Riding of Yorkshire,9
+GoingAheadOtherJunction,2005170S12245,2005,Stockton on Tees,8
+GoingAheadOtherJunction,200520G109801,2005,Wolverhampton,17
+GoingAheadOtherJunction,2.00522E+12,2005,Stoke on Trent,20
+GoingAheadOtherJunction,2.00522E+12,2005,Staffordshire,29
+GoingAheadOtherJunction,2.00522E+12,2005,Staffordshire,14
+GoingAheadOtherJunction,200522FA44824,2005,Shropshire,12
+GoingAheadOtherJunction,200522FA44956,2005,Shropshire,52
+GoingAheadOtherJunction,200522GA39135,2005,Telford and Wrekin,9
+GoingAheadOtherJunction,20053102D2023,2005,Nottinghamshire,14
+GoingAheadOtherJunction,200532C051005,2005,Lincolnshire,72
+GoingAheadOtherJunction,200532C537905,2005,Lincolnshire,13
+GoingAheadOtherJunction,200532D051205,2005,Lincolnshire,20
+GoingAheadOtherJunction,200532D073005,2005,Lincolnshire,55
+GoingAheadOtherJunction,2.00533E+12,2005,Leicestershire,14
+GoingAheadOtherJunction,2.00533E+12,2005,Leicestershire,15
+GoingAheadOtherJunction,2.00533E+12,2005,Leicestershire,13
+GoingAheadOtherJunction,2.00535E+12,2005,Cambridgeshire,26
+GoingAheadOtherJunction,2.00535E+12,2005,Cambridgeshire,5
+GoingAheadOtherJunction,2.00536E+12,2005,Norfolk,5
+GoingAheadOtherJunction,2.00536E+12,2005,Norfolk,12
+GoingAheadOtherJunction,2.00536E+12,2005,Norfolk,19
+GoingAheadOtherJunction,2.00536E+12,2005,Norfolk,30
+GoingAheadOtherJunction,2.00536E+12,2005,Norfolk,19
+GoingAheadOtherJunction,2.00536E+12,2005,Norfolk,60
+GoingAheadOtherJunction,200537B022581,2005,Suffolk,15
+GoingAheadOtherJunction,200537G017578,2005,Suffolk,15
+GoingAheadOtherJunction,200537L011592,2005,Suffolk,10
+GoingAheadOtherJunction,200537L012151,2005,Suffolk,10
+GoingAheadOtherJunction,200537L012156,2005,Suffolk,11
+GoingAheadOtherJunction,200537L012239,2005,Suffolk,10
+GoingAheadOtherJunction,20054100A0629,2005,Hertfordshire,13
+GoingAheadOtherJunction,20054100B0404,2005,Hertfordshire,5
+GoingAheadOtherJunction,20054100C0621,2005,Hertfordshire,25
+GoingAheadOtherJunction,20054100J2636,2005,Hertfordshire,13
+GoingAheadOtherJunction,200542A026705,2005,Essex,55
+GoingAheadOtherJunction,200542A044807,2005,Essex,12
+GoingAheadOtherJunction,200542A076811,2005,Essex,53
+GoingAheadOtherJunction,200542B031608,2005,Essex,11
+GoingAheadOtherJunction,200542C014603,2005,Essex,60
+GoingAheadOtherJunction,200542F054612,2005,Thurrock,16
+GoingAheadOtherJunction,200542G062107,2005,Essex,40
+GoingAheadOtherJunction,200542H006402,2005,Southend on Sea,27
+GoingAheadOtherJunction,200542H022505,2005,Southend on Sea,14
+GoingAheadOtherJunction,200542J014804,2005,Essex,
+GoingAheadOtherJunction,200542J026907,2005,Essex,8
+GoingAheadOtherJunction,200542J035909,2005,Essex,34
+GoingAheadOtherJunction,200542J053212,2005,Essex,62
+GoingAheadOtherJunction,200543N290095,2005,Milton Keynes,13
+GoingAheadOtherJunction,200543N314115,2005,Milton Keynes,12
+GoingAheadOtherJunction,200543N416095,2005,Milton Keynes,16
+GoingAheadOtherJunction,200543P182065,2005,Oxfordshire,58
+GoingAheadOtherJunction,200543P258055,2005,Oxfordshire,17
+GoingAheadOtherJunction,200543P335065,2005,Oxfordshire,8
+GoingAheadOtherJunction,200543S006015,2005,Milton Keynes,14
+GoingAheadOtherJunction,200543S053065,2005,Milton Keynes,8
+GoingAheadOtherJunction,200543S056075,2005,Milton Keynes,15
+GoingAheadOtherJunction,200543S097045,2005,Milton Keynes,13
+GoingAheadOtherJunction,200543S109055,2005,Milton Keynes,
+GoingAheadOtherJunction,200543S151055,2005,Milton Keynes,16
+GoingAheadOtherJunction,200543W327085,2005,Reading,33
+GoingAheadOtherJunction,2.00544E+12,2005,Hampshire,40
+GoingAheadOtherJunction,2.00544E+12,2005,Southampton ,53
+GoingAheadOtherJunction,2.00544E+12,2005,Hampshire,6
+GoingAheadOtherJunction,2.00544E+12,2005,Hampshire,10
+GoingAheadOtherJunction,2.00544E+12,2005,Hampshire,9
+GoingAheadOtherJunction,2.00544E+12,2005,Southampton ,52
+GoingAheadOtherJunction,2.00544E+12,2005,Hampshire,
+GoingAheadOtherJunction,2.00544E+12,2005,Hampshire,30
+GoingAheadOtherJunction,2.00544E+12,2005,Hampshire,10
+GoingAheadOtherJunction,2005445DR0065,2005,Hampshire,30
+GoingAheadOtherJunction,2005445HP0012,2005,Hampshire,12
+GoingAheadOtherJunction,200545EL64477,2005,Surrey,78
+GoingAheadOtherJunction,200545EL75396,2005,Surrey,9
+GoingAheadOtherJunction,200545EP76309,2005,Surrey,80
+GoingAheadOtherJunction,200545MO70646,2005,Surrey,27
+GoingAheadOtherJunction,200545MO70885,2005,Surrey,12
+GoingAheadOtherJunction,200545MO73461,2005,Surrey,44
+GoingAheadOtherJunction,200545RE67885,2005,Surrey,21
+GoingAheadOtherJunction,200545RE69206,2005,Surrey,15
+GoingAheadOtherJunction,200545RE73888,2005,Surrey,14
+GoingAheadOtherJunction,200545RU67832,2005,Surrey,13
+GoingAheadOtherJunction,200545SP66869,2005,Surrey,9
+GoingAheadOtherJunction,200545SP78418,2005,Surrey,37
+GoingAheadOtherJunction,200545WO66032,2005,Surrey,17
+GoingAheadOtherJunction,200545WO68467,2005,Surrey,27
+GoingAheadOtherJunction,200545WO70296,2005,Surrey,25
+GoingAheadOtherJunction,200545WO78731,2005,Surrey,29
+GoingAheadOtherJunction,2.00546E+12,2005,Kent,14
+GoingAheadOtherJunction,2.00546E+12,2005,Kent,49
+GoingAheadOtherJunction,2.00546E+12,2005,Kent,37
+GoingAheadOtherJunction,2.00546E+12,2005,Kent,17
+GoingAheadOtherJunction,2.00546E+12,2005,Kent,13
+GoingAheadOtherJunction,2.00546E+12,2005,Kent,
+GoingAheadOtherJunction,2.00546E+12,2005,Kent,14
+GoingAheadOtherJunction,2.00546E+12,2005,Kent,
+GoingAheadOtherJunction,2.00546E+12,2005,Kent,16
+GoingAheadOtherJunction,2.00546E+12,2005,Kent,16
+GoingAheadOtherJunction,2.00546E+12,2005,Kent,13
+GoingAheadOtherJunction,2.00546E+12,2005,Kent,58
+GoingAheadOtherJunction,2.00547E+12,2005,East Sussex,15
+GoingAheadOtherJunction,2.00547E+12,2005,East Sussex,10
+GoingAheadOtherJunction,2.00547E+12,2005,East Sussex,13
+GoingAheadOtherJunction,2.00547E+12,2005,West Sussex,15
+GoingAheadOtherJunction,2.00547E+12,2005,Brighton and Hove,14
+GoingAheadOtherJunction,2.00547E+12,2005,East Sussex,43
+GoingAheadOtherJunction,2.00547E+12,2005,West Sussex,12
+GoingAheadOtherJunction,2.00547E+12,2005,East Sussex,17
+GoingAheadOtherJunction,2.00547E+12,2005,West Sussex,11
+GoingAheadOtherJunction,2.00547E+12,2005,West Sussex,9
+GoingAheadOtherJunction,2.00547E+12,2005,West Sussex,13
+GoingAheadOtherJunction,2.00547E+12,2005,East Sussex,13
+GoingAheadOtherJunction,2.00547E+12,2005,Brighton and Hove,18
+GoingAheadOtherJunction,200550A41F700,2005,Cornwall and Isles of Scilly,17
+GoingAheadOtherJunction,200550A61K155,2005,Cornwall and Isles of Scilly,39
+GoingAheadOtherJunction,200550B41G169,2005,Cornwall and Isles of Scilly,24
+GoingAheadOtherJunction,200550B51B465,2005,Cornwall and Isles of Scilly,17
+GoingAheadOtherJunction,200550C51F041,2005,Devon,14
+GoingAheadOtherJunction,200550D21N349,2005,Devon,17
+GoingAheadOtherJunction,200550D32P403,2005,Devon,35
+GoingAheadOtherJunction,200550E31B455,2005,Plymouth,
+GoingAheadOtherJunction,200550E31P405,2005,Plymouth,51
+GoingAheadOtherJunction,2.00552E+12,2005,Somerset,55
+GoingAheadOtherJunction,2.00552E+12,2005,Bath and North East Somerset,42
+GoingAheadOtherJunction,2.00552E+12,2005,Somerset,14
+GoingAheadOtherJunction,2.00552E+12,2005,City of Bristol,31
+GoingAheadOtherJunction,2.00553E+12,2005,Gloucestershire,25
+GoingAheadOtherJunction,2.00553E+12,2005,Gloucestershire,14
+GoingAheadOtherJunction,200554CP25305,2005,Wiltshire,34
+GoingAheadOtherJunction,200554CT43305,2005,Wiltshire,17
+GoingAheadOtherJunction,2005555E02096,2005,Dorset,15
+GoingAheadOtherJunction,2005555E03653,2005,Dorset,46
+GoingAheadOtherJunction,200601CP00083,2006,London,26
+GoingAheadOtherJunction,200601CP00149,2006,London,24
+GoingAheadOtherJunction,200601MM70925,2006,London,39
+GoingAheadOtherJunction,200601TE00269,2006,London,27
+GoingAheadOtherJunction,200601TW60223,2006,London,42
+GoingAheadOtherJunction,2.00603E+12,2006,Cumbria,10
+GoingAheadOtherJunction,2.00603E+12,2006,Cumbria,42
+GoingAheadOtherJunction,200604AL06004,2006,Lancashire,11
+GoingAheadOtherJunction,200604AX06098,2006,Blackpool,73
+GoingAheadOtherJunction,200604AX06138,2006,Blackpool,28
+GoingAheadOtherJunction,200604CA06126,2006,Lancashire,66
+GoingAheadOtherJunction,200604CL06042,2006,Lancashire,26
+GoingAheadOtherJunction,200604EB06036,2006,Blackburn with Darwen,44
+GoingAheadOtherJunction,200604FG06110,2006,Lancashire,12
+GoingAheadOtherJunction,200605BB05557,2006,Merseyside,36
+GoingAheadOtherJunction,200605BB11767,2006,Merseyside,42
+GoingAheadOtherJunction,200605BB13040,2006,Merseyside,30
+GoingAheadOtherJunction,200606A047440,2006,Manchester,22
+GoingAheadOtherJunction,200606A052965,2006,Manchester,9
+GoingAheadOtherJunction,200606A053067,2006,Manchester,34
+GoingAheadOtherJunction,200606A053784,2006,Manchester,10
+GoingAheadOtherJunction,200606A059252,2006,Manchester,47
+GoingAheadOtherJunction,200606A060616,2006,Manchester,32
+GoingAheadOtherJunction,200606A060873,2006,Manchester,15
+GoingAheadOtherJunction,200606AF44256,2006,Manchester,20
+GoingAheadOtherJunction,200606B051397,2006,Manchester,6
+GoingAheadOtherJunction,200606B052530,2006,Manchester,15
+GoingAheadOtherJunction,200606B052920,2006,Manchester,6
+GoingAheadOtherJunction,200606B059163,2006,Manchester,13
+GoingAheadOtherJunction,200606B062073,2006,Manchester,32
+GoingAheadOtherJunction,200606C042237,2006,Manchester,57
+GoingAheadOtherJunction,200606C048061,2006,Manchester,20
+GoingAheadOtherJunction,200606C050997,2006,Manchester,71
+GoingAheadOtherJunction,200606C053750,2006,Manchester,16
+GoingAheadOtherJunction,200606C063747,2006,Manchester,54
+GoingAheadOtherJunction,200606C064221,2006,Manchester,71
+GoingAheadOtherJunction,200606F044040,2006,Salford,29
+GoingAheadOtherJunction,200606F053155,2006,Salford,25
+GoingAheadOtherJunction,200606F053797,2006,Salford,20
+GoingAheadOtherJunction,200606G051197,2006,Tameside,6
+GoingAheadOtherJunction,200606G056138,2006,Tameside,14
+GoingAheadOtherJunction,200606G059764,2006,Tameside,13
+GoingAheadOtherJunction,200606J042724,2006,Stockport,30
+GoingAheadOtherJunction,200606J048568,2006,Stockport,55
+GoingAheadOtherJunction,200606J054022,2006,Stockport,7
+GoingAheadOtherJunction,200606J055679,2006,Stockport,6
+GoingAheadOtherJunction,200606J059869,2006,Stockport,17
+GoingAheadOtherJunction,200606J060609,2006,Stockport,76
+GoingAheadOtherJunction,200606K055827,2006,Bolton,9
+GoingAheadOtherJunction,200606K059926,2006,Bolton,23
+GoingAheadOtherJunction,200606L044679,2006,Wigan,13
+GoingAheadOtherJunction,200606L047116,2006,Wigan,18
+GoingAheadOtherJunction,200606L051949,2006,Wigan,13
+GoingAheadOtherJunction,200606L052658,2006,Wigan,20
+GoingAheadOtherJunction,200606L056197,2006,Wigan,19
+GoingAheadOtherJunction,200606M050874,2006,Trafford,10
+GoingAheadOtherJunction,200606M051930,2006,Trafford,17
+GoingAheadOtherJunction,200606M052255,2006,Trafford,21
+GoingAheadOtherJunction,200606M052370,2006,Trafford,12
+GoingAheadOtherJunction,200606M063869,2006,Trafford,58
+GoingAheadOtherJunction,200606MB60654,2006,Trafford,46
+GoingAheadOtherJunction,200606N049112,2006,Bury,15
+GoingAheadOtherJunction,200606N050028,2006,Bury,9
+GoingAheadOtherJunction,200606N055137,2006,Bury,18
+GoingAheadOtherJunction,200606P047617,2006,Rochdale,12
+GoingAheadOtherJunction,200606P051629,2006,Rochdale,10
+GoingAheadOtherJunction,200606P052796,2006,Rochdale,8
+GoingAheadOtherJunction,200606P056639,2006,Rochdale,6
+GoingAheadOtherJunction,200606P058341,2006,Rochdale,45
+GoingAheadOtherJunction,200606Q051122,2006,Oldham,7
+GoingAheadOtherJunction,200606Q055023,2006,Oldham,12
+GoingAheadOtherJunction,200606Q055231,2006,Oldham,10
+GoingAheadOtherJunction,200606Q062810,2006,Oldham,16
+GoingAheadOtherJunction,2.00607E+12,2006,Cheshire West and Chester,13
+GoingAheadOtherJunction,2.00607E+12,2006,Warrington,8
+GoingAheadOtherJunction,2.00607E+12,2006,Cheshire West and Chester,5
+GoingAheadOtherJunction,2.0061E+12,2006,Newcastle upon Tyne,30
+GoingAheadOtherJunction,2.0061E+12,2006,Northumberland,41
+GoingAheadOtherJunction,2.0061E+12,2006,South Tyneside,14
+GoingAheadOtherJunction,2.0061E+12,2006,Newcastle upon Tyne,33
+GoingAheadOtherJunction,2.00612E+12,2006,North Yorkshire,31
+GoingAheadOtherJunction,2.00612E+12,2006,North Yorkshire,13
+GoingAheadOtherJunction,2.00612E+12,2006,York,32
+GoingAheadOtherJunction,2.00612E+12,2006,York,46
+GoingAheadOtherJunction,2.00612E+12,2006,North Yorkshire,17
+GoingAheadOtherJunction,2.00613E+12,2006,Leeds,18
+GoingAheadOtherJunction,2.00613E+12,2006,Leeds,30
+GoingAheadOtherJunction,2.00613E+12,2006,Leeds,6
+GoingAheadOtherJunction,2.00613E+12,2006,Kirklees,25
+GoingAheadOtherJunction,2.00613E+12,2006,Bradford,34
+GoingAheadOtherJunction,2.00613E+12,2006,Kirklees,20
+GoingAheadOtherJunction,200614A023506,2006,Doncaster,9
+GoingAheadOtherJunction,200614A123706,2006,Doncaster,25
+GoingAheadOtherJunction,200614A145606,2006,Doncaster,85
+GoingAheadOtherJunction,200614A180906,2006,Doncaster,10
+GoingAheadOtherJunction,200614B110906,2006,Barnsley,9
+GoingAheadOtherJunction,200614C055906,2006,Rotherham,9
+GoingAheadOtherJunction,200614C159406,2006,Rotherham,30
+GoingAheadOtherJunction,200614D013206,2006,Sheffield,33
+GoingAheadOtherJunction,200614F035106,2006,Sheffield,14
+GoingAheadOtherJunction,200614G066506,2006,Sheffield,34
+GoingAheadOtherJunction,2.00622E+12,2006,Staffordshire,12
+GoingAheadOtherJunction,200622DE85007,2006,Worcestershire,11
+GoingAheadOtherJunction,200622FA49100,2006,Shropshire,7
+GoingAheadOtherJunction,200622GA43295,2006,Telford and Wrekin,27
+GoingAheadOtherJunction,200630B000461,2006,Derbyshire,13
+GoingAheadOtherJunction,20063102A1082,2006,Nottinghamshire,12
+GoingAheadOtherJunction,20063108B2113,2006,Nottinghamshire,19
+GoingAheadOtherJunction,200632C006806,2006,Lincolnshire,55
+GoingAheadOtherJunction,200632C111206,2006,Lincolnshire,14
+GoingAheadOtherJunction,200632C127906,2006,Lincolnshire,54
+GoingAheadOtherJunction,200632C157606,2006,Lincolnshire,15
+GoingAheadOtherJunction,200632C186506,2006,Lincolnshire,12
+GoingAheadOtherJunction,200632C339106,2006,Lincolnshire,16
+GoingAheadOtherJunction,200632D006606,2006,Lincolnshire,34
+GoingAheadOtherJunction,200632D011806,2006,Lincolnshire,16
+GoingAheadOtherJunction,200632D221706,2006,Lincolnshire,76
+GoingAheadOtherJunction,200632D364306,2006,Lincolnshire,13
+GoingAheadOtherJunction,2.00635E+12,2006,Peterborough,13
+GoingAheadOtherJunction,2.00635E+12,2006,Cambridgeshire,16
+GoingAheadOtherJunction,2.00635E+12,2006,Peterborough,70
+GoingAheadOtherJunction,2.00635E+12,2006,Cambridgeshire,39
+GoingAheadOtherJunction,2.00636E+12,2006,Norfolk,15
+GoingAheadOtherJunction,2.00636E+12,2006,Norfolk,23
+GoingAheadOtherJunction,2.00636E+12,2006,Norfolk,13
+GoingAheadOtherJunction,2.00636E+12,2006,Norfolk,12
+GoingAheadOtherJunction,2.00636E+12,2006,Norfolk,38
+GoingAheadOtherJunction,2.00636E+12,2006,Norfolk,30
+GoingAheadOtherJunction,2.00636E+12,2006,Norfolk,6
+GoingAheadOtherJunction,2.00636E+12,2006,Norfolk,24
+GoingAheadOtherJunction,200637L012547,2006,Suffolk,15
+GoingAheadOtherJunction,200637L013065,2006,Suffolk,16
+GoingAheadOtherJunction,200637L013308,2006,Suffolk,9
+GoingAheadOtherJunction,20064100A0708,2006,Hertfordshire,25
+GoingAheadOtherJunction,20064100A0753,2006,Hertfordshire,30
+GoingAheadOtherJunction,200642A012802,2006,Essex,47
+GoingAheadOtherJunction,200642C019404,2006,Essex,15
+GoingAheadOtherJunction,200642G044306,2006,Essex,34
+GoingAheadOtherJunction,200642H014604,2006,Southend on Sea,89
+GoingAheadOtherJunction,200642H020606,2006,Southend on Sea,53
+GoingAheadOtherJunction,200642I272907,2006,Essex,27
+GoingAheadOtherJunction,200642I288205,2006,Essex,31
+GoingAheadOtherJunction,200642I288407,2006,Essex,10
+GoingAheadOtherJunction,200642I310708,2006,Essex,16
+GoingAheadOtherJunction,200642I310808,2006,Essex,14
+GoingAheadOtherJunction,200642I341708,2006,Essex,16
+GoingAheadOtherJunction,200642I364909,2006,Essex,14
+GoingAheadOtherJunction,200642I372809,2006,Essex,36
+GoingAheadOtherJunction,200642I427910,2006,Essex,12
+GoingAheadOtherJunction,200642I549112,2006,Essex,52
+GoingAheadOtherJunction,200642J002601,2006,Essex,12
+GoingAheadOtherJunction,200642J011203,2006,Essex,47
+GoingAheadOtherJunction,200642J012604,2006,Essex,30
+GoingAheadOtherJunction,200643N012026,2006,Milton Keynes,19
+GoingAheadOtherJunction,200643N085016,2006,Milton Keynes,18
+GoingAheadOtherJunction,200643N364026,2006,Milton Keynes,40
+GoingAheadOtherJunction,200643R152126,2006,Bracknell Forest,21
+GoingAheadOtherJunction,200643S006086,2006,Milton Keynes,14
+GoingAheadOtherJunction,200643S049096,2006,Milton Keynes,7
+GoingAheadOtherJunction,200643S055076,2006,Milton Keynes,13
+GoingAheadOtherJunction,200643S061056,2006,Milton Keynes,45
+GoingAheadOtherJunction,200643S074076,2006,Milton Keynes,14
+GoingAheadOtherJunction,200643S081096,2006,Milton Keynes,17
+GoingAheadOtherJunction,200643S109116,2006,Milton Keynes,21
+GoingAheadOtherJunction,200643S126076,2006,Milton Keynes,9
+GoingAheadOtherJunction,200643S138096,2006,Milton Keynes,12
+GoingAheadOtherJunction,200643S168106,2006,Milton Keynes,14
+GoingAheadOtherJunction,2.00644E+12,2006,Hampshire,13
+GoingAheadOtherJunction,2.00644E+12,2006,Hampshire,15
+GoingAheadOtherJunction,2.00644E+12,2006,Hampshire,56
+GoingAheadOtherJunction,2.00644E+12,2006,Hampshire,15
+GoingAheadOtherJunction,2.00644E+12,2006,Hampshire,8
+GoingAheadOtherJunction,200645EL91212,2006,Surrey,16
+GoingAheadOtherJunction,200645EL91602,2006,Surrey,28
+GoingAheadOtherJunction,200645EL93257,2006,Surrey,42
+GoingAheadOtherJunction,200645GU83051,2006,Surrey,46
+GoingAheadOtherJunction,200645GU90863,2006,Surrey,29
+GoingAheadOtherJunction,200645MO90944,2006,Surrey,29
+GoingAheadOtherJunction,200645RE80946,2006,Surrey,16
+GoingAheadOtherJunction,200645SP88141,2006,Surrey,
+GoingAheadOtherJunction,200645SP89095,2006,Surrey,9
+GoingAheadOtherJunction,200645SU86574,2006,Surrey,9
+GoingAheadOtherJunction,200645WA79525,2006,Surrey,33
+GoingAheadOtherJunction,200645WA91596,2006,Surrey,10
+GoingAheadOtherJunction,200645WO79867,2006,Surrey,21
+GoingAheadOtherJunction,200645WO80335,2006,Surrey,20
+GoingAheadOtherJunction,200645WO89290,2006,Surrey,11
+GoingAheadOtherJunction,200645WO96118,2006,Surrey,40
+GoingAheadOtherJunction,2.00646E+12,2006,Kent,11
+GoingAheadOtherJunction,2.00646E+12,2006,Kent,53
+GoingAheadOtherJunction,2.00646E+12,2006,Kent,42
+GoingAheadOtherJunction,2.00646E+12,2006,Kent,19
+GoingAheadOtherJunction,2.00646E+12,2006,Kent,27
+GoingAheadOtherJunction,2.00647E+12,2006,West Sussex,18
+GoingAheadOtherJunction,2.00647E+12,2006,East Sussex,23
+GoingAheadOtherJunction,2.00647E+12,2006,West Sussex,21
+GoingAheadOtherJunction,2.00647E+12,2006,East Sussex,30
+GoingAheadOtherJunction,2.00647E+12,2006,Brighton and Hove,27
+GoingAheadOtherJunction,2.00647E+12,2006,West Sussex,36
+GoingAheadOtherJunction,2.00647E+12,2006,Brighton and Hove,49
+GoingAheadOtherJunction,2.00647E+12,2006,Brighton and Hove,43
+GoingAheadOtherJunction,2.00647E+12,2006,Brighton and Hove,31
+GoingAheadOtherJunction,200650A42E932,2006,Cornwall and Isles of Scilly,32
+GoingAheadOtherJunction,200650B32E936,2006,Cornwall and Isles of Scilly,13
+GoingAheadOtherJunction,200650B61J988,2006,Cornwall and Isles of Scilly,26
+GoingAheadOtherJunction,200650B61L116,2006,Cornwall and Isles of Scilly,11
+GoingAheadOtherJunction,200650E21P074,2006,Plymouth,33
+GoingAheadOtherJunction,200650E41I313,2006,Plymouth,35
+GoingAheadOtherJunction,200650F41G307,2006,Devon,12
+GoingAheadOtherJunction,2.00652E+12,2006,City of Bristol,12
+GoingAheadOtherJunction,2.00652E+12,2006,Bath and North East Somerset,22
+GoingAheadOtherJunction,2.00652E+12,2006,City of Bristol,37
+GoingAheadOtherJunction,2.00652E+12,2006,Somerset,9
+GoingAheadOtherJunction,2.00652E+12,2006,Somerset,11
+GoingAheadOtherJunction,2.00652E+12,2006,City of Bristol,42
+GoingAheadOtherJunction,2.00652E+12,2006,Somerset,9
+GoingAheadOtherJunction,2.00652E+12,2006,Somerset,36
+GoingAheadOtherJunction,2.00652E+12,2006,Somerset,8
+GoingAheadOtherJunction,2.00652E+12,2006,Somerset,13
+GoingAheadOtherJunction,2.00652E+12,2006,Somerset,9
+GoingAheadOtherJunction,2.00652E+12,2006,North Somerset,23
+GoingAheadOtherJunction,2.00652E+12,2006,City of Bristol,30
+GoingAheadOtherJunction,2.00652E+12,2006,City of Bristol,31
+GoingAheadOtherJunction,2.00652E+12,2006,North Somerset,10
+GoingAheadOtherJunction,2.00652E+12,2006,North Somerset,52
+GoingAheadOtherJunction,2.00652E+12,2006,City of Bristol,33
+GoingAheadOtherJunction,2.00652E+12,2006,City of Bristol,20
+GoingAheadOtherJunction,2.00653E+12,2006,Gloucestershire,14
+GoingAheadOtherJunction,2.00653E+12,2006,Gloucestershire,21
+GoingAheadOtherJunction,2.00653E+12,2006,Gloucestershire,34
+GoingAheadOtherJunction,2006556E03932,2006,Dorset,14
+GoingAheadOtherJunction,200701CW64259,2007,London,57
+GoingAheadOtherJunction,200701EK63145,2007,London,43
+GoingAheadOtherJunction,200701GD64484,2007,London,33
+GoingAheadOtherJunction,200701GD67172,2007,London,32
+GoingAheadOtherJunction,200701GD68945,2007,London,
+GoingAheadOtherJunction,200701JC66090,2007,London,13
+GoingAheadOtherJunction,200701KD65142,2007,London,10
+GoingAheadOtherJunction,200701KF64840,2007,London,12
+GoingAheadOtherJunction,200701KF65935,2007,London,20
+GoingAheadOtherJunction,200701KF66241,2007,London,55
+GoingAheadOtherJunction,200701KF68926,2007,London,28
+GoingAheadOtherJunction,200701LX62295,2007,London,28
+GoingAheadOtherJunction,200701MD62226,2007,London,21
+GoingAheadOtherJunction,200701MD63154,2007,London,43
+GoingAheadOtherJunction,200701MD64706,2007,London,23
+GoingAheadOtherJunction,200701PL62574,2007,London,44
+GoingAheadOtherJunction,200701PL64986,2007,London,47
+GoingAheadOtherJunction,200701PY66405,2007,London,13
+GoingAheadOtherJunction,200701QA63680,2007,London,28
+GoingAheadOtherJunction,200701RY62723,2007,London,15
+GoingAheadOtherJunction,200701YR66737,2007,London,17
+GoingAheadOtherJunction,200701ZD62585,2007,London,12
+GoingAheadOtherJunction,200701ZD64231,2007,London,37
+GoingAheadOtherJunction,2.00703E+12,2007,Cumbria,45
+GoingAheadOtherJunction,2.00703E+12,2007,Cumbria,14
+GoingAheadOtherJunction,2.00703E+12,2007,Cumbria,14
+GoingAheadOtherJunction,2.00703E+12,2007,Cumbria,7
+GoingAheadOtherJunction,200704BC07195,2007,Lancashire,52
+GoingAheadOtherJunction,200704BC07218,2007,Lancashire,44
+GoingAheadOtherJunction,200704BC07238,2007,Lancashire,47
+GoingAheadOtherJunction,200704CA07123,2007,Lancashire,14
+GoingAheadOtherJunction,200704CJ07037,2007,Lancashire,45
+GoingAheadOtherJunction,200704DF07116,2007,Lancashire,8
+GoingAheadOtherJunction,200704DL07035,2007,Lancashire,43
+GoingAheadOtherJunction,200704EM07033,2007,Lancashire,13
+GoingAheadOtherJunction,200704EN07080,2007,Lancashire,19
+GoingAheadOtherJunction,200704EN07081,2007,Lancashire,72
+GoingAheadOtherJunction,200704FB07090,2007,Lancashire,13
+GoingAheadOtherJunction,200705AA17149,2007,Merseyside,6
+GoingAheadOtherJunction,200705AA17576,2007,Merseyside,10
+GoingAheadOtherJunction,200705AA19748,2007,Merseyside,15
+GoingAheadOtherJunction,200705AA19959,2007,Merseyside,15
+GoingAheadOtherJunction,200705BB17523,2007,Merseyside,34
+GoingAheadOtherJunction,200705CC17441,2007,Merseyside,6
+GoingAheadOtherJunction,200705EE17761,2007,Merseyside,11
+GoingAheadOtherJunction,200705EE22719,2007,Merseyside,30
+GoingAheadOtherJunction,200706B069935,2007,Manchester,17
+GoingAheadOtherJunction,200706J083350,2007,Stockport,11
+GoingAheadOtherJunction,200706K070346,2007,Bolton,15
+GoingAheadOtherJunction,2.00707E+12,2007,Halton,16
+GoingAheadOtherJunction,2.00707E+12,2007,Cheshire West and Chester,10
+GoingAheadOtherJunction,2.00707E+12,2007,Cheshire West and Chester,20
+GoingAheadOtherJunction,2.00707E+12,2007,Cheshire West and Chester,69
+GoingAheadOtherJunction,2.0071E+12,2007,North Tyneside,53
+GoingAheadOtherJunction,2.00712E+12,2007,York,17
+GoingAheadOtherJunction,2.00712E+12,2007,York,40
+GoingAheadOtherJunction,2.00713E+12,2007,Bradford,13
+GoingAheadOtherJunction,2.00713E+12,2007,Calderdale,8
+GoingAheadOtherJunction,2.00713E+12,2007,Calderdale,10
+GoingAheadOtherJunction,2.00713E+12,2007,Calderdale,24
+GoingAheadOtherJunction,2.00713E+12,2007,Wakefield,11
+GoingAheadOtherJunction,2.00713E+12,2007,Bradford,13
+GoingAheadOtherJunction,200714A063407,2007,Doncaster,11
+GoingAheadOtherJunction,200714A253607,2007,Doncaster,14
+GoingAheadOtherJunction,200714B099507,2007,Barnsley,13
+GoingAheadOtherJunction,200714B112307,2007,Barnsley,11
+GoingAheadOtherJunction,200714B119507,2007,Barnsley,53
+GoingAheadOtherJunction,200714B139607,2007,Barnsley,70
+GoingAheadOtherJunction,200714C101407,2007,Rotherham,11
+GoingAheadOtherJunction,2007160C03580,2007,East Riding of Yorkshire,10
+GoingAheadOtherJunction,2007160D02430,2007,Kingston Upon Hull,15
+GoingAheadOtherJunction,200720J038902,2007,Dudley,13
+GoingAheadOtherJunction,2.00722E+12,2007,Staffordshire,19
+GoingAheadOtherJunction,200722FA85967,2007,Shropshire,35
+GoingAheadOtherJunction,200722FA86484,2007,Shropshire,13
+GoingAheadOtherJunction,20073102B2474,2007,Nottinghamshire,33
+GoingAheadOtherJunction,20073102C3477,2007,Nottingham,16
+GoingAheadOtherJunction,200732B187307,2007,Lincolnshire,14
+GoingAheadOtherJunction,200732B330107,2007,Lincolnshire,13
+GoingAheadOtherJunction,200732B400307,2007,Lincolnshire,12
+GoingAheadOtherJunction,200732C016207,2007,Lincolnshire,26
+GoingAheadOtherJunction,200732C035307,2007,Lincolnshire,14
+GoingAheadOtherJunction,200732C039107,2007,Lincolnshire,28
+GoingAheadOtherJunction,200732C045207,2007,Lincolnshire,10
+GoingAheadOtherJunction,200732D062707,2007,Lincolnshire,16
+GoingAheadOtherJunction,200732D274007,2007,Lincolnshire,51
+GoingAheadOtherJunction,2.00735E+12,2007,Cambridgeshire,9
+GoingAheadOtherJunction,2.00735E+12,2007,Cambridgeshire,9
+GoingAheadOtherJunction,200736T070202,2007,Norfolk,13
+GoingAheadOtherJunction,200737G023055,2007,Suffolk,11
+GoingAheadOtherJunction,2007400C03594,2007,Luton,30
+GoingAheadOtherJunction,2007400C03614,2007,Luton,15
+GoingAheadOtherJunction,2007400D02776,2007,Central Bedfordshire,35
+GoingAheadOtherJunction,200742I108203,2007,Southend on Sea,
+GoingAheadOtherJunction,200742I139804,2007,Essex,8
+GoingAheadOtherJunction,200742I166705,2007,Essex,9
+GoingAheadOtherJunction,200742I214506,2007,Essex,44
+GoingAheadOtherJunction,200742I233806,2007,Southend on Sea,15
+GoingAheadOtherJunction,200742I291307,2007,Essex,13
+GoingAheadOtherJunction,200742I292907,2007,Essex,12
+GoingAheadOtherJunction,200742I294304,2007,Essex,16
+GoingAheadOtherJunction,200742I328408,2007,Essex,13
+GoingAheadOtherJunction,200742I342308,2007,Thurrock,11
+GoingAheadOtherJunction,200742I434610,2007,Essex,30
+GoingAheadOtherJunction,200742I438410,2007,Southend on Sea,33
+GoingAheadOtherJunction,200742I453411,2007,Essex,16
+GoingAheadOtherJunction,200742I478111,2007,Essex,10
+GoingAheadOtherJunction,200743N152067,2007,Buckinghamshire,13
+GoingAheadOtherJunction,200743N283077,2007,Buckinghamshire,16
+GoingAheadOtherJunction,200743R150067,2007,Slough,9
+GoingAheadOtherJunction,200743S007037,2007,Milton Keynes,13
+GoingAheadOtherJunction,200743S008107,2007,Milton Keynes,17
+GoingAheadOtherJunction,200743S029097,2007,Milton Keynes,30
+GoingAheadOtherJunction,200743S037097,2007,Milton Keynes,8
+GoingAheadOtherJunction,200743S047087,2007,Milton Keynes,23
+GoingAheadOtherJunction,200743S057047,2007,Milton Keynes,12
+GoingAheadOtherJunction,200743S076047,2007,Milton Keynes,17
+GoingAheadOtherJunction,200743S112087,2007,Milton Keynes,21
+GoingAheadOtherJunction,200743S124107,2007,Milton Keynes,30
+GoingAheadOtherJunction,200743S131097,2007,Milton Keynes,16
+GoingAheadOtherJunction,200743S133077,2007,Milton Keynes,17
+GoingAheadOtherJunction,2.00744E+12,2007,Hampshire,40
+GoingAheadOtherJunction,2.00744E+12,2007,Southampton ,12
+GoingAheadOtherJunction,2.00744E+12,2007,Hampshire,11
+GoingAheadOtherJunction,200745EL02624,2007,Surrey,36
+GoingAheadOtherJunction,200745EL04341,2007,Surrey,13
+GoingAheadOtherJunction,200745GU05709,2007,Surrey,30
+GoingAheadOtherJunction,200745MO12422,2007,Surrey,44
+GoingAheadOtherJunction,200745RU03163,2007,Surrey,35
+GoingAheadOtherJunction,200745RU05186,2007,Surrey,49
+GoingAheadOtherJunction,200745SP04326,2007,Surrey,14
+GoingAheadOtherJunction,200745SP05244,2007,Surrey,82
+GoingAheadOtherJunction,200745SP97513,2007,Surrey,30
+GoingAheadOtherJunction,200745SP99424,2007,Surrey,14
+GoingAheadOtherJunction,200745SU09576,2007,Surrey,16
+GoingAheadOtherJunction,200745WO01301,2007,Surrey,14
+GoingAheadOtherJunction,200745WO10636,2007,Surrey,23
+GoingAheadOtherJunction,2.00746E+12,2007,Kent,18
+GoingAheadOtherJunction,2.00746E+12,2007,Kent,11
+GoingAheadOtherJunction,2.00746E+12,2007,Kent,14
+GoingAheadOtherJunction,2.00746E+12,2007,Kent,19
+GoingAheadOtherJunction,2.00746E+12,2007,Kent,12
+GoingAheadOtherJunction,2.00746E+12,2007,Kent,30
+GoingAheadOtherJunction,2.00746E+12,2007,Kent,19
+GoingAheadOtherJunction,2.00746E+12,2007,Kent,10
+GoingAheadOtherJunction,2.00746E+12,2007,Kent,12
+GoingAheadOtherJunction,2.00747E+12,2007,West Sussex,24
+GoingAheadOtherJunction,2.00747E+12,2007,East Sussex,20
+GoingAheadOtherJunction,2.00747E+12,2007,West Sussex,36
+GoingAheadOtherJunction,2.00747E+12,2007,East Sussex,10
+GoingAheadOtherJunction,2.00747E+12,2007,West Sussex,86
+GoingAheadOtherJunction,2.00747E+12,2007,West Sussex,40
+GoingAheadOtherJunction,2.00747E+12,2007,East Sussex,60
+GoingAheadOtherJunction,2.00747E+12,2007,West Sussex,14
+GoingAheadOtherJunction,2.00747E+12,2007,East Sussex,13
+GoingAheadOtherJunction,2.00747E+12,2007,West Sussex,35
+GoingAheadOtherJunction,2.00747E+12,2007,East Sussex,8
+GoingAheadOtherJunction,200750B51F141,2007,Cornwall and Isles of Scilly,
+GoingAheadOtherJunction,200750B71C476,2007,Cornwall and Isles of Scilly,
+GoingAheadOtherJunction,200750D21A462,2007,Devon,48
+GoingAheadOtherJunction,200750E21G380,2007,Plymouth,13
+GoingAheadOtherJunction,200750E31D192,2007,Plymouth,
+GoingAheadOtherJunction,200750E31L444,2007,Plymouth,34
+GoingAheadOtherJunction,2.00752E+12,2007,City of Bristol,27
+GoingAheadOtherJunction,2.00752E+12,2007,Somerset,18
+GoingAheadOtherJunction,2.00752E+12,2007,North Somerset,24
+GoingAheadOtherJunction,2.00752E+12,2007,North Somerset,
+GoingAheadOtherJunction,2.00752E+12,2007,Bath and North East Somerset,43
+GoingAheadOtherJunction,2.00752E+12,2007,North Somerset,53
+GoingAheadOtherJunction,2.00752E+12,2007,Somerset,13
+GoingAheadOtherJunction,2.00753E+12,2007,Gloucestershire,10
+GoingAheadOtherJunction,200754DN53307,2007,Swindon,14
+GoingAheadOtherJunction,2007557B00243,2007,Bournemouth,22
+GoingAheadOtherJunction,2007557E02643,2007,Dorset,51
+GoingAheadOtherJunction,200801FH10077,2008,London,39
+GoingAheadOtherJunction,200801GD69096,2008,London,24
+GoingAheadOtherJunction,200801GD69541,2008,London,13
+GoingAheadOtherJunction,200801GD69686,2008,London,40
+GoingAheadOtherJunction,200801GD70040,2008,London,36
+GoingAheadOtherJunction,200801GD73165,2008,London,45
+GoingAheadOtherJunction,200801GD73332,2008,London,41
+GoingAheadOtherJunction,200801GD73408,2008,London,27
+GoingAheadOtherJunction,200801GD75034,2008,London,27
+GoingAheadOtherJunction,200801GD76056,2008,London,33
+GoingAheadOtherJunction,200801HT72193,2008,London,23
+GoingAheadOtherJunction,200801HT72524,2008,London,34
+GoingAheadOtherJunction,200801HT75103,2008,London,23
+GoingAheadOtherJunction,200801HT75819,2008,London,39
+GoingAheadOtherJunction,200801JC73816,2008,London,41
+GoingAheadOtherJunction,200801JC73872,2008,London,28
+GoingAheadOtherJunction,200801JI69575,2008,London,16
+GoingAheadOtherJunction,200801KF73522,2008,London,28
+GoingAheadOtherJunction,200801KF74396,2008,London,31
+GoingAheadOtherJunction,200801KF74420,2008,London,20
+GoingAheadOtherJunction,200801KG69324,2008,London,13
+GoingAheadOtherJunction,200801KG73270,2008,London,14
+GoingAheadOtherJunction,200801KG73368,2008,London,13
+GoingAheadOtherJunction,200801YR72350,2008,London,35
+GoingAheadOtherJunction,200801YR72980,2008,London,20
+GoingAheadOtherJunction,2.00803E+12,2008,Cumbria,9
+GoingAheadOtherJunction,2.00803E+12,2008,Cumbria,15
+GoingAheadOtherJunction,200804AM08184,2008,Blackpool,17
+GoingAheadOtherJunction,200804BA08037,2008,Lancashire,29
+GoingAheadOtherJunction,200804BA08123,2008,Lancashire,22
+GoingAheadOtherJunction,200804BC08142,2008,Lancashire,11
+GoingAheadOtherJunction,200804BC08279,2008,Lancashire,28
+GoingAheadOtherJunction,200804CC08029,2008,Lancashire,15
+GoingAheadOtherJunction,200804CL08028,2008,Lancashire,9
+GoingAheadOtherJunction,200804DA08114,2008,Lancashire,24
+GoingAheadOtherJunction,200804DL08115,2008,Lancashire,10
+GoingAheadOtherJunction,200804EL08061,2008,Lancashire,18
+GoingAheadOtherJunction,200804FA08104,2008,Lancashire,11
+GoingAheadOtherJunction,200805AA24657,2008,Merseyside,50
+GoingAheadOtherJunction,200805EE22852,2008,Merseyside,60
+GoingAheadOtherJunction,200805EE24198,2008,Merseyside,39
+GoingAheadOtherJunction,200805EE25703,2008,Merseyside,23
+GoingAheadOtherJunction,200805EE25807,2008,Merseyside,37
+GoingAheadOtherJunction,200805EE26282,2008,Merseyside,11
+GoingAheadOtherJunction,200805FF27332,2008,Merseyside,34
+GoingAheadOtherJunction,2.00807E+12,2008,Cheshire West and Chester,59
+GoingAheadOtherJunction,2.00807E+12,2008,Cheshire West and Chester,15
+GoingAheadOtherJunction,2.00807E+12,2008,Cheshire East,28
+GoingAheadOtherJunction,200811ND11078,2008,Durham,23
+GoingAheadOtherJunction,200811SJ22798,2008,Darlington,12
+GoingAheadOtherJunction,200811SJ31368,2008,Darlington,16
+GoingAheadOtherJunction,2.00812E+12,2008,York,11
+GoingAheadOtherJunction,2.00812E+12,2008,North Yorkshire,6
+GoingAheadOtherJunction,2.00812E+12,2008,North Yorkshire,6
+GoingAheadOtherJunction,2.00812E+12,2008,North Yorkshire,78
+GoingAheadOtherJunction,2.00812E+12,2008,York,54
+GoingAheadOtherJunction,2.00813E+12,2008,Kirklees,41
+GoingAheadOtherJunction,2.00813E+12,2008,Calderdale,29
+GoingAheadOtherJunction,2.00813E+12,2008,Kirklees,12
+GoingAheadOtherJunction,2.00813E+12,2008,Kirklees,48
+GoingAheadOtherJunction,2.00813E+12,2008,Leeds,13
+GoingAheadOtherJunction,2.00813E+12,2008,Leeds,20
+GoingAheadOtherJunction,2.00813E+12,2008,Bradford,14
+GoingAheadOtherJunction,2.00813E+12,2008,Leeds,28
+GoingAheadOtherJunction,2.00813E+12,2008,Leeds,22
+GoingAheadOtherJunction,2.00813E+12,2008,Leeds,41
+GoingAheadOtherJunction,200814A096908,2008,Doncaster,13
+GoingAheadOtherJunction,200814A122608,2008,Doncaster,40
+GoingAheadOtherJunction,200814B032608,2008,Barnsley,32
+GoingAheadOtherJunction,200814B069808,2008,Barnsley,13
+GoingAheadOtherJunction,200814K077108,2008,Sheffield,10
+GoingAheadOtherJunction,200814K099608,2008,Sheffield,41
+GoingAheadOtherJunction,200814K117208,2008,Sheffield,17
+GoingAheadOtherJunction,200814K124908,2008,Sheffield,20
+GoingAheadOtherJunction,200814K180208,2008,Sheffield,50
+GoingAheadOtherJunction,200814K195308,2008,Sheffield,13
+GoingAheadOtherJunction,200822EA87003,2008,Herefordshire,14
+GoingAheadOtherJunction,200832B171108,2008,Lincolnshire,7
+GoingAheadOtherJunction,200832B249608,2008,Lincolnshire,8
+GoingAheadOtherJunction,200832D159208,2008,Lincolnshire,34
+GoingAheadOtherJunction,200832D225808,2008,Lincolnshire,23
+GoingAheadOtherJunction,2.00836E+12,2008,Norfolk,14
+GoingAheadOtherJunction,2.00836E+12,2008,Norfolk,12
+GoingAheadOtherJunction,2.00836E+12,2008,Norfolk,13
+GoingAheadOtherJunction,200842I023801,2008,Essex,17
+GoingAheadOtherJunction,200842I044302,2008,Essex,14
+GoingAheadOtherJunction,200842I057702,2008,Thurrock,17
+GoingAheadOtherJunction,200842I092903,2008,Essex,53
+GoingAheadOtherJunction,200842I132604,2008,Essex,66
+GoingAheadOtherJunction,200842I132704,2008,Essex,34
+GoingAheadOtherJunction,200842I150604,2008,Essex,70
+GoingAheadOtherJunction,200842I164805,2008,Essex,13
+GoingAheadOtherJunction,200842I182005,2008,Essex,10
+GoingAheadOtherJunction,200842I198406,2008,Essex,58
+GoingAheadOtherJunction,200842I200106,2008,Essex,6
+GoingAheadOtherJunction,200842I208406,2008,Essex,14
+GoingAheadOtherJunction,200842I218106,2008,Essex,45
+GoingAheadOtherJunction,200842I218206,2008,Essex,45
+GoingAheadOtherJunction,200842I266307,2008,Essex,40
+GoingAheadOtherJunction,200842I321809,2008,Essex,17
+GoingAheadOtherJunction,200842I346209,2008,Essex,36
+GoingAheadOtherJunction,200842I385410,2008,Essex,20
+GoingAheadOtherJunction,200842I415011,2008,Essex,20
+GoingAheadOtherJunction,200842I446512,2008,Essex,48
+GoingAheadOtherJunction,200842I454510,2008,Essex,11
+GoingAheadOtherJunction,200843P255078,2008,Oxfordshire,14
+GoingAheadOtherJunction,200843R004098,2008,Bracknell Forest,16
+GoingAheadOtherJunction,200843R027068,2008,Windsor and Maidenhead,14
+GoingAheadOtherJunction,200843S043058,2008,Milton Keynes,8
+GoingAheadOtherJunction,200843W143068,2008,West Berkshire,16
+GoingAheadOtherJunction,200843W217078,2008,Reading,13
+GoingAheadOtherJunction,2.00844E+12,2008,Portsmouth,20
+GoingAheadOtherJunction,2.00844E+12,2008,Hampshire,13
+GoingAheadOtherJunction,2.00844E+12,2008,Hampshire,11
+GoingAheadOtherJunction,2.00844E+12,2008,Hampshire,19
+GoingAheadOtherJunction,2.00844E+12,2008,Hampshire,29
+GoingAheadOtherJunction,2.00844E+12,2008,Hampshire,12
+GoingAheadOtherJunction,2.00844E+12,2008,Southampton ,17
+GoingAheadOtherJunction,200845EL29649,2008,Surrey,31
+GoingAheadOtherJunction,200845EL30341,2008,Surrey,43
+GoingAheadOtherJunction,200845EP16546,2008,Surrey,33
+GoingAheadOtherJunction,200845GU19984,2008,Surrey,25
+GoingAheadOtherJunction,200845GU20993,2008,Surrey,15
+GoingAheadOtherJunction,200845GU27359,2008,Surrey,19
+GoingAheadOtherJunction,200845GU27448,2008,Surrey,28
+GoingAheadOtherJunction,200845GU31100,2008,Surrey,50
+GoingAheadOtherJunction,200845MO25895,2008,Surrey,73
+GoingAheadOtherJunction,200845SP26091,2008,Surrey,60
+GoingAheadOtherJunction,200845SP27877,2008,Surrey,14
+GoingAheadOtherJunction,200845SP32229,2008,Surrey,42
+GoingAheadOtherJunction,200845SU23514,2008,Surrey,12
+GoingAheadOtherJunction,200845WO21101,2008,Surrey,
+GoingAheadOtherJunction,200845WO23305,2008,Surrey,22
+GoingAheadOtherJunction,2.00846E+12,2008,Kent,13
+GoingAheadOtherJunction,2.00846E+12,2008,Kent,16
+GoingAheadOtherJunction,2.00846E+12,2008,Kent,22
+GoingAheadOtherJunction,2.00846E+12,2008,Kent,35
+GoingAheadOtherJunction,2.00846E+12,2008,Kent,
+GoingAheadOtherJunction,2.00846E+12,2008,Kent,12
+GoingAheadOtherJunction,2.00847E+12,2008,West Sussex,24
+GoingAheadOtherJunction,2.00847E+12,2008,West Sussex,57
+GoingAheadOtherJunction,2.00847E+12,2008,West Sussex,13
+GoingAheadOtherJunction,2.00847E+12,2008,Brighton and Hove,31
+GoingAheadOtherJunction,2.00847E+12,2008,Brighton and Hove,25
+GoingAheadOtherJunction,2.00847E+12,2008,West Sussex,17
+GoingAheadOtherJunction,2.00847E+12,2008,West Sussex,14
+GoingAheadOtherJunction,2.00847E+12,2008,Brighton and Hove,10
+GoingAheadOtherJunction,2.00847E+12,2008,West Sussex,67
+GoingAheadOtherJunction,2.00847E+12,2008,West Sussex,25
+GoingAheadOtherJunction,2.00847E+12,2008,Brighton and Hove,24
+GoingAheadOtherJunction,2.00847E+12,2008,Brighton and Hove,50
+GoingAheadOtherJunction,200850D31C638,2008,Devon,13
+GoingAheadOtherJunction,200850DE2H004,2008,Devon,14
+GoingAheadOtherJunction,200850E41A083,2008,Plymouth,43
+GoingAheadOtherJunction,200850ED2E034,2008,Plymouth,14
+GoingAheadOtherJunction,200850EP2G011,2008,Plymouth,40
+GoingAheadOtherJunction,200850GA2E005,2008,Cornwall and Isles of Scilly,21
+GoingAheadOtherJunction,200850GN2C009,2008,Cornwall and Isles of Scilly,15
+GoingAheadOtherJunction,200850JN2N013,2008,Devon,9
+GoingAheadOtherJunction,200850JT2T001,2008,Devon,16
+GoingAheadOtherJunction,200850KE2E013,2008,Devon,14
+GoingAheadOtherJunction,2.00852E+12,2008,Somerset,15
+GoingAheadOtherJunction,2.00852E+12,2008,Somerset,19
+GoingAheadOtherJunction,2.00852E+12,2008,City of Bristol,21
+GoingAheadOtherJunction,2.00852E+12,2008,City of Bristol,20
+GoingAheadOtherJunction,2.00852E+12,2008,Bath and North East Somerset,
+GoingAheadOtherJunction,2.00852E+12,2008,North Somerset,20
+GoingAheadOtherJunction,2.00852E+12,2008,North Somerset,23
+GoingAheadOtherJunction,2.00852E+12,2008,Somerset,12
+GoingAheadOtherJunction,2.00852E+12,2008,Bath and North East Somerset,20
+GoingAheadOtherJunction,2.00852E+12,2008,Bath and North East Somerset,48
+GoingAheadOtherJunction,2.00853E+12,2008,Gloucestershire,14
+GoingAheadOtherJunction,2.00853E+12,2008,Gloucestershire,15
+GoingAheadOtherJunction,2.00853E+12,2008,Gloucestershire,9
+GoingAheadOtherJunction,200901EO40670,2009,London,29
+GoingAheadOtherJunction,200901FH10705,2009,London,23
+GoingAheadOtherJunction,200901KF60364,2009,London,39
+GoingAheadOtherJunction,200901QA10359,2009,London,18
+GoingAheadOtherJunction,2.00903E+12,2009,Cumbria,11
+GoingAheadOtherJunction,2.00903E+12,2009,Cumbria,8
+GoingAheadOtherJunction,200904AL09122,2009,Lancashire,10
+GoingAheadOtherJunction,200904AM09157,2009,Blackpool,8
+GoingAheadOtherJunction,200904AX09030,2009,Blackpool,28
+GoingAheadOtherJunction,200904BA09160,2009,Lancashire,26
+GoingAheadOtherJunction,200904BB09115,2009,Lancashire,10
+GoingAheadOtherJunction,200904BB09132,2009,Lancashire,30
+GoingAheadOtherJunction,200904BC09217,2009,Lancashire,47
+GoingAheadOtherJunction,200904BC09242,2009,Lancashire,14
+GoingAheadOtherJunction,200904CJ09063,2009,Lancashire,40
+GoingAheadOtherJunction,200904CL09035,2009,Lancashire,13
+GoingAheadOtherJunction,200904DA09018,2009,Lancashire,12
+GoingAheadOtherJunction,200904EA09120,2009,Blackburn with Darwen,5
+GoingAheadOtherJunction,200904EB09062,2009,Blackburn with Darwen,50
+GoingAheadOtherJunction,200904EN09067,2009,Lancashire,18
+GoingAheadOtherJunction,200904FB09041,2009,Lancashire,11
+GoingAheadOtherJunction,200905AA01361,2009,Merseyside,8
+GoingAheadOtherJunction,200905AA02349,2009,Merseyside,22
+GoingAheadOtherJunction,200905BB01712,2009,Merseyside,3
+GoingAheadOtherJunction,200905BB01756,2009,Merseyside,18
+GoingAheadOtherJunction,200905BB30218,2009,Merseyside,38
+GoingAheadOtherJunction,200905DD01042,2009,Merseyside,12
+GoingAheadOtherJunction,200905DD01454,2009,Merseyside,8
+GoingAheadOtherJunction,200905FF32428,2009,Merseyside,15
+GoingAheadOtherJunction,2.00907E+12,2009,Cheshire West and Chester,34
+GoingAheadOtherJunction,2.0091E+12,2009,Northumberland,68
+GoingAheadOtherJunction,2.0091E+12,2009,Northumberland,15
+GoingAheadOtherJunction,200911NI14509,2009,Durham,8
+GoingAheadOtherJunction,200911SJ23289,2009,Darlington,15
+GoingAheadOtherJunction,2.00912E+12,2009,York,46
+GoingAheadOtherJunction,2.00912E+12,2009,North Yorkshire,50
+GoingAheadOtherJunction,2.00912E+12,2009,North Yorkshire,23
+GoingAheadOtherJunction,2.00912E+12,2009,North Yorkshire,20
+GoingAheadOtherJunction,2.00912E+12,2009,North Yorkshire,44
+GoingAheadOtherJunction,2.00913E+12,2009,Leeds,47
+GoingAheadOtherJunction,2.00913E+12,2009,Calderdale,38
+GoingAheadOtherJunction,2.00913E+12,2009,Calderdale,59
+GoingAheadOtherJunction,2.00913E+12,2009,Wakefield,13
+GoingAheadOtherJunction,2.00913E+12,2009,Leeds,35
+GoingAheadOtherJunction,2.00913E+12,2009,Leeds,29
+GoingAheadOtherJunction,2.00913E+12,2009,Wakefield,9
+GoingAheadOtherJunction,200914A181209,2009,Doncaster,50
+GoingAheadOtherJunction,200914B104409,2009,Barnsley,9
+GoingAheadOtherJunction,200914C071409,2009,Rotherham,14
+GoingAheadOtherJunction,200914C130409,2009,Rotherham,40
+GoingAheadOtherJunction,200914K048009,2009,Sheffield,42
+GoingAheadOtherJunction,200914K185909,2009,Sheffield,25
+GoingAheadOtherJunction,200914K191209,2009,Sheffield,40
+GoingAheadOtherJunction,200920L510301,2009,Solihull,50
+GoingAheadOtherJunction,200920M034301,2009,Coventry,22
+GoingAheadOtherJunction,2.00922E+12,2009,Stoke on Trent,7
+GoingAheadOtherJunction,2.00922E+12,2009,Staffordshire,11
+GoingAheadOtherJunction,200922C901725,2009,Worcestershire,46
+GoingAheadOtherJunction,200922C905579,2009,Worcestershire,30
+GoingAheadOtherJunction,200922C906546,2009,Worcestershire,15
+GoingAheadOtherJunction,200922D903603,2009,Worcestershire,61
+GoingAheadOtherJunction,200922F905474,2009,Shropshire,37
+GoingAheadOtherJunction,200922F905670,2009,Shropshire,3
+GoingAheadOtherJunction,200922F905914,2009,Shropshire,13
+GoingAheadOtherJunction,200922G901191,2009,Telford and Wrekin,17
+GoingAheadOtherJunction,200922G903731,2009,Telford and Wrekin,17
+GoingAheadOtherJunction,200930C000302,2009,Derbyshire,14
+GoingAheadOtherJunction,20093102C0947,2009,Nottingham,8
+GoingAheadOtherJunction,200932C141609,2009,Lincolnshire,9
+GoingAheadOtherJunction,200932C346709,2009,Lincolnshire,15
+GoingAheadOtherJunction,200932C372409,2009,Lincolnshire,31
+GoingAheadOtherJunction,200932D372709,2009,Lincolnshire,16
+GoingAheadOtherJunction,2.00933E+12,2009,Leicestershire,31
+GoingAheadOtherJunction,2.00935E+12,2009,Peterborough,33
+GoingAheadOtherJunction,2.00935E+12,2009,Cambridgeshire,18
+GoingAheadOtherJunction,2.00935E+12,2009,Cambridgeshire,34
+GoingAheadOtherJunction,2.00936E+12,2009,Norfolk,20
+GoingAheadOtherJunction,200936T090103,2009,Norfolk,10
+GoingAheadOtherJunction,200937B042570,2009,Suffolk,9
+GoingAheadOtherJunction,200937B042995,2009,Suffolk,13
+GoingAheadOtherJunction,200942I016401,2009,Essex,33
+GoingAheadOtherJunction,200942I049702,2009,Essex,66
+GoingAheadOtherJunction,200942I055502,2009,Southend on Sea,16
+GoingAheadOtherJunction,200942I057202,2009,Essex,
+GoingAheadOtherJunction,200942I061202,2009,Essex,49
+GoingAheadOtherJunction,200942I077003,2009,Essex,31
+GoingAheadOtherJunction,200942I083103,2009,Southend on Sea,13
+GoingAheadOtherJunction,200942I118804,2009,Essex,
+GoingAheadOtherJunction,200942I137705,2009,Essex,10
+GoingAheadOtherJunction,200942I139005,2009,Southend on Sea,18
+GoingAheadOtherJunction,200942I197706,2009,Essex,20
+GoingAheadOtherJunction,200942I210407,2009,Essex,11
+GoingAheadOtherJunction,200942I222607,2009,Essex,14
+GoingAheadOtherJunction,200942I230207,2009,Essex,10
+GoingAheadOtherJunction,200942I256308,2009,Essex,50
+GoingAheadOtherJunction,200942I331710,2009,Essex,12
+GoingAheadOtherJunction,200942I334909,2009,Essex,30
+GoingAheadOtherJunction,200942I372211,2009,Essex,11
+GoingAheadOtherJunction,200942I405811,2009,Essex,35
+GoingAheadOtherJunction,200942I409112,2009,Essex,17
+GoingAheadOtherJunction,200942I444212,2009,Essex,14
+GoingAheadOtherJunction,200942I452112,2009,Thurrock,87
+GoingAheadOtherJunction,200943P215039,2009,Oxfordshire,15
+GoingAheadOtherJunction,200943S061069,2009,Milton Keynes,41
+GoingAheadOtherJunction,2.00944E+12,2009,Hampshire,37
+GoingAheadOtherJunction,2.00944E+12,2009,Portsmouth,22
+GoingAheadOtherJunction,200945EL35542,2009,Surrey,29
+GoingAheadOtherJunction,200945EL35996,2009,Surrey,
+GoingAheadOtherJunction,200945EL38688,2009,Surrey,23
+GoingAheadOtherJunction,200945EL42935,2009,Surrey,11
+GoingAheadOtherJunction,200945EP40297,2009,Surrey,13
+GoingAheadOtherJunction,200945RE36829,2009,Surrey,22
+GoingAheadOtherJunction,200945RE40984,2009,Surrey,14
+GoingAheadOtherJunction,200945RE41535,2009,Surrey,36
+GoingAheadOtherJunction,200945SP38850,2009,Surrey,17
+GoingAheadOtherJunction,200945SP45726,2009,Surrey,24
+GoingAheadOtherJunction,200945SU39246,2009,Surrey,
+GoingAheadOtherJunction,200945WA36456,2009,Surrey,17
+GoingAheadOtherJunction,200945WO35968,2009,Surrey,45
+GoingAheadOtherJunction,200945WO39171,2009,Surrey,13
+GoingAheadOtherJunction,200945WO41340,2009,Surrey,16
+GoingAheadOtherJunction,200945WO41937,2009,Surrey,15
+GoingAheadOtherJunction,2.00946E+12,2009,Kent,23
+GoingAheadOtherJunction,2.00946E+12,2009,Kent,29
+GoingAheadOtherJunction,2.00946E+12,2009,Kent,
+GoingAheadOtherJunction,2.00946E+12,2009,Kent,34
+GoingAheadOtherJunction,2.00946E+12,2009,Kent,24
+GoingAheadOtherJunction,2.00946E+12,2009,Kent,27
+GoingAheadOtherJunction,2.00946E+12,2009,Kent,15
+GoingAheadOtherJunction,2.00946E+12,2009,Kent,23
+GoingAheadOtherJunction,2.00947E+12,2009,Brighton and Hove,30
+GoingAheadOtherJunction,2.00947E+12,2009,Brighton and Hove,30
+GoingAheadOtherJunction,2.00947E+12,2009,Brighton and Hove,31
+GoingAheadOtherJunction,2.00947E+12,2009,West Sussex,12
+GoingAheadOtherJunction,2.00947E+12,2009,West Sussex,35
+GoingAheadOtherJunction,2.00947E+12,2009,Brighton and Hove,43
+GoingAheadOtherJunction,2.00947E+12,2009,East Sussex,45
+GoingAheadOtherJunction,2.00947E+12,2009,West Sussex,40
+GoingAheadOtherJunction,2.00947E+12,2009,West Sussex,20
+GoingAheadOtherJunction,2.00947E+12,2009,Brighton and Hove,28
+GoingAheadOtherJunction,2.00947E+12,2009,Brighton and Hove,35
+GoingAheadOtherJunction,2.00947E+12,2009,West Sussex,36
+GoingAheadOtherJunction,2.00947E+12,2009,West Sussex,14
+GoingAheadOtherJunction,200950CB2U006,2009,Devon,11
+GoingAheadOtherJunction,200950CB2U007,2009,Devon,11
+GoingAheadOtherJunction,200950DE2I081,2009,Devon,17
+GoingAheadOtherJunction,200950FB2A011,2009,Torbay,60
+GoingAheadOtherJunction,200950JN2N024,2009,Devon,38
+GoingAheadOtherJunction,200950KU2I023,2009,Devon,46
+GoingAheadOtherJunction,2.00952E+12,2009,Somerset,16
+GoingAheadOtherJunction,2.00952E+12,2009,Somerset,
+GoingAheadOtherJunction,2.00952E+12,2009,Bath and North East Somerset,15
+GoingAheadOtherJunction,2.00952E+12,2009,South Gloucestershire,46
+GoingAheadOtherJunction,2.01003E+12,2010,Cumbria,17
+GoingAheadOtherJunction,201004AM10184,2010,Blackpool,13
+GoingAheadOtherJunction,201004BA10140,2010,Lancashire,20
+GoingAheadOtherJunction,201004BB10043,2010,Lancashire,69
+GoingAheadOtherJunction,201004BB10053,2010,Lancashire,13
+GoingAheadOtherJunction,201004BC10178,2010,Lancashire,11
+GoingAheadOtherJunction,201004CC10048,2010,Lancashire,21
+GoingAheadOtherJunction,201004DF10054,2010,Lancashire,17
+GoingAheadOtherJunction,201004EA10191,2010,Blackburn with Darwen,8
+GoingAheadOtherJunction,201004EN10092,2010,Lancashire,67
+GoingAheadOtherJunction,201005AA06463,2010,Merseyside,13
+GoingAheadOtherJunction,201005BB05714,2010,Merseyside,28
+GoingAheadOtherJunction,201005DD07534,2010,Merseyside,10
+GoingAheadOtherJunction,201006Q030754,2010,Oldham,11
+GoingAheadOtherJunction,2.01007E+12,2010,Cheshire West and Chester,21
+GoingAheadOtherJunction,2.01007E+12,2010,Cheshire West and Chester,64
+GoingAheadOtherJunction,2.0101E+12,2010,Northumberland,4
+GoingAheadOtherJunction,2.0101E+12,2010,Northumberland,25
+GoingAheadOtherJunction,2.01012E+12,2010,York,40
+GoingAheadOtherJunction,2.01012E+12,2010,York,35
+GoingAheadOtherJunction,2.01012E+12,2010,York,43
+GoingAheadOtherJunction,2.01013E+12,2010,Leeds,15
+GoingAheadOtherJunction,2.01013E+12,2010,Kirklees,34
+GoingAheadOtherJunction,2.01013E+12,2010,Leeds,11
+GoingAheadOtherJunction,2.01013E+12,2010,Leeds,5
+GoingAheadOtherJunction,2.01013E+12,2010,Bradford,26
+GoingAheadOtherJunction,201014B004410,2010,Barnsley,39
+GoingAheadOtherJunction,201014C078110,2010,Rotherham,13
+GoingAheadOtherJunction,201014C120210,2010,Rotherham,42
+GoingAheadOtherJunction,201014K103310,2010,Sheffield,42
+GoingAheadOtherJunction,201014K184410,2010,Sheffield,18
+GoingAheadOtherJunction,201014K192510,2010,Sheffield,35
+GoingAheadOtherJunction,201022C002743,2010,Worcestershire,74
+GoingAheadOtherJunction,201022D001836,2010,Worcestershire,10
+GoingAheadOtherJunction,201022D003618,2010,Worcestershire,34
+GoingAheadOtherJunction,2.01023E+12,2010,Warwickshire,21
+GoingAheadOtherJunction,20103102A0895,2010,Nottinghamshire,12
+GoingAheadOtherJunction,20103102C0141,2010,Nottingham,11
+GoingAheadOtherJunction,201032B326510,2010,Lincolnshire,14
+GoingAheadOtherJunction,201032B403510,2010,Lincolnshire,64
+GoingAheadOtherJunction,201032C187210,2010,Lincolnshire,24
+GoingAheadOtherJunction,201032C188510,2010,Lincolnshire,16
+GoingAheadOtherJunction,201032C237510,2010,Lincolnshire,9
+GoingAheadOtherJunction,201032D017310,2010,Lincolnshire,47
+GoingAheadOtherJunction,201032D207510,2010,Lincolnshire,11
+GoingAheadOtherJunction,201032D241210,2010,Lincolnshire,83
+GoingAheadOtherJunction,201032D268510,2010,Lincolnshire,5
+GoingAheadOtherJunction,2.01036E+12,2010,Norfolk,38
+GoingAheadOtherJunction,2.01036E+12,2010,Norfolk,75
+GoingAheadOtherJunction,2.01036E+12,2010,Norfolk,17
+GoingAheadOtherJunction,2010400D03028,2010,Central Bedfordshire,9
+GoingAheadOtherJunction,20104100D0699,2010,Hertfordshire,11
+GoingAheadOtherJunction,201042I074402,2010,Essex,7
+GoingAheadOtherJunction,201042I092303,2010,Southend on Sea,29
+GoingAheadOtherJunction,201042I129204,2010,Essex,53
+GoingAheadOtherJunction,201042I130304,2010,Essex,18
+GoingAheadOtherJunction,201042I138805,2010,Essex,13
+GoingAheadOtherJunction,201042I192506,2010,Essex,13
+GoingAheadOtherJunction,201042I195806,2010,Essex,12
+GoingAheadOtherJunction,201042I263808,2010,Southend on Sea,17
+GoingAheadOtherJunction,201042I274908,2010,Essex,16
+GoingAheadOtherJunction,201042I279008,2010,Essex,6
+GoingAheadOtherJunction,201042I290109,2010,Essex,37
+GoingAheadOtherJunction,201042I340910,2010,Essex,30
+GoingAheadOtherJunction,201042I362011,2010,Southend on Sea,32
+GoingAheadOtherJunction,201042I394110,2010,Thurrock,16
+GoingAheadOtherJunction,201043P056090,2010,Oxfordshire,21
+GoingAheadOtherJunction,201043S032070,2010,Milton Keynes,
+GoingAheadOtherJunction,201043S067050,2010,Milton Keynes,46
+GoingAheadOtherJunction,201043S125030,2010,Milton Keynes,11
+GoingAheadOtherJunction,201043S131070,2010,Milton Keynes,12
+GoingAheadOtherJunction,2.01044E+12,2010,Hampshire,62
+GoingAheadOtherJunction,201045EL53779,2010,Surrey,16
+GoingAheadOtherJunction,201045EL56510,2010,Surrey,
+GoingAheadOtherJunction,201045EL56630,2010,Surrey,18
+GoingAheadOtherJunction,201045EP50936,2010,Surrey,14
+GoingAheadOtherJunction,201045MO50386,2010,Surrey,53
+GoingAheadOtherJunction,201045MO54321,2010,Surrey,48
+GoingAheadOtherJunction,201045RE51547,2010,Surrey,15
+GoingAheadOtherJunction,201045RU54811,2010,Surrey,73
+GoingAheadOtherJunction,201045RU55417,2010,Surrey,38
+GoingAheadOtherJunction,201045SP49915,2010,Surrey,52
+GoingAheadOtherJunction,201045SU49786,2010,Surrey,6
+GoingAheadOtherJunction,201045WA52890,2010,Surrey,15
+GoingAheadOtherJunction,201045WO50264,2010,Surrey,11
+GoingAheadOtherJunction,201045WO52742,2010,Surrey,22
+GoingAheadOtherJunction,2.01046E+12,2010,Kent,15
+GoingAheadOtherJunction,2.01047E+12,2010,East Sussex,9
+GoingAheadOtherJunction,2.01047E+12,2010,West Sussex,12
+GoingAheadOtherJunction,2.01047E+12,2010,Brighton and Hove,27
+GoingAheadOtherJunction,2.01047E+12,2010,West Sussex,13
+GoingAheadOtherJunction,201050AH2S009,2010,Cornwall and Isles of Scilly,47
+GoingAheadOtherJunction,201050CD3D019,2010,Devon,17
+GoingAheadOtherJunction,201050DE2E005,2010,Devon,
+GoingAheadOtherJunction,201050DE2F018,2010,Devon,41
+GoingAheadOtherJunction,201050DE2I015,2010,Devon,12
+GoingAheadOtherJunction,201050EC2F001,2010,Plymouth,21
+GoingAheadOtherJunction,201050FB2A002,2010,Torbay,16
+GoingAheadOtherJunction,201050GA2C015,2010,Cornwall and Isles of Scilly,18
+GoingAheadOtherJunction,201050JT2G002,2010,Devon,25
+GoingAheadOtherJunction,201050KE5O001,2010,Devon,47
+GoingAheadOtherJunction,2.01052E+12,2010,Somerset,32
+GoingAheadOtherJunction,2.01052E+12,2010,Bath and North East Somerset,12
+GoingAheadOtherJunction,2.01052E+12,2010,Bath and North East Somerset,18
+GoingAheadOtherJunction,2.01052E+12,2010,North Somerset,12
+GoingAheadOtherJunction,2.01053E+12,2010,Gloucestershire,68
+GoingAheadOtherJunction,2010550C25926,2010,Poole,57
+GoingAheadOtherJunction,2011201101PY20412,2011,London,16
+GoingAheadOtherJunction,2011201101ZT80144,2011,London,11
+GoingAheadOtherJunction,2.0112E+16,2011,Cumbria,52
+GoingAheadOtherJunction,2011201104AX11080,2011,Blackpool,23
+GoingAheadOtherJunction,2011201104BB11023,2011,Lancashire,34
+GoingAheadOtherJunction,2011201104BB11098,2011,Lancashire,48
+GoingAheadOtherJunction,2011201104BB11104,2011,Lancashire,39
+GoingAheadOtherJunction,2011201104CL11103,2011,Lancashire,34
+GoingAheadOtherJunction,2011201104DF11025,2011,Lancashire,14
+GoingAheadOtherJunction,2011201104DF11111,2011,Lancashire,47
+GoingAheadOtherJunction,2011201104DL11092,2011,Lancashire,31
+GoingAheadOtherJunction,2011201104DL11098,2011,Lancashire,29
+GoingAheadOtherJunction,2011201104DR11065,2011,Lancashire,11
+GoingAheadOtherJunction,2011201104EA11229,2011,Blackburn with Darwen,67
+GoingAheadOtherJunction,2011201104EA11235,2011,Blackburn with Darwen,9
+GoingAheadOtherJunction,2011201104FA11081,2011,Lancashire,20
+GoingAheadOtherJunction,2011201104FB11052,2011,Lancashire,10
+GoingAheadOtherJunction,2011201104FG11032,2011,Lancashire,13
+GoingAheadOtherJunction,2011201104FJ11016,2011,Lancashire,9
+GoingAheadOtherJunction,2011201105AA02256,2011,Merseyside,40
+GoingAheadOtherJunction,2011201105AA05100,2011,Merseyside,41
+GoingAheadOtherJunction,2011201105BB06557,2011,Merseyside,27
+GoingAheadOtherJunction,2011201105EE04286,2011,Merseyside,30
+GoingAheadOtherJunction,2011201105EE04626,2011,Merseyside,8
+GoingAheadOtherJunction,2011201105EE04727,2011,Merseyside,37
+GoingAheadOtherJunction,2011201106F048160,2011,Salford,18
+GoingAheadOtherJunction,2011201106N048034,2011,Bury,17
+GoingAheadOtherJunction,2.0112E+16,2011,Warrington,56
+GoingAheadOtherJunction,2.0112E+16,2011,Cheshire East,8
+GoingAheadOtherJunction,2.0112E+16,2011,South Tyneside,15
+GoingAheadOtherJunction,2.0112E+16,2011,Northumberland,5
+GoingAheadOtherJunction,2.0112E+16,2011,South Tyneside,43
+GoingAheadOtherJunction,2.0112E+16,2011,York,20
+GoingAheadOtherJunction,2.0112E+16,2011,Bradford,12
+GoingAheadOtherJunction,2011201114B042011,2011,Barnsley,-1
+GoingAheadOtherJunction,2011201114B057811,2011,Barnsley,14
+GoingAheadOtherJunction,2011201114K049811,2011,Sheffield,26
+GoingAheadOtherJunction,2011201114K256711,2011,Sheffield,50
+GoingAheadOtherJunction,2011201114K264111,2011,Sheffield,58
+GoingAheadOtherJunction,2011201122C103878,2011,Worcestershire,28
+GoingAheadOtherJunction,2011201122C104639,2011,Worcestershire,40
+GoingAheadOtherJunction,2011201122D104185,2011,Shropshire,17
+GoingAheadOtherJunction,2011201122F101493,2011,Shropshire,6
+GoingAheadOtherJunction,2011201122G101253,2011,Telford and Wrekin,25
+GoingAheadOtherJunction,2011201130D001378,2011,Derby,25
+GoingAheadOtherJunction,2011201131A156511,2011,Nottinghamshire,11
+GoingAheadOtherJunction,2011201131A228011,2011,Nottinghamshire,30
+GoingAheadOtherJunction,2011201132B037111,2011,Lincolnshire,55
+GoingAheadOtherJunction,2011201132B052911,2011,Lincolnshire,15
+GoingAheadOtherJunction,2011201132B103411,2011,Lincolnshire,50
+GoingAheadOtherJunction,2011201132D054811,2011,Lincolnshire,11
+GoingAheadOtherJunction,2011201132L193011,2011,Lincolnshire,11
+GoingAheadOtherJunction,2011201132L235211,2011,Lincolnshire,63
+GoingAheadOtherJunction,2.0112E+16,2011,Cambridgeshire,15
+GoingAheadOtherJunction,2.0112E+16,2011,Cambridgeshire,10
+GoingAheadOtherJunction,2.0112E+16,2011,Norfolk,13
+GoingAheadOtherJunction,2.0112E+16,2011,Norfolk,19
+GoingAheadOtherJunction,2.0112E+16,2011,Norfolk,7
+GoingAheadOtherJunction,2011201136T110129,2011,Norfolk,17
+GoingAheadOtherJunction,2.0112E+16,2011,Suffolk,51
+GoingAheadOtherJunction,2.0112E+16,2011,Suffolk,46
+GoingAheadOtherJunction,20112011400CA0206,2011,Luton,20
+GoingAheadOtherJunction,2011201142I096003,2011,Essex,19
+GoingAheadOtherJunction,2011201142I152205,2011,Essex,16
+GoingAheadOtherJunction,2011201142I156505,2011,Essex,9
+GoingAheadOtherJunction,2011201142I160105,2011,Essex,48
+GoingAheadOtherJunction,2011201142I171105,2011,Essex,15
+GoingAheadOtherJunction,2011201142I198406,2011,Essex,47
+GoingAheadOtherJunction,2011201142I210607,2011,Essex,11
+GoingAheadOtherJunction,2011201142I225507,2011,Essex,10
+GoingAheadOtherJunction,2011201142I246608,2011,Essex,23
+GoingAheadOtherJunction,2011201142I268008,2011,Southend on Sea,17
+GoingAheadOtherJunction,2011201142I282909,2011,Southend on Sea,12
+GoingAheadOtherJunction,2011201142I305409,2011,Essex,45
+GoingAheadOtherJunction,2011201142I306810,2011,Essex,53
+GoingAheadOtherJunction,2011201142I317310,2011,Essex,49
+GoingAheadOtherJunction,2011201142I421012,2011,Essex,12
+GoingAheadOtherJunction,2011201143N098081,2011,Buckinghamshire,19
+GoingAheadOtherJunction,2011201143P165071,2011,Oxfordshire,64
+GoingAheadOtherJunction,2011201145EL63024,2011,Surrey,30
+GoingAheadOtherJunction,2011201145EP64313,2011,Surrey,23
+GoingAheadOtherJunction,2011201145GU63199,2011,Surrey,-1
+GoingAheadOtherJunction,2011201145RE60251,2011,Surrey,21
+GoingAheadOtherJunction,2011201145SU59278,2011,Surrey,-1
+GoingAheadOtherJunction,2011201145WA61114,2011,Surrey,21
+GoingAheadOtherJunction,2011201145WO58443,2011,Surrey,48
+GoingAheadOtherJunction,2011201145WO59112,2011,Surrey,16
+GoingAheadOtherJunction,2011201145WO60927,2011,Surrey,39
+GoingAheadOtherJunction,2.0112E+16,2011,Kent,11
+GoingAheadOtherJunction,2.0112E+16,2011,Kent,45
+GoingAheadOtherJunction,2.0112E+16,2011,Kent,48
+GoingAheadOtherJunction,2.0112E+16,2011,Kent,30
+GoingAheadOtherJunction,2.0112E+16,2011,Kent,41
+GoingAheadOtherJunction,2.0112E+16,2011,Kent,11
+GoingAheadOtherJunction,2.0112E+16,2011,West Sussex,55
+GoingAheadOtherJunction,2.0112E+16,2011,Brighton and Hove,24
+GoingAheadOtherJunction,2.0112E+16,2011,West Sussex,36
+GoingAheadOtherJunction,2011201150AY2C007,2011,Cornwall and Isles of Scilly,14
+GoingAheadOtherJunction,2011201150EC2D027,2011,Plymouth,19
+GoingAheadOtherJunction,2011201150ED2L009,2011,Plymouth,13
+GoingAheadOtherJunction,2011201150EL2H011,2011,Plymouth,51
+GoingAheadOtherJunction,2011201150EL2O001,2011,Plymouth,45
+GoingAheadOtherJunction,2011201150JC4V027,2011,Devon,56
+GoingAheadOtherJunction,2011201150KE3M013,2011,Devon,53
+GoingAheadOtherJunction,2011201150KT3F007,2011,Devon,75
+GoingAheadOtherJunction,2.0112E+16,2011,Bath and North East Somerset,66
+GoingAheadOtherJunction,2.0112E+16,2011,Bath and North East Somerset,27
+GoingAheadOtherJunction,20112011551C22280,2011,Bournemouth,23
+GoingAheadOtherJunction,20112011551C48912,2011,Bournemouth,47
+GoingAheadOtherJunction,20112011551C53182,2011,Bournemouth,24
+GoingAheadOtherJunction,2.0122E+16,2012,Cumbria,12
+GoingAheadOtherJunction,2012201204AL12042,2012,Lancashire,50
+GoingAheadOtherJunction,2012201204AX12045,2012,Blackpool,12
+GoingAheadOtherJunction,2012201204BA12144,2012,Lancashire,12
+GoingAheadOtherJunction,2012201204BA12176,2012,Lancashire,51
+GoingAheadOtherJunction,2012201204BA12183,2012,Lancashire,68
+GoingAheadOtherJunction,2012201204BB12098,2012,Lancashire,52
+GoingAheadOtherJunction,2012201204BC12134,2012,Lancashire,34
+GoingAheadOtherJunction,2012201204BC12175,2012,Lancashire,18
+GoingAheadOtherJunction,2012201204CL12060,2012,Lancashire,44
+GoingAheadOtherJunction,2012201204CL12148,2012,Lancashire,51
+GoingAheadOtherJunction,2012201204CL12197,2012,Lancashire,37
+GoingAheadOtherJunction,2012201204DL12047,2012,Lancashire,19
+GoingAheadOtherJunction,2012201204DL12089,2012,Lancashire,52
+GoingAheadOtherJunction,2012201204EN12019,2012,Lancashire,39
+GoingAheadOtherJunction,2012201204EN12111,2012,Lancashire,57
+GoingAheadOtherJunction,2012201204FA12079,2012,Lancashire,15
+GoingAheadOtherJunction,2012201204FG12067,2012,Lancashire,7
+GoingAheadOtherJunction,2012201205AA03318,2012,Merseyside,44
+GoingAheadOtherJunction,2012201205AA03606,2012,Merseyside,17
+GoingAheadOtherJunction,2012201205BB05009,2012,Merseyside,5
+GoingAheadOtherJunction,2012201205BB05160,2012,Merseyside,17
+GoingAheadOtherJunction,2012201205CC03230,2012,Merseyside,13
+GoingAheadOtherJunction,2012201205DD01555,2012,Merseyside,13
+GoingAheadOtherJunction,2012201205EE03516,2012,Merseyside,27
+GoingAheadOtherJunction,2012201205FF01331,2012,Merseyside,12
+GoingAheadOtherJunction,2012201205FF03013,2012,Merseyside,15
+GoingAheadOtherJunction,2012201205FF03275,2012,Merseyside,30
+GoingAheadOtherJunction,2012201205FF06082,2012,Merseyside,43
+GoingAheadOtherJunction,2012201206A067079,2012,Manchester,44
+GoingAheadOtherJunction,2012201206C057882,2012,Manchester,15
+GoingAheadOtherJunction,2012201206C060853,2012,Manchester,9
+GoingAheadOtherJunction,2012201206F066768,2012,Salford,28
+GoingAheadOtherJunction,2012201206J064521,2012,Stockport,44
+GoingAheadOtherJunction,2.0122E+16,2012,Warrington,73
+GoingAheadOtherJunction,2.0122E+16,2012,Warrington,13
+GoingAheadOtherJunction,2.0122E+16,2012,Cheshire East,12
+GoingAheadOtherJunction,2.0122E+16,2012,South Tyneside,28
+GoingAheadOtherJunction,2.0122E+16,2012,North Tyneside,8
+GoingAheadOtherJunction,2.0122E+16,2012,South Tyneside,7
+GoingAheadOtherJunction,2.0122E+16,2012,York,45
+GoingAheadOtherJunction,2.0122E+16,2012,Bradford,11
+GoingAheadOtherJunction,2.0122E+16,2012,Kirklees,9
+GoingAheadOtherJunction,2012201214A051412,2012,Doncaster,42
+GoingAheadOtherJunction,2012201214B039112,2012,Barnsley,9
+GoingAheadOtherJunction,2012201214B040412,2012,Barnsley,14
+GoingAheadOtherJunction,2012201214B054412,2012,Barnsley,10
+GoingAheadOtherJunction,2012201214K164912,2012,Sheffield,10
+GoingAheadOtherJunction,2012201222C202528,2012,Worcestershire,45
+GoingAheadOtherJunction,2012201222C204931,2012,Worcestershire,58
+GoingAheadOtherJunction,2012201222D201934,2012,Worcestershire,40
+GoingAheadOtherJunction,2012201222E202697,2012,Herefordshire,10
+GoingAheadOtherJunction,2012201222F203765,2012,Shropshire,11
+GoingAheadOtherJunction,2012201222G200982,2012,Telford and Wrekin,20
+GoingAheadOtherJunction,2012201222G202675,2012,Telford and Wrekin,48
+GoingAheadOtherJunction,2012201230D002378,2012,Derby,14
+GoingAheadOtherJunction,2012201231A186612,2012,Nottinghamshire,11
+GoingAheadOtherJunction,2012201231B180012,2012,Nottinghamshire,12
+GoingAheadOtherJunction,2012201231B202812,2012,Nottinghamshire,16
+GoingAheadOtherJunction,2012201232B138712,2012,Lincolnshire,40
+GoingAheadOtherJunction,2012201232E165312,2012,Lincolnshire,10
+GoingAheadOtherJunction,2012201232L027712,2012,Lincolnshire,79
+GoingAheadOtherJunction,2012201232L319012,2012,Lincolnshire,14
+GoingAheadOtherJunction,2012201232N304012,2012,Lincolnshire,26
+GoingAheadOtherJunction,2012201234NK29472,2012,Northamptonshire,16
+GoingAheadOtherJunction,2.0122E+16,2012,Peterborough,8
+GoingAheadOtherJunction,2.0122E+16,2012,Norfolk,21
+GoingAheadOtherJunction,2.0122E+16,2012,Norfolk,16
+GoingAheadOtherJunction,2.0122E+16,2012,Suffolk,45
+GoingAheadOtherJunction,2.0122E+16,2012,Suffolk,28
+GoingAheadOtherJunction,2.0122E+16,2012,Suffolk,16
+GoingAheadOtherJunction,2.0122E+16,2012,Suffolk,63
+GoingAheadOtherJunction,201220124100B0569,2012,Hertfordshire,13
+GoingAheadOtherJunction,2012201242I015001,2012,Essex,50
+GoingAheadOtherJunction,2012201242I034901,2012,Essex,16
+GoingAheadOtherJunction,2012201242I052502,2012,Essex,11
+GoingAheadOtherJunction,2012201242I085403,2012,Thurrock,31
+GoingAheadOtherJunction,2012201242I109704,2012,Essex,13
+GoingAheadOtherJunction,2012201242I123705,2012,Essex,15
+GoingAheadOtherJunction,2012201242I181306,2012,Essex,38
+GoingAheadOtherJunction,2012201242I182806,2012,Essex,38
+GoingAheadOtherJunction,2012201242I223207,2012,Essex,14
+GoingAheadOtherJunction,2012201242I245407,2012,Essex,17
+GoingAheadOtherJunction,2012201242I317410,2012,Essex,17
+GoingAheadOtherJunction,2012201242I418212,2012,Essex,85
+GoingAheadOtherJunction,2.0122E+16,2012,Surrey,17
+GoingAheadOtherJunction,2.0122E+16,2012,Surrey,37
+GoingAheadOtherJunction,2012201245EL69179,2012,Surrey,26
+GoingAheadOtherJunction,2012201245EL70477,2012,Surrey,45
+GoingAheadOtherJunction,2012201245EL73686,2012,Surrey,50
+GoingAheadOtherJunction,2012201245EP70288,2012,Surrey,46
+GoingAheadOtherJunction,2012201245EP72779,2012,Surrey,19
+GoingAheadOtherJunction,2012201245EP74849,2012,Surrey,50
+GoingAheadOtherJunction,2012201245GU71529,2012,Surrey,-1
+GoingAheadOtherJunction,2012201245MO71149,2012,Surrey,18
+GoingAheadOtherJunction,2012201245RE68180,2012,Surrey,66
+GoingAheadOtherJunction,2012201245RE74834,2012,Surrey,42
+GoingAheadOtherJunction,2012201245RU74568,2012,Surrey,10
+GoingAheadOtherJunction,2012201245WA72346,2012,Surrey,50
+GoingAheadOtherJunction,2.0122E+16,2012,Kent,23
+GoingAheadOtherJunction,2.0122E+16,2012,Kent,13
+GoingAheadOtherJunction,2.0122E+16,2012,Kent,50
+GoingAheadOtherJunction,2.0122E+16,2012,Kent,36
+GoingAheadOtherJunction,2.0122E+16,2012,Kent,44
+GoingAheadOtherJunction,2.0122E+16,2012,Kent,-1
+GoingAheadOtherJunction,2012201250AP2Q002,2012,Cornwall and Isles of Scilly,54
+GoingAheadOtherJunction,2012201250DE2J017,2012,Devon,46
+GoingAheadOtherJunction,2012201250DE2O006,2012,Devon,11
+GoingAheadOtherJunction,2012201250DE2T016,2012,Devon,51
+GoingAheadOtherJunction,2012201250DE2U012,2012,Devon,14
+GoingAheadOtherJunction,2012201250FP2F002,2012,Torbay,36
+GoingAheadOtherJunction,2012201250FT2B014,2012,Torbay,17
+GoingAheadOtherJunction,2.0122E+16,2012,Somerset,21
+GoingAheadOtherJunction,2.0122E+16,2012,Bath and North East Somerset,29
+GoingAheadOtherJunction,2.0122E+16,2012,South Gloucestershire,17
+GoingAheadOtherJunction,2.0122E+16,2012,Bath and North East Somerset,30
+GoingAheadOtherJunction,2.0122E+16,2012,Bath and North East Somerset,40
+GoingAheadOtherJunction,2.0122E+16,2012,Gloucestershire,55

@@ -1,0 +1,2674 @@
+Scenario,urn,accyr,LAName,Age
+EnteringRightCar,199901BH00199,1999,London,24
+EnteringRightCar,199901BH00214,1999,London,28
+EnteringRightCar,199901BS00277,1999,London,40
+EnteringRightCar,199901BS00421,1999,London,29
+EnteringRightCar,199901BS00733,1999,London,13
+EnteringRightCar,199901BS00888,1999,London,
+EnteringRightCar,199901CP00197,1999,London,27
+EnteringRightCar,199901CP00269,1999,London,31
+EnteringRightCar,199901CP00314,1999,London,28
+EnteringRightCar,199901CP09017,1999,London,31
+EnteringRightCar,199901CX00250,1999,London,53
+EnteringRightCar,199901DM00118,1999,London,29
+EnteringRightCar,199901DM00259,1999,London,29
+EnteringRightCar,199901DM00451,1999,London,79
+EnteringRightCar,199901DM00896,1999,London,18
+EnteringRightCar,199901DP00327,1999,London,28
+EnteringRightCar,199901EH00186,1999,London,32
+EnteringRightCar,199901EH00233,1999,London,22
+EnteringRightCar,199901EK00370,1999,London,26
+EnteringRightCar,199901EK00679,1999,London,24
+EnteringRightCar,199901EK00706,1999,London,27
+EnteringRightCar,199901EK00795,1999,London,25
+EnteringRightCar,199901EO00021,1999,London,35
+EnteringRightCar,199901EO00057,1999,London,27
+EnteringRightCar,199901EO00278,1999,London,43
+EnteringRightCar,199901GD00451,1999,London,33
+EnteringRightCar,199901GN00104,1999,London,31
+EnteringRightCar,199901GN00147,1999,London,28
+EnteringRightCar,199901GN00341,1999,London,32
+EnteringRightCar,199901JC00150,1999,London,37
+EnteringRightCar,199901JC00766,1999,London,13
+EnteringRightCar,199901JL00124,1999,London,31
+EnteringRightCar,199901KG00166,1999,London,30
+EnteringRightCar,199901KG00752,1999,London,13
+EnteringRightCar,199901KO00114,1999,London,33
+EnteringRightCar,199901LS00364,1999,London,33
+EnteringRightCar,199901LX00616,1999,London,45
+EnteringRightCar,199901LX00628,1999,London,32
+EnteringRightCar,199901LX00722,1999,London,23
+EnteringRightCar,199901MD00091,1999,London,53
+EnteringRightCar,199901MD00300,1999,London,41
+EnteringRightCar,199901MS00138,1999,London,33
+EnteringRightCar,199901MS00382,1999,London,29
+EnteringRightCar,199901NI00091,1999,London,41
+EnteringRightCar,199901NI00197,1999,London,25
+EnteringRightCar,199901NI00210,1999,London,27
+EnteringRightCar,199901NI00253,1999,London,26
+EnteringRightCar,199901NI00346,1999,London,27
+EnteringRightCar,199901NI00352,1999,London,29
+EnteringRightCar,199901NI00453,1999,London,28
+EnteringRightCar,199901NI00466,1999,London,30
+EnteringRightCar,199901NI00471,1999,London,29
+EnteringRightCar,199901NI00481,1999,London,
+EnteringRightCar,199901NI00517,1999,London,26
+EnteringRightCar,199901NI00629,1999,London,40
+EnteringRightCar,199901NI00630,1999,London,
+EnteringRightCar,199901NI00882,1999,London,31
+EnteringRightCar,199901NI00885,1999,London,
+EnteringRightCar,199901NI09135,1999,London,19
+EnteringRightCar,199901NI09295,1999,London,30
+EnteringRightCar,199901PD00232,1999,London,26
+EnteringRightCar,199901PL00487,1999,London,20
+EnteringRightCar,199901PL00824,1999,London,21
+EnteringRightCar,199901PL00887,1999,London,23
+EnteringRightCar,199901PY01150,1999,London,31
+EnteringRightCar,199901QK00057,1999,London,
+EnteringRightCar,199901RX00052,1999,London,22
+EnteringRightCar,199901RY00466,1999,London,
+EnteringRightCar,199901SC00444,1999,London,
+EnteringRightCar,199901SC00608,1999,London,54
+EnteringRightCar,199901SC01116,1999,London,28
+EnteringRightCar,199901TX00414,1999,London,28
+EnteringRightCar,199901VK00019,1999,London,32
+EnteringRightCar,199901VK00312,1999,London,23
+EnteringRightCar,199901VK00528,1999,London,78
+EnteringRightCar,199901VW00343,1999,London,34
+EnteringRightCar,199901VW00364,1999,London,51
+EnteringRightCar,199901WW00349,1999,London,52
+EnteringRightCar,199901WW00367,1999,London,48
+EnteringRightCar,199901WW00469,1999,London,19
+EnteringRightCar,199901WW00793,1999,London,26
+EnteringRightCar,199901XD00141,1999,London,25
+EnteringRightCar,199901XH00988,1999,London,17
+EnteringRightCar,199901XH01174,1999,London,35
+EnteringRightCar,199901ZN00120,1999,London,14
+EnteringRightCar,199901ZN00678,1999,London,36
+EnteringRightCar,199901ZP00116,1999,London,
+EnteringRightCar,1.99903E+12,1999,Cumbria,48
+EnteringRightCar,199904A027199,1999,Blackpool,51
+EnteringRightCar,199904A084999,1999,Lancashire,45
+EnteringRightCar,199904A091599,1999,Blackpool,50
+EnteringRightCar,199904B082699,1999,Lancashire,23
+EnteringRightCar,199904B086199,1999,Lancashire,17
+EnteringRightCar,199904C088099,1999,Lancashire,35
+EnteringRightCar,199904D024699,1999,Lancashire,21
+EnteringRightCar,199904F030499,1999,Lancashire,42
+EnteringRightCar,1.99905E+12,1999,Merseyside,36
+EnteringRightCar,1.99905E+12,1999,Merseyside,26
+EnteringRightCar,1.99905E+12,1999,Merseyside,23
+EnteringRightCar,1.99905E+12,1999,Merseyside,43
+EnteringRightCar,1.99905E+12,1999,Merseyside,33
+EnteringRightCar,1.99905E+12,1999,Merseyside,13
+EnteringRightCar,1.99905E+12,1999,Merseyside,20
+EnteringRightCar,1.99905E+12,1999,Merseyside,23
+EnteringRightCar,1.99905E+12,1999,Merseyside,66
+EnteringRightCar,1.99905E+12,1999,Merseyside,45
+EnteringRightCar,199906C006812,1999,Manchester,33
+EnteringRightCar,199906C008773,1999,Manchester,53
+EnteringRightCar,199906C009232,1999,Manchester,25
+EnteringRightCar,199906C009285,1999,Manchester,79
+EnteringRightCar,199906C620199,1999,Manchester,25
+EnteringRightCar,199906C620699,1999,Manchester,20
+EnteringRightCar,199906C674499,1999,Manchester,21
+EnteringRightCar,199906C676299,1999,Manchester,30
+EnteringRightCar,199906F004460,1999,Salford,36
+EnteringRightCar,199906F417499,1999,Salford,20
+EnteringRightCar,199906G003605,1999,Tameside,17
+EnteringRightCar,199906J004951,1999,Stockport,37
+EnteringRightCar,199906J005493,1999,Stockport,44
+EnteringRightCar,199906K004722,1999,Bolton,17
+EnteringRightCar,199906K005071,1999,Bolton,18
+EnteringRightCar,199906L005330,1999,Wigan,21
+EnteringRightCar,199906L005937,1999,Wigan,17
+EnteringRightCar,199906L452699,1999,Wigan,20
+EnteringRightCar,199906L453199,1999,Wigan,46
+EnteringRightCar,199906N003288,1999,Bury,37
+EnteringRightCar,199906N003296,1999,Bury,33
+EnteringRightCar,199906N282799,1999,Bury,26
+EnteringRightCar,199906N287699,1999,Bury,24
+EnteringRightCar,1999079A20647,1999,Cheshire West and Chester,50
+EnteringRightCar,1999079C10043,1999,Cheshire West and Chester,31
+EnteringRightCar,1999079C11214,1999,Cheshire West and Chester,19
+EnteringRightCar,199910H212199,1999,North Tyneside,26
+EnteringRightCar,199910N083199,1999,South Tyneside,30
+EnteringRightCar,1.99912E+12,1999,York,19
+EnteringRightCar,1.99912E+12,1999,North Yorkshire,41
+EnteringRightCar,1.99912E+12,1999,North Yorkshire,43
+EnteringRightCar,199913BA15799,1999,Leeds,17
+EnteringRightCar,199913DC26399,1999,Wakefield,26
+EnteringRightCar,199913EC21399,1999,Kirklees,40
+EnteringRightCar,199914HH00490,1999,Sheffield,23
+EnteringRightCar,199914JJ00959,1999,Sheffield,23
+EnteringRightCar,199914JJ01299,1999,Sheffield,47
+EnteringRightCar,199916A001999,1999,North East Lincolnshire,37
+EnteringRightCar,199916A004099,1999,North East Lincolnshire,
+EnteringRightCar,199916A031499,1999,North East Lincolnshire,12
+EnteringRightCar,199916A061299,1999,North East Lincolnshire,59
+EnteringRightCar,199916B017299,1999,North Lincolnshire,23
+EnteringRightCar,199916B030299,1999,North Lincolnshire,12
+EnteringRightCar,199916C007399,1999,East Riding of Yorkshire,40
+EnteringRightCar,199916D008099,1999,Kingston Upon Hull,63
+EnteringRightCar,199916D012399,1999,Kingston Upon Hull,35
+EnteringRightCar,199916D024399,1999,Kingston Upon Hull,32
+EnteringRightCar,199916D032299,1999,Kingston Upon Hull,35
+EnteringRightCar,199916D044699,1999,Kingston Upon Hull,9
+EnteringRightCar,199916E030099,1999,Kingston Upon Hull,18
+EnteringRightCar,199916E045599,1999,Kingston Upon Hull,13
+EnteringRightCar,199916F029299,1999,Kingston Upon Hull,54
+EnteringRightCar,199920D363301,1999,Birmingham,68
+EnteringRightCar,199920E010201,1999,Birmingham,83
+EnteringRightCar,199920E108201,1999,Birmingham,33
+EnteringRightCar,199920E298201,1999,Birmingham,24
+EnteringRightCar,199920G047702,1999,Wolverhampton,16
+EnteringRightCar,199920G068502,1999,Wolverhampton,23
+EnteringRightCar,199920K160401,1999,Sandwell,63
+EnteringRightCar,199920L009301,1999,Solihull,54
+EnteringRightCar,199920M105801,1999,Coventry,20
+EnteringRightCar,1.99922E+12,1999,Stoke on Trent,44
+EnteringRightCar,1.99922E+12,1999,Staffordshire,
+EnteringRightCar,1.99922E+12,1999,Staffordshire,17
+EnteringRightCar,199922EH01802,1999,Herefordshire,33
+EnteringRightCar,1999309D00033,1999,Derby,44
+EnteringRightCar,1999309D00051,1999,Derby,46
+EnteringRightCar,199930A000532,1999,Derbyshire,35
+EnteringRightCar,199930C000912,1999,Derbyshire,48
+EnteringRightCar,199930D000383,1999,Derby,29
+EnteringRightCar,1999317B40199,1999,Nottingham,17
+EnteringRightCar,1999317B41756,1999,Nottingham,37
+EnteringRightCar,1999317C20626,1999,Nottingham,20
+EnteringRightCar,1999317C42491,1999,Nottingham,53
+EnteringRightCar,199932C005389,1999,Lincolnshire,13
+EnteringRightCar,1.99934E+12,1999,Leicestershire,55
+EnteringRightCar,1.99934E+12,1999,Leicestershire,15
+EnteringRightCar,1.99934E+12,1999,Leicestershire,56
+EnteringRightCar,1.99934E+12,1999,Leicestershire,35
+EnteringRightCar,1.99935E+12,1999,Cambridgeshire,48
+EnteringRightCar,1.99935E+12,1999,Cambridgeshire,16
+EnteringRightCar,199936G990078,1999,Norfolk,23
+EnteringRightCar,199937B006678,1999,Suffolk,69
+EnteringRightCar,199937G005224,1999,Suffolk,44
+EnteringRightCar,199937L002844,1999,Suffolk,48
+EnteringRightCar,19994100A0571,1999,Hertfordshire,34
+EnteringRightCar,19994100D0002,1999,Hertfordshire,51
+EnteringRightCar,19994200C0217,1999,Essex,23
+EnteringRightCar,19994200C0297,1999,Essex,13
+EnteringRightCar,199943N370119,1999,Buckinghamshire,55
+EnteringRightCar,199943P101119,1999,Oxfordshire,26
+EnteringRightCar,199943P318109,1999,Oxfordshire,
+EnteringRightCar,199943P465129,1999,Oxfordshire,64
+EnteringRightCar,199943R098049,1999,Slough,17
+EnteringRightCar,199943R099089,1999,Windsor and Maidenhead,43
+EnteringRightCar,1999440AA0498,1999,Hampshire,28
+EnteringRightCar,1999440AA1377,1999,Hampshire,28
+EnteringRightCar,1999440DG0148,1999,Hampshire,15
+EnteringRightCar,1999440KS0308,1999,Portsmouth,18
+EnteringRightCar,1999440KS0799,1999,Portsmouth,23
+EnteringRightCar,1999440RF0527,1999,Portsmouth,17
+EnteringRightCar,1999440SP0249,1999,Southampton ,65
+EnteringRightCar,1999440YS0555,1999,Southampton ,11
+EnteringRightCar,1999440YS0739,1999,Southampton ,26
+EnteringRightCar,1999440ZD1173,1999,Isle of Wight,13
+EnteringRightCar,199945ED00040,1999,Surrey,18
+EnteringRightCar,199945NA00441,1999,Surrey,56
+EnteringRightCar,199945NC00096,1999,Surrey,76
+EnteringRightCar,199946MA01282,1999,Kent,21
+EnteringRightCar,199946MA10149,1999,Kent,34
+EnteringRightCar,199946ME17559,1999,Medway,34
+EnteringRightCar,199946NK09285,1999,Kent,19
+EnteringRightCar,199946SW09423,1999,Kent,14
+EnteringRightCar,199947C003717,1999,Brighton and Hove,35
+EnteringRightCar,199947C005188,1999,Brighton and Hove,19
+EnteringRightCar,199947S003872,1999,East Sussex,19
+EnteringRightCar,199950A221365,1999,Cornwall and Isles of Scilly,28
+EnteringRightCar,199950A230308,1999,Cornwall and Isles of Scilly,37
+EnteringRightCar,199950F512589,1999,Devon,39
+EnteringRightCar,1.99952E+12,1999,North Somerset,43
+EnteringRightCar,1.99952E+12,1999,City of Bristol,43
+EnteringRightCar,1.99952E+12,1999,North Somerset,57
+EnteringRightCar,1.99952E+12,1999,City of Bristol,31
+EnteringRightCar,1.99952E+12,1999,Bath and North East Somerset,34
+EnteringRightCar,1.99952E+12,1999,City of Bristol,26
+EnteringRightCar,1.99952E+12,1999,City of Bristol,19
+EnteringRightCar,1999530AI2974,1999,Gloucestershire,27
+EnteringRightCar,1999530AI3429,1999,Gloucestershire,89
+EnteringRightCar,1999530AI4947,1999,Gloucestershire,50
+EnteringRightCar,1999530AI4950,1999,Gloucestershire,18
+EnteringRightCar,199954DS42399,1999,Swindon,43
+EnteringRightCar,1999550B01235,1999,Bournemouth,19
+EnteringRightCar,1999559E00499,1999,Dorset,44
+EnteringRightCar,200001BS00454,2000,London,34
+EnteringRightCar,200001BS00486,2000,London,47
+EnteringRightCar,200001BS00799,2000,London,29
+EnteringRightCar,200001BS00939,2000,London,30
+EnteringRightCar,200001BS00991,2000,London,36
+EnteringRightCar,200001CP00057,2000,London,26
+EnteringRightCar,200001CP00407,2000,London,26
+EnteringRightCar,200001DM00031,2000,London,47
+EnteringRightCar,200001DM00415,2000,London,18
+EnteringRightCar,200001DM00417,2000,London,21
+EnteringRightCar,200001DM01298,2000,London,35
+EnteringRightCar,200001DM01510,2000,London,
+EnteringRightCar,200001DM01562,2000,London,45
+EnteringRightCar,200001DM01639,2000,London,32
+EnteringRightCar,200001DM01766,2000,London,31
+EnteringRightCar,200001DM01947,2000,London,30
+EnteringRightCar,200001DM02032,2000,London,28
+EnteringRightCar,200001DM02076,2000,London,32
+EnteringRightCar,200001DM02133,2000,London,43
+EnteringRightCar,200001DM02184,2000,London,25
+EnteringRightCar,200001EK00549,2000,London,53
+EnteringRightCar,200001EK00578,2000,London,26
+EnteringRightCar,200001FH00343,2000,London,27
+EnteringRightCar,200001GD00488,2000,London,48
+EnteringRightCar,200001GN00479,2000,London,21
+EnteringRightCar,200001GN00514,2000,London,34
+EnteringRightCar,200001HT00691,2000,London,30
+EnteringRightCar,200001HT00697,2000,London,34
+EnteringRightCar,200001HT00908,2000,London,30
+EnteringRightCar,200001HT00978,2000,London,42
+EnteringRightCar,200001JC00009,2000,London,38
+EnteringRightCar,200001JC00129,2000,London,16
+EnteringRightCar,200001JC00303,2000,London,38
+EnteringRightCar,200001JC00384,2000,London,38
+EnteringRightCar,200001JI00575,2000,London,74
+EnteringRightCar,200001KG00628,2000,London,22
+EnteringRightCar,200001KO00079,2000,London,31
+EnteringRightCar,200001KO00764,2000,London,41
+EnteringRightCar,200001LX00309,2000,London,38
+EnteringRightCar,200001LX00599,2000,London,32
+EnteringRightCar,200001LX01054,2000,London,58
+EnteringRightCar,200001LX01121,2000,London,27
+EnteringRightCar,200001LX01584,2000,London,20
+EnteringRightCar,200001LX01829,2000,London,29
+EnteringRightCar,200001LX01951,2000,London,38
+EnteringRightCar,200001MM00021,2000,London,34
+EnteringRightCar,200001MM01647,2000,London,50
+EnteringRightCar,200001MM01653,2000,London,40
+EnteringRightCar,200001NI00244,2000,London,28
+EnteringRightCar,200001NI00281,2000,London,18
+EnteringRightCar,200001NI00619,2000,London,28
+EnteringRightCar,200001NI00988,2000,London,24
+EnteringRightCar,200001NI01116,2000,London,39
+EnteringRightCar,200001NI01295,2000,London,39
+EnteringRightCar,200001NI01343,2000,London,29
+EnteringRightCar,200001NI01389,2000,London,27
+EnteringRightCar,200001NI09002,2000,London,30
+EnteringRightCar,200001PL00593,2000,London,30
+EnteringRightCar,200001QK00202,2000,London,15
+EnteringRightCar,200001RG00124,2000,London,44
+EnteringRightCar,200001RG00626,2000,London,34
+EnteringRightCar,200001RY00643,2000,London,34
+EnteringRightCar,200001SX00530,2000,London,36
+EnteringRightCar,200001TW00608,2000,London,43
+EnteringRightCar,200001TX01034,2000,London,34
+EnteringRightCar,200001VW00078,2000,London,35
+EnteringRightCar,200001VW00482,2000,London,34
+EnteringRightCar,200001VW00545,2000,London,33
+EnteringRightCar,200001VW00697,2000,London,44
+EnteringRightCar,200001VW00699,2000,London,45
+EnteringRightCar,200001VW00725,2000,London,30
+EnteringRightCar,200001WW00021,2000,London,22
+EnteringRightCar,200001WW00094,2000,London,31
+EnteringRightCar,200001WW00212,2000,London,55
+EnteringRightCar,200001WW00308,2000,London,28
+EnteringRightCar,200001WW00782,2000,London,29
+EnteringRightCar,200001WW00803,2000,London,47
+EnteringRightCar,200001WW01247,2000,London,34
+EnteringRightCar,200001XH00975,2000,London,41
+EnteringRightCar,200001XS00731,2000,London,30
+EnteringRightCar,200001YF00601,2000,London,31
+EnteringRightCar,200001YR00716,2000,London,35
+EnteringRightCar,200001YR01217,2000,London,35
+EnteringRightCar,200001ZD00185,2000,London,24
+EnteringRightCar,200001ZD01322,2000,London,21
+EnteringRightCar,2.00003E+12,2000,Cumbria,48
+EnteringRightCar,200004A072000,2000,Blackpool,58
+EnteringRightCar,2.00005E+12,2000,Merseyside,72
+EnteringRightCar,2.00005E+12,2000,Merseyside,74
+EnteringRightCar,2.00005E+12,2000,Merseyside,32
+EnteringRightCar,2.00005E+12,2000,Merseyside,62
+EnteringRightCar,2.00005E+12,2000,Merseyside,36
+EnteringRightCar,2.00005E+12,2000,Merseyside,43
+EnteringRightCar,2.00005E+12,2000,Merseyside,23
+EnteringRightCar,2.00005E+12,2000,Merseyside,30
+EnteringRightCar,2.00005E+12,2000,Merseyside,56
+EnteringRightCar,200006A007964,2000,Manchester,22
+EnteringRightCar,200006C009944,2000,Manchester,41
+EnteringRightCar,200006C010919,2000,Manchester,23
+EnteringRightCar,200006C011436,2000,Manchester,41
+EnteringRightCar,200006C012227,2000,Manchester,40
+EnteringRightCar,200006C012338,2000,Manchester,27
+EnteringRightCar,200006C012807,2000,Manchester,31
+EnteringRightCar,200006F006283,2000,Salford,14
+EnteringRightCar,200006F007275,2000,Salford,38
+EnteringRightCar,200006F007375,2000,Salford,57
+EnteringRightCar,200006G005831,2000,Tameside,30
+EnteringRightCar,200006K008772,2000,Bolton,18
+EnteringRightCar,200006M006293,2000,Trafford,39
+EnteringRightCar,200006M006481,2000,Trafford,49
+EnteringRightCar,200006M006541,2000,Trafford,12
+EnteringRightCar,200006N004214,2000,Bury,39
+EnteringRightCar,200006N004887,2000,Bury,19
+EnteringRightCar,200006N005175,2000,Bury,27
+EnteringRightCar,200006N005180,2000,Bury,35
+EnteringRightCar,200006N005455,2000,Bury,35
+EnteringRightCar,200006P004992,2000,Rochdale,39
+EnteringRightCar,200006P006446,2000,Rochdale,13
+EnteringRightCar,2.00007E+12,2000,Cheshire West and Chester,34
+EnteringRightCar,2.00007E+12,2000,Cheshire West and Chester,33
+EnteringRightCar,2.00007E+12,2000,Cheshire West and Chester,19
+EnteringRightCar,2.00007E+12,2000,Cheshire West and Chester,78
+EnteringRightCar,200010I197100,2000,North Tyneside,7
+EnteringRightCar,200010L366100,2000,South Tyneside,64
+EnteringRightCar,200011CI29790,2000,Durham,29
+EnteringRightCar,2.00012E+12,2000,North Yorkshire,27
+EnteringRightCar,2.00012E+12,2000,York,49
+EnteringRightCar,2.00012E+12,2000,North Yorkshire,24
+EnteringRightCar,2.00013E+12,2000,Bradford,31
+EnteringRightCar,2.00013E+12,2000,Bradford,11
+EnteringRightCar,2.00013E+12,2000,Leeds,30
+EnteringRightCar,2.00013E+12,2000,Kirklees,44
+EnteringRightCar,200014AA00071,2000,Doncaster,45
+EnteringRightCar,200014FF00238,2000,Rotherham,39
+EnteringRightCar,200014JJ00131,2000,Sheffield,31
+EnteringRightCar,200014JJ00830,2000,Sheffield,25
+EnteringRightCar,200016A010600,2000,North East Lincolnshire,37
+EnteringRightCar,200016A053700,2000,North East Lincolnshire,42
+EnteringRightCar,200016B041100,2000,North Lincolnshire,42
+EnteringRightCar,200016D035500,2000,Kingston Upon Hull,20
+EnteringRightCar,200017H100178,2000,Hartlepool,10
+EnteringRightCar,200017S300052,2000,Stockton on Tees,18
+EnteringRightCar,200020D041701,2000,Birmingham,48
+EnteringRightCar,200020D093101,2000,Birmingham,37
+EnteringRightCar,200020D185803,2000,Birmingham,20
+EnteringRightCar,200020D317402,2000,Birmingham,49
+EnteringRightCar,200020D328001,2000,Birmingham,19
+EnteringRightCar,200020E203601,2000,Birmingham,32
+EnteringRightCar,200020E220601,2000,Birmingham,18
+EnteringRightCar,200020F252001,2000,Birmingham,29
+EnteringRightCar,200020G039401,2000,Wolverhampton,36
+EnteringRightCar,200020J088701,2000,Dudley,26
+EnteringRightCar,200020J100801,2000,Dudley,30
+EnteringRightCar,200020J121001,2000,Dudley,30
+EnteringRightCar,200020K018502,2000,Sandwell,35
+EnteringRightCar,200020K122402,2000,Sandwell,32
+EnteringRightCar,200020L086401,2000,Solihull,57
+EnteringRightCar,200020L087401,2000,Solihull,22
+EnteringRightCar,2.00021E+12,2000,Stoke on Trent,30
+EnteringRightCar,2.00021E+12,2000,Staffordshire,25
+EnteringRightCar,2.00021E+12,2000,Staffordshire,45
+EnteringRightCar,200022EG14584,2000,Herefordshire,30
+EnteringRightCar,2.00023E+12,2000,Warwickshire,47
+EnteringRightCar,2.00023E+12,2000,Warwickshire,13
+EnteringRightCar,2.00023E+12,2000,Warwickshire,49
+EnteringRightCar,2.00023E+12,2000,Warwickshire,57
+EnteringRightCar,2.00023E+12,2000,Warwickshire,10
+EnteringRightCar,2000317C20582,2000,Nottingham,21
+EnteringRightCar,2000317C42775,2000,Nottingham,20
+EnteringRightCar,2000317D20911,2000,Nottinghamshire,34
+EnteringRightCar,2000317E21122,2000,Nottinghamshire,17
+EnteringRightCar,2000317E80294,2000,Nottinghamshire,30
+EnteringRightCar,2.00033E+12,2000,Leicestershire,49
+EnteringRightCar,2.00033E+12,2000,Leicestershire,21
+EnteringRightCar,2.00033E+12,2000,Leicestershire,41
+EnteringRightCar,2.00033E+12,2000,Leicestershire,33
+EnteringRightCar,200034NN01327,2000,Northamptonshire,30
+EnteringRightCar,2.00035E+12,2000,Cambridgeshire,19
+EnteringRightCar,2.00035E+12,2000,Cambridgeshire,17
+EnteringRightCar,2.00035E+12,2000,Cambridgeshire,62
+EnteringRightCar,2.00035E+12,2000,Cambridgeshire,
+EnteringRightCar,2.00035E+12,2000,Cambridgeshire,15
+EnteringRightCar,200037G005877,2000,Suffolk,30
+EnteringRightCar,200037G006745,2000,Suffolk,50
+EnteringRightCar,200037G007166,2000,Suffolk,31
+EnteringRightCar,2000400B00070,2000,Bedford Borough Council,22
+EnteringRightCar,20004100C0451,2000,Hertfordshire,19
+EnteringRightCar,20004200E0612,2000,Essex,58
+EnteringRightCar,200043N048030,2000,Buckinghamshire,29
+EnteringRightCar,200043W570090,2000,West Berkshire,45
+EnteringRightCar,200043W828100,2000,Reading,30
+EnteringRightCar,2000440AA1717,2000,Hampshire,35
+EnteringRightCar,2000440BB0010,2000,Hampshire,51
+EnteringRightCar,2000440JH0418,2000,Hampshire,30
+EnteringRightCar,2000440JL0045,2000,Hampshire,16
+EnteringRightCar,2000440KS0991,2000,Portsmouth,30
+EnteringRightCar,2000440SC0053,2000,Southampton ,29
+EnteringRightCar,2000440SC0133,2000,Southampton ,56
+EnteringRightCar,2000440ST0582,2000,Southampton ,28
+EnteringRightCar,2000440ST0739,2000,Southampton ,47
+EnteringRightCar,2000440SY0463,2000,Southampton ,35
+EnteringRightCar,2000440SY0614,2000,Southampton ,39
+EnteringRightCar,200045NA00283,2000,Surrey,45
+EnteringRightCar,200045SP00623,2000,Surrey,12
+EnteringRightCar,200046CT24528,2000,Kent,9
+EnteringRightCar,200046MA23644,2000,Kent,17
+EnteringRightCar,200046SW13958,2000,Kent,43
+EnteringRightCar,200046WK11292,2000,Kent,24
+EnteringRightCar,200046WL13996,2000,Kent,46
+EnteringRightCar,200047C006586,2000,Brighton and Hove,26
+EnteringRightCar,200047C007396,2000,Brighton and Hove,21
+EnteringRightCar,200047C007423,2000,Brighton and Hove,22
+EnteringRightCar,200047C129509,2000,Brighton and Hove,44
+EnteringRightCar,200047C131944,2000,Brighton and Hove,44
+EnteringRightCar,200047X004921,2000,West Sussex,11
+EnteringRightCar,200050D212938,2000,Devon,20
+EnteringRightCar,200050D214313,2000,Devon,52
+EnteringRightCar,200050D215903,2000,Devon,25
+EnteringRightCar,200050D217064,2000,Devon,17
+EnteringRightCar,2.00052E+12,2000,City of Bristol,35
+EnteringRightCar,2.00052E+12,2000,City of Bristol,40
+EnteringRightCar,2.00052E+12,2000,City of Bristol,23
+EnteringRightCar,2.00052E+12,2000,City of Bristol,28
+EnteringRightCar,2.00052E+12,2000,City of Bristol,24
+EnteringRightCar,2.00052E+12,2000,Somerset,20
+EnteringRightCar,200052GW13626,2000,Somerset,53
+EnteringRightCar,2000530AI1388,2000,Gloucestershire,28
+EnteringRightCar,2000530AI2090,2000,Gloucestershire,12
+EnteringRightCar,2000530AI2590,2000,Gloucestershire,13
+EnteringRightCar,200054CW68900,2000,Wiltshire,20
+EnteringRightCar,200054DS67600,2000,Swindon,35
+EnteringRightCar,2000550B05962,2000,Bournemouth,20
+EnteringRightCar,2000550W02806,2000,Dorset,23
+EnteringRightCar,200101BS00242,2001,London,42
+EnteringRightCar,200101BS00442,2001,London,32
+EnteringRightCar,200101BS00488,2001,London,26
+EnteringRightCar,200101BS00509,2001,London,33
+EnteringRightCar,200101BS00652,2001,London,49
+EnteringRightCar,200101BS00698,2001,London,28
+EnteringRightCar,200101BS00706,2001,London,30
+EnteringRightCar,200101CP00179,2001,London,62
+EnteringRightCar,200101CP00232,2001,London,32
+EnteringRightCar,200101DM00564,2001,London,38
+EnteringRightCar,200101DM01201,2001,London,27
+EnteringRightCar,200101DM01496,2001,London,23
+EnteringRightCar,200101DM01645,2001,London,52
+EnteringRightCar,200101DM01772,2001,London,30
+EnteringRightCar,200101EK00467,2001,London,43
+EnteringRightCar,200101EK01334,2001,London,58
+EnteringRightCar,200101FH00066,2001,London,19
+EnteringRightCar,200101FH00724,2001,London,28
+EnteringRightCar,200101FH00907,2001,London,60
+EnteringRightCar,200101FH09011,2001,London,48
+EnteringRightCar,200101GD00674,2001,London,25
+EnteringRightCar,200101GD01164,2001,London,29
+EnteringRightCar,200101HT00417,2001,London,19
+EnteringRightCar,200101HT00431,2001,London,65
+EnteringRightCar,200101HT00612,2001,London,30
+EnteringRightCar,200101HT00649,2001,London,26
+EnteringRightCar,200101HT01072,2001,London,26
+EnteringRightCar,200101JC00679,2001,London,39
+EnteringRightCar,200101JC00971,2001,London,26
+EnteringRightCar,200101KO00743,2001,London,39
+EnteringRightCar,200101KO00768,2001,London,40
+EnteringRightCar,200101KO00944,2001,London,40
+EnteringRightCar,200101LX00064,2001,London,30
+EnteringRightCar,200101LX00236,2001,London,21
+EnteringRightCar,200101LX01199,2001,London,43
+EnteringRightCar,200101MM00106,2001,London,36
+EnteringRightCar,200101MM00518,2001,London,24
+EnteringRightCar,200101MM00520,2001,London,32
+EnteringRightCar,200101MM00993,2001,London,32
+EnteringRightCar,200101MM01314,2001,London,33
+EnteringRightCar,200101MM01362,2001,London,37
+EnteringRightCar,200101MM01375,2001,London,35
+EnteringRightCar,200101MM01547,2001,London,31
+EnteringRightCar,200101NI00098,2001,London,34
+EnteringRightCar,200101NI00387,2001,London,29
+EnteringRightCar,200101NI00822,2001,London,24
+EnteringRightCar,200101NI01090,2001,London,25
+EnteringRightCar,200101PL00059,2001,London,34
+EnteringRightCar,200101PL00807,2001,London,26
+EnteringRightCar,200101PY00057,2001,London,31
+EnteringRightCar,200101PY00691,2001,London,34
+EnteringRightCar,200101PY00870,2001,London,26
+EnteringRightCar,200101QK00835,2001,London,41
+EnteringRightCar,200101RG01258,2001,London,20
+EnteringRightCar,200101RX00018,2001,London,33
+EnteringRightCar,200101RY00537,2001,London,31
+EnteringRightCar,200101SX00678,2001,London,30
+EnteringRightCar,200101SX00985,2001,London,36
+EnteringRightCar,200101SX01102,2001,London,
+EnteringRightCar,200101TW00344,2001,London,51
+EnteringRightCar,200101TW00393,2001,London,33
+EnteringRightCar,200101TX00013,2001,London,20
+EnteringRightCar,200101TX00273,2001,London,25
+EnteringRightCar,200101VK00405,2001,London,21
+EnteringRightCar,200101VW00264,2001,London,18
+EnteringRightCar,200101VW00602,2001,London,28
+EnteringRightCar,200101WW00037,2001,London,25
+EnteringRightCar,200101WW00391,2001,London,26
+EnteringRightCar,200101WW00612,2001,London,41
+EnteringRightCar,200101XH00212,2001,London,74
+EnteringRightCar,200101XH00610,2001,London,24
+EnteringRightCar,200101XH00814,2001,London,53
+EnteringRightCar,200101XS00401,2001,London,24
+EnteringRightCar,200101YR00224,2001,London,25
+EnteringRightCar,200101YR00800,2001,London,39
+EnteringRightCar,200101ZP00136,2001,London,49
+EnteringRightCar,200104A038901,2001,Lancashire,70
+EnteringRightCar,200104A082201,2001,Blackpool,51
+EnteringRightCar,200104B035201,2001,Lancashire,19
+EnteringRightCar,200104D038701,2001,Lancashire,66
+EnteringRightCar,200104D045601,2001,Lancashire,55
+EnteringRightCar,200104D049801,2001,Lancashire,32
+EnteringRightCar,200104D057201,2001,Lancashire,40
+EnteringRightCar,200104D079401,2001,Lancashire,27
+EnteringRightCar,2.00105E+12,2001,Merseyside,35
+EnteringRightCar,2.00105E+12,2001,Merseyside,53
+EnteringRightCar,2.00105E+12,2001,Merseyside,32
+EnteringRightCar,2.00105E+12,2001,Merseyside,23
+EnteringRightCar,2.00105E+12,2001,Merseyside,26
+EnteringRightCar,200106A008724,2001,Manchester,19
+EnteringRightCar,200106A009154,2001,Manchester,63
+EnteringRightCar,200106A009348,2001,Manchester,31
+EnteringRightCar,200106C013412,2001,Manchester,48
+EnteringRightCar,200106C013559,2001,Manchester,71
+EnteringRightCar,200106C014540,2001,Manchester,21
+EnteringRightCar,200106C015298,2001,Manchester,40
+EnteringRightCar,200106C015556,2001,Manchester,35
+EnteringRightCar,200106C015654,2001,Manchester,25
+EnteringRightCar,200106C016801,2001,Manchester,41
+EnteringRightCar,200106F008863,2001,Salford,16
+EnteringRightCar,200106G007042,2001,Tameside,47
+EnteringRightCar,200106J009016,2001,Stockport,41
+EnteringRightCar,200106J010340,2001,Stockport,13
+EnteringRightCar,200106L009169,2001,Wigan,55
+EnteringRightCar,200106L009202,2001,Wigan,37
+EnteringRightCar,200106L011261,2001,Wigan,57
+EnteringRightCar,200106M007265,2001,Trafford,21
+EnteringRightCar,200106M007343,2001,Trafford,
+EnteringRightCar,200106M007606,2001,Trafford,40
+EnteringRightCar,200106M008558,2001,Trafford,40
+EnteringRightCar,200106M008854,2001,Trafford,16
+EnteringRightCar,2.00107E+12,2001,Warrington,34
+EnteringRightCar,2.00107E+12,2001,Cheshire West and Chester,37
+EnteringRightCar,2.00107E+12,2001,Warrington,56
+EnteringRightCar,2.00107E+12,2001,Cheshire West and Chester,14
+EnteringRightCar,2.00107E+12,2001,Cheshire East,41
+EnteringRightCar,200110F371001,2001,Newcastle upon Tyne,28
+EnteringRightCar,200110I423001,2001,North Tyneside,18
+EnteringRightCar,2.00112E+12,2001,North Yorkshire,17
+EnteringRightCar,2.00113E+12,2001,Leeds,42
+EnteringRightCar,2.00113E+12,2001,Kirklees,49
+EnteringRightCar,2.00113E+12,2001,Bradford,11
+EnteringRightCar,2.00113E+12,2001,Leeds,48
+EnteringRightCar,2.00113E+12,2001,Kirklees,39
+EnteringRightCar,2.00113E+12,2001,Kirklees,46
+EnteringRightCar,2.00113E+12,2001,Bradford,21
+EnteringRightCar,2.00113E+12,2001,Leeds,25
+EnteringRightCar,2.00113E+12,2001,Calderdale,41
+EnteringRightCar,200114JJ00224,2001,Sheffield,32
+EnteringRightCar,200114JJ00843,2001,Sheffield,52
+EnteringRightCar,200116A003201,2001,North East Lincolnshire,54
+EnteringRightCar,200116A027901,2001,North East Lincolnshire,27
+EnteringRightCar,200116A053901,2001,North East Lincolnshire,36
+EnteringRightCar,200116B027101,2001,North Lincolnshire,53
+EnteringRightCar,200116C050101,2001,East Riding of Yorkshire,15
+EnteringRightCar,200116D004001,2001,Kingston Upon Hull,50
+EnteringRightCar,200116D025901,2001,Kingston Upon Hull,24
+EnteringRightCar,200116D061701,2001,Kingston Upon Hull,35
+EnteringRightCar,200116D087201,2001,Kingston Upon Hull,25
+EnteringRightCar,200117H100194,2001,Hartlepool,12
+EnteringRightCar,200120D214102,2001,Birmingham,20
+EnteringRightCar,200120D452202,2001,Birmingham,28
+EnteringRightCar,200120E072301,2001,Birmingham,41
+EnteringRightCar,200120G065302,2001,Wolverhampton,30
+EnteringRightCar,200120G132701,2001,Wolverhampton,39
+EnteringRightCar,200120H057401,2001,Walsall,14
+EnteringRightCar,200120J111502,2001,Dudley,46
+EnteringRightCar,200120M110803,2001,Coventry,41
+EnteringRightCar,200120M138401,2001,Coventry,18
+EnteringRightCar,200120M500002,2001,Coventry,20
+EnteringRightCar,2.00121E+12,2001,Stoke on Trent,17
+EnteringRightCar,2.00121E+12,2001,Stoke on Trent,17
+EnteringRightCar,2.00121E+12,2001,Staffordshire,46
+EnteringRightCar,200122GC18634,2001,Shropshire,40
+EnteringRightCar,2.00123E+12,2001,Warwickshire,18
+EnteringRightCar,2.00123E+12,2001,Warwickshire,26
+EnteringRightCar,2.00123E+12,2001,Warwickshire,25
+EnteringRightCar,200130A000361,2001,Derbyshire,18
+EnteringRightCar,20013102A0222,2001,Nottinghamshire,11
+EnteringRightCar,20013102E0889,2001,Nottinghamshire,23
+EnteringRightCar,20013104B2274,2001,Nottinghamshire,29
+EnteringRightCar,200132B052001,2001,Lincolnshire,49
+EnteringRightCar,200132B189501,2001,Lincolnshire,53
+EnteringRightCar,200132D110101,2001,Lincolnshire,31
+EnteringRightCar,200132D119001,2001,Lincolnshire,20
+EnteringRightCar,2.00133E+12,2001,Leicestershire,23
+EnteringRightCar,2.00133E+12,2001,Leicestershire,35
+EnteringRightCar,2.00133E+12,2001,Leicestershire,32
+EnteringRightCar,2.00133E+12,2001,Leicestershire,27
+EnteringRightCar,2.00133E+12,2001,Leicestershire,61
+EnteringRightCar,200134NN00051,2001,Northamptonshire,27
+EnteringRightCar,200134NN00902,2001,Northamptonshire,35
+EnteringRightCar,200134NW00502,2001,Northamptonshire,17
+EnteringRightCar,2.00135E+12,2001,Cambridgeshire,20
+EnteringRightCar,2.00135E+12,2001,Cambridgeshire,33
+EnteringRightCar,2.00135E+12,2001,Cambridgeshire,51
+EnteringRightCar,2.00135E+12,2001,Cambridgeshire,
+EnteringRightCar,2.00135E+12,2001,Cambridgeshire,22
+EnteringRightCar,200136G011952,2001,Norfolk,13
+EnteringRightCar,200136N011223,2001,Norfolk,46
+EnteringRightCar,200136T010222,2001,Norfolk,20
+EnteringRightCar,200137B010442,2001,Suffolk,37
+EnteringRightCar,200137G008942,2001,Suffolk,56
+EnteringRightCar,20014100C0082,2001,Hertfordshire,25
+EnteringRightCar,20014100C0569,2001,Hertfordshire,54
+EnteringRightCar,20014100F0412,2001,Hertfordshire,44
+EnteringRightCar,20014200A0718,2001,Essex,26
+EnteringRightCar,20014200F0183,2001,Thurrock,30
+EnteringRightCar,20014200G0321,2001,Essex,27
+EnteringRightCar,20014200H0296,2001,Southend on Sea,31
+EnteringRightCar,200143N218081,2001,Buckinghamshire,33
+EnteringRightCar,200143W454101,2001,Windsor and Maidenhead,42
+EnteringRightCar,200143W628011,2001,Slough,34
+EnteringRightCar,2001440AA0892,2001,Hampshire,41
+EnteringRightCar,2001440KK0261,2001,Portsmouth,30
+EnteringRightCar,2001440LR0296,2001,Hampshire,82
+EnteringRightCar,2001440NA0637,2001,Hampshire,27
+EnteringRightCar,2.00145E+12,2001,Surrey,11
+EnteringRightCar,200145NW15976,2001,Surrey,16
+EnteringRightCar,200146CT37170,2001,Kent,42
+EnteringRightCar,200146SK42844,2001,Kent,24
+EnteringRightCar,200146SW44037,2001,Kent,
+EnteringRightCar,200146TH43055,2001,Kent,34
+EnteringRightCar,200146WK45672,2001,Kent,65
+EnteringRightCar,200147C133569,2001,Brighton and Hove,29
+EnteringRightCar,200147C133636,2001,Brighton and Hove,29
+EnteringRightCar,200147C138159,2001,Brighton and Hove,42
+EnteringRightCar,200147C138635,2001,Brighton and Hove,26
+EnteringRightCar,200147C139432,2001,Brighton and Hove,32
+EnteringRightCar,200147C140489,2001,Brighton and Hove,25
+EnteringRightCar,200147C141164,2001,Brighton and Hove,35
+EnteringRightCar,200147C142325,2001,Brighton and Hove,21
+EnteringRightCar,200147C143765,2001,Brighton and Hove,53
+EnteringRightCar,200147X139168,2001,West Sussex,51
+EnteringRightCar,200147X143015,2001,West Sussex,27
+EnteringRightCar,200147Y144912,2001,West Sussex,24
+EnteringRightCar,200150A220382,2001,Cornwall and Isles of Scilly,19
+EnteringRightCar,200150A613540,2001,Cornwall and Isles of Scilly,32
+EnteringRightCar,200150D355194,2001,Devon,43
+EnteringRightCar,200150E311123,2001,Plymouth,26
+EnteringRightCar,2.00152E+12,2001,City of Bristol,54
+EnteringRightCar,2.00152E+12,2001,City of Bristol,33
+EnteringRightCar,2.00152E+12,2001,City of Bristol,44
+EnteringRightCar,2.00152E+12,2001,North Somerset,17
+EnteringRightCar,2.00152E+12,2001,Bath and North East Somerset,47
+EnteringRightCar,2.00152E+12,2001,City of Bristol,50
+EnteringRightCar,2.00152E+12,2001,City of Bristol,22
+EnteringRightCar,2.00152E+12,2001,City of Bristol,20
+EnteringRightCar,2.00152E+12,2001,Somerset,28
+EnteringRightCar,200152F455787,2001,Somerset,55
+EnteringRightCar,2001530AI0528,2001,Gloucestershire,25
+EnteringRightCar,2001530AI1291,2001,Gloucestershire,28
+EnteringRightCar,2001530AI1963,2001,Gloucestershire,39
+EnteringRightCar,2001530AI3268,2001,Gloucestershire,16
+EnteringRightCar,2001530AI3943,2001,Gloucestershire,20
+EnteringRightCar,2001550B00955,2001,Bournemouth,21
+EnteringRightCar,2001550B06484,2001,Bournemouth,19
+EnteringRightCar,2001550P03707,2001,Poole,57
+EnteringRightCar,200201BS00159,2002,London,26
+EnteringRightCar,200201BS00270,2002,London,26
+EnteringRightCar,200201BS00710,2002,London,19
+EnteringRightCar,200201CP00298,2002,London,31
+EnteringRightCar,200201DM00074,2002,London,
+EnteringRightCar,200201DM00617,2002,London,28
+EnteringRightCar,200201DM00740,2002,London,29
+EnteringRightCar,200201DM01448,2002,London,44
+EnteringRightCar,200201DM01631,2002,London,40
+EnteringRightCar,200201DM01712,2002,London,24
+EnteringRightCar,200201DM02102,2002,London,18
+EnteringRightCar,200201EO00035,2002,London,24
+EnteringRightCar,200201EO00167,2002,London,25
+EnteringRightCar,200201EO00447,2002,London,28
+EnteringRightCar,200201EO00681,2002,London,37
+EnteringRightCar,200201EO00717,2002,London,36
+EnteringRightCar,200201EO00749,2002,London,24
+EnteringRightCar,200201EO00752,2002,London,16
+EnteringRightCar,200201EO00860,2002,London,20
+EnteringRightCar,200201EO00919,2002,London,15
+EnteringRightCar,200201EO00925,2002,London,31
+EnteringRightCar,200201EO01104,2002,London,33
+EnteringRightCar,200201EO01367,2002,London,32
+EnteringRightCar,200201EO01448,2002,London,11
+EnteringRightCar,200201EO01690,2002,London,16
+EnteringRightCar,200201EO01898,2002,London,
+EnteringRightCar,200201FH00319,2002,London,
+EnteringRightCar,200201FH00506,2002,London,20
+EnteringRightCar,200201GD00187,2002,London,40
+EnteringRightCar,200201GD00353,2002,London,36
+EnteringRightCar,200201GD00438,2002,London,29
+EnteringRightCar,200201GD01073,2002,London,30
+EnteringRightCar,200201JC00404,2002,London,41
+EnteringRightCar,200201KD00738,2002,London,53
+EnteringRightCar,200201KD00957,2002,London,38
+EnteringRightCar,200201KO00149,2002,London,27
+EnteringRightCar,200201KO00189,2002,London,21
+EnteringRightCar,200201KO00259,2002,London,24
+EnteringRightCar,200201KO00451,2002,London,23
+EnteringRightCar,200201KO00561,2002,London,34
+EnteringRightCar,200201KO00856,2002,London,27
+EnteringRightCar,200201KO00882,2002,London,41
+EnteringRightCar,200201LX00116,2002,London,39
+EnteringRightCar,200201LX00336,2002,London,30
+EnteringRightCar,200201LX00610,2002,London,30
+EnteringRightCar,200201LX01079,2002,London,29
+EnteringRightCar,200201LX01841,2002,London,37
+EnteringRightCar,200201MM00376,2002,London,37
+EnteringRightCar,200201MM00595,2002,London,56
+EnteringRightCar,200201MM01105,2002,London,37
+EnteringRightCar,200201MM01554,2002,London,50
+EnteringRightCar,200201NI00076,2002,London,30
+EnteringRightCar,200201NI00334,2002,London,22
+EnteringRightCar,200201NI00346,2002,London,17
+EnteringRightCar,200201PL00864,2002,London,28
+EnteringRightCar,200201PY01228,2002,London,35
+EnteringRightCar,200201QK00216,2002,London,
+EnteringRightCar,200201QK00752,2002,London,32
+EnteringRightCar,200201QK00756,2002,London,24
+EnteringRightCar,200201QK01004,2002,London,39
+EnteringRightCar,200201RY00439,2002,London,40
+EnteringRightCar,200201SX00363,2002,London,15
+EnteringRightCar,200201SX00439,2002,London,38
+EnteringRightCar,200201SX00526,2002,London,28
+EnteringRightCar,200201TW00179,2002,London,33
+EnteringRightCar,200201TX00529,2002,London,35
+EnteringRightCar,200201WW00485,2002,London,33
+EnteringRightCar,200201WW00511,2002,London,24
+EnteringRightCar,200201WW00524,2002,London,25
+EnteringRightCar,200201WW00749,2002,London,35
+EnteringRightCar,200201WW01183,2002,London,39
+EnteringRightCar,200201WW01295,2002,London,38
+EnteringRightCar,200201YF00344,2002,London,41
+EnteringRightCar,200201YR00016,2002,London,51
+EnteringRightCar,200201ZD00820,2002,London,29
+EnteringRightCar,200201ZT00422,2002,London,41
+EnteringRightCar,200201ZT00488,2002,London,29
+EnteringRightCar,200204A002102,2002,Blackpool,22
+EnteringRightCar,200204A025202,2002,Blackpool,34
+EnteringRightCar,200204A067802,2002,Lancashire,37
+EnteringRightCar,200204A083802,2002,Blackpool,41
+EnteringRightCar,200204F034102,2002,Lancashire,35
+EnteringRightCar,200204F036502,2002,Lancashire,22
+EnteringRightCar,200204F040802,2002,Lancashire,13
+EnteringRightCar,2.00205E+12,2002,Merseyside,42
+EnteringRightCar,2.00205E+12,2002,Merseyside,42
+EnteringRightCar,2.00205E+12,2002,Merseyside,48
+EnteringRightCar,2.00205E+12,2002,Merseyside,43
+EnteringRightCar,2.00205E+12,2002,Merseyside,25
+EnteringRightCar,2.00205E+12,2002,Merseyside,24
+EnteringRightCar,2.00205E+12,2002,Merseyside,49
+EnteringRightCar,2.00205E+12,2002,Merseyside,11
+EnteringRightCar,2.00205E+12,2002,Merseyside,45
+EnteringRightCar,2.00205E+12,2002,Merseyside,27
+EnteringRightCar,200205BS00040,2002,Merseyside,32
+EnteringRightCar,200205BS00246,2002,Merseyside,55
+EnteringRightCar,200206C017765,2002,Manchester,64
+EnteringRightCar,200206C017886,2002,Manchester,19
+EnteringRightCar,200206C019351,2002,Manchester,16
+EnteringRightCar,200206C020038,2002,Manchester,76
+EnteringRightCar,200206C020356,2002,Manchester,40
+EnteringRightCar,200206J011552,2002,Stockport,29
+EnteringRightCar,200206J011870,2002,Stockport,56
+EnteringRightCar,200206J012135,2002,Stockport,22
+EnteringRightCar,200206J012481,2002,Stockport,19
+EnteringRightCar,200206K012084,2002,Bolton,34
+EnteringRightCar,200206K013915,2002,Bolton,42
+EnteringRightCar,200206M009109,2002,Trafford,34
+EnteringRightCar,200206M010067,2002,Trafford,23
+EnteringRightCar,200206M010564,2002,Trafford,42
+EnteringRightCar,200206M010651,2002,Trafford,41
+EnteringRightCar,200206N008165,2002,Bury,41
+EnteringRightCar,2.00207E+12,2002,Cheshire West and Chester,48
+EnteringRightCar,2.00207E+12,2002,Cheshire East,70
+EnteringRightCar,2.00207E+12,2002,Cheshire East,25
+EnteringRightCar,2.00207E+12,2002,Cheshire West and Chester,60
+EnteringRightCar,2.00207E+12,2002,Cheshire West and Chester,53
+EnteringRightCar,2.0021E+12,2002,Newcastle upon Tyne,40
+EnteringRightCar,200210H099702,2002,North Tyneside,29
+EnteringRightCar,200210K058202,2002,Gateshead,43
+EnteringRightCar,200210K225402,2002,Gateshead,44
+EnteringRightCar,2.00213E+12,2002,Leeds,37
+EnteringRightCar,2.00213E+12,2002,Bradford,14
+EnteringRightCar,2.00213E+12,2002,Bradford,35
+EnteringRightCar,2.00213E+12,2002,Wakefield,58
+EnteringRightCar,2.00213E+12,2002,Leeds,28
+EnteringRightCar,200214BB00243,2002,Doncaster,34
+EnteringRightCar,200214CC00717,2002,Doncaster,51
+EnteringRightCar,200214HH00296,2002,Sheffield,43
+EnteringRightCar,200214JJ00163,2002,Sheffield,31
+EnteringRightCar,200216A024902,2002,North East Lincolnshire,12
+EnteringRightCar,200216A041202,2002,North East Lincolnshire,18
+EnteringRightCar,200216A061802,2002,North East Lincolnshire,31
+EnteringRightCar,200216D002102,2002,Kingston Upon Hull,22
+EnteringRightCar,200216D086502,2002,Kingston Upon Hull,42
+EnteringRightCar,200216D093402,2002,Kingston Upon Hull,53
+EnteringRightCar,200216D098402,2002,Kingston Upon Hull,49
+EnteringRightCar,200216D104902,2002,Kingston Upon Hull,27
+EnteringRightCar,2002170S12472,2002,Stockton on Tees,45
+EnteringRightCar,200217M100248,2002,Middlesbrough,54
+EnteringRightCar,200220E054101,2002,Birmingham,25
+EnteringRightCar,200220E104002,2002,Birmingham,24
+EnteringRightCar,200220E153502,2002,Birmingham,19
+EnteringRightCar,200220E211102,2002,Birmingham,22
+EnteringRightCar,200220E254601,2002,Birmingham,64
+EnteringRightCar,200220F209101,2002,Birmingham,35
+EnteringRightCar,200220G068301,2002,Wolverhampton,35
+EnteringRightCar,200220H089301,2002,Walsall,64
+EnteringRightCar,200220J064002,2002,Dudley,30
+EnteringRightCar,200220K028901,2002,Sandwell,45
+EnteringRightCar,200220M016903,2002,Coventry,45
+EnteringRightCar,2.00221E+12,2002,Stoke on Trent,48
+EnteringRightCar,2.00223E+12,2002,Warwickshire,28
+EnteringRightCar,20023102B1350,2002,Nottinghamshire,
+EnteringRightCar,20023102B2156,2002,Nottinghamshire,53
+EnteringRightCar,20023102C1302,2002,Nottingham,
+EnteringRightCar,20023102C2891,2002,Nottingham,20
+EnteringRightCar,200232B156202,2002,Lincolnshire,50
+EnteringRightCar,2.00233E+12,2002,Leicestershire,26
+EnteringRightCar,2.00233E+12,2002,Leicestershire,53
+EnteringRightCar,2.00233E+12,2002,Leicestershire,45
+EnteringRightCar,200234NN00359,2002,Northamptonshire,29
+EnteringRightCar,200234NW00203,2002,Northamptonshire,12
+EnteringRightCar,200234NW00205,2002,Northamptonshire,44
+EnteringRightCar,2.00235E+12,2002,Cambridgeshire,
+EnteringRightCar,2.00235E+12,2002,Cambridgeshire,45
+EnteringRightCar,2.00235E+12,2002,Cambridgeshire,
+EnteringRightCar,2.00235E+12,2002,Cambridgeshire,16
+EnteringRightCar,2.00236E+12,2002,Norfolk,38
+EnteringRightCar,2.00236E+12,2002,Norfolk,13
+EnteringRightCar,2.00236E+12,2002,Norfolk,14
+EnteringRightCar,200236K020485,2002,Norfolk,28
+EnteringRightCar,200236N020334,2002,Norfolk,21
+EnteringRightCar,200237G010466,2002,Suffolk,54
+EnteringRightCar,20024100F4175,2002,Hertfordshire,29
+EnteringRightCar,20024200A0474,2002,Essex,28
+EnteringRightCar,200243P336062,2002,Oxfordshire,47
+EnteringRightCar,200243W120032,2002,Bracknell Forest,33
+EnteringRightCar,200243W430062,2002,Windsor and Maidenhead,42
+EnteringRightCar,2002440AA1466,2002,Hampshire,32
+EnteringRightCar,2002440KK1613,2002,Portsmouth,59
+EnteringRightCar,2002440KK2504,2002,Portsmouth,28
+EnteringRightCar,2002440SP0288,2002,Southampton ,27
+EnteringRightCar,200245RW21994,2002,Surrey,13
+EnteringRightCar,200245RW31571,2002,Surrey,23
+EnteringRightCar,200246MA56255,2002,Kent,22
+EnteringRightCar,200246TH53436,2002,Kent,41
+EnteringRightCar,200247C149397,2002,East Sussex,44
+EnteringRightCar,200247S148966,2002,East Sussex,34
+EnteringRightCar,200247Y147742,2002,West Sussex,30
+EnteringRightCar,200250D215933,2002,Devon,37
+EnteringRightCar,200250E410798,2002,Plymouth,38
+EnteringRightCar,200250E412037,2002,Plymouth,46
+EnteringRightCar,200250F316568,2002,Torbay,14
+EnteringRightCar,2.00252E+12,2002,City of Bristol,19
+EnteringRightCar,2.00252E+12,2002,North Somerset,65
+EnteringRightCar,2.00252E+12,2002,North Somerset,60
+EnteringRightCar,2.00252E+12,2002,City of Bristol,20
+EnteringRightCar,2002530AI0338,2002,Gloucestershire,39
+EnteringRightCar,2002530AI0546,2002,Gloucestershire,37
+EnteringRightCar,2002530AI1101,2002,Gloucestershire,54
+EnteringRightCar,2002530AI1683,2002,Gloucestershire,64
+EnteringRightCar,2002530AI2076,2002,Gloucestershire,27
+EnteringRightCar,2002530AI2485,2002,Gloucestershire,37
+EnteringRightCar,2002530AI4174,2002,Gloucestershire,32
+EnteringRightCar,200254CP39602,2002,Wiltshire,41
+EnteringRightCar,2002550B01803,2002,Bournemouth,33
+EnteringRightCar,2002550P06653,2002,Poole,25
+EnteringRightCar,2002552E06760,2002,Dorset,35
+EnteringRightCar,200301BS00349,2003,London,24
+EnteringRightCar,200301BS00354,2003,London,20
+EnteringRightCar,200301BS00445,2003,London,23
+EnteringRightCar,200301BS00487,2003,London,27
+EnteringRightCar,200301BS00602,2003,London,19
+EnteringRightCar,200301DM00336,2003,London,24
+EnteringRightCar,200301DM00388,2003,London,70
+EnteringRightCar,200301DM00541,2003,London,46
+EnteringRightCar,200301DM01533,2003,London,26
+EnteringRightCar,200301DM01752,2003,London,35
+EnteringRightCar,200301EO00039,2003,London,35
+EnteringRightCar,200301EO00056,2003,London,29
+EnteringRightCar,200301EO00183,2003,London,36
+EnteringRightCar,200301EO00438,2003,London,39
+EnteringRightCar,200301EO00554,2003,London,28
+EnteringRightCar,200301EO00597,2003,London,
+EnteringRightCar,200301EO00815,2003,London,33
+EnteringRightCar,200301EO01128,2003,London,51
+EnteringRightCar,200301EO01229,2003,London,40
+EnteringRightCar,200301EO01240,2003,London,41
+EnteringRightCar,200301EO01314,2003,London,31
+EnteringRightCar,200301EO01501,2003,London,37
+EnteringRightCar,200301EO01569,2003,London,45
+EnteringRightCar,200301EO01616,2003,London,29
+EnteringRightCar,200301EO01639,2003,London,
+EnteringRightCar,200301EO01896,2003,London,30
+EnteringRightCar,200301EO02129,2003,London,44
+EnteringRightCar,200301FH00486,2003,London,29
+EnteringRightCar,200301FH00709,2003,London,40
+EnteringRightCar,200301GD00385,2003,London,31
+EnteringRightCar,200301GD00618,2003,London,
+EnteringRightCar,200301GD00693,2003,London,21
+EnteringRightCar,200301GD01018,2003,London,33
+EnteringRightCar,200301HT00283,2003,London,26
+EnteringRightCar,200301JC00028,2003,London,78
+EnteringRightCar,200301JC00549,2003,London,28
+EnteringRightCar,200301JI00538,2003,London,45
+EnteringRightCar,200301JI00867,2003,London,54
+EnteringRightCar,200301KO00149,2003,London,36
+EnteringRightCar,200301KO00186,2003,London,38
+EnteringRightCar,200301LX01036,2003,London,27
+EnteringRightCar,200301LX01095,2003,London,24
+EnteringRightCar,200301LX01184,2003,London,40
+EnteringRightCar,200301LX01436,2003,London,35
+EnteringRightCar,200301MM00280,2003,London,30
+EnteringRightCar,200301MM00354,2003,London,30
+EnteringRightCar,200301MM00368,2003,London,28
+EnteringRightCar,200301MM00378,2003,London,47
+EnteringRightCar,200301MM00534,2003,London,27
+EnteringRightCar,200301MM00892,2003,London,50
+EnteringRightCar,200301MM01081,2003,London,40
+EnteringRightCar,200301MM01435,2003,London,44
+EnteringRightCar,200301PL00366,2003,London,40
+EnteringRightCar,200301PL00661,2003,London,16
+EnteringRightCar,200301PL01067,2003,London,22
+EnteringRightCar,200301PY00705,2003,London,
+EnteringRightCar,200301QA00572,2003,London,35
+EnteringRightCar,200301QK00666,2003,London,26
+EnteringRightCar,200301SX01312,2003,London,39
+EnteringRightCar,200301TD00227,2003,London,29
+EnteringRightCar,200301TD00290,2003,London,33
+EnteringRightCar,200301TD00370,2003,London,34
+EnteringRightCar,200301TW00323,2003,London,46
+EnteringRightCar,200301TW00528,2003,London,34
+EnteringRightCar,200301VK00139,2003,London,52
+EnteringRightCar,200301VW00017,2003,London,
+EnteringRightCar,200301VW00609,2003,London,48
+EnteringRightCar,200301WW00531,2003,London,29
+EnteringRightCar,200301WW01007,2003,London,38
+EnteringRightCar,200301XH00590,2003,London,62
+EnteringRightCar,200301XS00001,2003,London,27
+EnteringRightCar,200301XS00119,2003,London,44
+EnteringRightCar,200301XS00698,2003,London,46
+EnteringRightCar,200301YF00205,2003,London,40
+EnteringRightCar,200301YR00101,2003,London,50
+EnteringRightCar,200301ZD00477,2003,London,24
+EnteringRightCar,200301ZD00833,2003,London,28
+EnteringRightCar,200301ZT00198,2003,London,46
+EnteringRightCar,200304A017403,2003,Blackpool,34
+EnteringRightCar,200304A078903,2003,Blackpool,62
+EnteringRightCar,200304C049403,2003,Lancashire,44
+EnteringRightCar,200304D029503,2003,Lancashire,23
+EnteringRightCar,200304F032703,2003,Lancashire,55
+EnteringRightCar,200305AW01334,2003,Merseyside,43
+EnteringRightCar,200305AW01604,2003,Merseyside,50
+EnteringRightCar,200305BS00115,2003,Merseyside,80
+EnteringRightCar,200305BS00319,2003,Merseyside,15
+EnteringRightCar,200305BS01414,2003,Merseyside,37
+EnteringRightCar,200305BS01506,2003,Merseyside,45
+EnteringRightCar,200305FT01119,2003,Merseyside,50
+EnteringRightCar,200306A016016,2003,Manchester,21
+EnteringRightCar,200306C021156,2003,Manchester,31
+EnteringRightCar,200306C021506,2003,Manchester,19
+EnteringRightCar,200306C022411,2003,Manchester,25
+EnteringRightCar,200306C022526,2003,Manchester,19
+EnteringRightCar,200306C024067,2003,Manchester,21
+EnteringRightCar,200306C024282,2003,Manchester,35
+EnteringRightCar,200306C024535,2003,Manchester,23
+EnteringRightCar,200306F012191,2003,Salford,37
+EnteringRightCar,200306J013747,2003,Stockport,47
+EnteringRightCar,200306K015355,2003,Bolton,39
+EnteringRightCar,200306L014965,2003,Wigan,36
+EnteringRightCar,200306M011664,2003,Trafford,32
+EnteringRightCar,2.00307E+12,2003,Halton,60
+EnteringRightCar,2.00307E+12,2003,Warrington,22
+EnteringRightCar,2.0031E+12,2003,South Tyneside,14
+EnteringRightCar,2.0031E+12,2003,Newcastle upon Tyne,29
+EnteringRightCar,2.0031E+12,2003,North Tyneside,17
+EnteringRightCar,200311DJ02830,2003,Darlington,62
+EnteringRightCar,2.00312E+12,2003,North Yorkshire,41
+EnteringRightCar,2.00313E+12,2003,Wakefield,15
+EnteringRightCar,2.00313E+12,2003,Kirklees,38
+EnteringRightCar,2.00313E+12,2003,Bradford,24
+EnteringRightCar,2.00313E+12,2003,Leeds,32
+EnteringRightCar,2.00313E+12,2003,Leeds,37
+EnteringRightCar,2.00313E+12,2003,Kirklees,60
+EnteringRightCar,2.00313E+12,2003,Leeds,18
+EnteringRightCar,200314HH00950,2003,Sheffield,71
+EnteringRightCar,2003160C11670,2003,East Riding of Yorkshire,
+EnteringRightCar,200316A053803,2003,North East Lincolnshire,38
+EnteringRightCar,200316C018203,2003,East Riding of Yorkshire,72
+EnteringRightCar,2003170L32233,2003,Redcar and Cleveland,15
+EnteringRightCar,200320D096202,2003,Birmingham,17
+EnteringRightCar,200320D266101,2003,Birmingham,37
+EnteringRightCar,200320E059501,2003,Birmingham,43
+EnteringRightCar,200320E180401,2003,Birmingham,24
+EnteringRightCar,200320G016102,2003,Wolverhampton,52
+EnteringRightCar,200320K056502,2003,Sandwell,41
+EnteringRightCar,200320K129501,2003,Sandwell,40
+EnteringRightCar,200320L032101,2003,Solihull,39
+EnteringRightCar,200320M013002,2003,Coventry,40
+EnteringRightCar,200320M087202,2003,Coventry,45
+EnteringRightCar,2.00321E+12,2003,Staffordshire,17
+EnteringRightCar,2.00321E+12,2003,Staffordshire,17
+EnteringRightCar,2.00321E+12,2003,Staffordshire,52
+EnteringRightCar,200322CG33733,2003,Worcestershire,15
+EnteringRightCar,200322FJ32718,2003,Shropshire,47
+EnteringRightCar,2.00323E+12,2003,Warwickshire,33
+EnteringRightCar,2.00323E+12,2003,Warwickshire,77
+EnteringRightCar,200330B000685,2003,Derbyshire,
+EnteringRightCar,200330C000764,2003,Derbyshire,30
+EnteringRightCar,20033102A1569,2003,Nottinghamshire,22
+EnteringRightCar,20033102B2453,2003,Nottinghamshire,49
+EnteringRightCar,20033102C2446,2003,Nottingham,32
+EnteringRightCar,20033102C3920,2003,Nottingham,35
+EnteringRightCar,20033102C5464,2003,Nottingham,23
+EnteringRightCar,20033102C9326,2003,Nottingham,18
+EnteringRightCar,200332C004703,2003,Lincolnshire,60
+EnteringRightCar,2.00333E+12,2003,Leicestershire,26
+EnteringRightCar,2.00333E+12,2003,Leicestershire,43
+EnteringRightCar,200334NN03479,2003,Northamptonshire,46
+EnteringRightCar,200334NN03976,2003,Northamptonshire,59
+EnteringRightCar,200334NW01583,2003,Northamptonshire,65
+EnteringRightCar,2.00335E+12,2003,Cambridgeshire,21
+EnteringRightCar,2.00335E+12,2003,Peterborough,40
+EnteringRightCar,2.00335E+12,2003,Cambridgeshire,24
+EnteringRightCar,2.00335E+12,2003,Cambridgeshire,22
+EnteringRightCar,2.00335E+12,2003,Cambridgeshire,18
+EnteringRightCar,2.00335E+12,2003,Cambridgeshire,39
+EnteringRightCar,2.00335E+12,2003,Cambridgeshire,22
+EnteringRightCar,2.00335E+12,2003,Peterborough,33
+EnteringRightCar,200336T030281,2003,Norfolk,13
+EnteringRightCar,20034100A0652,2003,Hertfordshire,42
+EnteringRightCar,20034100C0065,2003,Hertfordshire,27
+EnteringRightCar,20034100C1672,2003,Hertfordshire,39
+EnteringRightCar,20034100D0990,2003,Hertfordshire,33
+EnteringRightCar,20034100F4112,2003,Hertfordshire,51
+EnteringRightCar,20034200G0175,2003,Essex,33
+EnteringRightCar,20034200H0576,2003,Southend on Sea,93
+EnteringRightCar,200343N181033,2003,Buckinghamshire,49
+EnteringRightCar,200343P257123,2003,Oxfordshire,50
+EnteringRightCar,200343P370053,2003,Oxfordshire,18
+EnteringRightCar,200343W111113,2003,Slough,20
+EnteringRightCar,200343W333073,2003,Slough,31
+EnteringRightCar,2003440KK0156,2003,Portsmouth,50
+EnteringRightCar,2003440SC0598,2003,Southampton ,39
+EnteringRightCar,2003440SC0626,2003,Southampton ,41
+EnteringRightCar,2003440ST0650,2003,Southampton ,24
+EnteringRightCar,2003440SY0140,2003,Southampton ,20
+EnteringRightCar,200345GU37847,2003,Surrey,34
+EnteringRightCar,200345OF43743,2003,Surrey,
+EnteringRightCar,200345RS43789,2003,Surrey,53
+EnteringRightCar,200346NK72389,2003,Kent,63
+EnteringRightCar,200346SK70362,2003,Kent,41
+EnteringRightCar,200346SK81669,2003,Kent,32
+EnteringRightCar,200347K163976,2003,East Sussex,34
+EnteringRightCar,200347K166509,2003,Brighton and Hove,16
+EnteringRightCar,200347K166714,2003,Brighton and Hove,
+EnteringRightCar,200347K170220,2003,Brighton and Hove,31
+EnteringRightCar,200350D21B729,2003,Devon,34
+EnteringRightCar,200350D21D837,2003,Devon,35
+EnteringRightCar,200350D21R212,2003,Devon,41
+EnteringRightCar,2.00352E+12,2003,City of Bristol,19
+EnteringRightCar,2.00352E+12,2003,City of Bristol,25
+EnteringRightCar,2.00352E+12,2003,North Somerset,35
+EnteringRightCar,2.00352E+12,2003,Somerset,15
+EnteringRightCar,2003530AI1503,2003,Gloucestershire,52
+EnteringRightCar,2003530AI1573,2003,Gloucestershire,13
+EnteringRightCar,2003530AI1626,2003,Gloucestershire,14
+EnteringRightCar,2003530AI3061,2003,Gloucestershire,39
+EnteringRightCar,2003530AI3509,2003,Gloucestershire,28
+EnteringRightCar,2003530AI3807,2003,Gloucestershire,32
+EnteringRightCar,2003530AI4315,2003,Gloucestershire,64
+EnteringRightCar,200354DC40703,2003,Swindon,40
+EnteringRightCar,2003550B01233,2003,Bournemouth,28
+EnteringRightCar,2003550B05451,2003,Bournemouth,
+EnteringRightCar,2003550P02983,2003,Poole,52
+EnteringRightCar,200401BS00189,2004,London,25
+EnteringRightCar,200401BS00402,2004,London,36
+EnteringRightCar,200401BS00551,2004,London,37
+EnteringRightCar,200401CP00137,2004,London,27
+EnteringRightCar,200401DM00026,2004,London,31
+EnteringRightCar,200401DM00301,2004,London,25
+EnteringRightCar,200401DM00679,2004,London,57
+EnteringRightCar,200401DM01459,2004,London,48
+EnteringRightCar,200401EO00032,2004,London,28
+EnteringRightCar,200401EO00205,2004,London,36
+EnteringRightCar,200401EO00413,2004,London,27
+EnteringRightCar,200401EO00536,2004,London,27
+EnteringRightCar,200401EO00730,2004,London,30
+EnteringRightCar,200401EO00844,2004,London,29
+EnteringRightCar,200401EO00869,2004,London,
+EnteringRightCar,200401EO00909,2004,London,38
+EnteringRightCar,200401EO00920,2004,London,23
+EnteringRightCar,200401EO00963,2004,London,61
+EnteringRightCar,200401EO01347,2004,London,33
+EnteringRightCar,200401EO01432,2004,London,39
+EnteringRightCar,200401EO01627,2004,London,22
+EnteringRightCar,200401EO01670,2004,London,44
+EnteringRightCar,200401FH00558,2004,London,42
+EnteringRightCar,200401FH00621,2004,London,26
+EnteringRightCar,200401FH00696,2004,London,36
+EnteringRightCar,200401FH00809,2004,London,22
+EnteringRightCar,200401GD00112,2004,London,27
+EnteringRightCar,200401GD10031,2004,London,24
+EnteringRightCar,200401JC00042,2004,London,35
+EnteringRightCar,200401JC00239,2004,London,15
+EnteringRightCar,200401JC00293,2004,London,29
+EnteringRightCar,200401JC00307,2004,London,56
+EnteringRightCar,200401JI00399,2004,London,42
+EnteringRightCar,200401LX00307,2004,London,29
+EnteringRightCar,200401LX50227,2004,London,37
+EnteringRightCar,200401LX50257,2004,London,37
+EnteringRightCar,200401LX50698,2004,London,26
+EnteringRightCar,200401MM00043,2004,London,72
+EnteringRightCar,200401MM00180,2004,London,29
+EnteringRightCar,200401MM00194,2004,London,25
+EnteringRightCar,200401MM00230,2004,London,30
+EnteringRightCar,200401MM70136,2004,London,38
+EnteringRightCar,200401MM70207,2004,London,19
+EnteringRightCar,200401MM79241,2004,London,28
+EnteringRightCar,200401MM79321,2004,London,37
+EnteringRightCar,200401PL60068,2004,London,29
+EnteringRightCar,200401PL60336,2004,London,35
+EnteringRightCar,200401PL60544,2004,London,43
+EnteringRightCar,200401PY20133,2004,London,40
+EnteringRightCar,200401PY20661,2004,London,16
+EnteringRightCar,200401QA00163,2004,London,34
+EnteringRightCar,200401RG40054,2004,London,33
+EnteringRightCar,200401RG40081,2004,London,49
+EnteringRightCar,200401RG40274,2004,London,22
+EnteringRightCar,200401RX00036,2004,London,34
+EnteringRightCar,200401TE09138,2004,London,
+EnteringRightCar,200401TW00173,2004,London,36
+EnteringRightCar,200401TX00122,2004,London,53
+EnteringRightCar,200401VK00127,2004,London,65
+EnteringRightCar,200401VW00287,2004,London,
+EnteringRightCar,200401WW00018,2004,London,43
+EnteringRightCar,200401WW00032,2004,London,28
+EnteringRightCar,200401WW00306,2004,London,35
+EnteringRightCar,200401WW01007,2004,London,25
+EnteringRightCar,200401XS00121,2004,London,29
+EnteringRightCar,200401XS00703,2004,London,36
+EnteringRightCar,200401XS01005,2004,London,34
+EnteringRightCar,200401YR00286,2004,London,54
+EnteringRightCar,200401ZD30270,2004,London,13
+EnteringRightCar,200401ZT80374,2004,London,36
+EnteringRightCar,200404A070004,2004,Blackpool,59
+EnteringRightCar,200404B033204,2004,Lancashire,38
+EnteringRightCar,200404C111904,2004,Lancashire,22
+EnteringRightCar,200404D011404,2004,Lancashire,53
+EnteringRightCar,200404F021004,2004,Lancashire,71
+EnteringRightCar,200405AW00384,2004,Merseyside,41
+EnteringRightCar,200405AW00486,2004,Merseyside,14
+EnteringRightCar,200405AW01523,2004,Merseyside,30
+EnteringRightCar,200405AW02016,2004,Merseyside,7
+EnteringRightCar,200405BS00932,2004,Merseyside,57
+EnteringRightCar,200405BS01408,2004,Merseyside,30
+EnteringRightCar,200405BS01410,2004,Merseyside,59
+EnteringRightCar,200405BS01569,2004,Merseyside,34
+EnteringRightCar,200405CH01165,2004,Merseyside,52
+EnteringRightCar,200405ET01893,2004,Merseyside,34
+EnteringRightCar,200406A902266,2004,Manchester,28
+EnteringRightCar,200406A903909,2004,Manchester,23
+EnteringRightCar,200406A913448,2004,Manchester,30
+EnteringRightCar,200406A914925,2004,Manchester,31
+EnteringRightCar,200406C025021,2004,Manchester,35
+EnteringRightCar,200406C025297,2004,Manchester,30
+EnteringRightCar,200406C025419,2004,Manchester,22
+EnteringRightCar,200406C025497,2004,Manchester,25
+EnteringRightCar,200406C906607,2004,Manchester,42
+EnteringRightCar,200406C909078,2004,Manchester,38
+EnteringRightCar,200406F915489,2004,Salford,27
+EnteringRightCar,200406K016764,2004,Bolton,40
+EnteringRightCar,200406K906297,2004,Bolton,16
+EnteringRightCar,200406L016624,2004,Wigan,13
+EnteringRightCar,200406L910809,2004,Wigan,42
+EnteringRightCar,200406M013009,2004,Trafford,30
+EnteringRightCar,200406Q903798,2004,Oldham,27
+EnteringRightCar,2.00407E+12,2004,Cheshire East,52
+EnteringRightCar,2.0041E+12,2004,South Tyneside,50
+EnteringRightCar,2.00412E+12,2004,York,42
+EnteringRightCar,2.00413E+12,2004,Leeds,27
+EnteringRightCar,2.00413E+12,2004,Leeds,37
+EnteringRightCar,2.00413E+12,2004,Leeds,16
+EnteringRightCar,2.00413E+12,2004,Leeds,44
+EnteringRightCar,2.00413E+12,2004,Leeds,49
+EnteringRightCar,2.00413E+12,2004,Kirklees,60
+EnteringRightCar,2.00413E+12,2004,Bradford,29
+EnteringRightCar,2.00413E+12,2004,Bradford,46
+EnteringRightCar,200414DD00031,2004,Sheffield,31
+EnteringRightCar,200414DD01543,2004,Sheffield,41
+EnteringRightCar,200414EE00142,2004,Sheffield,48
+EnteringRightCar,200414FF00667,2004,Sheffield,58
+EnteringRightCar,200414FF01374,2004,Sheffield,
+EnteringRightCar,2004160A04790,2004,North East Lincolnshire,48
+EnteringRightCar,2004160C00800,2004,East Riding of Yorkshire,28
+EnteringRightCar,2004160C04690,2004,East Riding of Yorkshire,16
+EnteringRightCar,2004160D06890,2004,Kingston Upon Hull,50
+EnteringRightCar,2004170L10184,2004,Redcar and Cleveland,61
+EnteringRightCar,200420E204202,2004,Birmingham,56
+EnteringRightCar,200420F125501,2004,Birmingham,25
+EnteringRightCar,200420G095102,2004,Wolverhampton,
+EnteringRightCar,200420G114201,2004,Wolverhampton,42
+EnteringRightCar,200420M041802,2004,Coventry,31
+EnteringRightCar,200420M072003,2004,Coventry,42
+EnteringRightCar,200420M097002,2004,Coventry,57
+EnteringRightCar,2.00421E+12,2004,Staffordshire,42
+EnteringRightCar,2.00421E+12,2004,Staffordshire,32
+EnteringRightCar,200422DD40738,2004,Worcestershire,13
+EnteringRightCar,200422DN41457,2004,Worcestershire,13
+EnteringRightCar,2.00423E+12,2004,Warwickshire,16
+EnteringRightCar,2.00423E+12,2004,Warwickshire,67
+EnteringRightCar,2.00423E+12,2004,Warwickshire,35
+EnteringRightCar,2.00423E+12,2004,Warwickshire,20
+EnteringRightCar,20043102B2692,2004,Nottinghamshire,23
+EnteringRightCar,20043108C3871,2004,Nottingham,
+EnteringRightCar,20043108C4222,2004,Nottingham,29
+EnteringRightCar,200432B165504,2004,Lincolnshire,29
+EnteringRightCar,200432C011704,2004,Lincolnshire,48
+EnteringRightCar,2.00433E+12,2004,Leicestershire,18
+EnteringRightCar,2.00433E+12,2004,Leicestershire,40
+EnteringRightCar,2.00433E+12,2004,Leicestershire,8
+EnteringRightCar,2.00433E+12,2004,Leicestershire,23
+EnteringRightCar,2.00433E+12,2004,Leicestershire,23
+EnteringRightCar,2.00433E+12,2004,Leicestershire,16
+EnteringRightCar,2.00435E+12,2004,Cambridgeshire,21
+EnteringRightCar,2.00435E+12,2004,Cambridgeshire,27
+EnteringRightCar,2.00436E+12,2004,Norfolk,33
+EnteringRightCar,20044100A0099,2004,Hertfordshire,38
+EnteringRightCar,20044200A0593,2004,Essex,20
+EnteringRightCar,20044200C0829,2004,Essex,36
+EnteringRightCar,20044200D0210,2004,Essex,
+EnteringRightCar,200443P022084,2004,Oxfordshire,18
+EnteringRightCar,200443P322014,2004,Oxfordshire,
+EnteringRightCar,200443W352094,2004,Bracknell Forest,22
+EnteringRightCar,200443W517034,2004,Slough,11
+EnteringRightCar,200443W566014,2004,Bracknell Forest,31
+EnteringRightCar,2004440AA0349,2004,Hampshire,20
+EnteringRightCar,2004440DW0158,2004,Hampshire,29
+EnteringRightCar,2004440HB0250,2004,Hampshire,33
+EnteringRightCar,2004440JL0118,2004,Hampshire,55
+EnteringRightCar,2004440SP0396,2004,Southampton ,34
+EnteringRightCar,2004440SP0552,2004,Southampton ,25
+EnteringRightCar,2004440SY0004,2004,Southampton ,52
+EnteringRightCar,2004440ZD0080,2004,Isle of Wight,24
+EnteringRightCar,2004440ZD0231,2004,Isle of Wight,13
+EnteringRightCar,200445EL60107,2004,Surrey,35
+EnteringRightCar,200445RU54597,2004,Surrey,35
+EnteringRightCar,200445SP54906,2004,Surrey,
+EnteringRightCar,2.00446E+12,2004,Medway,40
+EnteringRightCar,200446WK94314,2004,Kent,39
+EnteringRightCar,200446WL90944,2004,Kent,43
+EnteringRightCar,200447K171884,2004,West Sussex,63
+EnteringRightCar,200447K175156,2004,East Sussex,35
+EnteringRightCar,200447K179277,2004,East Sussex,22
+EnteringRightCar,200447K180134,2004,Brighton and Hove,24
+EnteringRightCar,200447K181332,2004,Brighton and Hove,59
+EnteringRightCar,2.00452E+12,2004,North Somerset,25
+EnteringRightCar,2.00452E+12,2004,North Somerset,14
+EnteringRightCar,2.00452E+12,2004,City of Bristol,24
+EnteringRightCar,2.00452E+12,2004,Somerset,58
+EnteringRightCar,2.00452E+12,2004,Somerset,14
+EnteringRightCar,2004530AI0928,2004,Gloucestershire,39
+EnteringRightCar,2004530AI3861,2004,Gloucestershire,51
+EnteringRightCar,200454DC67504,2004,Swindon,17
+EnteringRightCar,2004550B02427,2004,Bournemouth,38
+EnteringRightCar,2004550B05747,2004,Bournemouth,26
+EnteringRightCar,2004550B06243,2004,Bournemouth,34
+EnteringRightCar,2004550P04328,2004,Poole,12
+EnteringRightCar,200501BS70438,2005,London,27
+EnteringRightCar,200501BS70569,2005,London,34
+EnteringRightCar,200501BS70651,2005,London,
+EnteringRightCar,200501CW10578,2005,London,24
+EnteringRightCar,200501CW10665,2005,London,40
+EnteringRightCar,200501CW11257,2005,London,
+EnteringRightCar,200501EO40379,2005,London,31
+EnteringRightCar,200501EO41044,2005,London,45
+EnteringRightCar,200501EO41456,2005,London,26
+EnteringRightCar,200501GD10240,2005,London,29
+EnteringRightCar,200501GD10642,2005,London,37
+EnteringRightCar,200501HT20534,2005,London,28
+EnteringRightCar,200501HT20650,2005,London,34
+EnteringRightCar,200501HT20796,2005,London,39
+EnteringRightCar,200501JC30299,2005,London,
+EnteringRightCar,200501JI40895,2005,London,35
+EnteringRightCar,200501KF60650,2005,London,36
+EnteringRightCar,200501KG70417,2005,London,27
+EnteringRightCar,200501LX50730,2005,London,37
+EnteringRightCar,200501LX50949,2005,London,42
+EnteringRightCar,200501LX51033,2005,London,24
+EnteringRightCar,200501LX51303,2005,London,
+EnteringRightCar,200501MM70516,2005,London,33
+EnteringRightCar,200501MM70665,2005,London,27
+EnteringRightCar,200501MM70673,2005,London,30
+EnteringRightCar,200501MM70924,2005,London,34
+EnteringRightCar,200501MM71147,2005,London,55
+EnteringRightCar,200501PL60685,2005,London,36
+EnteringRightCar,200501PL60956,2005,London,58
+EnteringRightCar,200501PY20665,2005,London,43
+EnteringRightCar,200501QK50379,2005,London,23
+EnteringRightCar,200501QK50473,2005,London,38
+EnteringRightCar,200501VW40246,2005,London,25
+EnteringRightCar,200501VW40322,2005,London,40
+EnteringRightCar,200501VW40484,2005,London,24
+EnteringRightCar,200501WW50257,2005,London,26
+EnteringRightCar,200501WW50346,2005,London,24
+EnteringRightCar,200501WW50418,2005,London,28
+EnteringRightCar,200501WW50548,2005,London,
+EnteringRightCar,200501XH30414,2005,London,15
+EnteringRightCar,200501YE80610,2005,London,
+EnteringRightCar,2.00503E+12,2005,Cumbria,20
+EnteringRightCar,2.00503E+12,2005,Cumbria,49
+EnteringRightCar,200504AL05107,2005,Lancashire,13
+EnteringRightCar,200504D000305,2005,Lancashire,31
+EnteringRightCar,200505AW01294,2005,Merseyside,50
+EnteringRightCar,200505BS00404,2005,Merseyside,68
+EnteringRightCar,200505FF02442,2005,Merseyside,50
+EnteringRightCar,200506B038776,2005,Manchester,54
+EnteringRightCar,200506C036532,2005,Manchester,21
+EnteringRightCar,200506C037115,2005,Manchester,20
+EnteringRightCar,200506C919671,2005,Manchester,28
+EnteringRightCar,200506J026933,2005,Stockport,33
+EnteringRightCar,200506J917851,2005,Stockport,33
+EnteringRightCar,200506M034517,2005,Trafford,22
+EnteringRightCar,200506P031951,2005,Rochdale,42
+EnteringRightCar,200506P037361,2005,Rochdale,29
+EnteringRightCar,200506Q036366,2005,Oldham,20
+EnteringRightCar,2.00507E+12,2005,Cheshire West and Chester,41
+EnteringRightCar,2.00507E+12,2005,Cheshire West and Chester,40
+EnteringRightCar,2.00507E+12,2005,Cheshire West and Chester,22
+EnteringRightCar,2.00507E+12,2005,Cheshire East,39
+EnteringRightCar,2.0051E+12,2005,Newcastle upon Tyne,22
+EnteringRightCar,200511AA14740,2005,Durham,35
+EnteringRightCar,200511CG24780,2005,Durham,73
+EnteringRightCar,2.00512E+12,2005,York,49
+EnteringRightCar,2.00512E+12,2005,York,30
+EnteringRightCar,2.00513E+12,2005,Leeds,30
+EnteringRightCar,2.00513E+12,2005,Leeds,59
+EnteringRightCar,2.00513E+12,2005,Kirklees,18
+EnteringRightCar,2.00513E+12,2005,Leeds,25
+EnteringRightCar,2.00513E+12,2005,Leeds,52
+EnteringRightCar,200514D127305,2005,Sheffield,32
+EnteringRightCar,2005160A03070,2005,North East Lincolnshire,43
+EnteringRightCar,2005160B04520,2005,North Lincolnshire,38
+EnteringRightCar,2005160B04710,2005,North Lincolnshire,33
+EnteringRightCar,2005160D01250,2005,Kingston Upon Hull,48
+EnteringRightCar,2005160D03970,2005,Kingston Upon Hull,58
+EnteringRightCar,2005160D04510,2005,Kingston Upon Hull,50
+EnteringRightCar,2005160D04990,2005,Kingston Upon Hull,34
+EnteringRightCar,2005160D05980,2005,Kingston Upon Hull,38
+EnteringRightCar,2005170H11665,2005,Hartlepool,85
+EnteringRightCar,2005170S33675,2005,Stockton on Tees,44
+EnteringRightCar,200520F043401,2005,Birmingham,35
+EnteringRightCar,200520F080503,2005,Birmingham,11
+EnteringRightCar,200520F125402,2005,Birmingham,34
+EnteringRightCar,200520K502302,2005,Sandwell,30
+EnteringRightCar,2.00522E+12,2005,Staffordshire,50
+EnteringRightCar,2.00523E+12,2005,Warwickshire,
+EnteringRightCar,2.00523E+12,2005,Warwickshire,17
+EnteringRightCar,2.00523E+12,2005,Warwickshire,12
+EnteringRightCar,20053102C0762,2005,Nottingham,15
+EnteringRightCar,20053102D1503,2005,Nottinghamshire,43
+EnteringRightCar,200532D074505,2005,Lincolnshire,30
+EnteringRightCar,2.00533E+12,2005,Leicestershire,46
+EnteringRightCar,2.00533E+12,2005,Leicestershire,55
+EnteringRightCar,2.00533E+12,2005,Leicestershire,23
+EnteringRightCar,2.00533E+12,2005,Leicestershire,45
+EnteringRightCar,2.00533E+12,2005,Leicestershire,64
+EnteringRightCar,2.00535E+12,2005,Peterborough,88
+EnteringRightCar,2.00535E+12,2005,Cambridgeshire,16
+EnteringRightCar,2.00536E+12,2005,Norfolk,24
+EnteringRightCar,2.00536E+12,2005,Norfolk,39
+EnteringRightCar,200542D037211,2005,Essex,70
+EnteringRightCar,200542H001501,2005,Southend on Sea,37
+EnteringRightCar,200542H005002,2005,Southend on Sea,13
+EnteringRightCar,200543W476065,2005,Slough,20
+EnteringRightCar,2.00544E+12,2005,Hampshire,31
+EnteringRightCar,2.00544E+12,2005,Hampshire,35
+EnteringRightCar,2.00544E+12,2005,Hampshire,31
+EnteringRightCar,2.00544E+12,2005,Southampton ,39
+EnteringRightCar,2005445SP0035,2005,Southampton ,34
+EnteringRightCar,200545RE74317,2005,Surrey,37
+EnteringRightCar,200545SP78691,2005,Surrey,40
+EnteringRightCar,200545TA75222,2005,Surrey,48
+EnteringRightCar,2.00546E+12,2005,Kent,30
+EnteringRightCar,2.00546E+12,2005,Kent,15
+EnteringRightCar,2.00547E+12,2005,West Sussex,50
+EnteringRightCar,2.00547E+12,2005,East Sussex,17
+EnteringRightCar,2.00552E+12,2005,Somerset,22
+EnteringRightCar,2.00552E+12,2005,North Somerset,15
+EnteringRightCar,2.00552E+12,2005,City of Bristol,28
+EnteringRightCar,2.00553E+12,2005,Gloucestershire,37
+EnteringRightCar,200554DC19505,2005,Swindon,40
+EnteringRightCar,2005555B03561,2005,Bournemouth,42
+EnteringRightCar,2005555B03679,2005,Bournemouth,47
+EnteringRightCar,2005555B05259,2005,Bournemouth,25
+EnteringRightCar,2005555E01940,2005,Dorset,17
+EnteringRightCar,2005555P03754,2005,Poole,31
+EnteringRightCar,2005555P05313,2005,Poole,33
+EnteringRightCar,200601BS70228,2006,London,35
+EnteringRightCar,200601BS70561,2006,London,41
+EnteringRightCar,200601CW10105,2006,London,44
+EnteringRightCar,200601CW10453,2006,London,30
+EnteringRightCar,200601CW10563,2006,London,29
+EnteringRightCar,200601CW11241,2006,London,28
+EnteringRightCar,200601CW11274,2006,London,36
+EnteringRightCar,200601CW11295,2006,London,21
+EnteringRightCar,200601CW11364,2006,London,37
+EnteringRightCar,200601EO40102,2006,London,42
+EnteringRightCar,200601EO40157,2006,London,39
+EnteringRightCar,200601EO40603,2006,London,
+EnteringRightCar,200601EO40920,2006,London,21
+EnteringRightCar,200601EO41333,2006,London,22
+EnteringRightCar,200601EO41358,2006,London,31
+EnteringRightCar,200601GD10380,2006,London,24
+EnteringRightCar,200601HT20557,2006,London,
+EnteringRightCar,200601JC30444,2006,London,33
+EnteringRightCar,200601KG70162,2006,London,59
+EnteringRightCar,200601LX50281,2006,London,24
+EnteringRightCar,200601LX50480,2006,London,28
+EnteringRightCar,200601LX50617,2006,London,42
+EnteringRightCar,200601LX50798,2006,London,37
+EnteringRightCar,200601LX50832,2006,London,29
+EnteringRightCar,200601LX51066,2006,London,
+EnteringRightCar,200601MM70830,2006,London,34
+EnteringRightCar,200601MM71121,2006,London,34
+EnteringRightCar,200601PL60344,2006,London,36
+EnteringRightCar,200601PL60368,2006,London,26
+EnteringRightCar,200601PL60394,2006,London,33
+EnteringRightCar,200601PY20146,2006,London,36
+EnteringRightCar,200601QA10320,2006,London,34
+EnteringRightCar,200601QK50466,2006,London,25
+EnteringRightCar,200601QK50677,2006,London,31
+EnteringRightCar,200601RG40521,2006,London,77
+EnteringRightCar,200601SX20349,2006,London,28
+EnteringRightCar,200601SX20450,2006,London,28
+EnteringRightCar,200601SX20937,2006,London,
+EnteringRightCar,200601TW60360,2006,London,51
+EnteringRightCar,200601WW50089,2006,London,34
+EnteringRightCar,200601WW50494,2006,London,37
+EnteringRightCar,200601WW50559,2006,London,24
+EnteringRightCar,200601XD80154,2006,London,32
+EnteringRightCar,200601XD80764,2006,London,24
+EnteringRightCar,200601YE80045,2006,London,27
+EnteringRightCar,200601YE80160,2006,London,39
+EnteringRightCar,200601YR90090,2006,London,45
+EnteringRightCar,200601YR90364,2006,London,38
+EnteringRightCar,200601ZD30621,2006,London,26
+EnteringRightCar,200601ZT80166,2006,London,47
+EnteringRightCar,200601ZT80212,2006,London,29
+EnteringRightCar,200604AL06211,2006,Lancashire,11
+EnteringRightCar,200605AA13751,2006,Merseyside,40
+EnteringRightCar,200605BB13485,2006,Merseyside,76
+EnteringRightCar,200605EE06681,2006,Merseyside,48
+EnteringRightCar,200605EE13132,2006,Merseyside,48
+EnteringRightCar,200606A062101,2006,Manchester,53
+EnteringRightCar,200606B042449,2006,Manchester,27
+EnteringRightCar,200606B044061,2006,Manchester,23
+EnteringRightCar,200606J045314,2006,Stockport,46
+EnteringRightCar,200606J054133,2006,Stockport,25
+EnteringRightCar,200606K064164,2006,Bolton,32
+EnteringRightCar,200606L060845,2006,Wigan,14
+EnteringRightCar,200606P053782,2006,Rochdale,66
+EnteringRightCar,2.00607E+12,2006,Cheshire West and Chester,46
+EnteringRightCar,2.00607E+12,2006,Cheshire East,59
+EnteringRightCar,2.00607E+12,2006,Halton,11
+EnteringRightCar,2.0061E+12,2006,North Tyneside,33
+EnteringRightCar,2.0061E+12,2006,South Tyneside,
+EnteringRightCar,200611DJ22090,2006,Darlington,27
+EnteringRightCar,2.00612E+12,2006,North Yorkshire,56
+EnteringRightCar,2.00612E+12,2006,North Yorkshire,68
+EnteringRightCar,2.00613E+12,2006,Leeds,26
+EnteringRightCar,2.00613E+12,2006,Bradford,49
+EnteringRightCar,200614A178506,2006,Doncaster,57
+EnteringRightCar,200614B108706,2006,Barnsley,34
+EnteringRightCar,200614G105306,2006,Sheffield,12
+EnteringRightCar,2006160B05500,2006,North Lincolnshire,39
+EnteringRightCar,2006160D07650,2006,Kingston Upon Hull,39
+EnteringRightCar,2006170S11026,2006,Stockton on Tees,40
+EnteringRightCar,2006170S11796,2006,Stockton on Tees,22
+EnteringRightCar,2006170S31816,2006,Stockton on Tees,40
+EnteringRightCar,200620E030701,2006,Birmingham,37
+EnteringRightCar,200620L208901,2006,Solihull,27
+EnteringRightCar,2.00623E+12,2006,Warwickshire,64
+EnteringRightCar,20063102A3132,2006,Nottinghamshire,45
+EnteringRightCar,20063102C0261,2006,Nottingham,39
+EnteringRightCar,2.00633E+12,2006,Leicestershire,14
+EnteringRightCar,2.00635E+12,2006,Cambridgeshire,36
+EnteringRightCar,2.00635E+12,2006,Cambridgeshire,23
+EnteringRightCar,2.00635E+12,2006,Cambridgeshire,24
+EnteringRightCar,2.00635E+12,2006,Cambridgeshire,35
+EnteringRightCar,2.00636E+12,2006,Norfolk,23
+EnteringRightCar,2.00636E+12,2006,Norfolk,43
+EnteringRightCar,200640B030290,2006,Bedford Borough Council,39
+EnteringRightCar,200640D004560,2006,Central Bedfordshire,17
+EnteringRightCar,200640D033270,2006,Central Bedfordshire,38
+EnteringRightCar,20064100C0680,2006,Hertfordshire,17
+EnteringRightCar,200643W114026,2006,Reading,50
+EnteringRightCar,2.00644E+12,2006,Southampton ,38
+EnteringRightCar,2.00644E+12,2006,Hampshire,32
+EnteringRightCar,2.00644E+12,2006,Hampshire,50
+EnteringRightCar,2.00644E+12,2006,Portsmouth,41
+EnteringRightCar,200645GU96920,2006,Surrey,22
+EnteringRightCar,2.00646E+12,2006,Kent,46
+EnteringRightCar,2.00646E+12,2006,Kent,67
+EnteringRightCar,2.00647E+12,2006,Brighton and Hove,27
+EnteringRightCar,2.00647E+12,2006,West Sussex,38
+EnteringRightCar,2.00647E+12,2006,Brighton and Hove,44
+EnteringRightCar,200650D21L831,2006,Devon,43
+EnteringRightCar,2.00652E+12,2006,Bath and North East Somerset,16
+EnteringRightCar,2.00652E+12,2006,Somerset,34
+EnteringRightCar,2.00653E+12,2006,Gloucestershire,15
+EnteringRightCar,200654DN08206,2006,Swindon,31
+EnteringRightCar,2006556B01138,2006,Bournemouth,49
+EnteringRightCar,200701BS70007,2007,London,37
+EnteringRightCar,200701BS70251,2007,London,
+EnteringRightCar,200701BS70509,2007,London,24
+EnteringRightCar,200701BS70626,2007,London,29
+EnteringRightCar,200701BS70735,2007,London,35
+EnteringRightCar,200701CW10035,2007,London,42
+EnteringRightCar,200701CW10094,2007,London,32
+EnteringRightCar,200701CW10482,2007,London,30
+EnteringRightCar,200701CW10908,2007,London,38
+EnteringRightCar,200701CW11027,2007,London,20
+EnteringRightCar,200701CW11082,2007,London,41
+EnteringRightCar,200701CW11108,2007,London,21
+EnteringRightCar,200701CW11166,2007,London,23
+EnteringRightCar,200701CW11369,2007,London,39
+EnteringRightCar,200701EK63315,2007,London,42
+EnteringRightCar,200701EK66212,2007,London,32
+EnteringRightCar,200701EO40097,2007,London,23
+EnteringRightCar,200701EO40364,2007,London,38
+EnteringRightCar,200701EO40556,2007,London,63
+EnteringRightCar,200701EO40594,2007,London,29
+EnteringRightCar,200701EO40853,2007,London,32
+EnteringRightCar,200701FH10016,2007,London,25
+EnteringRightCar,200701GD10095,2007,London,29
+EnteringRightCar,200701GD64073,2007,London,42
+EnteringRightCar,200701GD66743,2007,London,34
+EnteringRightCar,200701GD67030,2007,London,33
+EnteringRightCar,200701GD67359,2007,London,23
+EnteringRightCar,200701GD68517,2007,London,47
+EnteringRightCar,200701GD68981,2007,London,30
+EnteringRightCar,200701HT66621,2007,London,28
+EnteringRightCar,200701HT68623,2007,London,24
+EnteringRightCar,200701HT68636,2007,London,35
+EnteringRightCar,200701KG66713,2007,London,18
+EnteringRightCar,200701LX50098,2007,London,45
+EnteringRightCar,200701LX50251,2007,London,
+EnteringRightCar,200701LX50351,2007,London,44
+EnteringRightCar,200701LX50420,2007,London,32
+EnteringRightCar,200701MM70466,2007,London,34
+EnteringRightCar,200701PL60392,2007,London,46
+EnteringRightCar,200701PL60393,2007,London,41
+EnteringRightCar,200701QA10328,2007,London,24
+EnteringRightCar,200701QK50241,2007,London,41
+EnteringRightCar,200701QK50440,2007,London,55
+EnteringRightCar,200701TE00129,2007,London,38
+EnteringRightCar,200701TW60251,2007,London,56
+EnteringRightCar,200701TW60277,2007,London,26
+EnteringRightCar,200701TW60360,2007,London,26
+EnteringRightCar,200701TX20621,2007,London,56
+EnteringRightCar,200701VK30331,2007,London,38
+EnteringRightCar,200701WW50757,2007,London,50
+EnteringRightCar,200701XD80298,2007,London,24
+EnteringRightCar,200701XD80813,2007,London,18
+EnteringRightCar,200704AN07126,2007,Blackpool,28
+EnteringRightCar,200704DF07055,2007,Lancashire,25
+EnteringRightCar,200704FE07047,2007,Lancashire,23
+EnteringRightCar,200705EE14294,2007,Merseyside,46
+EnteringRightCar,200705EE15030,2007,Merseyside,41
+EnteringRightCar,200705EE20626,2007,Merseyside,53
+EnteringRightCar,200706A070601,2007,Manchester,36
+EnteringRightCar,200706A079339,2007,Manchester,34
+EnteringRightCar,200706B068434,2007,Manchester,40
+EnteringRightCar,200706B071336,2007,Manchester,26
+EnteringRightCar,200706B078875,2007,Manchester,37
+EnteringRightCar,200706B080321,2007,Manchester,23
+EnteringRightCar,200706B080388,2007,Manchester,23
+EnteringRightCar,200706C084006,2007,Manchester,30
+EnteringRightCar,200706G066167,2007,Tameside,33
+EnteringRightCar,200706G080914,2007,Tameside,25
+EnteringRightCar,200706J067113,2007,Stockport,45
+EnteringRightCar,200706J085709,2007,Stockport,17
+EnteringRightCar,200706K082301,2007,Bolton,40
+EnteringRightCar,200706K085200,2007,Bolton,24
+EnteringRightCar,200706L076745,2007,Wigan,13
+EnteringRightCar,200706L080079,2007,Wigan,16
+EnteringRightCar,200706M084947,2007,Trafford,27
+EnteringRightCar,200706P081204,2007,Rochdale,47
+EnteringRightCar,200706Q079225,2007,Oldham,44
+EnteringRightCar,2.00707E+12,2007,Cheshire West and Chester,55
+EnteringRightCar,2.00707E+12,2007,Cheshire West and Chester,
+EnteringRightCar,2.00707E+12,2007,Cheshire West and Chester,17
+EnteringRightCar,2.0071E+12,2007,South Tyneside,30
+EnteringRightCar,2.00712E+12,2007,North Yorkshire,56
+EnteringRightCar,2.00712E+12,2007,York,20
+EnteringRightCar,2.00713E+12,2007,Bradford,46
+EnteringRightCar,2.00713E+12,2007,Bradford,46
+EnteringRightCar,2.00713E+12,2007,Kirklees,22
+EnteringRightCar,2.00713E+12,2007,Bradford,36
+EnteringRightCar,2.00713E+12,2007,Bradford,70
+EnteringRightCar,200714B125807,2007,Barnsley,44
+EnteringRightCar,2007160A00360,2007,North East Lincolnshire,34
+EnteringRightCar,2007160B01340,2007,North Lincolnshire,51
+EnteringRightCar,2007160D06050,2007,Kingston Upon Hull,26
+EnteringRightCar,2007160D07980,2007,Kingston Upon Hull,35
+EnteringRightCar,2007170M12667,2007,Middlesbrough,21
+EnteringRightCar,200720E066101,2007,Birmingham,38
+EnteringRightCar,200720E074401,2007,Birmingham,21
+EnteringRightCar,200720E097803,2007,Birmingham,27
+EnteringRightCar,200720E130503,2007,Birmingham,31
+EnteringRightCar,200720G057801,2007,Wolverhampton,17
+EnteringRightCar,2.00722E+12,2007,Stoke on Trent,24
+EnteringRightCar,2.00722E+12,2007,Staffordshire,38
+EnteringRightCar,2.00722E+12,2007,Staffordshire,48
+EnteringRightCar,2.00722E+12,2007,Staffordshire,39
+EnteringRightCar,2.00723E+12,2007,Warwickshire,48
+EnteringRightCar,2.00723E+12,2007,Warwickshire,30
+EnteringRightCar,2.00723E+12,2007,Warwickshire,56
+EnteringRightCar,2.00723E+12,2007,Warwickshire,52
+EnteringRightCar,20073102C1589,2007,Nottingham,30
+EnteringRightCar,20073102C4443,2007,Nottingham,50
+EnteringRightCar,20073102D0841,2007,Nottinghamshire,51
+EnteringRightCar,200732D297307,2007,Lincolnshire,55
+EnteringRightCar,2.00733E+12,2007,Leicestershire,28
+EnteringRightCar,2.00733E+12,2007,Leicestershire,
+EnteringRightCar,200734WD40837,2007,Northamptonshire,64
+EnteringRightCar,2.00735E+12,2007,Cambridgeshire,58
+EnteringRightCar,2.00735E+12,2007,Peterborough,39
+EnteringRightCar,2.00735E+12,2007,Cambridgeshire,41
+EnteringRightCar,2.00735E+12,2007,Cambridgeshire,14
+EnteringRightCar,2.00735E+12,2007,Cambridgeshire,35
+EnteringRightCar,2.00736E+12,2007,Norfolk,30
+EnteringRightCar,2007400B02799,2007,Bedford Borough Council,11
+EnteringRightCar,20074100C0069,2007,Hertfordshire,51
+EnteringRightCar,20074100C1095,2007,Hertfordshire,59
+EnteringRightCar,200742I051901,2007,Essex,37
+EnteringRightCar,200742I266907,2007,Southend on Sea,35
+EnteringRightCar,200742I318308,2007,Essex,27
+EnteringRightCar,200743N014117,2007,Buckinghamshire,75
+EnteringRightCar,200743P131017,2007,Oxfordshire,23
+EnteringRightCar,200743P159097,2007,Oxfordshire,35
+EnteringRightCar,200743P353067,2007,Oxfordshire,27
+EnteringRightCar,200743W067077,2007,Reading,21
+EnteringRightCar,2.00744E+12,2007,Southampton ,71
+EnteringRightCar,2.00744E+12,2007,Southampton ,20
+EnteringRightCar,2.00744E+12,2007,Southampton ,45
+EnteringRightCar,200745RU08586,2007,Surrey,85
+EnteringRightCar,200745SP06188,2007,Surrey,13
+EnteringRightCar,2.00747E+12,2007,Brighton and Hove,30
+EnteringRightCar,2.00747E+12,2007,Brighton and Hove,48
+EnteringRightCar,2.00747E+12,2007,Brighton and Hove,27
+EnteringRightCar,2.00747E+12,2007,East Sussex,19
+EnteringRightCar,200750D21I455,2007,Devon,38
+EnteringRightCar,2.00752E+12,2007,City of Bristol,40
+EnteringRightCar,2.00752E+12,2007,Bath and North East Somerset,29
+EnteringRightCar,2.00753E+12,2007,Gloucestershire,16
+EnteringRightCar,200754DC11307,2007,Swindon,63
+EnteringRightCar,2007557B01644,2007,Bournemouth,19
+EnteringRightCar,200801BS70317,2008,London,32
+EnteringRightCar,200801BS70390,2008,London,30
+EnteringRightCar,200801BS70433,2008,London,23
+EnteringRightCar,200801CP00171,2008,London,30
+EnteringRightCar,200801CP00289,2008,London,28
+EnteringRightCar,200801CW10326,2008,London,30
+EnteringRightCar,200801CW10456,2008,London,41
+EnteringRightCar,200801CW10731,2008,London,
+EnteringRightCar,200801CW10820,2008,London,29
+EnteringRightCar,200801CW10903,2008,London,
+EnteringRightCar,200801CW10926,2008,London,17
+EnteringRightCar,200801CW11205,2008,London,31
+EnteringRightCar,200801CW11591,2008,London,37
+EnteringRightCar,200801CW11934,2008,London,26
+EnteringRightCar,200801CW12213,2008,London,23
+EnteringRightCar,200801CW12306,2008,London,57
+EnteringRightCar,200801EO40321,2008,London,28
+EnteringRightCar,200801EO40623,2008,London,
+EnteringRightCar,200801EO40630,2008,London,27
+EnteringRightCar,200801EO40676,2008,London,32
+EnteringRightCar,200801EO40682,2008,London,35
+EnteringRightCar,200801GD74517,2008,London,28
+EnteringRightCar,200801GD74685,2008,London,22
+EnteringRightCar,200801JC69939,2008,London,32
+EnteringRightCar,200801JC70274,2008,London,27
+EnteringRightCar,200801KF75736,2008,London,37
+EnteringRightCar,200801LX50272,2008,London,
+EnteringRightCar,200801LX50277,2008,London,74
+EnteringRightCar,200801LX51018,2008,London,27
+EnteringRightCar,200801LX59050,2008,London,58
+EnteringRightCar,200801MM70228,2008,London,28
+EnteringRightCar,200801MM70272,2008,London,59
+EnteringRightCar,200801MM70659,2008,London,25
+EnteringRightCar,200801MM70815,2008,London,32
+EnteringRightCar,200801MM70824,2008,London,35
+EnteringRightCar,200801PL60236,2008,London,24
+EnteringRightCar,200801PY20367,2008,London,30
+EnteringRightCar,200801QK50552,2008,London,28
+EnteringRightCar,200801QK59042,2008,London,30
+EnteringRightCar,200801SX20965,2008,London,60
+EnteringRightCar,200801TW60178,2008,London,63
+EnteringRightCar,200801WW50146,2008,London,67
+EnteringRightCar,200801WW50332,2008,London,40
+EnteringRightCar,200801WW50379,2008,London,23
+EnteringRightCar,200801WW50435,2008,London,49
+EnteringRightCar,200801WW50436,2008,London,22
+EnteringRightCar,200801WW50577,2008,London,51
+EnteringRightCar,200801WW50699,2008,London,61
+EnteringRightCar,200801WW50739,2008,London,46
+EnteringRightCar,200801XD80469,2008,London,37
+EnteringRightCar,200801XD80749,2008,London,
+EnteringRightCar,200801XH30449,2008,London,36
+EnteringRightCar,200801XH30655,2008,London,31
+EnteringRightCar,200801XH30701,2008,London,21
+EnteringRightCar,200801ZD30857,2008,London,33
+EnteringRightCar,200801ZT80397,2008,London,21
+EnteringRightCar,200804DF08087,2008,Lancashire,38
+EnteringRightCar,200804DF08124,2008,Lancashire,44
+EnteringRightCar,200804EB08032,2008,Blackburn with Darwen,38
+EnteringRightCar,200804FA08112,2008,Lancashire,52
+EnteringRightCar,200804FL08128,2008,Lancashire,37
+EnteringRightCar,200805FF29686,2008,Merseyside,28
+EnteringRightCar,200806A003410,2008,Manchester,30
+EnteringRightCar,200806A007524,2008,Manchester,40
+EnteringRightCar,200806A088918,2008,Manchester,29
+EnteringRightCar,200806A093666,2008,Manchester,50
+EnteringRightCar,200806B000113,2008,Manchester,20
+EnteringRightCar,200806B001378,2008,Manchester,46
+EnteringRightCar,200806B002581,2008,Manchester,26
+EnteringRightCar,200806C098373,2008,Manchester,47
+EnteringRightCar,200806K094277,2008,Bolton,24
+EnteringRightCar,200806L093090,2008,Wigan,20
+EnteringRightCar,200806L095398,2008,Wigan,42
+EnteringRightCar,200806M001652,2008,Trafford,22
+EnteringRightCar,200806M003261,2008,Trafford,58
+EnteringRightCar,200806P093656,2008,Rochdale,41
+EnteringRightCar,2.00807E+12,2008,Cheshire West and Chester,15
+EnteringRightCar,2.00807E+12,2008,Warrington,42
+EnteringRightCar,2.00807E+12,2008,Cheshire West and Chester,84
+EnteringRightCar,2.00807E+12,2008,Warrington,24
+EnteringRightCar,2.00807E+12,2008,Cheshire West and Chester,58
+EnteringRightCar,2.00807E+12,2008,Halton,58
+EnteringRightCar,2.0081E+12,2008,South Tyneside,14
+EnteringRightCar,2.00812E+12,2008,North Yorkshire,68
+EnteringRightCar,2.00812E+12,2008,North Yorkshire,39
+EnteringRightCar,2.00812E+12,2008,York,39
+EnteringRightCar,2.00813E+12,2008,Leeds,26
+EnteringRightCar,2.00813E+12,2008,Leeds,54
+EnteringRightCar,2.00813E+12,2008,Leeds,47
+EnteringRightCar,200814A215708,2008,Doncaster,50
+EnteringRightCar,200814B119208,2008,Barnsley,32
+EnteringRightCar,200814K260408,2008,Sheffield,55
+EnteringRightCar,200814K284508,2008,Sheffield,21
+EnteringRightCar,2008160C03690,2008,East Riding of Yorkshire,9
+EnteringRightCar,2008170L30968,2008,Redcar and Cleveland,17
+EnteringRightCar,2008170M11568,2008,Middlesbrough,55
+EnteringRightCar,2008170M12278,2008,Middlesbrough,42
+EnteringRightCar,2008170M12848,2008,Middlesbrough,29
+EnteringRightCar,2008170S10398,2008,Stockton on Tees,36
+EnteringRightCar,200820D161902,2008,Birmingham,
+EnteringRightCar,200820D164201,2008,Birmingham,39
+EnteringRightCar,200820E015903,2008,Birmingham,32
+EnteringRightCar,200820E120103,2008,Birmingham,38
+EnteringRightCar,200820E137901,2008,Birmingham,54
+EnteringRightCar,200820E160003,2008,Birmingham,26
+EnteringRightCar,200820F064103,2008,Birmingham,64
+EnteringRightCar,200820F120901,2008,Birmingham,31
+EnteringRightCar,200820F143801,2008,Birmingham,48
+EnteringRightCar,200820G056002,2008,Wolverhampton,40
+EnteringRightCar,200820J043902,2008,Dudley,15
+EnteringRightCar,200820K100901,2008,Sandwell,52
+EnteringRightCar,200820L042101,2008,Solihull,61
+EnteringRightCar,200820M048402,2008,Coventry,40
+EnteringRightCar,2.00822E+12,2008,Stoke on Trent,16
+EnteringRightCar,2.00823E+12,2008,Warwickshire,13
+EnteringRightCar,2.00823E+12,2008,Warwickshire,25
+EnteringRightCar,20083102C1193,2008,Nottingham,18
+EnteringRightCar,20083102C2109,2008,Nottingham,24
+EnteringRightCar,20083102D0097,2008,Nottinghamshire,27
+EnteringRightCar,200832B172808,2008,Lincolnshire,13
+EnteringRightCar,200832D319808,2008,Lincolnshire,17
+EnteringRightCar,2.00833E+12,2008,Leicestershire,41
+EnteringRightCar,2.00833E+12,2008,Leicestershire,29
+EnteringRightCar,2.00833E+12,2008,Leicestershire,26
+EnteringRightCar,2.00835E+12,2008,Cambridgeshire,37
+EnteringRightCar,2.00835E+12,2008,Cambridgeshire,21
+EnteringRightCar,2.00835E+12,2008,Cambridgeshire,28
+EnteringRightCar,20084100B0664,2008,Hertfordshire,38
+EnteringRightCar,20084100F4376,2008,Hertfordshire,49
+EnteringRightCar,200842I062402,2008,Essex,51
+EnteringRightCar,200842I354510,2008,Essex,41
+EnteringRightCar,200842I385110,2008,Essex,65
+EnteringRightCar,200842I469312,2008,Essex,60
+EnteringRightCar,200843S168068,2008,Milton Keynes,34
+EnteringRightCar,2.00844E+12,2008,Southampton ,48
+EnteringRightCar,2.00844E+12,2008,Portsmouth,36
+EnteringRightCar,2.00844E+12,2008,Southampton ,16
+EnteringRightCar,2.00844E+12,2008,Portsmouth,18
+EnteringRightCar,2.00844E+12,2008,Southampton ,63
+EnteringRightCar,2.00844E+12,2008,Isle of Wight,48
+EnteringRightCar,2.00844E+12,2008,Hampshire,45
+EnteringRightCar,2.00844E+12,2008,Portsmouth,23
+EnteringRightCar,2.00844E+12,2008,Southampton ,42
+EnteringRightCar,200845WA21830,2008,Surrey,69
+EnteringRightCar,2.00846E+12,2008,Kent,45
+EnteringRightCar,2.00846E+12,2008,Kent,41
+EnteringRightCar,2.00847E+12,2008,Brighton and Hove,32
+EnteringRightCar,2.00847E+12,2008,Brighton and Hove,24
+EnteringRightCar,2.00847E+12,2008,Brighton and Hove,30
+EnteringRightCar,2.00847E+12,2008,Brighton and Hove,30
+EnteringRightCar,200850FB2B001,2008,Torbay,41
+EnteringRightCar,2.00852E+12,2008,City of Bristol,13
+EnteringRightCar,2.00852E+12,2008,North Somerset,27
+EnteringRightCar,2.00852E+12,2008,City of Bristol,37
+EnteringRightCar,2.00852E+12,2008,North Somerset,43
+EnteringRightCar,2.00852E+12,2008,Somerset,33
+EnteringRightCar,2.00852E+12,2008,Bath and North East Somerset,24
+EnteringRightCar,2.00852E+12,2008,Somerset,45
+EnteringRightCar,2.00852E+12,2008,City of Bristol,26
+EnteringRightCar,2.00852E+12,2008,Bath and North East Somerset,60
+EnteringRightCar,2.00852E+12,2008,City of Bristol,27
+EnteringRightCar,2.00852E+12,2008,City of Bristol,59
+EnteringRightCar,2.00852E+12,2008,City of Bristol,45
+EnteringRightCar,2008558B01259,2008,Bournemouth,58
+EnteringRightCar,200901BS70152,2009,London,
+EnteringRightCar,200901BS70348,2009,London,34
+EnteringRightCar,200901BS70557,2009,London,45
+EnteringRightCar,200901CP00068,2009,London,40
+EnteringRightCar,200901CP00156,2009,London,37
+EnteringRightCar,200901CW10104,2009,London,33
+EnteringRightCar,200901CW10150,2009,London,32
+EnteringRightCar,200901CW10360,2009,London,44
+EnteringRightCar,200901CW10428,2009,London,39
+EnteringRightCar,200901CW10593,2009,London,23
+EnteringRightCar,200901CW10729,2009,London,40
+EnteringRightCar,200901CW11091,2009,London,40
+EnteringRightCar,200901CW11171,2009,London,29
+EnteringRightCar,200901CW11240,2009,London,56
+EnteringRightCar,200901CW11343,2009,London,33
+EnteringRightCar,200901CW11560,2009,London,32
+EnteringRightCar,200901CW12066,2009,London,30
+EnteringRightCar,200901CW12638,2009,London,25
+EnteringRightCar,200901CW12741,2009,London,25
+EnteringRightCar,200901CW19134,2009,London,44
+EnteringRightCar,200901EO40373,2009,London,25
+EnteringRightCar,200901EO40447,2009,London,36
+EnteringRightCar,200901EO40509,2009,London,16
+EnteringRightCar,200901EO40538,2009,London,53
+EnteringRightCar,200901FH10444,2009,London,36
+EnteringRightCar,200901GD10235,2009,London,44
+EnteringRightCar,200901GD10265,2009,London,27
+EnteringRightCar,200901GD10356,2009,London,27
+EnteringRightCar,200901GD10431,2009,London,33
+EnteringRightCar,200901GD10654,2009,London,28
+EnteringRightCar,200901GD10666,2009,London,30
+EnteringRightCar,200901GD10735,2009,London,30
+EnteringRightCar,200901HT20318,2009,London,14
+EnteringRightCar,200901HT20373,2009,London,30
+EnteringRightCar,200901HT20453,2009,London,52
+EnteringRightCar,200901HT20511,2009,London,39
+EnteringRightCar,200901HT20548,2009,London,32
+EnteringRightCar,200901HT20727,2009,London,49
+EnteringRightCar,200901JC30054,2009,London,52
+EnteringRightCar,200901JC30113,2009,London,
+EnteringRightCar,200901JC30342,2009,London,42
+EnteringRightCar,200901JC30476,2009,London,54
+EnteringRightCar,200901JC30589,2009,London,23
+EnteringRightCar,200901JI40495,2009,London,39
+EnteringRightCar,200901KF60211,2009,London,25
+EnteringRightCar,200901KF60238,2009,London,38
+EnteringRightCar,200901KF60435,2009,London,37
+EnteringRightCar,200901LX50284,2009,London,31
+EnteringRightCar,200901LX50396,2009,London,55
+EnteringRightCar,200901LX50672,2009,London,30
+EnteringRightCar,200901LX50812,2009,London,82
+EnteringRightCar,200901MM70001,2009,London,53
+EnteringRightCar,200901MM70213,2009,London,36
+EnteringRightCar,200901MM70810,2009,London,27
+EnteringRightCar,200901MM70856,2009,London,32
+EnteringRightCar,200901MM71055,2009,London,32
+EnteringRightCar,200901PL60343,2009,London,35
+EnteringRightCar,200901PL60482,2009,London,33
+EnteringRightCar,200901PL60558,2009,London,36
+EnteringRightCar,200901PL60623,2009,London,45
+EnteringRightCar,200901PL60688,2009,London,29
+EnteringRightCar,200901PL60808,2009,London,57
+EnteringRightCar,200901PY20047,2009,London,53
+EnteringRightCar,200901PY20779,2009,London,61
+EnteringRightCar,200901QA10321,2009,London,31
+EnteringRightCar,200901RG40162,2009,London,25
+EnteringRightCar,200901RG40316,2009,London,26
+EnteringRightCar,200901RG40452,2009,London,31
+EnteringRightCar,200901RG40689,2009,London,36
+EnteringRightCar,200901RG40745,2009,London,41
+EnteringRightCar,200901RY10227,2009,London,34
+EnteringRightCar,200901SX20776,2009,London,40
+EnteringRightCar,200901SX21016,2009,London,45
+EnteringRightCar,200901TB00189,2009,London,34
+EnteringRightCar,200901TW60058,2009,London,28
+EnteringRightCar,200901TW60372,2009,London,47
+EnteringRightCar,200901TW60415,2009,London,35
+EnteringRightCar,200901TX20155,2009,London,37
+EnteringRightCar,200901TX20382,2009,London,45
+EnteringRightCar,200901TX20443,2009,London,7
+EnteringRightCar,200901VK30310,2009,London,47
+EnteringRightCar,200901VW40441,2009,London,
+EnteringRightCar,200901VW49103,2009,London,
+EnteringRightCar,200901WW50126,2009,London,54
+EnteringRightCar,200901WW50450,2009,London,23
+EnteringRightCar,200901WW50511,2009,London,37
+EnteringRightCar,200901WW50614,2009,London,28
+EnteringRightCar,200901WW50773,2009,London,
+EnteringRightCar,200901XD80238,2009,London,49
+EnteringRightCar,200901XD80788,2009,London,25
+EnteringRightCar,200901XH30140,2009,London,16
+EnteringRightCar,200901YE80518,2009,London,28
+EnteringRightCar,200901YR90365,2009,London,26
+EnteringRightCar,200901ZD30389,2009,London,
+EnteringRightCar,200901ZD30587,2009,London,46
+EnteringRightCar,200901ZD30610,2009,London,16
+EnteringRightCar,200904BB09009,2009,Lancashire,33
+EnteringRightCar,200904DR09024,2009,Lancashire,5
+EnteringRightCar,200904EA09340,2009,Blackburn with Darwen,43
+EnteringRightCar,200905AA31363,2009,Merseyside,57
+EnteringRightCar,200905EE01627,2009,Merseyside,28
+EnteringRightCar,200905EE31149,2009,Merseyside,45
+EnteringRightCar,200905EE32514,2009,Merseyside,47
+EnteringRightCar,200906A017155,2009,Manchester,37
+EnteringRightCar,200906B009276,2009,Manchester,21
+EnteringRightCar,200906B010513,2009,Manchester,59
+EnteringRightCar,200906B015329,2009,Manchester,21
+EnteringRightCar,200906B018947,2009,Manchester,30
+EnteringRightCar,200906B020668,2009,Manchester,57
+EnteringRightCar,200906C008792,2009,Manchester,32
+EnteringRightCar,200906C016815,2009,Manchester,52
+EnteringRightCar,200906F016496,2009,Salford,19
+EnteringRightCar,200906F021793,2009,Salford,31
+EnteringRightCar,200906F023149,2009,Salford,23
+EnteringRightCar,200906F024079,2009,Salford,26
+EnteringRightCar,200906L010819,2009,Wigan,50
+EnteringRightCar,200906L017506,2009,Wigan,25
+EnteringRightCar,200906M018660,2009,Trafford,27
+EnteringRightCar,200906N017999,2009,Bury,39
+EnteringRightCar,200906Q018959,2009,Oldham,54
+EnteringRightCar,2.00907E+12,2009,Cheshire West and Chester,63
+EnteringRightCar,2.0091E+12,2009,South Tyneside,20
+EnteringRightCar,200911NH34149,2009,Durham,65
+EnteringRightCar,2.00913E+12,2009,Leeds,43
+EnteringRightCar,200914A137509,2009,Doncaster,54
+EnteringRightCar,200914C150509,2009,Rotherham,41
+EnteringRightCar,200914K331709,2009,Sheffield,47
+EnteringRightCar,200914K359009,2009,Sheffield,29
+EnteringRightCar,2009160D03190,2009,Kingston Upon Hull,16
+EnteringRightCar,2009160D07230,2009,Kingston Upon Hull,42
+EnteringRightCar,2009170H10249,2009,Hartlepool,59
+EnteringRightCar,2009170M11389,2009,Middlesbrough,36
+EnteringRightCar,200920E026303,2009,Birmingham,25
+EnteringRightCar,200920E082603,2009,Birmingham,40
+EnteringRightCar,200920G032901,2009,Wolverhampton,41
+EnteringRightCar,200920K036901,2009,Sandwell,54
+EnteringRightCar,200920K042602,2009,Sandwell,46
+EnteringRightCar,2.00922E+12,2009,Staffordshire,13
+EnteringRightCar,2.00923E+12,2009,Warwickshire,54
+EnteringRightCar,2.00923E+12,2009,Warwickshire,30
+EnteringRightCar,20093102C0244,2009,Nottingham,39
+EnteringRightCar,200932D337609,2009,Lincolnshire,50
+EnteringRightCar,2.00935E+12,2009,Cambridgeshire,70
+EnteringRightCar,2.00935E+12,2009,Cambridgeshire,35
+EnteringRightCar,2.00935E+12,2009,Peterborough,60
+EnteringRightCar,2.00935E+12,2009,Peterborough,53
+EnteringRightCar,2.00935E+12,2009,Cambridgeshire,28
+EnteringRightCar,2.00936E+12,2009,Norfolk,17
+EnteringRightCar,2.00936E+12,2009,Norfolk,37
+EnteringRightCar,2.00936E+12,2009,Norfolk,11
+EnteringRightCar,2.00936E+12,2009,Norfolk,39
+EnteringRightCar,200937B041624,2009,Suffolk,46
+EnteringRightCar,200937G027416,2009,Suffolk,28
+EnteringRightCar,20094100C0446,2009,Hertfordshire,27
+EnteringRightCar,20094100C0705,2009,Hertfordshire,11
+EnteringRightCar,20094100F4396,2009,Hertfordshire,25
+EnteringRightCar,200943P019049,2009,Oxfordshire,41
+EnteringRightCar,200943R051129,2009,Slough,50
+EnteringRightCar,200943R176129,2009,Slough,17
+EnteringRightCar,2.00944E+12,2009,Isle of Wight,23
+EnteringRightCar,2.00944E+12,2009,Isle of Wight,34
+EnteringRightCar,2.00944E+12,2009,Hampshire,25
+EnteringRightCar,2.00944E+12,2009,Hampshire,18
+EnteringRightCar,2.00944E+12,2009,Portsmouth,32
+EnteringRightCar,2.00944E+12,2009,Hampshire,14
+EnteringRightCar,2.00946E+12,2009,Medway,10
+EnteringRightCar,2.00946E+12,2009,Kent,32
+EnteringRightCar,2.00946E+12,2009,Kent,47
+EnteringRightCar,2.00946E+12,2009,Kent,24
+EnteringRightCar,2.00947E+12,2009,Brighton and Hove,37
+EnteringRightCar,2.00947E+12,2009,West Sussex,41
+EnteringRightCar,2.00947E+12,2009,West Sussex,12
+EnteringRightCar,200950DE2O013,2009,Devon,11
+EnteringRightCar,200950EP2B003,2009,Plymouth,49
+EnteringRightCar,2.00952E+12,2009,Bath and North East Somerset,33
+EnteringRightCar,2.00952E+12,2009,Somerset,56
+EnteringRightCar,2.00952E+12,2009,South Gloucestershire,30
+EnteringRightCar,2009559D04592,2009,Dorset,35
+EnteringRightCar,201001BS70133,2010,London,36
+EnteringRightCar,201001BS70350,2010,London,25
+EnteringRightCar,201001BS70471,2010,London,35
+EnteringRightCar,201001BS70473,2010,London,33
+EnteringRightCar,201001BS70477,2010,London,27
+EnteringRightCar,201001CW10093,2010,London,32
+EnteringRightCar,201001CW10343,2010,London,37
+EnteringRightCar,201001CW10396,2010,London,
+EnteringRightCar,201001CW10850,2010,London,33
+EnteringRightCar,201001CW11044,2010,London,46
+EnteringRightCar,201001CW11517,2010,London,24
+EnteringRightCar,201001CW11672,2010,London,36
+EnteringRightCar,201001CW11787,2010,London,33
+EnteringRightCar,201001CW11890,2010,London,44
+EnteringRightCar,201001CW11945,2010,London,35
+EnteringRightCar,201001CW12238,2010,London,36
+EnteringRightCar,201001CW12618,2010,London,25
+EnteringRightCar,201001EO40027,2010,London,28
+EnteringRightCar,201001EO40131,2010,London,34
+EnteringRightCar,201001EO40275,2010,London,33
+EnteringRightCar,201001EO40517,2010,London,34
+EnteringRightCar,201001EO40711,2010,London,44
+EnteringRightCar,201001EO40761,2010,London,50
+EnteringRightCar,201001FH10083,2010,London,39
+EnteringRightCar,201001FH10587,2010,London,50
+EnteringRightCar,201001FH10603,2010,London,28
+EnteringRightCar,201001GD10050,2010,London,33
+EnteringRightCar,201001GD10248,2010,London,23
+EnteringRightCar,201001GD10363,2010,London,36
+EnteringRightCar,201001HT20108,2010,London,38
+EnteringRightCar,201001HT20187,2010,London,50
+EnteringRightCar,201001HT20198,2010,London,59
+EnteringRightCar,201001HT20632,2010,London,33
+EnteringRightCar,201001HT20804,2010,London,31
+EnteringRightCar,201001JC30426,2010,London,28
+EnteringRightCar,201001JI40438,2010,London,30
+EnteringRightCar,201001LX50018,2010,London,27
+EnteringRightCar,201001LX50682,2010,London,43
+EnteringRightCar,201001LX50687,2010,London,43
+EnteringRightCar,201001MM70276,2010,London,36
+EnteringRightCar,201001MM70511,2010,London,35
+EnteringRightCar,201001MM70877,2010,London,27
+EnteringRightCar,201001MM71016,2010,London,31
+EnteringRightCar,201001MM71043,2010,London,50
+EnteringRightCar,201001MM71082,2010,London,44
+EnteringRightCar,201001PL60068,2010,London,33
+EnteringRightCar,201001PL60228,2010,London,26
+EnteringRightCar,201001PL60470,2010,London,37
+EnteringRightCar,201001PY20000,2010,London,47
+EnteringRightCar,201001PY20054,2010,London,29
+EnteringRightCar,201001PY20092,2010,London,27
+EnteringRightCar,201001PY20149,2010,London,29
+EnteringRightCar,201001QK50394,2010,London,44
+EnteringRightCar,201001RG40416,2010,London,35
+EnteringRightCar,201001RG40555,2010,London,44
+EnteringRightCar,201001RG40711,2010,London,35
+EnteringRightCar,201001SX20658,2010,London,54
+EnteringRightCar,201001TW60061,2010,London,32
+EnteringRightCar,201001TW60151,2010,London,47
+EnteringRightCar,201001TW60328,2010,London,16
+EnteringRightCar,201001TX20459,2010,London,16
+EnteringRightCar,201001VK30087,2010,London,16
+EnteringRightCar,201001VK30358,2010,London,39
+EnteringRightCar,201001VW40177,2010,London,40
+EnteringRightCar,201001VW40264,2010,London,32
+EnteringRightCar,201001VW40446,2010,London,45
+EnteringRightCar,201001WW50518,2010,London,42
+EnteringRightCar,201001WW50607,2010,London,31
+EnteringRightCar,201001WW50703,2010,London,38
+EnteringRightCar,201001WW50890,2010,London,27
+EnteringRightCar,201001WW50933,2010,London,33
+EnteringRightCar,201001WW50941,2010,London,35
+EnteringRightCar,201001XD80646,2010,London,37
+EnteringRightCar,201001XD80746,2010,London,19
+EnteringRightCar,201001YR90275,2010,London,27
+EnteringRightCar,201001YR90510,2010,London,24
+EnteringRightCar,201001YR90875,2010,London,41
+EnteringRightCar,201001ZT80104,2010,London,57
+EnteringRightCar,201004AM10020,2010,Blackpool,35
+EnteringRightCar,201004AM10121,2010,Blackpool,19
+EnteringRightCar,201005AA04917,2010,Merseyside,53
+EnteringRightCar,201005EE03876,2010,Merseyside,40
+EnteringRightCar,201005EE05838,2010,Merseyside,23
+EnteringRightCar,201005EE06408,2010,Merseyside,23
+EnteringRightCar,201006A032354,2010,Manchester,49
+EnteringRightCar,201006A033714,2010,Manchester,38
+EnteringRightCar,201006A037906,2010,Manchester,26
+EnteringRightCar,201006B033080,2010,Manchester,26
+EnteringRightCar,201006B038012,2010,Manchester,16
+EnteringRightCar,201006C027748,2010,Manchester,61
+EnteringRightCar,201006C033538,2010,Manchester,57
+EnteringRightCar,201006C034970,2010,Manchester,34
+EnteringRightCar,201006F033209,2010,Salford,23
+EnteringRightCar,201006J030295,2010,Stockport,58
+EnteringRightCar,201006J036852,2010,Stockport,21
+EnteringRightCar,201006J037106,2010,Stockport,30
+EnteringRightCar,201006K038862,2010,Bolton,30
+EnteringRightCar,201006Q039440,2010,Oldham,38
+EnteringRightCar,2.01007E+12,2010,Warrington,23
+EnteringRightCar,2.01007E+12,2010,Cheshire West and Chester,22
+EnteringRightCar,2.01007E+12,2010,Cheshire West and Chester,33
+EnteringRightCar,2.01007E+12,2010,Cheshire West and Chester,39
+EnteringRightCar,2.01007E+12,2010,Warrington,54
+EnteringRightCar,2.0101E+12,2010,Newcastle upon Tyne,47
+EnteringRightCar,2.0101E+12,2010,Gateshead,42
+EnteringRightCar,2.01012E+12,2010,York,26
+EnteringRightCar,2.01012E+12,2010,York,25
+EnteringRightCar,2.01012E+12,2010,North Yorkshire,47
+EnteringRightCar,2.01013E+12,2010,Leeds,28
+EnteringRightCar,2.01013E+12,2010,Bradford,19
+EnteringRightCar,201014B081110,2010,Barnsley,46
+EnteringRightCar,201014K249910,2010,Sheffield,24
+EnteringRightCar,201014K296110,2010,Sheffield,23
+EnteringRightCar,2010160D02331,2010,Kingston Upon Hull,62
+EnteringRightCar,2010160D07141,2010,Kingston Upon Hull,36
+EnteringRightCar,201020G006080,2010,Wolverhampton,59
+EnteringRightCar,201020J009460,2010,Dudley,46
+EnteringRightCar,201020M008860,2010,Coventry,36
+EnteringRightCar,201020M009480,2010,Coventry,43
+EnteringRightCar,201020N002600,2010,Birmingham,43
+EnteringRightCar,201020N018150,2010,Birmingham,25
+EnteringRightCar,201020T011980,2010,Birmingham,46
+EnteringRightCar,201020W039780,2010,Birmingham,51
+EnteringRightCar,2.01021E+12,2010,Staffordshire,57
+EnteringRightCar,2.01021E+12,2010,Staffordshire,28
+EnteringRightCar,201022C005998,2010,Worcestershire,19
+EnteringRightCar,201022E004798,2010,Herefordshire,36
+EnteringRightCar,2.01023E+12,2010,Warwickshire,31
+EnteringRightCar,2.01023E+12,2010,Warwickshire,61
+EnteringRightCar,201030C000559,2010,Derbyshire,52
+EnteringRightCar,20103102D1534,2010,Nottinghamshire,24
+EnteringRightCar,201032D391710,2010,Lincolnshire,60
+EnteringRightCar,2.01033E+12,2010,Leicestershire,11
+EnteringRightCar,2.01035E+12,2010,Peterborough,54
+EnteringRightCar,2.01035E+12,2010,Cambridgeshire,30
+EnteringRightCar,2.01035E+12,2010,Cambridgeshire,42
+EnteringRightCar,2.01035E+12,2010,Cambridgeshire,17
+EnteringRightCar,2.01035E+12,2010,Cambridgeshire,16
+EnteringRightCar,2.01035E+12,2010,Cambridgeshire,30
+EnteringRightCar,2.01036E+12,2010,Norfolk,30
+EnteringRightCar,2010400B02073,2010,Bedford Borough Council,29
+EnteringRightCar,201043N173070,2010,Buckinghamshire,26
+EnteringRightCar,201043P069070,2010,Oxfordshire,26
+EnteringRightCar,201043P107110,2010,Oxfordshire,55
+EnteringRightCar,201043P212100,2010,Oxfordshire,22
+EnteringRightCar,201043R061030,2010,Slough,28
+EnteringRightCar,201043R095020,2010,Slough,16
+EnteringRightCar,2.01044E+12,2010,Portsmouth,32
+EnteringRightCar,2.01044E+12,2010,Isle of Wight,28
+EnteringRightCar,2.01044E+12,2010,Portsmouth,11
+EnteringRightCar,2.01044E+12,2010,Hampshire,17
+EnteringRightCar,2.01044E+12,2010,Southampton ,36
+EnteringRightCar,2.01044E+12,2010,Portsmouth,26
+EnteringRightCar,201045MO49290,2010,Surrey,36
+EnteringRightCar,2.01046E+12,2010,Medway,13
+EnteringRightCar,2.01047E+12,2010,Brighton and Hove,34
+EnteringRightCar,2.01047E+12,2010,Brighton and Hove,23
+EnteringRightCar,2.01047E+12,2010,Brighton and Hove,59
+EnteringRightCar,201050DE2I009,2010,Devon,35
+EnteringRightCar,201050KO2W003,2010,Devon,37
+EnteringRightCar,2.01052E+12,2010,Somerset,22
+EnteringRightCar,2.01052E+12,2010,Bath and North East Somerset,28
+EnteringRightCar,2.01053E+12,2010,Gloucestershire,65
+EnteringRightCar,2010550C20855,2010,Bournemouth,9
+EnteringRightCar,2010550C29809,2010,Bournemouth,17
+EnteringRightCar,2010550C48749,2010,Bournemouth,53
+EnteringRightCar,2010550D31277,2010,Bournemouth,22
+EnteringRightCar,2010550D48594,2010,Dorset,19
+EnteringRightCar,2011201101BS70373,2011,London,34
+EnteringRightCar,2011201101BS70405,2011,London,58
+EnteringRightCar,2011201101CP00081,2011,London,28
+EnteringRightCar,2011201101CW10349,2011,London,22
+EnteringRightCar,2011201101CW10992,2011,London,32
+EnteringRightCar,2011201101CW11060,2011,London,36
+EnteringRightCar,2011201101CW11375,2011,London,39
+EnteringRightCar,2011201101CW11438,2011,London,48
+EnteringRightCar,2011201101CW11582,2011,London,38
+EnteringRightCar,2011201101CW11587,2011,London,28
+EnteringRightCar,2011201101CW11662,2011,London,-1
+EnteringRightCar,2011201101CW11802,2011,London,47
+EnteringRightCar,2011201101CW11933,2011,London,21
+EnteringRightCar,2011201101CW11980,2011,London,48
+EnteringRightCar,2011201101CW12170,2011,London,21
+EnteringRightCar,2011201101CW12644,2011,London,43
+EnteringRightCar,2011201101EO40333,2011,London,34
+EnteringRightCar,2011201101EO40369,2011,London,34
+EnteringRightCar,2011201101EO40659,2011,London,45
+EnteringRightCar,2011201101EO40703,2011,London,20
+EnteringRightCar,2011201101FH10142,2011,London,59
+EnteringRightCar,2011201101FH10180,2011,London,49
+EnteringRightCar,2011201101FH10288,2011,London,26
+EnteringRightCar,2011201101FH10320,2011,London,26
+EnteringRightCar,2011201101FH10466,2011,London,23
+EnteringRightCar,2011201101FH10477,2011,London,31
+EnteringRightCar,2011201101GD10452,2011,London,33
+EnteringRightCar,2011201101GD10571,2011,London,32
+EnteringRightCar,2011201101GD10761,2011,London,27
+EnteringRightCar,2011201101HT20319,2011,London,26
+EnteringRightCar,2011201101HT20359,2011,London,47
+EnteringRightCar,2011201101HT20567,2011,London,21
+EnteringRightCar,2011201101HT20644,2011,London,38
+EnteringRightCar,2011201101KF60501,2011,London,33
+EnteringRightCar,2011201101LX50510,2011,London,44
+EnteringRightCar,2011201101LX50558,2011,London,32
+EnteringRightCar,2011201101LX50672,2011,London,38
+EnteringRightCar,2011201101LX50787,2011,London,31
+EnteringRightCar,2011201101MM70238,2011,London,50
+EnteringRightCar,2011201101MM70492,2011,London,30
+EnteringRightCar,2011201101MM70494,2011,London,33
+EnteringRightCar,2011201101MM70557,2011,London,47
+EnteringRightCar,2011201101MM70572,2011,London,38
+EnteringRightCar,2011201101MM70631,2011,London,41
+EnteringRightCar,2011201101MM70695,2011,London,24
+EnteringRightCar,2011201101MM70779,2011,London,25
+EnteringRightCar,2011201101MM70926,2011,London,22
+EnteringRightCar,2011201101MM70960,2011,London,27
+EnteringRightCar,2011201101PL60282,2011,London,44
+EnteringRightCar,2011201101PL60404,2011,London,41
+EnteringRightCar,2011201101PL60560,2011,London,25
+EnteringRightCar,2011201101PL60606,2011,London,35
+EnteringRightCar,2011201101PY20155,2011,London,43
+EnteringRightCar,2011201101QK50052,2011,London,29
+EnteringRightCar,2011201101SX20556,2011,London,67
+EnteringRightCar,2011201101TA00056,2011,London,45
+EnteringRightCar,2011201101TA00062,2011,London,22
+EnteringRightCar,2011201101TA00067,2011,London,26
+EnteringRightCar,2011201101TA00107,2011,London,49
+EnteringRightCar,2011201101TA00129,2011,London,26
+EnteringRightCar,2011201101TA00154,2011,London,33
+EnteringRightCar,2011201101TA00166,2011,London,31
+EnteringRightCar,2011201101TA00205,2011,London,26
+EnteringRightCar,2011201101TA00214,2011,London,-1
+EnteringRightCar,2011201101TA00260,2011,London,42
+EnteringRightCar,2011201101TA00326,2011,London,46
+EnteringRightCar,2011201101TA00399,2011,London,-1
+EnteringRightCar,2011201101TA00554,2011,London,57
+EnteringRightCar,2011201101TA00604,2011,London,25
+EnteringRightCar,2011201101TA00616,2011,London,32
+EnteringRightCar,2011201101TA00760,2011,London,35
+EnteringRightCar,2011201101TA00971,2011,London,24
+EnteringRightCar,2011201101TA01164,2011,London,32
+EnteringRightCar,2011201101TA01434,2011,London,30
+EnteringRightCar,2011201101TA01480,2011,London,34
+EnteringRightCar,2011201101TB00093,2011,London,29
+EnteringRightCar,2011201101TB00318,2011,London,26
+EnteringRightCar,2011201101TB00420,2011,London,-1
+EnteringRightCar,2011201101TB00424,2011,London,32
+EnteringRightCar,2011201101TB00533,2011,London,41
+EnteringRightCar,2011201101TB00607,2011,London,21
+EnteringRightCar,2011201101TB00651,2011,London,44
+EnteringRightCar,2011201101TB00688,2011,London,23
+EnteringRightCar,2011201101TB00708,2011,London,-1
+EnteringRightCar,2011201101TB00763,2011,London,31
+EnteringRightCar,2011201101TB00811,2011,London,29
+EnteringRightCar,2011201101TB01257,2011,London,53
+EnteringRightCar,2011201101TB01452,2011,London,21
+EnteringRightCar,2011201101TB01715,2011,London,29
+EnteringRightCar,2011201101TX20478,2011,London,22
+EnteringRightCar,2011201101TX20750,2011,London,33
+EnteringRightCar,2011201101VW40160,2011,London,51
+EnteringRightCar,2011201101WW50436,2011,London,27
+EnteringRightCar,2011201101WW50676,2011,London,22
+EnteringRightCar,2011201101WW50715,2011,London,40
+EnteringRightCar,2011201101WW50717,2011,London,27
+EnteringRightCar,2011201101WW50775,2011,London,61
+EnteringRightCar,2011201101WW50813,2011,London,22
+EnteringRightCar,2011201101WW50876,2011,London,43
+EnteringRightCar,2011201101WW50962,2011,London,25
+EnteringRightCar,2011201101WW50965,2011,London,36
+EnteringRightCar,2011201101XD80535,2011,London,40
+EnteringRightCar,2011201101XH30333,2011,London,48
+EnteringRightCar,2011201101YE80417,2011,London,25
+EnteringRightCar,2011201101YR90428,2011,London,19
+EnteringRightCar,2011201101YR90485,2011,London,25
+EnteringRightCar,2011201101YR90539,2011,London,36
+EnteringRightCar,2011201101ZD30605,2011,London,45
+EnteringRightCar,2.0112E+16,2011,Cumbria,45
+EnteringRightCar,2.0112E+16,2011,Cumbria,57
+EnteringRightCar,2.0112E+16,2011,Cumbria,60
+EnteringRightCar,2.0112E+16,2011,Cumbria,18
+EnteringRightCar,2011201104BB11165,2011,Lancashire,48
+EnteringRightCar,2011201104BB11169,2011,Lancashire,17
+EnteringRightCar,2011201104BC11027,2011,Lancashire,74
+EnteringRightCar,2011201104BC11108,2011,Lancashire,60
+EnteringRightCar,2011201104DA11094,2011,Lancashire,42
+EnteringRightCar,2011201104EM11015,2011,Lancashire,18
+EnteringRightCar,2011201105AA02406,2011,Merseyside,34
+EnteringRightCar,2011201105BB02847,2011,Merseyside,63
+EnteringRightCar,2011201105BB03334,2011,Merseyside,16
+EnteringRightCar,2011201105BB07025,2011,Merseyside,55
+EnteringRightCar,2011201105EE07227,2011,Merseyside,16
+EnteringRightCar,2011201105FF02288,2011,Merseyside,38
+EnteringRightCar,2011201105FF02579,2011,Merseyside,42
+EnteringRightCar,2011201106A044905,2011,Manchester,31
+EnteringRightCar,2011201106A047855,2011,Manchester,46
+EnteringRightCar,2011201106A052829,2011,Manchester,40
+EnteringRightCar,2011201106B044201,2011,Manchester,34
+EnteringRightCar,2011201106B046774,2011,Manchester,21
+EnteringRightCar,2011201106B048387,2011,Manchester,39
+EnteringRightCar,2011201106C052875,2011,Manchester,43
+EnteringRightCar,2011201106C054945,2011,Manchester,24
+EnteringRightCar,2011201106G050385,2011,Tameside,44
+EnteringRightCar,2011201106L047029,2011,Wigan,16
+EnteringRightCar,2011201106M044275,2011,Trafford,6
+EnteringRightCar,2011201106M056511,2011,Trafford,29
+EnteringRightCar,2011201106N044108,2011,Bury,46
+EnteringRightCar,2011201106P050370,2011,Rochdale,17
+EnteringRightCar,2011201106Q053224,2011,Oldham,37
+EnteringRightCar,2.0112E+16,2011,Cheshire East,48
+EnteringRightCar,2.0112E+16,2011,Cheshire West and Chester,61
+EnteringRightCar,2.0112E+16,2011,Halton,54
+EnteringRightCar,2.0112E+16,2011,Cheshire West and Chester,41
+EnteringRightCar,2.0112E+16,2011,Cheshire West and Chester,63
+EnteringRightCar,2.0112E+16,2011,Cheshire East,45
+EnteringRightCar,2.0112E+16,2011,Cheshire West and Chester,55
+EnteringRightCar,2.0112E+16,2011,Northumberland,62
+EnteringRightCar,2.0112E+16,2011,Gateshead,41
+EnteringRightCar,2.0112E+16,2011,Newcastle upon Tyne,24
+EnteringRightCar,2.0112E+16,2011,Gateshead,50
+EnteringRightCar,2.0112E+16,2011,North Yorkshire,62
+EnteringRightCar,2.0112E+16,2011,Bradford,29
+EnteringRightCar,2.0112E+16,2011,Leeds,47
+EnteringRightCar,2.0112E+16,2011,Bradford,40
+EnteringRightCar,2.0112E+16,2011,Leeds,24
+EnteringRightCar,2.0112E+16,2011,Leeds,32
+EnteringRightCar,2.0112E+16,2011,Leeds,49
+EnteringRightCar,2.0112E+16,2011,Kirklees,45
+EnteringRightCar,2.0112E+16,2011,Leeds,36
+EnteringRightCar,2.0112E+16,2011,Kirklees,16
+EnteringRightCar,2011201114A162611,2011,Doncaster,14
+EnteringRightCar,2011201114C027211,2011,Rotherham,46
+EnteringRightCar,2011201114K152811,2011,Sheffield,28
+EnteringRightCar,2011201114K240111,2011,Sheffield,29
+EnteringRightCar,20112011170H10661,2011,Hartlepool,59
+EnteringRightCar,20112011170L10621,2011,Redcar and Cleveland,46
+EnteringRightCar,20112011170M10031,2011,Middlesbrough,44
+EnteringRightCar,20112011170M10861,2011,Middlesbrough,21
+EnteringRightCar,2011201120G501441,2011,Wolverhampton,48
+EnteringRightCar,2011201120M017461,2011,Coventry,31
+EnteringRightCar,2011201120T063941,2011,Birmingham,40
+EnteringRightCar,2011201120W008021,2011,Birmingham,61
+EnteringRightCar,2011201120W060131,2011,Birmingham,24
+EnteringRightCar,2011201120W061151,2011,Birmingham,24
+EnteringRightCar,2011201120W065081,2011,Birmingham,21
+EnteringRightCar,2.0112E+16,2011,Staffordshire,25
+EnteringRightCar,2.0112E+16,2011,Warwickshire,34
+EnteringRightCar,2.0112E+16,2011,Warwickshire,39
+EnteringRightCar,2.0112E+16,2011,Warwickshire,20
+EnteringRightCar,2.0112E+16,2011,Warwickshire,67
+EnteringRightCar,2.0112E+16,2011,Warwickshire,53
+EnteringRightCar,2.0112E+16,2011,Warwickshire,47
+EnteringRightCar,2.0112E+16,2011,Warwickshire,24
+EnteringRightCar,2011201130C000735,2011,Derbyshire,39
+EnteringRightCar,2011201130D000583,2011,Derby,35
+EnteringRightCar,2011201130D001103,2011,Derby,10
+EnteringRightCar,2011201131C201711,2011,Nottingham,60
+EnteringRightCar,2011201131C227911,2011,Nottingham,30
+EnteringRightCar,2.0112E+16,2011,Leicestershire,29
+EnteringRightCar,2.0112E+16,2011,Leicestershire,62
+EnteringRightCar,2.0112E+16,2011,Leicestershire,34
+EnteringRightCar,2011201134WN15871,2011,Northamptonshire,27
+EnteringRightCar,2011201134WN33621,2011,Northamptonshire,20
+EnteringRightCar,2.0112E+16,2011,Cambridgeshire,42
+EnteringRightCar,2.0112E+16,2011,Norfolk,45
+EnteringRightCar,2.0112E+16,2011,Norfolk,24
+EnteringRightCar,201120114100F0107,2011,Hertfordshire,46
+EnteringRightCar,2011201143P240031,2011,Oxfordshire,16
+EnteringRightCar,2011201143R103111,2011,Bracknell Forest,34
+EnteringRightCar,2.0112E+16,2011,Hampshire,44
+EnteringRightCar,2.0112E+16,2011,Hampshire,29
+EnteringRightCar,2.0112E+16,2011,Hampshire,17
+EnteringRightCar,2.0112E+16,2011,Portsmouth,24
+EnteringRightCar,2.0112E+16,2011,Portsmouth,46
+EnteringRightCar,2.0112E+16,2011,Hampshire,33
+EnteringRightCar,2.0112E+16,2011,Hampshire,28
+EnteringRightCar,2.0112E+16,2011,Hampshire,40
+EnteringRightCar,2.0112E+16,2011,Portsmouth,38
+EnteringRightCar,2011201145GU59664,2011,Surrey,35
+EnteringRightCar,2011201145MO62779,2011,Surrey,54
+EnteringRightCar,2011201145SU65257,2011,Surrey,37
+EnteringRightCar,2.0112E+16,2011,Medway,40
+EnteringRightCar,2.0112E+16,2011,Medway,44
+EnteringRightCar,2.0112E+16,2011,East Sussex,30
+EnteringRightCar,2.0112E+16,2011,West Sussex,25
+EnteringRightCar,2011201150ED2M014,2011,Plymouth,39
+EnteringRightCar,2.0112E+16,2011,Somerset,10
+EnteringRightCar,2.0112E+16,2011,Somerset,38
+EnteringRightCar,2.0112E+16,2011,City of Bristol,13
+EnteringRightCar,2.0112E+16,2011,Bath and North East Somerset,27
+EnteringRightCar,2.0112E+16,2011,Gloucestershire,25
+EnteringRightCar,2.0112E+16,2011,Wiltshire,19
+EnteringRightCar,20112011551C00463,2011,Poole,18
+EnteringRightCar,20112011551C26517,2011,Poole,20
+EnteringRightCar,20112011551C38038,2011,Bournemouth,33
+EnteringRightCar,2012201201BS70001,2012,London,44
+EnteringRightCar,2012201201BS70118,2012,London,27
+EnteringRightCar,2012201201BS70319,2012,London,21
+EnteringRightCar,2012201201BS70342,2012,London,38
+EnteringRightCar,2012201201BS70350,2012,London,18
+EnteringRightCar,2012201201BS70417,2012,London,23
+EnteringRightCar,2012201201BS70673,2012,London,32
+EnteringRightCar,2012201201CW10252,2012,London,28
+EnteringRightCar,2012201201CW10569,2012,London,20
+EnteringRightCar,2012201201CW10648,2012,London,49
+EnteringRightCar,2012201201CW10745,2012,London,30
+EnteringRightCar,2012201201CW10747,2012,London,23
+EnteringRightCar,2012201201CW10908,2012,London,30
+EnteringRightCar,2012201201CW11000,2012,London,25
+EnteringRightCar,2012201201CW11017,2012,London,36
+EnteringRightCar,2012201201CW11609,2012,London,27
+EnteringRightCar,2012201201CW11730,2012,London,34
+EnteringRightCar,2012201201CW11781,2012,London,23
+EnteringRightCar,2012201201CW11868,2012,London,44
+EnteringRightCar,2012201201EK40175,2012,London,35
+EnteringRightCar,2012201201EK40282,2012,London,23
+EnteringRightCar,2012201201EK40407,2012,London,32
+EnteringRightCar,2012201201EK40434,2012,London,30
+EnteringRightCar,2012201201EK40477,2012,London,30
+EnteringRightCar,2012201201EK40486,2012,London,24
+EnteringRightCar,2012201201EK40622,2012,London,21
+EnteringRightCar,2012201201EO40010,2012,London,37
+EnteringRightCar,2012201201EO40026,2012,London,27
+EnteringRightCar,2012201201EO40064,2012,London,47
+EnteringRightCar,2012201201EO40410,2012,London,27
+EnteringRightCar,2012201201EO40521,2012,London,35
+EnteringRightCar,2012201201EO40609,2012,London,43
+EnteringRightCar,2012201201EO40675,2012,London,27
+EnteringRightCar,2012201201EO40717,2012,London,30
+EnteringRightCar,2012201201FH10161,2012,London,34
+EnteringRightCar,2012201201FH10570,2012,London,30
+EnteringRightCar,2012201201FH10601,2012,London,41
+EnteringRightCar,2012201201FH10614,2012,London,23
+EnteringRightCar,2012201201FH10626,2012,London,54
+EnteringRightCar,2012201201GD10036,2012,London,32
+EnteringRightCar,2012201201GD10095,2012,London,37
+EnteringRightCar,2012201201GD10124,2012,London,-1
+EnteringRightCar,2012201201GD10183,2012,London,44
+EnteringRightCar,2012201201GD10213,2012,London,13
+EnteringRightCar,2012201201GD10259,2012,London,36
+EnteringRightCar,2012201201GD10395,2012,London,26
+EnteringRightCar,2012201201GD10405,2012,London,31
+EnteringRightCar,2012201201GD10406,2012,London,20
+EnteringRightCar,2012201201GD10427,2012,London,39
+EnteringRightCar,2012201201GD10599,2012,London,37
+EnteringRightCar,2012201201GD10734,2012,London,29
+EnteringRightCar,2012201201GD10763,2012,London,32
+EnteringRightCar,2012201201HT20086,2012,London,27
+EnteringRightCar,2012201201HT20263,2012,London,48
+EnteringRightCar,2012201201HT20460,2012,London,37
+EnteringRightCar,2012201201HT20462,2012,London,26
+EnteringRightCar,2012201201HT20502,2012,London,21
+EnteringRightCar,2012201201HT20575,2012,London,23
+EnteringRightCar,2012201201HT20685,2012,London,32
+EnteringRightCar,2012201201HT20876,2012,London,27
+EnteringRightCar,2012201201JC30105,2012,London,22
+EnteringRightCar,2012201201JC30208,2012,London,-1
+EnteringRightCar,2012201201JC30417,2012,London,27
+EnteringRightCar,2012201201JC30451,2012,London,26
+EnteringRightCar,2012201201JC30454,2012,London,25
+EnteringRightCar,2012201201JI40413,2012,London,23
+EnteringRightCar,2012201201KF60209,2012,London,28
+EnteringRightCar,2012201201KF60700,2012,London,18
+EnteringRightCar,2012201201LX50166,2012,London,43
+EnteringRightCar,2012201201LX50273,2012,London,26
+EnteringRightCar,2012201201LX50312,2012,London,34
+EnteringRightCar,2012201201LX50316,2012,London,40
+EnteringRightCar,2012201201LX50448,2012,London,44
+EnteringRightCar,2012201201LX50578,2012,London,38
+EnteringRightCar,2012201201LX50615,2012,London,38
+EnteringRightCar,2012201201LX50951,2012,London,27
+EnteringRightCar,2012201201MM70338,2012,London,29
+EnteringRightCar,2012201201MM70685,2012,London,49
+EnteringRightCar,2012201201MM70762,2012,London,24
+EnteringRightCar,2012201201MM70801,2012,London,30
+EnteringRightCar,2012201201MM70919,2012,London,25
+EnteringRightCar,2012201201PL60063,2012,London,49
+EnteringRightCar,2012201201PL60646,2012,London,46
+EnteringRightCar,2012201201PY20468,2012,London,22
+EnteringRightCar,2012201201QA10308,2012,London,42
+EnteringRightCar,2012201201QK50033,2012,London,50
+EnteringRightCar,2012201201QK50210,2012,London,32
+EnteringRightCar,2012201201QK50448,2012,London,19
+EnteringRightCar,2012201201QK50586,2012,London,29
+EnteringRightCar,2012201201QK50688,2012,London,41
+EnteringRightCar,2012201201TA00181,2012,London,56
+EnteringRightCar,2012201201TA00238,2012,London,39
+EnteringRightCar,2012201201TA00364,2012,London,24
+EnteringRightCar,2012201201TA00492,2012,London,44
+EnteringRightCar,2012201201TA00566,2012,London,31
+EnteringRightCar,2012201201TA00607,2012,London,32
+EnteringRightCar,2012201201TA00823,2012,London,35
+EnteringRightCar,2012201201TA00917,2012,London,26
+EnteringRightCar,2012201201TA01009,2012,London,28
+EnteringRightCar,2012201201TB00970,2012,London,41
+EnteringRightCar,2012201201TB01196,2012,London,44
+EnteringRightCar,2012201201TW60369,2012,London,51
+EnteringRightCar,2012201201TX20616,2012,London,28
+EnteringRightCar,2012201201TX20627,2012,London,29
+EnteringRightCar,2012201201VK30012,2012,London,61
+EnteringRightCar,2012201201VK30359,2012,London,20
+EnteringRightCar,2012201201VW40081,2012,London,20
+EnteringRightCar,2012201201VW40438,2012,London,47
+EnteringRightCar,2012201201WW50013,2012,London,27
+EnteringRightCar,2012201201WW50104,2012,London,25
+EnteringRightCar,2012201201WW50358,2012,London,23
+EnteringRightCar,2012201201WW50623,2012,London,31
+EnteringRightCar,2012201201WW50721,2012,London,24
+EnteringRightCar,2012201201WW50743,2012,London,27
+EnteringRightCar,2012201201WW50744,2012,London,38
+EnteringRightCar,2012201201WW50749,2012,London,-1
+EnteringRightCar,2012201201WW50912,2012,London,50
+EnteringRightCar,2012201201WW50962,2012,London,47
+EnteringRightCar,2012201201WW51005,2012,London,38
+EnteringRightCar,2012201201XD80145,2012,London,41
+EnteringRightCar,2012201201XD80938,2012,London,47
+EnteringRightCar,2012201201XD80952,2012,London,28
+EnteringRightCar,2012201201XD80993,2012,London,36
+EnteringRightCar,2012201201YE80065,2012,London,28
+EnteringRightCar,2012201201YR90398,2012,London,44
+EnteringRightCar,2012201201ZD31014,2012,London,30
+EnteringRightCar,2012201201ZT80291,2012,London,50
+EnteringRightCar,2012201204AL12041,2012,Lancashire,20
+EnteringRightCar,2012201204AL12167,2012,Lancashire,29
+EnteringRightCar,2012201204DF12073,2012,Lancashire,41
+EnteringRightCar,2012201204DF12102,2012,Lancashire,33
+EnteringRightCar,2012201205BB01492,2012,Merseyside,67
+EnteringRightCar,2012201205DD01608,2012,Merseyside,26
+EnteringRightCar,2012201206A059870,2012,Manchester,30
+EnteringRightCar,2012201206A060661,2012,Manchester,24
+EnteringRightCar,2012201206A065871,2012,Manchester,48
+EnteringRightCar,2012201206A065929,2012,Manchester,41
+EnteringRightCar,2012201206A066259,2012,Manchester,21
+EnteringRightCar,2012201206B057357,2012,Manchester,21
+EnteringRightCar,2012201206E063742,2012,Manchester,46
+EnteringRightCar,2012201206E064827,2012,Manchester,35
+EnteringRightCar,2012201206E067197,2012,Manchester,19
+EnteringRightCar,2012201206F057427,2012,Salford,24
+EnteringRightCar,2012201206F065370,2012,Salford,26
+EnteringRightCar,2012201206F065553,2012,Salford,40
+EnteringRightCar,2012201206F068463,2012,Salford,24
+EnteringRightCar,2012201206G067077,2012,Tameside,37
+EnteringRightCar,2012201206J063003,2012,Stockport,38
+EnteringRightCar,2012201206J064172,2012,Stockport,34
+EnteringRightCar,2012201206J067842,2012,Stockport,34
+EnteringRightCar,2012201206J068748,2012,Stockport,46
+EnteringRightCar,2012201206K067955,2012,Bolton,41
+EnteringRightCar,2012201206L066201,2012,Wigan,44
+EnteringRightCar,2012201206L066360,2012,Wigan,52
+EnteringRightCar,2012201206M058497,2012,Trafford,56
+EnteringRightCar,2012201206N057255,2012,Bury,27
+EnteringRightCar,2012201206N061123,2012,Bury,41
+EnteringRightCar,2012201206N067398,2012,Bury,28
+EnteringRightCar,2012201206P055928,2012,Rochdale,54
+EnteringRightCar,2012201206Q056136,2012,Oldham,40
+EnteringRightCar,2.0122E+16,2012,Warrington,16
+EnteringRightCar,2.0122E+16,2012,Cheshire West and Chester,22
+EnteringRightCar,2.0122E+16,2012,Warrington,16
+EnteringRightCar,2.0122E+16,2012,Cheshire East,60
+EnteringRightCar,2.0122E+16,2012,Cheshire East,39
+EnteringRightCar,2.0122E+16,2012,South Tyneside,21
+EnteringRightCar,2012201211SK27362,2012,Durham,53
+EnteringRightCar,2.0122E+16,2012,North Yorkshire,12
+EnteringRightCar,2.0122E+16,2012,York,30
+EnteringRightCar,2.0122E+16,2012,North Yorkshire,42
+EnteringRightCar,2.0122E+16,2012,Calderdale,26
+EnteringRightCar,2.0122E+16,2012,Leeds,26
+EnteringRightCar,2.0122E+16,2012,Leeds,56
+EnteringRightCar,2.0122E+16,2012,Leeds,25
+EnteringRightCar,2.0122E+16,2012,Kirklees,55
+EnteringRightCar,2.0122E+16,2012,Bradford,45
+EnteringRightCar,2.0122E+16,2012,Leeds,42
+EnteringRightCar,20122012160C08281,2012,East Riding of Yorkshire,21
+EnteringRightCar,20122012160D01661,2012,Kingston Upon Hull,55
+EnteringRightCar,20122012160D03651,2012,Kingston Upon Hull,61
+EnteringRightCar,20122012160D07931,2012,Kingston Upon Hull,56
+EnteringRightCar,2012201220M001272,2012,Coventry,34
+EnteringRightCar,2012201220N037412,2012,Birmingham,56
+EnteringRightCar,2012201220S035422,2012,Birmingham,22
+EnteringRightCar,2012201220S039362,2012,Birmingham,32
+EnteringRightCar,2012201220S055102,2012,Birmingham,21
+EnteringRightCar,2.0122E+16,2012,Staffordshire,50
+EnteringRightCar,2.0122E+16,2012,Warwickshire,48
+EnteringRightCar,2.0122E+16,2012,Warwickshire,60
+EnteringRightCar,2012201230D001517,2012,Derby,46
+EnteringRightCar,2012201231A163712,2012,Nottinghamshire,37
+EnteringRightCar,2012201231C073512,2012,Nottingham,36
+EnteringRightCar,2012201231D210812,2012,Nottinghamshire,45
+EnteringRightCar,2012201232N259212,2012,Lincolnshire,18
+EnteringRightCar,2.0122E+16,2012,Leicestershire,38
+EnteringRightCar,2.0122E+16,2012,Leicestershire,64
+EnteringRightCar,2012201234WN04792,2012,Northamptonshire,22
+EnteringRightCar,2.0122E+16,2012,Cambridgeshire,40
+EnteringRightCar,2.0122E+16,2012,Cambridgeshire,47
+EnteringRightCar,2.0122E+16,2012,Norfolk,29
+EnteringRightCar,2.0122E+16,2012,Norfolk,78
+EnteringRightCar,2.0122E+16,2012,Norfolk,26
+EnteringRightCar,20122012400DA0465,2012,Central Bedfordshire,21
+EnteringRightCar,201220124100C0213,2012,Hertfordshire,39
+EnteringRightCar,201220124100C0270,2012,Hertfordshire,24
+EnteringRightCar,201220124100D0508,2012,Hertfordshire,52
+EnteringRightCar,201220124100F0406,2012,Hertfordshire,44
+EnteringRightCar,2012201242I375511,2012,Essex,27
+EnteringRightCar,2012201242I397212,2012,Essex,36
+EnteringRightCar,2012201243P016102,2012,Oxfordshire,32
+EnteringRightCar,2012201243P358112,2012,Oxfordshire,16
+EnteringRightCar,2.0122E+16,2012,Southampton ,17
+EnteringRightCar,2.0122E+16,2012,Southampton ,48
+EnteringRightCar,2.0122E+16,2012,Portsmouth,12
+EnteringRightCar,2.0122E+16,2012,Portsmouth,51
+EnteringRightCar,2.0122E+16,2012,Southampton ,23
+EnteringRightCar,2.0122E+16,2012,Hampshire,63
+EnteringRightCar,2.0122E+16,2012,Portsmouth,18
+EnteringRightCar,2.0122E+16,2012,Medway,57
+EnteringRightCar,2.0122E+16,2012,Kent,22
+EnteringRightCar,2.0122E+16,2012,City of Bristol,22
+EnteringRightCar,2.0122E+16,2012,City of Bristol,51
+EnteringRightCar,2.0122E+16,2012,Bath and North East Somerset,32
+EnteringRightCar,20122012552C11286,2012,Bournemouth,61
+EnteringRightCar,20122012552C28567,2012,Poole,29
+EnteringRightCar,20122012552C30897,2012,Poole,39
+EnteringRightCar,20122012552C38454,2012,Bournemouth,30

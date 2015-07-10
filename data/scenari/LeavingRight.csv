@@ -1,0 +1,178 @@
+Scenario,urn,accyr,LAName,Age
+LeavingRight,199901KD00120,1999,London,17
+LeavingRight,199901YR00021,1999,London,54
+LeavingRight,199904B032399,1999,Lancashire,15
+LeavingRight,199904C113699,1999,Lancashire,13
+LeavingRight,1.99905E+12,1999,Merseyside,14
+LeavingRight,199906C009360,1999,Manchester,14
+LeavingRight,1.99912E+12,1999,North Yorkshire,34
+LeavingRight,199913EA12299,1999,Kirklees,12
+LeavingRight,1999317C41544,1999,Nottingham,12
+LeavingRight,1.99935E+12,1999,Cambridgeshire,29
+LeavingRight,19994200C0338,1999,Essex,
+LeavingRight,1999440HB0146,1999,Hampshire,18
+LeavingRight,1999440TB0411,1999,Southampton ,8
+LeavingRight,199946MA02281,1999,Kent,31
+LeavingRight,199946SK06820,1999,Kent,13
+LeavingRight,200001EK00228,2000,London,29
+LeavingRight,200001MM01547,2000,London,31
+LeavingRight,200001RG00225,2000,London,43
+LeavingRight,200001XH01166,2000,London,12
+LeavingRight,2.00003E+12,2000,Cumbria,15
+LeavingRight,200004F051800,2000,Lancashire,12
+LeavingRight,2.00005E+12,2000,Merseyside,22
+LeavingRight,2.00005E+12,2000,Merseyside,27
+LeavingRight,200006K008310,2000,Bolton,33
+LeavingRight,2.00007E+12,2000,Warrington,14
+LeavingRight,200014HH00131,2000,Sheffield,24
+LeavingRight,200043W147040,2000,Slough,14
+LeavingRight,2000440SC0371,2000,Southampton ,18
+LeavingRight,200050A211480,2000,Cornwall and Isles of Scilly,14
+LeavingRight,2000550W00782,2000,Dorset,59
+LeavingRight,2.00105E+12,2001,Merseyside,32
+LeavingRight,200106C015988,2001,Manchester,26
+LeavingRight,2.00107E+12,2001,Cheshire East,49
+LeavingRight,200122AA19146,2001,Worcestershire,51
+LeavingRight,200122GB22185,2001,Telford and Wrekin,23
+LeavingRight,20014100C0364,2001,Hertfordshire,17
+LeavingRight,200147Y132031,2001,West Sussex,17
+LeavingRight,200201GD00872,2002,London,46
+LeavingRight,2.00205E+12,2002,Merseyside,76
+LeavingRight,2.00207E+12,2002,Cheshire West and Chester,46
+LeavingRight,200237L007227,2002,Suffolk,10
+LeavingRight,200246MA58600,2002,Kent,20
+LeavingRight,200246WK60525,2002,Kent,52
+LeavingRight,200301DM00260,2003,London,34
+LeavingRight,200305BS00226,2003,Merseyside,44
+LeavingRight,200306C023192,2003,Manchester,20
+LeavingRight,2.00312E+12,2003,North Yorkshire,10
+LeavingRight,200336T030101,2003,Norfolk,35
+LeavingRight,200343P104083,2003,Oxfordshire,13
+LeavingRight,200401DM01198,2004,London,31
+LeavingRight,200401EO01350,2004,London,35
+LeavingRight,200401HT00585,2004,London,31
+LeavingRight,200401MM70565,2004,London,21
+LeavingRight,200404D029204,2004,Lancashire,28
+LeavingRight,2.00407E+12,2004,Warrington,11
+LeavingRight,200414FF00988,2004,Sheffield,22
+LeavingRight,2.00423E+12,2004,Warwickshire,65
+LeavingRight,200501ZT80446,2005,London,40
+LeavingRight,2.00507E+12,2005,Cheshire West and Chester,11
+LeavingRight,2005160A04310,2005,North East Lincolnshire,44
+LeavingRight,20053102B3175,2005,Nottinghamshire,5
+LeavingRight,20053102D2100,2005,Nottinghamshire,14
+LeavingRight,200542H041509,2005,Southend on Sea,17
+LeavingRight,200542H047710,2005,Southend on Sea,25
+LeavingRight,2.00547E+12,2005,Brighton and Hove,46
+LeavingRight,200550B51L581,2005,Cornwall and Isles of Scilly,47
+LeavingRight,200601BS70440,2006,London,53
+LeavingRight,200601GD10039,2006,London,16
+LeavingRight,200601GD10595,2006,London,34
+LeavingRight,200601KF60814,2006,London,46
+LeavingRight,200601WW50500,2006,London,31
+LeavingRight,2.00603E+12,2006,Cumbria,10
+LeavingRight,200604DA06053,2006,Lancashire,22
+LeavingRight,200605BB10442,2006,Merseyside,29
+LeavingRight,200606K052387,2006,Bolton,39
+LeavingRight,200606N057362,2006,Bury,17
+LeavingRight,2.00613E+12,2006,Leeds,11
+LeavingRight,2006160A02960,2006,North East Lincolnshire,17
+LeavingRight,2006160C06600,2006,East Riding of Yorkshire,13
+LeavingRight,200643P044076,2006,Oxfordshire,10
+LeavingRight,2.00644E+12,2006,Portsmouth,16
+LeavingRight,2.00644E+12,2006,Isle of Wight,10
+LeavingRight,2.00646E+12,2006,Kent,16
+LeavingRight,200650E52B075,2006,Plymouth,14
+LeavingRight,200654AP56706,2006,Wiltshire,38
+LeavingRight,2006556P03690,2006,Poole,16
+LeavingRight,200701FH10651,2007,London,32
+LeavingRight,200705FF16581,2007,Merseyside,15
+LeavingRight,2.00712E+12,2007,York,58
+LeavingRight,200714H063907,2007,Sheffield,40
+LeavingRight,2007160C08100,2007,East Riding of Yorkshire,51
+LeavingRight,200720D198602,2007,Birmingham,47
+LeavingRight,200720F504701,2007,Birmingham,31
+LeavingRight,2.00723E+12,2007,Warwickshire,34
+LeavingRight,200730A000250,2007,Derbyshire,
+LeavingRight,200743P369127,2007,Oxfordshire,74
+LeavingRight,2.00744E+12,2007,Hampshire,21
+LeavingRight,2.00744E+12,2007,Southampton ,81
+LeavingRight,200745WA11918,2007,Surrey,40
+LeavingRight,2.00747E+12,2007,West Sussex,23
+LeavingRight,200801EO40707,2008,London,22
+LeavingRight,2.00803E+12,2008,Cumbria,35
+LeavingRight,200805DD25055,2008,Merseyside,17
+LeavingRight,200806M096071,2008,Trafford,34
+LeavingRight,2.00813E+12,2008,Leeds,22
+LeavingRight,2.00813E+12,2008,Leeds,51
+LeavingRight,2008160B04350,2008,North Lincolnshire,10
+LeavingRight,2.00822E+12,2008,Staffordshire,19
+LeavingRight,200832C250508,2008,Lincolnshire,78
+LeavingRight,2.00833E+12,2008,Leicestershire,27
+LeavingRight,2.00835E+12,2008,Peterborough,23
+LeavingRight,2.00835E+12,2008,Cambridgeshire,27
+LeavingRight,2.00835E+12,2008,Cambridgeshire,23
+LeavingRight,2.00836E+12,2008,Norfolk,12
+LeavingRight,2.00836E+12,2008,Norfolk,15
+LeavingRight,200901BS70216,2009,London,51
+LeavingRight,200901CW10445,2009,London,28
+LeavingRight,200901KF60428,2009,London,31
+LeavingRight,200901LX50657,2009,London,32
+LeavingRight,200901TD00060,2009,London,26
+LeavingRight,200904DL09121,2009,Lancashire,35
+LeavingRight,2.00922E+12,2009,Staffordshire,36
+LeavingRight,20093102B0326,2009,Nottinghamshire,73
+LeavingRight,200932C363609,2009,Lincolnshire,22
+LeavingRight,2.00944E+12,2009,Portsmouth,52
+LeavingRight,2.00944E+12,2009,Hampshire,11
+LeavingRight,2.00946E+12,2009,Kent,23
+LeavingRight,2.00947E+12,2009,East Sussex,13
+LeavingRight,2009559D04177,2009,Dorset,56
+LeavingRight,201001CP00300,2010,London,31
+LeavingRight,201004EA10225,2010,Blackburn with Darwen,58
+LeavingRight,201006C032860,2010,Manchester,14
+LeavingRight,2.0101E+12,2010,South Tyneside,44
+LeavingRight,201020K005700,2010,Sandwell,52
+LeavingRight,2.01033E+12,2010,Leicestershire,38
+LeavingRight,20104100B0051,2010,Hertfordshire,54
+LeavingRight,201043P183100,2010,Oxfordshire,38
+LeavingRight,2.01047E+12,2010,Brighton and Hove,28
+LeavingRight,2.01052E+12,2010,City of Bristol,32
+LeavingRight,2.01052E+12,2010,Bath and North East Somerset,31
+LeavingRight,2.01052E+12,2010,City of Bristol,37
+LeavingRight,2.01053E+12,2010,Gloucestershire,15
+LeavingRight,2010550D35208,2010,Dorset,18
+LeavingRight,2011201101MM70305,2011,London,23
+LeavingRight,2011201101MM70346,2011,London,26
+LeavingRight,2011201104AX11094,2011,Blackpool,48
+LeavingRight,2011201105AA03495,2011,Merseyside,17
+LeavingRight,2011201105BB04552,2011,Merseyside,15
+LeavingRight,2011201105BB04924,2011,Merseyside,27
+LeavingRight,2011201105EE04101,2011,Merseyside,47
+LeavingRight,2011201106B053088,2011,Manchester,53
+LeavingRight,2011201106M043309,2011,Trafford,26
+LeavingRight,2.0112E+16,2011,Cheshire West and Chester,75
+LeavingRight,2.0112E+16,2011,Cheshire East,58
+LeavingRight,2.0112E+16,2011,Cheshire West and Chester,38
+LeavingRight,2.0112E+16,2011,Leeds,25
+LeavingRight,2.0112E+16,2011,Kirklees,77
+LeavingRight,20112011160A04441,2011,North East Lincolnshire,18
+LeavingRight,20112011160D02941,2011,Kingston Upon Hull,22
+LeavingRight,2011201122C103364,2011,Worcestershire,14
+LeavingRight,2011201131C240311,2011,Nottingham,19
+LeavingRight,2.0112E+16,2011,Norfolk,39
+LeavingRight,2.0112E+16,2011,Suffolk,13
+LeavingRight,2011201143P100091,2011,Oxfordshire,23
+LeavingRight,2.0112E+16,2011,Hampshire,31
+LeavingRight,2012201201TA00863,2012,London,38
+LeavingRight,2012201205EE04404,2012,Merseyside,55
+LeavingRight,2.0122E+16,2012,Newcastle upon Tyne,21
+LeavingRight,2.0122E+16,2012,Newcastle upon Tyne,47
+LeavingRight,2.0122E+16,2012,North Tyneside,56
+LeavingRight,2012201220K013472,2012,Sandwell,21
+LeavingRight,2012201220N037162,2012,Birmingham,46
+LeavingRight,2012201231C120512,2012,Nottingham,15
+LeavingRight,2.0122E+16,2012,Peterborough,25
+LeavingRight,2.0122E+16,2012,West Sussex,54
+LeavingRight,2.0122E+16,2012,City of Bristol,13
+LeavingRight,2012201254B247112,2012,Wiltshire,26

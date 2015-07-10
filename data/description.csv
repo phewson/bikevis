@@ -1,0 +1,229 @@
+Scenario,Text
+BikeCarEnteringRoundabout,"BikeCarEnteringRoundabout: 
+The collision takes place on a roundabout. 
+The bike is entering roundabout, waiting to turn left or to go ahead, moving off, turning left or going ahead on a left hand bend. 
+The car is entering roundabout, waiting to turn left or to go ahead, moving off, turning left or going ahead on a left hand bend."
+BikeCarLeavingRoundabout,"BikeCarLeavingRoundabout: 
+The collision takes place on a roundabout. 
+The bike is leaving roundabout, turning left or going ahead on a left hand bend. 
+The car is leaving roundabout, turning left or going ahead on a left hand bend."
+BikeEnteringCarLeavingRoundabout,"BikeEnteringCarLeavingRoundabout:
+The collision takes place on a roundabout.
+The bike is entering roundabout, waiting to turn left or to go ahead, moving off, turning left or going ahead on a left hand bend.
+The car is leaving roundabout, turning left or going ahead on a left hand bend."
+CarEnteringBikeLeavingRoundabout,"CarEnteringBikeLeavingRoundabout:
+The collision takes place on a roundabout.
+The car is entering roundabout, waiting to turn left or to go ahead, moving off, turning left or going ahead on a left hand bend.
+The bike is leaving roundabout, turning left or going ahead on a left hand bend."
+CarEnteringRoundabout,"CarEnteringRoundabout:
+The collision takes place on a roundabout.
+The bike is anywhere on the roundabout, entering or leaving. It is changing lane, overtaking a vehicle which may be the car or not, or going ahead.
+The car is entering roundabout, waiting to turn left or to go ahead, moving off, turning left or going ahead on a left hand bend."
+CarLeavingRoundabout,"CarLeavingRoundabout:
+The collision takes place on a roundabout.
+The bike is anywhere on the roundabout, entering or leaving. It is changing lane, overtaking a vehicle which may be the car or not, or going ahead.
+The car is leaving roundabout, turning left or going ahead on a left hand bend."
+ChangingLane,"ChangingLane:
+The collision does not take place at a junction or within 20 meters of a junction.
+The car is going ahead on the road.
+The bike is changing lane to right or left on a footway or on the road."
+ChangingLaneCar,"ChangingLaneCar:
+The collision does not take place at a junction or within 20 meters of a junction.
+The bike is going ahead on a footway or on the road.
+The car is changing lane to right or left. It is approaching or waiting at the junction on the road."
+ChangingLaneJunction,"ChangingLaneJunction:
+The collision takes place at a junction which is not a roundabout.
+The car is going ahead, slowing or stopping. It is approaching or waiting at the junction on the road.
+The bike is changing lane to right or left. It is approaching or waiting at the junction one a footway or on the road."
+ChangingLaneJunctionCar,"ChangingLaneJunctionCar:
+The collision takes place at a junction which is not a roundabout.
+The bike is going ahead, slowing or stopping. It is approaching or waiting at the junction on a footway or on the road.
+The car is changing lane to right or left. It is approaching or waiting at the junction on the road."
+CycleLane,"CycleLane:
+The collision does not take place at a junction or within 20 meters of a junction.
+The bike is going ahead on a cycle lane.
+The car is doing any manoeuvre on the main road or on the cycle lane."
+Cycleway,"Cycleway:
+The collision does not take place at a junction or within 20 meters of a junction.
+The bike is going ahead on a cycleway.
+The car is doing any manoeuvre on the main road or on the cycleway."
+DoorOpen,"Door open:
+The collision does not take place at a junction or within 20 meters of a junction.
+The car is parked on the road or on a lay-by, with a door open.
+The bike is going ahead or overtaking a stationary vehicle, on a footway or on the road. It hits the door of the car."
+EnterCarriageway,"EnterCarriageway:
+The collision does not take place at a junction or within 20 meters of a junction.
+The car is going ahead on main carriageway.
+The bike is moving off. It is located on a footway or leaving a lay-by or a hard shoulder."
+EnteringLeft,"EnteringLeft:
+The collision takes place at a crossroads.
+The car is going ahead or overtaking a vehicle which may ne the bike or not. It is approaching, in the middle or clearing the crossroads.
+The bike is turning left. It is approaching, in the middle or clearing the crossroads to go to the main road."
+EnteringLeftCar,"EnteringLeftCar: 
+The collision takes place at a crossroads.
+The car is turning left or waiting to turn left to enter the main road.
+The bike is overtaking a vehicle on its offside or going ahead on main road. It is approaching , in the middle or exiting the crossroads."
+EnteringLeftCarPrivate,"EnteringLeftCarPrivate:
+The collision takes place at a private entrance.
+The bike is going ahead or overtaking a vehicle which may be the car or not. It is approaching, in the middle or clearing the junction between the main road and the private entrance.
+The car is turning left. It is approaching, in the middle or clearing the junction between the main road and the private entrance to go to the main road."
+EnteringLeftPrivate,"EnteringLeftPrivate:
+The collision takes place at a private entrance.
+The car is going ahead or overtaking a vehicle which may be the bike or not. It is approaching, in the middle or clearing the junction between the main road and the private entrance.
+The bike is turning left. It is approaching, in the middle or clearing the junction between the main road and the private entrance to go to the main road."
+EnteringLeftT,"EnteringLeftT:
+The collision takes place at a T or staggered junction.
+The car is going ahead or overtaking a vehicle which may be the bike or not. It is approaching, in the middle or clearing the junction.
+The bike is turning left. It is approaching, in the middle or clearing the junction to go to the main road."
+EnteringLeftTCar,"EnteringLeftCar: 
+The collision takes place at a crossroads.
+The car is turning left or waiting to turn left to enter the main road.
+The bike is overtaking a vehicle on its offside or going ahead on main road. It is approaching , in the middle or  exiting the crossroads."
+EnteringRight,"EnteringLeftTCar: 
+The collision takes place at a T or staggered junction.
+The car is turning left or waiting to turn left to enter the main road.
+The bike is overtaking a vehicle on its offside or going ahead on main carriageway. It is approaching , in the middle or exiting the junction."
+EnteringRightCar,"EnteringRightCar: 
+The collision takes place at a crossroads.
+The car is turning right to enter the main road.
+The bike is overtaking a vehicle on its offside or going ahead on main road. It is approaching, in the middle or exiting the crossroads."
+EnteringRightCarPrivate,"EnteringRightCarPrivate:
+The collision takes place at a private entrance.
+The bike is going ahead or overtaking a vehicle which may be the car or not. It is approaching, in the middle or clearing the junction between the main road and the private entrance.
+The car is turning right. It is approaching, in the middle or clearing the junction between the main road and the private entrance to go to the main road."
+EnteringRightPrivate,"EnteringRightPrivate:
+The collision takes place at a private entrance.
+The car is going ahead or overtaking a vehicle which may be the bike or not. It is approaching, in the middle or clearing the junction between the main road and the private entrance.
+The bike is turning right. It is approaching, in the middle or clearing the junction between the main road and the private entrance to go to the main road."
+EnteringRightT,"EnteringRightT:
+The collision takes place at a T or staggered junction.
+The car is going ahead or overtaking a vehicle which may be the bike or not. It is approaching, in the middle or clearing the junction.
+The bike is turning right. It is approaching, in the middle or clearing the junction to go to the main road."
+EnteringRightTCar,"EnteringRightTCar: 
+The collision takes place at a T or staggered junction.
+The car is turning right to enter the main road. It is in the middle or exiting the junction.
+The bike is overtaking a vehicle on its offside or going ahead on main road. It is approaching, in the middle or exiting the junction."
+EnteringRoundabout,"EnteringRoundabout:
+The collision takes place on a roundabout.
+The bike is entering roundabout, waiting to turn left or to go ahead, moving off, turning left or going ahead on a left hand bend.
+The car is anywhere on the roundabout, entering or leaving. It is changing lane, overtaking a vehicle which may be the bike or not, or going ahead."
+Footway,"Footway:
+The bike and the car are on a footway and can do any manoeuvre."
+GoingAhead,"GoingAhead:
+The collision does not take place at a junction or within 20 meters of a junction.
+The bike is going ahead, waiting to go ahead, moving off, slowing or stopping. It can be anywhere on a footway or on the road.
+The car is going ahead, waiting to go ahead, moving off, slowing or stopping. It can be anywhere on the road."
+GoingAheadCrossroads,"GoingAheadCrossroads:
+The collision takes place at a crossroads.
+The bike is going ahead, waiting to go ahead, moving off, slowing or stopping. It can be anywhere in the crossroads, on a footway or on the road.
+The car is going ahead, waiting to go ahead, moving off, slowing or stopping. It can be anywhere in the crossroads, on the road."
+GoingAheadOtherJunction,"GoingAheadOtherJunction:
+The collision takes place at a junction which is not a T junction, a staggered junction, a crossroads, a private entrance or a roundabout.
+The bike is going ahead, waiting to go ahead, moving off, slowing or stopping. It can be anywhere in the junction, on a footway or on the main road.
+The car is going ahead, waiting to go ahead, moving off, slowing or stopping. It can be anywhere in the junction, on the main road."
+GoingAheadPrivate,"GoingAheadPrivate:
+The collision takes place at a private entrance.
+The bike is going ahead, waiting to go ahead, moving off, slowing or stopping. It can be anywhere in the junction between the main road and the private entrance, on a footway or on the road.
+The car is going ahead, waiting to go ahead, moving off, slowing or stopping. It can be anywhere in the junction between the main road and the private entrance, on the road."
+GoingAheadT,"GoingAheadT:
+The collision takes place at a T or staggered junction.
+The bike is going ahead, waiting to go ahead, moving off, slowing or stopping. It can be anywhere in the junction, on a footway or on the road.
+The car is going ahead, waiting to go ahead, moving off, slowing or stopping. It can be anywhere in the junction, on the road."
+LeavingLeft,"LeavingLeft:
+The collision takes place at a crossroads.
+The car is going ahead or overtaking a vehicle which may be the bike or not. It is approaching, in the middle or clearing the crossroads.
+The bike is turning left or waiting to turn left. It is approaching, in the middle or clearing the crossroads to go to the minor road."
+LeavingLeftCar,"LeavingLeftCar:
+The car is turning left (or waiting to turn left) to leave the main road. It is approaching or in the middle or exiting crossroads.
+The bike is overtaking a vehicle on its offside or going ahead on main road. It is approaching or in the middle or exiting the crossroads."
+LeavingLeftCarPrivate,"LeavingLeftCarPrivate:
+The collision takes place at a private entrance.
+The bike is going ahead or overtaking a vehicle which may be the car or not. It is approaching, in the middle or clearing the junction between the main road and the private entrance.
+The car is turning left or waiting to turn left. It is approaching, in the middle or clearing the junction between the main road and the private entrance to go to the private entrance."
+LeavingLeftPrivate,"LeavingLeftPrivate:
+The collision takes place at a private entrance.
+The car is going ahead or overtaking a vehicle which may be the bike or not. It is approaching, in the middle or clearing the junction between the main road and the private entrance.
+The bike is turning left or waiting to turn left. It is approaching, in the middle or clearing the junction between the main road and the private entrance to go to the private entrance."
+LeavingLeftT,"LeavingLeftT:
+The collision takes place at a T or staggered junction.
+The car is going ahead or overtaking a vehicle which may be the bike or not. It is approaching, in the middle or clearing the junction.
+The bike is turning left or waiting to turn left. It is approaching, in the middle or clearing the junction to go to the minor road."
+LeavingLeftTCar,"LeavingLeftTCar:
+The car is turning left or waiting to turn left to leave the main road. It is approaching, in the middle or exiting the junction.
+The bike is overtaking a vehicle on its offside or going ahead on main road. It is approaching, in the middle or exiting the junction."
+LeavingRight,"LeavingRight:
+The collision takes place at a crossroads.
+The car is going ahead or overtaking a vehicle which may be the bike or not. It is approaching, in the middle or clearing the crossroads.
+The bike is turning right or waiting to turn right. It is approaching, in the middle or clearing the crossroads to go to the minor road."
+LeavingRightCar,"LeavingRightCar:
+The collision takes place at a crossroads.
+The car is turning right or waiting to turn right to leave the main road. It is approaching, in the middle or exiting the crossroads.
+The bike is overtaking a vehicle on its offside or going ahead on main road. It is approaching, in the middle or exiting the crossroads."
+LeavingRightCarPrivate,"LeavingRightCarPrivate:
+The collision takes place at a private entrance.
+The bike is going ahead or overtaking a vehicle which may be the car or not. It is approaching, in the middle or clearing the junction between the main road and the private entrance.
+The car is turning right or waiting to turn right. It is approaching, in the middle or clearing the junction between the main road and the private entrance to go to the private entrance."
+LeavingRightPrivate,"LeavingRightPrivate:
+The collision takes place at a private entrance.
+The car is going ahead or overtaking a vehicle which may be the bike or not. It is approaching, in the middle or clearing the junction between the main road and the private entrance.
+The bike is turning right or waiting to turn right. It is approaching, in the middle or clearing the junction between the main road and the private entrance to go to the private entrance."
+LeavingRightT,"LeavingRightT:
+The collision takes place at a T or staggered junction.
+The car is going ahead or overtaking a vehicle which may be the bike or not. It is approaching, in the middle or clearing the junction.
+The bike is turning right or waiting to turn right. It is approaching, in the middle or clearing the junction to go to the minor road."
+LeavingRightTCar,"LeavingRightTCar:
+The collision takes place at a T or staggered junction.
+The car is turning right or waiting to turn right to leave the main road. It is approaching, in the middle or exiting the junction.
+The bike is overtaking a vehicle on its offside or going ahead on main road. It is approaching, in the middle or exiting the junction."
+LeavingRoundabout,"LeavingRoundabout:
+The collision takes place on a roundabout.
+The bike is leaving roundabout, turning left or going ahead on a left hand bend.
+The car is anywhere on the roundabout, entering or leaving. It is changing lane, overtaking a vehicle which may be the bike or not, or going ahead."
+Overtaking,"Overtaking:
+The collision does not take place at a junction or within 20 meters of a junction.
+The car is going ahead, waiting to go ahead, movinf off, slowing or stopping.
+The bike is overtaking a vehicle which may be the car or not. "
+OvertakingCar,"OvertakingCar:
+The collision does not take place at a junction or within 20 meters of a junction.
+The bike is going ahead, waiting to go ahead, moving off, slowing or stopping.
+The car is overtaking a vehicle which may be the bike or not. "
+OvertakingCrossroads,"OvertakingCrossroads:
+The collision takes place at a crossroads.
+The car is going ahead, waiting to go ahead, moving off, slowing or stopping. It is approaching, in the middle or clearing the crossroads.
+The bike is overtaking a vehicle which may be the car or not. It is approaching, in the middle or clearing the crossroads."
+OvertakingCrossroadsCar,"OvertakingCrossroadsCar:
+The collision takes place at a crossroads.
+The bike is going ahead, waiting to go ahead, moving off, slowing or stopping. It is approaching, in the middle or clearing the crossroads.
+The car is overtaking a vehicle which may be the bike or not. It is approaching, in the middle or clearing the crossroads."
+OvertakingPrivate,"OvertakingPrivate:
+The collision takes place at a private entrance.
+The car is going ahead, waiting to go ahead, moving off, slowing or stopping. It is approaching, in the middle or clearing the junction between the main road and the private entrance.
+The bike is overtaking a vehicle which may be the car or not. It is approaching, in the middle or clearing the junction between the main road and the private entrance."
+OvertakingPrivateCar,"OvertakingPrivateCar:
+The collision takes place at a private entrance.
+The bike is going ahead, waiting to go ahead, moving off, slowing or stopping. It is approaching, in the middle or clearing the junction between the main road and the private entrance.
+The car is overtaking a vehicle which may be the bike or not. It is approaching, in the middle or clearing the junction between the main road and the private entrance."
+OvertakingT,"OvertakingT:
+The collision takes place at a T or staggered junction.
+The car is going ahead, waiting to go ahead, moving off, slowing or stopping. It is approaching, in the middle or clearing the junction.
+The bike is overtaking a vehicle which may be the car or not. It is approaching, in the middle or clearing the junction."
+OvertakingTCar,"OvertakingTCar:
+The collision takes place at a T or staggered junction.
+The bike is going ahead, waiting to go ahead, moving off, slowing or stopping. It is approaching, in the middle or clearing the junction.
+The car is overtaking a vehicle which may be the bike or not. It is approaching, in the middle or clearing the junction."
+ParkedCar,"ParkedCar:
+The collision does not take place at a junction or within 20 meters of a junction.
+The car is parked on the road or on a lay-by.
+The bike is going ahead or overtaking a stationary vehicle, on a footway or on the road. It hits the parked car."
+ReversingCar,"ReversingCar:
+The car is reversing anywhere except on a footway.
+The bike is doing any manoeuvre, anywhere."
+Roundabout,"Roundabout:
+The collision takes place on a roundabout.
+The bike is anywhere on the roundabout, entering or leaving. It is changing lane, overtaking a vehicle which may be the car or not, or going ahead.
+The car is anywhere on the roundabout, entering or leaving. It is changing lane, overtaking a vehicle which may be the bike or not, or going ahead.
+This scenario does not consider the collisions where the bike or the car are approaching or leaving the roundabout, going ahead. These collisions are in EnteringRoundabout, CarEnteringRoundabout, LeavingRoundabout or CarLeavingRoundabout. "
+StoppedCar,"StoppedCar:
+The collision doesn't take place at or within 20 m of a junction.
+The car is waiting to go ahead but held up or slowing or stopping or waiting to turn. It is located on the main road.
+The bike is overtaking a vehicle on nearside or going ahead. It is located on the main road or on a footway."

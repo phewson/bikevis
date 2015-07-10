@@ -1,0 +1,2811 @@
+Scenario,urn,accyr,LAName,Age
+Footway,199901JI00194,1999,London,16
+Footway,199901PD00174,1999,London,16
+Footway,199901QD00452,1999,London,8
+Footway,199901RA00186,1999,London,7
+Footway,199901RA00200,1999,London,7
+Footway,199901TG00197,1999,Surrey,16
+Footway,199901XS00387,1999,London,16
+Footway,199901ZD00047,1999,London,
+Footway,199901ZP00403,1999,London,17
+Footway,199904A089199,1999,Lancashire,13
+Footway,199904B044799,1999,Lancashire,32
+Footway,199904C065699,1999,Lancashire,53
+Footway,199904D039199,1999,Lancashire,7
+Footway,199904E036299,1999,Blackburn with Darwen,16
+Footway,1.99905E+12,1999,Merseyside,11
+Footway,1.99905E+12,1999,Merseyside,12
+Footway,1.99905E+12,1999,Merseyside,15
+Footway,1.99905E+12,1999,Merseyside,12
+Footway,1.99905E+12,1999,Merseyside,18
+Footway,1.99905E+12,1999,Merseyside,6
+Footway,1.99905E+12,1999,Merseyside,12
+Footway,1.99905E+12,1999,Merseyside,16
+Footway,199906A005588,1999,Manchester,8
+Footway,199906C007426,1999,Manchester,79
+Footway,199906C007800,1999,Manchester,30
+Footway,199906C007907,1999,Manchester,8
+Footway,199906C009047,1999,Manchester,18
+Footway,199906F004776,1999,Salford,15
+Footway,199906J004659,1999,Stockport,22
+Footway,199906J004814,1999,Stockport,3
+Footway,199906J005017,1999,Stockport,11
+Footway,199906J005069,1999,Stockport,14
+Footway,199906J005161,1999,Stockport,15
+Footway,199906J005335,1999,Stockport,12
+Footway,199906K004995,1999,Bolton,6
+Footway,199906K005059,1999,Bolton,15
+Footway,199906K005971,1999,Bolton,15
+Footway,199906L005079,1999,Wigan,11
+Footway,199906L005272,1999,Wigan,10
+Footway,199906L005518,1999,Wigan,50
+Footway,199906M003809,1999,Trafford,36
+Footway,199906M003868,1999,Trafford,14
+Footway,199906M004163,1999,Trafford,9
+Footway,199906M004180,1999,Trafford,13
+Footway,199906M004821,1999,Trafford,7
+Footway,199906P003843,1999,Rochdale,17
+Footway,199910H321799,1999,North Tyneside,14
+Footway,199910K170499,1999,Gateshead,15
+Footway,199910K284399,1999,Gateshead,13
+Footway,199910O240199,1999,South Tyneside,14
+Footway,1999110DJ0879,1999,Darlington,30
+Footway,1999119BE1503,1999,Durham,11
+Footway,1.99912E+12,1999,North Yorkshire,13
+Footway,1.99912E+12,1999,North Yorkshire,8
+Footway,1.99913E+12,1999,Calderdale,16
+Footway,199913AA17999,1999,Leeds,7
+Footway,199913BB42299,1999,Leeds,16
+Footway,199913DA47199,1999,Wakefield,13
+Footway,199913EC47099,1999,Kirklees,53
+Footway,199913GC32199,1999,Bradford,14
+Footway,199913HA20099,1999,Bradford,13
+Footway,199913HA33499,1999,Bradford,15
+Footway,199913HA39599,1999,Bradford,15
+Footway,199913HB22999,1999,Bradford,16
+Footway,199916D028999,1999,East Riding of Yorkshire,23
+Footway,199916E035399,1999,East Riding of Yorkshire,18
+Footway,199916F000699,1999,Kingston Upon Hull,4
+Footway,199917S100414,1999,Stockton on Tees,20
+Footway,199920D180801,1999,Birmingham,18
+Footway,199920D203601,1999,Birmingham,32
+Footway,199920D208901,1999,Birmingham,7
+Footway,199920D236801,1999,Birmingham,21
+Footway,199920D245501,1999,Birmingham,8
+Footway,199920D346201,1999,Birmingham,15
+Footway,199920E176901,1999,Birmingham,13
+Footway,199920E233801,1999,Birmingham,11
+Footway,199920E234401,1999,Birmingham,13
+Footway,199920E251701,1999,Birmingham,18
+Footway,199920F217101,1999,Birmingham,20
+Footway,199920F242901,1999,Birmingham,18
+Footway,199920F296301,1999,Birmingham,20
+Footway,199920G043302,1999,Wolverhampton,18
+Footway,199920G047101,1999,Wolverhampton,
+Footway,199920G050902,1999,Wolverhampton,18
+Footway,199920G069402,1999,Wolverhampton,13
+Footway,199920G101102,1999,Wolverhampton,15
+Footway,199920H053702,1999,Walsall,9
+Footway,199920H056701,1999,Walsall,25
+Footway,199920H061702,1999,Walsall,18
+Footway,199920H090002,1999,Walsall,43
+Footway,199920H099502,1999,Walsall,21
+Footway,199920J052002,1999,Dudley,14
+Footway,199920J065502,1999,Dudley,11
+Footway,199920J074702,1999,Dudley,17
+Footway,199920J081802,1999,Dudley,12
+Footway,199920K087101,1999,Sandwell,11
+Footway,199920K091302,1999,Sandwell,9
+Footway,199920K101401,1999,Sandwell,7
+Footway,199920K112001,1999,Sandwell,12
+Footway,199920K140102,1999,Sandwell,17
+Footway,199920L040401,1999,Solihull,7
+Footway,199920L063001,1999,Solihull,8
+Footway,199920L133701,1999,Solihull,13
+Footway,199920M144101,1999,Coventry,14
+Footway,199920M144201,1999,Coventry,8
+Footway,19992193X0329,1999,Staffordshire,14
+Footway,199922AV01215,1999,Worcestershire,18
+Footway,199922CA11068,1999,Worcestershire,24
+Footway,199922CK02793,1999,Worcestershire,15
+Footway,199922FX01539,1999,Shropshire,17
+Footway,199930A000261,1999,Derbyshire,12
+Footway,199930A000497,1999,Derbyshire,
+Footway,199930A000505,1999,Derbyshire,13
+Footway,199930B000423,1999,Derbyshire,39
+Footway,199930C000764,1999,Derbyshire,
+Footway,199930D000343,1999,Derbyshire,15
+Footway,1999317B20232,1999,Nottinghamshire,10
+Footway,199932B003639,1999,Lincolnshire,8
+Footway,199932C009139,1999,Lincolnshire,11
+Footway,1.99934E+12,1999,Leicestershire,25
+Footway,1.99934E+12,1999,Leicestershire,10
+Footway,1.99934E+12,1999,Leicestershire,
+Footway,1.99934E+12,1999,Leicestershire,19
+Footway,1.99934E+12,1999,Leicestershire,13
+Footway,1.99934E+12,1999,Leicestershire,5
+Footway,1.99934E+12,1999,Leicestershire,14
+Footway,1.99934E+12,1999,Leicestershire,
+Footway,1.99934E+12,1999,Leicestershire,28
+Footway,1.99934E+12,1999,Leicestershire,12
+Footway,1.99934E+12,1999,Leicestershire,17
+Footway,1.99934E+12,1999,Leicestershire,12
+Footway,1.99934E+12,1999,Rutland,4
+Footway,199934NC00249,1999,Northamptonshire,5
+Footway,1.99935E+12,1999,Peterborough,11
+Footway,1.99935E+12,1999,Cambridgeshire,12
+Footway,1.99935E+12,1999,Cambridgeshire,13
+Footway,1.99935E+12,1999,Peterborough,13
+Footway,1.99935E+12,1999,Cambridgeshire,59
+Footway,1.99935E+12,1999,Cambridgeshire,14
+Footway,1.99935E+12,1999,Cambridgeshire,
+Footway,1.99935E+12,1999,Peterborough,14
+Footway,1.99935E+12,1999,Peterborough,14
+Footway,1.99935E+12,1999,Peterborough,43
+Footway,199936G991110,1999,Norfolk,13
+Footway,199936N991066,1999,Norfolk,10
+Footway,199936T990504,1999,Norfolk,8
+Footway,199937B007228,1999,Suffolk,22
+Footway,199937G004247,1999,Suffolk,21
+Footway,199937G004511,1999,Suffolk,12
+Footway,199937G004976,1999,Suffolk,12
+Footway,199937G005046,1999,Suffolk,83
+Footway,199937L003275,1999,Suffolk,3
+Footway,199940B172499,1999,Bedford Borough Council,35
+Footway,199940C153299,1999,Luton,30
+Footway,199940C247699,1999,Luton,20
+Footway,199940D252399,1999,Central Bedfordshire,13
+Footway,19994100A0177,1999,Hertfordshire,8
+Footway,19994100B0011,1999,Hertfordshire,16
+Footway,19994100B0212,1999,Hertfordshire,17
+Footway,19994100B0281,1999,Hertfordshire,14
+Footway,19994100C0111,1999,Hertfordshire,10
+Footway,19994100C0248,1999,Hertfordshire,18
+Footway,19994100C0301,1999,Hertfordshire,5
+Footway,19994100C0328,1999,Hertfordshire,11
+Footway,19994100D0511,1999,Hertfordshire,18
+Footway,19994100F0391,1999,Hertfordshire,20
+Footway,19994100F0406,1999,Hertfordshire,14
+Footway,19994100G0066,1999,Hertfordshire,12
+Footway,19994200A0183,1999,Essex,13
+Footway,19994200A0238,1999,Essex,12
+Footway,19994200A0545,1999,Essex,
+Footway,19994200C0298,1999,Essex,47
+Footway,19994200C0449,1999,Essex,12
+Footway,19994200C0782,1999,Essex,25
+Footway,19994200D0196,1999,Essex,24
+Footway,19994200D0263,1999,Essex,19
+Footway,19994200D0310,1999,Essex,9
+Footway,19994200D0433,1999,Essex,13
+Footway,19994200F0021,1999,Thurrock,28
+Footway,19994200F0603,1999,Thurrock,14
+Footway,19994200G0703,1999,Essex,9
+Footway,19994200H0260,1999,Southend on Sea,8
+Footway,199943N019089,1999,Buckinghamshire,13
+Footway,199943N333089,1999,Buckinghamshire,7
+Footway,199943N396019,1999,Buckinghamshire,23
+Footway,199943P244079,1999,Oxfordshire,12
+Footway,199943P309129,1999,Oxfordshire,31
+Footway,199943R029039,1999,Slough,52
+Footway,199943R042129,1999,Bracknell Forest,16
+Footway,199943R153099,1999,Wokingham,25
+Footway,199943R184109,1999,Slough,11
+Footway,199943R305079,1999,Slough,16
+Footway,199943S109029,1999,Milton Keynes,24
+Footway,199943S165049,1999,Milton Keynes,20
+Footway,199943W258089,1999,West Berkshire,
+Footway,199943W280059,1999,Reading,13
+Footway,1999440AA0685,1999,Hampshire,12
+Footway,1999440AA1500,1999,Hampshire,13
+Footway,1999440DW0039,1999,Hampshire,11
+Footway,1999440GG0219,1999,Hampshire,15
+Footway,1999440HF0481,1999,Hampshire,21
+Footway,1999440HP0336,1999,Hampshire,5
+Footway,1999440JH0430,1999,Hampshire,11
+Footway,1999440KS0514,1999,Portsmouth,17
+Footway,1999440KS0719,1999,Portsmouth,20
+Footway,1999440LA0644,1999,Hampshire,10
+Footway,1999440NA0569,1999,Hampshire,9
+Footway,1999440OC1058,1999,Hampshire,14
+Footway,1999440SP0449,1999,Southampton ,8
+Footway,1999440YS0721,1999,Southampton ,16
+Footway,1999440ZD0923,1999,Isle of Wight,9
+Footway,1999440ZD0929,1999,Isle of Wight,11
+Footway,199945ED00132,1999,Surrey,
+Footway,199945ED00186,1999,Surrey,47
+Footway,199945ED00310,1999,Surrey,13
+Footway,199945ED00346,1999,Surrey,44
+Footway,199945NA00077,1999,Surrey,8
+Footway,199945NA00140,1999,Surrey,13
+Footway,199945NW00113,1999,Surrey,9
+Footway,199945WF00064,1999,Surrey,16
+Footway,199945WF00120,1999,Surrey,14
+Footway,199945WG00071,1999,Surrey,11
+Footway,199947C003777,1999,Brighton and Hove,9
+Footway,199947C004774,1999,Brighton and Hove,38
+Footway,199947C005673,1999,Brighton and Hove,11
+Footway,199947H002869,1999,West Sussex,15
+Footway,199947H002908,1999,West Sussex,10
+Footway,199947H002992,1999,West Sussex,6
+Footway,199947H003210,1999,West Sussex,6
+Footway,199947N002851,1999,West Sussex,9
+Footway,199947N003242,1999,West Sussex,13
+Footway,199947N003256,1999,West Sussex,14
+Footway,199947N003457,1999,West Sussex,32
+Footway,199947N003979,1999,West Sussex,12
+Footway,199947S003345,1999,East Sussex,14
+Footway,199947S003441,1999,East Sussex,16
+Footway,199947T002413,1999,East Sussex,15
+Footway,199947X002746,1999,West Sussex,18
+Footway,199947X002962,1999,West Sussex,
+Footway,199947X003026,1999,West Sussex,69
+Footway,199947X003458,1999,West Sussex,12
+Footway,199947X003460,1999,West Sussex,11
+Footway,199947X003767,1999,West Sussex,12
+Footway,199947X003783,1999,West Sussex,6
+Footway,199947X003942,1999,West Sussex,15
+Footway,199947Y001526,1999,West Sussex,59
+Footway,199947Y001949,1999,West Sussex,18
+Footway,199950D214430,1999,Devon,9
+Footway,199950D214504,1999,Devon,14
+Footway,1.99952E+12,1999,South Gloucestershire,13
+Footway,1.99952E+12,1999,Somerset,14
+Footway,1.99952E+12,1999,City of Bristol,13
+Footway,1.99952E+12,1999,Somerset,12
+Footway,199954CB47699,1999,Wiltshire,15
+Footway,1999550P00895,1999,Poole,13
+Footway,200001KD00588,2000,London,14
+Footway,200001KG00639,2000,London,8
+Footway,200001QA00674,2000,London,10
+Footway,200001RG00795,2000,London,12
+Footway,200001WW00121,2000,London,16
+Footway,200001WW00484,2000,London,9
+Footway,200001WW00710,2000,London,24
+Footway,200001XH00010,2000,London,21
+Footway,200001XH01177,2000,London,35
+Footway,200004C066600,2000,Lancashire,41
+Footway,2.00005E+12,2000,Merseyside,14
+Footway,2.00005E+12,2000,Merseyside,13
+Footway,2.00005E+12,2000,Merseyside,24
+Footway,2.00005E+12,2000,Merseyside,12
+Footway,2.00005E+12,2000,Merseyside,8
+Footway,2.00005E+12,2000,Merseyside,14
+Footway,2.00005E+12,2000,Merseyside,15
+Footway,2.00005E+12,2000,Merseyside,21
+Footway,2.00005E+12,2000,Merseyside,10
+Footway,2.00005E+12,2000,Merseyside,5
+Footway,2.00005E+12,2000,Merseyside,11
+Footway,2.00005E+12,2000,Merseyside,12
+Footway,200006C010989,2000,Manchester,6
+Footway,200006G004681,2000,Tameside,11
+Footway,200006G005484,2000,Tameside,7
+Footway,200006J006565,2000,Stockport,8
+Footway,200006J006994,2000,Stockport,13
+Footway,200006J007155,2000,Stockport,10
+Footway,200006J007285,2000,Stockport,12
+Footway,200006J007570,2000,Stockport,12
+Footway,200006J007577,2000,Stockport,11
+Footway,200006L008311,2000,Wigan,17
+Footway,200006M006165,2000,Trafford,10
+Footway,200006M006269,2000,Trafford,12
+Footway,200006M006287,2000,Trafford,4
+Footway,200006P005350,2000,Rochdale,9
+Footway,2.00007E+12,2000,Halton,14
+Footway,2.00007E+12,2000,Warrington,12
+Footway,2.00007E+12,2000,Cheshire West and Chester,9
+Footway,2.00007E+12,2000,Warrington,14
+Footway,2.00007E+12,2000,Cheshire West and Chester,12
+Footway,2.00007E+12,2000,Warrington,17
+Footway,2.00007E+12,2000,Cheshire East,53
+Footway,2.00007E+12,2000,Cheshire West and Chester,11
+Footway,2.00007E+12,2000,Cheshire West and Chester,9
+Footway,2.00007E+12,2000,Cheshire East,11
+Footway,200010G342800,2000,Newcastle upon Tyne,14
+Footway,200011CI17780,2000,Durham,7
+Footway,2.00012E+12,2000,North Yorkshire,6
+Footway,2.00012E+12,2000,North Yorkshire,12
+Footway,2.00012E+12,2000,North Yorkshire,12
+Footway,2.00012E+12,2000,North Yorkshire,12
+Footway,2.00012E+12,2000,North Yorkshire,10
+Footway,2.00013E+12,2000,Leeds,10
+Footway,2.00013E+12,2000,Wakefield,15
+Footway,2.00013E+12,2000,Leeds,6
+Footway,2.00013E+12,2000,Kirklees,11
+Footway,2.00013E+12,2000,Leeds,14
+Footway,2.00013E+12,2000,Leeds,14
+Footway,2.00013E+12,2000,Leeds,9
+Footway,2.00013E+12,2000,Leeds,17
+Footway,200013FA07300,2000,Calderdale,4
+Footway,200016A058300,2000,North East Lincolnshire,26
+Footway,200016C019400,2000,East Riding of Yorkshire,14
+Footway,200020D092301,2000,Birmingham,14
+Footway,200020D118301,2000,Birmingham,13
+Footway,200020D149302,2000,Birmingham,9
+Footway,200020D179002,2000,Birmingham,35
+Footway,200020D241401,2000,Birmingham,24
+Footway,200020D276403,2000,Birmingham,21
+Footway,200020D302801,2000,Birmingham,41
+Footway,200020D304603,2000,Birmingham,6
+Footway,200020E061101,2000,Birmingham,7
+Footway,200020E126201,2000,Birmingham,14
+Footway,200020E165601,2000,Birmingham,10
+Footway,200020E208801,2000,Birmingham,13
+Footway,200020E322002,2000,Birmingham,12
+Footway,200020F074901,2000,Birmingham,13
+Footway,200020F166301,2000,Birmingham,22
+Footway,200020F200701,2000,Birmingham,11
+Footway,200020F230401,2000,Birmingham,19
+Footway,200020G054602,2000,Wolverhampton,10
+Footway,200020G076901,2000,Wolverhampton,25
+Footway,200020G086301,2000,Wolverhampton,34
+Footway,200020G099502,2000,Wolverhampton,16
+Footway,200020H037901,2000,Walsall,16
+Footway,200020H039201,2000,Walsall,24
+Footway,200020H047802,2000,Walsall,22
+Footway,200020H070302,2000,Walsall,20
+Footway,200020H071702,2000,Walsall,24
+Footway,200020J023102,2000,Dudley,11
+Footway,200020J046402,2000,Dudley,12
+Footway,200020J047102,2000,Dudley,11
+Footway,200020J071802,2000,Dudley,20
+Footway,200020J073701,2000,Dudley,14
+Footway,200020K011902,2000,Sandwell,28
+Footway,200020K034201,2000,Sandwell,14
+Footway,200020K047201,2000,Sandwell,40
+Footway,200020K055502,2000,Sandwell,9
+Footway,200020K065102,2000,Sandwell,25
+Footway,200020K084001,2000,Sandwell,20
+Footway,200020L009101,2000,Solihull,21
+Footway,200020L048101,2000,Solihull,13
+Footway,200020L055201,2000,Solihull,10
+Footway,200020L099101,2000,Solihull,16
+Footway,200020M118502,2000,Coventry,11
+Footway,200020M124003,2000,Coventry,11
+Footway,200020M137102,2000,Coventry,15
+Footway,2.00021E+12,2000,Staffordshire,13
+Footway,2.00021E+12,2000,Staffordshire,9
+Footway,200022AA13496,2000,Worcestershire,51
+Footway,200022BA17599,2000,Worcestershire,18
+Footway,200030A000215,2000,Derbyshire,9
+Footway,200030A000347,2000,Derbyshire,15
+Footway,200030A000592,2000,Derbyshire,14
+Footway,200030B000333,2000,Derbyshire,12
+Footway,200030B000498,2000,Derbyshire,14
+Footway,200030D000518,2000,Derby,36
+Footway,2000317A20721,2000,Nottinghamshire,13
+Footway,2000317B40311,2000,Nottingham,13
+Footway,200032C002960,2000,Lincolnshire,56
+Footway,200032C012920,2000,Lincolnshire,16
+Footway,200032D011370,2000,Lincolnshire,13
+Footway,2.00033E+12,2000,Leicestershire,16
+Footway,2.00033E+12,2000,Leicestershire,
+Footway,2.00033E+12,2000,Leicestershire,10
+Footway,2.00033E+12,2000,Leicestershire,23
+Footway,2.00033E+12,2000,Leicestershire,10
+Footway,2.00033E+12,2000,Leicestershire,13
+Footway,2.00033E+12,2000,Leicestershire,20
+Footway,2.00033E+12,2000,Leicestershire,20
+Footway,2.00033E+12,2000,Leicestershire,
+Footway,2.00033E+12,2000,Leicestershire,14
+Footway,2.00033E+12,2000,Leicestershire,13
+Footway,2.00033E+12,2000,Leicestershire,
+Footway,2.00033E+12,2000,Leicestershire,18
+Footway,2.00033E+12,2000,Leicestershire,15
+Footway,2.00033E+12,2000,Leicestershire,14
+Footway,2.00033E+12,2000,Leicestershire,42
+Footway,2.00033E+12,2000,Leicestershire,12
+Footway,200034NN00712,2000,Northamptonshire,55
+Footway,200034NW00564,2000,Northamptonshire,12
+Footway,2.00035E+12,2000,Peterborough,17
+Footway,2.00035E+12,2000,Cambridgeshire,14
+Footway,2.00035E+12,2000,Cambridgeshire,12
+Footway,2.00035E+12,2000,Cambridgeshire,23
+Footway,2.00035E+12,2000,Cambridgeshire,4
+Footway,2.00035E+12,2000,Peterborough,18
+Footway,2.00035E+12,2000,Cambridgeshire,6
+Footway,200037B008104,2000,Suffolk,15
+Footway,200037G005987,2000,Suffolk,16
+Footway,200037G006762,2000,Suffolk,26
+Footway,200037G006874,2000,Suffolk,17
+Footway,200037G007019,2000,Suffolk,13
+Footway,200037G007090,2000,Suffolk,
+Footway,200037L004864,2000,Suffolk,16
+Footway,200037L004898,2000,Suffolk,15
+Footway,20004100B0471,2000,Hertfordshire,17
+Footway,20004100C0067,2000,Hertfordshire,41
+Footway,20004100D0280,2000,Hertfordshire,13
+Footway,20004100D0326,2000,Hertfordshire,12
+Footway,2.00E+72,2000,Hertfordshire,12
+Footway,20004100F0149,2000,Hertfordshire,10
+Footway,20004100F0226,2000,Hertfordshire,17
+Footway,20004100F0264,2000,Hertfordshire,13
+Footway,20004100F0343,2000,Hertfordshire,78
+Footway,20004100G0147,2000,Hertfordshire,12
+Footway,20004100J1143,2000,Hertfordshire,35
+Footway,20004200A0642,2000,Essex,10
+Footway,20004200B0370,2000,Essex,34
+Footway,20004200C0440,2000,Essex,9
+Footway,20004200C0543,2000,Essex,
+Footway,20004200D0305,2000,Essex,13
+Footway,20004200D0364,2000,Essex,11
+Footway,2.00E+101,2000,Essex,10
+Footway,20004200E0378,2000,Essex,9
+Footway,20004200E0495,2000,Essex,10
+Footway,20004200F0249,2000,Thurrock,12
+Footway,20004200F0409,2000,Thurrock,13
+Footway,20004200H0286,2000,Southend on Sea,
+Footway,20004200H0398,2000,Southend on Sea,11
+Footway,20004200J0252,2000,Essex,8
+Footway,20004200J0345,2000,Essex,
+Footway,20004200J0487,2000,Essex,7
+Footway,200043N032100,2000,Buckinghamshire,13
+Footway,200043N070090,2000,Buckinghamshire,9
+Footway,200043N229050,2000,Buckinghamshire,6
+Footway,200043N253010,2000,Buckinghamshire,15
+Footway,200043P083030,2000,Oxfordshire,6
+Footway,200043P140090,2000,Oxfordshire,16
+Footway,200043P160070,2000,Oxfordshire,21
+Footway,200043P189080,2000,Oxfordshire,17
+Footway,200043P205050,2000,Oxfordshire,
+Footway,200043P265090,2000,Oxfordshire,15
+Footway,200043P331040,2000,Oxfordshire,14
+Footway,200043P444100,2000,Oxfordshire,32
+Footway,200043S009060,2000,Milton Keynes,52
+Footway,200043S038090,2000,Milton Keynes,
+Footway,200043W033080,2000,Windsor and Maidenhead,
+Footway,200043W103050,2000,Slough,9
+Footway,200043W123070,2000,Bracknell Forest,12
+Footway,200043W164080,2000,Slough,9
+Footway,200043W254020,2000,Reading,
+Footway,200043W305030,2000,Windsor and Maidenhead,13
+Footway,200043W316020,2000,Windsor and Maidenhead,
+Footway,200043W333100,2000,West Berkshire,13
+Footway,200043W435100,2000,Wokingham,
+Footway,200043W444060,2000,Reading,
+Footway,200043W597070,2000,Bracknell Forest,30
+Footway,200043W605050,2000,West Berkshire,72
+Footway,200043W649060,2000,Wokingham,15
+Footway,200043W657040,2000,Windsor and Maidenhead,
+Footway,2000440DT0135,2000,Hampshire,13
+Footway,2000440DW0126,2000,Hampshire,12
+Footway,2000440HP0084,2000,Hampshire,11
+Footway,2000440JL0120,2000,Hampshire,9
+Footway,2000440JW0359,2000,Hampshire,9
+Footway,2000440LA0157,2000,Hampshire,14
+Footway,2000440LN0052,2000,Hampshire,42
+Footway,2000440NA0428,2000,Hampshire,11
+Footway,2000440OC0526,2000,Hampshire,50
+Footway,2000440SP0156,2000,Southampton ,15
+Footway,2000440ST0250,2000,Southampton ,30
+Footway,2000440ZD0663,2000,Isle of Wight,14
+Footway,200045EC00118,2000,Surrey,
+Footway,200045EZ00010,2000,Surrey,14
+Footway,200045WF00284,2000,Surrey,14
+Footway,200046NK32703,2000,Kent,14
+Footway,200047H004396,2000,West Sussex,
+Footway,200047N004468,2000,West Sussex,12
+Footway,200047N126160,2000,West Sussex,7
+Footway,200047N127766,2000,West Sussex,
+Footway,200047N127839,2000,West Sussex,12
+Footway,200047T004609,2000,East Sussex,12
+Footway,200047X004688,2000,West Sussex,21
+Footway,200047X004976,2000,West Sussex,3
+Footway,200047X005043,2000,West Sussex,17
+Footway,200047Y003069,2000,West Sussex,11
+Footway,200047Y003250,2000,West Sussex,8
+Footway,200047Y003618,2000,West Sussex,14
+Footway,200047Y003806,2000,West Sussex,18
+Footway,2.00052E+12,2000,City of Bristol,11
+Footway,2.00052E+12,2000,South Gloucestershire,11
+Footway,2.00052E+12,2000,North Somerset,17
+Footway,200052GB07056,2000,Somerset,9
+Footway,200054CD09900,2000,Wiltshire,18
+Footway,200054DH23900,2000,Swindon,12
+Footway,200101QK00218,2001,London,9
+Footway,200101XH00471,2001,London,38
+Footway,200101ZP00333,2001,London,7
+Footway,200104A086701,2001,Blackpool,14
+Footway,200104C048401,2001,Lancashire,12
+Footway,200104D051501,2001,Lancashire,13
+Footway,2.00105E+12,2001,Merseyside,11
+Footway,2.00105E+12,2001,Merseyside,52
+Footway,2.00105E+12,2001,Merseyside,9
+Footway,2.00105E+12,2001,Merseyside,16
+Footway,2.00105E+12,2001,Merseyside,14
+Footway,2.00105E+12,2001,Merseyside,10
+Footway,2.00105E+12,2001,Merseyside,8
+Footway,2.00105E+12,2001,Merseyside,11
+Footway,2.00105E+12,2001,Merseyside,13
+Footway,2.00105E+12,2001,Merseyside,9
+Footway,2.00105E+12,2001,Merseyside,12
+Footway,2.00105E+12,2001,Merseyside,39
+Footway,2.00105E+12,2001,Merseyside,15
+Footway,2.00105E+12,2001,Merseyside,38
+Footway,200106A008940,2001,Manchester,39
+Footway,200106C014991,2001,Manchester,11
+Footway,200106J009105,2001,Stockport,13
+Footway,200106J009467,2001,Stockport,5
+Footway,200106J009876,2001,Stockport,3
+Footway,200106L010539,2001,Wigan,11
+Footway,200106L011215,2001,Wigan,40
+Footway,200106N006566,2001,Bury,9
+Footway,2.00107E+12,2001,Warrington,13
+Footway,2.00107E+12,2001,Warrington,9
+Footway,2.00107E+12,2001,Halton,11
+Footway,2.00107E+12,2001,Cheshire East,14
+Footway,2.00107E+12,2001,Cheshire West and Chester,15
+Footway,2.00107E+12,2001,Warrington,12
+Footway,200110C158501,2001,Northumberland,13
+Footway,200110C291801,2001,Northumberland,10
+Footway,200110E166901,2001,Newcastle upon Tyne,12
+Footway,200110M316201,2001,South Tyneside,12
+Footway,200111BE20860,2001,Durham,18
+Footway,2.00112E+12,2001,York,14
+Footway,2.00112E+12,2001,North Yorkshire,12
+Footway,2.00112E+12,2001,North Yorkshire,14
+Footway,2.00113E+12,2001,Wakefield,16
+Footway,2.00113E+12,2001,Leeds,14
+Footway,2.00113E+12,2001,Wakefield,16
+Footway,2.00113E+12,2001,Leeds,12
+Footway,2.00113E+12,2001,Bradford,16
+Footway,2.00113E+12,2001,Calderdale,12
+Footway,2.00113E+12,2001,Bradford,7
+Footway,2.00113E+12,2001,Kirklees,13
+Footway,200120D143903,2001,Birmingham,14
+Footway,200120D223803,2001,Birmingham,10
+Footway,200120D228903,2001,Birmingham,15
+Footway,200120D262902,2001,Birmingham,4
+Footway,200120E142702,2001,Birmingham,11
+Footway,200120E150503,2001,Birmingham,41
+Footway,200120E151401,2001,Birmingham,10
+Footway,200120E156601,2001,Birmingham,6
+Footway,200120E188101,2001,Birmingham,34
+Footway,200120E252503,2001,Birmingham,24
+Footway,200120F224601,2001,Birmingham,9
+Footway,200120F297701,2001,Birmingham,19
+Footway,200120G069401,2001,Wolverhampton,17
+Footway,200120H109902,2001,Walsall,5
+Footway,200120J091801,2001,Dudley,13
+Footway,200120J098001,2001,Dudley,13
+Footway,200120J100002,2001,Dudley,11
+Footway,200120J139302,2001,Dudley,20
+Footway,200120J151302,2001,Dudley,
+Footway,200120K099902,2001,Sandwell,11
+Footway,200120L231601,2001,Solihull,11
+Footway,200120L265401,2001,Solihull,18
+Footway,200120M073401,2001,Coventry,17
+Footway,200120M093602,2001,Coventry,17
+Footway,200120M108003,2001,Coventry,16
+Footway,2.00121E+12,2001,Staffordshire,13
+Footway,2.00121E+12,2001,Staffordshire,28
+Footway,2.00121E+12,2001,Staffordshire,9
+Footway,2.00121E+12,2001,Staffordshire,10
+Footway,200122AA18427,2001,Worcestershire,18
+Footway,200122AD16935,2001,Worcestershire,67
+Footway,200122BF20585,2001,Worcestershire,18
+Footway,200122CA22326,2001,Worcestershire,40
+Footway,200122FA24082,2001,Shropshire,45
+Footway,200130C000662,2001,Derbyshire,
+Footway,200130C000665,2001,Derbyshire,9
+Footway,200130D000011,2001,Derby,22
+Footway,200130D000344,2001,Derbyshire,8
+Footway,20013102C0935,2001,Nottinghamshire,9
+Footway,20013102E0945,2001,Nottinghamshire,7
+Footway,2.00133E+12,2001,Leicestershire,50
+Footway,2.00133E+12,2001,Leicestershire,25
+Footway,2.00133E+12,2001,Leicestershire,34
+Footway,2.00133E+12,2001,Leicestershire,13
+Footway,2.00133E+12,2001,Leicestershire,8
+Footway,2.00133E+12,2001,Leicestershire,12
+Footway,2.00133E+12,2001,Leicestershire,17
+Footway,2.00133E+12,2001,Leicestershire,42
+Footway,2.00133E+12,2001,Leicestershire,15
+Footway,2.00133E+12,2001,Leicestershire,11
+Footway,2.00133E+12,2001,Leicestershire,35
+Footway,200134NN01333,2001,Northamptonshire,23
+Footway,2.00135E+12,2001,Cambridgeshire,15
+Footway,2.00135E+12,2001,Cambridgeshire,26
+Footway,2.00135E+12,2001,Cambridgeshire,11
+Footway,2.00135E+12,2001,Cambridgeshire,37
+Footway,2.00135E+12,2001,Cambridgeshire,26
+Footway,2.00135E+12,2001,Cambridgeshire,6
+Footway,2.00135E+12,2001,Peterborough,18
+Footway,200136N010760,2001,Norfolk,
+Footway,200137B010075,2001,Suffolk,9
+Footway,200137B010432,2001,Suffolk,13
+Footway,200137B011431,2001,Suffolk,14
+Footway,200137G008199,2001,Suffolk,
+Footway,200137G008703,2001,Suffolk,11
+Footway,200137G008784,2001,Suffolk,8
+Footway,200137G009358,2001,Suffolk,15
+Footway,20014100A1081,2001,Hertfordshire,8
+Footway,20014100B0386,2001,Hertfordshire,8
+Footway,20014100C0235,2001,Hertfordshire,7
+Footway,20014100C0304,2001,Hertfordshire,10
+Footway,20014100C0422,2001,Hertfordshire,4
+Footway,20014100C0626,2001,Hertfordshire,13
+Footway,20014100D0218,2001,Hertfordshire,16
+Footway,20014100D0306,2001,Hertfordshire,13
+Footway,2.00E+41,2001,Hertfordshire,13
+Footway,20014100F0500,2001,Hertfordshire,13
+Footway,20014100G0246,2001,Hertfordshire,12
+Footway,20014200A0364,2001,Essex,7
+Footway,20014200A0515,2001,Essex,11
+Footway,20014200A0816,2001,Essex,
+Footway,20014200C0223,2001,Essex,14
+Footway,2.00E+270,2001,Essex,17
+Footway,20014200E0319,2001,Essex,
+Footway,20014200E0350,2001,Essex,11
+Footway,20014200F0673,2001,Thurrock,21
+Footway,20014200G0463,2001,Essex,28
+Footway,20014200H0102,2001,Southend on Sea,
+Footway,20014200H0364,2001,Southend on Sea,12
+Footway,20014200H0561,2001,Southend on Sea,26
+Footway,20014200J0008,2001,Essex,33
+Footway,200143N275111,2001,Buckinghamshire,11
+Footway,200143P035101,2001,Oxfordshire,
+Footway,200143P041121,2001,Oxfordshire,41
+Footway,200143P216031,2001,Oxfordshire,6
+Footway,200143P431071,2001,Oxfordshire,12
+Footway,200143S022081,2001,Milton Keynes,12
+Footway,200143W219031,2001,Wokingham,12
+Footway,200143W228081,2001,Reading,23
+Footway,200143W507111,2001,Wokingham,12
+Footway,200143W564031,2001,Wokingham,13
+Footway,200143W619051,2001,Slough,18
+Footway,2001440AA0544,2001,Hampshire,18
+Footway,2001440JW0052,2001,Hampshire,10
+Footway,2001440KK0945,2001,Portsmouth,15
+Footway,2001440KK1891,2001,Portsmouth,28
+Footway,2001440LA0405,2001,Hampshire,10
+Footway,2001440LA0441,2001,Hampshire,36
+Footway,2001440ST0086,2001,Southampton ,35
+Footway,2001440SY0446,2001,Southampton ,12
+Footway,2001440ZD0920,2001,Isle of Wight,14
+Footway,200145MA05115,2001,Surrey,24
+Footway,200145ME07925,2001,Surrey,11
+Footway,200145MW05594,2001,Surrey,11
+Footway,200145NS04863,2001,Surrey,34
+Footway,200145NW09626,2001,Surrey,10
+Footway,200145WF09923,2001,Surrey,
+Footway,200146WL37151,2001,Kent,11
+Footway,200147C134840,2001,Brighton and Hove,13
+Footway,200147S140700,2001,East Sussex,17
+Footway,200147T137929,2001,East Sussex,10
+Footway,200147T138641,2001,East Sussex,9
+Footway,200147X135617,2001,West Sussex,
+Footway,200147X145557,2001,West Sussex,57
+Footway,200150B512684,2001,Cornwall and Isles of Scilly,5
+Footway,200150B623112,2001,Cornwall and Isles of Scilly,15
+Footway,200150E211553,2001,Plymouth,42
+Footway,2.00152E+12,2001,City of Bristol,19
+Footway,2.00152E+12,2001,South Gloucestershire,62
+Footway,2.00152E+12,2001,City of Bristol,18
+Footway,2.00152E+12,2001,South Gloucestershire,16
+Footway,200152G123357,2001,Somerset,10
+Footway,200154AD26301,2001,Wiltshire,12
+Footway,200154DN43301,2001,Swindon,16
+Footway,2001550B00319,2001,Bournemouth,19
+Footway,2001550P02246,2001,Poole,17
+Footway,200201JI00665,2002,London,8
+Footway,200201JI00953,2002,London,13
+Footway,200201KD00716,2002,London,
+Footway,200201PY00596,2002,London,12
+Footway,200201RY00458,2002,London,20
+Footway,200201RY00740,2002,London,12
+Footway,200201RY00744,2002,London,14
+Footway,200201TX00462,2002,London,13
+Footway,200201TX01095,2002,London,62
+Footway,200201ZT00172,2002,London,31
+Footway,200204C095202,2002,Lancashire,11
+Footway,2.00205E+12,2002,Merseyside,34
+Footway,2.00205E+12,2002,Merseyside,7
+Footway,2.00205E+12,2002,Merseyside,41
+Footway,2.00205E+12,2002,Merseyside,44
+Footway,2.00205E+12,2002,Merseyside,13
+Footway,200205AW00037,2002,Merseyside,10
+Footway,200205AW00099,2002,Merseyside,11
+Footway,200205BS00075,2002,Merseyside,16
+Footway,200206A012525,2002,Manchester,26
+Footway,200206C019020,2002,Manchester,24
+Footway,200206C019352,2002,Manchester,12
+Footway,200206C019539,2002,Manchester,28
+Footway,200206C020165,2002,Manchester,22
+Footway,200206C021044,2002,Manchester,12
+Footway,200206F010790,2002,Salford,15
+Footway,200206F010918,2002,Salford,23
+Footway,200206J011146,2002,Stockport,3
+Footway,200206J012412,2002,Stockport,11
+Footway,200206N008324,2002,Bury,13
+Footway,200206P010068,2002,Rochdale,6
+Footway,2.00207E+12,2002,Cheshire West and Chester,14
+Footway,2.00207E+12,2002,Warrington,32
+Footway,2.00207E+12,2002,Cheshire West and Chester,22
+Footway,2.0021E+12,2002,Newcastle upon Tyne,14
+Footway,2.0021E+12,2002,South Tyneside,7
+Footway,200210I063902,2002,North Tyneside,7
+Footway,200210K168702,2002,Gateshead,11
+Footway,200211DJ30930,2002,Darlington,15
+Footway,2.00212E+12,2002,North Yorkshire,26
+Footway,2.00212E+12,2002,North Yorkshire,15
+Footway,2.00212E+12,2002,North Yorkshire,16
+Footway,2.00212E+12,2002,North Yorkshire,14
+Footway,2.00212E+12,2002,York,14
+Footway,2.00212E+12,2002,York,26
+Footway,2.00212E+12,2002,North Yorkshire,13
+Footway,2.00212E+12,2002,York,15
+Footway,2.00213E+12,2002,Bradford,11
+Footway,2.00213E+12,2002,Wakefield,31
+Footway,2.00213E+12,2002,Wakefield,6
+Footway,2.00213E+12,2002,Kirklees,14
+Footway,2.00213E+12,2002,Kirklees,33
+Footway,2.00213E+12,2002,Leeds,10
+Footway,200216B024402,2002,North Lincolnshire,8
+Footway,200216C094302,2002,East Riding of Yorkshire,15
+Footway,200217M100145,2002,Middlesbrough,11
+Footway,200220D054601,2002,Birmingham,14
+Footway,200220D091002,2002,Birmingham,10
+Footway,200220D185501,2002,Birmingham,44
+Footway,200220D268203,2002,Birmingham,15
+Footway,200220D337902,2002,Birmingham,12
+Footway,200220D410303,2002,Birmingham,30
+Footway,200220E031201,2002,Birmingham,8
+Footway,200220E091502,2002,Birmingham,8
+Footway,200220E165801,2002,Birmingham,14
+Footway,200220E225102,2002,Birmingham,67
+Footway,200220F073502,2002,Birmingham,15
+Footway,200220F129501,2002,Birmingham,41
+Footway,200220F289101,2002,Birmingham,23
+Footway,200220F314902,2002,Birmingham,21
+Footway,200220G049501,2002,Wolverhampton,13
+Footway,200220G075502,2002,Wolverhampton,16
+Footway,200220G075601,2002,Wolverhampton,29
+Footway,200220H049202,2002,Walsall,14
+Footway,200220H057002,2002,Walsall,13
+Footway,200220H079602,2002,Walsall,12
+Footway,200220J024902,2002,Dudley,39
+Footway,200220J074702,2002,Dudley,14
+Footway,200220J090302,2002,Dudley,31
+Footway,200220K046102,2002,Sandwell,14
+Footway,200220K090801,2002,Sandwell,14
+Footway,200220K117902,2002,Sandwell,17
+Footway,200220K128701,2002,Sandwell,11
+Footway,200220K133101,2002,Sandwell,22
+Footway,200220L217101,2002,Solihull,17
+Footway,200220M055003,2002,Coventry,21
+Footway,200220M059402,2002,Coventry,35
+Footway,2.00221E+12,2002,Staffordshire,14
+Footway,2.00221E+12,2002,Staffordshire,13
+Footway,2.00221E+12,2002,Staffordshire,18
+Footway,200222BE24101,2002,Worcestershire,20
+Footway,200222CA31226,2002,Worcestershire,16
+Footway,200222CF31814,2002,Worcestershire,55
+Footway,200222EG19657,2002,Herefordshire,14
+Footway,200222GB24728,2002,Telford and Wrekin,4
+Footway,200230A000427,2002,Derbyshire,12
+Footway,200232B098302,2002,Lincolnshire,9
+Footway,200232D141402,2002,Lincolnshire,20
+Footway,2.00233E+12,2002,Leicestershire,15
+Footway,2.00233E+12,2002,Leicestershire,19
+Footway,2.00233E+12,2002,Leicestershire,16
+Footway,2.00233E+12,2002,Leicestershire,14
+Footway,2.00233E+12,2002,Leicestershire,11
+Footway,2.00233E+12,2002,Leicestershire,16
+Footway,2.00233E+12,2002,Leicestershire,42
+Footway,2.00233E+12,2002,Leicestershire,14
+Footway,2.00233E+12,2002,Leicestershire,11
+Footway,2.00233E+12,2002,Leicestershire,19
+Footway,2.00233E+12,2002,Leicestershire,19
+Footway,2.00235E+12,2002,Cambridgeshire,55
+Footway,2.00235E+12,2002,Cambridgeshire,13
+Footway,2.00235E+12,2002,Cambridgeshire,13
+Footway,2.00235E+12,2002,Cambridgeshire,50
+Footway,2.00235E+12,2002,Cambridgeshire,12
+Footway,2.00235E+12,2002,Cambridgeshire,26
+Footway,2.00235E+12,2002,Cambridgeshire,
+Footway,2.00235E+12,2002,Cambridgeshire,14
+Footway,2.00235E+12,2002,Peterborough,14
+Footway,2.00235E+12,2002,Cambridgeshire,15
+Footway,2.00235E+12,2002,Cambridgeshire,45
+Footway,2.00235E+12,2002,Cambridgeshire,19
+Footway,200237B012871,2002,Suffolk,
+Footway,200237B014211,2002,Suffolk,16
+Footway,200237B014307,2002,Suffolk,9
+Footway,200237G009877,2002,Suffolk,44
+Footway,200237G010711,2002,Suffolk,
+Footway,200237G010927,2002,Suffolk,14
+Footway,200237G011230,2002,Suffolk,
+Footway,200237G011263,2002,Suffolk,12
+Footway,200237L006889,2002,Suffolk,16
+Footway,200237L007167,2002,Suffolk,11
+Footway,20024100A0734,2002,Hertfordshire,15
+Footway,20024100B0398,2002,Hertfordshire,13
+Footway,20024100B0561,2002,Hertfordshire,13
+Footway,20024100C0137,2002,Hertfordshire,36
+Footway,20024100C0182,2002,Hertfordshire,14
+Footway,20024100C0255,2002,Hertfordshire,13
+Footway,20024100C6000,2002,Hertfordshire,10
+Footway,20024100D0162,2002,Hertfordshire,12
+Footway,20024100D5225,2002,Hertfordshire,13
+Footway,20024100G0663,2002,Hertfordshire,10
+Footway,20024100J2280,2002,Hertfordshire,23
+Footway,20024100J2897,2002,Hertfordshire,12
+Footway,20024100K0121,2002,Hertfordshire,11
+Footway,20024100K0623,2002,Hertfordshire,10
+Footway,20024200A0197,2002,Essex,11
+Footway,20024200C0550,2002,Essex,25
+Footway,20024200D0236,2002,Essex,12
+Footway,20024200D0333,2002,Essex,7
+Footway,2.00E+181,2002,Essex,76
+Footway,20024200E0427,2002,Essex,72
+Footway,20024200F0701,2002,Thurrock,15
+Footway,20024200F0707,2002,Thurrock,7
+Footway,20024200G0637,2002,Essex,14
+Footway,20024200G0837,2002,Essex,29
+Footway,20024200H0224,2002,Southend on Sea,10
+Footway,20024200H0297,2002,Southend on Sea,13
+Footway,20024200H0301,2002,Southend on Sea,
+Footway,20024200H0594,2002,Southend on Sea,16
+Footway,200243N221072,2002,Buckinghamshire,18
+Footway,200243N264092,2002,Buckinghamshire,16
+Footway,200243N298082,2002,Buckinghamshire,8
+Footway,200243N328082,2002,Buckinghamshire,60
+Footway,200243N354092,2002,Buckinghamshire,15
+Footway,200243P038102,2002,Oxfordshire,20
+Footway,200243P099122,2002,Oxfordshire,39
+Footway,200243P250022,2002,Oxfordshire,15
+Footway,200243P446112,2002,Oxfordshire,20
+Footway,200243W040042,2002,Wokingham,9
+Footway,200243W099072,2002,Reading,16
+Footway,200243W401072,2002,Reading,27
+Footway,200243W649042,2002,Slough,17
+Footway,2002440AA0608,2002,Hampshire,7
+Footway,2002440DR0125,2002,Hampshire,19
+Footway,2002440HF0284,2002,Hampshire,11
+Footway,2002440JH0392,2002,Hampshire,16
+Footway,2002440JW0485,2002,Hampshire,8
+Footway,2002440OC0979,2002,Hampshire,14
+Footway,200245RN21815,2002,Surrey,
+Footway,200245RN26611,2002,Surrey,
+Footway,200245RN32933,2002,Surrey,23
+Footway,200245RW20435,2002,Surrey,13
+Footway,200246NK62001,2002,Kent,10
+Footway,200246TH63861,2002,Kent,27
+Footway,200247K149848,2002,West Sussex,15
+Footway,200247K150584,2002,West Sussex,12
+Footway,200247K153088,2002,East Sussex,60
+Footway,200247K153704,2002,East Sussex,12
+Footway,200247K154155,2002,West Sussex,33
+Footway,200247K156642,2002,Brighton and Hove,38
+Footway,200250B411830,2002,Cornwall and Isles of Scilly,11
+Footway,200250E211779,2002,Plymouth,14
+Footway,2.00252E+12,2002,City of Bristol,7
+Footway,2.00252E+12,2002,South Gloucestershire,9
+Footway,2.00252E+12,2002,South Gloucestershire,23
+Footway,2.00252E+12,2002,City of Bristol,9
+Footway,2.00252E+12,2002,South Gloucestershire,12
+Footway,2.00252E+12,2002,North Somerset,10
+Footway,200254DC49202,2002,Swindon,20
+Footway,200301GD00653,2003,London,21
+Footway,200301MM00292,2003,London,13
+Footway,200301RY00375,2003,London,10
+Footway,200301TD00147,2003,London,10
+Footway,200301VK00237,2003,London,13
+Footway,200301XS00894,2003,London,14
+Footway,200301YE00444,2003,London,11
+Footway,200304A031503,2003,Blackpool,11
+Footway,200304D036903,2003,Lancashire,18
+Footway,200304E016503,2003,Lancashire,19
+Footway,200305AW00051,2003,Merseyside,12
+Footway,200305AW00369,2003,Merseyside,32
+Footway,200305AW01216,2003,Merseyside,11
+Footway,200305BS00644,2003,Merseyside,5
+Footway,200305BS01271,2003,Merseyside,8
+Footway,200305CH00306,2003,Merseyside,27
+Footway,200305DH01081,2003,Merseyside,12
+Footway,200305ET00522,2003,Merseyside,14
+Footway,200305ET01438,2003,Merseyside,11
+Footway,200305ET01558,2003,Merseyside,43
+Footway,200306C022804,2003,Manchester,33
+Footway,200306C023121,2003,Manchester,15
+Footway,200306F012823,2003,Salford,9
+Footway,200306F013211,2003,Salford,12
+Footway,200306J013814,2003,Stockport,9
+Footway,200306K016131,2003,Bolton,12
+Footway,200306L014732,2003,Wigan,12
+Footway,200306M011460,2003,Trafford,12
+Footway,200306M012119,2003,Trafford,12
+Footway,2.00307E+12,2003,Cheshire East,41
+Footway,2.00307E+12,2003,Cheshire West and Chester,40
+Footway,2.00307E+12,2003,Halton,30
+Footway,2.0031E+12,2003,South Tyneside,11
+Footway,2.0031E+12,2003,Gateshead,12
+Footway,2.0031E+12,2003,South Tyneside,9
+Footway,2.0031E+12,2003,Northumberland,8
+Footway,2.0031E+12,2003,South Tyneside,10
+Footway,200311DJ15350,2003,Darlington,9
+Footway,2.00312E+12,2003,York,13
+Footway,2.00312E+12,2003,North Yorkshire,18
+Footway,2.00312E+12,2003,York,9
+Footway,2.00312E+12,2003,North Yorkshire,10
+Footway,2.00312E+12,2003,North Yorkshire,14
+Footway,2.00312E+12,2003,North Yorkshire,14
+Footway,2.00312E+12,2003,North Yorkshire,18
+Footway,2.00313E+12,2003,Calderdale,27
+Footway,2.00313E+12,2003,Kirklees,13
+Footway,2.00313E+12,2003,Leeds,20
+Footway,2.00313E+12,2003,Wakefield,12
+Footway,2.00313E+12,2003,Bradford,14
+Footway,2.00313E+12,2003,Leeds,10
+Footway,2.00313E+12,2003,Wakefield,12
+Footway,2.00313E+12,2003,Leeds,16
+Footway,2.00313E+12,2003,Leeds,35
+Footway,200316B021403,2003,North Lincolnshire,8
+Footway,2003170L31343,2003,Redcar and Cleveland,12
+Footway,2003170M12583,2003,Middlesbrough,5
+Footway,2003170M21083,2003,Middlesbrough,5
+Footway,200320D211802,2003,Birmingham,12
+Footway,200320D273001,2003,Birmingham,31
+Footway,200320D334902,2003,Birmingham,12
+Footway,200320D342502,2003,Birmingham,8
+Footway,200320E055101,2003,Birmingham,14
+Footway,200320E116302,2003,Birmingham,15
+Footway,200320E155401,2003,Birmingham,13
+Footway,200320E227902,2003,Birmingham,
+Footway,200320F297001,2003,Birmingham,27
+Footway,200320G073002,2003,Wolverhampton,15
+Footway,200320H049501,2003,Walsall,11
+Footway,200320H094602,2003,Walsall,14
+Footway,200320J032001,2003,Dudley,13
+Footway,200320J092402,2003,Dudley,18
+Footway,200320J104502,2003,Dudley,30
+Footway,200320J118201,2003,Dudley,13
+Footway,200320K043602,2003,Sandwell,44
+Footway,200320K120102,2003,Sandwell,34
+Footway,200320L083801,2003,Solihull,5
+Footway,200320L153201,2003,Solihull,20
+Footway,200320M064502,2003,Coventry,22
+Footway,200320M077501,2003,Coventry,7
+Footway,200320M079901,2003,Coventry,17
+Footway,2.00321E+12,2003,Stoke on Trent,
+Footway,2.00321E+12,2003,Staffordshire,15
+Footway,200322CA35254,2003,Worcestershire,27
+Footway,200322CA37075,2003,Worcestershire,17
+Footway,200322DE30470,2003,Worcestershire,15
+Footway,200330C000487,2003,Derbyshire,11
+Footway,20033102C2342,2003,Nottingham,30
+Footway,20033102D0640,2003,Nottinghamshire,20
+Footway,200332B074003,2003,Lincolnshire,15
+Footway,200332B171003,2003,Lincolnshire,9
+Footway,200332D196003,2003,Lincolnshire,
+Footway,2.00333E+12,2003,Leicestershire,27
+Footway,2.00333E+12,2003,Leicestershire,56
+Footway,2.00333E+12,2003,Leicestershire,18
+Footway,2.00333E+12,2003,Leicestershire,21
+Footway,2.00333E+12,2003,Leicestershire,14
+Footway,2.00333E+12,2003,Leicestershire,5
+Footway,2.00333E+12,2003,Leicestershire,12
+Footway,2.00333E+12,2003,Leicestershire,14
+Footway,2.00333E+12,2003,Leicestershire,12
+Footway,2.00333E+12,2003,Leicestershire,25
+Footway,2.00333E+12,2003,Leicestershire,15
+Footway,2.00335E+12,2003,Peterborough,18
+Footway,2.00335E+12,2003,Peterborough,14
+Footway,2.00335E+12,2003,Cambridgeshire,15
+Footway,2.00335E+12,2003,Cambridgeshire,11
+Footway,2.00335E+12,2003,Cambridgeshire,29
+Footway,2.00335E+12,2003,Cambridgeshire,30
+Footway,2.00335E+12,2003,Cambridgeshire,30
+Footway,2.00335E+12,2003,Cambridgeshire,21
+Footway,2.00335E+12,2003,Peterborough,27
+Footway,2.00335E+12,2003,Cambridgeshire,37
+Footway,2.00335E+12,2003,Cambridgeshire,17
+Footway,2.00335E+12,2003,Cambridgeshire,37
+Footway,2.00335E+12,2003,Cambridgeshire,4
+Footway,2.00335E+12,2003,Peterborough,24
+Footway,200336T030137,2003,Norfolk,20
+Footway,200337B017337,2003,Suffolk,12
+Footway,200337G012474,2003,Suffolk,
+Footway,200337G013601,2003,Suffolk,15
+Footway,200337G013782,2003,Suffolk,13
+Footway,200337G014062,2003,Suffolk,15
+Footway,200337L009133,2003,Suffolk,
+Footway,20034100A0071,2003,Hertfordshire,13
+Footway,20034100C0319,2003,Hertfordshire,23
+Footway,20034100C0478,2003,Hertfordshire,13
+Footway,20034100C0711,2003,Hertfordshire,12
+Footway,20034100C1033,2003,Hertfordshire,10
+Footway,20034100D0212,2003,Hertfordshire,11
+Footway,20034100D0364,2003,Hertfordshire,17
+Footway,20034100D0760,2003,Hertfordshire,15
+Footway,20034100F4907,2003,Hertfordshire,17
+Footway,20034100F4914,2003,Hertfordshire,18
+Footway,20034100F4977,2003,Hertfordshire,13
+Footway,20034100F5088,2003,Hertfordshire,55
+Footway,20034100F5253,2003,Hertfordshire,29
+Footway,20034100G0423,2003,Hertfordshire,16
+Footway,20034100K0108,2003,Hertfordshire,13
+Footway,20034100K0291,2003,Hertfordshire,37
+Footway,20034200A0220,2003,Essex,16
+Footway,20034200C0093,2003,Essex,11
+Footway,20034200D0161,2003,Essex,
+Footway,20034200E0310,2003,Essex,14
+Footway,20034200G0462,2003,Essex,56
+Footway,20034200H0214,2003,Southend on Sea,
+Footway,20034200H0479,2003,Southend on Sea,24
+Footway,20034200H0592,2003,Southend on Sea,21
+Footway,200343N165103,2003,Buckinghamshire,15
+Footway,200343P071053,2003,Oxfordshire,14
+Footway,200343P212053,2003,Oxfordshire,56
+Footway,200343S058093,2003,Milton Keynes,10
+Footway,200343S095113,2003,Milton Keynes,16
+Footway,200343S114053,2003,Milton Keynes,16
+Footway,200343W050113,2003,Wokingham,15
+Footway,200343W083083,2003,Slough,14
+Footway,200343W128033,2003,Bracknell Forest,
+Footway,200343W175083,2003,Reading,21
+Footway,200343W263063,2003,Reading,7
+Footway,200343W297063,2003,West Berkshire,12
+Footway,200343W349033,2003,Reading,14
+Footway,200343W406073,2003,Bracknell Forest,13
+Footway,200343W637063,2003,West Berkshire,
+Footway,200343W663053,2003,Reading,12
+Footway,2003440AA0570,2003,Hampshire,89
+Footway,2003440DT0121,2003,Hampshire,17
+Footway,2003440GG0262,2003,Hampshire,15
+Footway,2003440GG0284,2003,Hampshire,48
+Footway,2003440GG0286,2003,Hampshire,11
+Footway,2003440GG0372,2003,Hampshire,8
+Footway,2003440LH0121,2003,Hampshire,12
+Footway,2003440NA0375,2003,Hampshire,5
+Footway,2003440ST0423,2003,Southampton ,14
+Footway,200345EL42934,2003,Surrey,8
+Footway,200345RE38680,2003,Surrey,38
+Footway,200345RE40616,2003,Surrey,14
+Footway,200345RN44410,2003,Surrey,
+Footway,200345RS38485,2003,Surrey,13
+Footway,200347K159573,2003,West Sussex,15
+Footway,200347K161409,2003,West Sussex,17
+Footway,200347K162879,2003,West Sussex,87
+Footway,200347K163063,2003,West Sussex,24
+Footway,200347K163124,2003,Brighton and Hove,11
+Footway,200347K163455,2003,Brighton and Hove,50
+Footway,200347K166873,2003,West Sussex,10
+Footway,200347K167130,2003,Brighton and Hove,10
+Footway,200347K168026,2003,Brighton and Hove,20
+Footway,200347K169838,2003,West Sussex,12
+Footway,2.00352E+12,2003,City of Bristol,32
+Footway,2.00352E+12,2003,City of Bristol,17
+Footway,2.00352E+12,2003,North Somerset,12
+Footway,2.00352E+12,2003,South Gloucestershire,12
+Footway,2.00352E+12,2003,Somerset,40
+Footway,2.00352E+12,2003,City of Bristol,14
+Footway,2.00352E+12,2003,Somerset,15
+Footway,200354AD09603,2003,Wiltshire,51
+Footway,200354AM52503,2003,Wiltshire,11
+Footway,200354CP37803,2003,Wiltshire,12
+Footway,200354DC09003,2003,Swindon,20
+Footway,200354DC34003,2003,Swindon,30
+Footway,200354DE30903,2003,Swindon,11
+Footway,200354DE52103,2003,Swindon,17
+Footway,2003550P03616,2003,Poole,22
+Footway,200401HT00353,2004,London,13
+Footway,200401JC00383,2004,London,12
+Footway,200401JC00583,2004,London,7
+Footway,200401KG70013,2004,London,14
+Footway,200401MM70352,2004,London,7
+Footway,200401QA00456,2004,London,9
+Footway,200401XH00478,2004,London,
+Footway,200401XH00488,2004,London,12
+Footway,200401YF00192,2004,London,25
+Footway,200404B062804,2004,Lancashire,13
+Footway,200405CH00342,2004,Merseyside,15
+Footway,200405DH00614,2004,Merseyside,15
+Footway,200405ET02125,2004,Merseyside,7
+Footway,200405FT01102,2004,Merseyside,12
+Footway,200405FT01437,2004,Merseyside,13
+Footway,200406C025729,2004,Manchester,12
+Footway,200406C906778,2004,Manchester,38
+Footway,200406F014420,2004,Salford,13
+Footway,200406J905485,2004,Stockport,27
+Footway,200406K910889,2004,Bolton,13
+Footway,200406N010875,2004,Bury,13
+Footway,200406Q907899,2004,Oldham,19
+Footway,2.00407E+12,2004,Warrington,11
+Footway,2.00407E+12,2004,Cheshire West and Chester,15
+Footway,2.00407E+12,2004,Cheshire West and Chester,6
+Footway,2.00407E+12,2004,Halton,11
+Footway,2.00407E+12,2004,Halton,12
+Footway,2.00407E+12,2004,Cheshire West and Chester,5
+Footway,2.00407E+12,2004,Cheshire West and Chester,14
+Footway,2.0041E+12,2004,South Tyneside,13
+Footway,2.0041E+12,2004,Northumberland,4
+Footway,2.0041E+12,2004,Newcastle upon Tyne,12
+Footway,2.0041E+12,2004,North Tyneside,78
+Footway,2.00412E+12,2004,North Yorkshire,10
+Footway,2.00412E+12,2004,North Yorkshire,15
+Footway,2.00412E+12,2004,North Yorkshire,16
+Footway,2.00412E+12,2004,North Yorkshire,19
+Footway,2.00413E+12,2004,Wakefield,22
+Footway,2.00413E+12,2004,Bradford,34
+Footway,2.00413E+12,2004,Leeds,29
+Footway,2.00413E+12,2004,Leeds,13
+Footway,2004160B04430,2004,North Lincolnshire,63
+Footway,2004160D04890,2004,Kingston Upon Hull,17
+Footway,2004160D08670,2004,Kingston Upon Hull,25
+Footway,200420D285202,2004,Birmingham,19
+Footway,200420D338202,2004,Birmingham,12
+Footway,200420F079803,2004,Birmingham,15
+Footway,200420F123703,2004,Birmingham,36
+Footway,200420F208702,2004,Birmingham,22
+Footway,200420G011402,2004,Wolverhampton,
+Footway,200420G035601,2004,Wolverhampton,20
+Footway,200420G084601,2004,Wolverhampton,37
+Footway,200420H008602,2004,Walsall,15
+Footway,200420H041002,2004,Walsall,11
+Footway,200420H055901,2004,Walsall,13
+Footway,200420H080101,2004,Walsall,
+Footway,200420K103401,2004,Sandwell,17
+Footway,200420L053801,2004,Solihull,8
+Footway,200420L124001,2004,Solihull,45
+Footway,200420M059202,2004,Coventry,14
+Footway,200420M070403,2004,Coventry,14
+Footway,2.00421E+12,2004,Staffordshire,13
+Footway,2.00421E+12,2004,Staffordshire,13
+Footway,2.00421E+12,2004,Staffordshire,16
+Footway,200422CA40360,2004,Worcestershire,12
+Footway,200422DB35604,2004,Worcestershire,30
+Footway,200422DD36304,2004,Worcestershire,60
+Footway,200422EA27693,2004,Herefordshire,12
+Footway,200422FJ38395,2004,Shropshire,13
+Footway,20043102B1871,2004,Nottinghamshire,25
+Footway,20043108D3056,2004,Nottinghamshire,12
+Footway,20043108D4863,2004,Nottinghamshire,60
+Footway,200432B110504,2004,Lincolnshire,45
+Footway,200432B123204,2004,Lincolnshire,19
+Footway,200432B168604,2004,Lincolnshire,12
+Footway,200432B170504,2004,Lincolnshire,11
+Footway,200432C086304,2004,Lincolnshire,16
+Footway,200432C131504,2004,Lincolnshire,50
+Footway,200432D071504,2004,Lincolnshire,16
+Footway,2.00433E+12,2004,Leicestershire,18
+Footway,2.00433E+12,2004,Leicestershire,30
+Footway,2.00433E+12,2004,Leicestershire,10
+Footway,2.00433E+12,2004,Leicestershire,41
+Footway,2.00433E+12,2004,Leicestershire,12
+Footway,2.00433E+12,2004,Leicestershire,13
+Footway,2.00433E+12,2004,Rutland,37
+Footway,2.00433E+12,2004,Leicestershire,10
+Footway,2.00433E+12,2004,Leicestershire,12
+Footway,2.00433E+12,2004,Leicestershire,20
+Footway,2.00433E+12,2004,Leicestershire,10
+Footway,2.00433E+12,2004,Leicestershire,32
+Footway,2.00433E+12,2004,Leicestershire,40
+Footway,2.00433E+12,2004,Leicestershire,12
+Footway,2.00433E+12,2004,Rutland,32
+Footway,2.00435E+12,2004,Cambridgeshire,12
+Footway,2.00435E+12,2004,Cambridgeshire,20
+Footway,2.00435E+12,2004,Cambridgeshire,21
+Footway,2.00435E+12,2004,Cambridgeshire,21
+Footway,2.00435E+12,2004,Cambridgeshire,15
+Footway,2.00435E+12,2004,Cambridgeshire,5
+Footway,2.00435E+12,2004,Peterborough,8
+Footway,2.00435E+12,2004,Cambridgeshire,71
+Footway,2.00435E+12,2004,Cambridgeshire,21
+Footway,2.00435E+12,2004,Cambridgeshire,61
+Footway,2.00436E+12,2004,Norfolk,32
+Footway,200437B019932,2004,Suffolk,10
+Footway,200437G015272,2004,Suffolk,13
+Footway,200437G015354,2004,Suffolk,7
+Footway,200437G015388,2004,Suffolk,16
+Footway,200437G015532,2004,Suffolk,14
+Footway,200437L010056,2004,Suffolk,56
+Footway,20044100B0461,2004,Hertfordshire,23
+Footway,20044100B0597,2004,Hertfordshire,15
+Footway,20044100B1039,2004,Hertfordshire,15
+Footway,20044100C0677,2004,Hertfordshire,16
+Footway,20044100C0752,2004,Hertfordshire,19
+Footway,20044100C1215,2004,Hertfordshire,30
+Footway,20044100E0315,2004,Hertfordshire,26
+Footway,20044100F4959,2004,Hertfordshire,18
+Footway,20044100F5004,2004,Hertfordshire,14
+Footway,20044100F5014,2004,Hertfordshire,12
+Footway,20044100G0201,2004,Hertfordshire,37
+Footway,20044200B0115,2004,Essex,15
+Footway,20044200B0365,2004,Essex,
+Footway,20044200C0284,2004,Essex,24
+Footway,20044200H0164,2004,Southend on Sea,14
+Footway,20044200H0450,2004,Southend on Sea,13
+Footway,20044200J0302,2004,Essex,60
+Footway,200443N041124,2004,Buckinghamshire,26
+Footway,200443N132084,2004,Buckinghamshire,10
+Footway,200443P189094,2004,Oxfordshire,35
+Footway,200443P204034,2004,Oxfordshire,
+Footway,200443P267044,2004,West Berkshire,22
+Footway,200443P416044,2004,Oxfordshire,32
+Footway,200443S004074,2004,Milton Keynes,13
+Footway,200443S136084,2004,Milton Keynes,7
+Footway,200443W066084,2004,Windsor and Maidenhead,12
+Footway,200443W152034,2004,Windsor and Maidenhead,32
+Footway,200443W195074,2004,Reading,38
+Footway,200443W269074,2004,West Berkshire,25
+Footway,200443W286054,2004,Wokingham,26
+Footway,200443W357064,2004,Windsor and Maidenhead,24
+Footway,200443W419054,2004,Wokingham,17
+Footway,200443W630114,2004,Wokingham,14
+Footway,2004440AA0844,2004,Hampshire,14
+Footway,2004440DW0274,2004,Hampshire,10
+Footway,2004440KK0328,2004,Portsmouth,10
+Footway,2004440ST0467,2004,Southampton ,14
+Footway,200445EL53036,2004,Surrey,13
+Footway,200445GU47398,2004,Surrey,32
+Footway,200445RE50617,2004,Surrey,22
+Footway,200445RE61764,2004,Surrey,12
+Footway,200445RU52637,2004,Surrey,13
+Footway,200445SP50047,2004,Surrey,17
+Footway,200445SP58485,2004,Surrey,46
+Footway,200445SP59528,2004,Surrey,17
+Footway,200445SU59525,2004,Surrey,13
+Footway,200445WO57712,2004,Surrey,41
+Footway,200445WO61548,2004,Surrey,
+Footway,2.00446E+12,2004,Medway,11
+Footway,2.00446E+12,2004,Medway,24
+Footway,200447K170523,2004,East Sussex,34
+Footway,200447K176242,2004,West Sussex,14
+Footway,200447K176821,2004,West Sussex,26
+Footway,200447K176941,2004,East Sussex,11
+Footway,200447K178023,2004,West Sussex,8
+Footway,200447K179121,2004,West Sussex,40
+Footway,200447K181534,2004,East Sussex,17
+Footway,200450C43M930,2004,Devon,
+Footway,2.00452E+12,2004,City of Bristol,43
+Footway,2.00452E+12,2004,Bath and North East Somerset,8
+Footway,2.00452E+12,2004,City of Bristol,20
+Footway,2.00452E+12,2004,North Somerset,13
+Footway,2.00452E+12,2004,South Gloucestershire,12
+Footway,2.00452E+12,2004,North Somerset,5
+Footway,2.00452E+12,2004,City of Bristol,37
+Footway,2.00452E+12,2004,City of Bristol,47
+Footway,2.00452E+12,2004,City of Bristol,9
+Footway,2.00452E+12,2004,City of Bristol,11
+Footway,2004530AI1026,2004,Gloucestershire,43
+Footway,200454CM24404,2004,Wiltshire,16
+Footway,200454DC53804,2004,Swindon,60
+Footway,200454DH42304,2004,Swindon,77
+Footway,200501KD50608,2005,London,45
+Footway,200501RG40347,2005,London,12
+Footway,2.00503E+12,2005,Cumbria,45
+Footway,2.00503E+12,2005,Cumbria,16
+Footway,200504AL05033,2005,Lancashire,14
+Footway,200504B025205,2005,Lancashire,12
+Footway,200504BC05124,2005,Lancashire,13
+Footway,200504EL05033,2005,Lancashire,11
+Footway,200505BS00749,2005,Merseyside,6
+Footway,200505BS00753,2005,Merseyside,9
+Footway,200505FT00791,2005,Merseyside,11
+Footway,200506A037298,2005,Manchester,51
+Footway,200506A041984,2005,Manchester,10
+Footway,200506C028027,2005,Manchester,15
+Footway,200506C919262,2005,Manchester,30
+Footway,200506F037351,2005,Salford,13
+Footway,200506F919373,2005,Salford,15
+Footway,200506J030731,2005,Stockport,14
+Footway,200506J032636,2005,Stockport,13
+Footway,200506P035568,2005,Rochdale,21
+Footway,2.0051E+12,2005,Northumberland,10
+Footway,2.0051E+12,2005,South Tyneside,30
+Footway,2.0051E+12,2005,North Tyneside,14
+Footway,2.00512E+12,2005,York,14
+Footway,2.00512E+12,2005,York,48
+Footway,2.00512E+12,2005,North Yorkshire,11
+Footway,2.00512E+12,2005,North Yorkshire,13
+Footway,2.00513E+12,2005,Kirklees,16
+Footway,2.00513E+12,2005,Calderdale,12
+Footway,2.00513E+12,2005,Leeds,15
+Footway,2.00513E+12,2005,Kirklees,34
+Footway,2.00513E+12,2005,Wakefield,12
+Footway,2.00513E+12,2005,Leeds,14
+Footway,2.00513E+12,2005,Leeds,18
+Footway,2005160D04920,2005,Kingston Upon Hull,13
+Footway,200520D039603,2005,Birmingham,17
+Footway,200520D100903,2005,Birmingham,13
+Footway,200520D113402,2005,Birmingham,
+Footway,200520D291702,2005,Birmingham,13
+Footway,200520E092303,2005,Birmingham,30
+Footway,200520E097901,2005,Birmingham,
+Footway,200520F207502,2005,Birmingham,26
+Footway,200520F270402,2005,Birmingham,15
+Footway,200520G046402,2005,Wolverhampton,15
+Footway,200520G064602,2005,Wolverhampton,15
+Footway,200520G083702,2005,Wolverhampton,19
+Footway,200520H044002,2005,Walsall,13
+Footway,200520H074802,2005,Walsall,
+Footway,200520J007401,2005,Dudley,11
+Footway,200520J018102,2005,Dudley,14
+Footway,200520J061602,2005,Dudley,12
+Footway,200520J063802,2005,Dudley,15
+Footway,200520J068502,2005,Dudley,14
+Footway,200520J077201,2005,Dudley,
+Footway,200520L137101,2005,Solihull,6
+Footway,200520L158801,2005,Solihull,13
+Footway,200520L158901,2005,Solihull,43
+Footway,200520M041403,2005,Coventry,77
+Footway,200520M051603,2005,Coventry,18
+Footway,200520M055102,2005,Coventry,8
+Footway,2.00522E+12,2005,Stoke on Trent,22
+Footway,2.00522E+12,2005,Stoke on Trent,15
+Footway,2.00522E+12,2005,Staffordshire,20
+Footway,2.00522E+12,2005,Staffordshire,16
+Footway,2.00522E+12,2005,Staffordshire,20
+Footway,2.00522E+12,2005,Staffordshire,12
+Footway,2.00522E+12,2005,Staffordshire,11
+Footway,2.00522E+12,2005,Staffordshire,63
+Footway,200522EA32701,2005,Herefordshire,14
+Footway,200522EA32841,2005,Herefordshire,16
+Footway,200522FE46484,2005,Shropshire,43
+Footway,200522GB38733,2005,Telford and Wrekin,7
+Footway,2.00523E+12,2005,Warwickshire,
+Footway,200530D000819,2005,Derby,19
+Footway,20053102B2461,2005,Nottinghamshire,34
+Footway,20053102C1598,2005,Nottingham,15
+Footway,20053102C2813,2005,Nottingham,12
+Footway,200532B005905,2005,Lincolnshire,11
+Footway,200532B536805,2005,Lincolnshire,15
+Footway,200532C050505,2005,Lincolnshire,67
+Footway,200532C053705,2005,Lincolnshire,16
+Footway,200532C503605,2005,Lincolnshire,12
+Footway,200532C505905,2005,Lincolnshire,14
+Footway,200532D059005,2005,Lincolnshire,9
+Footway,200532D541205,2005,Lincolnshire,9
+Footway,2.00533E+12,2005,Leicestershire,27
+Footway,2.00533E+12,2005,Leicestershire,10
+Footway,2.00533E+12,2005,Leicestershire,40
+Footway,2.00533E+12,2005,Leicestershire,15
+Footway,2.00533E+12,2005,Leicestershire,10
+Footway,2.00533E+12,2005,Leicestershire,14
+Footway,2.00533E+12,2005,Leicestershire,10
+Footway,2.00533E+12,2005,Leicestershire,8
+Footway,2.00533E+12,2005,Leicestershire,12
+Footway,2.00533E+12,2005,Leicestershire,34
+Footway,2.00533E+12,2005,Leicestershire,11
+Footway,2.00533E+12,2005,Leicestershire,37
+Footway,2.00535E+12,2005,Cambridgeshire,16
+Footway,2.00535E+12,2005,Peterborough,27
+Footway,2.00535E+12,2005,Cambridgeshire,12
+Footway,2.00535E+12,2005,Cambridgeshire,45
+Footway,200537B022546,2005,Suffolk,15
+Footway,200537B022912,2005,Suffolk,12
+Footway,200537G016876,2005,Suffolk,14
+Footway,200537G018043,2005,Suffolk,13
+Footway,200537G018321,2005,Suffolk,16
+Footway,200537L012055,2005,Suffolk,17
+Footway,200540B026780,2005,Bedford Borough Council,16
+Footway,200540C019970,2005,Luton,16
+Footway,200540D027350,2005,Central Bedfordshire,10
+Footway,20054100A0120,2005,Hertfordshire,25
+Footway,20054100B0438,2005,Hertfordshire,30
+Footway,20054100B0484,2005,Hertfordshire,30
+Footway,20054100B0624,2005,Hertfordshire,22
+Footway,20054100B0973,2005,Hertfordshire,12
+Footway,20054100C0086,2005,Hertfordshire,11
+Footway,20054100D0659,2005,Hertfordshire,7
+Footway,20054100D0973,2005,Hertfordshire,35
+Footway,20054100F4461,2005,Hertfordshire,17
+Footway,20054100F4667,2005,Hertfordshire,7
+Footway,20054100F4693,2005,Hertfordshire,40
+Footway,20054100G0718,2005,Hertfordshire,11
+Footway,20054100G0818,2005,Hertfordshire,12
+Footway,200542A038307,2005,Essex,25
+Footway,200542A053609,2005,Essex,11
+Footway,200542B024407,2005,Essex,13
+Footway,200542C028405,2005,Essex,31
+Footway,200542C055809,2005,Essex,11
+Footway,200542D025308,2005,Essex,14
+Footway,200542E042309,2005,Essex,10
+Footway,200542G039106,2005,Essex,10
+Footway,200542H023005,2005,Southend on Sea,13
+Footway,200542H035308,2005,Southend on Sea,52
+Footway,200542J012704,2005,Essex,12
+Footway,200542J013903,2005,Essex,13
+Footway,200542J020606,2005,Essex,13
+Footway,200542J032908,2005,Essex,17
+Footway,200542J038209,2005,Essex,34
+Footway,200542J040209,2005,Essex,13
+Footway,200543N095065,2005,Buckinghamshire,16
+Footway,200543N140095,2005,Milton Keynes,12
+Footway,200543P202115,2005,Oxfordshire,11
+Footway,200543P338045,2005,Oxfordshire,49
+Footway,200543W281055,2005,Bracknell Forest,35
+Footway,200543W310045,2005,Reading,35
+Footway,200543W405105,2005,Reading,36
+Footway,200543W419085,2005,West Berkshire,9
+Footway,200543W457105,2005,West Berkshire,15
+Footway,2.00544E+12,2005,Hampshire,16
+Footway,2.00544E+12,2005,Hampshire,10
+Footway,2.00544E+12,2005,Hampshire,15
+Footway,2.00544E+12,2005,Hampshire,12
+Footway,200545EP70053,2005,Surrey,11
+Footway,200545EP70934,2005,Surrey,14
+Footway,200545GU63573,2005,Surrey,20
+Footway,200545GU66891,2005,Surrey,33
+Footway,200545RE69547,2005,Surrey,
+Footway,200545RE70782,2005,Surrey,9
+Footway,200545RE74906,2005,Surrey,
+Footway,200545SP66540,2005,Surrey,16
+Footway,200545SP80227,2005,Surrey,22
+Footway,200545SU70172,2005,Surrey,
+Footway,200545TA73838,2005,Surrey,9
+Footway,200545WA69436,2005,Surrey,6
+Footway,2.00546E+12,2005,Medway,14
+Footway,2.00546E+12,2005,Medway,10
+Footway,2.00546E+12,2005,Kent,44
+Footway,2.00546E+12,2005,Kent,
+Footway,2.00546E+12,2005,Kent,17
+Footway,2.00546E+12,2005,Kent,26
+Footway,2.00546E+12,2005,Kent,12
+Footway,2.00547E+12,2005,West Sussex,11
+Footway,2.00547E+12,2005,East Sussex,12
+Footway,2.00547E+12,2005,West Sussex,
+Footway,2.00547E+12,2005,West Sussex,12
+Footway,2.00547E+12,2005,East Sussex,13
+Footway,2.00547E+12,2005,West Sussex,11
+Footway,2.00547E+12,2005,Brighton and Hove,35
+Footway,2.00547E+12,2005,East Sussex,13
+Footway,2.00547E+12,2005,West Sussex,9
+Footway,2.00547E+12,2005,West Sussex,22
+Footway,2.00552E+12,2005,North Somerset,30
+Footway,2.00552E+12,2005,South Gloucestershire,13
+Footway,2.00552E+12,2005,Somerset,10
+Footway,2.00552E+12,2005,City of Bristol,12
+Footway,2.00552E+12,2005,South Gloucestershire,49
+Footway,2.00552E+12,2005,North Somerset,12
+Footway,2.00553E+12,2005,Gloucestershire,25
+Footway,2.00553E+12,2005,Gloucestershire,20
+Footway,200554CW41205,2005,Wiltshire,11
+Footway,2005555B04479,2005,Bournemouth,34
+Footway,2005555B04820,2005,Bournemouth,13
+Footway,2005555B05650,2005,Bournemouth,7
+Footway,200601ZT80409,2006,London,14
+Footway,2.00603E+12,2006,Cumbria,5
+Footway,2.00603E+12,2006,Cumbria,7
+Footway,200604AL06025,2006,Lancashire,12
+Footway,200604AN06057,2006,Blackpool,12
+Footway,200604AN06093,2006,Blackpool,22
+Footway,200604AX06014,2006,Blackpool,36
+Footway,200604CA06050,2006,Lancashire,22
+Footway,200604CK06194,2006,Lancashire,14
+Footway,200604DF06094,2006,Lancashire,16
+Footway,200604EA06145,2006,Blackburn with Darwen,15
+Footway,200604EN06024,2006,Lancashire,24
+Footway,200605AA09873,2006,Merseyside,13
+Footway,200605BB07493,2006,Merseyside,16
+Footway,200605BB11325,2006,Merseyside,10
+Footway,200606B049001,2006,Manchester,12
+Footway,200606B050994,2006,Manchester,7
+Footway,200606B056328,2006,Manchester,12
+Footway,200606B060177,2006,Manchester,8
+Footway,200606C057148,2006,Manchester,16
+Footway,200606F047822,2006,Salford,15
+Footway,200606J048119,2006,Stockport,12
+Footway,200606K052782,2006,Bolton,11
+Footway,200606N043768,2006,Bury,46
+Footway,200606N044761,2006,Bury,7
+Footway,2.0061E+12,2006,Northumberland,8
+Footway,2.0061E+12,2006,Newcastle upon Tyne,7
+Footway,200611CH04690,2006,Durham,12
+Footway,2.00612E+12,2006,North Yorkshire,9
+Footway,2.00612E+12,2006,North Yorkshire,16
+Footway,2.00612E+12,2006,North Yorkshire,8
+Footway,2.00612E+12,2006,York,21
+Footway,2.00612E+12,2006,York,10
+Footway,2.00612E+12,2006,York,30
+Footway,2.00613E+12,2006,Bradford,10
+Footway,2.00613E+12,2006,Leeds,11
+Footway,2.00613E+12,2006,Bradford,7
+Footway,2.00613E+12,2006,Leeds,34
+Footway,2.00613E+12,2006,Wakefield,11
+Footway,2.00613E+12,2006,Leeds,13
+Footway,2.00613E+12,2006,Wakefield,18
+Footway,2.00613E+12,2006,Kirklees,11
+Footway,2.00613E+12,2006,Bradford,27
+Footway,200620D117602,2006,Birmingham,14
+Footway,200620D274202,2006,Birmingham,6
+Footway,200620D338902,2006,Birmingham,20
+Footway,200620D547103,2006,Birmingham,28
+Footway,200620F057903,2006,Birmingham,
+Footway,200620G068502,2006,Wolverhampton,10
+Footway,200620H048502,2006,Walsall,11
+Footway,200620H050501,2006,Walsall,51
+Footway,200620H064502,2006,Walsall,14
+Footway,200620J007802,2006,Dudley,55
+Footway,200620J043001,2006,Dudley,13
+Footway,200620J065702,2006,Dudley,16
+Footway,200620L101701,2006,Solihull,5
+Footway,200620M036102,2006,Coventry,
+Footway,2.00622E+12,2006,Staffordshire,14
+Footway,2.00622E+12,2006,Staffordshire,7
+Footway,2.00622E+12,2006,Staffordshire,15
+Footway,2.00622E+12,2006,Staffordshire,17
+Footway,2.00622E+12,2006,Staffordshire,60
+Footway,2.00622E+12,2006,Staffordshire,20
+Footway,2.00622E+12,2006,Staffordshire,17
+Footway,2.00622E+12,2006,Staffordshire,29
+Footway,200622CA52081,2006,Worcestershire,4
+Footway,200630A000055,2006,Derbyshire,26
+Footway,200630A000319,2006,Derbyshire,8
+Footway,200630D000048,2006,Derby,41
+Footway,200630D000107,2006,Derby,
+Footway,200630D000647,2006,Derby,
+Footway,20063102A0502,2006,Nottinghamshire,22
+Footway,20063102A0620,2006,Nottinghamshire,23
+Footway,20063102A0623,2006,Nottinghamshire,25
+Footway,20063102B2703,2006,Nottinghamshire,10
+Footway,20063102B2857,2006,Nottinghamshire,28
+Footway,20063102B3379,2006,Nottinghamshire,12
+Footway,20063102B3860,2006,Nottinghamshire,
+Footway,20063102D0205,2006,Nottinghamshire,18
+Footway,20063102D1889,2006,Nottinghamshire,26
+Footway,20063102D2101,2006,Nottinghamshire,
+Footway,200632B151406,2006,Lincolnshire,4
+Footway,200632B408706,2006,Lincolnshire,11
+Footway,200632C222406,2006,Lincolnshire,21
+Footway,200632C281106,2006,Lincolnshire,12
+Footway,200632C313606,2006,Lincolnshire,16
+Footway,200632D094606,2006,Lincolnshire,38
+Footway,200632D114506,2006,Lincolnshire,5
+Footway,200632D132506,2006,Lincolnshire,12
+Footway,200632D172206,2006,Lincolnshire,8
+Footway,200632D178606,2006,Lincolnshire,15
+Footway,2.00633E+12,2006,Leicestershire,14
+Footway,2.00633E+12,2006,Leicestershire,15
+Footway,2.00633E+12,2006,Leicestershire,16
+Footway,2.00633E+12,2006,Leicestershire,12
+Footway,2.00633E+12,2006,Leicestershire,15
+Footway,2.00633E+12,2006,Leicestershire,12
+Footway,2.00633E+12,2006,Leicestershire,37
+Footway,200634NC01446,2006,Northamptonshire,24
+Footway,200634NW05410,2006,Northamptonshire,15
+Footway,200634WN05012,2006,Northamptonshire,11
+Footway,2.00635E+12,2006,Peterborough,8
+Footway,2.00635E+12,2006,Cambridgeshire,56
+Footway,2.00635E+12,2006,Peterborough,20
+Footway,2.00635E+12,2006,Cambridgeshire,54
+Footway,2.00635E+12,2006,Peterborough,21
+Footway,2.00635E+12,2006,Cambridgeshire,17
+Footway,2.00635E+12,2006,Cambridgeshire,8
+Footway,2.00635E+12,2006,Peterborough,15
+Footway,2.00636E+12,2006,Norfolk,11
+Footway,2.00636E+12,2006,Norfolk,14
+Footway,2.00636E+12,2006,Norfolk,13
+Footway,200637B024433,2006,Suffolk,13
+Footway,200637B025488,2006,Suffolk,14
+Footway,200637B026239,2006,Suffolk,9
+Footway,200637B026721,2006,Suffolk,30
+Footway,200637G020148,2006,Suffolk,7
+Footway,200640D017510,2006,Central Bedfordshire,13
+Footway,20064100A0642,2006,Hertfordshire,6
+Footway,20064100B0282,2006,Hertfordshire,28
+Footway,20064100B0423,2006,Hertfordshire,19
+Footway,20064100B0638,2006,Hertfordshire,36
+Footway,20064100B0845,2006,Hertfordshire,60
+Footway,20064100C0603,2006,Hertfordshire,11
+Footway,20064100C0723,2006,Hertfordshire,7
+Footway,20064100C1028,2006,Hertfordshire,18
+Footway,20064100C1263,2006,Hertfordshire,5
+Footway,20064100G0461,2006,Hertfordshire,39
+Footway,20064100G0818,2006,Hertfordshire,12
+Footway,20064100J2440,2006,Hertfordshire,56
+Footway,200642C012402,2006,Essex,5
+Footway,200642H010303,2006,Southend on Sea,14
+Footway,200642H016205,2006,Southend on Sea,19
+Footway,200642I314208,2006,Southend on Sea,60
+Footway,200642I334608,2006,Southend on Sea,53
+Footway,200642I355509,2006,Southend on Sea,34
+Footway,200642I381909,2006,Southend on Sea,17
+Footway,200642I387809,2006,Essex,28
+Footway,200642I397910,2006,Southend on Sea,16
+Footway,200642I492411,2006,Essex,12
+Footway,200642J023106,2006,Essex,16
+Footway,200643N100106,2006,Buckinghamshire,11
+Footway,200643N169066,2006,Buckinghamshire,32
+Footway,200643N189096,2006,Buckinghamshire,29
+Footway,200643P169016,2006,Oxfordshire,24
+Footway,200643P230116,2006,Oxfordshire,12
+Footway,200643P306026,2006,Oxfordshire,26
+Footway,200643P321016,2006,Oxfordshire,15
+Footway,200643R068116,2006,Slough,14
+Footway,200643W186086,2006,Reading,40
+Footway,2.00644E+12,2006,Portsmouth,11
+Footway,2.00644E+12,2006,Hampshire,12
+Footway,2.00644E+12,2006,Hampshire,15
+Footway,2.00644E+12,2006,Hampshire,11
+Footway,2.00644E+12,2006,Southampton ,22
+Footway,2.00644E+12,2006,Southampton ,8
+Footway,2.00644E+12,2006,Hampshire,5
+Footway,2.00644E+12,2006,Hampshire,13
+Footway,2.00644E+12,2006,Southampton ,25
+Footway,2.00644E+12,2006,Hampshire,16
+Footway,2.00644E+12,2006,Hampshire,12
+Footway,200645EL86691,2006,Surrey,13
+Footway,200645EL95022,2006,Surrey,52
+Footway,200645EP88661,2006,Surrey,22
+Footway,200645GU88718,2006,Surrey,
+Footway,200645RE92378,2006,Surrey,26
+Footway,200645SP80693,2006,Surrey,15
+Footway,200645SU85423,2006,Surrey,13
+Footway,200645TA90213,2006,Surrey,32
+Footway,200645TA90980,2006,Surrey,63
+Footway,200645WO83748,2006,Surrey,18
+Footway,200645WO95188,2006,Surrey,26
+Footway,2.00646E+12,2006,Kent,13
+Footway,2.00646E+12,2006,Kent,76
+Footway,2.00646E+12,2006,Kent,11
+Footway,2.00646E+12,2006,Kent,13
+Footway,2.00646E+12,2006,Kent,12
+Footway,2.00646E+12,2006,Kent,29
+Footway,2.00647E+12,2006,West Sussex,16
+Footway,2.00647E+12,2006,West Sussex,25
+Footway,2.00647E+12,2006,East Sussex,14
+Footway,2.00647E+12,2006,West Sussex,25
+Footway,2.00647E+12,2006,Brighton and Hove,20
+Footway,2.00647E+12,2006,West Sussex,18
+Footway,2.00652E+12,2006,Somerset,13
+Footway,2.00652E+12,2006,North Somerset,16
+Footway,2.00652E+12,2006,South Gloucestershire,14
+Footway,2.00652E+12,2006,City of Bristol,10
+Footway,2.00653E+12,2006,Gloucestershire,21
+Footway,2006556B00827,2006,Bournemouth,10
+Footway,2006556B02672,2006,Bournemouth,10
+Footway,2006556B03307,2006,Bournemouth,23
+Footway,200701JC64937,2007,London,10
+Footway,200701JC66885,2007,London,44
+Footway,200701ZD30729,2007,London,15
+Footway,200701ZT80222,2007,London,11
+Footway,2.00703E+12,2007,Cumbria,14
+Footway,2.00703E+12,2007,Cumbria,15
+Footway,200704BB07060,2007,Lancashire,11
+Footway,200704CC07077,2007,Lancashire,21
+Footway,200704FG07112,2007,Lancashire,44
+Footway,200705AA18525,2007,Merseyside,23
+Footway,200705BB15641,2007,Merseyside,40
+Footway,200705BB18858,2007,Merseyside,12
+Footway,200705CC17927,2007,Merseyside,7
+Footway,200705EE20340,2007,Merseyside,17
+Footway,200706B081698,2007,Manchester,27
+Footway,200706F069842,2007,Salford,18
+Footway,200706F080252,2007,Salford,16
+Footway,200706J071246,2007,Stockport,15
+Footway,200706L072904,2007,Wigan,11
+Footway,200706M076726,2007,Trafford,10
+Footway,200706P070664,2007,Rochdale,14
+Footway,2.00707E+12,2007,Cheshire West and Chester,19
+Footway,2.00707E+12,2007,Cheshire West and Chester,13
+Footway,2.0071E+12,2007,Newcastle upon Tyne,13
+Footway,2.0071E+12,2007,South Tyneside,12
+Footway,2.0071E+12,2007,Gateshead,26
+Footway,2.0071E+12,2007,Newcastle upon Tyne,22
+Footway,200711DJ03330,2007,Darlington,24
+Footway,2.00712E+12,2007,York,50
+Footway,2.00713E+12,2007,Bradford,13
+Footway,2.00713E+12,2007,Bradford,8
+Footway,2.00713E+12,2007,Kirklees,12
+Footway,2.00713E+12,2007,Leeds,16
+Footway,2.00713E+12,2007,Kirklees,38
+Footway,2.00713E+12,2007,Kirklees,11
+Footway,2.00713E+12,2007,Wakefield,11
+Footway,200714A089107,2007,Doncaster,16
+Footway,200714A225007,2007,Doncaster,17
+Footway,200714C002307,2007,Rotherham,17
+Footway,200714C121107,2007,Rotherham,12
+Footway,2007160A02220,2007,North East Lincolnshire,14
+Footway,2007160A03940,2007,North East Lincolnshire,15
+Footway,2007160B03120,2007,North Lincolnshire,47
+Footway,2007160C06070,2007,East Riding of Yorkshire,14
+Footway,200720D065901,2007,Birmingham,15
+Footway,200720D141902,2007,Birmingham,16
+Footway,200720D546302,2007,Birmingham,25
+Footway,200720E088501,2007,Birmingham,26
+Footway,200720G004302,2007,Wolverhampton,26
+Footway,200720G074202,2007,Wolverhampton,19
+Footway,200720G083201,2007,Wolverhampton,13
+Footway,200720H021802,2007,Walsall,8
+Footway,200720J025202,2007,Dudley,15
+Footway,200720J081301,2007,Dudley,12
+Footway,200720K070301,2007,Sandwell,15
+Footway,200720K097802,2007,Sandwell,21
+Footway,200720L048501,2007,Solihull,17
+Footway,200720L153401,2007,Solihull,
+Footway,200720M017503,2007,Coventry,12
+Footway,2.00722E+12,2007,Staffordshire,8
+Footway,2.00722E+12,2007,Staffordshire,14
+Footway,2.00722E+12,2007,Staffordshire,17
+Footway,2.00722E+12,2007,Staffordshire,32
+Footway,2.00722E+12,2007,Staffordshire,9
+Footway,2.00722E+12,2007,Staffordshire,14
+Footway,2.00722E+12,2007,Staffordshire,17
+Footway,200722CA85974,2007,Worcestershire,29
+Footway,200722FA85964,2007,Shropshire,14
+Footway,200722GA85269,2007,Telford and Wrekin,13
+Footway,2.00723E+12,2007,Warwickshire,17
+Footway,2.00723E+12,2007,Warwickshire,14
+Footway,2.00723E+12,2007,Warwickshire,20
+Footway,200730A000084,2007,Derbyshire,12
+Footway,200730A000177,2007,Derbyshire,9
+Footway,200730A000317,2007,Derbyshire,14
+Footway,200730A000526,2007,Derbyshire,22
+Footway,200730C000301,2007,Derbyshire,15
+Footway,200730C000352,2007,Derbyshire,
+Footway,200730D000159,2007,Derby,71
+Footway,200730D000235,2007,Derbyshire,12
+Footway,200730D000261,2007,Derbyshire,11
+Footway,200730D000288,2007,Derby,21
+Footway,200730D000833,2007,Derbyshire,13
+Footway,20073102A3047,2007,Nottinghamshire,57
+Footway,20073102A3656,2007,Nottinghamshire,21
+Footway,20073102C0731,2007,Nottingham,26
+Footway,20073102C1781,2007,Nottingham,16
+Footway,20073102D2349,2007,Nottinghamshire,17
+Footway,200732B130607,2007,Lincolnshire,9
+Footway,200732C262107,2007,Lincolnshire,14
+Footway,200732D118107,2007,Lincolnshire,17
+Footway,2.00733E+12,2007,Leicestershire,16
+Footway,2.00733E+12,2007,Leicestershire,12
+Footway,2.00733E+12,2007,Leicestershire,60
+Footway,2.00733E+12,2007,Leicestershire,15
+Footway,2.00733E+12,2007,Leicestershire,43
+Footway,2.00733E+12,2007,Leicestershire,12
+Footway,2.00733E+12,2007,Leicestershire,31
+Footway,2.00733E+12,2007,Leicestershire,14
+Footway,2.00733E+12,2007,Leicestershire,17
+Footway,2.00733E+12,2007,Leicestershire,11
+Footway,2.00733E+12,2007,Leicestershire,53
+Footway,2.00733E+12,2007,Leicestershire,
+Footway,2.00733E+12,2007,Leicestershire,13
+Footway,2.00733E+12,2007,Leicestershire,30
+Footway,2.00733E+12,2007,Leicestershire,20
+Footway,2.00733E+12,2007,Leicestershire,14
+Footway,2.00733E+12,2007,Leicestershire,50
+Footway,2.00733E+12,2007,Leicestershire,9
+Footway,2.00733E+12,2007,Leicestershire,15
+Footway,200734WD35937,2007,Northamptonshire,12
+Footway,2.00735E+12,2007,Peterborough,11
+Footway,2.00735E+12,2007,Cambridgeshire,30
+Footway,2.00735E+12,2007,Peterborough,18
+Footway,2.00735E+12,2007,Cambridgeshire,12
+Footway,2.00735E+12,2007,Cambridgeshire,5
+Footway,2.00735E+12,2007,Cambridgeshire,48
+Footway,2.00735E+12,2007,Cambridgeshire,8
+Footway,2.00735E+12,2007,Cambridgeshire,33
+Footway,2.00735E+12,2007,Cambridgeshire,13
+Footway,2.00735E+12,2007,Peterborough,12
+Footway,2.00735E+12,2007,Cambridgeshire,18
+Footway,2.00736E+12,2007,Norfolk,12
+Footway,2.00736E+12,2007,Norfolk,9
+Footway,2.00736E+12,2007,Norfolk,15
+Footway,200736T070222,2007,Norfolk,27
+Footway,200737G022646,2007,Suffolk,23
+Footway,200737G022876,2007,Suffolk,12
+Footway,200737G023028,2007,Suffolk,21
+Footway,200737G023161,2007,Suffolk,16
+Footway,200737G023350,2007,Suffolk,53
+Footway,200737L014968,2007,Suffolk,23
+Footway,2007400C03444,2007,Luton,16
+Footway,20074100B0309,2007,Hertfordshire,15
+Footway,20074100B0354,2007,Hertfordshire,14
+Footway,20074100C0287,2007,Hertfordshire,10
+Footway,20074100D0165,2007,Hertfordshire,59
+Footway,20074100G0151,2007,Hertfordshire,13
+Footway,20074100J2317,2007,Hertfordshire,11
+Footway,20074100J2540,2007,Hertfordshire,23
+Footway,200742I005401,2007,Southend on Sea,18
+Footway,200742I143604,2007,Essex,14
+Footway,200742I171005,2007,Essex,18
+Footway,200742I177205,2007,Essex,15
+Footway,200742I181105,2007,Southend on Sea,12
+Footway,200742I191005,2007,Thurrock,10
+Footway,200742I231106,2007,Southend on Sea,16
+Footway,200742I265907,2007,Essex,12
+Footway,200742I330008,2007,Essex,11
+Footway,200742I386409,2007,Essex,14
+Footway,200742I387409,2007,Southend on Sea,16
+Footway,200742I408310,2007,Essex,14
+Footway,200742I424310,2007,Southend on Sea,12
+Footway,200742I456311,2007,Essex,21
+Footway,200743N043077,2007,Buckinghamshire,10
+Footway,200743N220067,2007,Buckinghamshire,41
+Footway,200743N274097,2007,Buckinghamshire,17
+Footway,200743P336047,2007,Oxfordshire,13
+Footway,200743R148037,2007,West Berkshire,3
+Footway,200743S150037,2007,Milton Keynes,15
+Footway,200743W231077,2007,Reading,11
+Footway,200743W257057,2007,Reading,15
+Footway,200743W277107,2007,Reading,15
+Footway,2.00744E+12,2007,Southampton ,28
+Footway,2.00744E+12,2007,Hampshire,7
+Footway,2.00744E+12,2007,Hampshire,55
+Footway,2.00744E+12,2007,Hampshire,16
+Footway,2.00744E+12,2007,Southampton ,9
+Footway,2.00744E+12,2007,Hampshire,16
+Footway,2.00744E+12,2007,Hampshire,15
+Footway,2.00744E+12,2007,Hampshire,10
+Footway,2.00744E+12,2007,Hampshire,20
+Footway,2.00744E+12,2007,Hampshire,56
+Footway,2.00744E+12,2007,Hampshire,20
+Footway,2.00744E+12,2007,Portsmouth,31
+Footway,2.00744E+12,2007,Isle of Wight,10
+Footway,2.00744E+12,2007,Southampton ,29
+Footway,2.00744E+12,2007,Hampshire,11
+Footway,2.00744E+12,2007,Southampton ,25
+Footway,2.00744E+12,2007,Hampshire,20
+Footway,200745EL05623,2007,Surrey,13
+Footway,200745EP03730,2007,Surrey,17
+Footway,200745RE05636,2007,Surrey,8
+Footway,200745RE07189,2007,Surrey,23
+Footway,200745RE13730,2007,Surrey,62
+Footway,200745RE13769,2007,Surrey,28
+Footway,200745RE99374,2007,Surrey,18
+Footway,200745SU12894,2007,Surrey,20
+Footway,2.00746E+12,2007,Medway,13
+Footway,2.00746E+12,2007,Kent,16
+Footway,2.00746E+12,2007,Kent,11
+Footway,2.00747E+12,2007,West Sussex,12
+Footway,2.00747E+12,2007,West Sussex,15
+Footway,2.00747E+12,2007,West Sussex,14
+Footway,2.00747E+12,2007,East Sussex,15
+Footway,2.00747E+12,2007,West Sussex,8
+Footway,200750C23E238,2007,Devon,21
+Footway,200750E21J367,2007,Plymouth,12
+Footway,2.00752E+12,2007,Somerset,15
+Footway,2.00753E+12,2007,Gloucestershire,16
+Footway,2.00753E+12,2007,Gloucestershire,21
+Footway,2.00753E+12,2007,Gloucestershire,25
+Footway,200754EP34207,2007,Wiltshire,17
+Footway,2007557B05619,2007,Bournemouth,29
+Footway,2007557E04921,2007,Dorset,24
+Footway,2007557P01714,2007,Poole,50
+Footway,2007557P02997,2007,Poole,25
+Footway,2007557P04896,2007,Poole,14
+Footway,2007557W02931,2007,Dorset,15
+Footway,200801KD69879,2008,London,8
+Footway,200801KD73743,2008,London,12
+Footway,200801KD75195,2008,London,
+Footway,200801PL60083,2008,London,32
+Footway,2.00803E+12,2008,Cumbria,67
+Footway,2.00803E+12,2008,Cumbria,10
+Footway,2.00803E+12,2008,Cumbria,6
+Footway,200804AL08119,2008,Lancashire,57
+Footway,200804AL08228,2008,Lancashire,23
+Footway,200804AX08043,2008,Blackpool,19
+Footway,200804BC08102,2008,Lancashire,11
+Footway,200804BC08152,2008,Blackpool,57
+Footway,200804DL08063,2008,Lancashire,16
+Footway,200804DL08127,2008,Lancashire,14
+Footway,200804EB08029,2008,Blackburn with Darwen,12
+Footway,200804FA08093,2008,Lancashire,12
+Footway,200804FA08168,2008,Lancashire,13
+Footway,200805BB27266,2008,Merseyside,33
+Footway,200806C096470,2008,Manchester,13
+Footway,200806C099036,2008,Manchester,7
+Footway,200806J092251,2008,Stockport,44
+Footway,200806K096866,2008,Bolton,10
+Footway,200806L090679,2008,Wigan,30
+Footway,200806M096768,2008,Trafford,9
+Footway,200806N007197,2008,Bury,17
+Footway,200806Q097410,2008,Oldham,7
+Footway,2.00807E+12,2008,Cheshire East,14
+Footway,2.00807E+12,2008,Cheshire West and Chester,28
+Footway,2.00807E+12,2008,Warrington,22
+Footway,2.0081E+12,2008,South Tyneside,7
+Footway,2.0081E+12,2008,North Tyneside,15
+Footway,200811SJ14358,2008,Darlington,8
+Footway,2.00813E+12,2008,Leeds,13
+Footway,2.00813E+12,2008,Bradford,14
+Footway,200814B082708,2008,Barnsley,12
+Footway,200814C075508,2008,Rotherham,10
+Footway,200814C080408,2008,Rotherham,39
+Footway,200814H025208,2008,Sheffield,18
+Footway,200814K036808,2008,Sheffield,9
+Footway,2008160A00850,2008,North East Lincolnshire,38
+Footway,2008160A05180,2008,North East Lincolnshire,15
+Footway,2008160C05180,2008,East Riding of Yorkshire,12
+Footway,200820D091601,2008,Birmingham,28
+Footway,200820D112703,2008,Birmingham,12
+Footway,200820D210802,2008,Birmingham,10
+Footway,200820D218902,2008,Birmingham,10
+Footway,200820D231703,2008,Birmingham,11
+Footway,200820E016301,2008,Birmingham,15
+Footway,200820E128102,2008,Birmingham,15
+Footway,200820E129203,2008,Birmingham,14
+Footway,200820E162901,2008,Birmingham,35
+Footway,200820E174401,2008,Birmingham,32
+Footway,200820G041801,2008,Wolverhampton,19
+Footway,200820G051202,2008,Wolverhampton,24
+Footway,200820H032201,2008,Walsall,16
+Footway,200820J024702,2008,Dudley,
+Footway,200820J039901,2008,Dudley,16
+Footway,200820J042802,2008,Dudley,
+Footway,200820J054401,2008,Dudley,13
+Footway,200820J062002,2008,Dudley,15
+Footway,200820K069502,2008,Sandwell,12
+Footway,200820K081101,2008,Sandwell,21
+Footway,200820L084801,2008,Solihull,27
+Footway,200820L104001,2008,Solihull,39
+Footway,200820L121201,2008,Solihull,16
+Footway,200820L122901,2008,Solihull,11
+Footway,200820L184601,2008,Solihull,14
+Footway,200820L188301,2008,Solihull,47
+Footway,200820M021801,2008,Coventry,18
+Footway,200820M030602,2008,Coventry,33
+Footway,200820M061201,2008,Coventry,13
+Footway,2.00822E+12,2008,Staffordshire,14
+Footway,2.00822E+12,2008,Staffordshire,18
+Footway,2.00822E+12,2008,Staffordshire,10
+Footway,2.00822E+12,2008,Staffordshire,27
+Footway,2.00822E+12,2008,Staffordshire,38
+Footway,2.00822E+12,2008,Staffordshire,16
+Footway,2.00822E+12,2008,Staffordshire,14
+Footway,2.00822E+12,2008,Staffordshire,17
+Footway,200822CA00383,2008,Worcestershire,35
+Footway,200822CA87746,2008,Worcestershire,31
+Footway,200822GA86559,2008,Telford and Wrekin,9
+Footway,2.00823E+12,2008,Warwickshire,6
+Footway,2.00823E+12,2008,Warwickshire,29
+Footway,2.00823E+12,2008,Warwickshire,14
+Footway,200830A000014,2008,Derbyshire,10
+Footway,200830A000331,2008,Derbyshire,10
+Footway,200830C000468,2008,Derbyshire,17
+Footway,20083102B1146,2008,Nottinghamshire,37
+Footway,20083102B1492,2008,Nottinghamshire,37
+Footway,20083102C2527,2008,Nottingham,31
+Footway,20083102C3120,2008,Nottingham,21
+Footway,20083102D0979,2008,Nottinghamshire,9
+Footway,200832B019508,2008,Lincolnshire,9
+Footway,200832B155308,2008,Lincolnshire,40
+Footway,200832C174108,2008,Lincolnshire,9
+Footway,200832D013008,2008,Lincolnshire,38
+Footway,200832D053808,2008,Lincolnshire,38
+Footway,200832D135308,2008,Lincolnshire,20
+Footway,2.00833E+12,2008,Leicestershire,16
+Footway,2.00833E+12,2008,Leicestershire,35
+Footway,2.00833E+12,2008,Leicestershire,40
+Footway,2.00833E+12,2008,Leicestershire,11
+Footway,2.00833E+12,2008,Leicestershire,22
+Footway,2.00833E+12,2008,Leicestershire,29
+Footway,2.00833E+12,2008,Leicestershire,17
+Footway,2.00833E+12,2008,Leicestershire,39
+Footway,2.00833E+12,2008,Leicestershire,25
+Footway,2.00833E+12,2008,Leicestershire,26
+Footway,2.00835E+12,2008,Cambridgeshire,16
+Footway,2.00835E+12,2008,Peterborough,29
+Footway,2.00835E+12,2008,Cambridgeshire,21
+Footway,2.00835E+12,2008,Cambridgeshire,9
+Footway,2.00835E+12,2008,Cambridgeshire,26
+Footway,2.00835E+12,2008,Peterborough,14
+Footway,200837G026012,2008,Suffolk,15
+Footway,200837G026016,2008,Suffolk,35
+Footway,200837L015196,2008,Suffolk,16
+Footway,2008400B02237,2008,Bedford Borough Council,14
+Footway,2008400B03065,2008,Bedford Borough Council,56
+Footway,2008400C02239,2008,Luton,9
+Footway,20084100B0338,2008,Hertfordshire,16
+Footway,20084100B0452,2008,Hertfordshire,44
+Footway,20084100B0571,2008,Hertfordshire,16
+Footway,20084100B0744,2008,Hertfordshire,58
+Footway,20084100D0515,2008,Hertfordshire,12
+Footway,20084100D0813,2008,Hertfordshire,14
+Footway,2.01E+252,2008,Hertfordshire,40
+Footway,20084100E0349,2008,Hertfordshire,12
+Footway,20084100F4869,2008,Hertfordshire,13
+Footway,20084100J2242,2008,Hertfordshire,11
+Footway,20084100K0161,2008,Hertfordshire,14
+Footway,20084100K0168,2008,Hertfordshire,7
+Footway,20084100K0358,2008,Hertfordshire,10
+Footway,200842I032101,2008,Essex,16
+Footway,200842I329609,2008,Southend on Sea,30
+Footway,200842I348210,2008,Essex,9
+Footway,200842I360010,2008,Southend on Sea,25
+Footway,200842I361310,2008,Essex,9
+Footway,200842I361809,2008,Essex,13
+Footway,200842I399811,2008,Southend on Sea,
+Footway,200842I401211,2008,Southend on Sea,15
+Footway,200842I401411,2008,Southend on Sea,14
+Footway,200843N112078,2008,Buckinghamshire,15
+Footway,200843N190068,2008,Buckinghamshire,12
+Footway,200843N203048,2008,Buckinghamshire,20
+Footway,200843P008068,2008,Oxfordshire,13
+Footway,200843P090058,2008,Oxfordshire,10
+Footway,200843P162098,2008,Oxfordshire,17
+Footway,200843P335038,2008,Oxfordshire,10
+Footway,200843R025068,2008,Slough,16
+Footway,200843R231088,2008,Windsor and Maidenhead,14
+Footway,200843W042058,2008,Wokingham,
+Footway,200843W246078,2008,Reading,15
+Footway,2.00844E+12,2008,Hampshire,22
+Footway,2.00844E+12,2008,Southampton ,13
+Footway,2.00844E+12,2008,Southampton ,21
+Footway,2.00844E+12,2008,Portsmouth,6
+Footway,2.00844E+12,2008,Hampshire,41
+Footway,2.00844E+12,2008,Southampton ,11
+Footway,2.00844E+12,2008,Hampshire,12
+Footway,2.00844E+12,2008,Hampshire,16
+Footway,2.00844E+12,2008,Hampshire,14
+Footway,2.00844E+12,2008,Hampshire,11
+Footway,2.00844E+12,2008,Hampshire,54
+Footway,2.00844E+12,2008,Hampshire,13
+Footway,2.00844E+12,2008,Hampshire,27
+Footway,2.00844E+12,2008,Hampshire,14
+Footway,2.00844E+12,2008,Hampshire,17
+Footway,2.00844E+12,2008,Isle of Wight,12
+Footway,200845EL21377,2008,Surrey,51
+Footway,200845EL26623,2008,Surrey,27
+Footway,200845EP33555,2008,Surrey,14
+Footway,200845GU26342,2008,Surrey,37
+Footway,200845RE19897,2008,Surrey,8
+Footway,200845RE22891,2008,Surrey,54
+Footway,200845RE31610,2008,Surrey,40
+Footway,200845RU20141,2008,Surrey,34
+Footway,200845RU24823,2008,Surrey,
+Footway,200845SP26879,2008,Surrey,25
+Footway,200845SU24069,2008,Surrey,
+Footway,200845WA22172,2008,Surrey,13
+Footway,2.00846E+12,2008,Kent,30
+Footway,2.00846E+12,2008,Kent,12
+Footway,2.00846E+12,2008,Kent,14
+Footway,2.00846E+12,2008,Kent,21
+Footway,2.00847E+12,2008,West Sussex,12
+Footway,2.00847E+12,2008,East Sussex,12
+Footway,2.00847E+12,2008,West Sussex,16
+Footway,2.00847E+12,2008,East Sussex,58
+Footway,2.00847E+12,2008,West Sussex,6
+Footway,2.00847E+12,2008,West Sussex,12
+Footway,2.00847E+12,2008,East Sussex,18
+Footway,2.00847E+12,2008,West Sussex,14
+Footway,2.00847E+12,2008,East Sussex,20
+Footway,2.00847E+12,2008,East Sussex,9
+Footway,2.00847E+12,2008,West Sussex,17
+Footway,2.00847E+12,2008,Brighton and Hove,16
+Footway,2.00847E+12,2008,West Sussex,13
+Footway,200850KT3B009,2008,Devon,9
+Footway,2.00852E+12,2008,Somerset,20
+Footway,200854ES24908,2008,Wiltshire,12
+Footway,200854ES33208,2008,Wiltshire,14
+Footway,200854ES42408,2008,Wiltshire,46
+Footway,200854ET16108,2008,Wiltshire,5
+Footway,200854ET54908,2008,Wiltshire,15
+Footway,2008558B01032,2008,Bournemouth,24
+Footway,2008558C03083,2008,Poole,12
+Footway,2008558C03672,2008,Bournemouth,33
+Footway,2008558C04240,2008,Bournemouth,18
+Footway,2008558C04526,2008,Bournemouth,10
+Footway,2008558D02817,2008,Dorset,29
+Footway,2008558D03972,2008,Dorset,12
+Footway,2008558D05292,2008,Dorset,15
+Footway,2008558E01146,2008,Dorset,23
+Footway,2008558P01309,2008,Poole,27
+Footway,200901CW10780,2009,London,13
+Footway,200901GD10142,2009,London,4
+Footway,200901KG70089,2009,London,16
+Footway,200901XH30771,2009,London,51
+Footway,200901ZD30376,2009,London,14
+Footway,200904BA09143,2009,Lancashire,10
+Footway,200904BB09191,2009,Lancashire,20
+Footway,200904EA09150,2009,Lancashire,8
+Footway,200905AA01503,2009,Merseyside,60
+Footway,200905AA02997,2009,Merseyside,10
+Footway,200905AA33225,2009,Merseyside,10
+Footway,200905EE01094,2009,Merseyside,25
+Footway,200905EE31854,2009,Merseyside,11
+Footway,200906B017049,2009,Manchester,11
+Footway,200906B023562,2009,Manchester,42
+Footway,200906F013715,2009,Salford,8
+Footway,200906F016708,2009,Salford,18
+Footway,200906G014504,2009,Tameside,16
+Footway,200906J021294,2009,Stockport,10
+Footway,200906K022668,2009,Bolton,47
+Footway,200906L020367,2009,Wigan,40
+Footway,200906L021385,2009,Wigan,21
+Footway,2.00907E+12,2009,Cheshire East,14
+Footway,2.00907E+12,2009,Cheshire West and Chester,14
+Footway,2.00907E+12,2009,Cheshire East,16
+Footway,2.00907E+12,2009,Cheshire East,16
+Footway,2.00912E+12,2009,North Yorkshire,22
+Footway,2.00912E+12,2009,North Yorkshire,21
+Footway,2.00913E+12,2009,Wakefield,9
+Footway,2.00913E+12,2009,Leeds,17
+Footway,200914A067509,2009,Doncaster,7
+Footway,200914A080609,2009,Doncaster,10
+Footway,200914C068709,2009,Rotherham,29
+Footway,200914C122709,2009,Rotherham,21
+Footway,2009160D03370,2009,Kingston Upon Hull,15
+Footway,200920D136503,2009,Birmingham,17
+Footway,200920D152802,2009,Birmingham,29
+Footway,200920D250103,2009,Birmingham,10
+Footway,200920E045803,2009,Birmingham,5
+Footway,200920E084701,2009,Birmingham,15
+Footway,200920F092201,2009,Birmingham,27
+Footway,200920G018402,2009,Wolverhampton,28
+Footway,200920G022301,2009,Wolverhampton,29
+Footway,200920G039102,2009,Wolverhampton,31
+Footway,200920H014102,2009,Walsall,9
+Footway,200920H035202,2009,Walsall,13
+Footway,200920H039901,2009,Walsall,17
+Footway,200920J090901,2009,Dudley,14
+Footway,200920K004601,2009,Sandwell,9
+Footway,200920K046001,2009,Sandwell,9
+Footway,200920L104201,2009,Solihull,63
+Footway,200920L131201,2009,Solihull,16
+Footway,200920M020701,2009,Coventry,42
+Footway,200920M061902,2009,Coventry,
+Footway,2.00922E+12,2009,Staffordshire,12
+Footway,2.00922E+12,2009,Staffordshire,16
+Footway,2.00922E+12,2009,Staffordshire,36
+Footway,200922C904824,2009,Worcestershire,18
+Footway,200922E902481,2009,Herefordshire,20
+Footway,200922E904771,2009,Herefordshire,11
+Footway,2.00923E+12,2009,Warwickshire,6
+Footway,200930A000176,2009,Derbyshire,
+Footway,200930A000177,2009,Derbyshire,14
+Footway,200930A000195,2009,Derbyshire,13
+Footway,200930A000196,2009,Derbyshire,31
+Footway,200930A000207,2009,Derbyshire,15
+Footway,200930A000323,2009,Derbyshire,30
+Footway,200930A000426,2009,Derbyshire,30
+Footway,20093102A1059,2009,Nottinghamshire,9
+Footway,20093102A2015,2009,Nottinghamshire,32
+Footway,20093102A2434,2009,Nottinghamshire,14
+Footway,20093102A2630,2009,Nottinghamshire,
+Footway,20093102C2484,2009,Nottingham,12
+Footway,20093102C2578,2009,Nottingham,10
+Footway,20093102D1531,2009,Nottinghamshire,11
+Footway,200932B099209,2009,Lincolnshire,9
+Footway,200932B388909,2009,Lincolnshire,50
+Footway,200932C132309,2009,Lincolnshire,18
+Footway,200932D098609,2009,Lincolnshire,12
+Footway,200932D181109,2009,Lincolnshire,14
+Footway,2.00933E+12,2009,Leicestershire,29
+Footway,2.00933E+12,2009,Leicestershire,29
+Footway,2.00933E+12,2009,Leicestershire,11
+Footway,2.00933E+12,2009,Leicestershire,20
+Footway,2.00933E+12,2009,Rutland,35
+Footway,2.00933E+12,2009,Leicestershire,11
+Footway,2.00933E+12,2009,Leicestershire,34
+Footway,2.00935E+12,2009,Cambridgeshire,40
+Footway,2.00935E+12,2009,Cambridgeshire,46
+Footway,2.00935E+12,2009,Peterborough,
+Footway,2.00935E+12,2009,Cambridgeshire,24
+Footway,2.00935E+12,2009,Peterborough,25
+Footway,2.00935E+12,2009,Peterborough,74
+Footway,2.00935E+12,2009,Cambridgeshire,13
+Footway,2.00935E+12,2009,Cambridgeshire,10
+Footway,2.00935E+12,2009,Peterborough,25
+Footway,2.00935E+12,2009,Peterborough,25
+Footway,2.00935E+12,2009,Peterborough,29
+Footway,2.00935E+12,2009,Cambridgeshire,17
+Footway,2.00935E+12,2009,Cambridgeshire,64
+Footway,2.00935E+12,2009,Peterborough,47
+Footway,2.00935E+12,2009,Cambridgeshire,49
+Footway,2.00936E+12,2009,Norfolk,13
+Footway,2.00936E+12,2009,Norfolk,16
+Footway,2.00936E+12,2009,Norfolk,31
+Footway,200937B042360,2009,Suffolk,13
+Footway,200937G027256,2009,Suffolk,8
+Footway,200937G027300,2009,Suffolk,21
+Footway,200937G027581,2009,Suffolk,20
+Footway,200937G028290,2009,Suffolk,27
+Footway,200937L016488,2009,Suffolk,51
+Footway,200937L017615,2009,Suffolk,15
+Footway,2009400B01720,2009,Bedford Borough Council,29
+Footway,2009400C03402,2009,Luton,10
+Footway,20094100B9048,2009,Hertfordshire,13
+Footway,20094100B9070,2009,Hertfordshire,13
+Footway,20094100B9209,2009,Hertfordshire,25
+Footway,20094100C0529,2009,Hertfordshire,11
+Footway,20094100C0745,2009,Hertfordshire,5
+Footway,2.01E+256,2009,Hertfordshire,11
+Footway,20094100J0112,2009,Hertfordshire,8
+Footway,20094100J0304,2009,Hertfordshire,33
+Footway,200942I055902,2009,Southend on Sea,36
+Footway,200942I106304,2009,Essex,19
+Footway,200942I156005,2009,Essex,15
+Footway,200942I172406,2009,Southend on Sea,11
+Footway,200942I256508,2009,Essex,12
+Footway,200942I277008,2009,Essex,
+Footway,200942I291709,2009,Southend on Sea,53
+Footway,200942I310809,2009,Southend on Sea,
+Footway,200942I379311,2009,Thurrock,17
+Footway,200943N242119,2009,Buckinghamshire,50
+Footway,200943P247069,2009,Oxfordshire,11
+Footway,200943P263029,2009,Oxfordshire,16
+Footway,200943P265049,2009,Oxfordshire,22
+Footway,200943R073079,2009,Windsor and Maidenhead,15
+Footway,200943R087059,2009,Slough,10
+Footway,200943S125069,2009,Milton Keynes,8
+Footway,200943S132079,2009,Milton Keynes,12
+Footway,200943S137129,2009,Milton Keynes,11
+Footway,200943W058089,2009,Reading,7
+Footway,200943W151099,2009,West Berkshire,13
+Footway,200943W166049,2009,Reading,17
+Footway,2.00944E+12,2009,Portsmouth,48
+Footway,2.00944E+12,2009,Hampshire,8
+Footway,2.00944E+12,2009,Hampshire,17
+Footway,2.00944E+12,2009,Hampshire,14
+Footway,2.00944E+12,2009,Portsmouth,16
+Footway,2.00944E+12,2009,Hampshire,23
+Footway,2.00944E+12,2009,Portsmouth,19
+Footway,2.00944E+12,2009,Southampton ,39
+Footway,2.00944E+12,2009,Hampshire,19
+Footway,200945EL46413,2009,Surrey,12
+Footway,200945RE40888,2009,Surrey,14
+Footway,200945RU38797,2009,Surrey,13
+Footway,200945SU38329,2009,Surrey,12
+Footway,2.00946E+12,2009,Kent,59
+Footway,2.00946E+12,2009,Kent,24
+Footway,2.00946E+12,2009,Kent,12
+Footway,2.00947E+12,2009,West Sussex,45
+Footway,2.00947E+12,2009,West Sussex,15
+Footway,2.00947E+12,2009,West Sussex,13
+Footway,2.00947E+12,2009,West Sussex,35
+Footway,2.00947E+12,2009,West Sussex,5
+Footway,2.00947E+12,2009,West Sussex,16
+Footway,2.00947E+12,2009,West Sussex,21
+Footway,200950DE2A013,2009,Devon,25
+Footway,200950FT2M021,2009,Torbay,13
+Footway,200950GA2Q016,2009,Cornwall and Isles of Scilly,15
+Footway,200950GN2B011,2009,Cornwall and Isles of Scilly,10
+Footway,200950JN2E019,2009,Devon,76
+Footway,2.00952E+12,2009,City of Bristol,11
+Footway,2.00952E+12,2009,South Gloucestershire,12
+Footway,2.00952E+12,2009,Somerset,39
+Footway,2.00952E+12,2009,North Somerset,15
+Footway,2.00952E+12,2009,City of Bristol,11
+Footway,2.00952E+12,2009,South Gloucestershire,14
+Footway,2.00952E+12,2009,South Gloucestershire,14
+Footway,2.00952E+12,2009,Somerset,37
+Footway,2.00952E+12,2009,North Somerset,17
+Footway,200954EG25309,2009,Wiltshire,9
+Footway,200954EP42109,2009,Wiltshire,14
+Footway,200954ET10309,2009,Wiltshire,12
+Footway,200954ET11309,2009,Wiltshire,6
+Footway,2009559C01061,2009,Bournemouth,14
+Footway,2009559C04246,2009,Bournemouth,19
+Footway,201001CW11712,2010,London,39
+Footway,201001JC30549,2010,London,25
+Footway,201001KD50300,2010,London,35
+Footway,201001PL60596,2010,London,12
+Footway,201001PY20515,2010,London,
+Footway,201001RY10092,2010,London,12
+Footway,201001TX20180,2010,London,24
+Footway,201001YE80612,2010,London,42
+Footway,201001ZD30354,2010,London,12
+Footway,2.01003E+12,2010,Cumbria,11
+Footway,201004AN10044,2010,Blackpool,58
+Footway,201004CK10157,2010,Lancashire,13
+Footway,201004CM10159,2010,Lancashire,15
+Footway,201004DF10085,2010,Lancashire,36
+Footway,201004EN10061,2010,Lancashire,53
+Footway,201005AA05941,2010,Merseyside,5
+Footway,201005CC03214,2010,Merseyside,45
+Footway,201005EE05885,2010,Merseyside,15
+Footway,201006C028679,2010,Manchester,12
+Footway,201006C034201,2010,Manchester,18
+Footway,201006J030414,2010,Stockport,12
+Footway,201006J030453,2010,Stockport,16
+Footway,201006L034968,2010,Wigan,43
+Footway,201006L035246,2010,Wigan,10
+Footway,201006P033985,2010,Rochdale,10
+Footway,2.01007E+12,2010,Cheshire West and Chester,12
+Footway,2.01007E+12,2010,Cheshire West and Chester,15
+Footway,2.01007E+12,2010,Warrington,22
+Footway,2.01007E+12,2010,Cheshire West and Chester,31
+Footway,2.01007E+12,2010,Cheshire West and Chester,19
+Footway,2.01007E+12,2010,Warrington,12
+Footway,2.01007E+12,2010,Halton,19
+Footway,2.01007E+12,2010,Cheshire East,18
+Footway,2.0101E+12,2010,Northumberland,12
+Footway,2.0101E+12,2010,South Tyneside,14
+Footway,201011SJ12120,2010,Darlington,30
+Footway,2.01012E+12,2010,York,5
+Footway,2.01012E+12,2010,North Yorkshire,16
+Footway,2.01012E+12,2010,North Yorkshire,13
+Footway,2.01013E+12,2010,Wakefield,6
+Footway,2.01013E+12,2010,Leeds,15
+Footway,2.01013E+12,2010,Bradford,6
+Footway,2.01013E+12,2010,Wakefield,46
+Footway,2.01013E+12,2010,Kirklees,45
+Footway,2.01013E+12,2010,Kirklees,27
+Footway,2.01013E+12,2010,Kirklees,29
+Footway,201014A022810,2010,Doncaster,18
+Footway,2010160B00741,2010,North Lincolnshire,17
+Footway,2010160C04381,2010,East Riding of Yorkshire,41
+Footway,201020H003610,2010,Walsall,16
+Footway,201020H004210,2010,Walsall,
+Footway,201020H007660,2010,Walsall,11
+Footway,201020H008790,2010,Walsall,35
+Footway,201020J006200,2010,Dudley,32
+Footway,201020K011940,2010,Sandwell,11
+Footway,201020N021820,2010,Birmingham,9
+Footway,201020S033860,2010,Birmingham,8
+Footway,201020T006350,2010,Birmingham,14
+Footway,201020T014030,2010,Birmingham,8
+Footway,201020T026940,2010,Birmingham,15
+Footway,201020T036710,2010,Birmingham,17
+Footway,201020W024290,2010,Birmingham,29
+Footway,201020W031390,2010,Birmingham,12
+Footway,2.01021E+12,2010,Stoke on Trent,12
+Footway,2.01021E+12,2010,Stoke on Trent,10
+Footway,2.01021E+12,2010,Staffordshire,14
+Footway,201022D002609,2010,Worcestershire,28
+Footway,201022D004024,2010,Worcestershire,15
+Footway,201022E002477,2010,Herefordshire,12
+Footway,201022F003075,2010,Shropshire,15
+Footway,2.01023E+12,2010,Warwickshire,20
+Footway,201030A000114,2010,Derbyshire,15
+Footway,20103102A1823,2010,Nottinghamshire,31
+Footway,20103102A1935,2010,Nottinghamshire,50
+Footway,20103102B2273,2010,Nottinghamshire,
+Footway,20103102C1426,2010,Nottingham,8
+Footway,20103102C2340,2010,Nottingham,13
+Footway,20103102C2359,2010,Nottingham,34
+Footway,20103102D1215,2010,Nottinghamshire,10
+Footway,20103104C2636,2010,Nottingham,39
+Footway,201032C178510,2010,Lincolnshire,13
+Footway,201032D137510,2010,Lincolnshire,11
+Footway,201032D154210,2010,Lincolnshire,14
+Footway,2.01033E+12,2010,Leicestershire,17
+Footway,2.01033E+12,2010,Leicestershire,52
+Footway,2.01033E+12,2010,Leicestershire,17
+Footway,2.01033E+12,2010,Leicestershire,8
+Footway,2.01033E+12,2010,Leicestershire,28
+Footway,2.01033E+12,2010,Leicestershire,22
+Footway,2.01033E+12,2010,Leicestershire,19
+Footway,2.01033E+12,2010,Leicestershire,10
+Footway,2.01033E+12,2010,Leicestershire,18
+Footway,2.01033E+12,2010,Leicestershire,21
+Footway,2.01033E+12,2010,Leicestershire,20
+Footway,2.01033E+12,2010,Leicestershire,28
+Footway,2.01033E+12,2010,Leicestershire,44
+Footway,2.01033E+12,2010,Leicestershire,14
+Footway,2.01033E+12,2010,Leicestershire,53
+Footway,2.01033E+12,2010,Leicestershire,8
+Footway,2.01033E+12,2010,Leicestershire,15
+Footway,2.01033E+12,2010,Leicestershire,33
+Footway,2.01033E+12,2010,Leicestershire,35
+Footway,2.01033E+12,2010,Leicestershire,14
+Footway,2.01035E+12,2010,Cambridgeshire,43
+Footway,2.01035E+12,2010,Peterborough,14
+Footway,2.01035E+12,2010,Cambridgeshire,17
+Footway,2.01035E+12,2010,Peterborough,29
+Footway,2.01035E+12,2010,Peterborough,14
+Footway,2.01035E+12,2010,Cambridgeshire,12
+Footway,201037B045433,2010,Suffolk,10
+Footway,201037G029061,2010,Suffolk,15
+Footway,201037G030194,2010,Suffolk,18
+Footway,201037L018029,2010,Suffolk,14
+Footway,201037L018560,2010,Suffolk,19
+Footway,2010400B02165,2010,Bedford Borough Council,11
+Footway,2010400B02334,2010,Bedford Borough Council,10
+Footway,2010400D00276,2010,Central Bedfordshire,19
+Footway,20104100B0310,2010,Hertfordshire,14
+Footway,20104100D0433,2010,Hertfordshire,14
+Footway,20104100J0171,2010,Hertfordshire,11
+Footway,20104100J0393,2010,Hertfordshire,18
+Footway,20104100K0221,2010,Hertfordshire,18
+Footway,201042I031802,2010,Essex,20
+Footway,201042I109704,2010,Essex,
+Footway,201042I161305,2010,Southend on Sea,12
+Footway,201042I197606,2010,Southend on Sea,29
+Footway,201042I335210,2010,Essex,14
+Footway,201042I392311,2010,Essex,18
+Footway,201042I415812,2010,Essex,23
+Footway,201043N203070,2010,Buckinghamshire,37
+Footway,201043P048050,2010,Oxfordshire,70
+Footway,2.01044E+12,2010,Hampshire,14
+Footway,2.01044E+12,2010,Portsmouth,11
+Footway,2.01044E+12,2010,Hampshire,17
+Footway,2.01044E+12,2010,Hampshire,10
+Footway,2.01044E+12,2010,Southampton ,27
+Footway,2.01044E+12,2010,Hampshire,36
+Footway,2.01044E+12,2010,Isle of Wight,13
+Footway,2.01044E+12,2010,Hampshire,14
+Footway,2.01044E+12,2010,Hampshire,56
+Footway,201045EL54847,2010,Surrey,13
+Footway,201045EP52738,2010,Surrey,9
+Footway,201045EP54562,2010,Surrey,18
+Footway,201045MO55169,2010,Surrey,29
+Footway,201045RE50151,2010,Surrey,9
+Footway,201045RU49669,2010,Surrey,21
+Footway,201045SP49522,2010,Surrey,59
+Footway,201045SU48658,2010,Surrey,5
+Footway,201045SU55134,2010,Surrey,32
+Footway,201045TA54977,2010,Surrey,14
+Footway,2.01046E+12,2010,Kent,46
+Footway,2.01046E+12,2010,Kent,
+Footway,2.01047E+12,2010,West Sussex,34
+Footway,2.01047E+12,2010,East Sussex,9
+Footway,2.01047E+12,2010,West Sussex,7
+Footway,2.01047E+12,2010,East Sussex,14
+Footway,2.01047E+12,2010,West Sussex,10
+Footway,2.01047E+12,2010,West Sussex,15
+Footway,2.01047E+12,2010,West Sussex,27
+Footway,201050AC3C010,2010,Cornwall and Isles of Scilly,29
+Footway,2.01052E+12,2010,Bath and North East Somerset,26
+Footway,2.01052E+12,2010,City of Bristol,49
+Footway,2.01052E+12,2010,City of Bristol,35
+Footway,2.01052E+12,2010,City of Bristol,21
+Footway,2.01052E+12,2010,North Somerset,16
+Footway,2.01052E+12,2010,South Gloucestershire,45
+Footway,2.01052E+12,2010,City of Bristol,35
+Footway,2.01053E+12,2010,Gloucestershire,76
+Footway,2.01053E+12,2010,Gloucestershire,65
+Footway,201054DE26710,2010,Swindon,14
+Footway,201054DE28910,2010,Swindon,17
+Footway,201054ES33310,2010,Wiltshire,10
+Footway,201054ET18210,2010,Wiltshire,10
+Footway,20105500C0726,2010,Poole,50
+Footway,2010550C20707,2010,Poole,14
+Footway,2010550C23255,2010,Poole,14
+Footway,2010550C24640,2010,Bournemouth,7
+Footway,2010550C50835,2010,Poole,19
+Footway,2010550D34694,2010,Dorset,19
+Footway,2011201101GD10421,2011,London,29
+Footway,2011201101JI40256,2011,London,36
+Footway,2011201101KG70250,2011,London,-1
+Footway,2011201101LX50605,2011,London,10
+Footway,2011201101TA00959,2011,London,22
+Footway,2011201101TB00344,2011,London,16
+Footway,2011201101TB00740,2011,London,14
+Footway,2011201101TX20714,2011,London,23
+Footway,2011201104AM11100,2011,Blackpool,14
+Footway,2011201104BC11023,2011,Lancashire,24
+Footway,2011201104CC11059,2011,Lancashire,20
+Footway,2011201104CK11131,2011,Lancashire,11
+Footway,2011201104CK11160,2011,Lancashire,10
+Footway,2011201104DF11060,2011,Lancashire,21
+Footway,2011201104DF11094,2011,Lancashire,13
+Footway,2011201104EA11192,2011,Blackburn with Darwen,15
+Footway,2011201105BB04333,2011,Merseyside,14
+Footway,2011201105BB06422,2011,Merseyside,59
+Footway,2011201105FF03497,2011,Merseyside,33
+Footway,2011201106C044830,2011,Manchester,16
+Footway,2011201106C046745,2011,Manchester,10
+Footway,2011201106C047875,2011,Manchester,12
+Footway,2011201106C048182,2011,Manchester,10
+Footway,2011201106C049974,2011,Manchester,12
+Footway,2011201106F048717,2011,Salford,24
+Footway,2011201106G055203,2011,Tameside,20
+Footway,2011201106J044051,2011,Stockport,34
+Footway,2011201106M045284,2011,Trafford,9
+Footway,2011201106N048518,2011,Bury,58
+Footway,2.0112E+16,2011,Cheshire West and Chester,31
+Footway,2.0112E+16,2011,Halton,44
+Footway,2.0112E+16,2011,Warrington,20
+Footway,2.0112E+16,2011,Cheshire West and Chester,19
+Footway,2.0112E+16,2011,South Tyneside,13
+Footway,2.0112E+16,2011,South Tyneside,16
+Footway,2.0112E+16,2011,Wakefield,14
+Footway,2.0112E+16,2011,Kirklees,11
+Footway,2.0112E+16,2011,Leeds,13
+Footway,2.0112E+16,2011,Bradford,10
+Footway,2.0112E+16,2011,Kirklees,40
+Footway,2.0112E+16,2011,Kirklees,40
+Footway,2.0112E+16,2011,Bradford,6
+Footway,2.0112E+16,2011,Wakefield,24
+Footway,2011201114A057811,2011,Doncaster,46
+Footway,20112011160A02671,2011,North East Lincolnshire,39
+Footway,20112011160C04181,2011,East Riding of Yorkshire,75
+Footway,20112011160C07491,2011,East Riding of Yorkshire,14
+Footway,20112011160D02621,2011,Kingston Upon Hull,9
+Footway,2011201120G008831,2011,Wolverhampton,47
+Footway,2011201120J003561,2011,Dudley,14
+Footway,2011201120J012131,2011,Dudley,14
+Footway,2011201120L001841,2011,Solihull,11
+Footway,2011201120M010031,2011,Coventry,10
+Footway,2011201120N034391,2011,Birmingham,24
+Footway,2011201120S021721,2011,Birmingham,16
+Footway,2011201120S024601,2011,Birmingham,12
+Footway,2011201120S040251,2011,Birmingham,15
+Footway,2011201120T026341,2011,Birmingham,11
+Footway,2011201120T049441,2011,Birmingham,16
+Footway,2011201120W018701,2011,Birmingham,23
+Footway,2011201120W056371,2011,Birmingham,17
+Footway,2.0112E+16,2011,Staffordshire,9
+Footway,2011201122D101300,2011,Worcestershire,14
+Footway,2011201122E103979,2011,Herefordshire,23
+Footway,2011201122F104203,2011,Shropshire,6
+Footway,2.0112E+16,2011,Warwickshire,20
+Footway,2.0112E+16,2011,Warwickshire,50
+Footway,2011201130C000753,2011,Derbyshire,47
+Footway,2011201130D000987,2011,Derby,-1
+Footway,2011201130D001039,2011,Derby,15
+Footway,2011201131B252411,2011,Nottinghamshire,63
+Footway,2011201131C033711,2011,Nottingham,15
+Footway,2011201131C139211,2011,Nottingham,12
+Footway,2011201131C216811,2011,Nottingham,18
+Footway,2011201131C250811,2011,Nottingham,60
+Footway,2011201131C258711,2011,Nottingham,16
+Footway,2011201131D057811,2011,Nottinghamshire,14
+Footway,2011201131D260311,2011,Nottinghamshire,-1
+Footway,2011201132B021511,2011,Lincolnshire,14
+Footway,2011201132B170311,2011,Lincolnshire,11
+Footway,2011201132D105911,2011,Lincolnshire,9
+Footway,2.0112E+16,2011,Leicestershire,8
+Footway,2.0112E+16,2011,Leicestershire,22
+Footway,2.0112E+16,2011,Leicestershire,24
+Footway,2.0112E+16,2011,Leicestershire,20
+Footway,2.0112E+16,2011,Leicestershire,21
+Footway,2.0112E+16,2011,Leicestershire,21
+Footway,2.0112E+16,2011,Leicestershire,17
+Footway,2.0112E+16,2011,Leicestershire,6
+Footway,2.0112E+16,2011,Leicestershire,37
+Footway,2.0112E+16,2011,Leicestershire,22
+Footway,2.0112E+16,2011,Leicestershire,31
+Footway,2.0112E+16,2011,Leicestershire,13
+Footway,2.0112E+16,2011,Leicestershire,12
+Footway,2.0112E+16,2011,Leicestershire,15
+Footway,2.0112E+16,2011,Leicestershire,19
+Footway,2011201134WN09811,2011,Northamptonshire,27
+Footway,2.0112E+16,2011,Cambridgeshire,31
+Footway,2.0112E+16,2011,Peterborough,31
+Footway,2.0112E+16,2011,Cambridgeshire,13
+Footway,2.0112E+16,2011,Cambridgeshire,35
+Footway,2.0112E+16,2011,Cambridgeshire,10
+Footway,2.0112E+16,2011,Cambridgeshire,-1
+Footway,2.0112E+16,2011,Cambridgeshire,15
+Footway,2.0112E+16,2011,Peterborough,28
+Footway,2.0112E+16,2011,Peterborough,10
+Footway,2.0112E+16,2011,Peterborough,16
+Footway,2.0112E+16,2011,Cambridgeshire,60
+Footway,2.0112E+16,2011,Suffolk,21
+Footway,2.0112E+16,2011,Suffolk,11
+Footway,2.0112E+16,2011,Suffolk,11
+Footway,2.0112E+16,2011,Suffolk,12
+Footway,20112011400BA0027,2011,Central Bedfordshire,5
+Footway,201120114100C0010,2011,Hertfordshire,17
+Footway,201120114100C0489,2011,Hertfordshire,32
+Footway,201120114100C0579,2011,Hertfordshire,30
+Footway,2.01E+227,2011,Hertfordshire,9
+Footway,201120114100G0336,2011,Hertfordshire,12
+Footway,201120114100K0217,2011,Hertfordshire,32
+Footway,201120114100K0297,2011,Hertfordshire,14
+Footway,2011201142I077303,2011,Thurrock,10
+Footway,2011201142I097903,2011,Essex,30
+Footway,2011201142I099004,2011,Southend on Sea,17
+Footway,2011201142I104904,2011,Essex,9
+Footway,2011201142I152505,2011,Essex,22
+Footway,2011201142I219707,2011,Southend on Sea,8
+Footway,2011201142I292108,2011,Thurrock,52
+Footway,2011201142I308109,2011,Southend on Sea,20
+Footway,2011201142I322110,2011,Essex,13
+Footway,2011201143N080041,2011,Buckinghamshire,37
+Footway,2011201143N179031,2011,Buckinghamshire,28
+Footway,2011201143P179111,2011,Oxfordshire,26
+Footway,2011201143P230021,2011,Oxfordshire,30
+Footway,2011201143R034101,2011,Windsor and Maidenhead,43
+Footway,2011201143R128041,2011,Bracknell Forest,10
+Footway,2011201143R199021,2011,Slough,45
+Footway,2011201143W042111,2011,Reading,17
+Footway,2011201143W138081,2011,Reading,11
+Footway,2011201143W243101,2011,Reading,14
+Footway,2.0112E+16,2011,Southampton ,21
+Footway,2.0112E+16,2011,Hampshire,30
+Footway,2.0112E+16,2011,Hampshire,31
+Footway,2.0112E+16,2011,Hampshire,13
+Footway,2.0112E+16,2011,Southampton ,24
+Footway,2.0112E+16,2011,Southampton ,35
+Footway,2.0112E+16,2011,Southampton ,19
+Footway,2.0112E+16,2011,Southampton ,27
+Footway,2.0112E+16,2011,Portsmouth,7
+Footway,2.0112E+16,2011,Hampshire,10
+Footway,2.0112E+16,2011,Isle of Wight,10
+Footway,2.0112E+16,2011,Hampshire,14
+Footway,2.0112E+16,2011,Portsmouth,20
+Footway,2011201145EL62279,2011,Surrey,13
+Footway,2011201145GU62512,2011,Surrey,17
+Footway,2011201145GU66122,2011,Surrey,39
+Footway,2011201145MO65887,2011,Surrey,15
+Footway,2011201145SP61549,2011,Surrey,-1
+Footway,2011201145SP61841,2011,Surrey,24
+Footway,2.0112E+16,2011,Kent,31
+Footway,2.0112E+16,2011,Medway,17
+Footway,2.0112E+16,2011,Kent,20
+Footway,2.0112E+16,2011,Kent,36
+Footway,2.0112E+16,2011,Kent,13
+Footway,2.0112E+16,2011,Kent,12
+Footway,2.0112E+16,2011,East Sussex,14
+Footway,2.0112E+16,2011,West Sussex,51
+Footway,2.0112E+16,2011,West Sussex,7
+Footway,2.0112E+16,2011,East Sussex,4
+Footway,2.0112E+16,2011,East Sussex,16
+Footway,2.0112E+16,2011,West Sussex,21
+Footway,2.0112E+16,2011,West Sussex,19
+Footway,2.0112E+16,2011,West Sussex,7
+Footway,2011201150DE2H027,2011,Devon,16
+Footway,2011201150EL2L032,2011,Plymouth,9
+Footway,2011201150EP2F014,2011,Plymouth,20
+Footway,2011201150GP2D008,2011,Cornwall and Isles of Scilly,7
+Footway,2.0112E+16,2011,Bath and North East Somerset,26
+Footway,2.0112E+16,2011,City of Bristol,51
+Footway,2.0112E+16,2011,Gloucestershire,17
+Footway,2.0112E+16,2011,Wiltshire,15
+Footway,2.0112E+16,2011,Wiltshire,11
+Footway,2011201154B034011,2011,Swindon,24
+Footway,2011201154ET04411,2011,Wiltshire,16
+Footway,20112011551C05791,2011,Poole,51
+Footway,20112011551C13326,2011,Poole,63
+Footway,20112011551C22508,2011,Bournemouth,14
+Footway,20112011551C55589,2011,Bournemouth,12
+Footway,20112011551C57356,2011,Bournemouth,33
+Footway,20112011551D10599,2011,Dorset,15
+Footway,2012201201EK40039,2012,London,3
+Footway,2012201201EK49018,2012,London,26
+Footway,2012201201KD50030,2012,London,-1
+Footway,2012201201KD50099,2012,London,15
+Footway,2012201201KD50245,2012,London,-1
+Footway,2012201201KD50561,2012,London,11
+Footway,2012201201LX50905,2012,London,40
+Footway,2012201201PY20360,2012,London,8
+Footway,2012201201RY10257,2012,London,12
+Footway,2012201201TB00782,2012,London,10
+Footway,2012201204AN12037,2012,Blackpool,23
+Footway,2012201204AN12093,2012,Blackpool,33
+Footway,2012201204AN12111,2012,Blackpool,21
+Footway,2012201204CA12106,2012,Lancashire,22
+Footway,2012201204DF12047,2012,Lancashire,18
+Footway,2.0122E+16,2012,Merseyside,38
+Footway,2012201205BB03883,2012,Merseyside,43
+Footway,2012201205CC05136,2012,Merseyside,17
+Footway,2012201205CC06008,2012,Merseyside,10
+Footway,2012201205EE05295,2012,Merseyside,36
+Footway,2012201205EE05643,2012,Merseyside,12
+Footway,2012201206B058528,2012,Manchester,25
+Footway,2012201206C058234,2012,Manchester,10
+Footway,2012201206J067854,2012,Stockport,30
+Footway,2012201206K061355,2012,Bolton,13
+Footway,2012201206L061670,2012,Wigan,12
+Footway,2.0122E+16,2012,Cheshire West and Chester,23
+Footway,2.0122E+16,2012,Halton,17
+Footway,2.0122E+16,2012,Warrington,50
+Footway,2.0122E+16,2012,North Tyneside,6
+Footway,2.0122E+16,2012,North Tyneside,9
+Footway,2.0122E+16,2012,Newcastle upon Tyne,13
+Footway,2012201211SJ05472,2012,Darlington,24
+Footway,2012201211SJ19562,2012,Darlington,15
+Footway,2012201211SJ25812,2012,Darlington,11
+Footway,2.0122E+16,2012,North Yorkshire,9
+Footway,2.0122E+16,2012,Kirklees,24
+Footway,2012201214A140512,2012,Doncaster,9
+Footway,2012201214B098312,2012,Barnsley,21
+Footway,2012201214C055312,2012,Rotherham,13
+Footway,2012201214K030512,2012,Sheffield,21
+Footway,2012201214K266812,2012,Sheffield,30
+Footway,20122012160A04661,2012,North East Lincolnshire,12
+Footway,20122012160A04691,2012,North East Lincolnshire,24
+Footway,20122012160B01431,2012,North Lincolnshire,11
+Footway,20122012160C01031,2012,East Riding of Yorkshire,18
+Footway,20122012160C02281,2012,East Riding of Yorkshire,15
+Footway,20122012160D06251,2012,Kingston Upon Hull,62
+Footway,20122012170S11962,2012,Stockton on Tees,54
+Footway,2012201220G005982,2012,Wolverhampton,36
+Footway,2012201220G007222,2012,Wolverhampton,9
+Footway,2012201220J011132,2012,Dudley,40
+Footway,2012201220M005892,2012,Coventry,22
+Footway,2012201220M006522,2012,Coventry,63
+Footway,2012201220N030272,2012,Birmingham,14
+Footway,2012201220S052302,2012,Birmingham,14
+Footway,2012201220T030332,2012,Birmingham,21
+Footway,2012201220T041732,2012,Birmingham,14
+Footway,2012201220T047272,2012,Birmingham,7
+Footway,2012201220W047742,2012,Birmingham,-1
+Footway,2.0122E+16,2012,Staffordshire,28
+Footway,2012201222G202662,2012,Telford and Wrekin,15
+Footway,2.0122E+16,2012,Warwickshire,33
+Footway,2.0122E+16,2012,Warwickshire,13
+Footway,2012201230B002239,2012,Derbyshire,21
+Footway,2012201230C001649,2012,Derbyshire,12
+Footway,2012201230C001682,2012,Derbyshire,40
+Footway,2012201230C001959,2012,Derbyshire,21
+Footway,2012201230D001779,2012,Derby,31
+Footway,2012201230D002186,2012,Derbyshire,25
+Footway,2012201230D002441,2012,Derby,41
+Footway,2012201231B150112,2012,Nottinghamshire,43
+Footway,2012201231B215912,2012,Nottinghamshire,16
+Footway,2012201231B269712,2012,Nottinghamshire,12
+Footway,2012201231B278812,2012,Nottinghamshire,15
+Footway,2012201231C130012,2012,Nottingham,16
+Footway,2012201231C196812,2012,Nottingham,27
+Footway,2012201231C269812,2012,Nottingham,50
+Footway,2012201231D157212,2012,Nottinghamshire,24
+Footway,2012201232B351512,2012,Lincolnshire,12
+Footway,2012201232L292412,2012,Lincolnshire,14
+Footway,2012201232N039012,2012,Lincolnshire,17
+Footway,2012201232N300812,2012,Lincolnshire,10
+Footway,2.0122E+16,2012,Leicestershire,22
+Footway,2.0122E+16,2012,Leicestershire,18
+Footway,2.0122E+16,2012,Leicestershire,52
+Footway,2.0122E+16,2012,Leicestershire,40
+Footway,2.0122E+16,2012,Leicestershire,19
+Footway,2.0122E+16,2012,Leicestershire,57
+Footway,2.0122E+16,2012,Cambridgeshire,34
+Footway,2.0122E+16,2012,Peterborough,18
+Footway,2.0122E+16,2012,Cambridgeshire,10
+Footway,2.0122E+16,2012,Cambridgeshire,40
+Footway,2.0122E+16,2012,Norfolk,34
+Footway,2.0122E+16,2012,Suffolk,7
+Footway,2.0122E+16,2012,Suffolk,45
+Footway,2.0122E+16,2012,Suffolk,16
+Footway,20122012400CA0593,2012,Luton,28
+Footway,20122012400CA0834,2012,Luton,19
+Footway,20122012400CA1001,2012,Luton,38
+Footway,201220124100A0787,2012,Hertfordshire,15
+Footway,201220124100B0167,2012,Hertfordshire,47
+Footway,201220124100C0354,2012,Hertfordshire,31
+Footway,201220124100E0361,2012,Hertfordshire,23
+Footway,201220124100F0566,2012,Hertfordshire,18
+Footway,201220124100F0872,2012,Hertfordshire,29
+Footway,2012201242I043802,2012,Southend on Sea,33
+Footway,2012201242I064502,2012,Essex,10
+Footway,2012201242I202407,2012,Essex,20
+Footway,2012201242I210207,2012,Essex,39
+Footway,2012201242I300209,2012,Southend on Sea,29
+Footway,2012201243N024092,2012,Buckinghamshire,12
+Footway,2012201243P057022,2012,Oxfordshire,10
+Footway,2012201243P261052,2012,Oxfordshire,26
+Footway,2012201243P296062,2012,Oxfordshire,19
+Footway,2012201243R134102,2012,Windsor and Maidenhead,21
+Footway,2012201243R184012,2012,Windsor and Maidenhead,15
+Footway,2012201243R209102,2012,Wokingham,16
+Footway,2012201243R230012,2012,Slough,13
+Footway,2012201243S069062,2012,Milton Keynes,21
+Footway,2012201243W045082,2012,West Berkshire,8
+Footway,2012201243W076062,2012,Reading,12
+Footway,2012201243W112052,2012,Wokingham,37
+Footway,2012201243W134052,2012,West Berkshire,40
+Footway,2012201243W175122,2012,Reading,25
+Footway,2012201243W211052,2012,Wokingham,17
+Footway,2.0122E+16,2012,Hampshire,15
+Footway,2.0122E+16,2012,Portsmouth,23
+Footway,2.0122E+16,2012,Hampshire,34
+Footway,2.0122E+16,2012,Hampshire,17
+Footway,2.0122E+16,2012,Hampshire,13
+Footway,2.0122E+16,2012,Hampshire,17
+Footway,2.0122E+16,2012,Southampton ,22
+Footway,2.0122E+16,2012,Surrey,31
+Footway,2.0122E+16,2012,Surrey,8
+Footway,2.0122E+16,2012,Surrey,-1
+Footway,2012201245EL71212,2012,Surrey,20
+Footway,2012201245EL72301,2012,Surrey,14
+Footway,2012201245GU70715,2012,Surrey,23
+Footway,2012201245GU73806,2012,Surrey,12
+Footway,2012201245RU71097,2012,Surrey,31
+Footway,2012201245SU73344,2012,Surrey,-1
+Footway,2012201245WA73620,2012,Surrey,15
+Footway,2012201245WA74379,2012,Surrey,60
+Footway,2012201245WO68529,2012,Surrey,35
+Footway,2.0122E+16,2012,Medway,15
+Footway,2.0122E+16,2012,Kent,13
+Footway,2.0122E+16,2012,Kent,16
+Footway,2.0122E+16,2012,Kent,13
+Footway,2.0122E+16,2012,West Sussex,20
+Footway,2.0122E+16,2012,East Sussex,15
+Footway,2.0122E+16,2012,West Sussex,8
+Footway,2.0122E+16,2012,West Sussex,35
+Footway,2012201250GP2D014,2012,Cornwall and Isles of Scilly,14
+Footway,2012201250JI2A005,2012,Devon,13
+Footway,2.0122E+16,2012,Somerset,10
+Footway,2.0122E+16,2012,City of Bristol,28
+Footway,2.0122E+16,2012,City of Bristol,30
+Footway,2.0122E+16,2012,City of Bristol,14
+Footway,2.0122E+16,2012,Wiltshire,18
+Footway,2.0122E+16,2012,Wiltshire,12
+Footway,2.0122E+16,2012,Wiltshire,17
+Footway,2.0122E+16,2012,Wiltshire,14
+Footway,2.0122E+16,2012,Wiltshire,17
+Footway,2.0122E+16,2012,Swindon,16
+Footway,2.0122E+16,2012,Swindon,6
+Footway,2.0122E+16,2012,Swindon,22
+Footway,20122012552C04423,2012,Bournemouth,14
+Footway,20122012552C17614,2012,Poole,21
+Footway,20122012552C20047,2012,Bournemouth,22
+Footway,20122012552C44891,2012,Bournemouth,15
+Footway,20122012552D27755,2012,Dorset,45
+Footway,20122012552D47912,2012,Bournemouth,46

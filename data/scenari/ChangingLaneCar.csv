@@ -1,0 +1,1399 @@
+Scenario,urn,accyr,LAName,Age
+ChangingLaneCar,199901BS00078,1999,London,
+ChangingLaneCar,199901BS00573,1999,London,25
+ChangingLaneCar,199901CD00237,1999,London,27
+ChangingLaneCar,199901DM00323,1999,London,24
+ChangingLaneCar,199901DM00815,1999,London,34
+ChangingLaneCar,199901DM01109,1999,London,32
+ChangingLaneCar,199901EH00219,1999,London,34
+ChangingLaneCar,199901EO00209,1999,London,30
+ChangingLaneCar,199901FH00194,1999,London,35
+ChangingLaneCar,199901FH00538,1999,London,23
+ChangingLaneCar,199901FH00729,1999,London,27
+ChangingLaneCar,199901HT00599,1999,London,27
+ChangingLaneCar,199901KD00188,1999,London,
+ChangingLaneCar,199901LD00445,1999,London,46
+ChangingLaneCar,199901LS00316,1999,London,32
+ChangingLaneCar,199901LX00075,1999,London,24
+ChangingLaneCar,199901LX00172,1999,London,31
+ChangingLaneCar,199901MM00494,1999,London,27
+ChangingLaneCar,199901PL00160,1999,London,30
+ChangingLaneCar,199901PY00102,1999,London,20
+ChangingLaneCar,199901QK00518,1999,London,31
+ChangingLaneCar,199901RG00051,1999,London,15
+ChangingLaneCar,199901RX00026,1999,London,42
+ChangingLaneCar,199901SC01082,1999,London,32
+ChangingLaneCar,199901TG00357,1999,Surrey,39
+ChangingLaneCar,199901TX00187,1999,London,18
+ChangingLaneCar,199901TX00720,1999,London,30
+ChangingLaneCar,199901VK00646,1999,London,26
+ChangingLaneCar,199901XD00220,1999,London,29
+ChangingLaneCar,199901YF00355,1999,London,12
+ChangingLaneCar,199901YF00502,1999,London,64
+ChangingLaneCar,199901ZN00574,1999,London,12
+ChangingLaneCar,1.99903E+12,1999,Cumbria,12
+ChangingLaneCar,1.99903E+12,1999,Cumbria,24
+ChangingLaneCar,199904B070399,1999,Lancashire,59
+ChangingLaneCar,1.99905E+12,1999,Merseyside,31
+ChangingLaneCar,1.99905E+12,1999,Merseyside,35
+ChangingLaneCar,1.99905E+12,1999,Merseyside,57
+ChangingLaneCar,1.99905E+12,1999,Merseyside,20
+ChangingLaneCar,199906F379699,1999,Salford,72
+ChangingLaneCar,199906J393999,1999,Stockport,52
+ChangingLaneCar,199906N002896,1999,Bury,31
+ChangingLaneCar,199906Q004316,1999,Oldham,39
+ChangingLaneCar,1.99907E+12,1999,Cheshire West and Chester,33
+ChangingLaneCar,1999079A10907,1999,Cheshire East,33
+ChangingLaneCar,1999079A11394,1999,Cheshire East,38
+ChangingLaneCar,1999079A40902,1999,Cheshire West and Chester,15
+ChangingLaneCar,1999079B21259,1999,Warrington,8
+ChangingLaneCar,1999079C30741,1999,Cheshire West and Chester,35
+ChangingLaneCar,199910H256799,1999,North Tyneside,44
+ChangingLaneCar,199910I138599,1999,North Tyneside,35
+ChangingLaneCar,199910K003899,1999,Gateshead,37
+ChangingLaneCar,1999110DJ2582,1999,Darlington,54
+ChangingLaneCar,1.99912E+12,1999,York,21
+ChangingLaneCar,1.99912E+12,1999,North Yorkshire,25
+ChangingLaneCar,199913AA19099,1999,Leeds,52
+ChangingLaneCar,199913AC24699,1999,Leeds,53
+ChangingLaneCar,199913DA09099,1999,Wakefield,23
+ChangingLaneCar,199913DC10099,1999,Wakefield,73
+ChangingLaneCar,199913EA47599,1999,Kirklees,40
+ChangingLaneCar,199913FD00299,1999,Calderdale,36
+ChangingLaneCar,199913GC06499,1999,Bradford,34
+ChangingLaneCar,199913GC33299,1999,Bradford,17
+ChangingLaneCar,199913HD30499,1999,Bradford,66
+ChangingLaneCar,199914AA00719,1999,Doncaster,61
+ChangingLaneCar,199914AA00853,1999,Doncaster,45
+ChangingLaneCar,199914BB00272,1999,Doncaster,73
+ChangingLaneCar,199914BB00492,1999,Doncaster,48
+ChangingLaneCar,199914CC00008,1999,Doncaster,65
+ChangingLaneCar,199914CC00063,1999,Doncaster,16
+ChangingLaneCar,199914FF00242,1999,Rotherham,29
+ChangingLaneCar,199914GG00864,1999,Rotherham,17
+ChangingLaneCar,199914II00440,1999,Sheffield,31
+ChangingLaneCar,199914JJ00122,1999,Sheffield,49
+ChangingLaneCar,199916A017899,1999,North East Lincolnshire,39
+ChangingLaneCar,199916E019299,1999,East Riding of Yorkshire,34
+ChangingLaneCar,199917M100016,1999,Middlesbrough,64
+ChangingLaneCar,199920J026701,1999,Dudley,35
+ChangingLaneCar,199920K053701,1999,Sandwell,19
+ChangingLaneCar,199920K084102,1999,Sandwell,30
+ChangingLaneCar,1.99922E+12,1999,Staffordshire,24
+ChangingLaneCar,1.99922E+12,1999,Staffordshire,31
+ChangingLaneCar,1.99922E+12,1999,Staffordshire,25
+ChangingLaneCar,199922EA11061,1999,Herefordshire,14
+ChangingLaneCar,199930C000304,1999,Derbyshire,32
+ChangingLaneCar,1999317B21432,1999,Nottingham,16
+ChangingLaneCar,199934NC00115,1999,Northamptonshire,51
+ChangingLaneCar,1.99935E+12,1999,Cambridgeshire,20
+ChangingLaneCar,199937L002724,1999,Suffolk,22
+ChangingLaneCar,199940C209499,1999,Luton,18
+ChangingLaneCar,19994100F0275,1999,Hertfordshire,42
+ChangingLaneCar,19994100G0214,1999,Hertfordshire,63
+ChangingLaneCar,19994200F0612,1999,Thurrock,43
+ChangingLaneCar,199943R381039,1999,Slough,9
+ChangingLaneCar,199943W084039,1999,Reading,34
+ChangingLaneCar,1999440GG0348,1999,Hampshire,11
+ChangingLaneCar,1999440KS0879,1999,Portsmouth,8
+ChangingLaneCar,1999440ZD0605,1999,Isle of Wight,13
+ChangingLaneCar,1999440ZD0961,1999,Isle of Wight,47
+ChangingLaneCar,199945EC00176,1999,Surrey,14
+ChangingLaneCar,199945ER00339,1999,Surrey,38
+ChangingLaneCar,199945NA00133,1999,Surrey,36
+ChangingLaneCar,199945NC00019,1999,Surrey,18
+ChangingLaneCar,199945NC00021,1999,Surrey,24
+ChangingLaneCar,199945WG00191,1999,Surrey,48
+ChangingLaneCar,199946NK01154,1999,Kent,
+ChangingLaneCar,199946SK00297,1999,Kent,
+ChangingLaneCar,199946WL04525,1999,Kent,17
+ChangingLaneCar,199946WL10216,1999,Kent,37
+ChangingLaneCar,199947C004610,1999,Brighton and Hove,23
+ChangingLaneCar,199947C004676,1999,Brighton and Hove,24
+ChangingLaneCar,199947C005354,1999,Brighton and Hove,16
+ChangingLaneCar,199947N002406,1999,West Sussex,
+ChangingLaneCar,199947T002239,1999,East Sussex,16
+ChangingLaneCar,199950D315137,1999,Devon,15
+ChangingLaneCar,199950E312379,1999,Plymouth,19
+ChangingLaneCar,199950E411363,1999,Plymouth,33
+ChangingLaneCar,1.99952E+12,1999,City of Bristol,35
+ChangingLaneCar,1.99952E+12,1999,City of Bristol,23
+ChangingLaneCar,1.99952E+12,1999,Bath and North East Somerset,47
+ChangingLaneCar,1.99952E+12,1999,City of Bristol,31
+ChangingLaneCar,1.99952E+12,1999,Somerset,58
+ChangingLaneCar,1.99952E+12,1999,Bath and North East Somerset,20
+ChangingLaneCar,1.99952E+12,1999,City of Bristol,41
+ChangingLaneCar,1999550B04073,1999,Bournemouth,42
+ChangingLaneCar,1999550B04933,1999,Bournemouth,53
+ChangingLaneCar,1999550P00048,1999,Poole,22
+ChangingLaneCar,200001BS01084,2000,London,27
+ChangingLaneCar,200001DM00289,2000,London,36
+ChangingLaneCar,200001DM00922,2000,London,
+ChangingLaneCar,200001DM01541,2000,London,19
+ChangingLaneCar,200001DM01559,2000,London,26
+ChangingLaneCar,200001DM01772,2000,London,27
+ChangingLaneCar,200001DM02012,2000,London,38
+ChangingLaneCar,200001DM02139,2000,London,43
+ChangingLaneCar,200001DM02516,2000,London,42
+ChangingLaneCar,200001DM02566,2000,London,21
+ChangingLaneCar,200001EK00506,2000,London,21
+ChangingLaneCar,200001EK00805,2000,London,34
+ChangingLaneCar,200001EK00808,2000,London,35
+ChangingLaneCar,200001EK01008,2000,London,39
+ChangingLaneCar,200001EK01160,2000,London,52
+ChangingLaneCar,200001FH00092,2000,London,39
+ChangingLaneCar,200001FH00137,2000,London,36
+ChangingLaneCar,200001FH00201,2000,London,24
+ChangingLaneCar,200001FH00625,2000,London,24
+ChangingLaneCar,200001HT00863,2000,London,40
+ChangingLaneCar,200001KO00236,2000,London,15
+ChangingLaneCar,200001KO00301,2000,London,33
+ChangingLaneCar,200001LX00209,2000,London,
+ChangingLaneCar,200001LX00638,2000,London,30
+ChangingLaneCar,200001MM00448,2000,London,29
+ChangingLaneCar,200001MM01376,2000,London,22
+ChangingLaneCar,200001NI00228,2000,London,32
+ChangingLaneCar,200001NI00819,2000,London,26
+ChangingLaneCar,200001NI01050,2000,London,37
+ChangingLaneCar,200001NI01371,2000,London,
+ChangingLaneCar,200001NI01412,2000,London,
+ChangingLaneCar,200001QD00008,2000,London,22
+ChangingLaneCar,200001QD00474,2000,London,30
+ChangingLaneCar,200001TX00975,2000,London,
+ChangingLaneCar,200001WW01534,2000,London,23
+ChangingLaneCar,200001XS01235,2000,London,60
+ChangingLaneCar,200001YF00359,2000,London,38
+ChangingLaneCar,200001ZD01258,2000,London,29
+ChangingLaneCar,2.00005E+12,2000,Merseyside,65
+ChangingLaneCar,2.00005E+12,2000,Merseyside,25
+ChangingLaneCar,2.00005E+12,2000,Merseyside,12
+ChangingLaneCar,200006M006617,2000,Trafford,28
+ChangingLaneCar,200006Q006497,2000,Oldham,15
+ChangingLaneCar,200006Q006553,2000,Oldham,13
+ChangingLaneCar,2.00007E+12,2000,Cheshire West and Chester,18
+ChangingLaneCar,2.00007E+12,2000,Halton,42
+ChangingLaneCar,2.00007E+12,2000,Warrington,48
+ChangingLaneCar,2.00007E+12,2000,Halton,27
+ChangingLaneCar,2.00013E+12,2000,Wakefield,41
+ChangingLaneCar,2.00013E+12,2000,Bradford,37
+ChangingLaneCar,2.00013E+12,2000,Wakefield,10
+ChangingLaneCar,2.00013E+12,2000,Leeds,29
+ChangingLaneCar,2.00013E+12,2000,Calderdale,49
+ChangingLaneCar,200013AA01200,2000,Leeds,52
+ChangingLaneCar,200013DA07500,2000,Wakefield,13
+ChangingLaneCar,200013DC05500,2000,Wakefield,21
+ChangingLaneCar,200014BB00824,2000,Doncaster,25
+ChangingLaneCar,200014GG00886,2000,Rotherham,11
+ChangingLaneCar,200014II00549,2000,Sheffield,39
+ChangingLaneCar,200014JJ01404,2000,Sheffield,53
+ChangingLaneCar,200014KK00566,2000,Sheffield,21
+ChangingLaneCar,200016C040400,2000,East Riding of Yorkshire,37
+ChangingLaneCar,200020M022701,2000,Coventry,70
+ChangingLaneCar,200022GA17330,2000,Telford and Wrekin,22
+ChangingLaneCar,2.00023E+12,2000,Warwickshire,22
+ChangingLaneCar,200030D000663,2000,Derby,64
+ChangingLaneCar,2.00035E+12,2000,Cambridgeshire,41
+ChangingLaneCar,2.00035E+12,2000,Peterborough,14
+ChangingLaneCar,2.00035E+12,2000,Cambridgeshire,38
+ChangingLaneCar,200037B009548,2000,Suffolk,22
+ChangingLaneCar,2000400D00632,2000,Central Bedfordshire,32
+ChangingLaneCar,20004100C0323,2000,Hertfordshire,42
+ChangingLaneCar,20004100F0388,2000,Hertfordshire,38
+ChangingLaneCar,20004200H0338,2000,Southend on Sea,48
+ChangingLaneCar,2000440JL0159,2000,Hampshire,62
+ChangingLaneCar,2000440NA0675,2000,Hampshire,40
+ChangingLaneCar,2000440RF0870,2000,Portsmouth,13
+ChangingLaneCar,2000440SP0561,2000,Southampton ,20
+ChangingLaneCar,200045ER00199,2000,Surrey,25
+ChangingLaneCar,200045NC00258,2000,Surrey,16
+ChangingLaneCar,200046MA13097,2000,Kent,53
+ChangingLaneCar,200046SK24719,2000,Kent,16
+ChangingLaneCar,200046SW28726,2000,Kent,13
+ChangingLaneCar,200046TH29630,2000,Kent,15
+ChangingLaneCar,200046WL13104,2000,Kent,26
+ChangingLaneCar,200047C007541,2000,Brighton and Hove,42
+ChangingLaneCar,200047C133218,2000,Brighton and Hove,23
+ChangingLaneCar,200047N131455,2000,West Sussex,68
+ChangingLaneCar,200047S127138,2000,East Sussex,15
+ChangingLaneCar,200047S130596,2000,East Sussex,21
+ChangingLaneCar,200047T004023,2000,East Sussex,15
+ChangingLaneCar,200047T004064,2000,East Sussex,12
+ChangingLaneCar,200047X128171,2000,West Sussex,34
+ChangingLaneCar,200052GB30976,2000,Somerset,20
+ChangingLaneCar,200101DM00308,2001,London,27
+ChangingLaneCar,200101EK00596,2001,London,19
+ChangingLaneCar,200101EK01136,2001,London,28
+ChangingLaneCar,200101HT00343,2001,London,20
+ChangingLaneCar,200101HT00440,2001,London,28
+ChangingLaneCar,200101JC00235,2001,London,27
+ChangingLaneCar,200101KG00068,2001,London,47
+ChangingLaneCar,200101KG00371,2001,London,
+ChangingLaneCar,200101KG00618,2001,London,35
+ChangingLaneCar,200101LX00200,2001,London,28
+ChangingLaneCar,200101MM00120,2001,London,46
+ChangingLaneCar,200101MM01140,2001,London,
+ChangingLaneCar,200101MM09038,2001,London,
+ChangingLaneCar,200101NI00226,2001,London,35
+ChangingLaneCar,200101NI00515,2001,London,25
+ChangingLaneCar,200101QD00266,2001,London,34
+ChangingLaneCar,200101QK00438,2001,London,14
+ChangingLaneCar,200101RG00557,2001,London,25
+ChangingLaneCar,200101SX00686,2001,London,46
+ChangingLaneCar,200101TW00107,2001,London,38
+ChangingLaneCar,200101TX00559,2001,London,32
+ChangingLaneCar,200101TX00693,2001,London,45
+ChangingLaneCar,200101VW00142,2001,London,43
+ChangingLaneCar,200101XS00191,2001,London,46
+ChangingLaneCar,200101YF00175,2001,London,43
+ChangingLaneCar,200101YR00030,2001,London,38
+ChangingLaneCar,2.00105E+12,2001,Merseyside,42
+ChangingLaneCar,2.00105E+12,2001,Merseyside,9
+ChangingLaneCar,200106C013815,2001,Manchester,54
+ChangingLaneCar,200106M007973,2001,Trafford,36
+ChangingLaneCar,2.00107E+12,2001,Halton,38
+ChangingLaneCar,200110F276701,2001,Newcastle upon Tyne,35
+ChangingLaneCar,2.00112E+12,2001,North Yorkshire,9
+ChangingLaneCar,2.00113E+12,2001,Leeds,26
+ChangingLaneCar,2.00113E+12,2001,Leeds,24
+ChangingLaneCar,2.00113E+12,2001,Leeds,31
+ChangingLaneCar,2.00113E+12,2001,Bradford,45
+ChangingLaneCar,2.00113E+12,2001,Leeds,38
+ChangingLaneCar,2.00113E+12,2001,Leeds,35
+ChangingLaneCar,2.00113E+12,2001,Bradford,32
+ChangingLaneCar,200114GG00506,2001,Rotherham,18
+ChangingLaneCar,200114JJ01339,2001,Sheffield,48
+ChangingLaneCar,200116B035101,2001,North Lincolnshire,39
+ChangingLaneCar,200116B047601,2001,North Lincolnshire,28
+ChangingLaneCar,200116D089701,2001,Kingston Upon Hull,39
+ChangingLaneCar,200120E227301,2001,Birmingham,6
+ChangingLaneCar,2.00121E+12,2001,Staffordshire,30
+ChangingLaneCar,200122GB23416,2001,Shropshire,
+ChangingLaneCar,2.00123E+12,2001,Warwickshire,20
+ChangingLaneCar,2.00123E+12,2001,Warwickshire,
+ChangingLaneCar,2.00133E+12,2001,Leicestershire,30
+ChangingLaneCar,200134NN00185,2001,Northamptonshire,25
+ChangingLaneCar,2.00135E+12,2001,Cambridgeshire,26
+ChangingLaneCar,2.00135E+12,2001,Cambridgeshire,31
+ChangingLaneCar,20014100F0134,2001,Hertfordshire,35
+ChangingLaneCar,20014200J0194,2001,Essex,63
+ChangingLaneCar,200143N038061,2001,Buckinghamshire,25
+ChangingLaneCar,2001440GG0205,2001,Hampshire,44
+ChangingLaneCar,2001440JW0191,2001,Hampshire,11
+ChangingLaneCar,2001440SC0653,2001,Southampton ,37
+ChangingLaneCar,2001440ZD0999,2001,Isle of Wight,9
+ChangingLaneCar,2001440ZD1265,2001,Isle of Wight,32
+ChangingLaneCar,2.00145E+12,2001,Surrey,48
+ChangingLaneCar,200145EM08023,2001,Surrey,53
+ChangingLaneCar,200145WG10322,2001,Surrey,36
+ChangingLaneCar,200146SK38779,2001,Kent,12
+ChangingLaneCar,200146WK45526,2001,Kent,
+ChangingLaneCar,200147C145269,2001,Brighton and Hove,
+ChangingLaneCar,200147C145461,2001,Brighton and Hove,33
+ChangingLaneCar,200147N132823,2001,West Sussex,57
+ChangingLaneCar,200147S137517,2001,East Sussex,
+ChangingLaneCar,200147S138764,2001,East Sussex,15
+ChangingLaneCar,200147T145109,2001,East Sussex,14
+ChangingLaneCar,200147X137996,2001,West Sussex,28
+ChangingLaneCar,200150A212358,2001,Cornwall and Isles of Scilly,13
+ChangingLaneCar,200150A512142,2001,Cornwall and Isles of Scilly,17
+ChangingLaneCar,200150B620418,2001,Cornwall and Isles of Scilly,25
+ChangingLaneCar,200150C213763,2001,Devon,21
+ChangingLaneCar,200150C312282,2001,Devon,27
+ChangingLaneCar,200150E412337,2001,Plymouth,27
+ChangingLaneCar,2.00152E+12,2001,City of Bristol,51
+ChangingLaneCar,2.00152E+12,2001,South Gloucestershire,35
+ChangingLaneCar,2.00152E+12,2001,North Somerset,15
+ChangingLaneCar,2.00152E+12,2001,City of Bristol,30
+ChangingLaneCar,2.00152E+12,2001,North Somerset,34
+ChangingLaneCar,200152F700417,2001,Somerset,29
+ChangingLaneCar,200152G715877,2001,Somerset,24
+ChangingLaneCar,200154CD58501,2001,Wiltshire,27
+ChangingLaneCar,2001550P01739,2001,Poole,27
+ChangingLaneCar,2001550P01943,2001,Poole,25
+ChangingLaneCar,2001550P06717,2001,Poole,16
+ChangingLaneCar,200201BS00268,2002,London,33
+ChangingLaneCar,200201DM01196,2002,London,29
+ChangingLaneCar,200201DM02141,2002,London,29
+ChangingLaneCar,200201DM02259,2002,London,27
+ChangingLaneCar,200201EO01041,2002,London,33
+ChangingLaneCar,200201EO01479,2002,London,16
+ChangingLaneCar,200201FH00389,2002,London,49
+ChangingLaneCar,200201KG00661,2002,London,33
+ChangingLaneCar,200201RG00765,2002,London,
+ChangingLaneCar,200201RG00876,2002,London,31
+ChangingLaneCar,200201SX00194,2002,London,67
+ChangingLaneCar,200201TW00023,2002,London,62
+ChangingLaneCar,200201TW00026,2002,London,11
+ChangingLaneCar,200201VW00223,2002,London,34
+ChangingLaneCar,200201XS00178,2002,London,21
+ChangingLaneCar,200201YR00081,2002,London,27
+ChangingLaneCar,2.00203E+12,2002,Cumbria,13
+ChangingLaneCar,200203DUP0071,2002,Cumbria,35
+ChangingLaneCar,2.00205E+12,2002,Merseyside,51
+ChangingLaneCar,2.00205E+12,2002,Merseyside,14
+ChangingLaneCar,2.00205E+12,2002,Merseyside,22
+ChangingLaneCar,2.00205E+12,2002,Merseyside,14
+ChangingLaneCar,2.00205E+12,2002,Merseyside,81
+ChangingLaneCar,2.00205E+12,2002,Merseyside,12
+ChangingLaneCar,2.00205E+12,2002,Merseyside,47
+ChangingLaneCar,2.00205E+12,2002,Merseyside,55
+ChangingLaneCar,200205AW00044,2002,Merseyside,44
+ChangingLaneCar,200205BS00021,2002,Merseyside,32
+ChangingLaneCar,200205FT00094,2002,Merseyside,40
+ChangingLaneCar,200206A013359,2002,Manchester,20
+ChangingLaneCar,200206G008752,2002,Tameside,8
+ChangingLaneCar,200206M010125,2002,Trafford,29
+ChangingLaneCar,2.00207E+12,2002,Cheshire West and Chester,57
+ChangingLaneCar,2.00207E+12,2002,Halton,28
+ChangingLaneCar,2.00207E+12,2002,Cheshire West and Chester,20
+ChangingLaneCar,2.00207E+12,2002,Warrington,64
+ChangingLaneCar,2.00207E+12,2002,Halton,45
+ChangingLaneCar,2.00212E+12,2002,North Yorkshire,26
+ChangingLaneCar,2.00213E+12,2002,Leeds,13
+ChangingLaneCar,2.00213E+12,2002,Bradford,43
+ChangingLaneCar,2.00213E+12,2002,Bradford,33
+ChangingLaneCar,2.00213E+12,2002,Kirklees,17
+ChangingLaneCar,2.00213E+12,2002,Wakefield,14
+ChangingLaneCar,200214DD00567,2002,Barnsley,19
+ChangingLaneCar,200214HH00561,2002,Sheffield,16
+ChangingLaneCar,200214JJ00879,2002,Sheffield,44
+ChangingLaneCar,200216A004502,2002,North East Lincolnshire,26
+ChangingLaneCar,200216C064902,2002,East Riding of Yorkshire,39
+ChangingLaneCar,200216D007502,2002,Kingston Upon Hull,27
+ChangingLaneCar,200220J054201,2002,Dudley,30
+ChangingLaneCar,2.00221E+12,2002,Stoke on Trent,44
+ChangingLaneCar,2.00221E+12,2002,Staffordshire,31
+ChangingLaneCar,2.00221E+12,2002,Staffordshire,21
+ChangingLaneCar,200222CA29365,2002,Worcestershire,53
+ChangingLaneCar,200230A000314,2002,Derbyshire,
+ChangingLaneCar,200230D000304,2002,Derby,33
+ChangingLaneCar,200230D000881,2002,Derby,20
+ChangingLaneCar,200232B145402,2002,Lincolnshire,16
+ChangingLaneCar,200234NW00206,2002,Northamptonshire,14
+ChangingLaneCar,2.00235E+12,2002,Cambridgeshire,32
+ChangingLaneCar,2.00235E+12,2002,Cambridgeshire,66
+ChangingLaneCar,2.00235E+12,2002,Cambridgeshire,40
+ChangingLaneCar,2.00235E+12,2002,Peterborough,
+ChangingLaneCar,200237B013465,2002,Suffolk,80
+ChangingLaneCar,2002400B00864,2002,Bedford Borough Council,33
+ChangingLaneCar,20024200C0516,2002,Essex,21
+ChangingLaneCar,20024200C0676,2002,Essex,57
+ChangingLaneCar,2002440AA1230,2002,Hampshire,39
+ChangingLaneCar,2002440JH0066,2002,Hampshire,14
+ChangingLaneCar,200245ES16832,2002,Surrey,47
+ChangingLaneCar,200245RE20178,2002,Surrey,15
+ChangingLaneCar,200245RS17536,2002,Surrey,32
+ChangingLaneCar,200245RS22982,2002,Surrey,
+ChangingLaneCar,200245RW28850,2002,Surrey,19
+ChangingLaneCar,2.00247E+12,2002,Medway,28
+ChangingLaneCar,2.00247E+12,2002,Medway,7
+ChangingLaneCar,200246MA61937,2002,Kent,31
+ChangingLaneCar,200246SK54917,2002,Kent,32
+ChangingLaneCar,200246WK57662,2002,Kent,26
+ChangingLaneCar,200247C148693,2002,Brighton and Hove,22
+ChangingLaneCar,200247K151627,2002,Brighton and Hove,41
+ChangingLaneCar,200247K153960,2002,West Sussex,10
+ChangingLaneCar,200247K154928,2002,Brighton and Hove,21
+ChangingLaneCar,200247K156440,2002,West Sussex,
+ChangingLaneCar,200250A313754,2002,Cornwall and Isles of Scilly,17
+ChangingLaneCar,2.00252E+12,2002,Somerset,40
+ChangingLaneCar,2.00252E+12,2002,Somerset,17
+ChangingLaneCar,2.00252E+12,2002,Somerset,20
+ChangingLaneCar,2.00252E+12,2002,Somerset,17
+ChangingLaneCar,200254DS13102,2002,Swindon,62
+ChangingLaneCar,200301EO00268,2003,London,57
+ChangingLaneCar,200301EO01273,2003,London,29
+ChangingLaneCar,200301EO01780,2003,London,27
+ChangingLaneCar,200301EO02113,2003,London,30
+ChangingLaneCar,200301GD00717,2003,London,27
+ChangingLaneCar,200301HT00519,2003,London,36
+ChangingLaneCar,200301LX00363,2003,London,38
+ChangingLaneCar,200301MM00894,2003,London,60
+ChangingLaneCar,200301PL01044,2003,London,28
+ChangingLaneCar,200301QK00625,2003,London,24
+ChangingLaneCar,200301QK00860,2003,London,19
+ChangingLaneCar,200301TA00458,2003,London,41
+ChangingLaneCar,200301TX00375,2003,London,35
+ChangingLaneCar,200301VW00236,2003,London,
+ChangingLaneCar,200301WW00454,2003,London,30
+ChangingLaneCar,200301XH00134,2003,London,
+ChangingLaneCar,200301ZD00537,2003,London,19
+ChangingLaneCar,2.00303E+12,2003,Cumbria,38
+ChangingLaneCar,200305AW00845,2003,Merseyside,15
+ChangingLaneCar,200305AW01447,2003,Merseyside,36
+ChangingLaneCar,200305CH00019,2003,Merseyside,44
+ChangingLaneCar,200305FT00178,2003,Merseyside,19
+ChangingLaneCar,200305FT00348,2003,Merseyside,25
+ChangingLaneCar,200305FT01050,2003,Merseyside,30
+ChangingLaneCar,200306L015521,2003,Wigan,12
+ChangingLaneCar,2.00307E+12,2003,Cheshire West and Chester,39
+ChangingLaneCar,2.00307E+12,2003,Cheshire West and Chester,38
+ChangingLaneCar,2.00307E+12,2003,Cheshire West and Chester,41
+ChangingLaneCar,2.00307E+12,2003,Cheshire West and Chester,43
+ChangingLaneCar,2.00307E+12,2003,Warrington,34
+ChangingLaneCar,2.00307E+12,2003,Warrington,75
+ChangingLaneCar,2.00312E+12,2003,York,24
+ChangingLaneCar,2.00313E+12,2003,Wakefield,52
+ChangingLaneCar,2.00313E+12,2003,Wakefield,49
+ChangingLaneCar,2.00313E+12,2003,Bradford,43
+ChangingLaneCar,200314JJ00457,2003,Sheffield,27
+ChangingLaneCar,200314JJ00737,2003,Sheffield,21
+ChangingLaneCar,200316C064003,2003,East Riding of Yorkshire,13
+ChangingLaneCar,200316D074003,2003,Kingston Upon Hull,44
+ChangingLaneCar,200320E063302,2003,Birmingham,30
+ChangingLaneCar,2.00321E+12,2003,Staffordshire,7
+ChangingLaneCar,200322CA35019,2003,Worcestershire,47
+ChangingLaneCar,200330C000619,2003,Derbyshire,37
+ChangingLaneCar,20033102D5942,2003,Nottinghamshire,58
+ChangingLaneCar,200332D091003,2003,Lincolnshire,10
+ChangingLaneCar,2.00333E+12,2003,Leicestershire,40
+ChangingLaneCar,20034200C0417,2003,Essex,14
+ChangingLaneCar,20034200C0571,2003,Essex,58
+ChangingLaneCar,20034200H0383,2003,Southend on Sea,49
+ChangingLaneCar,200343S001103,2003,Milton Keynes,5
+ChangingLaneCar,200343W257093,2003,Slough,40
+ChangingLaneCar,200343W259053,2003,Reading,49
+ChangingLaneCar,2003440DW0001,2003,Hampshire,19
+ChangingLaneCar,2003440LA0319,2003,Hampshire,8
+ChangingLaneCar,2003440LA0472,2003,Hampshire,20
+ChangingLaneCar,2003440SP0284,2003,Southampton ,19
+ChangingLaneCar,200345RS34414,2003,Surrey,18
+ChangingLaneCar,200345RS38737,2003,Surrey,48
+ChangingLaneCar,2.00347E+12,2003,Medway,47
+ChangingLaneCar,200346TH78016,2003,Kent,5
+ChangingLaneCar,200346WL76991,2003,Kent,15
+ChangingLaneCar,200346WL80178,2003,Kent,54
+ChangingLaneCar,200347K160356,2003,Brighton and Hove,38
+ChangingLaneCar,200347K163320,2003,Brighton and Hove,20
+ChangingLaneCar,200347K166703,2003,East Sussex,18
+ChangingLaneCar,200350A51O288,2003,Cornwall and Isles of Scilly,13
+ChangingLaneCar,200350B62J028,2003,Cornwall and Isles of Scilly,32
+ChangingLaneCar,200350C41P867,2003,Devon,9
+ChangingLaneCar,200350D21B232,2003,Devon,86
+ChangingLaneCar,200350D21D842,2003,Devon,15
+ChangingLaneCar,200350D21J966,2003,Devon,32
+ChangingLaneCar,200350E41B454,2003,Plymouth,26
+ChangingLaneCar,200350F31L518,2003,Torbay,14
+ChangingLaneCar,200350F41I025,2003,Devon,17
+ChangingLaneCar,2.00352E+12,2003,City of Bristol,18
+ChangingLaneCar,2.00352E+12,2003,City of Bristol,35
+ChangingLaneCar,200354CP29603,2003,Wiltshire,17
+ChangingLaneCar,2003550P04735,2003,Poole,25
+ChangingLaneCar,2003550P04862,2003,Poole,16
+ChangingLaneCar,2003550P04892,2003,Poole,
+ChangingLaneCar,2003550P05423,2003,Poole,15
+ChangingLaneCar,200401CP00150,2004,London,32
+ChangingLaneCar,200401CW10062,2004,London,26
+ChangingLaneCar,200401EO00389,2004,London,40
+ChangingLaneCar,200401EO01308,2004,London,48
+ChangingLaneCar,200401EO01458,2004,London,44
+ChangingLaneCar,200401EO01610,2004,London,37
+ChangingLaneCar,200401EO01857,2004,London,30
+ChangingLaneCar,200401FH00207,2004,London,71
+ChangingLaneCar,200401FH00299,2004,London,29
+ChangingLaneCar,200401FH00388,2004,London,26
+ChangingLaneCar,200401GD10056,2004,London,27
+ChangingLaneCar,200401JI00294,2004,London,52
+ChangingLaneCar,200401LX50492,2004,London,
+ChangingLaneCar,200401MM70401,2004,London,46
+ChangingLaneCar,200401MM70440,2004,London,41
+ChangingLaneCar,200401PY20636,2004,London,34
+ChangingLaneCar,200401RY10265,2004,London,13
+ChangingLaneCar,200401TC01018,2004,London,35
+ChangingLaneCar,200401TE00495,2004,London,26
+ChangingLaneCar,200401TW00515,2004,London,66
+ChangingLaneCar,200401TX00815,2004,London,
+ChangingLaneCar,200401VW00349,2004,London,
+ChangingLaneCar,200401XS00889,2004,London,38
+ChangingLaneCar,200401YR00596,2004,London,41
+ChangingLaneCar,200405BS00032,2004,Merseyside,20
+ChangingLaneCar,200405BS01414,2004,Merseyside,11
+ChangingLaneCar,200406A910397,2004,Manchester,25
+ChangingLaneCar,200406A910607,2004,Manchester,10
+ChangingLaneCar,200406F909460,2004,Salford,24
+ChangingLaneCar,200406J015163,2004,Stockport,58
+ChangingLaneCar,200406J015335,2004,Stockport,36
+ChangingLaneCar,200406J901834,2004,Stockport,45
+ChangingLaneCar,200406J909389,2004,Stockport,44
+ChangingLaneCar,200406J913086,2004,Stockport,40
+ChangingLaneCar,200406L017034,2004,Wigan,39
+ChangingLaneCar,200406L906990,2004,Wigan,29
+ChangingLaneCar,200406L912155,2004,Wigan,11
+ChangingLaneCar,200406N901103,2004,Bury,42
+ChangingLaneCar,200406N909334,2004,Bury,13
+ChangingLaneCar,200406P013053,2004,Rochdale,28
+ChangingLaneCar,200406Q911868,2004,Oldham,21
+ChangingLaneCar,2.00407E+12,2004,Cheshire West and Chester,53
+ChangingLaneCar,2.00407E+12,2004,Warrington,15
+ChangingLaneCar,2.00407E+12,2004,Cheshire East,15
+ChangingLaneCar,2.00412E+12,2004,North Yorkshire,11
+ChangingLaneCar,2.00412E+12,2004,North Yorkshire,47
+ChangingLaneCar,2.00413E+12,2004,Bradford,15
+ChangingLaneCar,2.00413E+12,2004,Leeds,29
+ChangingLaneCar,2.00413E+12,2004,Bradford,41
+ChangingLaneCar,2.00413E+12,2004,Bradford,45
+ChangingLaneCar,2.00413E+12,2004,Bradford,48
+ChangingLaneCar,2.00413E+12,2004,Bradford,50
+ChangingLaneCar,2.00413E+12,2004,Kirklees,52
+ChangingLaneCar,2.00413E+12,2004,Leeds,30
+ChangingLaneCar,2.00413E+12,2004,Leeds,38
+ChangingLaneCar,200414AA02768,2004,Doncaster,35
+ChangingLaneCar,200414CC00307,2004,Rotherham,12
+ChangingLaneCar,200414EE00022,2004,Sheffield,41
+ChangingLaneCar,2004170L20394,2004,Redcar and Cleveland,15
+ChangingLaneCar,2004170M10894,2004,Middlesbrough,28
+ChangingLaneCar,2.00421E+12,2004,Staffordshire,45
+ChangingLaneCar,2.00423E+12,2004,Warwickshire,45
+ChangingLaneCar,200430A000708,2004,Derbyshire,15
+ChangingLaneCar,200432B212404,2004,Lincolnshire,47
+ChangingLaneCar,2.00433E+12,2004,Leicestershire,62
+ChangingLaneCar,200434NN06689,2004,Northamptonshire,35
+ChangingLaneCar,2.00435E+12,2004,Cambridgeshire,37
+ChangingLaneCar,2.00435E+12,2004,Peterborough,15
+ChangingLaneCar,200437G016113,2004,Suffolk,65
+ChangingLaneCar,20044100B0667,2004,Hertfordshire,50
+ChangingLaneCar,20044100C0625,2004,Hertfordshire,15
+ChangingLaneCar,20044100G0467,2004,Hertfordshire,42
+ChangingLaneCar,20044200C0365,2004,Essex,6
+ChangingLaneCar,20044200C0780,2004,Essex,57
+ChangingLaneCar,20044200J0365,2004,Essex,21
+ChangingLaneCar,200443W293104,2004,Windsor and Maidenhead,34
+ChangingLaneCar,2004440JW0432,2004,Hampshire,39
+ChangingLaneCar,2004440OC0994,2004,Hampshire,51
+ChangingLaneCar,2004440ZD0675,2004,Isle of Wight,47
+ChangingLaneCar,200445RE49132,2004,Surrey,55
+ChangingLaneCar,200445SU51444,2004,Surrey,23
+ChangingLaneCar,2.00446E+12,2004,Medway,23
+ChangingLaneCar,200446CT92366,2004,Kent,
+ChangingLaneCar,200446MA91286,2004,Kent,
+ChangingLaneCar,200446MA96298,2004,Kent,13
+ChangingLaneCar,200446WK92210,2004,Kent,25
+ChangingLaneCar,200446WK93710,2004,Kent,52
+ChangingLaneCar,200447K171833,2004,West Sussex,20
+ChangingLaneCar,200447K172641,2004,West Sussex,10
+ChangingLaneCar,200447K174753,2004,West Sussex,20
+ChangingLaneCar,200447K178119,2004,East Sussex,39
+ChangingLaneCar,200447K178864,2004,West Sussex,52
+ChangingLaneCar,200447K179675,2004,West Sussex,61
+ChangingLaneCar,200447K182431,2004,Brighton and Hove,43
+ChangingLaneCar,200450A22N691,2004,Cornwall and Isles of Scilly,45
+ChangingLaneCar,200450B41G492,2004,Cornwall and Isles of Scilly,30
+ChangingLaneCar,200450C21J717,2004,Devon,48
+ChangingLaneCar,200450D21K302,2004,Devon,42
+ChangingLaneCar,200450D21Q720,2004,Devon,14
+ChangingLaneCar,200450D31R475,2004,Devon,29
+ChangingLaneCar,200450E21F185,2004,Plymouth,36
+ChangingLaneCar,200450F21B039,2004,Torbay,32
+ChangingLaneCar,200450F31G270,2004,Torbay,44
+ChangingLaneCar,2.00452E+12,2004,City of Bristol,35
+ChangingLaneCar,2004550P02311,2004,Poole,37
+ChangingLaneCar,200501BS70009,2005,London,37
+ChangingLaneCar,200501BS70010,2005,London,50
+ChangingLaneCar,200501BS70040,2005,London,59
+ChangingLaneCar,200501BS70593,2005,London,43
+ChangingLaneCar,200501CW11072,2005,London,35
+ChangingLaneCar,200501CW11730,2005,London,63
+ChangingLaneCar,200501EK40029,2005,London,31
+ChangingLaneCar,200501EO00120,2005,London,39
+ChangingLaneCar,200501EO40782,2005,London,44
+ChangingLaneCar,200501EO40814,2005,London,25
+ChangingLaneCar,200501EO40968,2005,London,39
+ChangingLaneCar,200501EO41387,2005,London,46
+ChangingLaneCar,200501FH10135,2005,London,39
+ChangingLaneCar,200501FH10267,2005,London,26
+ChangingLaneCar,200501FH10371,2005,London,17
+ChangingLaneCar,200501FH10431,2005,London,44
+ChangingLaneCar,200501HT20526,2005,London,39
+ChangingLaneCar,200501KG70306,2005,London,6
+ChangingLaneCar,200501LX50345,2005,London,33
+ChangingLaneCar,200501LX50536,2005,London,39
+ChangingLaneCar,200501LX50625,2005,London,25
+ChangingLaneCar,200501LX51123,2005,London,25
+ChangingLaneCar,200501MM70423,2005,London,42
+ChangingLaneCar,200501PL60187,2005,London,43
+ChangingLaneCar,200501PL60525,2005,London,41
+ChangingLaneCar,200501PL60580,2005,London,34
+ChangingLaneCar,200501PY20059,2005,London,15
+ChangingLaneCar,200501QA10092,2005,London,13
+ChangingLaneCar,200501RG40315,2005,London,48
+ChangingLaneCar,200501RY10188,2005,London,52
+ChangingLaneCar,200501SX20257,2005,London,35
+ChangingLaneCar,200501TW60436,2005,London,17
+ChangingLaneCar,200501TX20669,2005,London,39
+ChangingLaneCar,200501TX20734,2005,London,31
+ChangingLaneCar,200501VW40305,2005,London,
+ChangingLaneCar,200501WW00014,2005,London,43
+ChangingLaneCar,200501WW50028,2005,London,32
+ChangingLaneCar,200501WW50439,2005,London,30
+ChangingLaneCar,200501XH00019,2005,London,43
+ChangingLaneCar,200501XH30164,2005,London,36
+ChangingLaneCar,200501ZT80284,2005,London,40
+ChangingLaneCar,2.00503E+12,2005,Cumbria,39
+ChangingLaneCar,2.00503E+12,2005,Cumbria,13
+ChangingLaneCar,200505AW00782,2005,Merseyside,46
+ChangingLaneCar,200505BS00365,2005,Merseyside,39
+ChangingLaneCar,200505CC02409,2005,Merseyside,53
+ChangingLaneCar,200505DH00613,2005,Merseyside,13
+ChangingLaneCar,200506B024518,2005,Manchester,15
+ChangingLaneCar,200506B033546,2005,Manchester,38
+ChangingLaneCar,200506C038876,2005,Manchester,77
+ChangingLaneCar,200506F029127,2005,Salford,52
+ChangingLaneCar,200506F919166,2005,Salford,56
+ChangingLaneCar,200506M033264,2005,Trafford,28
+ChangingLaneCar,200506N026545,2005,Bury,39
+ChangingLaneCar,200506N920790,2005,Bury,20
+ChangingLaneCar,200506P026305,2005,Rochdale,39
+ChangingLaneCar,2.00507E+12,2005,Cheshire West and Chester,55
+ChangingLaneCar,2.00507E+12,2005,Warrington,35
+ChangingLaneCar,2.00507E+12,2005,Cheshire West and Chester,60
+ChangingLaneCar,2.00507E+12,2005,Warrington,17
+ChangingLaneCar,2.00507E+12,2005,Cheshire East,19
+ChangingLaneCar,2.00507E+12,2005,Cheshire West and Chester,64
+ChangingLaneCar,2.0051E+12,2005,Newcastle upon Tyne,39
+ChangingLaneCar,2.0051E+12,2005,South Tyneside,41
+ChangingLaneCar,2.00512E+12,2005,York,51
+ChangingLaneCar,2.00513E+12,2005,Kirklees,36
+ChangingLaneCar,2.00513E+12,2005,Kirklees,13
+ChangingLaneCar,2.00513E+12,2005,Wakefield,38
+ChangingLaneCar,2.00513E+12,2005,Wakefield,32
+ChangingLaneCar,2.00513E+12,2005,Bradford,34
+ChangingLaneCar,2.00513E+12,2005,Leeds,34
+ChangingLaneCar,200514A008305,2005,Doncaster,7
+ChangingLaneCar,200514D030405,2005,Sheffield,54
+ChangingLaneCar,200514E024805,2005,Sheffield,
+ChangingLaneCar,200520D328403,2005,Birmingham,12
+ChangingLaneCar,200522DE47832,2005,Worcestershire,30
+ChangingLaneCar,2.00533E+12,2005,Leicestershire,53
+ChangingLaneCar,2.00533E+12,2005,Leicestershire,59
+ChangingLaneCar,2.00533E+12,2005,Leicestershire,38
+ChangingLaneCar,20054100E0311,2005,Hertfordshire,42
+ChangingLaneCar,200542H003101,2005,Southend on Sea,23
+ChangingLaneCar,200542H038309,2005,Southend on Sea,54
+ChangingLaneCar,200543W236055,2005,Wokingham,43
+ChangingLaneCar,2.00544E+12,2005,Southampton ,16
+ChangingLaneCar,2.00544E+12,2005,Hampshire,20
+ChangingLaneCar,2.00544E+12,2005,Hampshire,
+ChangingLaneCar,2.00544E+12,2005,Isle of Wight,30
+ChangingLaneCar,200545SP67277,2005,Surrey,9
+ChangingLaneCar,200545WO73212,2005,Surrey,20
+ChangingLaneCar,2.00546E+12,2005,Kent,49
+ChangingLaneCar,2.00546E+12,2005,Kent,48
+ChangingLaneCar,2.00546E+12,2005,Kent,14
+ChangingLaneCar,2.00546E+12,2005,Kent,45
+ChangingLaneCar,2.00547E+12,2005,West Sussex,74
+ChangingLaneCar,2.00547E+12,2005,West Sussex,15
+ChangingLaneCar,2.00547E+12,2005,Brighton and Hove,34
+ChangingLaneCar,200550A21J672,2005,Cornwall and Isles of Scilly,15
+ChangingLaneCar,200550B32H566,2005,Cornwall and Isles of Scilly,15
+ChangingLaneCar,200550B41D801,2005,Cornwall and Isles of Scilly,36
+ChangingLaneCar,200550B61L426,2005,Cornwall and Isles of Scilly,13
+ChangingLaneCar,200550D21J105,2005,Devon,14
+ChangingLaneCar,200550F51P162,2005,Devon,58
+ChangingLaneCar,2.00552E+12,2005,Bath and North East Somerset,21
+ChangingLaneCar,2.00552E+12,2005,Bath and North East Somerset,15
+ChangingLaneCar,2.00553E+12,2005,Gloucestershire,20
+ChangingLaneCar,200554CT30505,2005,Wiltshire,
+ChangingLaneCar,2005555B01399,2005,Bournemouth,57
+ChangingLaneCar,2005555B02555,2005,Bournemouth,27
+ChangingLaneCar,2005555B03942,2005,Bournemouth,26
+ChangingLaneCar,2005555B05526,2005,Bournemouth,30
+ChangingLaneCar,200601CW10766,2006,London,39
+ChangingLaneCar,200601EO40774,2006,London,35
+ChangingLaneCar,200601EO40996,2006,London,30
+ChangingLaneCar,200601EO41025,2006,London,29
+ChangingLaneCar,200601EO41415,2006,London,32
+ChangingLaneCar,200601FH10087,2006,London,35
+ChangingLaneCar,200601FH10367,2006,London,30
+ChangingLaneCar,200601FH10452,2006,London,30
+ChangingLaneCar,200601GD10673,2006,London,34
+ChangingLaneCar,200601HT20012,2006,London,20
+ChangingLaneCar,200601HT20302,2006,London,38
+ChangingLaneCar,200601KF60715,2006,London,25
+ChangingLaneCar,200601LX50287,2006,London,27
+ChangingLaneCar,200601LX50347,2006,London,29
+ChangingLaneCar,200601LX50385,2006,London,57
+ChangingLaneCar,200601LX50417,2006,London,
+ChangingLaneCar,200601LX50612,2006,London,32
+ChangingLaneCar,200601LX50877,2006,London,26
+ChangingLaneCar,200601LX50989,2006,London,32
+ChangingLaneCar,200601MM70547,2006,London,40
+ChangingLaneCar,200601MM70876,2006,London,44
+ChangingLaneCar,200601MM71098,2006,London,32
+ChangingLaneCar,200601MM71118,2006,London,34
+ChangingLaneCar,200601PL60438,2006,London,34
+ChangingLaneCar,200601QA10265,2006,London,48
+ChangingLaneCar,200601QA10267,2006,London,45
+ChangingLaneCar,200601RY10362,2006,London,20
+ChangingLaneCar,200601SX20431,2006,London,43
+ChangingLaneCar,200601SX21002,2006,London,56
+ChangingLaneCar,200601TX20475,2006,London,37
+ChangingLaneCar,200601WW50162,2006,London,55
+ChangingLaneCar,200601XH30422,2006,London,30
+ChangingLaneCar,200601ZD30765,2006,London,38
+ChangingLaneCar,200604AM06178,2006,Blackpool,48
+ChangingLaneCar,200604BA06220,2006,Lancashire,43
+ChangingLaneCar,200604CM06095,2006,Lancashire,39
+ChangingLaneCar,200604EA06348,2006,Blackburn with Darwen,55
+ChangingLaneCar,200605CC08140,2006,Merseyside,27
+ChangingLaneCar,200605EE06817,2006,Merseyside,26
+ChangingLaneCar,200605EE13032,2006,Merseyside,20
+ChangingLaneCar,200605FF05480,2006,Merseyside,29
+ChangingLaneCar,200606F044289,2006,Salford,41
+ChangingLaneCar,200606J058509,2006,Stockport,44
+ChangingLaneCar,200606J063922,2006,Stockport,42
+ChangingLaneCar,200606KN59548,2006,Bolton,39
+ChangingLaneCar,200606Q061674,2006,Oldham,29
+ChangingLaneCar,2.00607E+12,2006,Warrington,15
+ChangingLaneCar,2.00607E+12,2006,Halton,57
+ChangingLaneCar,2.00607E+12,2006,Warrington,30
+ChangingLaneCar,2.00607E+12,2006,Cheshire West and Chester,25
+ChangingLaneCar,2.00607E+12,2006,Cheshire West and Chester,20
+ChangingLaneCar,2.00607E+12,2006,Warrington,55
+ChangingLaneCar,2.00607E+12,2006,Warrington,16
+ChangingLaneCar,2.0061E+12,2006,South Tyneside,33
+ChangingLaneCar,2.00612E+12,2006,York,31
+ChangingLaneCar,2.00613E+12,2006,Leeds,32
+ChangingLaneCar,2.00613E+12,2006,Kirklees,13
+ChangingLaneCar,2.00613E+12,2006,Leeds,60
+ChangingLaneCar,200614A234906,2006,Doncaster,69
+ChangingLaneCar,200614F001106,2006,Sheffield,31
+ChangingLaneCar,200614F029806,2006,Sheffield,29
+ChangingLaneCar,2006160A00090,2006,North East Lincolnshire,39
+ChangingLaneCar,2006160D04030,2006,Kingston Upon Hull,32
+ChangingLaneCar,2006170S41416,2006,Stockton on Tees,11
+ChangingLaneCar,200632D267706,2006,Lincolnshire,18
+ChangingLaneCar,2.00635E+12,2006,Cambridgeshire,31
+ChangingLaneCar,2.00635E+12,2006,Cambridgeshire,28
+ChangingLaneCar,200637G020912,2006,Suffolk,40
+ChangingLaneCar,20064100A0501,2006,Hertfordshire,41
+ChangingLaneCar,20064100C0926,2006,Hertfordshire,30
+ChangingLaneCar,200642F023906,2006,Thurrock,27
+ChangingLaneCar,200642I347609,2006,Essex,38
+ChangingLaneCar,200643W005096,2006,Reading,15
+ChangingLaneCar,2.00644E+12,2006,Portsmouth,34
+ChangingLaneCar,2.00644E+12,2006,Hampshire,36
+ChangingLaneCar,2.00644E+12,2006,Portsmouth,41
+ChangingLaneCar,200645EL91020,2006,Surrey,48
+ChangingLaneCar,200645SP93201,2006,Surrey,39
+ChangingLaneCar,200645TA88986,2006,Surrey,20
+ChangingLaneCar,2.00646E+12,2006,Kent,11
+ChangingLaneCar,2.00646E+12,2006,Kent,35
+ChangingLaneCar,2.00646E+12,2006,Kent,15
+ChangingLaneCar,2.00646E+12,2006,Kent,24
+ChangingLaneCar,2.00647E+12,2006,West Sussex,48
+ChangingLaneCar,2.00647E+12,2006,Brighton and Hove,51
+ChangingLaneCar,2.00647E+12,2006,West Sussex,41
+ChangingLaneCar,2.00647E+12,2006,East Sussex,38
+ChangingLaneCar,2.00647E+12,2006,Brighton and Hove,24
+ChangingLaneCar,2.00647E+12,2006,West Sussex,35
+ChangingLaneCar,200650B41E520,2006,Cornwall and Isles of Scilly,56
+ChangingLaneCar,200650D21L445,2006,Devon,68
+ChangingLaneCar,200650D35D817,2006,Devon,14
+ChangingLaneCar,200650E21P636,2006,Plymouth,49
+ChangingLaneCar,200650E51D588,2006,Plymouth,
+ChangingLaneCar,2.00652E+12,2006,Somerset,31
+ChangingLaneCar,2.00652E+12,2006,City of Bristol,42
+ChangingLaneCar,2.00652E+12,2006,City of Bristol,20
+ChangingLaneCar,2.00652E+12,2006,North Somerset,37
+ChangingLaneCar,2.00653E+12,2006,Gloucestershire,47
+ChangingLaneCar,2.00653E+12,2006,Gloucestershire,15
+ChangingLaneCar,200654DC18206,2006,Swindon,31
+ChangingLaneCar,2006556B03915,2006,Bournemouth,23
+ChangingLaneCar,2006556W03055,2006,Dorset,48
+ChangingLaneCar,200701BS70464,2007,London,24
+ChangingLaneCar,200701CW10066,2007,London,42
+ChangingLaneCar,200701EK62507,2007,London,48
+ChangingLaneCar,200701EO40710,2007,London,31
+ChangingLaneCar,200701GD10160,2007,London,30
+ChangingLaneCar,200701GD10197,2007,London,46
+ChangingLaneCar,200701HT64270,2007,London,45
+ChangingLaneCar,200701HT66845,2007,London,34
+ChangingLaneCar,200701JC66942,2007,London,
+ChangingLaneCar,200701KD67353,2007,London,60
+ChangingLaneCar,200701KD68125,2007,London,17
+ChangingLaneCar,200701KG65896,2007,London,47
+ChangingLaneCar,200701LX50163,2007,London,28
+ChangingLaneCar,200701MD62651,2007,London,26
+ChangingLaneCar,200701MD63662,2007,London,11
+ChangingLaneCar,200701MM70365,2007,London,32
+ChangingLaneCar,200701NI62496,2007,London,22
+ChangingLaneCar,200701PY65793,2007,London,39
+ChangingLaneCar,200701RG40605,2007,London,19
+ChangingLaneCar,200701RG40606,2007,London,40
+ChangingLaneCar,200701RG63006,2007,London,8
+ChangingLaneCar,200701TA00095,2007,London,15
+ChangingLaneCar,200701TX20662,2007,London,
+ChangingLaneCar,200701XH64459,2007,London,32
+ChangingLaneCar,200701ZD63179,2007,London,29
+ChangingLaneCar,200704DA07106,2007,Lancashire,53
+ChangingLaneCar,200705AA19370,2007,Merseyside,17
+ChangingLaneCar,200705DD22412,2007,Merseyside,34
+ChangingLaneCar,200705EE17193,2007,Merseyside,16
+ChangingLaneCar,200705EE21193,2007,Merseyside,44
+ChangingLaneCar,200706C065027,2007,Manchester,54
+ChangingLaneCar,200706N076917,2007,Bury,48
+ChangingLaneCar,2.00707E+12,2007,Warrington,19
+ChangingLaneCar,2.00707E+12,2007,Warrington,49
+ChangingLaneCar,2.00707E+12,2007,Cheshire West and Chester,14
+ChangingLaneCar,2.00707E+12,2007,Cheshire East,59
+ChangingLaneCar,2.00707E+12,2007,Halton,28
+ChangingLaneCar,2.0071E+12,2007,Newcastle upon Tyne,24
+ChangingLaneCar,2.00712E+12,2007,York,45
+ChangingLaneCar,2.00712E+12,2007,York,28
+ChangingLaneCar,2.00713E+12,2007,Kirklees,12
+ChangingLaneCar,2.00713E+12,2007,Leeds,53
+ChangingLaneCar,2.00713E+12,2007,Kirklees,12
+ChangingLaneCar,2.00713E+12,2007,Kirklees,29
+ChangingLaneCar,2.00713E+12,2007,Kirklees,
+ChangingLaneCar,2.00713E+12,2007,Bradford,42
+ChangingLaneCar,2.00713E+12,2007,Kirklees,21
+ChangingLaneCar,2.00713E+12,2007,Leeds,35
+ChangingLaneCar,200714A185407,2007,Doncaster,37
+ChangingLaneCar,200714A219907,2007,Doncaster,46
+ChangingLaneCar,2007160A02680,2007,North East Lincolnshire,26
+ChangingLaneCar,2007170H10997,2007,Hartlepool,14
+ChangingLaneCar,2.00723E+12,2007,Warwickshire,53
+ChangingLaneCar,200730A000538,2007,Derbyshire,25
+ChangingLaneCar,200732D350107,2007,Lincolnshire,36
+ChangingLaneCar,2.00733E+12,2007,Leicestershire,28
+ChangingLaneCar,2.00733E+12,2007,Leicestershire,43
+ChangingLaneCar,200734WN37327,2007,Northamptonshire,37
+ChangingLaneCar,2.00735E+12,2007,Cambridgeshire,35
+ChangingLaneCar,2.00735E+12,2007,Cambridgeshire,35
+ChangingLaneCar,200736T070295,2007,Norfolk,19
+ChangingLaneCar,20074100G0737,2007,Hertfordshire,15
+ChangingLaneCar,20074100J2119,2007,Hertfordshire,36
+ChangingLaneCar,200742I008601,2007,Essex,42
+ChangingLaneCar,200742I013501,2007,Essex,15
+ChangingLaneCar,200742I037601,2007,Essex,46
+ChangingLaneCar,200743S113057,2007,Milton Keynes,64
+ChangingLaneCar,200743W056037,2007,West Berkshire,20
+ChangingLaneCar,2.00744E+12,2007,Hampshire,56
+ChangingLaneCar,200745EL98776,2007,Surrey,25
+ChangingLaneCar,200745EP01949,2007,Surrey,34
+ChangingLaneCar,200745MO04360,2007,Surrey,
+ChangingLaneCar,2.00746E+12,2007,Kent,34
+ChangingLaneCar,2.00746E+12,2007,Kent,48
+ChangingLaneCar,2.00746E+12,2007,Kent,41
+ChangingLaneCar,2.00746E+12,2007,Kent,52
+ChangingLaneCar,2.00747E+12,2007,West Sussex,28
+ChangingLaneCar,2.00747E+12,2007,East Sussex,12
+ChangingLaneCar,2.00747E+12,2007,East Sussex,48
+ChangingLaneCar,2.00747E+12,2007,Brighton and Hove,20
+ChangingLaneCar,2.00747E+12,2007,West Sussex,33
+ChangingLaneCar,2.00747E+12,2007,Brighton and Hove,36
+ChangingLaneCar,2.00747E+12,2007,East Sussex,17
+ChangingLaneCar,200750A41M306,2007,Cornwall and Isles of Scilly,30
+ChangingLaneCar,200750E21C417,2007,Plymouth,39
+ChangingLaneCar,200750E31E541,2007,Plymouth,13
+ChangingLaneCar,200750F31N618,2007,Torbay,22
+ChangingLaneCar,2.00752E+12,2007,City of Bristol,34
+ChangingLaneCar,2.00752E+12,2007,City of Bristol,17
+ChangingLaneCar,2.00752E+12,2007,Somerset,28
+ChangingLaneCar,2.00753E+12,2007,Gloucestershire,44
+ChangingLaneCar,2.00753E+12,2007,Gloucestershire,21
+ChangingLaneCar,2.00753E+12,2007,Gloucestershire,24
+ChangingLaneCar,2007557B00168,2007,Bournemouth,15
+ChangingLaneCar,2007557B03119,2007,Bournemouth,19
+ChangingLaneCar,200801BS70186,2008,London,38
+ChangingLaneCar,200801BS70446,2008,London,36
+ChangingLaneCar,200801CP00025,2008,London,36
+ChangingLaneCar,200801CP00246,2008,London,47
+ChangingLaneCar,200801CW10272,2008,London,59
+ChangingLaneCar,200801CW10305,2008,London,32
+ChangingLaneCar,200801CW10387,2008,London,26
+ChangingLaneCar,200801CW11724,2008,London,26
+ChangingLaneCar,200801CW11822,2008,London,42
+ChangingLaneCar,200801EO40796,2008,London,43
+ChangingLaneCar,200801GD72166,2008,London,18
+ChangingLaneCar,200801HT73970,2008,London,30
+ChangingLaneCar,200801HT75783,2008,London,53
+ChangingLaneCar,200801JI70493,2008,London,53
+ChangingLaneCar,200801JI72311,2008,London,38
+ChangingLaneCar,200801LX50221,2008,London,48
+ChangingLaneCar,200801MM70298,2008,London,42
+ChangingLaneCar,200801PL60437,2008,London,27
+ChangingLaneCar,200801PL60535,2008,London,31
+ChangingLaneCar,200801RY10131,2008,London,50
+ChangingLaneCar,200801XD80239,2008,London,27
+ChangingLaneCar,200801XH30184,2008,London,27
+ChangingLaneCar,200801YR90397,2008,London,33
+ChangingLaneCar,200801ZT80176,2008,London,15
+ChangingLaneCar,200804AM08196,2008,Blackpool,29
+ChangingLaneCar,200804AX08125,2008,Blackpool,36
+ChangingLaneCar,200804BB08052,2008,Lancashire,23
+ChangingLaneCar,200804EA08288,2008,Blackburn with Darwen,44
+ChangingLaneCar,200804FB08066,2008,Lancashire,28
+ChangingLaneCar,200804FL08123,2008,Lancashire,56
+ChangingLaneCar,200805BB26066,2008,Merseyside,21
+ChangingLaneCar,200805EE26014,2008,Merseyside,20
+ChangingLaneCar,200805EE27821,2008,Merseyside,29
+ChangingLaneCar,200805EE28240,2008,Merseyside,50
+ChangingLaneCar,200805FF23275,2008,Merseyside,42
+ChangingLaneCar,2.00807E+12,2008,Halton,59
+ChangingLaneCar,2.00807E+12,2008,Cheshire West and Chester,78
+ChangingLaneCar,2.00807E+12,2008,Warrington,25
+ChangingLaneCar,2.00807E+12,2008,Cheshire West and Chester,54
+ChangingLaneCar,2.00807E+12,2008,Cheshire West and Chester,14
+ChangingLaneCar,2.00807E+12,2008,Warrington,29
+ChangingLaneCar,2.0081E+12,2008,Northumberland,20
+ChangingLaneCar,2.00813E+12,2008,Leeds,23
+ChangingLaneCar,2.00813E+12,2008,Leeds,45
+ChangingLaneCar,2.00813E+12,2008,Wakefield,16
+ChangingLaneCar,2.00813E+12,2008,Leeds,29
+ChangingLaneCar,200814C094608,2008,Rotherham,4
+ChangingLaneCar,200814K048408,2008,Sheffield,49
+ChangingLaneCar,2008160C06250,2008,East Riding of Yorkshire,46
+ChangingLaneCar,2008170M12668,2008,Middlesbrough,32
+ChangingLaneCar,200820H009601,2008,Walsall,19
+ChangingLaneCar,200820M040802,2008,Coventry,60
+ChangingLaneCar,200834NC28788,2008,Northamptonshire,39
+ChangingLaneCar,200834WN24248,2008,Northamptonshire,42
+ChangingLaneCar,2.00835E+12,2008,Cambridgeshire,18
+ChangingLaneCar,2.00835E+12,2008,Cambridgeshire,40
+ChangingLaneCar,2.00835E+12,2008,Cambridgeshire,
+ChangingLaneCar,20084100C0665,2008,Hertfordshire,26
+ChangingLaneCar,200842I196806,2008,Essex,10
+ChangingLaneCar,200842I329409,2008,Essex,11
+ChangingLaneCar,200842I358610,2008,Essex,26
+ChangingLaneCar,200842I380610,2008,Southend on Sea,20
+ChangingLaneCar,200843P210018,2008,Oxfordshire,40
+ChangingLaneCar,200843R276108,2008,Windsor and Maidenhead,55
+ChangingLaneCar,200843S150018,2008,Milton Keynes,33
+ChangingLaneCar,2.00844E+12,2008,Hampshire,38
+ChangingLaneCar,2.00844E+12,2008,Southampton ,29
+ChangingLaneCar,2.00844E+12,2008,Hampshire,16
+ChangingLaneCar,2.00844E+12,2008,Portsmouth,44
+ChangingLaneCar,200845EL32161,2008,Surrey,29
+ChangingLaneCar,200845EP25353,2008,Surrey,25
+ChangingLaneCar,200845GU26871,2008,Surrey,22
+ChangingLaneCar,200845GU32058,2008,Surrey,27
+ChangingLaneCar,2.00846E+12,2008,Kent,52
+ChangingLaneCar,2.00846E+12,2008,Kent,58
+ChangingLaneCar,2.00846E+12,2008,Kent,16
+ChangingLaneCar,2.00846E+12,2008,Kent,33
+ChangingLaneCar,2.00846E+12,2008,Kent,23
+ChangingLaneCar,2.00846E+12,2008,Kent,21
+ChangingLaneCar,2.00847E+12,2008,West Sussex,12
+ChangingLaneCar,2.00847E+12,2008,East Sussex,28
+ChangingLaneCar,2.00847E+12,2008,West Sussex,42
+ChangingLaneCar,2.00847E+12,2008,East Sussex,60
+ChangingLaneCar,2.00847E+12,2008,West Sussex,35
+ChangingLaneCar,200850AC3J029,2008,Cornwall and Isles of Scilly,11
+ChangingLaneCar,200850EC2G009,2008,Plymouth,27
+ChangingLaneCar,200850ED2E004,2008,Plymouth,25
+ChangingLaneCar,200850JI3F001,2008,Devon,16
+ChangingLaneCar,2.00852E+12,2008,Bath and North East Somerset,17
+ChangingLaneCar,2.00852E+12,2008,South Gloucestershire,34
+ChangingLaneCar,2.00853E+12,2008,Gloucestershire,59
+ChangingLaneCar,2.00853E+12,2008,Gloucestershire,16
+ChangingLaneCar,2.00853E+12,2008,Gloucestershire,67
+ChangingLaneCar,200901BS70548,2009,London,52
+ChangingLaneCar,200901CW10046,2009,London,40
+ChangingLaneCar,200901CW10964,2009,London,36
+ChangingLaneCar,200901CW11258,2009,London,39
+ChangingLaneCar,200901GD10220,2009,London,56
+ChangingLaneCar,200901HT20795,2009,London,24
+ChangingLaneCar,200901HT29010,2009,London,
+ChangingLaneCar,200901KF60141,2009,London,29
+ChangingLaneCar,200901LX50008,2009,London,38
+ChangingLaneCar,200901LX50242,2009,London,21
+ChangingLaneCar,200901LX50398,2009,London,23
+ChangingLaneCar,200901LX50732,2009,London,46
+ChangingLaneCar,200901LX50895,2009,London,48
+ChangingLaneCar,200901MM70535,2009,London,36
+ChangingLaneCar,200901PL60154,2009,London,30
+ChangingLaneCar,200901PL60858,2009,London,34
+ChangingLaneCar,200901RG40554,2009,London,40
+ChangingLaneCar,200901RG40734,2009,London,62
+ChangingLaneCar,200901TW60328,2009,London,31
+ChangingLaneCar,200901TX20042,2009,London,64
+ChangingLaneCar,200901TX20044,2009,London,49
+ChangingLaneCar,200901WW50667,2009,London,42
+ChangingLaneCar,200901WW50868,2009,London,27
+ChangingLaneCar,200901XD80971,2009,London,27
+ChangingLaneCar,200901ZD39026,2009,London,47
+ChangingLaneCar,200901ZT80221,2009,London,20
+ChangingLaneCar,200901ZT80296,2009,London,46
+ChangingLaneCar,200904BA09065,2009,Lancashire,24
+ChangingLaneCar,200904BB09082,2009,Lancashire,14
+ChangingLaneCar,200904CA09104,2009,Lancashire,19
+ChangingLaneCar,200904CM09068,2009,Lancashire,32
+ChangingLaneCar,200904EB09064,2009,Blackburn with Darwen,25
+ChangingLaneCar,200904FL09057,2009,Lancashire,25
+ChangingLaneCar,200905DD31993,2009,Merseyside,26
+ChangingLaneCar,200905FF03321,2009,Merseyside,46
+ChangingLaneCar,200906C022750,2009,Manchester,22
+ChangingLaneCar,200906J021031,2009,Stockport,51
+ChangingLaneCar,200906K015392,2009,Bolton,50
+ChangingLaneCar,2.00907E+12,2009,Cheshire West and Chester,8
+ChangingLaneCar,2.00907E+12,2009,Cheshire West and Chester,23
+ChangingLaneCar,2.00907E+12,2009,Cheshire West and Chester,36
+ChangingLaneCar,2.00907E+12,2009,Cheshire East,57
+ChangingLaneCar,2.00907E+12,2009,Cheshire East,34
+ChangingLaneCar,2.00907E+12,2009,Cheshire East,32
+ChangingLaneCar,2.00912E+12,2009,York,13
+ChangingLaneCar,2.00913E+12,2009,Leeds,39
+ChangingLaneCar,200914K000709,2009,Sheffield,51
+ChangingLaneCar,200914K289509,2009,Sheffield,28
+ChangingLaneCar,200914K310509,2009,Sheffield,42
+ChangingLaneCar,2009160A05350,2009,North East Lincolnshire,77
+ChangingLaneCar,2.00923E+12,2009,Warwickshire,35
+ChangingLaneCar,200932D267809,2009,Lincolnshire,37
+ChangingLaneCar,2.00933E+12,2009,Leicestershire,33
+ChangingLaneCar,200942I135004,2009,Southend on Sea,15
+ChangingLaneCar,200942I253608,2009,Essex,11
+ChangingLaneCar,200942I279908,2009,Essex,19
+ChangingLaneCar,200942I332510,2009,Thurrock,20
+ChangingLaneCar,200942I362410,2009,Southend on Sea,
+ChangingLaneCar,200943P301039,2009,Oxfordshire,52
+ChangingLaneCar,200943P330129,2009,Oxfordshire,18
+ChangingLaneCar,200943R228049,2009,Slough,24
+ChangingLaneCar,200943W033039,2009,Reading,22
+ChangingLaneCar,2.00944E+12,2009,Hampshire,18
+ChangingLaneCar,2.00944E+12,2009,Hampshire,36
+ChangingLaneCar,2.00944E+12,2009,Hampshire,54
+ChangingLaneCar,2.00944E+12,2009,Hampshire,13
+ChangingLaneCar,2.00944E+12,2009,Southampton ,71
+ChangingLaneCar,200945EL40936,2009,Surrey,15
+ChangingLaneCar,200945RU40461,2009,Surrey,12
+ChangingLaneCar,200945SP46649,2009,Surrey,50
+ChangingLaneCar,200945SP46819,2009,Surrey,37
+ChangingLaneCar,200945TA35922,2009,Surrey,42
+ChangingLaneCar,200945WO47512,2009,Surrey,40
+ChangingLaneCar,2.00946E+12,2009,Kent,43
+ChangingLaneCar,2.00946E+12,2009,Kent,48
+ChangingLaneCar,2.00946E+12,2009,Kent,39
+ChangingLaneCar,2.00946E+12,2009,Kent,15
+ChangingLaneCar,2.00947E+12,2009,West Sussex,46
+ChangingLaneCar,2.00947E+12,2009,Brighton and Hove,27
+ChangingLaneCar,2.00947E+12,2009,West Sussex,15
+ChangingLaneCar,2.00947E+12,2009,West Sussex,28
+ChangingLaneCar,2.00947E+12,2009,West Sussex,45
+ChangingLaneCar,2.00947E+12,2009,East Sussex,47
+ChangingLaneCar,2.00947E+12,2009,East Sussex,14
+ChangingLaneCar,200950DE2H032,2009,Devon,29
+ChangingLaneCar,200950DE2V004,2009,Devon,34
+ChangingLaneCar,200950KC2W010,2009,Devon,47
+ChangingLaneCar,2.00952E+12,2009,South Gloucestershire,32
+ChangingLaneCar,2.00952E+12,2009,South Gloucestershire,33
+ChangingLaneCar,2.00952E+12,2009,City of Bristol,47
+ChangingLaneCar,2.00953E+12,2009,Gloucestershire,32
+ChangingLaneCar,2.00953E+12,2009,Gloucestershire,57
+ChangingLaneCar,2.00953E+12,2009,Gloucestershire,71
+ChangingLaneCar,201001BS70233,2010,London,46
+ChangingLaneCar,201001BS70402,2010,London,27
+ChangingLaneCar,201001BS70590,2010,London,19
+ChangingLaneCar,201001CP00046,2010,London,37
+ChangingLaneCar,201001CP00237,2010,London,54
+ChangingLaneCar,201001CW10162,2010,London,30
+ChangingLaneCar,201001CW11237,2010,London,68
+ChangingLaneCar,201001CW12394,2010,London,37
+ChangingLaneCar,201001CW12677,2010,London,24
+ChangingLaneCar,201001EO40628,2010,London,51
+ChangingLaneCar,201001EO40741,2010,London,44
+ChangingLaneCar,201001GD10803,2010,London,
+ChangingLaneCar,201001HT20359,2010,London,28
+ChangingLaneCar,201001JC30488,2010,London,46
+ChangingLaneCar,201001JI40320,2010,London,41
+ChangingLaneCar,201001JI40444,2010,London,15
+ChangingLaneCar,201001KD50035,2010,London,18
+ChangingLaneCar,201001KG70313,2010,London,12
+ChangingLaneCar,201001KG70347,2010,London,36
+ChangingLaneCar,201001KG70407,2010,London,13
+ChangingLaneCar,201001MM70567,2010,London,37
+ChangingLaneCar,201001MM70744,2010,London,41
+ChangingLaneCar,201001MM70909,2010,London,46
+ChangingLaneCar,201001PL60641,2010,London,
+ChangingLaneCar,201001PY20244,2010,London,45
+ChangingLaneCar,201001QA10299,2010,London,40
+ChangingLaneCar,201001RG40217,2010,London,31
+ChangingLaneCar,201001RG40442,2010,London,55
+ChangingLaneCar,201001SX20790,2010,London,
+ChangingLaneCar,201001TB00125,2010,London,31
+ChangingLaneCar,201001TW60219,2010,London,28
+ChangingLaneCar,201001VK30159,2010,London,28
+ChangingLaneCar,201001VK30241,2010,London,21
+ChangingLaneCar,201001WW50083,2010,London,
+ChangingLaneCar,201001XH30487,2010,London,52
+ChangingLaneCar,201001YR90117,2010,London,
+ChangingLaneCar,201001ZT80400,2010,London,13
+ChangingLaneCar,201004AL10087,2010,Lancashire,44
+ChangingLaneCar,201004CJ10015,2010,Lancashire,39
+ChangingLaneCar,201004CK10127,2010,Lancashire,59
+ChangingLaneCar,201005AA04045,2010,Merseyside,20
+ChangingLaneCar,201005AA06897,2010,Merseyside,48
+ChangingLaneCar,201005DD06169,2010,Merseyside,14
+ChangingLaneCar,201006B039887,2010,Manchester,51
+ChangingLaneCar,201006M038901,2010,Trafford,19
+ChangingLaneCar,2.01007E+12,2010,Warrington,54
+ChangingLaneCar,2.01007E+12,2010,Cheshire West and Chester,42
+ChangingLaneCar,2.01007E+12,2010,Cheshire East,35
+ChangingLaneCar,2.01007E+12,2010,Cheshire West and Chester,52
+ChangingLaneCar,2.01012E+12,2010,North Yorkshire,53
+ChangingLaneCar,2.01012E+12,2010,York,18
+ChangingLaneCar,2.01013E+12,2010,Wakefield,37
+ChangingLaneCar,2.01013E+12,2010,Wakefield,38
+ChangingLaneCar,2.01013E+12,2010,Wakefield,61
+ChangingLaneCar,2.01013E+12,2010,Wakefield,54
+ChangingLaneCar,201014A154810,2010,Doncaster,45
+ChangingLaneCar,201014K135210,2010,Sheffield,15
+ChangingLaneCar,201014K237010,2010,Sheffield,29
+ChangingLaneCar,201022G004007,2010,Telford and Wrekin,50
+ChangingLaneCar,2.01023E+12,2010,Warwickshire,36
+ChangingLaneCar,2.01035E+12,2010,Cambridgeshire,48
+ChangingLaneCar,2.01035E+12,2010,Cambridgeshire,21
+ChangingLaneCar,2010400B03227,2010,Bedford Borough Council,23
+ChangingLaneCar,20104100C1202,2010,Hertfordshire,24
+ChangingLaneCar,20104100E0332,2010,Hertfordshire,36
+ChangingLaneCar,201042I064703,2010,Essex,25
+ChangingLaneCar,201042I076803,2010,Southend on Sea,58
+ChangingLaneCar,201042I086203,2010,Essex,17
+ChangingLaneCar,201042I097703,2010,Thurrock,18
+ChangingLaneCar,201042I236907,2010,Essex,15
+ChangingLaneCar,201042I316109,2010,Thurrock,9
+ChangingLaneCar,201042I418009,2010,Essex,57
+ChangingLaneCar,201043S010100,2010,Milton Keynes,26
+ChangingLaneCar,2.01044E+12,2010,Southampton ,40
+ChangingLaneCar,2.01044E+12,2010,Portsmouth,53
+ChangingLaneCar,2.01044E+12,2010,Hampshire,42
+ChangingLaneCar,201045GU50288,2010,Surrey,48
+ChangingLaneCar,201045GU50506,2010,Surrey,39
+ChangingLaneCar,2.01046E+12,2010,Kent,38
+ChangingLaneCar,2.01046E+12,2010,Kent,33
+ChangingLaneCar,2.01046E+12,2010,Kent,58
+ChangingLaneCar,2.01046E+12,2010,Kent,68
+ChangingLaneCar,2.01046E+12,2010,Kent,11
+ChangingLaneCar,2.01046E+12,2010,Kent,23
+ChangingLaneCar,2.01047E+12,2010,West Sussex,27
+ChangingLaneCar,2.01047E+12,2010,West Sussex,44
+ChangingLaneCar,201050EL2B011,2010,Plymouth,37
+ChangingLaneCar,201050FT2J037,2010,Torbay,24
+ChangingLaneCar,201050FT2L025,2010,Torbay,75
+ChangingLaneCar,2.01052E+12,2010,City of Bristol,45
+ChangingLaneCar,2.01053E+12,2010,Gloucestershire,63
+ChangingLaneCar,2011201101BS70431,2011,London,26
+ChangingLaneCar,2011201101CP00094,2011,London,36
+ChangingLaneCar,2011201101CP00238,2011,London,31
+ChangingLaneCar,2011201101CW12206,2011,London,23
+ChangingLaneCar,2011201101EO40327,2011,London,-1
+ChangingLaneCar,2011201101EO40615,2011,London,36
+ChangingLaneCar,2011201101JI40679,2011,London,29
+ChangingLaneCar,2011201101JI40717,2011,London,53
+ChangingLaneCar,2011201101KD50344,2011,London,56
+ChangingLaneCar,2011201101KG70495,2011,London,49
+ChangingLaneCar,2011201101LX50310,2011,London,49
+ChangingLaneCar,2011201101LX50554,2011,London,33
+ChangingLaneCar,2011201101LX50781,2011,London,32
+ChangingLaneCar,2011201101MM70317,2011,London,43
+ChangingLaneCar,2011201101QA19048,2011,London,22
+ChangingLaneCar,2011201101RG40391,2011,London,18
+ChangingLaneCar,2011201101TA00345,2011,London,36
+ChangingLaneCar,2011201101TA00487,2011,London,39
+ChangingLaneCar,2011201101TA00702,2011,London,18
+ChangingLaneCar,2011201101TA01080,2011,London,50
+ChangingLaneCar,2011201101TA01450,2011,London,-1
+ChangingLaneCar,2011201101TB00203,2011,London,22
+ChangingLaneCar,2011201101TB00637,2011,London,63
+ChangingLaneCar,2011201101TW60171,2011,London,68
+ChangingLaneCar,2011201101VK30293,2011,London,51
+ChangingLaneCar,2011201101VK30311,2011,London,28
+ChangingLaneCar,2011201101VW40039,2011,London,58
+ChangingLaneCar,2011201101VW40050,2011,London,43
+ChangingLaneCar,2011201101WW50603,2011,London,34
+ChangingLaneCar,2011201101WW50636,2011,London,39
+ChangingLaneCar,2011201101WW50815,2011,London,26
+ChangingLaneCar,2011201101YR90351,2011,London,42
+ChangingLaneCar,2011201101YR90390,2011,London,45
+ChangingLaneCar,2011201104CM11062,2011,Lancashire,25
+ChangingLaneCar,2011201104DF11079,2011,Lancashire,29
+ChangingLaneCar,2011201105CC04400,2011,Merseyside,34
+ChangingLaneCar,2011201106L045123,2011,Wigan,37
+ChangingLaneCar,2.0112E+16,2011,Cheshire West and Chester,27
+ChangingLaneCar,2.0112E+16,2011,Warrington,7
+ChangingLaneCar,2.0112E+16,2011,Cheshire West and Chester,61
+ChangingLaneCar,2.0112E+16,2011,Cheshire East,58
+ChangingLaneCar,2.0112E+16,2011,Cheshire West and Chester,60
+ChangingLaneCar,2.0112E+16,2011,Bradford,26
+ChangingLaneCar,2011201114K039411,2011,Sheffield,65
+ChangingLaneCar,2011201114K090911,2011,Sheffield,10
+ChangingLaneCar,2011201114K183711,2011,Sheffield,51
+ChangingLaneCar,2011201114K240011,2011,Sheffield,22
+ChangingLaneCar,2011201114K310411,2011,Sheffield,19
+ChangingLaneCar,2011201114K311211,2011,Sheffield,59
+ChangingLaneCar,2011201120N047461,2011,Birmingham,47
+ChangingLaneCar,2011201122C103890,2011,Worcestershire,32
+ChangingLaneCar,2011201130C000302,2011,Derbyshire,19
+ChangingLaneCar,2011201130C000728,2011,Derbyshire,34
+ChangingLaneCar,2011201130D001014,2011,Derby,43
+ChangingLaneCar,2011201130D001096,2011,Derby,18
+ChangingLaneCar,2011201132B037511,2011,Lincolnshire,17
+ChangingLaneCar,2011201134WN43841,2011,Northamptonshire,20
+ChangingLaneCar,2.0112E+16,2011,Cambridgeshire,18
+ChangingLaneCar,2.0112E+16,2011,Suffolk,35
+ChangingLaneCar,2011201142I121504,2011,Essex,14
+ChangingLaneCar,2011201142I179406,2011,Essex,30
+ChangingLaneCar,2011201142I181806,2011,Southend on Sea,18
+ChangingLaneCar,2011201142I188706,2011,Essex,46
+ChangingLaneCar,2011201142I203007,2011,Essex,54
+ChangingLaneCar,2011201142I224707,2011,Essex,35
+ChangingLaneCar,2011201143P250081,2011,Oxfordshire,47
+ChangingLaneCar,2.0112E+16,2011,Hampshire,35
+ChangingLaneCar,2.0112E+16,2011,Hampshire,23
+ChangingLaneCar,2.0112E+16,2011,Hampshire,41
+ChangingLaneCar,2.0112E+16,2011,Southampton ,54
+ChangingLaneCar,2.0112E+16,2011,Hampshire,30
+ChangingLaneCar,2.0112E+16,2011,Southampton ,21
+ChangingLaneCar,2011201145EP66977,2011,Surrey,81
+ChangingLaneCar,2011201145GU60499,2011,Surrey,60
+ChangingLaneCar,2011201145GU63709,2011,Surrey,5
+ChangingLaneCar,2011201145GU65050,2011,Surrey,64
+ChangingLaneCar,2.0112E+16,2011,Kent,35
+ChangingLaneCar,2.0112E+16,2011,Kent,50
+ChangingLaneCar,2.0112E+16,2011,Kent,16
+ChangingLaneCar,2.0112E+16,2011,Kent,22
+ChangingLaneCar,2.0112E+16,2011,Kent,70
+ChangingLaneCar,2.0112E+16,2011,Kent,26
+ChangingLaneCar,2.0112E+16,2011,West Sussex,26
+ChangingLaneCar,2.0112E+16,2011,West Sussex,50
+ChangingLaneCar,2.0112E+16,2011,West Sussex,28
+ChangingLaneCar,2.0112E+16,2011,East Sussex,59
+ChangingLaneCar,2.0112E+16,2011,West Sussex,10
+ChangingLaneCar,2.0112E+16,2011,Brighton and Hove,41
+ChangingLaneCar,2.0112E+16,2011,West Sussex,54
+ChangingLaneCar,2.0112E+16,2011,Brighton and Hove,9
+ChangingLaneCar,2.0112E+16,2011,West Sussex,25
+ChangingLaneCar,2.0112E+16,2011,West Sussex,15
+ChangingLaneCar,2011201150EC2H037,2011,Plymouth,17
+ChangingLaneCar,2011201150EC2J074,2011,Plymouth,18
+ChangingLaneCar,2011201150EK2D011,2011,Plymouth,18
+ChangingLaneCar,2011201150EL2J008,2011,Plymouth,-1
+ChangingLaneCar,2.0112E+16,2011,Somerset,57
+ChangingLaneCar,2.0112E+16,2011,Bath and North East Somerset,27
+ChangingLaneCar,2.0112E+16,2011,Bath and North East Somerset,-1
+ChangingLaneCar,2.0112E+16,2011,City of Bristol,34
+ChangingLaneCar,20112011551C22534,2011,Bournemouth,33
+ChangingLaneCar,20112011551C50385,2011,Poole,22
+ChangingLaneCar,2012201201CP00171,2012,London,32
+ChangingLaneCar,2012201201CW10072,2012,London,24
+ChangingLaneCar,2012201201CW10781,2012,London,64
+ChangingLaneCar,2012201201CW11387,2012,London,22
+ChangingLaneCar,2012201201CW11485,2012,London,40
+ChangingLaneCar,2012201201CW11595,2012,London,45
+ChangingLaneCar,2012201201EK40547,2012,London,32
+ChangingLaneCar,2012201201EK40672,2012,London,32
+ChangingLaneCar,2012201201EO40486,2012,London,42
+ChangingLaneCar,2012201201GD10445,2012,London,28
+ChangingLaneCar,2012201201GD10527,2012,London,30
+ChangingLaneCar,2012201201HT20563,2012,London,53
+ChangingLaneCar,2012201201HT20900,2012,London,30
+ChangingLaneCar,2012201201JI40119,2012,London,44
+ChangingLaneCar,2012201201KD50226,2012,London,50
+ChangingLaneCar,2012201201KD50423,2012,London,11
+ChangingLaneCar,2012201201KF60504,2012,London,46
+ChangingLaneCar,2012201201LX50033,2012,London,22
+ChangingLaneCar,2012201201LX51069,2012,London,58
+ChangingLaneCar,2012201201MM70286,2012,London,31
+ChangingLaneCar,2012201201MM70662,2012,London,38
+ChangingLaneCar,2012201201MM70938,2012,London,25
+ChangingLaneCar,2012201201PL60151,2012,London,26
+ChangingLaneCar,2012201201PY20508,2012,London,26
+ChangingLaneCar,2012201201TA00002,2012,London,51
+ChangingLaneCar,2012201201TA00365,2012,London,59
+ChangingLaneCar,2012201201TB00652,2012,London,36
+ChangingLaneCar,2012201201TB01086,2012,London,35
+ChangingLaneCar,2012201201TX20483,2012,London,24
+ChangingLaneCar,2012201201TX20602,2012,London,33
+ChangingLaneCar,2012201201TX20716,2012,London,36
+ChangingLaneCar,2012201201VK30252,2012,London,20
+ChangingLaneCar,2012201201WW50099,2012,London,45
+ChangingLaneCar,2012201201XD80894,2012,London,-1
+ChangingLaneCar,2012201201XH30495,2012,London,28
+ChangingLaneCar,2012201201XH30522,2012,London,25
+ChangingLaneCar,2012201201YR90017,2012,London,28
+ChangingLaneCar,2012201201ZD30758,2012,London,30
+ChangingLaneCar,2.0122E+16,2012,Cumbria,71
+ChangingLaneCar,2012201204BA12033,2012,Lancashire,75
+ChangingLaneCar,2012201204BA12069,2012,Lancashire,40
+ChangingLaneCar,2012201204BA12189,2012,Lancashire,22
+ChangingLaneCar,2012201204CA12086,2012,Lancashire,50
+ChangingLaneCar,2012201204CA12133,2012,Lancashire,48
+ChangingLaneCar,2012201204CJ12042,2012,Lancashire,40
+ChangingLaneCar,2012201204CL12253,2012,Lancashire,44
+ChangingLaneCar,2012201205AA03490,2012,Merseyside,48
+ChangingLaneCar,2012201206J056232,2012,Stockport,30
+ChangingLaneCar,2.0122E+16,2012,Cheshire East,28
+ChangingLaneCar,2.0122E+16,2012,Cheshire West and Chester,54
+ChangingLaneCar,2.0122E+16,2012,Cheshire West and Chester,24
+ChangingLaneCar,2.0122E+16,2012,Cheshire East,47
+ChangingLaneCar,2.0122E+16,2012,Cheshire West and Chester,21
+ChangingLaneCar,2.0122E+16,2012,Cheshire East,35
+ChangingLaneCar,2.0122E+16,2012,Cheshire East,37
+ChangingLaneCar,2.0122E+16,2012,Warrington,48
+ChangingLaneCar,2012201211ND25232,2012,Durham,25
+ChangingLaneCar,2.0122E+16,2012,Kirklees,52
+ChangingLaneCar,2.0122E+16,2012,Leeds,20
+ChangingLaneCar,2.0122E+16,2012,Leeds,41
+ChangingLaneCar,2.0122E+16,2012,Kirklees,37
+ChangingLaneCar,2.0122E+16,2012,Leeds,31
+ChangingLaneCar,2.0122E+16,2012,Leeds,36
+ChangingLaneCar,2.0122E+16,2012,Bradford,29
+ChangingLaneCar,2.0122E+16,2012,Leeds,30
+ChangingLaneCar,2.0122E+16,2012,Wakefield,32
+ChangingLaneCar,2.0122E+16,2012,Leeds,12
+ChangingLaneCar,2012201214C019112,2012,Rotherham,78
+ChangingLaneCar,2012201214K282012,2012,Sheffield,41
+ChangingLaneCar,20122012160C04801,2012,East Riding of Yorkshire,45
+ChangingLaneCar,20122012160C07471,2012,East Riding of Yorkshire,42
+ChangingLaneCar,2012201231C129712,2012,Nottingham,59
+ChangingLaneCar,2.0122E+16,2012,Leicestershire,30
+ChangingLaneCar,2012201234NC18992,2012,Northamptonshire,21
+ChangingLaneCar,2012201234WD30722,2012,Northamptonshire,16
+ChangingLaneCar,2.0122E+16,2012,Cambridgeshire,49
+ChangingLaneCar,2.0122E+16,2012,Cambridgeshire,40
+ChangingLaneCar,2.0122E+16,2012,Cambridgeshire,54
+ChangingLaneCar,2.0122E+16,2012,Cambridgeshire,22
+ChangingLaneCar,2.0122E+16,2012,Peterborough,17
+ChangingLaneCar,2.0122E+16,2012,Cambridgeshire,17
+ChangingLaneCar,2.0122E+16,2012,Cambridgeshire,19
+ChangingLaneCar,2.0122E+16,2012,Suffolk,30
+ChangingLaneCar,2.0122E+16,2012,Suffolk,16
+ChangingLaneCar,2.0122E+16,2012,Suffolk,21
+ChangingLaneCar,2012201242I127805,2012,Essex,22
+ChangingLaneCar,2012201242I189606,2012,Essex,73
+ChangingLaneCar,2012201242I224007,2012,Thurrock,48
+ChangingLaneCar,2012201242I263408,2012,Essex,62
+ChangingLaneCar,2012201242I342610,2012,Essex,37
+ChangingLaneCar,2012201242I402311,2012,Essex,29
+ChangingLaneCar,2012201243N110032,2012,Buckinghamshire,30
+ChangingLaneCar,2012201243P216022,2012,Oxfordshire,26
+ChangingLaneCar,2012201243P277122,2012,Oxfordshire,13
+ChangingLaneCar,2.0122E+16,2012,Hampshire,60
+ChangingLaneCar,2.0122E+16,2012,Portsmouth,57
+ChangingLaneCar,2.0122E+16,2012,Southampton ,27
+ChangingLaneCar,2.0122E+16,2012,Portsmouth,24
+ChangingLaneCar,2.0122E+16,2012,Surrey,17
+ChangingLaneCar,2012201245GU71481,2012,Surrey,-1
+ChangingLaneCar,2012201245MO73526,2012,Surrey,52
+ChangingLaneCar,2012201245RU71661,2012,Surrey,13
+ChangingLaneCar,2012201245WO69725,2012,Surrey,38
+ChangingLaneCar,2.0122E+16,2012,Kent,44
+ChangingLaneCar,2.0122E+16,2012,Kent,45
+ChangingLaneCar,2.0122E+16,2012,Kent,24
+ChangingLaneCar,2.0122E+16,2012,Kent,49
+ChangingLaneCar,2.0122E+16,2012,Kent,52
+ChangingLaneCar,2.0122E+16,2012,West Sussex,18
+ChangingLaneCar,2.0122E+16,2012,West Sussex,53
+ChangingLaneCar,2.0122E+16,2012,Brighton and Hove,46
+ChangingLaneCar,2.0122E+16,2012,West Sussex,73
+ChangingLaneCar,2.0122E+16,2012,Brighton and Hove,51
+ChangingLaneCar,2012201250DE2K003,2012,Devon,26
+ChangingLaneCar,2012201250EL2V001,2012,Plymouth,19
+ChangingLaneCar,2012201250FT2I036,2012,Torbay,21
+ChangingLaneCar,2012201250FT2L020,2012,Torbay,42
+ChangingLaneCar,2012201250JG2H004,2012,Devon,-1
+ChangingLaneCar,2012201250JN2A021,2012,Devon,55
+ChangingLaneCar,2.0122E+16,2012,City of Bristol,33
+ChangingLaneCar,2.0122E+16,2012,City of Bristol,39
+ChangingLaneCar,2.0122E+16,2012,City of Bristol,37
+ChangingLaneCar,2.0122E+16,2012,Swindon,19

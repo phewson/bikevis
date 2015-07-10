@@ -1,0 +1,1609 @@
+Scenario,urn,accyr,LAName,Age
+OvertakingTCar,199901AB00354,1999,London,35
+OvertakingTCar,199901BS00392,1999,London,19
+OvertakingTCar,199901EK00433,1999,London,33
+OvertakingTCar,199901JC00520,1999,London,11
+OvertakingTCar,199901JI00218,1999,London,22
+OvertakingTCar,199901KD00639,1999,London,71
+OvertakingTCar,199901KF00404,1999,London,40
+OvertakingTCar,199901KO00087,1999,London,37
+OvertakingTCar,199901LD00355,1999,London,26
+OvertakingTCar,199901LS00214,1999,London,33
+OvertakingTCar,199901LS00282,1999,London,25
+OvertakingTCar,199901LS00322,1999,London,52
+OvertakingTCar,199901LX00150,1999,London,17
+OvertakingTCar,199901MS00172,1999,London,30
+OvertakingTCar,199901MS00312,1999,London,43
+OvertakingTCar,199901NI00431,1999,London,31
+OvertakingTCar,199901NI00761,1999,London,32
+OvertakingTCar,199901PY01260,1999,London,30
+OvertakingTCar,199901QA00371,1999,London,45
+OvertakingTCar,199901QA00413,1999,London,17
+OvertakingTCar,199901QK00498,1999,London,36
+OvertakingTCar,199901RG00015,1999,London,59
+OvertakingTCar,199901TX00714,1999,London,20
+OvertakingTCar,199901WA00055,1999,London,29
+OvertakingTCar,199901WW00233,1999,London,14
+OvertakingTCar,199901WW00328,1999,London,44
+OvertakingTCar,199901XD00200,1999,London,20
+OvertakingTCar,199901XD00339,1999,London,34
+OvertakingTCar,199901XH00224,1999,London,10
+OvertakingTCar,199901XS00499,1999,London,32
+OvertakingTCar,199901YE00010,1999,London,61
+OvertakingTCar,199901YE00339,1999,London,14
+OvertakingTCar,199904B077999,1999,Lancashire,53
+OvertakingTCar,199904C106999,1999,Lancashire,17
+OvertakingTCar,199904E042299,1999,Lancashire,11
+OvertakingTCar,1.99905E+12,1999,Merseyside,14
+OvertakingTCar,1.99905E+12,1999,Merseyside,11
+OvertakingTCar,1.99905E+12,1999,Merseyside,32
+OvertakingTCar,1.99905E+12,1999,Merseyside,17
+OvertakingTCar,199906C007751,1999,Manchester,11
+OvertakingTCar,199906C007861,1999,Manchester,10
+OvertakingTCar,199906C602099,1999,Manchester,28
+OvertakingTCar,199906G003660,1999,Tameside,36
+OvertakingTCar,199906J005096,1999,Stockport,12
+OvertakingTCar,199906J006030,1999,Stockport,8
+OvertakingTCar,199906L006339,1999,Wigan,16
+OvertakingTCar,199906M003916,1999,Trafford,41
+OvertakingTCar,199906M004179,1999,Trafford,8
+OvertakingTCar,199906Q004577,1999,Oldham,18
+OvertakingTCar,199910E306099,1999,Newcastle upon Tyne,9
+OvertakingTCar,199910H390899,1999,North Tyneside,48
+OvertakingTCar,1.99912E+12,1999,North Yorkshire,16
+OvertakingTCar,199913EA39499,1999,Kirklees,8
+OvertakingTCar,199913EA56799,1999,Kirklees,7
+OvertakingTCar,199913EC21699,1999,Kirklees,9
+OvertakingTCar,199913FA26899,1999,Calderdale,21
+OvertakingTCar,199913HD20799,1999,Bradford,73
+OvertakingTCar,199914AA00290,1999,Doncaster,17
+OvertakingTCar,199914FF00590,1999,Rotherham,15
+OvertakingTCar,199916A029899,1999,North East Lincolnshire,22
+OvertakingTCar,199916B024499,1999,North Lincolnshire,74
+OvertakingTCar,199916B029199,1999,North Lincolnshire,9
+OvertakingTCar,199916C039999,1999,East Riding of Yorkshire,48
+OvertakingTCar,199916D036599,1999,Kingston Upon Hull,76
+OvertakingTCar,199916D039999,1999,Kingston Upon Hull,69
+OvertakingTCar,199920F197401,1999,Birmingham,7
+OvertakingTCar,199920G099302,1999,Wolverhampton,18
+OvertakingTCar,199920K056501,1999,Sandwell,20
+OvertakingTCar,199920M152601,1999,Coventry,10
+OvertakingTCar,1.99922E+12,1999,Stoke on Trent,33
+OvertakingTCar,1.99922E+12,1999,Staffordshire,34
+OvertakingTCar,1.99922E+12,1999,Staffordshire,30
+OvertakingTCar,1.99922E+12,1999,Staffordshire,32
+OvertakingTCar,199922BC00946,1999,Worcestershire,48
+OvertakingTCar,199922EA10641,1999,Herefordshire,16
+OvertakingTCar,1.99924E+12,1999,Warwickshire,42
+OvertakingTCar,199930D000716,1999,Derby,10
+OvertakingTCar,1999317A20140,1999,Nottinghamshire,14
+OvertakingTCar,1999317B21484,1999,Nottingham,10
+OvertakingTCar,1999317C41776,1999,Nottingham,29
+OvertakingTCar,1999317D21050,1999,Nottinghamshire,
+OvertakingTCar,1999317E80958,1999,Nottinghamshire,9
+OvertakingTCar,1.99934E+12,1999,Leicestershire,28
+OvertakingTCar,1.99934E+12,1999,Leicestershire,13
+OvertakingTCar,1.99934E+12,1999,Leicestershire,37
+OvertakingTCar,1.99934E+12,1999,Leicestershire,33
+OvertakingTCar,1.99934E+12,1999,Leicestershire,16
+OvertakingTCar,1.99934E+12,1999,Leicestershire,29
+OvertakingTCar,1.99935E+12,1999,Cambridgeshire,26
+OvertakingTCar,199936G991049,1999,Norfolk,30
+OvertakingTCar,19994100B0321,1999,Hertfordshire,47
+OvertakingTCar,2.00E+152,1999,Hertfordshire,30
+OvertakingTCar,2.00E+42,1999,Essex,33
+OvertakingTCar,199943N149109,1999,Buckinghamshire,28
+OvertakingTCar,199943P030019,1999,Oxfordshire,45
+OvertakingTCar,199943W005099,1999,Reading,40
+OvertakingTCar,1999440BB0904,1999,Hampshire,12
+OvertakingTCar,1999440LA0557,1999,Hampshire,72
+OvertakingTCar,1999440SP0611,1999,Southampton ,21
+OvertakingTCar,1999440TB0415,1999,Southampton ,31
+OvertakingTCar,199945ED00297,1999,Surrey,13
+OvertakingTCar,199945NC00360,1999,Surrey,
+OvertakingTCar,199946CT05784,1999,Kent,52
+OvertakingTCar,199946ME17062,1999,Medway,42
+OvertakingTCar,199946NK18432,1999,Kent,31
+OvertakingTCar,199946WL00558,1999,Kent,16
+OvertakingTCar,199947C005220,1999,Brighton and Hove,31
+OvertakingTCar,199947X003166,1999,West Sussex,58
+OvertakingTCar,1.99952E+12,1999,South Gloucestershire,57
+OvertakingTCar,1.99952E+12,1999,City of Bristol,14
+OvertakingTCar,1.99952E+12,1999,City of Bristol,36
+OvertakingTCar,1999530AI0947,1999,Gloucestershire,33
+OvertakingTCar,1999530AI2704,1999,Gloucestershire,14
+OvertakingTCar,199954AN36299,1999,Swindon,25
+OvertakingTCar,199954CS01689,1999,Wiltshire,52
+OvertakingTCar,199954CW63699,1999,Wiltshire,11
+OvertakingTCar,200001BS00140,2000,London,30
+OvertakingTCar,200001BS00342,2000,London,59
+OvertakingTCar,200001EK00323,2000,London,32
+OvertakingTCar,200001EK00834,2000,London,13
+OvertakingTCar,200001LX01034,2000,London,21
+OvertakingTCar,200001LX01628,2000,London,34
+OvertakingTCar,200001LX01726,2000,London,27
+OvertakingTCar,200001MM00865,2000,London,24
+OvertakingTCar,200001PL00286,2000,London,28
+OvertakingTCar,200001PY00748,2000,London,
+OvertakingTCar,200001SX01223,2000,London,28
+OvertakingTCar,200001SX01233,2000,London,28
+OvertakingTCar,200001TG00078,2000,Surrey,23
+OvertakingTCar,200001TW00354,2000,London,56
+OvertakingTCar,200001VK00386,2000,London,41
+OvertakingTCar,200001WW01095,2000,London,30
+OvertakingTCar,200001WW01303,2000,London,43
+OvertakingTCar,200001WW01313,2000,London,27
+OvertakingTCar,200001XS00223,2000,London,15
+OvertakingTCar,200001YR00956,2000,London,29
+OvertakingTCar,200004A004100,2000,Blackpool,31
+OvertakingTCar,200004D047500,2000,Lancashire,12
+OvertakingTCar,200004F049800,2000,Lancashire,15
+OvertakingTCar,2.00005E+12,2000,Merseyside,14
+OvertakingTCar,2.00005E+12,2000,Merseyside,30
+OvertakingTCar,2.00005E+12,2000,Merseyside,28
+OvertakingTCar,200006C011382,2000,Manchester,12
+OvertakingTCar,200006F006097,2000,Salford,34
+OvertakingTCar,200006F007591,2000,Salford,15
+OvertakingTCar,200006G005456,2000,Tameside,9
+OvertakingTCar,200006G006028,2000,Tameside,21
+OvertakingTCar,200006L007281,2000,Wigan,11
+OvertakingTCar,200006N004851,2000,Bury,8
+OvertakingTCar,2.00007E+12,2000,Halton,9
+OvertakingTCar,200010C293700,2000,Northumberland,12
+OvertakingTCar,200011DJ14500,2000,Darlington,38
+OvertakingTCar,2.00012E+12,2000,North Yorkshire,20
+OvertakingTCar,2.00013E+12,2000,Bradford,13
+OvertakingTCar,2.00013E+12,2000,Leeds,27
+OvertakingTCar,200014AA00707,2000,Doncaster,49
+OvertakingTCar,200014FF00762,2000,Rotherham,13
+OvertakingTCar,200014GG00893,2000,Rotherham,17
+OvertakingTCar,200014JJ00841,2000,Sheffield,8
+OvertakingTCar,200016A068300,2000,North East Lincolnshire,72
+OvertakingTCar,200016C026500,2000,East Riding of Yorkshire,29
+OvertakingTCar,200020D207503,2000,Birmingham,17
+OvertakingTCar,200020E155101,2000,Birmingham,13
+OvertakingTCar,200020E324701,2000,Birmingham,27
+OvertakingTCar,200020G049102,2000,Wolverhampton,9
+OvertakingTCar,200020H068301,2000,Walsall,43
+OvertakingTCar,2.00021E+12,2000,Stoke on Trent,11
+OvertakingTCar,2.00021E+12,2000,Staffordshire,24
+OvertakingTCar,2.00021E+12,2000,Staffordshire,18
+OvertakingTCar,2.00021E+12,2000,Staffordshire,29
+OvertakingTCar,200022CE16576,2000,Worcestershire,14
+OvertakingTCar,200022FA19863,2000,Shropshire,9
+OvertakingTCar,2000317A20789,2000,Nottinghamshire,38
+OvertakingTCar,2000317B20523,2000,Nottingham,48
+OvertakingTCar,2000317B42475,2000,Nottingham,52
+OvertakingTCar,2000317D20394,2000,Nottinghamshire,64
+OvertakingTCar,2000317D20708,2000,Nottingham,12
+OvertakingTCar,2000317D21255,2000,Nottinghamshire,14
+OvertakingTCar,2000317E20960,2000,Nottinghamshire,25
+OvertakingTCar,200032C003980,2000,Lincolnshire,27
+OvertakingTCar,2.00033E+12,2000,Leicestershire,34
+OvertakingTCar,2.00033E+12,2000,Leicestershire,40
+OvertakingTCar,2.00033E+12,2000,Leicestershire,51
+OvertakingTCar,2.00033E+12,2000,Leicestershire,50
+OvertakingTCar,2.00035E+12,2000,Cambridgeshire,26
+OvertakingTCar,2.00035E+12,2000,Peterborough,45
+OvertakingTCar,2.00035E+12,2000,Cambridgeshire,67
+OvertakingTCar,2.00035E+12,2000,Cambridgeshire,64
+OvertakingTCar,200036G000044,2000,Norfolk,24
+OvertakingTCar,200036K001169,2000,Norfolk,25
+OvertakingTCar,200036N000547,2000,Norfolk,12
+OvertakingTCar,200037G007347,2000,Suffolk,17
+OvertakingTCar,20004100A0736,2000,Hertfordshire,33
+OvertakingTCar,20004100B0171,2000,Hertfordshire,30
+OvertakingTCar,20004200H0426,2000,Southend on Sea,24
+OvertakingTCar,200043W028080,2000,Windsor and Maidenhead,26
+OvertakingTCar,200043W139070,2000,Wokingham,9
+OvertakingTCar,200043W503010,2000,Bracknell Forest,50
+OvertakingTCar,2000440JH0239,2000,Hampshire,8
+OvertakingTCar,2000440KS0066,2000,Portsmouth,40
+OvertakingTCar,200045ER00309,2000,Surrey,15
+OvertakingTCar,200045EZ00145,2000,Surrey,18
+OvertakingTCar,200045NA00256,2000,Surrey,12
+OvertakingTCar,200045NC00042,2000,Surrey,43
+OvertakingTCar,200045NW00019,2000,Surrey,17
+OvertakingTCar,200045NW00132,2000,Surrey,23
+OvertakingTCar,200045NW00287,2000,Surrey,18
+OvertakingTCar,200046SK25997,2000,Kent,34
+OvertakingTCar,200046SK28026,2000,Kent,41
+OvertakingTCar,200046WK27577,2000,Kent,16
+OvertakingTCar,200047C129908,2000,Brighton and Hove,12
+OvertakingTCar,200047N130201,2000,West Sussex,39
+OvertakingTCar,200047N131723,2000,West Sussex,38
+OvertakingTCar,200047T004482,2000,East Sussex,14
+OvertakingTCar,200047X130679,2000,West Sussex,14
+OvertakingTCar,2.00052E+12,2000,South Gloucestershire,47
+OvertakingTCar,200052GT31426,2000,Somerset,6
+OvertakingTCar,2000530AI3386,2000,Gloucestershire,35
+OvertakingTCar,2000550B02051,2000,Bournemouth,21
+OvertakingTCar,2000550E05315,2000,Dorset,12
+OvertakingTCar,200101BS00593,2001,London,23
+OvertakingTCar,200101BS00893,2001,London,50
+OvertakingTCar,200101CP00214,2001,London,34
+OvertakingTCar,200101GD00394,2001,London,43
+OvertakingTCar,200101GD00762,2001,London,37
+OvertakingTCar,200101GD01131,2001,London,50
+OvertakingTCar,200101HT00411,2001,London,49
+OvertakingTCar,200101JC00223,2001,London,30
+OvertakingTCar,200101KD00422,2001,London,20
+OvertakingTCar,200101LX02001,2001,London,53
+OvertakingTCar,200101LX02030,2001,London,39
+OvertakingTCar,200101MM00908,2001,London,
+OvertakingTCar,200101NI00556,2001,London,
+OvertakingTCar,200101NI00647,2001,London,28
+OvertakingTCar,200101PL00826,2001,London,12
+OvertakingTCar,200101PL00914,2001,London,28
+OvertakingTCar,200101QK00610,2001,London,30
+OvertakingTCar,200101SX01518,2001,London,67
+OvertakingTCar,200101TW00387,2001,London,18
+OvertakingTCar,200101TX01219,2001,London,12
+OvertakingTCar,200101VW00647,2001,London,38
+OvertakingTCar,200101VW00649,2001,London,27
+OvertakingTCar,200101WW01143,2001,London,45
+OvertakingTCar,200101XH00462,2001,London,53
+OvertakingTCar,200101XS00785,2001,London,37
+OvertakingTCar,200101XS01392,2001,London,40
+OvertakingTCar,200101YR01107,2001,London,32
+OvertakingTCar,2.00103E+12,2001,Cumbria,13
+OvertakingTCar,200104D040601,2001,Lancashire,43
+OvertakingTCar,200104F009401,2001,Lancashire,54
+OvertakingTCar,2.00105E+12,2001,Merseyside,26
+OvertakingTCar,2.00105E+12,2001,Merseyside,12
+OvertakingTCar,2.00105E+12,2001,Merseyside,57
+OvertakingTCar,200106A010030,2001,Manchester,41
+OvertakingTCar,200106C015390,2001,Manchester,21
+OvertakingTCar,200106K010668,2001,Bolton,21
+OvertakingTCar,200106N006271,2001,Bury,26
+OvertakingTCar,2.00107E+12,2001,Cheshire West and Chester,7
+OvertakingTCar,2.00107E+12,2001,Warrington,39
+OvertakingTCar,2.00107E+12,2001,Warrington,18
+OvertakingTCar,2.00113E+12,2001,Bradford,35
+OvertakingTCar,2.00113E+12,2001,Wakefield,10
+OvertakingTCar,2.00113E+12,2001,Calderdale,33
+OvertakingTCar,200116A007801,2001,North East Lincolnshire,33
+OvertakingTCar,200116C017901,2001,East Riding of Yorkshire,24
+OvertakingTCar,200116C019001,2001,East Riding of Yorkshire,41
+OvertakingTCar,200116C071501,2001,East Riding of Yorkshire,18
+OvertakingTCar,200117S300077,2001,Stockton on Tees,15
+OvertakingTCar,200120E101901,2001,Birmingham,60
+OvertakingTCar,200120E160202,2001,Birmingham,11
+OvertakingTCar,200120E187202,2001,Birmingham,50
+OvertakingTCar,200120M096902,2001,Coventry,6
+OvertakingTCar,2.00121E+12,2001,Staffordshire,
+OvertakingTCar,200122CG22459,2001,Worcestershire,28
+OvertakingTCar,200122EA17267,2001,Herefordshire,13
+OvertakingTCar,2.00123E+12,2001,Warwickshire,59
+OvertakingTCar,200130C000256,2001,Derbyshire,10
+OvertakingTCar,20013108E1535,2001,Nottinghamshire,33
+OvertakingTCar,200132D074601,2001,Lincolnshire,28
+OvertakingTCar,2.00133E+12,2001,Leicestershire,19
+OvertakingTCar,200134NW00139,2001,Northamptonshire,24
+OvertakingTCar,2.00135E+12,2001,Cambridgeshire,49
+OvertakingTCar,2.00135E+12,2001,Peterborough,16
+OvertakingTCar,2.00135E+12,2001,Cambridgeshire,36
+OvertakingTCar,2.00135E+12,2001,Peterborough,36
+OvertakingTCar,200136K011554,2001,Norfolk,62
+OvertakingTCar,200137L005347,2001,Suffolk,13
+OvertakingTCar,2001400C01075,2001,Luton,9
+OvertakingTCar,2001400D02391,2001,Central Bedfordshire,62
+OvertakingTCar,20014100C0292,2001,Hertfordshire,16
+OvertakingTCar,200143N416071,2001,Buckinghamshire,33
+OvertakingTCar,200143W293011,2001,West Berkshire,
+OvertakingTCar,2001440AA0839,2001,Hampshire,16
+OvertakingTCar,2001440JH0127,2001,Hampshire,19
+OvertakingTCar,2001440KK2661,2001,Portsmouth,15
+OvertakingTCar,2001440ZD0413,2001,Isle of Wight,41
+OvertakingTCar,2.00146E+12,2001,Kent,12
+OvertakingTCar,200146CT36257,2001,Kent,13
+OvertakingTCar,200146SW35598,2001,Kent,19
+OvertakingTCar,200150A312055,2001,Cornwall and Isles of Scilly,8
+OvertakingTCar,200150C210604,2001,Devon,47
+OvertakingTCar,200150C217792,2001,Devon,13
+OvertakingTCar,200150D212003,2001,Devon,65
+OvertakingTCar,200150D352584,2001,Devon,14
+OvertakingTCar,2.00152E+12,2001,City of Bristol,39
+OvertakingTCar,2.00152E+12,2001,Somerset,27
+OvertakingTCar,2001530AI2185,2001,Gloucestershire,13
+OvertakingTCar,200154AM18401,2001,Wiltshire,30
+OvertakingTCar,200154CS18700,2001,Wiltshire,11
+OvertakingTCar,200154DN31401,2001,Swindon,28
+OvertakingTCar,2001550B00761,2001,Bournemouth,28
+OvertakingTCar,2001550B02081,2001,Bournemouth,12
+OvertakingTCar,2001551E04634,2001,Dorset,42
+OvertakingTCar,2001551E04930,2001,Dorset,35
+OvertakingTCar,2001551E06024,2001,Dorset,34
+OvertakingTCar,2001551E06347,2001,Dorset,31
+OvertakingTCar,200201BS00457,2002,London,29
+OvertakingTCar,200201DM01184,2002,London,29
+OvertakingTCar,200201FH00083,2002,London,36
+OvertakingTCar,200201FH00479,2002,London,37
+OvertakingTCar,200201JC00508,2002,London,40
+OvertakingTCar,200201NI00135,2002,London,25
+OvertakingTCar,200201PY00846,2002,London,14
+OvertakingTCar,200201RY00266,2002,London,42
+OvertakingTCar,200201SX01632,2002,London,14
+OvertakingTCar,200201WW00970,2002,London,36
+OvertakingTCar,200201XS00281,2002,London,10
+OvertakingTCar,200201XS01254,2002,London,39
+OvertakingTCar,200204D054302,2002,Lancashire,13
+OvertakingTCar,200204F024002,2002,Lancashire,6
+OvertakingTCar,200206M009869,2002,Trafford,10
+OvertakingTCar,200206P010299,2002,Rochdale,6
+OvertakingTCar,2.00207E+12,2002,Cheshire West and Chester,13
+OvertakingTCar,2.00207E+12,2002,Cheshire West and Chester,43
+OvertakingTCar,200210M203402,2002,South Tyneside,18
+OvertakingTCar,2.00212E+12,2002,North Yorkshire,14
+OvertakingTCar,2.00213E+12,2002,Bradford,6
+OvertakingTCar,200214AA00705,2002,Doncaster,11
+OvertakingTCar,200214GG00805,2002,Rotherham,15
+OvertakingTCar,200216A029102,2002,North East Lincolnshire,13
+OvertakingTCar,200216A031302,2002,North East Lincolnshire,19
+OvertakingTCar,200216A032402,2002,North East Lincolnshire,10
+OvertakingTCar,200216A049902,2002,North East Lincolnshire,12
+OvertakingTCar,200216A060302,2002,North East Lincolnshire,13
+OvertakingTCar,200216D021102,2002,Kingston Upon Hull,19
+OvertakingTCar,2002170H12182,2002,Hartlepool,33
+OvertakingTCar,200220K093601,2002,Sandwell,11
+OvertakingTCar,200220M054103,2002,Coventry,40
+OvertakingTCar,2.00221E+12,2002,Staffordshire,
+OvertakingTCar,2.00221E+12,2002,Staffordshire,36
+OvertakingTCar,2.00221E+12,2002,Staffordshire,31
+OvertakingTCar,2.00221E+12,2002,Staffordshire,65
+OvertakingTCar,200222AA22044,2002,Worcestershire,21
+OvertakingTCar,20023102A1453,2002,Nottinghamshire,41
+OvertakingTCar,20023102B0704,2002,Nottinghamshire,12
+OvertakingTCar,20023102C0365,2002,Nottingham,10
+OvertakingTCar,20023102C0409,2002,Nottingham,22
+OvertakingTCar,20023104C0516,2002,Nottingham,14
+OvertakingTCar,200232C121502,2002,Lincolnshire,59
+OvertakingTCar,2.00235E+12,2002,Cambridgeshire,
+OvertakingTCar,2.00235E+12,2002,Cambridgeshire,31
+OvertakingTCar,2.00235E+12,2002,Cambridgeshire,34
+OvertakingTCar,2.00236E+12,2002,Norfolk,85
+OvertakingTCar,2.00236E+12,2002,Norfolk,23
+OvertakingTCar,2.00236E+12,2002,Norfolk,14
+OvertakingTCar,200236K020867,2002,Norfolk,10
+OvertakingTCar,200237G011392,2002,Suffolk,16
+OvertakingTCar,200237L007384,2002,Suffolk,10
+OvertakingTCar,20024100B1150,2002,Hertfordshire,60
+OvertakingTCar,20024100F4850,2002,Hertfordshire,23
+OvertakingTCar,20024100G0874,2002,Hertfordshire,16
+OvertakingTCar,20024100K0639,2002,Hertfordshire,74
+OvertakingTCar,20024200H0041,2002,Southend on Sea,32
+OvertakingTCar,20024200H0078,2002,Southend on Sea,41
+OvertakingTCar,20024200J0234,2002,Essex,
+OvertakingTCar,200243W526042,2002,Windsor and Maidenhead,63
+OvertakingTCar,2002440DH0071,2002,Hampshire,36
+OvertakingTCar,2002440KK1202,2002,Portsmouth,11
+OvertakingTCar,200245RW30207,2002,Surrey,
+OvertakingTCar,2.00247E+12,2002,Medway,20
+OvertakingTCar,200247K155199,2002,East Sussex,79
+OvertakingTCar,200250B413648,2002,Cornwall and Isles of Scilly,22
+OvertakingTCar,2.00252E+12,2002,City of Bristol,23
+OvertakingTCar,2.00252E+12,2002,Somerset,23
+OvertakingTCar,2002530AI1489,2002,Gloucestershire,45
+OvertakingTCar,2002530AI1972,2002,Gloucestershire,7
+OvertakingTCar,2002530AI3313,2002,Gloucestershire,45
+OvertakingTCar,200254AD49102,2002,Wiltshire,33
+OvertakingTCar,2002552E03735,2002,Dorset,29
+OvertakingTCar,200301EO01048,2003,London,27
+OvertakingTCar,200301EO01818,2003,London,22
+OvertakingTCar,200301JI00364,2003,London,10
+OvertakingTCar,200301JI00421,2003,London,7
+OvertakingTCar,200301KD00766,2003,London,13
+OvertakingTCar,200301LX00303,2003,London,27
+OvertakingTCar,200301LX00480,2003,London,43
+OvertakingTCar,200301LX01204,2003,London,35
+OvertakingTCar,200301MM01383,2003,London,33
+OvertakingTCar,200301MM01462,2003,London,24
+OvertakingTCar,200301QA00175,2003,London,28
+OvertakingTCar,200301QK01118,2003,London,30
+OvertakingTCar,200301TX00774,2003,London,86
+OvertakingTCar,200301VW00391,2003,London,30
+OvertakingTCar,200301WW00269,2003,London,27
+OvertakingTCar,200301YR00468,2003,London,
+OvertakingTCar,200301YR00778,2003,London,49
+OvertakingTCar,200301YR01015,2003,London,33
+OvertakingTCar,200301ZD00740,2003,London,27
+OvertakingTCar,2.00303E+12,2003,Cumbria,15
+OvertakingTCar,200304C074903,2003,Lancashire,14
+OvertakingTCar,200305AW01051,2003,Merseyside,51
+OvertakingTCar,200306A015935,2003,Manchester,13
+OvertakingTCar,200306C023059,2003,Manchester,14
+OvertakingTCar,200306C023379,2003,Manchester,13
+OvertakingTCar,200306C023961,2003,Manchester,45
+OvertakingTCar,200306F012748,2003,Salford,17
+OvertakingTCar,200306G010513,2003,Tameside,11
+OvertakingTCar,200306G011026,2003,Tameside,38
+OvertakingTCar,200306L015791,2003,Wigan,31
+OvertakingTCar,200306M011192,2003,Trafford,41
+OvertakingTCar,200306M923124,2003,Trafford,23
+OvertakingTCar,200306P012586,2003,Rochdale,16
+OvertakingTCar,200306Q012371,2003,Oldham,15
+OvertakingTCar,2.00307E+12,2003,Warrington,5
+OvertakingTCar,2.00307E+12,2003,Cheshire West and Chester,54
+OvertakingTCar,2.0031E+12,2003,Newcastle upon Tyne,28
+OvertakingTCar,2.0031E+12,2003,South Tyneside,15
+OvertakingTCar,200311CH15570,2003,Durham,14
+OvertakingTCar,2.00312E+12,2003,York,16
+OvertakingTCar,2.00313E+12,2003,Kirklees,9
+OvertakingTCar,200314BB00269,2003,Doncaster,12
+OvertakingTCar,200314DD00448,2003,Barnsley,40
+OvertakingTCar,2003160B06030,2003,North Lincolnshire,27
+OvertakingTCar,200316A000203,2003,North East Lincolnshire,43
+OvertakingTCar,2003170M13573,2003,Middlesbrough,21
+OvertakingTCar,200320D315003,2003,Birmingham,6
+OvertakingTCar,200320E173601,2003,Birmingham,59
+OvertakingTCar,200320E175602,2003,Birmingham,
+OvertakingTCar,200320H021302,2003,Walsall,27
+OvertakingTCar,200320H047002,2003,Walsall,7
+OvertakingTCar,200320H051602,2003,Walsall,12
+OvertakingTCar,200320M021601,2003,Coventry,29
+OvertakingTCar,200320M082502,2003,Coventry,48
+OvertakingTCar,2.00321E+12,2003,Staffordshire,54
+OvertakingTCar,2.00321E+12,2003,Staffordshire,34
+OvertakingTCar,200322CA35250,2003,Worcestershire,18
+OvertakingTCar,2.00323E+12,2003,Warwickshire,11
+OvertakingTCar,200330A000317,2003,Derbyshire,32
+OvertakingTCar,20033102A0277,2003,Nottinghamshire,21
+OvertakingTCar,20033102A0568,2003,Nottinghamshire,8
+OvertakingTCar,20033102A1477,2003,Nottinghamshire,14
+OvertakingTCar,20033102B5722,2003,Nottinghamshire,27
+OvertakingTCar,20033102C6194,2003,Nottingham,38
+OvertakingTCar,20033102D0987,2003,Nottinghamshire,17
+OvertakingTCar,20033104D0191,2003,Nottinghamshire,14
+OvertakingTCar,20033108A0146,2003,Nottinghamshire,5
+OvertakingTCar,200332B130503,2003,Lincolnshire,25
+OvertakingTCar,2.00333E+12,2003,Leicestershire,37
+OvertakingTCar,2.00335E+12,2003,Peterborough,49
+OvertakingTCar,2.00335E+12,2003,Peterborough,23
+OvertakingTCar,2.00335E+12,2003,Cambridgeshire,52
+OvertakingTCar,2.00335E+12,2003,Cambridgeshire,17
+OvertakingTCar,2.00336E+12,2003,Norfolk,39
+OvertakingTCar,2.00336E+12,2003,Norfolk,26
+OvertakingTCar,200337B016758,2003,Suffolk,10
+OvertakingTCar,20034200C0279,2003,Essex,63
+OvertakingTCar,200343P200093,2003,Oxfordshire,46
+OvertakingTCar,2003440SP0462,2003,Southampton ,17
+OvertakingTCar,200345WA46350,2003,Surrey,15
+OvertakingTCar,200346CT71129,2003,Kent,20
+OvertakingTCar,200346CT81046,2003,Kent,15
+OvertakingTCar,200346MA78899,2003,Kent,28
+OvertakingTCar,200346WK76667,2003,Kent,34
+OvertakingTCar,200347K162165,2003,Brighton and Hove,
+OvertakingTCar,200347K162832,2003,East Sussex,54
+OvertakingTCar,200347K163244,2003,West Sussex,75
+OvertakingTCar,200347K163670,2003,East Sussex,52
+OvertakingTCar,200347K166208,2003,East Sussex,9
+OvertakingTCar,2.00352E+12,2003,City of Bristol,15
+OvertakingTCar,2.00352E+12,2003,North Somerset,37
+OvertakingTCar,2.00352E+12,2003,Somerset,16
+OvertakingTCar,2.00352E+12,2003,Somerset,52
+OvertakingTCar,2.00352E+12,2003,Somerset,40
+OvertakingTCar,2003530AI1175,2003,Gloucestershire,44
+OvertakingTCar,2003530AI1660,2003,Gloucestershire,36
+OvertakingTCar,2003530AI1924,2003,Gloucestershire,15
+OvertakingTCar,2003530AI4067,2003,Gloucestershire,78
+OvertakingTCar,200354CR34903,2003,Wiltshire,16
+OvertakingTCar,2003550B01525,2003,Bournemouth,19
+OvertakingTCar,200401BS00572,2004,London,35
+OvertakingTCar,200401CP00143,2004,London,34
+OvertakingTCar,200401GD00523,2004,London,31
+OvertakingTCar,200401GD00592,2004,London,31
+OvertakingTCar,200401LX50039,2004,London,32
+OvertakingTCar,200401LX50783,2004,London,48
+OvertakingTCar,200401MM70433,2004,London,26
+OvertakingTCar,200401QK00551,2004,London,50
+OvertakingTCar,200401TA00314,2004,London,25
+OvertakingTCar,200401TW00545,2004,London,43
+OvertakingTCar,200401TX00662,2004,London,31
+OvertakingTCar,200401WW00868,2004,London,27
+OvertakingTCar,200401WW00885,2004,London,56
+OvertakingTCar,200401ZD30436,2004,London,27
+OvertakingTCar,200401ZD30613,2004,London,19
+OvertakingTCar,2.00403E+12,2004,Cumbria,32
+OvertakingTCar,200404A047104,2004,Blackpool,
+OvertakingTCar,200404C031004,2004,Lancashire,17
+OvertakingTCar,200405AW02236,2004,Merseyside,51
+OvertakingTCar,200405BS01110,2004,Merseyside,82
+OvertakingTCar,200406G910114,2004,Tameside,7
+OvertakingTCar,200406J917173,2004,Stockport,20
+OvertakingTCar,200406Q013198,2004,Oldham,52
+OvertakingTCar,2.00407E+12,2004,Cheshire West and Chester,11
+OvertakingTCar,2.00407E+12,2004,Cheshire West and Chester,57
+OvertakingTCar,2.00407E+12,2004,Cheshire West and Chester,26
+OvertakingTCar,200411DJ10660,2004,Darlington,48
+OvertakingTCar,2.00412E+12,2004,North Yorkshire,15
+OvertakingTCar,2.00413E+12,2004,Wakefield,38
+OvertakingTCar,2.00413E+12,2004,Leeds,33
+OvertakingTCar,2.00413E+12,2004,Leeds,8
+OvertakingTCar,2.00413E+12,2004,Bradford,11
+OvertakingTCar,200414AA00401,2004,Doncaster,25
+OvertakingTCar,200414AA00974,2004,Doncaster,11
+OvertakingTCar,200414AA01669,2004,Doncaster,51
+OvertakingTCar,200414AA02422,2004,Doncaster,13
+OvertakingTCar,2004160D05900,2004,Kingston Upon Hull,15
+OvertakingTCar,2004160D08650,2004,Kingston Upon Hull,15
+OvertakingTCar,2004170M14264,2004,Middlesbrough,12
+OvertakingTCar,2004170S13164,2004,Stockton on Tees,15
+OvertakingTCar,200420E198302,2004,Birmingham,16
+OvertakingTCar,2.00421E+12,2004,Stoke on Trent,
+OvertakingTCar,2.00421E+12,2004,Staffordshire,59
+OvertakingTCar,200422CA42269,2004,Worcestershire,9
+OvertakingTCar,2.00423E+12,2004,Warwickshire,7
+OvertakingTCar,20043102A2444,2004,Nottinghamshire,10
+OvertakingTCar,20043102B2470,2004,Nottinghamshire,58
+OvertakingTCar,20043108A0866,2004,Nottinghamshire,62
+OvertakingTCar,20043108C6510,2004,Nottingham,32
+OvertakingTCar,20043108D3128,2004,Nottinghamshire,31
+OvertakingTCar,20043108D3549,2004,Nottinghamshire,13
+OvertakingTCar,200432D134704,2004,Lincolnshire,13
+OvertakingTCar,2.00435E+12,2004,Cambridgeshire,13
+OvertakingTCar,2.00435E+12,2004,Cambridgeshire,9
+OvertakingTCar,2.00436E+12,2004,Norfolk,31
+OvertakingTCar,2.00436E+12,2004,Norfolk,16
+OvertakingTCar,2.00436E+12,2004,Norfolk,16
+OvertakingTCar,200437L009884,2004,Suffolk,12
+OvertakingTCar,200437L010484,2004,Suffolk,70
+OvertakingTCar,200443P184094,2004,Oxfordshire,15
+OvertakingTCar,200443W016084,2004,Reading,11
+OvertakingTCar,200443W222104,2004,Windsor and Maidenhead,57
+OvertakingTCar,200443W329034,2004,Slough,12
+OvertakingTCar,200443W409014,2004,Wokingham,87
+OvertakingTCar,200445RE52818,2004,Surrey,48
+OvertakingTCar,200445RE58987,2004,Surrey,51
+OvertakingTCar,200447K173764,2004,West Sussex,36
+OvertakingTCar,2.00452E+12,2004,City of Bristol,44
+OvertakingTCar,2.00452E+12,2004,Bath and North East Somerset,9
+OvertakingTCar,2.00452E+12,2004,North Somerset,14
+OvertakingTCar,2.00452E+12,2004,City of Bristol,37
+OvertakingTCar,2004530AI2229,2004,Gloucestershire,10
+OvertakingTCar,200454DW25404,2004,Swindon,10
+OvertakingTCar,2004550B05119,2004,Bournemouth,37
+OvertakingTCar,2004550B06137,2004,Bournemouth,15
+OvertakingTCar,200501BS70667,2005,London,31
+OvertakingTCar,200501CW10973,2005,London,53
+OvertakingTCar,200501EO40878,2005,London,52
+OvertakingTCar,200501GD10837,2005,London,39
+OvertakingTCar,200501HT20414,2005,London,30
+OvertakingTCar,200501HT20845,2005,London,30
+OvertakingTCar,200501KF60492,2005,London,43
+OvertakingTCar,200501KG70418,2005,London,20
+OvertakingTCar,200501MM70449,2005,London,40
+OvertakingTCar,200501PL60816,2005,London,37
+OvertakingTCar,200501VK30222,2005,London,39
+OvertakingTCar,200501VW40157,2005,London,39
+OvertakingTCar,200501ZT80381,2005,London,12
+OvertakingTCar,200504BA05004,2005,Lancashire,14
+OvertakingTCar,200504BB05063,2005,Lancashire,15
+OvertakingTCar,200504CJ05031,2005,Lancashire,37
+OvertakingTCar,200504CM05089,2005,Lancashire,32
+OvertakingTCar,200505BB02444,2005,Merseyside,43
+OvertakingTCar,200505FT00340,2005,Merseyside,22
+OvertakingTCar,200506J039380,2005,Stockport,19
+OvertakingTCar,200506K032442,2005,Bolton,20
+OvertakingTCar,200506L024020,2005,Wigan,67
+OvertakingTCar,200506L027839,2005,Wigan,17
+OvertakingTCar,200506L923011,2005,Wigan,17
+OvertakingTCar,2.00507E+12,2005,Warrington,9
+OvertakingTCar,2.00507E+12,2005,Warrington,36
+OvertakingTCar,2.0051E+12,2005,Northumberland,52
+OvertakingTCar,2.0051E+12,2005,North Tyneside,33
+OvertakingTCar,200511DJ18950,2005,Darlington,18
+OvertakingTCar,2.00512E+12,2005,North Yorkshire,45
+OvertakingTCar,2.00512E+12,2005,North Yorkshire,68
+OvertakingTCar,2.00513E+12,2005,Wakefield,14
+OvertakingTCar,2.00513E+12,2005,Calderdale,21
+OvertakingTCar,200514A035505,2005,Doncaster,53
+OvertakingTCar,200514C138305,2005,Rotherham,9
+OvertakingTCar,2005160A04700,2005,North East Lincolnshire,69
+OvertakingTCar,2005160C09090,2005,East Riding of Yorkshire,14
+OvertakingTCar,2005160D02330,2005,Kingston Upon Hull,79
+OvertakingTCar,2005160D05310,2005,Kingston Upon Hull,16
+OvertakingTCar,2005160D08040,2005,Kingston Upon Hull,19
+OvertakingTCar,2005170S12115,2005,Stockton on Tees,11
+OvertakingTCar,200520E142903,2005,Birmingham,15
+OvertakingTCar,200520H035402,2005,Walsall,38
+OvertakingTCar,200520J035502,2005,Dudley,35
+OvertakingTCar,200520J061201,2005,Dudley,11
+OvertakingTCar,2.00522E+12,2005,Staffordshire,15
+OvertakingTCar,200522CA48865,2005,Worcestershire,51
+OvertakingTCar,200522CA49855,2005,Worcestershire,71
+OvertakingTCar,200522EA32497,2005,Herefordshire,25
+OvertakingTCar,200522FC43089,2005,Shropshire,45
+OvertakingTCar,2.00523E+12,2005,Warwickshire,15
+OvertakingTCar,2.00523E+12,2005,Warwickshire,12
+OvertakingTCar,20053102A3135,2005,Nottinghamshire,15
+OvertakingTCar,20053102B2952,2005,Nottinghamshire,15
+OvertakingTCar,20053102B3027,2005,Nottinghamshire,73
+OvertakingTCar,20053102C1469,2005,Nottingham,20
+OvertakingTCar,20053102C2181,2005,Nottingham,8
+OvertakingTCar,20053102C3779,2005,Nottingham,33
+OvertakingTCar,20053102D2865,2005,Nottinghamshire,
+OvertakingTCar,200532B013405,2005,Lincolnshire,8
+OvertakingTCar,200532D543405,2005,Lincolnshire,17
+OvertakingTCar,2.00533E+12,2005,Leicestershire,16
+OvertakingTCar,200534ND00156,2005,Northamptonshire,30
+OvertakingTCar,2.00535E+12,2005,Cambridgeshire,21
+OvertakingTCar,2.00535E+12,2005,Cambridgeshire,24
+OvertakingTCar,2.00535E+12,2005,Cambridgeshire,16
+OvertakingTCar,2.00536E+12,2005,Norfolk,55
+OvertakingTCar,2.00536E+12,2005,Norfolk,10
+OvertakingTCar,2.00536E+12,2005,Norfolk,43
+OvertakingTCar,2.00536E+12,2005,Norfolk,11
+OvertakingTCar,200537B022682,2005,Suffolk,14
+OvertakingTCar,200537L011458,2005,Suffolk,10
+OvertakingTCar,200537L011930,2005,Suffolk,13
+OvertakingTCar,200540C000500,2005,Luton,11
+OvertakingTCar,20054100F4005,2005,Hertfordshire,37
+OvertakingTCar,20054100F4447,2005,Hertfordshire,33
+OvertakingTCar,200542C077012,2005,Essex,14
+OvertakingTCar,200542E039708,2005,Essex,
+OvertakingTCar,200542H041710,2005,Southend on Sea,18
+OvertakingTCar,200543N062085,2005,Milton Keynes,45
+OvertakingTCar,200543N080025,2005,Buckinghamshire,60
+OvertakingTCar,200543P038105,2005,Oxfordshire,66
+OvertakingTCar,200543P274075,2005,Oxfordshire,11
+OvertakingTCar,200543W326075,2005,Reading,13
+OvertakingTCar,200543W508095,2005,West Berkshire,25
+OvertakingTCar,2.00544E+12,2005,Hampshire,34
+OvertakingTCar,2.00544E+12,2005,Hampshire,50
+OvertakingTCar,2.00544E+12,2005,Hampshire,47
+OvertakingTCar,2.00544E+12,2005,Hampshire,35
+OvertakingTCar,200545SU68424,2005,Surrey,17
+OvertakingTCar,2.00546E+12,2005,Medway,36
+OvertakingTCar,2.00546E+12,2005,Kent,42
+OvertakingTCar,2.00547E+12,2005,West Sussex,32
+OvertakingTCar,2.00547E+12,2005,West Sussex,55
+OvertakingTCar,200550D21A312,2005,Devon,31
+OvertakingTCar,200550D21P054,2005,Devon,
+OvertakingTCar,2.00552E+12,2005,Bath and North East Somerset,43
+OvertakingTCar,2.00552E+12,2005,Somerset,62
+OvertakingTCar,2.00552E+12,2005,City of Bristol,30
+OvertakingTCar,2.00552E+12,2005,City of Bristol,29
+OvertakingTCar,2.00552E+12,2005,North Somerset,14
+OvertakingTCar,2.00552E+12,2005,City of Bristol,42
+OvertakingTCar,2.00552E+12,2005,North Somerset,40
+OvertakingTCar,200554AM62505,2005,Wiltshire,44
+OvertakingTCar,2005555B00279,2005,Bournemouth,37
+OvertakingTCar,200601BS70134,2006,London,61
+OvertakingTCar,200601BS70315,2006,London,29
+OvertakingTCar,200601CP00145,2006,London,30
+OvertakingTCar,200601CP00193,2006,London,25
+OvertakingTCar,200601CW10769,2006,London,26
+OvertakingTCar,200601CW11444,2006,London,40
+OvertakingTCar,200601EO40596,2006,London,28
+OvertakingTCar,200601GD10261,2006,London,42
+OvertakingTCar,200601HT20284,2006,London,28
+OvertakingTCar,200601KF60032,2006,London,30
+OvertakingTCar,200601KF60440,2006,London,39
+OvertakingTCar,200601LX51163,2006,London,39
+OvertakingTCar,200601MM70299,2006,London,80
+OvertakingTCar,200601MM70315,2006,London,41
+OvertakingTCar,200601PL60272,2006,London,45
+OvertakingTCar,200601PL60652,2006,London,11
+OvertakingTCar,200601QK50701,2006,London,30
+OvertakingTCar,200601RG40533,2006,London,16
+OvertakingTCar,200601RY10438,2006,London,19
+OvertakingTCar,200601TD00119,2006,London,15
+OvertakingTCar,200601WW50574,2006,London,47
+OvertakingTCar,200601WW50704,2006,London,54
+OvertakingTCar,200601XD80840,2006,London,50
+OvertakingTCar,200601YR90655,2006,London,63
+OvertakingTCar,200601ZD30639,2006,London,44
+OvertakingTCar,200601ZT80532,2006,London,52
+OvertakingTCar,200604CJ06057,2006,Lancashire,25
+OvertakingTCar,200604CM06140,2006,Lancashire,32
+OvertakingTCar,200605BB07891,2006,Merseyside,9
+OvertakingTCar,200605DD09544,2006,Merseyside,20
+OvertakingTCar,200606J054054,2006,Stockport,59
+OvertakingTCar,2.00607E+12,2006,Warrington,12
+OvertakingTCar,2.0061E+12,2006,Gateshead,35
+OvertakingTCar,2.0061E+12,2006,South Tyneside,11
+OvertakingTCar,2.0061E+12,2006,Newcastle upon Tyne,10
+OvertakingTCar,200611BD17830,2006,Durham,8
+OvertakingTCar,2.00613E+12,2006,Wakefield,41
+OvertakingTCar,2.00613E+12,2006,Leeds,44
+OvertakingTCar,200614A217306,2006,Doncaster,67
+OvertakingTCar,200614H117806,2006,Sheffield,63
+OvertakingTCar,2006160A04180,2006,North East Lincolnshire,47
+OvertakingTCar,2006160C01230,2006,East Riding of Yorkshire,17
+OvertakingTCar,2006160D06370,2006,Kingston Upon Hull,42
+OvertakingTCar,2006170M10046,2006,Middlesbrough,11
+OvertakingTCar,2006170S33036,2006,Stockton on Tees,16
+OvertakingTCar,200620F070102,2006,Birmingham,39
+OvertakingTCar,200620F276101,2006,Birmingham,26
+OvertakingTCar,200620G020302,2006,Wolverhampton,76
+OvertakingTCar,200620H059001,2006,Walsall,9
+OvertakingTCar,200620H059002,2006,Walsall,14
+OvertakingTCar,200620J081202,2006,Dudley,44
+OvertakingTCar,2.00622E+12,2006,Stoke on Trent,12
+OvertakingTCar,200622FA48924,2006,Shropshire,8
+OvertakingTCar,200630C000519,2006,Derbyshire,43
+OvertakingTCar,20063102A0622,2006,Nottinghamshire,35
+OvertakingTCar,20063102A1115,2006,Nottinghamshire,15
+OvertakingTCar,20063102A1544,2006,Nottinghamshire,10
+OvertakingTCar,20063102A1605,2006,Nottinghamshire,12
+OvertakingTCar,20063102B1954,2006,Nottinghamshire,60
+OvertakingTCar,20063104D1987,2006,Nottinghamshire,12
+OvertakingTCar,200632D163306,2006,Lincolnshire,33
+OvertakingTCar,2.00633E+12,2006,Leicestershire,47
+OvertakingTCar,200634NC03863,2006,Northamptonshire,45
+OvertakingTCar,200634WN05524,2006,Northamptonshire,8
+OvertakingTCar,200634WS03095,2006,Northamptonshire,10
+OvertakingTCar,2.00635E+12,2006,Cambridgeshire,28
+OvertakingTCar,2.00636E+12,2006,Norfolk,73
+OvertakingTCar,2.00636E+12,2006,Norfolk,32
+OvertakingTCar,200637B025769,2006,Suffolk,17
+OvertakingTCar,200637G020432,2006,Suffolk,18
+OvertakingTCar,200640C016830,2006,Luton,10
+OvertakingTCar,20064100B0769,2006,Hertfordshire,32
+OvertakingTCar,20064100D0612,2006,Hertfordshire,37
+OvertakingTCar,200642C028105,2006,Essex,15
+OvertakingTCar,200642I525812,2006,Essex,78
+OvertakingTCar,200643N205066,2006,Buckinghamshire,16
+OvertakingTCar,200643N374126,2006,Buckinghamshire,40
+OvertakingTCar,200643P024106,2006,Oxfordshire,11
+OvertakingTCar,200643W123026,2006,Slough,33
+OvertakingTCar,200643W234036,2006,Reading,21
+OvertakingTCar,2.00644E+12,2006,Hampshire,32
+OvertakingTCar,2.00644E+12,2006,Hampshire,52
+OvertakingTCar,2.00644E+12,2006,Southampton ,59
+OvertakingTCar,2.00644E+12,2006,Isle of Wight,80
+OvertakingTCar,2.00644E+12,2006,Hampshire,11
+OvertakingTCar,2.00646E+12,2006,Kent,13
+OvertakingTCar,2.00647E+12,2006,West Sussex,43
+OvertakingTCar,2.00647E+12,2006,Brighton and Hove,32
+OvertakingTCar,2.00652E+12,2006,City of Bristol,20
+OvertakingTCar,2.00652E+12,2006,City of Bristol,20
+OvertakingTCar,2.00652E+12,2006,Somerset,20
+OvertakingTCar,2.00652E+12,2006,City of Bristol,35
+OvertakingTCar,2.00652E+12,2006,City of Bristol,19
+OvertakingTCar,2.00652E+12,2006,City of Bristol,23
+OvertakingTCar,2.00652E+12,2006,South Gloucestershire,42
+OvertakingTCar,2.01E+192,2006,Dorset,31
+OvertakingTCar,200701BS70065,2007,London,35
+OvertakingTCar,200701BS70100,2007,London,28
+OvertakingTCar,200701CW10128,2007,London,26
+OvertakingTCar,200701CW10409,2007,London,50
+OvertakingTCar,200701CW10987,2007,London,27
+OvertakingTCar,200701EO40138,2007,London,46
+OvertakingTCar,200701EO40176,2007,London,30
+OvertakingTCar,200701EO40386,2007,London,30
+OvertakingTCar,200701EO41028,2007,London,20
+OvertakingTCar,200701GD67345,2007,London,55
+OvertakingTCar,200701JC30207,2007,London,35
+OvertakingTCar,200701KF60129,2007,London,41
+OvertakingTCar,200701KF60319,2007,London,47
+OvertakingTCar,200701KF67330,2007,London,20
+OvertakingTCar,200701LX50256,2007,London,26
+OvertakingTCar,200701LX50615,2007,London,32
+OvertakingTCar,200701LX50695,2007,London,31
+OvertakingTCar,200701MD65071,2007,London,32
+OvertakingTCar,200701MM70433,2007,London,26
+OvertakingTCar,200701NI66007,2007,London,36
+OvertakingTCar,200701PL60560,2007,London,41
+OvertakingTCar,200701QK50506,2007,London,34
+OvertakingTCar,200701XD80618,2007,London,35
+OvertakingTCar,200701XH30454,2007,London,7
+OvertakingTCar,200701XH30507,2007,London,40
+OvertakingTCar,200701ZD30419,2007,London,19
+OvertakingTCar,200701ZT62133,2007,London,53
+OvertakingTCar,200704BA07053,2007,Lancashire,14
+OvertakingTCar,200704BA07206,2007,Lancashire,32
+OvertakingTCar,200705AA18810,2007,Merseyside,15
+OvertakingTCar,200706J067807,2007,Stockport,26
+OvertakingTCar,200706J074355,2007,Stockport,14
+OvertakingTCar,200706J075963,2007,Stockport,35
+OvertakingTCar,200706J076172,2007,Stockport,36
+OvertakingTCar,200706J081832,2007,Stockport,57
+OvertakingTCar,200706K074343,2007,Bolton,19
+OvertakingTCar,200706N078823,2007,Bury,39
+OvertakingTCar,200706N080034,2007,Bury,33
+OvertakingTCar,2.00707E+12,2007,Halton,9
+OvertakingTCar,2.00707E+12,2007,Cheshire West and Chester,23
+OvertakingTCar,2.00707E+12,2007,Cheshire West and Chester,42
+OvertakingTCar,2.0071E+12,2007,Northumberland,11
+OvertakingTCar,200711AK02610,2007,Durham,12
+OvertakingTCar,2.00713E+12,2007,Kirklees,13
+OvertakingTCar,200714H138807,2007,Sheffield,38
+OvertakingTCar,2007160C08390,2007,East Riding of Yorkshire,41
+OvertakingTCar,2007160D00380,2007,Kingston Upon Hull,50
+OvertakingTCar,2007160D07200,2007,Kingston Upon Hull,26
+OvertakingTCar,200720G075802,2007,Wolverhampton,37
+OvertakingTCar,200720K078302,2007,Sandwell,42
+OvertakingTCar,200720M043601,2007,Coventry,23
+OvertakingTCar,2.00722E+12,2007,Staffordshire,16
+OvertakingTCar,2.00722E+12,2007,Staffordshire,49
+OvertakingTCar,2.00722E+12,2007,Staffordshire,16
+OvertakingTCar,200722CA87296,2007,Worcestershire,28
+OvertakingTCar,200722FA86504,2007,Shropshire,35
+OvertakingTCar,2.00723E+12,2007,Warwickshire,44
+OvertakingTCar,2.00723E+12,2007,Warwickshire,18
+OvertakingTCar,200730D000323,2007,Derby,49
+OvertakingTCar,20073102A3522,2007,Nottinghamshire,10
+OvertakingTCar,20073102D0893,2007,Nottinghamshire,14
+OvertakingTCar,20073102D2908,2007,Nottinghamshire,60
+OvertakingTCar,200732B126807,2007,Lincolnshire,12
+OvertakingTCar,200732B349007,2007,Lincolnshire,63
+OvertakingTCar,200732C243007,2007,Lincolnshire,54
+OvertakingTCar,2.00733E+12,2007,Leicestershire,10
+OvertakingTCar,2.00733E+12,2007,Leicestershire,14
+OvertakingTCar,200734NE12357,2007,Northamptonshire,14
+OvertakingTCar,2.00735E+12,2007,Cambridgeshire,17
+OvertakingTCar,2.00735E+12,2007,Cambridgeshire,31
+OvertakingTCar,2.00736E+12,2007,Norfolk,14
+OvertakingTCar,2.00736E+12,2007,Norfolk,20
+OvertakingTCar,200737G023206,2007,Suffolk,17
+OvertakingTCar,200737L013950,2007,Suffolk,40
+OvertakingTCar,200737L014248,2007,Suffolk,38
+OvertakingTCar,2007400B01442,2007,Central Bedfordshire,17
+OvertakingTCar,200742I164404,2007,Thurrock,63
+OvertakingTCar,200742I177304,2007,Essex,43
+OvertakingTCar,200743N303027,2007,Buckinghamshire,32
+OvertakingTCar,200743P309077,2007,Oxfordshire,26
+OvertakingTCar,200743R192107,2007,Bracknell Forest,45
+OvertakingTCar,200743W215067,2007,West Berkshire,48
+OvertakingTCar,2.00744E+12,2007,Portsmouth,16
+OvertakingTCar,2.00744E+12,2007,Portsmouth,10
+OvertakingTCar,2.00744E+12,2007,Portsmouth,13
+OvertakingTCar,2.00744E+12,2007,Southampton ,43
+OvertakingTCar,2.00744E+12,2007,Hampshire,20
+OvertakingTCar,2.00744E+12,2007,Hampshire,20
+OvertakingTCar,2.00744E+12,2007,Hampshire,32
+OvertakingTCar,200745GU97613,2007,Surrey,35
+OvertakingTCar,200745MO13484,2007,Surrey,60
+OvertakingTCar,200745WA15918,2007,Surrey,43
+OvertakingTCar,200745WO01738,2007,Surrey,39
+OvertakingTCar,2.00746E+12,2007,Kent,15
+OvertakingTCar,2.00746E+12,2007,Kent,45
+OvertakingTCar,2.00747E+12,2007,Brighton and Hove,35
+OvertakingTCar,2.00747E+12,2007,East Sussex,45
+OvertakingTCar,2.00747E+12,2007,West Sussex,57
+OvertakingTCar,2.00747E+12,2007,West Sussex,37
+OvertakingTCar,200750F21J794,2007,Torbay,51
+OvertakingTCar,2.00752E+12,2007,South Gloucestershire,16
+OvertakingTCar,2.00752E+12,2007,City of Bristol,26
+OvertakingTCar,2.00752E+12,2007,North Somerset,62
+OvertakingTCar,2.00752E+12,2007,South Gloucestershire,14
+OvertakingTCar,200754DH08907,2007,Swindon,44
+OvertakingTCar,2007557B05899,2007,Bournemouth,41
+OvertakingTCar,200801BS70516,2008,London,29
+OvertakingTCar,200801CW10717,2008,London,27
+OvertakingTCar,200801CW11001,2008,London,31
+OvertakingTCar,200801CW11275,2008,London,
+OvertakingTCar,200801CW11343,2008,London,
+OvertakingTCar,200801EO40134,2008,London,
+OvertakingTCar,200801EO40151,2008,London,11
+OvertakingTCar,200801EO40271,2008,London,30
+OvertakingTCar,200801EO40379,2008,London,
+OvertakingTCar,200801EO40405,2008,London,28
+OvertakingTCar,200801EO40472,2008,London,44
+OvertakingTCar,200801EO40545,2008,London,36
+OvertakingTCar,200801EO40587,2008,London,12
+OvertakingTCar,200801EO40594,2008,London,
+OvertakingTCar,200801EO40716,2008,London,42
+OvertakingTCar,200801GD74991,2008,London,
+OvertakingTCar,200801HT75457,2008,London,62
+OvertakingTCar,200801LX50291,2008,London,33
+OvertakingTCar,200801LX50378,2008,London,24
+OvertakingTCar,200801LX50716,2008,London,31
+OvertakingTCar,200801LX50773,2008,London,34
+OvertakingTCar,200801LX50814,2008,London,26
+OvertakingTCar,200801MM70745,2008,London,30
+OvertakingTCar,200801MM70810,2008,London,50
+OvertakingTCar,200801MM71235,2008,London,22
+OvertakingTCar,200801MM71252,2008,London,38
+OvertakingTCar,200801PL60398,2008,London,28
+OvertakingTCar,200801PL60463,2008,London,11
+OvertakingTCar,200801PL60572,2008,London,40
+OvertakingTCar,200801PY20377,2008,London,24
+OvertakingTCar,200801PY20438,2008,London,32
+OvertakingTCar,200801QA10224,2008,London,
+OvertakingTCar,200801RG40041,2008,London,14
+OvertakingTCar,200801RG40611,2008,London,
+OvertakingTCar,200801RY10069,2008,London,46
+OvertakingTCar,200801RY10319,2008,London,14
+OvertakingTCar,200801SX20529,2008,London,
+OvertakingTCar,200801SX20784,2008,London,
+OvertakingTCar,200801TW60319,2008,London,14
+OvertakingTCar,200801VW40222,2008,London,21
+OvertakingTCar,200801YE80392,2008,London,
+OvertakingTCar,200801YE80491,2008,London,7
+OvertakingTCar,200801ZD30770,2008,London,43
+OvertakingTCar,2.00803E+12,2008,Cumbria,14
+OvertakingTCar,2.00803E+12,2008,Cumbria,18
+OvertakingTCar,2.00803E+12,2008,Cumbria,14
+OvertakingTCar,200805AA27715,2008,Merseyside,14
+OvertakingTCar,200805BB25730,2008,Merseyside,30
+OvertakingTCar,200806A089230,2008,Manchester,18
+OvertakingTCar,200806C089536,2008,Manchester,30
+OvertakingTCar,2.00807E+12,2008,Cheshire West and Chester,11
+OvertakingTCar,2.00807E+12,2008,Cheshire West and Chester,40
+OvertakingTCar,2.0081E+12,2008,North Tyneside,23
+OvertakingTCar,2.0081E+12,2008,Newcastle upon Tyne,39
+OvertakingTCar,2.00813E+12,2008,Leeds,34
+OvertakingTCar,2.00813E+12,2008,Leeds,23
+OvertakingTCar,200814A083708,2008,Doncaster,60
+OvertakingTCar,200814A129808,2008,Doncaster,49
+OvertakingTCar,200814A145608,2008,Doncaster,34
+OvertakingTCar,200814H011708,2008,Sheffield,31
+OvertakingTCar,2008160C04140,2008,East Riding of Yorkshire,13
+OvertakingTCar,200820F150001,2008,Birmingham,37
+OvertakingTCar,200820H044502,2008,Walsall,11
+OvertakingTCar,200820M058802,2008,Coventry,30
+OvertakingTCar,2.00822E+12,2008,Staffordshire,32
+OvertakingTCar,200822CA87441,2008,Worcestershire,33
+OvertakingTCar,200822CA87664,2008,Worcestershire,36
+OvertakingTCar,200822CA88627,2008,Worcestershire,41
+OvertakingTCar,200822DA88226,2008,Worcestershire,42
+OvertakingTCar,200822EA87088,2008,Herefordshire,52
+OvertakingTCar,200822FA88691,2008,Shropshire,15
+OvertakingTCar,200822FA88842,2008,Shropshire,13
+OvertakingTCar,200830A000655,2008,Derbyshire,19
+OvertakingTCar,200830C000602,2008,Derbyshire,12
+OvertakingTCar,200830D000421,2008,Derby,43
+OvertakingTCar,20083102A2092,2008,Nottinghamshire,
+OvertakingTCar,20083102D0044,2008,Nottinghamshire,14
+OvertakingTCar,20083102D2617,2008,Nottinghamshire,19
+OvertakingTCar,2.00833E+12,2008,Leicestershire,39
+OvertakingTCar,200834NE22028,2008,Northamptonshire,70
+OvertakingTCar,2.00835E+12,2008,Cambridgeshire,13
+OvertakingTCar,2.00835E+12,2008,Cambridgeshire,11
+OvertakingTCar,2.00836E+12,2008,Norfolk,14
+OvertakingTCar,200837G024928,2008,Suffolk,50
+OvertakingTCar,200837L015309,2008,Suffolk,34
+OvertakingTCar,20084100G0085,2008,Hertfordshire,30
+OvertakingTCar,20084100G0730,2008,Hertfordshire,25
+OvertakingTCar,20084100J2384,2008,Hertfordshire,21
+OvertakingTCar,200842I229706,2008,Essex,35
+OvertakingTCar,200842I289108,2008,Essex,60
+OvertakingTCar,200842I456112,2008,Essex,58
+OvertakingTCar,2.00844E+12,2008,Southampton ,28
+OvertakingTCar,2.00844E+12,2008,Hampshire,61
+OvertakingTCar,2.00844E+12,2008,Southampton ,38
+OvertakingTCar,2.00844E+12,2008,Hampshire,20
+OvertakingTCar,200845RE18917,2008,Surrey,33
+OvertakingTCar,200845RU30170,2008,Surrey,27
+OvertakingTCar,2.00846E+12,2008,Medway,
+OvertakingTCar,2.00847E+12,2008,West Sussex,85
+OvertakingTCar,2.00852E+12,2008,South Gloucestershire,53
+OvertakingTCar,2.00852E+12,2008,South Gloucestershire,15
+OvertakingTCar,2008558C01892,2008,Bournemouth,20
+OvertakingTCar,2008558C03377,2008,Bournemouth,9
+OvertakingTCar,2008558C04581,2008,Bournemouth,18
+OvertakingTCar,2008558D02590,2008,Dorset,35
+OvertakingTCar,200901BS70312,2009,London,36
+OvertakingTCar,200901CW10697,2009,London,28
+OvertakingTCar,200901CW11013,2009,London,25
+OvertakingTCar,200901CW11114,2009,London,25
+OvertakingTCar,200901CW12307,2009,London,84
+OvertakingTCar,200901CW12482,2009,London,29
+OvertakingTCar,200901EO40310,2009,London,25
+OvertakingTCar,200901EO40386,2009,London,29
+OvertakingTCar,200901FH10266,2009,London,25
+OvertakingTCar,200901GD10474,2009,London,61
+OvertakingTCar,200901GD10731,2009,London,24
+OvertakingTCar,200901GD10761,2009,London,44
+OvertakingTCar,200901GD10818,2009,London,31
+OvertakingTCar,200901GD10858,2009,London,34
+OvertakingTCar,200901GD19024,2009,London,28
+OvertakingTCar,200901HT20510,2009,London,51
+OvertakingTCar,200901HT20527,2009,London,36
+OvertakingTCar,200901HT20547,2009,London,39
+OvertakingTCar,200901HT20635,2009,London,35
+OvertakingTCar,200901HT20801,2009,London,27
+OvertakingTCar,200901HT20829,2009,London,52
+OvertakingTCar,200901JC30199,2009,London,18
+OvertakingTCar,200901KD50463,2009,London,56
+OvertakingTCar,200901KF60197,2009,London,27
+OvertakingTCar,200901KF60322,2009,London,55
+OvertakingTCar,200901KF60456,2009,London,35
+OvertakingTCar,200901KF60622,2009,London,22
+OvertakingTCar,200901KF60734,2009,London,43
+OvertakingTCar,200901KG70256,2009,London,18
+OvertakingTCar,200901LX50031,2009,London,42
+OvertakingTCar,200901LX50191,2009,London,11
+OvertakingTCar,200901LX50393,2009,London,27
+OvertakingTCar,200901LX50455,2009,London,33
+OvertakingTCar,200901LX50514,2009,London,44
+OvertakingTCar,200901LX50545,2009,London,32
+OvertakingTCar,200901LX59076,2009,London,37
+OvertakingTCar,200901MM70098,2009,London,28
+OvertakingTCar,200901MM70459,2009,London,23
+OvertakingTCar,200901PL60385,2009,London,40
+OvertakingTCar,200901PL60570,2009,London,33
+OvertakingTCar,200901PY20591,2009,London,46
+OvertakingTCar,200901RY10247,2009,London,56
+OvertakingTCar,200901SX20053,2009,London,29
+OvertakingTCar,200901SX21311,2009,London,30
+OvertakingTCar,200901SX21332,2009,London,21
+OvertakingTCar,200901VW40359,2009,London,23
+OvertakingTCar,200901WW50592,2009,London,39
+OvertakingTCar,200901XH30372,2009,London,44
+OvertakingTCar,200901YR90164,2009,London,39
+OvertakingTCar,200901YR90177,2009,London,24
+OvertakingTCar,200901ZD30316,2009,London,30
+OvertakingTCar,200901ZT80077,2009,London,41
+OvertakingTCar,200904EL09067,2009,Lancashire,16
+OvertakingTCar,200906J009754,2009,Stockport,33
+OvertakingTCar,200906Q019194,2009,Oldham,25
+OvertakingTCar,2.00907E+12,2009,Cheshire West and Chester,42
+OvertakingTCar,2.00907E+12,2009,Cheshire East,11
+OvertakingTCar,2.0091E+12,2009,Gateshead,53
+OvertakingTCar,2.0091E+12,2009,Northumberland,38
+OvertakingTCar,2.0091E+12,2009,North Tyneside,10
+OvertakingTCar,2.00913E+12,2009,Leeds,29
+OvertakingTCar,200914A128509,2009,Doncaster,13
+OvertakingTCar,2009160C02360,2009,East Riding of Yorkshire,66
+OvertakingTCar,2009160D06010,2009,Kingston Upon Hull,39
+OvertakingTCar,200920E130802,2009,Birmingham,63
+OvertakingTCar,200920F110702,2009,Birmingham,31
+OvertakingTCar,2.00922E+12,2009,Staffordshire,21
+OvertakingTCar,2.00922E+12,2009,Staffordshire,36
+OvertakingTCar,200922E903930,2009,Herefordshire,14
+OvertakingTCar,200922G902250,2009,Shropshire,14
+OvertakingTCar,200930A000129,2009,Derbyshire,17
+OvertakingTCar,200930D000814,2009,Derby,45
+OvertakingTCar,200930D000998,2009,Derbyshire,48
+OvertakingTCar,20093102A1730,2009,Nottinghamshire,30
+OvertakingTCar,20093102B1148,2009,Nottinghamshire,10
+OvertakingTCar,20093102B2228,2009,Nottinghamshire,12
+OvertakingTCar,20093102B2343,2009,Nottinghamshire,17
+OvertakingTCar,20093102C3155,2009,Nottingham,36
+OvertakingTCar,20093102D2007,2009,Nottinghamshire,13
+OvertakingTCar,20093102D2619,2009,Nottinghamshire,13
+OvertakingTCar,200932B323009,2009,Lincolnshire,27
+OvertakingTCar,2.00933E+12,2009,Leicestershire,61
+OvertakingTCar,2.00933E+12,2009,Leicestershire,87
+OvertakingTCar,2.00933E+12,2009,Leicestershire,15
+OvertakingTCar,2.00935E+12,2009,Cambridgeshire,13
+OvertakingTCar,2.00935E+12,2009,Cambridgeshire,24
+OvertakingTCar,2.00935E+12,2009,Cambridgeshire,23
+OvertakingTCar,2.00936E+12,2009,Norfolk,15
+OvertakingTCar,2.00936E+12,2009,Norfolk,10
+OvertakingTCar,200937G026969,2009,Suffolk,17
+OvertakingTCar,2009400D02673,2009,Central Bedfordshire,29
+OvertakingTCar,20094100A0321,2009,Hertfordshire,34
+OvertakingTCar,200942I177006,2009,Essex,56
+OvertakingTCar,200942I264608,2009,Essex,13
+OvertakingTCar,200943P091049,2009,Oxfordshire,51
+OvertakingTCar,2.00944E+12,2009,Southampton ,36
+OvertakingTCar,2.00944E+12,2009,Hampshire,31
+OvertakingTCar,2.00944E+12,2009,Portsmouth,32
+OvertakingTCar,2.00944E+12,2009,Hampshire,6
+OvertakingTCar,2.00944E+12,2009,Hampshire,24
+OvertakingTCar,2.00944E+12,2009,Hampshire,58
+OvertakingTCar,2.00944E+12,2009,Isle of Wight,39
+OvertakingTCar,2.00944E+12,2009,Hampshire,58
+OvertakingTCar,2.00944E+12,2009,Hampshire,38
+OvertakingTCar,2.00944E+12,2009,Hampshire,26
+OvertakingTCar,200945EP37051,2009,Surrey,34
+OvertakingTCar,200945SU37046,2009,Surrey,14
+OvertakingTCar,2.00946E+12,2009,Kent,11
+OvertakingTCar,2.00946E+12,2009,Kent,31
+OvertakingTCar,2.00947E+12,2009,Brighton and Hove,37
+OvertakingTCar,2.00947E+12,2009,Brighton and Hove,23
+OvertakingTCar,200950AC2C014,2009,Cornwall and Isles of Scilly,16
+OvertakingTCar,2.00952E+12,2009,City of Bristol,16
+OvertakingTCar,2.00952E+12,2009,City of Bristol,32
+OvertakingTCar,2.00952E+12,2009,City of Bristol,36
+OvertakingTCar,2.00952E+12,2009,City of Bristol,38
+OvertakingTCar,2.00952E+12,2009,Somerset,35
+OvertakingTCar,200954DC10609,2009,Swindon,16
+OvertakingTCar,200954DC13009,2009,Swindon,39
+OvertakingTCar,200954DN35909,2009,Swindon,49
+OvertakingTCar,2009559C04431,2009,Bournemouth,25
+OvertakingTCar,2009559C05266,2009,Poole,70
+OvertakingTCar,201001CP00104,2010,London,32
+OvertakingTCar,201001CW10375,2010,London,68
+OvertakingTCar,201001CW10448,2010,London,26
+OvertakingTCar,201001CW10660,2010,London,53
+OvertakingTCar,201001CW10678,2010,London,46
+OvertakingTCar,201001CW10964,2010,London,25
+OvertakingTCar,201001CW11595,2010,London,28
+OvertakingTCar,201001CW11769,2010,London,31
+OvertakingTCar,201001CW11860,2010,London,43
+OvertakingTCar,201001CW12032,2010,London,31
+OvertakingTCar,201001CW12236,2010,London,32
+OvertakingTCar,201001EO40116,2010,London,25
+OvertakingTCar,201001EO40132,2010,London,24
+OvertakingTCar,201001EO40195,2010,London,25
+OvertakingTCar,201001EO40329,2010,London,25
+OvertakingTCar,201001EO40559,2010,London,39
+OvertakingTCar,201001EO40561,2010,London,33
+OvertakingTCar,201001FH10173,2010,London,33
+OvertakingTCar,201001GD10067,2010,London,52
+OvertakingTCar,201001GD10287,2010,London,
+OvertakingTCar,201001GD10322,2010,London,39
+OvertakingTCar,201001GD10331,2010,London,13
+OvertakingTCar,201001GD10421,2010,London,36
+OvertakingTCar,201001GD10630,2010,London,40
+OvertakingTCar,201001GD10653,2010,London,
+OvertakingTCar,201001GD10715,2010,London,24
+OvertakingTCar,201001HT20174,2010,London,29
+OvertakingTCar,201001HT20381,2010,London,
+OvertakingTCar,201001HT20390,2010,London,31
+OvertakingTCar,201001HT20423,2010,London,29
+OvertakingTCar,201001HT20515,2010,London,32
+OvertakingTCar,201001HT20665,2010,London,25
+OvertakingTCar,201001HT20764,2010,London,33
+OvertakingTCar,201001HT20780,2010,London,28
+OvertakingTCar,201001HT20914,2010,London,41
+OvertakingTCar,201001JC30168,2010,London,38
+OvertakingTCar,201001JC30250,2010,London,31
+OvertakingTCar,201001KF60050,2010,London,28
+OvertakingTCar,201001KF60331,2010,London,
+OvertakingTCar,201001KF60346,2010,London,41
+OvertakingTCar,201001KF60831,2010,London,43
+OvertakingTCar,201001KG70113,2010,London,38
+OvertakingTCar,201001LX50298,2010,London,27
+OvertakingTCar,201001LX50514,2010,London,58
+OvertakingTCar,201001LX50822,2010,London,43
+OvertakingTCar,201001MM70403,2010,London,48
+OvertakingTCar,201001MM70448,2010,London,17
+OvertakingTCar,201001MM70538,2010,London,41
+OvertakingTCar,201001MM70552,2010,London,48
+OvertakingTCar,201001MM70760,2010,London,44
+OvertakingTCar,201001MM70833,2010,London,20
+OvertakingTCar,201001PL60115,2010,London,37
+OvertakingTCar,201001PL60366,2010,London,42
+OvertakingTCar,201001PL60531,2010,London,21
+OvertakingTCar,201001PL60536,2010,London,14
+OvertakingTCar,201001PL60617,2010,London,49
+OvertakingTCar,201001PL60749,2010,London,34
+OvertakingTCar,201001QK50104,2010,London,35
+OvertakingTCar,201001QK50177,2010,London,29
+OvertakingTCar,201001TB00283,2010,London,
+OvertakingTCar,201001TC00078,2010,London,31
+OvertakingTCar,201001TW60101,2010,London,12
+OvertakingTCar,201001TW60121,2010,London,14
+OvertakingTCar,201001TX20235,2010,London,35
+OvertakingTCar,201001VW40099,2010,London,48
+OvertakingTCar,201001WW50087,2010,London,35
+OvertakingTCar,201001WW50400,2010,London,17
+OvertakingTCar,201001WW50501,2010,London,22
+OvertakingTCar,201001XD80673,2010,London,46
+OvertakingTCar,201001XH30609,2010,London,40
+OvertakingTCar,201001XH30802,2010,London,55
+OvertakingTCar,201001YE80049,2010,London,11
+OvertakingTCar,201001YE80332,2010,London,17
+OvertakingTCar,201001ZD30270,2010,London,63
+OvertakingTCar,201001ZD30406,2010,London,58
+OvertakingTCar,201004FG10100,2010,Lancashire,33
+OvertakingTCar,201005AA05679,2010,Merseyside,37
+OvertakingTCar,201005CC06106,2010,Merseyside,43
+OvertakingTCar,201005EE06128,2010,Merseyside,10
+OvertakingTCar,201006J034601,2010,Stockport,28
+OvertakingTCar,201006J034798,2010,Stockport,33
+OvertakingTCar,201006J036202,2010,Stockport,45
+OvertakingTCar,201006K032677,2010,Bolton,29
+OvertakingTCar,201006M032896,2010,Trafford,57
+OvertakingTCar,2.01007E+12,2010,Cheshire East,16
+OvertakingTCar,2.01007E+12,2010,Cheshire East,38
+OvertakingTCar,2.01007E+12,2010,Warrington,12
+OvertakingTCar,2.01007E+12,2010,Cheshire East,20
+OvertakingTCar,2.01007E+12,2010,Cheshire West and Chester,57
+OvertakingTCar,2.0101E+12,2010,Newcastle upon Tyne,14
+OvertakingTCar,2.0101E+12,2010,Gateshead,36
+OvertakingTCar,2.0101E+12,2010,Newcastle upon Tyne,40
+OvertakingTCar,2.01013E+12,2010,Leeds,26
+OvertakingTCar,2.01013E+12,2010,Wakefield,43
+OvertakingTCar,201014C028510,2010,Rotherham,18
+OvertakingTCar,201020L046611,2010,Solihull,84
+OvertakingTCar,201020T003250,2010,Birmingham,8
+OvertakingTCar,201020T056250,2010,Birmingham,35
+OvertakingTCar,201020T501340,2010,Birmingham,29
+OvertakingTCar,2.01021E+12,2010,Staffordshire,20
+OvertakingTCar,2.01021E+12,2010,Staffordshire,35
+OvertakingTCar,201022C002647,2010,Worcestershire,28
+OvertakingTCar,2.01023E+12,2010,Warwickshire,23
+OvertakingTCar,201030C000821,2010,Derbyshire,44
+OvertakingTCar,20103102D1773,2010,Nottinghamshire,
+OvertakingTCar,201032C139710,2010,Lincolnshire,18
+OvertakingTCar,2.01033E+12,2010,Leicestershire,30
+OvertakingTCar,2.01033E+12,2010,Leicestershire,48
+OvertakingTCar,201034NK27330,2010,Northamptonshire,9
+OvertakingTCar,2.01035E+12,2010,Peterborough,33
+OvertakingTCar,2.01036E+12,2010,Norfolk,15
+OvertakingTCar,2010400B02731,2010,Bedford Borough Council,54
+OvertakingTCar,2010400D01921,2010,Central Bedfordshire,16
+OvertakingTCar,20104100A0657,2010,Hertfordshire,6
+OvertakingTCar,20104100C0351,2010,Hertfordshire,54
+OvertakingTCar,201042I071203,2010,Essex,14
+OvertakingTCar,201042I252508,2010,Southend on Sea,54
+OvertakingTCar,201043N058070,2010,Buckinghamshire,67
+OvertakingTCar,201043N194020,2010,Buckinghamshire,46
+OvertakingTCar,201043P285070,2010,Oxfordshire,20
+OvertakingTCar,201043S065100,2010,Milton Keynes,30
+OvertakingTCar,2.01044E+12,2010,Hampshire,14
+OvertakingTCar,2.01044E+12,2010,Hampshire,16
+OvertakingTCar,2.01044E+12,2010,Hampshire,11
+OvertakingTCar,2.01044E+12,2010,Hampshire,44
+OvertakingTCar,2.01044E+12,2010,Portsmouth,18
+OvertakingTCar,2.01044E+12,2010,Hampshire,23
+OvertakingTCar,2.01044E+12,2010,Portsmouth,11
+OvertakingTCar,2.01044E+12,2010,Southampton ,40
+OvertakingTCar,2.01044E+12,2010,Portsmouth,31
+OvertakingTCar,2.01046E+12,2010,Kent,45
+OvertakingTCar,2.01047E+12,2010,East Sussex,15
+OvertakingTCar,2.01047E+12,2010,East Sussex,39
+OvertakingTCar,2.01047E+12,2010,West Sussex,49
+OvertakingTCar,2.01047E+12,2010,West Sussex,54
+OvertakingTCar,201050GN2C021,2010,Cornwall and Isles of Scilly,39
+OvertakingTCar,2.01052E+12,2010,Somerset,11
+OvertakingTCar,2.01052E+12,2010,Somerset,46
+OvertakingTCar,2.01052E+12,2010,South Gloucestershire,23
+OvertakingTCar,2.01052E+12,2010,City of Bristol,47
+OvertakingTCar,2.01052E+12,2010,City of Bristol,29
+OvertakingTCar,2.01052E+12,2010,City of Bristol,38
+OvertakingTCar,2.01052E+12,2010,City of Bristol,35
+OvertakingTCar,2.01052E+12,2010,North Somerset,24
+OvertakingTCar,2.01052E+12,2010,South Gloucestershire,38
+OvertakingTCar,2.01052E+12,2010,City of Bristol,30
+OvertakingTCar,2.01053E+12,2010,Gloucestershire,13
+OvertakingTCar,201054DN20210,2010,Swindon,37
+OvertakingTCar,20105500C0228,2010,Poole,47
+OvertakingTCar,20105500D1101,2010,Dorset,15
+OvertakingTCar,2010550C21231,2010,Bournemouth,27
+OvertakingTCar,2010550D28011,2010,Dorset,49
+OvertakingTCar,2010550D46203,2010,Dorset,13
+OvertakingTCar,2011201101CP00240,2011,London,-1
+OvertakingTCar,2011201101CW10514,2011,London,38
+OvertakingTCar,2011201101CW11382,2011,London,53
+OvertakingTCar,2011201101CW11850,2011,London,23
+OvertakingTCar,2011201101CW11966,2011,London,36
+OvertakingTCar,2011201101CW12171,2011,London,24
+OvertakingTCar,2011201101EO40226,2011,London,74
+OvertakingTCar,2011201101EO40434,2011,London,24
+OvertakingTCar,2011201101GD10281,2011,London,31
+OvertakingTCar,2011201101GD10387,2011,London,36
+OvertakingTCar,2011201101GD10398,2011,London,31
+OvertakingTCar,2011201101GD10575,2011,London,38
+OvertakingTCar,2011201101HT20089,2011,London,28
+OvertakingTCar,2011201101HT20100,2011,London,54
+OvertakingTCar,2011201101HT20218,2011,London,41
+OvertakingTCar,2011201101HT20231,2011,London,45
+OvertakingTCar,2011201101HT20279,2011,London,31
+OvertakingTCar,2011201101HT20294,2011,London,38
+OvertakingTCar,2011201101HT20596,2011,London,-1
+OvertakingTCar,2011201101HT20722,2011,London,45
+OvertakingTCar,2011201101HT20765,2011,London,21
+OvertakingTCar,2011201101JC30147,2011,London,24
+OvertakingTCar,2011201101JC30182,2011,London,31
+OvertakingTCar,2011201101JC30263,2011,London,34
+OvertakingTCar,2011201101JC30310,2011,London,19
+OvertakingTCar,2011201101JC30393,2011,London,29
+OvertakingTCar,2011201101KD50390,2011,London,16
+OvertakingTCar,2011201101KF60044,2011,London,37
+OvertakingTCar,2011201101KF60262,2011,London,41
+OvertakingTCar,2011201101KF60682,2011,London,51
+OvertakingTCar,2011201101KG70200,2011,London,46
+OvertakingTCar,2011201101LX50970,2011,London,57
+OvertakingTCar,2011201101MM70335,2011,London,33
+OvertakingTCar,2011201101MM70548,2011,London,25
+OvertakingTCar,2011201101MM70559,2011,London,44
+OvertakingTCar,2011201101MM70580,2011,London,53
+OvertakingTCar,2011201101MM70593,2011,London,30
+OvertakingTCar,2011201101MM70671,2011,London,47
+OvertakingTCar,2011201101MM70903,2011,London,27
+OvertakingTCar,2011201101MM70954,2011,London,17
+OvertakingTCar,2011201101PL60402,2011,London,15
+OvertakingTCar,2011201101QK50736,2011,London,25
+OvertakingTCar,2011201101RG40547,2011,London,17
+OvertakingTCar,2011201101SX20778,2011,London,39
+OvertakingTCar,2011201101TA00010,2011,London,18
+OvertakingTCar,2011201101TA00434,2011,London,26
+OvertakingTCar,2011201101TA00468,2011,London,30
+OvertakingTCar,2011201101TA00495,2011,London,-1
+OvertakingTCar,2011201101TA00546,2011,London,52
+OvertakingTCar,2011201101TA00655,2011,London,42
+OvertakingTCar,2011201101TA00806,2011,London,26
+OvertakingTCar,2011201101TA00860,2011,London,19
+OvertakingTCar,2011201101TA01065,2011,London,60
+OvertakingTCar,2011201101TA01180,2011,London,39
+OvertakingTCar,2011201101TA01359,2011,London,23
+OvertakingTCar,2011201101TA01479,2011,London,81
+OvertakingTCar,2011201101TA01808,2011,London,25
+OvertakingTCar,2011201101TB00031,2011,London,64
+OvertakingTCar,2011201101TB00339,2011,London,28
+OvertakingTCar,2011201101TB00345,2011,London,29
+OvertakingTCar,2011201101TB00442,2011,London,-1
+OvertakingTCar,2011201101TB00457,2011,London,24
+OvertakingTCar,2011201101TB00460,2011,London,47
+OvertakingTCar,2011201101TB00464,2011,London,27
+OvertakingTCar,2011201101TB00510,2011,London,29
+OvertakingTCar,2011201101TB00517,2011,London,47
+OvertakingTCar,2011201101TB00624,2011,London,29
+OvertakingTCar,2011201101TB00630,2011,London,31
+OvertakingTCar,2011201101TB00931,2011,London,46
+OvertakingTCar,2011201101TB01213,2011,London,38
+OvertakingTCar,2011201101TB01352,2011,London,34
+OvertakingTCar,2011201101TB01521,2011,London,39
+OvertakingTCar,2011201101TW60103,2011,London,66
+OvertakingTCar,2011201101TW60309,2011,London,33
+OvertakingTCar,2011201101TX20259,2011,London,26
+OvertakingTCar,2011201101TX20387,2011,London,45
+OvertakingTCar,2011201101TX20627,2011,London,76
+OvertakingTCar,2011201101WW50431,2011,London,15
+OvertakingTCar,2011201101WW50624,2011,London,51
+OvertakingTCar,2011201101WW50787,2011,London,40
+OvertakingTCar,2011201101WW50818,2011,London,33
+OvertakingTCar,2011201101WW50934,2011,London,80
+OvertakingTCar,2011201101XD80274,2011,London,47
+OvertakingTCar,2011201101XH30505,2011,London,14
+OvertakingTCar,2011201101XH30812,2011,London,32
+OvertakingTCar,2011201101YE80764,2011,London,55
+OvertakingTCar,2011201101ZD30594,2011,London,22
+OvertakingTCar,2011201104DR11059,2011,Lancashire,25
+OvertakingTCar,2011201105AA02168,2011,Merseyside,36
+OvertakingTCar,2011201105AA04129,2011,Merseyside,47
+OvertakingTCar,2011201105FF02813,2011,Merseyside,50
+OvertakingTCar,2011201105FF04657,2011,Merseyside,32
+OvertakingTCar,2011201106B050956,2011,Manchester,32
+OvertakingTCar,2011201106F055255,2011,Salford,27
+OvertakingTCar,2011201106J053855,2011,Stockport,11
+OvertakingTCar,2011201106P050572,2011,Rochdale,11
+OvertakingTCar,2.0112E+16,2011,Warrington,13
+OvertakingTCar,2.0112E+16,2011,Cheshire West and Chester,59
+OvertakingTCar,2.0112E+16,2011,Warrington,54
+OvertakingTCar,2.0112E+16,2011,Cheshire West and Chester,78
+OvertakingTCar,2.0112E+16,2011,Warrington,26
+OvertakingTCar,2.0112E+16,2011,North Tyneside,39
+OvertakingTCar,2.0112E+16,2011,North Tyneside,47
+OvertakingTCar,2.0112E+16,2011,Newcastle upon Tyne,17
+OvertakingTCar,2.0112E+16,2011,Newcastle upon Tyne,30
+OvertakingTCar,2011201114A031611,2011,Doncaster,48
+OvertakingTCar,2011201114A076411,2011,Doncaster,18
+OvertakingTCar,2011201114A103111,2011,Doncaster,17
+OvertakingTCar,2011201114K131511,2011,Sheffield,30
+OvertakingTCar,20112011160C03401,2011,East Riding of Yorkshire,34
+OvertakingTCar,20112011160C04201,2011,East Riding of Yorkshire,61
+OvertakingTCar,20112011160C06451,2011,East Riding of Yorkshire,54
+OvertakingTCar,20112011160C07331,2011,East Riding of Yorkshire,43
+OvertakingTCar,20112011160D03961,2011,Kingston Upon Hull,51
+OvertakingTCar,20112011160D06491,2011,Kingston Upon Hull,35
+OvertakingTCar,20112011170S42591,2011,Stockton on Tees,42
+OvertakingTCar,2011201120G006281,2011,Wolverhampton,12
+OvertakingTCar,2011201120K004291,2011,Sandwell,15
+OvertakingTCar,2011201120W042601,2011,Birmingham,30
+OvertakingTCar,2011201120W050291,2011,Birmingham,44
+OvertakingTCar,2.0112E+16,2011,Stoke on Trent,37
+OvertakingTCar,2.0112E+16,2011,Staffordshire,13
+OvertakingTCar,2.0112E+16,2011,Staffordshire,51
+OvertakingTCar,2011201122F100532,2011,Shropshire,14
+OvertakingTCar,2.0112E+16,2011,Warwickshire,54
+OvertakingTCar,2011201130C000319,2011,Derbyshire,53
+OvertakingTCar,2011201130D000778,2011,Derbyshire,51
+OvertakingTCar,2011201131A005811,2011,Nottinghamshire,12
+OvertakingTCar,2011201131A189411,2011,Nottinghamshire,8
+OvertakingTCar,2011201131A228511,2011,Nottinghamshire,52
+OvertakingTCar,2011201131A238811,2011,Nottinghamshire,41
+OvertakingTCar,2011201131A265111,2011,Nottinghamshire,40
+OvertakingTCar,2011201131B016911,2011,Nottinghamshire,13
+OvertakingTCar,2011201131B099811,2011,Nottinghamshire,40
+OvertakingTCar,2011201131C082011,2011,Nottingham,53
+OvertakingTCar,2011201131C260611,2011,Nottingham,38
+OvertakingTCar,2011201132L183111,2011,Lincolnshire,14
+OvertakingTCar,2.0112E+16,2011,Leicestershire,33
+OvertakingTCar,2.0112E+16,2011,Leicestershire,32
+OvertakingTCar,2.0112E+16,2011,Leicestershire,10
+OvertakingTCar,2.0112E+16,2011,Leicestershire,17
+OvertakingTCar,2.0112E+16,2011,Cambridgeshire,23
+OvertakingTCar,2.0112E+16,2011,Peterborough,25
+OvertakingTCar,2.0112E+16,2011,Peterborough,21
+OvertakingTCar,2.0112E+16,2011,Cambridgeshire,28
+OvertakingTCar,2.0112E+16,2011,Cambridgeshire,22
+OvertakingTCar,2.0112E+16,2011,Norfolk,48
+OvertakingTCar,20112011400BA0316,2011,Bedford Borough Council,42
+OvertakingTCar,201120114100C0417,2011,Hertfordshire,40
+OvertakingTCar,201120114100D0702,2011,Hertfordshire,61
+OvertakingTCar,201120114100F0578,2011,Hertfordshire,15
+OvertakingTCar,2011201142I201307,2011,Essex,40
+OvertakingTCar,2011201142I228607,2011,Essex,37
+OvertakingTCar,2011201142I266508,2011,Essex,27
+OvertakingTCar,2011201142I309109,2011,Essex,25
+OvertakingTCar,2011201143R245111,2011,Slough,21
+OvertakingTCar,2011201143W130081,2011,Reading,51
+OvertakingTCar,2011201143W184071,2011,Reading,23
+OvertakingTCar,2011201143W211021,2011,Reading,41
+OvertakingTCar,2.0112E+16,2011,Hampshire,58
+OvertakingTCar,2.0112E+16,2011,Hampshire,48
+OvertakingTCar,2.0112E+16,2011,Hampshire,27
+OvertakingTCar,2.0112E+16,2011,Hampshire,40
+OvertakingTCar,2.0112E+16,2011,Hampshire,16
+OvertakingTCar,2.0112E+16,2011,Southampton ,29
+OvertakingTCar,2.0112E+16,2011,Hampshire,31
+OvertakingTCar,2.0112E+16,2011,Hampshire,64
+OvertakingTCar,2.0112E+16,2011,Portsmouth,64
+OvertakingTCar,2.0112E+16,2011,Hampshire,50
+OvertakingTCar,2.0112E+16,2011,Portsmouth,16
+OvertakingTCar,2.0112E+16,2011,Hampshire,44
+OvertakingTCar,2011201145EL60538,2011,Surrey,41
+OvertakingTCar,2011201145RE60986,2011,Surrey,32
+OvertakingTCar,2.0112E+16,2011,Kent,26
+OvertakingTCar,2.0112E+16,2011,Kent,21
+OvertakingTCar,2.0112E+16,2011,Brighton and Hove,24
+OvertakingTCar,2.0112E+16,2011,East Sussex,24
+OvertakingTCar,2.0112E+16,2011,East Sussex,46
+OvertakingTCar,2.0112E+16,2011,West Sussex,12
+OvertakingTCar,2011201150GN2C013,2011,Cornwall and Isles of Scilly,22
+OvertakingTCar,2011201150KH2H031,2011,Devon,30
+OvertakingTCar,2011201150KS2A001,2011,Devon,32
+OvertakingTCar,2.0112E+16,2011,City of Bristol,20
+OvertakingTCar,2.0112E+16,2011,City of Bristol,29
+OvertakingTCar,2.0112E+16,2011,North Somerset,70
+OvertakingTCar,2011201154DW10311,2011,Swindon,25
+OvertakingTCar,20112011551D20917,2011,Dorset,28
+OvertakingTCar,2012201201BS70430,2012,London,36
+OvertakingTCar,2012201201BS70438,2012,London,20
+OvertakingTCar,2012201201CP00199,2012,London,32
+OvertakingTCar,2012201201CP00250,2012,London,37
+OvertakingTCar,2012201201CW10199,2012,London,52
+OvertakingTCar,2012201201CW11099,2012,London,23
+OvertakingTCar,2012201201CW11553,2012,London,39
+OvertakingTCar,2012201201CW11649,2012,London,22
+OvertakingTCar,2012201201EK40056,2012,London,-1
+OvertakingTCar,2012201201EK40633,2012,London,83
+OvertakingTCar,2012201201EK40689,2012,London,56
+OvertakingTCar,2012201201EO40178,2012,London,26
+OvertakingTCar,2012201201EO40251,2012,London,36
+OvertakingTCar,2012201201EO40289,2012,London,-1
+OvertakingTCar,2012201201EO40306,2012,London,22
+OvertakingTCar,2012201201EO40629,2012,London,-1
+OvertakingTCar,2012201201FH10420,2012,London,28
+OvertakingTCar,2012201201FH10628,2012,London,-1
+OvertakingTCar,2012201201GD10014,2012,London,26
+OvertakingTCar,2012201201GD10204,2012,London,18
+OvertakingTCar,2012201201GD10345,2012,London,14
+OvertakingTCar,2012201201GD10477,2012,London,24
+OvertakingTCar,2012201201HT20339,2012,London,-1
+OvertakingTCar,2012201201HT20579,2012,London,47
+OvertakingTCar,2012201201HT20657,2012,London,25
+OvertakingTCar,2012201201HT20827,2012,London,31
+OvertakingTCar,2012201201JC30029,2012,London,55
+OvertakingTCar,2012201201JC30304,2012,London,21
+OvertakingTCar,2012201201JC30403,2012,London,-1
+OvertakingTCar,2012201201KD50275,2012,London,72
+OvertakingTCar,2012201201KF60201,2012,London,18
+OvertakingTCar,2012201201KF60520,2012,London,13
+OvertakingTCar,2012201201KF60580,2012,London,30
+OvertakingTCar,2012201201LX50156,2012,London,22
+OvertakingTCar,2012201201LX50330,2012,London,28
+OvertakingTCar,2012201201LX50520,2012,London,18
+OvertakingTCar,2012201201LX50697,2012,London,41
+OvertakingTCar,2012201201LX50796,2012,London,42
+OvertakingTCar,2012201201LX50881,2012,London,31
+OvertakingTCar,2012201201MM70055,2012,London,37
+OvertakingTCar,2012201201MM70251,2012,London,25
+OvertakingTCar,2012201201MM70605,2012,London,30
+OvertakingTCar,2012201201MM70609,2012,London,35
+OvertakingTCar,2012201201MM70692,2012,London,53
+OvertakingTCar,2012201201MM70752,2012,London,30
+OvertakingTCar,2012201201MM79009,2012,London,12
+OvertakingTCar,2012201201PL60128,2012,London,48
+OvertakingTCar,2012201201PL60174,2012,London,42
+OvertakingTCar,2012201201PL60185,2012,London,28
+OvertakingTCar,2012201201PL60420,2012,London,28
+OvertakingTCar,2012201201PL60631,2012,London,46
+OvertakingTCar,2012201201PY20590,2012,London,23
+OvertakingTCar,2012201201QK50075,2012,London,10
+OvertakingTCar,2012201201RG40151,2012,London,40
+OvertakingTCar,2012201201RY10052,2012,London,60
+OvertakingTCar,2012201201SX20290,2012,London,37
+OvertakingTCar,2012201201SX20640,2012,London,38
+OvertakingTCar,2012201201SX20688,2012,London,20
+OvertakingTCar,2012201201SX20945,2012,London,35
+OvertakingTCar,2012201201SX21086,2012,London,21
+OvertakingTCar,2012201201TA00331,2012,London,64
+OvertakingTCar,2012201201TA00465,2012,London,30
+OvertakingTCar,2012201201TB00365,2012,London,51
+OvertakingTCar,2012201201TB00538,2012,London,39
+OvertakingTCar,2012201201VW40222,2012,London,21
+OvertakingTCar,2012201201VW40256,2012,London,-1
+OvertakingTCar,2012201201VW40472,2012,London,34
+OvertakingTCar,2012201201WW50261,2012,London,30
+OvertakingTCar,2012201201XD80274,2012,London,30
+OvertakingTCar,2012201201XD80310,2012,London,29
+OvertakingTCar,2012201201XD80932,2012,London,28
+OvertakingTCar,2012201201XH30722,2012,London,23
+OvertakingTCar,2012201201YE80702,2012,London,43
+OvertakingTCar,2012201201ZD30419,2012,London,41
+OvertakingTCar,2012201201ZD31057,2012,London,38
+OvertakingTCar,2012201201ZT80313,2012,London,24
+OvertakingTCar,2012201204CL12171,2012,Lancashire,30
+OvertakingTCar,2012201205AA04471,2012,Merseyside,73
+OvertakingTCar,2012201205BB03998,2012,Merseyside,48
+OvertakingTCar,2012201206E064431,2012,Manchester,29
+OvertakingTCar,2012201206E065491,2012,Manchester,45
+OvertakingTCar,2012201206F060430,2012,Salford,21
+OvertakingTCar,2012201206Q062891,2012,Oldham,12
+OvertakingTCar,2.0122E+16,2012,Cheshire East,54
+OvertakingTCar,2.0122E+16,2012,Cheshire West and Chester,41
+OvertakingTCar,2.0122E+16,2012,Cheshire East,48
+OvertakingTCar,2.0122E+16,2012,Cheshire East,50
+OvertakingTCar,2.0122E+16,2012,Halton,11
+OvertakingTCar,2.0122E+16,2012,Newcastle upon Tyne,59
+OvertakingTCar,2.0122E+16,2012,Newcastle upon Tyne,30
+OvertakingTCar,2.0122E+16,2012,Northumberland,46
+OvertakingTCar,2012201211SJ00972,2012,Darlington,39
+OvertakingTCar,2.0122E+16,2012,Wakefield,39
+OvertakingTCar,2.0122E+16,2012,Leeds,78
+OvertakingTCar,2.0122E+16,2012,Kirklees,17
+OvertakingTCar,2012201214K305412,2012,Sheffield,45
+OvertakingTCar,20122012160B02301,2012,North Lincolnshire,43
+OvertakingTCar,20122012160B02651,2012,North Lincolnshire,7
+OvertakingTCar,20122012160B03421,2012,North Lincolnshire,81
+OvertakingTCar,20122012160D00141,2012,Kingston Upon Hull,53
+OvertakingTCar,20122012160D02821,2012,Kingston Upon Hull,15
+OvertakingTCar,20122012160D03711,2012,Kingston Upon Hull,9
+OvertakingTCar,20122012160D05331,2012,Kingston Upon Hull,17
+OvertakingTCar,20122012170M12592,2012,Middlesbrough,23
+OvertakingTCar,2012201220M015312,2012,Coventry,26
+OvertakingTCar,2.0122E+16,2012,Staffordshire,22
+OvertakingTCar,2.0122E+16,2012,Stoke on Trent,53
+OvertakingTCar,2.0122E+16,2012,Staffordshire,8
+OvertakingTCar,2012201222C201879,2012,Worcestershire,79
+OvertakingTCar,2012201222D200793,2012,Worcestershire,41
+OvertakingTCar,2012201230B002577,2012,Derbyshire,47
+OvertakingTCar,2012201230C001977,2012,Derbyshire,47
+OvertakingTCar,2012201230D002127,2012,Derby,36
+OvertakingTCar,2012201231A022712,2012,Nottinghamshire,13
+OvertakingTCar,2012201231A176012,2012,Nottinghamshire,12
+OvertakingTCar,2012201231A203812,2012,Nottinghamshire,34
+OvertakingTCar,2012201231B171112,2012,Nottinghamshire,9
+OvertakingTCar,2012201231C055112,2012,Nottingham,19
+OvertakingTCar,2012201231C073712,2012,Nottingham,19
+OvertakingTCar,2012201231C164112,2012,Nottingham,16
+OvertakingTCar,2012201231C181512,2012,Nottingham,7
+OvertakingTCar,2012201231D006612,2012,Nottinghamshire,49
+OvertakingTCar,2012201231D149912,2012,Nottinghamshire,44
+OvertakingTCar,2012201232E099112,2012,Lincolnshire,10
+OvertakingTCar,2.0122E+16,2012,Leicestershire,44
+OvertakingTCar,2.0122E+16,2012,Leicestershire,41
+OvertakingTCar,2.0122E+16,2012,Rutland,51
+OvertakingTCar,2.0122E+16,2012,Leicestershire,10
+OvertakingTCar,2012201234WN06512,2012,Northamptonshire,-1
+OvertakingTCar,2.0122E+16,2012,Cambridgeshire,42
+OvertakingTCar,2.0122E+16,2012,Peterborough,46
+OvertakingTCar,2.0122E+16,2012,Norfolk,24
+OvertakingTCar,2.0122E+16,2012,Norfolk,54
+OvertakingTCar,2.0122E+16,2012,Suffolk,33
+OvertakingTCar,2012201242I156505,2012,Essex,70
+OvertakingTCar,2012201242I191306,2012,Essex,42
+OvertakingTCar,2012201242I271309,2012,Essex,14
+OvertakingTCar,2012201242I285909,2012,Essex,24
+OvertakingTCar,2012201242I325110,2012,Essex,45
+OvertakingTCar,2012201243P244112,2012,Oxfordshire,52
+OvertakingTCar,2012201243P297012,2012,Oxfordshire,72
+OvertakingTCar,2012201243R118092,2012,Bracknell Forest,35
+OvertakingTCar,2012201243R196092,2012,Slough,78
+OvertakingTCar,2.0122E+16,2012,Portsmouth,44
+OvertakingTCar,2.0122E+16,2012,Portsmouth,26
+OvertakingTCar,2.0122E+16,2012,Hampshire,21
+OvertakingTCar,2.0122E+16,2012,Hampshire,15
+OvertakingTCar,2.0122E+16,2012,Hampshire,16
+OvertakingTCar,2.0122E+16,2012,Portsmouth,36
+OvertakingTCar,2.0122E+16,2012,Hampshire,53
+OvertakingTCar,2.0122E+16,2012,Isle of Wight,52
+OvertakingTCar,2.0122E+16,2012,Kent,47
+OvertakingTCar,2.0122E+16,2012,Kent,48
+OvertakingTCar,2.0122E+16,2012,West Sussex,50
+OvertakingTCar,2.0122E+16,2012,Somerset,39
+OvertakingTCar,2.0122E+16,2012,Somerset,51
+OvertakingTCar,2.0122E+16,2012,City of Bristol,36
+OvertakingTCar,2.0122E+16,2012,City of Bristol,23
+OvertakingTCar,2.0122E+16,2012,City of Bristol,29
+OvertakingTCar,2.0122E+16,2012,City of Bristol,35
+OvertakingTCar,2.0122E+16,2012,South Gloucestershire,12
+OvertakingTCar,2.0122E+16,2012,North Somerset,51
+OvertakingTCar,2.0122E+16,2012,North Somerset,24
+OvertakingTCar,2.0122E+16,2012,Gloucestershire,47
+OvertakingTCar,2.0122E+16,2012,Gloucestershire,33
+OvertakingTCar,2.0122E+16,2012,Wiltshire,37
+OvertakingTCar,2.0122E+16,2012,Swindon,29
+OvertakingTCar,2.0122E+16,2012,Wiltshire,22
+OvertakingTCar,2.0122E+16,2012,Wiltshire,22
+OvertakingTCar,20122012552C44029,2012,Bournemouth,25

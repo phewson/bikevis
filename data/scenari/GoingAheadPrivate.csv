@@ -1,0 +1,2511 @@
+Scenario,urn,accyr,LAName,Age
+GoingAheadPrivate,199901AB00280,1999,London,11
+GoingAheadPrivate,199901CD00339,1999,London,34
+GoingAheadPrivate,199901DM00527,1999,London,51
+GoingAheadPrivate,199901EO00334,1999,London,11
+GoingAheadPrivate,199901FH00590,1999,London,4
+GoingAheadPrivate,199901GD00384,1999,London,18
+GoingAheadPrivate,199901GD00437,1999,London,8
+GoingAheadPrivate,199901GN00203,1999,London,20
+GoingAheadPrivate,199901GN00467,1999,London,14
+GoingAheadPrivate,199901GN00656,1999,London,19
+GoingAheadPrivate,199901GN00664,1999,London,
+GoingAheadPrivate,199901JL00269,1999,London,14
+GoingAheadPrivate,199901KD00361,1999,London,8
+GoingAheadPrivate,199901KD00459,1999,London,17
+GoingAheadPrivate,199901KD00940,1999,London,14
+GoingAheadPrivate,199901KO00285,1999,London,5
+GoingAheadPrivate,199901LD00087,1999,London,27
+GoingAheadPrivate,199901LD00435,1999,London,20
+GoingAheadPrivate,199901LD00448,1999,London,16
+GoingAheadPrivate,199901LS00118,1999,London,14
+GoingAheadPrivate,199901LS00246,1999,London,19
+GoingAheadPrivate,199901LX00482,1999,London,35
+GoingAheadPrivate,199901LX00585,1999,London,
+GoingAheadPrivate,199901MS00400,1999,London,11
+GoingAheadPrivate,199901PD00305,1999,London,13
+GoingAheadPrivate,199901QK00069,1999,London,24
+GoingAheadPrivate,199901QK00276,1999,London,13
+GoingAheadPrivate,199901RG00263,1999,London,15
+GoingAheadPrivate,199901RY00033,1999,London,63
+GoingAheadPrivate,199901RY00113,1999,London,14
+GoingAheadPrivate,199901RY00473,1999,London,16
+GoingAheadPrivate,199901RY00530,1999,London,12
+GoingAheadPrivate,199901RY00557,1999,London,20
+GoingAheadPrivate,199901RY00629,1999,London,10
+GoingAheadPrivate,199901SA00123,1999,Hertfordshire,
+GoingAheadPrivate,199901SA00294,1999,London,9
+GoingAheadPrivate,199901SA00394,1999,Hertfordshire,
+GoingAheadPrivate,199901SC00338,1999,London,29
+GoingAheadPrivate,199901SC00510,1999,London,6
+GoingAheadPrivate,199901SC00660,1999,London,14
+GoingAheadPrivate,199901SC00990,1999,London,9
+GoingAheadPrivate,199901SC01347,1999,London,10
+GoingAheadPrivate,199901TW00457,1999,London,28
+GoingAheadPrivate,199901TX00217,1999,London,13
+GoingAheadPrivate,199901TX00578,1999,London,12
+GoingAheadPrivate,199901TX00657,1999,London,8
+GoingAheadPrivate,199901TX00679,1999,London,38
+GoingAheadPrivate,199901TX00695,1999,London,13
+GoingAheadPrivate,199901TX00719,1999,London,14
+GoingAheadPrivate,199901TX00740,1999,London,61
+GoingAheadPrivate,199901TX01005,1999,London,18
+GoingAheadPrivate,199901TX01182,1999,London,30
+GoingAheadPrivate,199901VK00096,1999,London,46
+GoingAheadPrivate,199901VK00142,1999,London,47
+GoingAheadPrivate,199901VW00206,1999,London,16
+GoingAheadPrivate,199901VW00440,1999,London,9
+GoingAheadPrivate,199901WA00077,1999,London,10
+GoingAheadPrivate,199901WA00144,1999,London,11
+GoingAheadPrivate,199901WW00324,1999,London,28
+GoingAheadPrivate,199901WW00560,1999,London,19
+GoingAheadPrivate,199901WW00968,1999,London,8
+GoingAheadPrivate,199901WW01101,1999,London,12
+GoingAheadPrivate,199901XD00265,1999,London,27
+GoingAheadPrivate,199901XD00515,1999,London,21
+GoingAheadPrivate,199901XH00271,1999,London,11
+GoingAheadPrivate,199901XH00390,1999,London,6
+GoingAheadPrivate,199901YF00484,1999,London,14
+GoingAheadPrivate,199901YR00808,1999,London,12
+GoingAheadPrivate,199901ZD00315,1999,London,13
+GoingAheadPrivate,199901ZD00529,1999,London,11
+GoingAheadPrivate,199901ZN00011,1999,London,35
+GoingAheadPrivate,199901ZN00300,1999,London,12
+GoingAheadPrivate,199901ZN00885,1999,London,
+GoingAheadPrivate,199901ZP00506,1999,London,
+GoingAheadPrivate,199901ZP00801,1999,London,12
+GoingAheadPrivate,199904B063199,1999,Lancashire,17
+GoingAheadPrivate,199904C022199,1999,Lancashire,11
+GoingAheadPrivate,199904E050999,1999,Lancashire,14
+GoingAheadPrivate,199904F063299,1999,Lancashire,12
+GoingAheadPrivate,1.99905E+12,1999,Merseyside,8
+GoingAheadPrivate,1.99905E+12,1999,Merseyside,26
+GoingAheadPrivate,1.99905E+12,1999,Merseyside,9
+GoingAheadPrivate,1.99905E+12,1999,Merseyside,8
+GoingAheadPrivate,1.99905E+12,1999,Merseyside,8
+GoingAheadPrivate,1.99905E+12,1999,Merseyside,16
+GoingAheadPrivate,1.99905E+12,1999,Merseyside,9
+GoingAheadPrivate,1.99905E+12,1999,Merseyside,20
+GoingAheadPrivate,199906C007783,1999,Manchester,9
+GoingAheadPrivate,199906C008878,1999,Manchester,12
+GoingAheadPrivate,199906F370299,1999,Salford,8
+GoingAheadPrivate,199906G003893,1999,Tameside,18
+GoingAheadPrivate,199906K004681,1999,Bolton,12
+GoingAheadPrivate,199906K005285,1999,Bolton,11
+GoingAheadPrivate,199906L005793,1999,Wigan,14
+GoingAheadPrivate,199906L006010,1999,Wigan,13
+GoingAheadPrivate,199906N003281,1999,Bury,15
+GoingAheadPrivate,1999079A10588,1999,Cheshire East,14
+GoingAheadPrivate,1999079B20945,1999,Warrington,7
+GoingAheadPrivate,199910B368199,1999,Northumberland,43
+GoingAheadPrivate,199910J175999,1999,Gateshead,11
+GoingAheadPrivate,199910N257999,1999,South Tyneside,12
+GoingAheadPrivate,1999110DJ1050,1999,Darlington,16
+GoingAheadPrivate,1999119AB0720,1999,Durham,13
+GoingAheadPrivate,1.99912E+12,1999,North Yorkshire,8
+GoingAheadPrivate,1.99912E+12,1999,York,14
+GoingAheadPrivate,1.99913E+12,1999,Calderdale,30
+GoingAheadPrivate,199913AA32099,1999,Leeds,14
+GoingAheadPrivate,199913AC19099,1999,Leeds,14
+GoingAheadPrivate,199913BB25699,1999,Leeds,38
+GoingAheadPrivate,199913CA20499,1999,Leeds,12
+GoingAheadPrivate,199913DC08999,1999,Wakefield,8
+GoingAheadPrivate,199913FD03599,1999,Calderdale,48
+GoingAheadPrivate,199914AA00481,1999,Doncaster,13
+GoingAheadPrivate,199914CC00471,1999,Doncaster,24
+GoingAheadPrivate,199914DD00883,1999,Barnsley,7
+GoingAheadPrivate,199914GG00879,1999,Rotherham,24
+GoingAheadPrivate,199916A015199,1999,North East Lincolnshire,11
+GoingAheadPrivate,199916A041799,1999,North East Lincolnshire,12
+GoingAheadPrivate,199916B032199,1999,North Lincolnshire,10
+GoingAheadPrivate,199916B046999,1999,North Lincolnshire,75
+GoingAheadPrivate,199916C030399,1999,East Riding of Yorkshire,7
+GoingAheadPrivate,199916C071399,1999,East Riding of Yorkshire,
+GoingAheadPrivate,199916D002799,1999,Kingston Upon Hull,46
+GoingAheadPrivate,199916D018699,1999,Kingston Upon Hull,12
+GoingAheadPrivate,199916D041699,1999,Kingston Upon Hull,7
+GoingAheadPrivate,199916D054099,1999,Kingston Upon Hull,20
+GoingAheadPrivate,199916E032599,1999,East Riding of Yorkshire,13
+GoingAheadPrivate,199916F016799,1999,Kingston Upon Hull,8
+GoingAheadPrivate,199917H100213,1999,Hartlepool,48
+GoingAheadPrivate,199917M100340,1999,Middlesbrough,13
+GoingAheadPrivate,199917M200479,1999,Middlesbrough,36
+GoingAheadPrivate,199917S100373,1999,Stockton on Tees,6
+GoingAheadPrivate,199920D150901,1999,Birmingham,16
+GoingAheadPrivate,199920D192001,1999,Birmingham,14
+GoingAheadPrivate,199920F189801,1999,Birmingham,53
+GoingAheadPrivate,199920G026401,1999,Wolverhampton,16
+GoingAheadPrivate,199920G043002,1999,Wolverhampton,7
+GoingAheadPrivate,199920H083601,1999,Walsall,13
+GoingAheadPrivate,199920J122901,1999,Dudley,39
+GoingAheadPrivate,199920K063902,1999,Sandwell,14
+GoingAheadPrivate,199920K065901,1999,Sandwell,8
+GoingAheadPrivate,199920M113201,1999,Coventry,15
+GoingAheadPrivate,199920M200001,1999,Coventry,9
+GoingAheadPrivate,1.99922E+12,1999,Stoke on Trent,16
+GoingAheadPrivate,1.99922E+12,1999,Staffordshire,6
+GoingAheadPrivate,1.99922E+12,1999,Staffordshire,11
+GoingAheadPrivate,1.99922E+12,1999,Staffordshire,6
+GoingAheadPrivate,1.99922E+12,1999,Staffordshire,11
+GoingAheadPrivate,1.99922E+12,1999,Staffordshire,13
+GoingAheadPrivate,1.99922E+12,1999,Staffordshire,16
+GoingAheadPrivate,199922AA10099,1999,Worcestershire,9
+GoingAheadPrivate,199922CA11662,1999,Worcestershire,15
+GoingAheadPrivate,199922CC11909,1999,Worcestershire,13
+GoingAheadPrivate,199922CE10844,1999,Worcestershire,5
+GoingAheadPrivate,199922CX02084,1999,Worcestershire,11
+GoingAheadPrivate,199922EA10976,1999,Herefordshire,26
+GoingAheadPrivate,199922FB10609,1999,Shropshire,15
+GoingAheadPrivate,199922FC10079,1999,Shropshire,8
+GoingAheadPrivate,199922FE11164,1999,Shropshire,16
+GoingAheadPrivate,199922GK03368,1999,Telford and Wrekin,13
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,15
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,6
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,13
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,13
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,14
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,10
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,5
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,5
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,12
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,12
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,44
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,25
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,18
+GoingAheadPrivate,1.99924E+12,1999,Warwickshire,50
+GoingAheadPrivate,1999309A00181,1999,Derbyshire,14
+GoingAheadPrivate,199930A000655,1999,Derbyshire,10
+GoingAheadPrivate,199930D000593,1999,Derby,
+GoingAheadPrivate,1999317A20863,1999,Nottinghamshire,19
+GoingAheadPrivate,1999317A80504,1999,Nottinghamshire,14
+GoingAheadPrivate,1999317A81001,1999,Nottinghamshire,16
+GoingAheadPrivate,1999317A81160,1999,Nottinghamshire,9
+GoingAheadPrivate,1999317B20305,1999,Nottingham,4
+GoingAheadPrivate,1999317B20319,1999,Nottinghamshire,13
+GoingAheadPrivate,1999317B21005,1999,Nottinghamshire,8
+GoingAheadPrivate,1999317B40305,1999,Nottingham,15
+GoingAheadPrivate,1999317C20496,1999,Nottingham,
+GoingAheadPrivate,1999317D20935,1999,Nottingham,7
+GoingAheadPrivate,1999317D21099,1999,Nottingham,10
+GoingAheadPrivate,1999317E20219,1999,Nottinghamshire,56
+GoingAheadPrivate,1999317E80874,1999,Nottinghamshire,
+GoingAheadPrivate,199932B003579,1999,Lincolnshire,9
+GoingAheadPrivate,199932B003779,1999,Lincolnshire,11
+GoingAheadPrivate,199932B015709,1999,Lincolnshire,16
+GoingAheadPrivate,199932C005369,1999,Lincolnshire,28
+GoingAheadPrivate,199932D003759,1999,Lincolnshire,11
+GoingAheadPrivate,199932D005539,1999,Lincolnshire,19
+GoingAheadPrivate,199932D008859,1999,Lincolnshire,5
+GoingAheadPrivate,1.99934E+12,1999,Leicestershire,11
+GoingAheadPrivate,1.99934E+12,1999,Leicestershire,24
+GoingAheadPrivate,1.99934E+12,1999,Leicestershire,5
+GoingAheadPrivate,1.99934E+12,1999,Leicestershire,29
+GoingAheadPrivate,1.99934E+12,1999,Leicestershire,12
+GoingAheadPrivate,199934NN00204,1999,Northamptonshire,14
+GoingAheadPrivate,199934NN00824,1999,Northamptonshire,13
+GoingAheadPrivate,199934NW00360,1999,Northamptonshire,12
+GoingAheadPrivate,199934TN00046,1999,Northamptonshire,14
+GoingAheadPrivate,1.99935E+12,1999,Peterborough,18
+GoingAheadPrivate,1.99935E+12,1999,Cambridgeshire,16
+GoingAheadPrivate,1.99935E+12,1999,Cambridgeshire,20
+GoingAheadPrivate,1.99935E+12,1999,Cambridgeshire,15
+GoingAheadPrivate,1.99935E+12,1999,Cambridgeshire,
+GoingAheadPrivate,1.99935E+12,1999,Cambridgeshire,11
+GoingAheadPrivate,199936G990608,1999,Norfolk,15
+GoingAheadPrivate,199936K991154,1999,Norfolk,8
+GoingAheadPrivate,199936T990032,1999,Norfolk,
+GoingAheadPrivate,199936T990148,1999,Norfolk,10
+GoingAheadPrivate,199936T990408,1999,Norfolk,16
+GoingAheadPrivate,199937B005079,1999,Suffolk,55
+GoingAheadPrivate,199937B005976,1999,Suffolk,8
+GoingAheadPrivate,199937B006018,1999,Suffolk,12
+GoingAheadPrivate,199937G004630,1999,Suffolk,7
+GoingAheadPrivate,199937L003212,1999,Suffolk,8
+GoingAheadPrivate,199937L003420,1999,Suffolk,
+GoingAheadPrivate,199937L003560,1999,Suffolk,9
+GoingAheadPrivate,19994100A0012,1999,Hertfordshire,13
+GoingAheadPrivate,19994100B0211,1999,Hertfordshire,7
+GoingAheadPrivate,19994100C0302,1999,Hertfordshire,11
+GoingAheadPrivate,19994100D0165,1999,Hertfordshire,8
+GoingAheadPrivate,19994200B0420,1999,Essex,10
+GoingAheadPrivate,19994200C0243,1999,Essex,17
+GoingAheadPrivate,19994200D0202,1999,Essex,8
+GoingAheadPrivate,19994200D0223,1999,Essex,13
+GoingAheadPrivate,19994200G0096,1999,Essex,13
+GoingAheadPrivate,19994200G0560,1999,Essex,7
+GoingAheadPrivate,19994200H0464,1999,Southend on Sea,9
+GoingAheadPrivate,19994200H0621,1999,Southend on Sea,11
+GoingAheadPrivate,19994200H0690,1999,Southend on Sea,64
+GoingAheadPrivate,199943N055079,1999,Buckinghamshire,8
+GoingAheadPrivate,199943N257049,1999,Buckinghamshire,29
+GoingAheadPrivate,199943P009109,1999,Oxfordshire,15
+GoingAheadPrivate,199943P140029,1999,Oxfordshire,8
+GoingAheadPrivate,199943P191099,1999,Oxfordshire,14
+GoingAheadPrivate,199943P233129,1999,Oxfordshire,68
+GoingAheadPrivate,199943P404089,1999,Oxfordshire,17
+GoingAheadPrivate,199943R186059,1999,Bracknell Forest,18
+GoingAheadPrivate,199943S059049,1999,Milton Keynes,9
+GoingAheadPrivate,199943S067089,1999,Milton Keynes,17
+GoingAheadPrivate,199943W041079,1999,Reading,51
+GoingAheadPrivate,199943W297099,1999,Wokingham,13
+GoingAheadPrivate,1999440BB0325,1999,Hampshire,20
+GoingAheadPrivate,1999440DG0271,1999,Hampshire,14
+GoingAheadPrivate,1999440DL0097,1999,Hampshire,30
+GoingAheadPrivate,1999440GG0227,1999,Hampshire,26
+GoingAheadPrivate,1999440HF0117,1999,Hampshire,15
+GoingAheadPrivate,1999440JH0125,1999,Hampshire,14
+GoingAheadPrivate,1999440JW0425,1999,Hampshire,18
+GoingAheadPrivate,1999440SC0162,1999,Southampton ,19
+GoingAheadPrivate,1999440YS0114,1999,Southampton ,8
+GoingAheadPrivate,1999440YS0427,1999,Southampton ,17
+GoingAheadPrivate,199945ED00109,1999,Surrey,13
+GoingAheadPrivate,199945ED00233,1999,Surrey,5
+GoingAheadPrivate,199945NA00280,1999,Surrey,16
+GoingAheadPrivate,199945NA00293,1999,Surrey,11
+GoingAheadPrivate,199945NC00191,1999,Surrey,11
+GoingAheadPrivate,199945NC00196,1999,Surrey,52
+GoingAheadPrivate,199945WF00390,1999,Surrey,10
+GoingAheadPrivate,199946MA05885,1999,Kent,12
+GoingAheadPrivate,199946NK02089,1999,Kent,18
+GoingAheadPrivate,199946NK04689,1999,Kent,33
+GoingAheadPrivate,199946NK07883,1999,Kent,11
+GoingAheadPrivate,199946NK17514,1999,Kent,11
+GoingAheadPrivate,199946SK09442,1999,Kent,9
+GoingAheadPrivate,199946SW09568,1999,Kent,18
+GoingAheadPrivate,199946TH05046,1999,Kent,22
+GoingAheadPrivate,199946WK02253,1999,Kent,10
+GoingAheadPrivate,199947H002163,1999,East Sussex,8
+GoingAheadPrivate,199947S002549,1999,East Sussex,13
+GoingAheadPrivate,199947S003741,1999,East Sussex,31
+GoingAheadPrivate,199947T002615,1999,East Sussex,22
+GoingAheadPrivate,199947T003300,1999,East Sussex,17
+GoingAheadPrivate,199947X002175,1999,West Sussex,60
+GoingAheadPrivate,199947X002203,1999,West Sussex,13
+GoingAheadPrivate,199947X002458,1999,West Sussex,12
+GoingAheadPrivate,199947Y002221,1999,West Sussex,16
+GoingAheadPrivate,199947Y002302,1999,West Sussex,71
+GoingAheadPrivate,199950A411152,1999,Cornwall and Isles of Scilly,7
+GoingAheadPrivate,199950A411533,1999,Cornwall and Isles of Scilly,12
+GoingAheadPrivate,199950B212844,1999,Cornwall and Isles of Scilly,8
+GoingAheadPrivate,199950D212304,1999,Devon,14
+GoingAheadPrivate,199950D310093,1999,Devon,20
+GoingAheadPrivate,199950D425377,1999,Devon,54
+GoingAheadPrivate,199950E531492,1999,Devon,10
+GoingAheadPrivate,1.99952E+12,1999,South Gloucestershire,17
+GoingAheadPrivate,1.99952E+12,1999,Somerset,18
+GoingAheadPrivate,1.99952E+12,1999,Somerset,13
+GoingAheadPrivate,1.99952E+12,1999,City of Bristol,12
+GoingAheadPrivate,1.99952E+12,1999,Somerset,14
+GoingAheadPrivate,1999530AI1363,1999,Gloucestershire,7
+GoingAheadPrivate,1999530AI1689,1999,Gloucestershire,45
+GoingAheadPrivate,1999530AI1937,1999,Gloucestershire,15
+GoingAheadPrivate,1999530AI2771,1999,Gloucestershire,12
+GoingAheadPrivate,1999530AI4436,1999,Gloucestershire,23
+GoingAheadPrivate,199954AD57499,1999,Wiltshire,20
+GoingAheadPrivate,199954AZ43899,1999,Wiltshire,9
+GoingAheadPrivate,199954CB48199,1999,Wiltshire,20
+GoingAheadPrivate,199954CO45499,1999,Wiltshire,26
+GoingAheadPrivate,19995599E1415,1999,Dorset,10
+GoingAheadPrivate,19995599E2283,1999,Dorset,16
+GoingAheadPrivate,19995599W2461,1999,Dorset,14
+GoingAheadPrivate,1999559E05296,1999,Dorset,20
+GoingAheadPrivate,1999559E05657,1999,Dorset,14
+GoingAheadPrivate,200001BS00374,2000,London,8
+GoingAheadPrivate,200001EK01604,2000,London,
+GoingAheadPrivate,200001GN00191,2000,London,28
+GoingAheadPrivate,200001GN00563,2000,London,32
+GoingAheadPrivate,200001JC00800,2000,London,
+GoingAheadPrivate,200001JI00648,2000,London,11
+GoingAheadPrivate,200001KD00307,2000,London,48
+GoingAheadPrivate,200001KG00148,2000,London,18
+GoingAheadPrivate,200001KG00665,2000,London,70
+GoingAheadPrivate,200001MM00461,2000,London,7
+GoingAheadPrivate,200001PL00826,2000,London,30
+GoingAheadPrivate,200001PY00776,2000,London,7
+GoingAheadPrivate,200001QA00561,2000,London,
+GoingAheadPrivate,200001QA00689,2000,London,12
+GoingAheadPrivate,200001RG00538,2000,London,
+GoingAheadPrivate,200001RG00877,2000,London,16
+GoingAheadPrivate,200001SX00461,2000,London,12
+GoingAheadPrivate,200001SX01177,2000,London,11
+GoingAheadPrivate,200001SX01391,2000,London,7
+GoingAheadPrivate,200001TW00106,2000,London,11
+GoingAheadPrivate,200001TW00201,2000,London,13
+GoingAheadPrivate,200001TX00499,2000,London,13
+GoingAheadPrivate,200001TX00626,2000,London,41
+GoingAheadPrivate,200001TX00775,2000,London,29
+GoingAheadPrivate,200001TX00928,2000,London,12
+GoingAheadPrivate,200001TX00934,2000,London,15
+GoingAheadPrivate,200001TX00984,2000,London,22
+GoingAheadPrivate,200001VW00024,2000,London,16
+GoingAheadPrivate,200001VW00403,2000,London,9
+GoingAheadPrivate,200001WW01191,2000,London,
+GoingAheadPrivate,200001XD00200,2000,London,14
+GoingAheadPrivate,200001XH00747,2000,London,16
+GoingAheadPrivate,200001XS00891,2000,London,
+GoingAheadPrivate,200001YF00563,2000,London,15
+GoingAheadPrivate,200001YR00571,2000,London,16
+GoingAheadPrivate,200001YR00578,2000,London,10
+GoingAheadPrivate,200001YR01088,2000,London,8
+GoingAheadPrivate,200001ZP00078,2000,London,50
+GoingAheadPrivate,200001ZP00141,2000,Surrey,
+GoingAheadPrivate,200001ZP00517,2000,London,13
+GoingAheadPrivate,200001ZP00550,2000,London,17
+GoingAheadPrivate,200001ZP00672,2000,London,12
+GoingAheadPrivate,2.00003E+12,2000,Cumbria,14
+GoingAheadPrivate,200004B002300,2000,Lancashire,71
+GoingAheadPrivate,2.00005E+12,2000,Merseyside,12
+GoingAheadPrivate,2.00005E+12,2000,Merseyside,18
+GoingAheadPrivate,2.00005E+12,2000,Merseyside,12
+GoingAheadPrivate,2.00005E+12,2000,Merseyside,4
+GoingAheadPrivate,200006A007816,2000,Manchester,11
+GoingAheadPrivate,200006C010381,2000,Manchester,9
+GoingAheadPrivate,200006C010654,2000,Manchester,14
+GoingAheadPrivate,200006C010865,2000,Manchester,20
+GoingAheadPrivate,200006C011106,2000,Manchester,26
+GoingAheadPrivate,200006F006789,2000,Salford,12
+GoingAheadPrivate,200006G005170,2000,Tameside,7
+GoingAheadPrivate,200006J007019,2000,Stockport,10
+GoingAheadPrivate,200006J007402,2000,Stockport,83
+GoingAheadPrivate,200006J007465,2000,Stockport,14
+GoingAheadPrivate,200006K007610,2000,Bolton,9
+GoingAheadPrivate,200006K007764,2000,Bolton,24
+GoingAheadPrivate,200006N004405,2000,Bury,6
+GoingAheadPrivate,200006P005337,2000,Rochdale,12
+GoingAheadPrivate,200006P005863,2000,Rochdale,6
+GoingAheadPrivate,200006P006021,2000,Rochdale,14
+GoingAheadPrivate,200006P006318,2000,Rochdale,57
+GoingAheadPrivate,200006Q005579,2000,Oldham,13
+GoingAheadPrivate,2.00007E+12,2000,Cheshire West and Chester,10
+GoingAheadPrivate,200010B225000,2000,Northumberland,5
+GoingAheadPrivate,200010L102900,2000,South Tyneside,16
+GoingAheadPrivate,200010L299800,2000,South Tyneside,8
+GoingAheadPrivate,200010N217900,2000,South Tyneside,9
+GoingAheadPrivate,200011AA18770,2000,Durham,13
+GoingAheadPrivate,2.00012E+12,2000,North Yorkshire,23
+GoingAheadPrivate,2.00013E+12,2000,Bradford,12
+GoingAheadPrivate,200014AA00549,2000,Doncaster,26
+GoingAheadPrivate,200014BB00904,2000,Doncaster,
+GoingAheadPrivate,200014CC00735,2000,Doncaster,15
+GoingAheadPrivate,200014DD00580,2000,Barnsley,9
+GoingAheadPrivate,200014HH00035,2000,Sheffield,9
+GoingAheadPrivate,200014HH00578,2000,Sheffield,14
+GoingAheadPrivate,200014HH01119,2000,Sheffield,12
+GoingAheadPrivate,200014II00034,2000,Sheffield,26
+GoingAheadPrivate,200016A031300,2000,North East Lincolnshire,12
+GoingAheadPrivate,200016A034600,2000,North East Lincolnshire,15
+GoingAheadPrivate,200016B023300,2000,North Lincolnshire,13
+GoingAheadPrivate,200016C011900,2000,East Riding of Yorkshire,10
+GoingAheadPrivate,200016C063400,2000,East Riding of Yorkshire,8
+GoingAheadPrivate,200016D039100,2000,Kingston Upon Hull,7
+GoingAheadPrivate,200016D043800,2000,Kingston Upon Hull,6
+GoingAheadPrivate,200016D048000,2000,Kingston Upon Hull,11
+GoingAheadPrivate,200017M200046,2000,Middlesbrough,14
+GoingAheadPrivate,200017M200335,2000,Middlesbrough,17
+GoingAheadPrivate,200017S100264,2000,Stockton on Tees,14
+GoingAheadPrivate,200020D102501,2000,Birmingham,9
+GoingAheadPrivate,200020D203402,2000,Birmingham,12
+GoingAheadPrivate,200020D222102,2000,Birmingham,12
+GoingAheadPrivate,200020D251802,2000,Birmingham,14
+GoingAheadPrivate,200020D254203,2000,Birmingham,9
+GoingAheadPrivate,200020D272302,2000,Birmingham,7
+GoingAheadPrivate,200020G064702,2000,Wolverhampton,7
+GoingAheadPrivate,200020H053502,2000,Walsall,14
+GoingAheadPrivate,200020H074301,2000,Walsall,13
+GoingAheadPrivate,200020J042401,2000,Dudley,10
+GoingAheadPrivate,200020L086001,2000,Solihull,9
+GoingAheadPrivate,200020M048601,2000,Coventry,14
+GoingAheadPrivate,200020M076501,2000,Coventry,8
+GoingAheadPrivate,200020M088601,2000,Coventry,15
+GoingAheadPrivate,200020M091503,2000,Coventry,9
+GoingAheadPrivate,200020M129103,2000,Coventry,19
+GoingAheadPrivate,2.00021E+12,2000,Stoke on Trent,14
+GoingAheadPrivate,2.00021E+12,2000,Staffordshire,64
+GoingAheadPrivate,2.00021E+12,2000,Staffordshire,28
+GoingAheadPrivate,2.00021E+12,2000,Staffordshire,7
+GoingAheadPrivate,2.00021E+12,2000,Staffordshire,14
+GoingAheadPrivate,200022AC14720,2000,Worcestershire,14
+GoingAheadPrivate,200022BC11768,2000,Worcestershire,9
+GoingAheadPrivate,200022BG14144,2000,Worcestershire,11
+GoingAheadPrivate,200022CD17554,2000,Worcestershire,8
+GoingAheadPrivate,2.00023E+12,2000,Warwickshire,8
+GoingAheadPrivate,2.00023E+12,2000,Warwickshire,10
+GoingAheadPrivate,2.00023E+12,2000,Warwickshire,8
+GoingAheadPrivate,2.00023E+12,2000,Warwickshire,74
+GoingAheadPrivate,2.00023E+12,2000,Warwickshire,11
+GoingAheadPrivate,2000317A20244,2000,Nottinghamshire,13
+GoingAheadPrivate,2000317A20761,2000,Nottinghamshire,25
+GoingAheadPrivate,2000317A80775,2000,Nottinghamshire,19
+GoingAheadPrivate,2000317A81504,2000,Nottinghamshire,12
+GoingAheadPrivate,2000317B20231,2000,Nottinghamshire,6
+GoingAheadPrivate,2000317B20362,2000,Nottingham,7
+GoingAheadPrivate,2000317B40646,2000,Nottingham,13
+GoingAheadPrivate,2000317D20904,2000,Nottinghamshire,
+GoingAheadPrivate,2000317E20215,2000,Nottinghamshire,16
+GoingAheadPrivate,2000317E81589,2000,Nottinghamshire,16
+GoingAheadPrivate,200032B001930,2000,Lincolnshire,14
+GoingAheadPrivate,200032B008810,2000,Lincolnshire,10
+GoingAheadPrivate,200032B009110,2000,Lincolnshire,20
+GoingAheadPrivate,200032D002820,2000,Lincolnshire,12
+GoingAheadPrivate,200032D008350,2000,Lincolnshire,13
+GoingAheadPrivate,2.00033E+12,2000,Leicestershire,70
+GoingAheadPrivate,2.00033E+12,2000,Leicestershire,22
+GoingAheadPrivate,2.00033E+12,2000,Leicestershire,10
+GoingAheadPrivate,2.00033E+12,2000,Leicestershire,13
+GoingAheadPrivate,200034NN01544,2000,Northamptonshire,50
+GoingAheadPrivate,200034NW00167,2000,Northamptonshire,8
+GoingAheadPrivate,2.00035E+12,2000,Cambridgeshire,
+GoingAheadPrivate,2.00035E+12,2000,Cambridgeshire,9
+GoingAheadPrivate,2.00035E+12,2000,Cambridgeshire,5
+GoingAheadPrivate,2.00035E+12,2000,Cambridgeshire,28
+GoingAheadPrivate,2.00035E+12,2000,Cambridgeshire,8
+GoingAheadPrivate,2.00035E+12,2000,Cambridgeshire,14
+GoingAheadPrivate,200036G000782,2000,Norfolk,8
+GoingAheadPrivate,200036K000211,2000,Norfolk,13
+GoingAheadPrivate,200036T000236,2000,Norfolk,7
+GoingAheadPrivate,200036T000287,2000,Norfolk,11
+GoingAheadPrivate,200036T000371,2000,Norfolk,9
+GoingAheadPrivate,200037B008392,2000,Suffolk,18
+GoingAheadPrivate,200037B008534,2000,Suffolk,8
+GoingAheadPrivate,200037G005753,2000,Suffolk,15
+GoingAheadPrivate,200037G006336,2000,Suffolk,23
+GoingAheadPrivate,200037G006730,2000,Suffolk,12
+GoingAheadPrivate,200037L004672,2000,Suffolk,14
+GoingAheadPrivate,20004100A0633,2000,Hertfordshire,38
+GoingAheadPrivate,20004100A0656,2000,Hertfordshire,13
+GoingAheadPrivate,20004100A1049,2000,Hertfordshire,15
+GoingAheadPrivate,20004100B0300,2000,Hertfordshire,20
+GoingAheadPrivate,20004100B0383,2000,Hertfordshire,9
+GoingAheadPrivate,2.00E+210,2000,Hertfordshire,14
+GoingAheadPrivate,20004100G0079,2000,Hertfordshire,14
+GoingAheadPrivate,20004100G0166,2000,Hertfordshire,30
+GoingAheadPrivate,20004100K0348,2000,Hertfordshire,6
+GoingAheadPrivate,20004200A0090,2000,Essex,63
+GoingAheadPrivate,20004200D0173,2000,Essex,13
+GoingAheadPrivate,20004200G0728,2000,Essex,
+GoingAheadPrivate,20004200H0105,2000,Southend on Sea,
+GoingAheadPrivate,20004200H0267,2000,Southend on Sea,12
+GoingAheadPrivate,20004200H0324,2000,Southend on Sea,10
+GoingAheadPrivate,20004200J0197,2000,Essex,
+GoingAheadPrivate,20004200J0244,2000,Essex,26
+GoingAheadPrivate,200043N137050,2000,Buckinghamshire,14
+GoingAheadPrivate,200043N329030,2000,Buckinghamshire,14
+GoingAheadPrivate,200043P043100,2000,Oxfordshire,44
+GoingAheadPrivate,200043P077110,2000,Oxfordshire,47
+GoingAheadPrivate,200043P197030,2000,Oxfordshire,39
+GoingAheadPrivate,200043P197050,2000,Oxfordshire,19
+GoingAheadPrivate,200043W086060,2000,Slough,5
+GoingAheadPrivate,200043W286050,2000,Slough,12
+GoingAheadPrivate,200043W388120,2000,Reading,19
+GoingAheadPrivate,200043W650020,2000,Slough,60
+GoingAheadPrivate,2000440BB0981,2000,Hampshire,23
+GoingAheadPrivate,2000440HF0416,2000,Hampshire,36
+GoingAheadPrivate,2000440LN0063,2000,Hampshire,28
+GoingAheadPrivate,2000440LR0232,2000,Hampshire,15
+GoingAheadPrivate,2000440SP0281,2000,Southampton ,24
+GoingAheadPrivate,2000440ST0521,2000,Southampton ,13
+GoingAheadPrivate,200045EC00165,2000,Surrey,8
+GoingAheadPrivate,200045ED00259,2000,Surrey,
+GoingAheadPrivate,200045NC00177,2000,Surrey,18
+GoingAheadPrivate,200045NC00188,2000,Surrey,8
+GoingAheadPrivate,200045NS00385,2000,Surrey,33
+GoingAheadPrivate,200045NW00009,2000,Surrey,14
+GoingAheadPrivate,200045NW00191,2000,Surrey,13
+GoingAheadPrivate,200046CT11085,2000,Kent,69
+GoingAheadPrivate,200046SK25753,2000,Kent,11
+GoingAheadPrivate,200046WK15031,2000,Kent,15
+GoingAheadPrivate,200046WK26672,2000,Kent,10
+GoingAheadPrivate,200047N129021,2000,West Sussex,11
+GoingAheadPrivate,200047X004683,2000,West Sussex,15
+GoingAheadPrivate,200047Y126922,2000,West Sussex,13
+GoingAheadPrivate,200050A333059,2000,Cornwall and Isles of Scilly,10
+GoingAheadPrivate,200050D345917,2000,Devon,21
+GoingAheadPrivate,200050E211039,2000,Plymouth,15
+GoingAheadPrivate,200050E211951,2000,Plymouth,12
+GoingAheadPrivate,200050F313355,2000,Torbay,14
+GoingAheadPrivate,200050F445948,2000,Devon,12
+GoingAheadPrivate,2.00052E+12,2000,South Gloucestershire,10
+GoingAheadPrivate,2.00052E+12,2000,South Gloucestershire,14
+GoingAheadPrivate,2.00052E+12,2000,South Gloucestershire,9
+GoingAheadPrivate,2.00052E+12,2000,City of Bristol,10
+GoingAheadPrivate,200052F599516,2000,Somerset,8
+GoingAheadPrivate,200052FR39241,2000,Somerset,9
+GoingAheadPrivate,200052FR64297,2000,Somerset,14
+GoingAheadPrivate,200052G517726,2000,Somerset,15
+GoingAheadPrivate,200052G557436,2000,Somerset,9
+GoingAheadPrivate,2000530AI1502,2000,Gloucestershire,13
+GoingAheadPrivate,2000530AI1744,2000,Gloucestershire,14
+GoingAheadPrivate,2000530AI1979,2000,Gloucestershire,12
+GoingAheadPrivate,2000530AI1996,2000,Gloucestershire,8
+GoingAheadPrivate,2000530AI2238,2000,Gloucestershire,5
+GoingAheadPrivate,2000530AI2293,2000,Gloucestershire,30
+GoingAheadPrivate,2000530AI2895,2000,Gloucestershire,11
+GoingAheadPrivate,2000530AI3007,2000,Gloucestershire,62
+GoingAheadPrivate,2000550B03889,2000,Bournemouth,25
+GoingAheadPrivate,2000550B04606,2000,Bournemouth,11
+GoingAheadPrivate,2000550E00987,2000,Dorset,38
+GoingAheadPrivate,2000550E01193,2000,Dorset,29
+GoingAheadPrivate,2000550E04746,2000,Dorset,21
+GoingAheadPrivate,2000550P02915,2000,Poole,15
+GoingAheadPrivate,2000550P05000,2000,Poole,10
+GoingAheadPrivate,2000550W00467,2000,Dorset,42
+GoingAheadPrivate,2000550W02778,2000,Dorset,38
+GoingAheadPrivate,200101EK00316,2001,London,50
+GoingAheadPrivate,200101JI00603,2001,London,34
+GoingAheadPrivate,200101JI00619,2001,London,16
+GoingAheadPrivate,200101JI00652,2001,London,35
+GoingAheadPrivate,200101JI00873,2001,London,
+GoingAheadPrivate,200101LX00858,2001,London,42
+GoingAheadPrivate,200101LX01351,2001,London,29
+GoingAheadPrivate,200101QA00357,2001,London,16
+GoingAheadPrivate,200101QA00637,2001,London,37
+GoingAheadPrivate,200101QA00678,2001,London,14
+GoingAheadPrivate,200101QA00788,2001,London,8
+GoingAheadPrivate,200101QA00802,2001,London,23
+GoingAheadPrivate,200101QK00226,2001,London,38
+GoingAheadPrivate,200101QK00655,2001,London,
+GoingAheadPrivate,200101RG00385,2001,London,30
+GoingAheadPrivate,200101RG01046,2001,London,13
+GoingAheadPrivate,200101RY00073,2001,London,34
+GoingAheadPrivate,200101RY00096,2001,London,8
+GoingAheadPrivate,200101RY00097,2001,London,8
+GoingAheadPrivate,200101RY00206,2001,London,10
+GoingAheadPrivate,200101SX00978,2001,London,35
+GoingAheadPrivate,200101TW00477,2001,London,
+GoingAheadPrivate,200101TW00670,2001,London,19
+GoingAheadPrivate,200101TX00123,2001,London,35
+GoingAheadPrivate,200101TX00127,2001,London,38
+GoingAheadPrivate,200101TX00445,2001,London,21
+GoingAheadPrivate,200101TX00809,2001,London,49
+GoingAheadPrivate,200101TX01340,2001,London,34
+GoingAheadPrivate,200101WW00353,2001,London,11
+GoingAheadPrivate,200101WW00715,2001,London,9
+GoingAheadPrivate,200101WW00866,2001,London,13
+GoingAheadPrivate,200101XH00521,2001,London,38
+GoingAheadPrivate,200101XH00541,2001,London,9
+GoingAheadPrivate,200101XH00559,2001,London,70
+GoingAheadPrivate,200101XS00783,2001,London,31
+GoingAheadPrivate,200101XS01156,2001,London,
+GoingAheadPrivate,200101YR01172,2001,London,37
+GoingAheadPrivate,200101ZD01173,2001,London,11
+GoingAheadPrivate,200101ZP00570,2001,London,32
+GoingAheadPrivate,2.00103E+12,2001,Cumbria,35
+GoingAheadPrivate,200104C035901,2001,Lancashire,22
+GoingAheadPrivate,200104C045601,2001,Lancashire,25
+GoingAheadPrivate,200104C049701,2001,Lancashire,11
+GoingAheadPrivate,200104C062901,2001,Lancashire,14
+GoingAheadPrivate,200104D038401,2001,Lancashire,6
+GoingAheadPrivate,200104F019601,2001,Lancashire,6
+GoingAheadPrivate,200104F050401,2001,Lancashire,42
+GoingAheadPrivate,2.00105E+12,2001,Merseyside,13
+GoingAheadPrivate,2.00105E+12,2001,Merseyside,61
+GoingAheadPrivate,2.00105E+12,2001,Merseyside,19
+GoingAheadPrivate,200106G007351,2001,Tameside,9
+GoingAheadPrivate,200106J008921,2001,Stockport,7
+GoingAheadPrivate,200106J009288,2001,Stockport,14
+GoingAheadPrivate,200106J009411,2001,Stockport,7
+GoingAheadPrivate,200106J009470,2001,Stockport,20
+GoingAheadPrivate,200106K010115,2001,Bolton,33
+GoingAheadPrivate,200106L010521,2001,Wigan,9
+GoingAheadPrivate,200106M008219,2001,Trafford,26
+GoingAheadPrivate,200106N006344,2001,Bury,11
+GoingAheadPrivate,200106P007217,2001,Rochdale,10
+GoingAheadPrivate,2.00107E+12,2001,Halton,14
+GoingAheadPrivate,2.00107E+12,2001,Cheshire East,59
+GoingAheadPrivate,2.00107E+12,2001,Warrington,10
+GoingAheadPrivate,200110C198201,2001,Northumberland,11
+GoingAheadPrivate,200110C198301,2001,Northumberland,18
+GoingAheadPrivate,200110O186001,2001,South Tyneside,8
+GoingAheadPrivate,2.00112E+12,2001,North Yorkshire,17
+GoingAheadPrivate,2.00112E+12,2001,North Yorkshire,12
+GoingAheadPrivate,2.00112E+12,2001,York,52
+GoingAheadPrivate,2.00113E+12,2001,Wakefield,13
+GoingAheadPrivate,200114CC00726,2001,Doncaster,13
+GoingAheadPrivate,200114DD00296,2001,Barnsley,11
+GoingAheadPrivate,200114DD00598,2001,Barnsley,36
+GoingAheadPrivate,200114DD00820,2001,Barnsley,15
+GoingAheadPrivate,200114EE00210,2001,Barnsley,5
+GoingAheadPrivate,200116A037701,2001,North East Lincolnshire,15
+GoingAheadPrivate,200116C057101,2001,East Riding of Yorkshire,9
+GoingAheadPrivate,200116D008901,2001,Kingston Upon Hull,15
+GoingAheadPrivate,200116D039201,2001,Kingston Upon Hull,7
+GoingAheadPrivate,200116D049501,2001,Kingston Upon Hull,13
+GoingAheadPrivate,200116D051601,2001,Kingston Upon Hull,15
+GoingAheadPrivate,200116D058301,2001,Kingston Upon Hull,12
+GoingAheadPrivate,200117L300121,2001,Redcar and Cleveland,22
+GoingAheadPrivate,200117M100284,2001,Middlesbrough,18
+GoingAheadPrivate,200117M200237,2001,Middlesbrough,12
+GoingAheadPrivate,200117S100287,2001,Stockton on Tees,11
+GoingAheadPrivate,200120D093202,2001,Birmingham,12
+GoingAheadPrivate,200120D193403,2001,Birmingham,12
+GoingAheadPrivate,200120D303303,2001,Birmingham,11
+GoingAheadPrivate,200120D391801,2001,Birmingham,34
+GoingAheadPrivate,200120E068702,2001,Birmingham,9
+GoingAheadPrivate,200120G058201,2001,Wolverhampton,32
+GoingAheadPrivate,200120J124802,2001,Dudley,9
+GoingAheadPrivate,200120K075302,2001,Sandwell,6
+GoingAheadPrivate,200120K158802,2001,Sandwell,5
+GoingAheadPrivate,2.00121E+12,2001,Staffordshire,10
+GoingAheadPrivate,2.00121E+12,2001,Staffordshire,14
+GoingAheadPrivate,200122CG24034,2001,Worcestershire,10
+GoingAheadPrivate,2.00123E+12,2001,Warwickshire,13
+GoingAheadPrivate,2.00123E+12,2001,Warwickshire,10
+GoingAheadPrivate,2.00123E+12,2001,Warwickshire,13
+GoingAheadPrivate,2.00123E+12,2001,Warwickshire,53
+GoingAheadPrivate,2.00123E+12,2001,Warwickshire,9
+GoingAheadPrivate,200130B000579,2001,Derbyshire,5
+GoingAheadPrivate,20013102B0366,2001,Nottinghamshire,48
+GoingAheadPrivate,20013102B1007,2001,Nottingham,
+GoingAheadPrivate,20013104B0872,2001,Nottingham,10
+GoingAheadPrivate,20013104B1765,2001,Nottingham,8
+GoingAheadPrivate,20013104C1241,2001,Nottingham,23
+GoingAheadPrivate,20013104D0084,2001,Nottinghamshire,10
+GoingAheadPrivate,20013108A0616,2001,Nottinghamshire,31
+GoingAheadPrivate,20013108A1024,2001,Nottinghamshire,5
+GoingAheadPrivate,20013108E0365,2001,Nottinghamshire,14
+GoingAheadPrivate,200132B044301,2001,Lincolnshire,62
+GoingAheadPrivate,200132B104301,2001,Lincolnshire,8
+GoingAheadPrivate,200132D174301,2001,Lincolnshire,54
+GoingAheadPrivate,2.00133E+12,2001,Leicestershire,28
+GoingAheadPrivate,2.00133E+12,2001,Leicestershire,22
+GoingAheadPrivate,2.00133E+12,2001,Leicestershire,10
+GoingAheadPrivate,2.00133E+12,2001,Leicestershire,25
+GoingAheadPrivate,2.00133E+12,2001,Leicestershire,7
+GoingAheadPrivate,200134NC00349,2001,Northamptonshire,10
+GoingAheadPrivate,200134NN00816,2001,Northamptonshire,7
+GoingAheadPrivate,200134NW00534,2001,Northamptonshire,16
+GoingAheadPrivate,2.00135E+12,2001,Peterborough,39
+GoingAheadPrivate,2.00135E+12,2001,Cambridgeshire,6
+GoingAheadPrivate,2.00135E+12,2001,Cambridgeshire,10
+GoingAheadPrivate,2.00135E+12,2001,Cambridgeshire,9
+GoingAheadPrivate,2.00135E+12,2001,Peterborough,9
+GoingAheadPrivate,2.00135E+12,2001,Peterborough,7
+GoingAheadPrivate,2.00135E+12,2001,Cambridgeshire,13
+GoingAheadPrivate,2.00135E+12,2001,Cambridgeshire,9
+GoingAheadPrivate,2.00135E+12,2001,Peterborough,
+GoingAheadPrivate,200136K010950,2001,Norfolk,10
+GoingAheadPrivate,200136K011511,2001,Norfolk,13
+GoingAheadPrivate,200136K011667,2001,Norfolk,
+GoingAheadPrivate,200136N011051,2001,Norfolk,17
+GoingAheadPrivate,200136N011092,2001,Norfolk,11
+GoingAheadPrivate,200136T010234,2001,Norfolk,14
+GoingAheadPrivate,200136T010237,2001,Norfolk,7
+GoingAheadPrivate,200137B011190,2001,Suffolk,12
+GoingAheadPrivate,200137B011215,2001,Suffolk,9
+GoingAheadPrivate,200137B011497,2001,Suffolk,26
+GoingAheadPrivate,200137G008226,2001,Suffolk,11
+GoingAheadPrivate,200137G008894,2001,Suffolk,24
+GoingAheadPrivate,200137G009161,2001,Suffolk,16
+GoingAheadPrivate,200137G009387,2001,Suffolk,16
+GoingAheadPrivate,200137L005306,2001,Suffolk,6
+GoingAheadPrivate,200137L005463,2001,Suffolk,12
+GoingAheadPrivate,200137L005887,2001,Suffolk,15
+GoingAheadPrivate,200137L005984,2001,Suffolk,13
+GoingAheadPrivate,200137L006021,2001,Suffolk,18
+GoingAheadPrivate,2001400B01744,2001,Central Bedfordshire,11
+GoingAheadPrivate,2001400B02306,2001,Bedford Borough Council,25
+GoingAheadPrivate,2001400B02973,2001,Bedford Borough Council,11
+GoingAheadPrivate,20014100B0410,2001,Hertfordshire,13
+GoingAheadPrivate,20014100B0869,2001,Hertfordshire,22
+GoingAheadPrivate,20014100B1022,2001,Hertfordshire,30
+GoingAheadPrivate,20014100D0256,2001,Hertfordshire,15
+GoingAheadPrivate,20014100D0424,2001,Hertfordshire,17
+GoingAheadPrivate,20014100F0067,2001,Hertfordshire,49
+GoingAheadPrivate,20014100G0297,2001,Hertfordshire,9
+GoingAheadPrivate,20014200A0416,2001,Essex,8
+GoingAheadPrivate,20014200B0142,2001,Essex,
+GoingAheadPrivate,20014200C0561,2001,Essex,15
+GoingAheadPrivate,20014200D0415,2001,Essex,29
+GoingAheadPrivate,20014200E0325,2001,Essex,15
+GoingAheadPrivate,20014200G0297,2001,Essex,10
+GoingAheadPrivate,20014200G0683,2001,Essex,
+GoingAheadPrivate,20014200H0322,2001,Southend on Sea,
+GoingAheadPrivate,200143N134071,2001,Buckinghamshire,15
+GoingAheadPrivate,200143N193101,2001,Buckinghamshire,21
+GoingAheadPrivate,200143P073051,2001,Oxfordshire,15
+GoingAheadPrivate,200143P086101,2001,Oxfordshire,14
+GoingAheadPrivate,200143P228031,2001,Oxfordshire,14
+GoingAheadPrivate,200143P257051,2001,Oxfordshire,
+GoingAheadPrivate,200143P474051,2001,Oxfordshire,15
+GoingAheadPrivate,200143S105101,2001,Milton Keynes,14
+GoingAheadPrivate,200143W389051,2001,Wokingham,80
+GoingAheadPrivate,200143W453021,2001,Slough,12
+GoingAheadPrivate,200143W545091,2001,Windsor and Maidenhead,8
+GoingAheadPrivate,200143W799121,2001,Wokingham,33
+GoingAheadPrivate,2001440HF0324,2001,Hampshire,17
+GoingAheadPrivate,2001440JL0038,2001,Hampshire,14
+GoingAheadPrivate,2001440KK1148,2001,Portsmouth,14
+GoingAheadPrivate,2001440KK2355,2001,Portsmouth,16
+GoingAheadPrivate,2001440LA0779,2001,Hampshire,33
+GoingAheadPrivate,2001440LN0146,2001,Hampshire,8
+GoingAheadPrivate,2001440NA0223,2001,Hampshire,12
+GoingAheadPrivate,2001440SY0198,2001,Southampton ,56
+GoingAheadPrivate,2001440SY0348,2001,Southampton ,14
+GoingAheadPrivate,2001440ZD0399,2001,Isle of Wight,4
+GoingAheadPrivate,2.00145E+12,2001,Surrey,
+GoingAheadPrivate,200145ES08114,2001,Surrey,15
+GoingAheadPrivate,200145WF08255,2001,Surrey,16
+GoingAheadPrivate,200146NK52362,2001,Kent,16
+GoingAheadPrivate,200146TH43520,2001,Kent,39
+GoingAheadPrivate,200147N136646,2001,West Sussex,12
+GoingAheadPrivate,200150A331418,2001,Cornwall and Isles of Scilly,63
+GoingAheadPrivate,200150B411567,2001,Cornwall and Isles of Scilly,10
+GoingAheadPrivate,200150B713718,2001,Cornwall and Isles of Scilly,10
+GoingAheadPrivate,2.00152E+12,2001,City of Bristol,19
+GoingAheadPrivate,2.00152E+12,2001,South Gloucestershire,46
+GoingAheadPrivate,2.00152E+12,2001,South Gloucestershire,14
+GoingAheadPrivate,2.00152E+12,2001,City of Bristol,43
+GoingAheadPrivate,2.00152E+12,2001,Somerset,43
+GoingAheadPrivate,200152FS63908,2001,Somerset,8
+GoingAheadPrivate,200152G956307,2001,Somerset,10
+GoingAheadPrivate,2001530AI0437,2001,Gloucestershire,21
+GoingAheadPrivate,2001530AI1169,2001,Gloucestershire,6
+GoingAheadPrivate,2001530AI1697,2001,Gloucestershire,13
+GoingAheadPrivate,2001530AI2862,2001,Gloucestershire,10
+GoingAheadPrivate,2001530AI3236,2001,Gloucestershire,15
+GoingAheadPrivate,2001530AI3756,2001,Gloucestershire,12
+GoingAheadPrivate,200154CT41101,2001,Wiltshire,12
+GoingAheadPrivate,200154DN28501,2001,Swindon,21
+GoingAheadPrivate,2001550B01826,2001,Bournemouth,12
+GoingAheadPrivate,2001550B02533,2001,Bournemouth,15
+GoingAheadPrivate,2001550B02984,2001,Bournemouth,
+GoingAheadPrivate,2001550P04948,2001,Poole,14
+GoingAheadPrivate,2001551E06401,2001,Dorset,15
+GoingAheadPrivate,2001551W03739,2001,Dorset,15
+GoingAheadPrivate,2001551W04147,2001,Dorset,19
+GoingAheadPrivate,200201CP00078,2002,London,26
+GoingAheadPrivate,200201EO00157,2002,London,29
+GoingAheadPrivate,200201EO00537,2002,London,40
+GoingAheadPrivate,200201EO00766,2002,London,13
+GoingAheadPrivate,200201EO00990,2002,London,7
+GoingAheadPrivate,200201FH00226,2002,London,7
+GoingAheadPrivate,200201JC00170,2002,London,12
+GoingAheadPrivate,200201KD00594,2002,London,15
+GoingAheadPrivate,200201KG00055,2002,London,26
+GoingAheadPrivate,200201KG00321,2002,London,9
+GoingAheadPrivate,200201KG00631,2002,London,38
+GoingAheadPrivate,200201KO00541,2002,London,6
+GoingAheadPrivate,200201KO01006,2002,London,76
+GoingAheadPrivate,200201KO01080,2002,London,11
+GoingAheadPrivate,200201LX01769,2002,London,17
+GoingAheadPrivate,200201MM09011,2002,London,14
+GoingAheadPrivate,200201QA00385,2002,London,39
+GoingAheadPrivate,200201QA00684,2002,London,15
+GoingAheadPrivate,200201QK00672,2002,London,17
+GoingAheadPrivate,200201QK00808,2002,London,28
+GoingAheadPrivate,200201QK00978,2002,London,35
+GoingAheadPrivate,200201RG00378,2002,London,7
+GoingAheadPrivate,200201RG00504,2002,London,30
+GoingAheadPrivate,200201RG00544,2002,London,40
+GoingAheadPrivate,200201RG00656,2002,London,11
+GoingAheadPrivate,200201RY00075,2002,London,14
+GoingAheadPrivate,200201RY00337,2002,London,9
+GoingAheadPrivate,200201RY00393,2002,London,15
+GoingAheadPrivate,200201SX00476,2002,London,15
+GoingAheadPrivate,200201TW00403,2002,London,13
+GoingAheadPrivate,200201TW00428,2002,London,18
+GoingAheadPrivate,200201TX00025,2002,London,32
+GoingAheadPrivate,200201TX00427,2002,London,10
+GoingAheadPrivate,200201VK00062,2002,London,15
+GoingAheadPrivate,200201VK00474,2002,London,52
+GoingAheadPrivate,200201VW00107,2002,London,7
+GoingAheadPrivate,200201VW00213,2002,London,11
+GoingAheadPrivate,200201VW00337,2002,London,14
+GoingAheadPrivate,200201VW00352,2002,London,17
+GoingAheadPrivate,200201WW01118,2002,London,47
+GoingAheadPrivate,200201XH00506,2002,London,24
+GoingAheadPrivate,200201ZD00307,2002,London,32
+GoingAheadPrivate,200201ZT00355,2002,London,13
+GoingAheadPrivate,2.00203E+12,2002,Cumbria,13
+GoingAheadPrivate,200204C034902,2002,Lancashire,35
+GoingAheadPrivate,200204C079402,2002,Lancashire,8
+GoingAheadPrivate,200204D011902,2002,Lancashire,11
+GoingAheadPrivate,200204E075202,2002,Blackburn with Darwen,8
+GoingAheadPrivate,200204F067802,2002,Lancashire,9
+GoingAheadPrivate,200204F068602,2002,Lancashire,46
+GoingAheadPrivate,2.00205E+12,2002,Merseyside,9
+GoingAheadPrivate,2.00205E+12,2002,Merseyside,14
+GoingAheadPrivate,200206A011959,2002,Manchester,11
+GoingAheadPrivate,200206G009485,2002,Tameside,10
+GoingAheadPrivate,200206G009749,2002,Tameside,26
+GoingAheadPrivate,200206M010353,2002,Trafford,12
+GoingAheadPrivate,200206N007721,2002,Bury,13
+GoingAheadPrivate,200206P010099,2002,Rochdale,10
+GoingAheadPrivate,200206Q010160,2002,Oldham,6
+GoingAheadPrivate,2.00207E+12,2002,Warrington,31
+GoingAheadPrivate,2.0021E+12,2002,Gateshead,12
+GoingAheadPrivate,2.0021E+12,2002,Newcastle upon Tyne,15
+GoingAheadPrivate,2.0021E+12,2002,South Tyneside,21
+GoingAheadPrivate,200211AK30390,2002,Durham,11
+GoingAheadPrivate,200211BD08240,2002,Durham,36
+GoingAheadPrivate,2.00212E+12,2002,North Yorkshire,5
+GoingAheadPrivate,2.00213E+12,2002,Wakefield,60
+GoingAheadPrivate,2.00213E+12,2002,Leeds,26
+GoingAheadPrivate,200214HH00150,2002,Sheffield,14
+GoingAheadPrivate,200216A022802,2002,North East Lincolnshire,13
+GoingAheadPrivate,200216A023602,2002,North East Lincolnshire,3
+GoingAheadPrivate,200216A024202,2002,North East Lincolnshire,45
+GoingAheadPrivate,200216C039102,2002,East Riding of Yorkshire,14
+GoingAheadPrivate,200216C077802,2002,East Riding of Yorkshire,7
+GoingAheadPrivate,200216C114502,2002,East Riding of Yorkshire,16
+GoingAheadPrivate,200216C117502,2002,East Riding of Yorkshire,13
+GoingAheadPrivate,200216D033302,2002,Kingston Upon Hull,10
+GoingAheadPrivate,200216D048102,2002,Kingston Upon Hull,25
+GoingAheadPrivate,200216D100802,2002,East Riding of Yorkshire,16
+GoingAheadPrivate,2002170H11592,2002,Hartlepool,16
+GoingAheadPrivate,200217L200108,2002,Redcar and Cleveland,5
+GoingAheadPrivate,200217M100186,2002,Middlesbrough,16
+GoingAheadPrivate,200220E035702,2002,Birmingham,78
+GoingAheadPrivate,200220E145903,2002,Birmingham,8
+GoingAheadPrivate,200220E201801,2002,Birmingham,14
+GoingAheadPrivate,200220G069302,2002,Wolverhampton,6
+GoingAheadPrivate,200220J045902,2002,Dudley,13
+GoingAheadPrivate,200220K081501,2002,Sandwell,8
+GoingAheadPrivate,200220L169801,2002,Solihull,
+GoingAheadPrivate,200220L174601,2002,Solihull,13
+GoingAheadPrivate,200220M027003,2002,Coventry,24
+GoingAheadPrivate,200220M030902,2002,Coventry,15
+GoingAheadPrivate,2.00221E+12,2002,Staffordshire,42
+GoingAheadPrivate,2.00223E+12,2002,Warwickshire,20
+GoingAheadPrivate,2.00223E+12,2002,Warwickshire,
+GoingAheadPrivate,2.00223E+12,2002,Warwickshire,14
+GoingAheadPrivate,2.00223E+12,2002,Warwickshire,16
+GoingAheadPrivate,2.00223E+12,2002,Warwickshire,10
+GoingAheadPrivate,2.00223E+12,2002,Warwickshire,4
+GoingAheadPrivate,2.00223E+12,2002,Warwickshire,20
+GoingAheadPrivate,2.00223E+12,2002,Warwickshire,13
+GoingAheadPrivate,2.00223E+12,2002,Warwickshire,13
+GoingAheadPrivate,200230C000335,2002,Derbyshire,9
+GoingAheadPrivate,200230D000408,2002,Derby,10
+GoingAheadPrivate,20023102A0672,2002,Nottinghamshire,
+GoingAheadPrivate,20023102C0071,2002,Nottingham,22
+GoingAheadPrivate,20023102D1323,2002,Nottinghamshire,35
+GoingAheadPrivate,200232B166402,2002,Lincolnshire,25
+GoingAheadPrivate,200232C009202,2002,Lincolnshire,26
+GoingAheadPrivate,200232C052402,2002,Lincolnshire,14
+GoingAheadPrivate,200232C148802,2002,Lincolnshire,18
+GoingAheadPrivate,200232D010060,2002,Lincolnshire,10
+GoingAheadPrivate,200232D125802,2002,Lincolnshire,15
+GoingAheadPrivate,2.00233E+12,2002,Leicestershire,7
+GoingAheadPrivate,2.00233E+12,2002,Leicestershire,15
+GoingAheadPrivate,2.00233E+12,2002,Rutland,10
+GoingAheadPrivate,200234NN00848,2002,Northamptonshire,15
+GoingAheadPrivate,200234NW00117,2002,Northamptonshire,12
+GoingAheadPrivate,200234NW00669,2002,Northamptonshire,13
+GoingAheadPrivate,2.00235E+12,2002,Cambridgeshire,29
+GoingAheadPrivate,2.00235E+12,2002,Cambridgeshire,
+GoingAheadPrivate,2.00235E+12,2002,Cambridgeshire,8
+GoingAheadPrivate,2.00235E+12,2002,Peterborough,9
+GoingAheadPrivate,2.00235E+12,2002,Peterborough,24
+GoingAheadPrivate,2.00235E+12,2002,Cambridgeshire,19
+GoingAheadPrivate,2.00236E+12,2002,Norfolk,12
+GoingAheadPrivate,200236T020036,2002,Norfolk,11
+GoingAheadPrivate,200236T020260,2002,Norfolk,21
+GoingAheadPrivate,200237B014410,2002,Suffolk,7
+GoingAheadPrivate,200237B014432,2002,Suffolk,13
+GoingAheadPrivate,200237B015130,2002,Suffolk,11
+GoingAheadPrivate,200237L007228,2002,Suffolk,13
+GoingAheadPrivate,2002400B00749,2002,Bedford Borough Council,21
+GoingAheadPrivate,2002400B01350,2002,Bedford Borough Council,47
+GoingAheadPrivate,2002400B02349,2002,Bedford Borough Council,34
+GoingAheadPrivate,2002400B02838,2002,Bedford Borough Council,16
+GoingAheadPrivate,2002400C01603,2002,Luton,13
+GoingAheadPrivate,2002400C02629,2002,Luton,16
+GoingAheadPrivate,2002400C04153,2002,Luton,10
+GoingAheadPrivate,20024100CA204,2002,Hertfordshire,9
+GoingAheadPrivate,20024100E0720,2002,Hertfordshire,47
+GoingAheadPrivate,20024200A0366,2002,Essex,11
+GoingAheadPrivate,20024200C0060,2002,Essex,17
+GoingAheadPrivate,20024200G0182,2002,Essex,13
+GoingAheadPrivate,20024200J0459,2002,Essex,10
+GoingAheadPrivate,200243N381112,2002,Buckinghamshire,14
+GoingAheadPrivate,200243P101092,2002,Oxfordshire,17
+GoingAheadPrivate,200243P280102,2002,Oxfordshire,7
+GoingAheadPrivate,200243P294092,2002,Oxfordshire,17
+GoingAheadPrivate,200243W159082,2002,Reading,7
+GoingAheadPrivate,2002440AA1654,2002,Hampshire,39
+GoingAheadPrivate,2002440DG0123,2002,Hampshire,73
+GoingAheadPrivate,2002440JW0229,2002,Hampshire,15
+GoingAheadPrivate,200245RN19668,2002,Surrey,42
+GoingAheadPrivate,200245RS25130,2002,Surrey,10
+GoingAheadPrivate,200245RS26310,2002,Surrey,
+GoingAheadPrivate,200245RS27884,2002,Surrey,12
+GoingAheadPrivate,200245RS28962,2002,Surrey,
+GoingAheadPrivate,200245RS30367,2002,Surrey,15
+GoingAheadPrivate,200245RS31073,2002,Surrey,11
+GoingAheadPrivate,200245RW26057,2002,Surrey,
+GoingAheadPrivate,200245SX28069,2002,Surrey,13
+GoingAheadPrivate,2.00247E+12,2002,Medway,12
+GoingAheadPrivate,200246NK62985,2002,Kent,16
+GoingAheadPrivate,200246WK68178,2002,Kent,41
+GoingAheadPrivate,200246WL60854,2002,Kent,
+GoingAheadPrivate,200247K150633,2002,West Sussex,30
+GoingAheadPrivate,200247K152825,2002,West Sussex,10
+GoingAheadPrivate,200250A613666,2002,Cornwall and Isles of Scilly,38
+GoingAheadPrivate,200250D215801,2002,Devon,8
+GoingAheadPrivate,200250F316332,2002,Torbay,20
+GoingAheadPrivate,2.00252E+12,2002,South Gloucestershire,14
+GoingAheadPrivate,2.00252E+12,2002,Somerset,12
+GoingAheadPrivate,2.00252E+12,2002,Somerset,43
+GoingAheadPrivate,2.00252E+12,2002,Somerset,46
+GoingAheadPrivate,2.00252E+12,2002,Somerset,12
+GoingAheadPrivate,2002530AI1131,2002,Gloucestershire,14
+GoingAheadPrivate,2002530AI1647,2002,Gloucestershire,7
+GoingAheadPrivate,2002530AI1786,2002,Gloucestershire,25
+GoingAheadPrivate,2002530AI2371,2002,Gloucestershire,15
+GoingAheadPrivate,2002530AI3386,2002,Gloucestershire,13
+GoingAheadPrivate,2002530AI3664,2002,Gloucestershire,12
+GoingAheadPrivate,200254AT35402,2002,Wiltshire,12
+GoingAheadPrivate,200254CD09902,2002,Wiltshire,8
+GoingAheadPrivate,200254CM18302,2002,Wiltshire,7
+GoingAheadPrivate,200254CO19802,2002,Wiltshire,7
+GoingAheadPrivate,200254CR20302,2002,Wiltshire,9
+GoingAheadPrivate,200254DE69802,2002,Swindon,15
+GoingAheadPrivate,200254DH54302,2002,Swindon,34
+GoingAheadPrivate,2002550B01474,2002,Bournemouth,14
+GoingAheadPrivate,2002550B04555,2002,Bournemouth,21
+GoingAheadPrivate,2002550B05125,2002,Bournemouth,78
+GoingAheadPrivate,2002550P01988,2002,Poole,13
+GoingAheadPrivate,2002550P06248,2002,Poole,11
+GoingAheadPrivate,2002552E05650,2002,Dorset,15
+GoingAheadPrivate,2002552E06238,2002,Dorset,47
+GoingAheadPrivate,200301CP00088,2003,London,51
+GoingAheadPrivate,200301EO00632,2003,London,11
+GoingAheadPrivate,200301FH00657,2003,London,10
+GoingAheadPrivate,200301FH00674,2003,London,19
+GoingAheadPrivate,200301GD00621,2003,London,7
+GoingAheadPrivate,200301HT00773,2003,London,32
+GoingAheadPrivate,200301JC00701,2003,London,51
+GoingAheadPrivate,200301KD00128,2003,London,12
+GoingAheadPrivate,200301KD00365,2003,London,12
+GoingAheadPrivate,200301MM00601,2003,London,9
+GoingAheadPrivate,200301PY00287,2003,London,14
+GoingAheadPrivate,200301PY00411,2003,London,8
+GoingAheadPrivate,200301QK00631,2003,London,26
+GoingAheadPrivate,200301QK00730,2003,London,18
+GoingAheadPrivate,200301RG00029,2003,London,13
+GoingAheadPrivate,200301RY00186,2003,London,14
+GoingAheadPrivate,200301SX00347,2003,London,
+GoingAheadPrivate,200301SX00964,2003,London,
+GoingAheadPrivate,200301SX00978,2003,London,14
+GoingAheadPrivate,200301TD00180,2003,London,24
+GoingAheadPrivate,200301TW00259,2003,London,11
+GoingAheadPrivate,200301TX00381,2003,London,11
+GoingAheadPrivate,200301TX00474,2003,London,13
+GoingAheadPrivate,200301WW00192,2003,London,18
+GoingAheadPrivate,200301XH00513,2003,London,11
+GoingAheadPrivate,200301XH00545,2003,London,15
+GoingAheadPrivate,200301XH00634,2003,London,10
+GoingAheadPrivate,200301XH00838,2003,London,10
+GoingAheadPrivate,200301XH00854,2003,London,
+GoingAheadPrivate,200301YE00453,2003,London,37
+GoingAheadPrivate,2.00303E+12,2003,Cumbria,8
+GoingAheadPrivate,2.00303E+12,2003,Cumbria,12
+GoingAheadPrivate,200304A004303,2003,Lancashire,14
+GoingAheadPrivate,200304B029803,2003,Lancashire,9
+GoingAheadPrivate,200304B032703,2003,Lancashire,9
+GoingAheadPrivate,200304B035903,2003,Lancashire,59
+GoingAheadPrivate,200304C016003,2003,Lancashire,16
+GoingAheadPrivate,200304D022703,2003,Lancashire,7
+GoingAheadPrivate,200304D045903,2003,Lancashire,16
+GoingAheadPrivate,200304F071403,2003,Lancashire,9
+GoingAheadPrivate,200305FT01447,2003,Merseyside,25
+GoingAheadPrivate,200306C023938,2003,Manchester,25
+GoingAheadPrivate,200306F013090,2003,Salford,28
+GoingAheadPrivate,200306G011293,2003,Tameside,11
+GoingAheadPrivate,200306J012890,2003,Stockport,10
+GoingAheadPrivate,200306J013794,2003,Stockport,5
+GoingAheadPrivate,200306K015440,2003,Bolton,11
+GoingAheadPrivate,200306K015631,2003,Bolton,11
+GoingAheadPrivate,200306L014770,2003,Wigan,7
+GoingAheadPrivate,200306M011835,2003,Trafford,6
+GoingAheadPrivate,200306N009243,2003,Bury,9
+GoingAheadPrivate,2.00307E+12,2003,Cheshire West and Chester,34
+GoingAheadPrivate,2.00307E+12,2003,Cheshire West and Chester,26
+GoingAheadPrivate,2.0031E+12,2003,South Tyneside,13
+GoingAheadPrivate,2.0031E+12,2003,South Tyneside,15
+GoingAheadPrivate,2.0031E+12,2003,North Tyneside,20
+GoingAheadPrivate,200311BD36010,2003,Durham,14
+GoingAheadPrivate,200311CH11210,2003,Durham,13
+GoingAheadPrivate,200311CI19000,2003,Durham,15
+GoingAheadPrivate,200311DJ18150,2003,Darlington,7
+GoingAheadPrivate,2.00312E+12,2003,York,17
+GoingAheadPrivate,2.00313E+12,2003,Leeds,8
+GoingAheadPrivate,200314CC00377,2003,Doncaster,12
+GoingAheadPrivate,200314DD00555,2003,Barnsley,11
+GoingAheadPrivate,200314FF01076,2003,Rotherham,15
+GoingAheadPrivate,200314HH00646,2003,Sheffield,11
+GoingAheadPrivate,200316A007503,2003,North East Lincolnshire,18
+GoingAheadPrivate,200316B040903,2003,North Lincolnshire,9
+GoingAheadPrivate,200316C043803,2003,East Riding of Yorkshire,7
+GoingAheadPrivate,200316C063403,2003,East Riding of Yorkshire,53
+GoingAheadPrivate,200316D000403,2003,Kingston Upon Hull,12
+GoingAheadPrivate,2003170H10133,2003,Hartlepool,9
+GoingAheadPrivate,2003170M11523,2003,Middlesbrough,18
+GoingAheadPrivate,2003170S22033,2003,Stockton on Tees,7
+GoingAheadPrivate,200320D166501,2003,Birmingham,12
+GoingAheadPrivate,200320D290003,2003,Birmingham,5
+GoingAheadPrivate,200320E074603,2003,Birmingham,10
+GoingAheadPrivate,200320E192502,2003,Birmingham,13
+GoingAheadPrivate,200320F086603,2003,Birmingham,6
+GoingAheadPrivate,200320G083601,2003,Wolverhampton,12
+GoingAheadPrivate,200320H054502,2003,Walsall,8
+GoingAheadPrivate,200320J033001,2003,Dudley,
+GoingAheadPrivate,200320J055401,2003,Dudley,8
+GoingAheadPrivate,200320K011701,2003,Sandwell,12
+GoingAheadPrivate,200320L142801,2003,Solihull,
+GoingAheadPrivate,200320M079802,2003,Coventry,27
+GoingAheadPrivate,2.00321E+12,2003,Stoke on Trent,13
+GoingAheadPrivate,2.00321E+12,2003,Stoke on Trent,15
+GoingAheadPrivate,2.00321E+12,2003,Stoke on Trent,11
+GoingAheadPrivate,2.00321E+12,2003,Stoke on Trent,14
+GoingAheadPrivate,2.00321E+12,2003,Staffordshire,15
+GoingAheadPrivate,2.00321E+12,2003,Staffordshire,14
+GoingAheadPrivate,2.00321E+12,2003,Staffordshire,35
+GoingAheadPrivate,2.00321E+12,2003,Staffordshire,39
+GoingAheadPrivate,2.00321E+12,2003,Staffordshire,14
+GoingAheadPrivate,2.00321E+12,2003,Staffordshire,
+GoingAheadPrivate,2.00321E+12,2003,Staffordshire,14
+GoingAheadPrivate,200322AB23160,2003,Worcestershire,13
+GoingAheadPrivate,200322FC33239,2003,Shropshire,8
+GoingAheadPrivate,2.00323E+12,2003,Warwickshire,12
+GoingAheadPrivate,2.00323E+12,2003,Warwickshire,12
+GoingAheadPrivate,2.00323E+12,2003,Warwickshire,11
+GoingAheadPrivate,2.00323E+12,2003,Warwickshire,19
+GoingAheadPrivate,2.00323E+12,2003,Warwickshire,9
+GoingAheadPrivate,2.00323E+12,2003,Warwickshire,16
+GoingAheadPrivate,2.00323E+12,2003,Warwickshire,12
+GoingAheadPrivate,2.00323E+12,2003,Warwickshire,22
+GoingAheadPrivate,2.00323E+12,2003,Warwickshire,17
+GoingAheadPrivate,200330B000535,2003,Derbyshire,11
+GoingAheadPrivate,200330D000617,2003,Derby,13
+GoingAheadPrivate,20033102A1423,2003,Nottinghamshire,15
+GoingAheadPrivate,20033102A7078,2003,Nottinghamshire,
+GoingAheadPrivate,20033102B0269,2003,Nottinghamshire,9
+GoingAheadPrivate,20033102B2378,2003,Nottinghamshire,51
+GoingAheadPrivate,20033102B5037,2003,Nottinghamshire,13
+GoingAheadPrivate,20033102C1745,2003,Nottingham,25
+GoingAheadPrivate,20033102C2826,2003,Nottingham,10
+GoingAheadPrivate,20033102C3179,2003,Nottingham,
+GoingAheadPrivate,20033102D0883,2003,Nottinghamshire,20
+GoingAheadPrivate,20033102D2758,2003,Nottinghamshire,10
+GoingAheadPrivate,20033102D3190,2003,Nottinghamshire,10
+GoingAheadPrivate,200332C151403,2003,Lincolnshire,11
+GoingAheadPrivate,200332D088503,2003,Lincolnshire,10
+GoingAheadPrivate,2.00333E+12,2003,Leicestershire,11
+GoingAheadPrivate,2.00333E+12,2003,Rutland,14
+GoingAheadPrivate,2.00333E+12,2003,Leicestershire,17
+GoingAheadPrivate,2.00333E+12,2003,Leicestershire,24
+GoingAheadPrivate,2.00333E+12,2003,Leicestershire,15
+GoingAheadPrivate,2.00333E+12,2003,Leicestershire,65
+GoingAheadPrivate,200334NC00113,2003,Northamptonshire,26
+GoingAheadPrivate,200334NC04189,2003,Northamptonshire,15
+GoingAheadPrivate,200334NN01921,2003,Northamptonshire,28
+GoingAheadPrivate,200334NN04497,2003,Northamptonshire,15
+GoingAheadPrivate,200334NW05338,2003,Northamptonshire,18
+GoingAheadPrivate,2.00335E+12,2003,Cambridgeshire,13
+GoingAheadPrivate,2.00335E+12,2003,Peterborough,24
+GoingAheadPrivate,2.00335E+12,2003,Cambridgeshire,14
+GoingAheadPrivate,2.00335E+12,2003,Peterborough,
+GoingAheadPrivate,2.00335E+12,2003,Cambridgeshire,38
+GoingAheadPrivate,2.00336E+12,2003,Norfolk,9
+GoingAheadPrivate,2.00336E+12,2003,Norfolk,13
+GoingAheadPrivate,2.00336E+12,2003,Norfolk,72
+GoingAheadPrivate,200336T030134,2003,Norfolk,23
+GoingAheadPrivate,200337B016498,2003,Suffolk,6
+GoingAheadPrivate,200337B016704,2003,Suffolk,31
+GoingAheadPrivate,200337B017010,2003,Suffolk,11
+GoingAheadPrivate,200337B017357,2003,Suffolk,
+GoingAheadPrivate,200337L008354,2003,Suffolk,16
+GoingAheadPrivate,2003400D01213,2003,Central Bedfordshire,11
+GoingAheadPrivate,20034100A0612,2003,Hertfordshire,12
+GoingAheadPrivate,20034100D0370,2003,Hertfordshire,6
+GoingAheadPrivate,20034100E0711,2003,Hertfordshire,45
+GoingAheadPrivate,20034100F4523,2003,Hertfordshire,30
+GoingAheadPrivate,20034100F4715,2003,Hertfordshire,16
+GoingAheadPrivate,20034100J2183,2003,Hertfordshire,12
+GoingAheadPrivate,20034100K0215,2003,Hertfordshire,11
+GoingAheadPrivate,20034200A0268,2003,Essex,8
+GoingAheadPrivate,20034200D0296,2003,Essex,13
+GoingAheadPrivate,20034200F0221,2003,Thurrock,32
+GoingAheadPrivate,20034200H0350,2003,Southend on Sea,21
+GoingAheadPrivate,20034200H0371,2003,Southend on Sea,17
+GoingAheadPrivate,200343N200123,2003,Buckinghamshire,51
+GoingAheadPrivate,200343N235073,2003,Buckinghamshire,15
+GoingAheadPrivate,200343N364063,2003,Buckinghamshire,15
+GoingAheadPrivate,200343P113043,2003,Oxfordshire,40
+GoingAheadPrivate,200343P409053,2003,Oxfordshire,21
+GoingAheadPrivate,200343S111043,2003,Milton Keynes,
+GoingAheadPrivate,200343W656063,2003,West Berkshire,
+GoingAheadPrivate,2003440BB0466,2003,Hampshire,7
+GoingAheadPrivate,2003440HF0513,2003,Hampshire,15
+GoingAheadPrivate,2003440HP0534,2003,Hampshire,12
+GoingAheadPrivate,2003440LA1054,2003,Hampshire,15
+GoingAheadPrivate,2003440OC1168,2003,Hampshire,20
+GoingAheadPrivate,2003440SC0697,2003,Southampton ,23
+GoingAheadPrivate,200345EP45282,2003,Surrey,16
+GoingAheadPrivate,200345RS39920,2003,Surrey,12
+GoingAheadPrivate,200345RS44318,2003,Surrey,
+GoingAheadPrivate,2.00346E+12,2003,Medway,15
+GoingAheadPrivate,2.00347E+12,2003,Medway,
+GoingAheadPrivate,200346CT81042,2003,Kent,24
+GoingAheadPrivate,200346SK82470,2003,Kent,53
+GoingAheadPrivate,200346SK86712,2003,Kent,14
+GoingAheadPrivate,200346TH83608,2003,Kent,12
+GoingAheadPrivate,200346WK77828,2003,Kent,14
+GoingAheadPrivate,200346WL75689,2003,Kent,11
+GoingAheadPrivate,200346WL75998,2003,Kent,26
+GoingAheadPrivate,200346WL76409,2003,Kent,8
+GoingAheadPrivate,200346WL83583,2003,Kent,14
+GoingAheadPrivate,200347K163006,2003,West Sussex,20
+GoingAheadPrivate,200347K170107,2003,East Sussex,15
+GoingAheadPrivate,200350A21K541,2003,Cornwall and Isles of Scilly,15
+GoingAheadPrivate,200350A41J736,2003,Cornwall and Isles of Scilly,10
+GoingAheadPrivate,200350B61I059,2003,Cornwall and Isles of Scilly,13
+GoingAheadPrivate,200350D21N975,2003,Devon,9
+GoingAheadPrivate,200350F41M914,2003,Devon,6
+GoingAheadPrivate,2.00352E+12,2003,North Somerset,15
+GoingAheadPrivate,2.00352E+12,2003,City of Bristol,14
+GoingAheadPrivate,2.00352E+12,2003,City of Bristol,12
+GoingAheadPrivate,2.00352E+12,2003,Somerset,11
+GoingAheadPrivate,2.00352E+12,2003,Somerset,15
+GoingAheadPrivate,2.00352E+12,2003,Somerset,35
+GoingAheadPrivate,2003530AI2744,2003,Gloucestershire,7
+GoingAheadPrivate,2003530AI2945,2003,Gloucestershire,7
+GoingAheadPrivate,2003530AI3426,2003,Gloucestershire,43
+GoingAheadPrivate,200354AM45403,2003,Wiltshire,6
+GoingAheadPrivate,200354CY06603,2003,Wiltshire,15
+GoingAheadPrivate,200354DE23103,2003,Swindon,29
+GoingAheadPrivate,2003553W00817,2003,Dorset,9
+GoingAheadPrivate,2003553W02810,2003,Dorset,9
+GoingAheadPrivate,2003553W04509,2003,Dorset,8
+GoingAheadPrivate,2003553W05237,2003,Dorset,12
+GoingAheadPrivate,200401GD00182,2004,London,51
+GoingAheadPrivate,200401KD00571,2004,London,
+GoingAheadPrivate,200401PL60257,2004,London,13
+GoingAheadPrivate,200401QK00379,2004,London,12
+GoingAheadPrivate,200401QK00398,2004,London,12
+GoingAheadPrivate,200401SX00684,2004,London,
+GoingAheadPrivate,200401TE00122,2004,London,5
+GoingAheadPrivate,200401TW00242,2004,London,38
+GoingAheadPrivate,200401TW00354,2004,London,54
+GoingAheadPrivate,200401TW00385,2004,London,43
+GoingAheadPrivate,200401TX00360,2004,London,84
+GoingAheadPrivate,200401VK00241,2004,London,27
+GoingAheadPrivate,200401VW00086,2004,London,
+GoingAheadPrivate,200401VW00229,2004,London,6
+GoingAheadPrivate,200401WW00122,2004,London,39
+GoingAheadPrivate,200401XH00614,2004,London,28
+GoingAheadPrivate,200401ZD30163,2004,London,13
+GoingAheadPrivate,2.00403E+12,2004,Cumbria,6
+GoingAheadPrivate,2.00403E+12,2004,Cumbria,14
+GoingAheadPrivate,2.00403E+12,2004,Cumbria,8
+GoingAheadPrivate,200404A051704,2004,Blackpool,5
+GoingAheadPrivate,200404E073604,2004,Lancashire,15
+GoingAheadPrivate,200404F030304,2004,Lancashire,34
+GoingAheadPrivate,200405BS01345,2004,Merseyside,14
+GoingAheadPrivate,200405ET00250,2004,Merseyside,13
+GoingAheadPrivate,200405ET02477,2004,Merseyside,21
+GoingAheadPrivate,200405FT00805,2004,Merseyside,17
+GoingAheadPrivate,200405FT01143,2004,Merseyside,14
+GoingAheadPrivate,200406Q904294,2004,Oldham,16
+GoingAheadPrivate,2.00407E+12,2004,Warrington,7
+GoingAheadPrivate,2.00407E+12,2004,Warrington,9
+GoingAheadPrivate,2.00407E+12,2004,Cheshire West and Chester,8
+GoingAheadPrivate,2.0041E+12,2004,South Tyneside,31
+GoingAheadPrivate,2.0041E+12,2004,Newcastle upon Tyne,14
+GoingAheadPrivate,2.0041E+12,2004,Northumberland,13
+GoingAheadPrivate,2.0041E+12,2004,South Tyneside,8
+GoingAheadPrivate,2.0041E+12,2004,South Tyneside,10
+GoingAheadPrivate,2.0041E+12,2004,Newcastle upon Tyne,13
+GoingAheadPrivate,2.0041E+12,2004,Northumberland,33
+GoingAheadPrivate,2.00412E+12,2004,York,47
+GoingAheadPrivate,2.00412E+12,2004,York,
+GoingAheadPrivate,2.00413E+12,2004,Leeds,29
+GoingAheadPrivate,2.00413E+12,2004,Wakefield,18
+GoingAheadPrivate,2.00413E+12,2004,Kirklees,35
+GoingAheadPrivate,2.00413E+12,2004,Kirklees,12
+GoingAheadPrivate,2.00413E+12,2004,Leeds,29
+GoingAheadPrivate,2.00413E+12,2004,Leeds,7
+GoingAheadPrivate,2.00413E+12,2004,Leeds,12
+GoingAheadPrivate,200414BB00652,2004,Barnsley,10
+GoingAheadPrivate,200414BB01459,2004,Barnsley,11
+GoingAheadPrivate,200414CC00616,2004,Rotherham,13
+GoingAheadPrivate,200414DD01608,2004,Sheffield,11
+GoingAheadPrivate,200414FF00880,2004,Sheffield,16
+GoingAheadPrivate,2004160A01160,2004,North East Lincolnshire,4
+GoingAheadPrivate,2004160A03360,2004,North East Lincolnshire,12
+GoingAheadPrivate,2004160B00670,2004,North Lincolnshire,39
+GoingAheadPrivate,2004160B03240,2004,North Lincolnshire,12
+GoingAheadPrivate,2004160B03260,2004,North Lincolnshire,12
+GoingAheadPrivate,2004160C01990,2004,East Riding of Yorkshire,
+GoingAheadPrivate,2004160C04040,2004,East Riding of Yorkshire,14
+GoingAheadPrivate,2004160C04570,2004,East Riding of Yorkshire,43
+GoingAheadPrivate,2004160C04750,2004,East Riding of Yorkshire,6
+GoingAheadPrivate,2004160C07220,2004,East Riding of Yorkshire,70
+GoingAheadPrivate,2004160C10190,2004,East Riding of Yorkshire,5
+GoingAheadPrivate,2004160D02040,2004,Kingston Upon Hull,11
+GoingAheadPrivate,2004160D02430,2004,Kingston Upon Hull,
+GoingAheadPrivate,2004160D03840,2004,Kingston Upon Hull,13
+GoingAheadPrivate,2004160D07320,2004,Kingston Upon Hull,10
+GoingAheadPrivate,2004170H11624,2004,Hartlepool,13
+GoingAheadPrivate,200420D233201,2004,Birmingham,
+GoingAheadPrivate,200420E033102,2004,Birmingham,29
+GoingAheadPrivate,200420J010002,2004,Dudley,37
+GoingAheadPrivate,200420J071601,2004,Dudley,10
+GoingAheadPrivate,200420J072901,2004,Dudley,7
+GoingAheadPrivate,200420L164201,2004,Solihull,5
+GoingAheadPrivate,200420L690801,2004,Solihull,15
+GoingAheadPrivate,200420M092803,2004,Coventry,13
+GoingAheadPrivate,2.00421E+12,2004,Stoke on Trent,8
+GoingAheadPrivate,2.00421E+12,2004,Stoke on Trent,13
+GoingAheadPrivate,2.00421E+12,2004,Stoke on Trent,14
+GoingAheadPrivate,2.00421E+12,2004,Staffordshire,40
+GoingAheadPrivate,2.00421E+12,2004,Staffordshire,14
+GoingAheadPrivate,2.00421E+12,2004,Staffordshire,14
+GoingAheadPrivate,200422DC41243,2004,Worcestershire,14
+GoingAheadPrivate,200422EC29400,2004,Herefordshire,6
+GoingAheadPrivate,200422EG29356,2004,Herefordshire,7
+GoingAheadPrivate,2.00423E+12,2004,Warwickshire,27
+GoingAheadPrivate,2.00423E+12,2004,Warwickshire,17
+GoingAheadPrivate,2.00423E+12,2004,Warwickshire,7
+GoingAheadPrivate,200430B000227,2004,Derbyshire,13
+GoingAheadPrivate,200430C000220,2004,Derbyshire,9
+GoingAheadPrivate,200430C000318,2004,Derbyshire,
+GoingAheadPrivate,200430D000900,2004,Derby,7
+GoingAheadPrivate,20043102A1900,2004,Nottinghamshire,42
+GoingAheadPrivate,20043102A2301,2004,Nottinghamshire,
+GoingAheadPrivate,20043102B1985,2004,Nottinghamshire,17
+GoingAheadPrivate,20043102B3611,2004,Nottinghamshire,31
+GoingAheadPrivate,20043108B3856,2004,Nottinghamshire,70
+GoingAheadPrivate,20043108D2057,2004,Nottinghamshire,21
+GoingAheadPrivate,20043108D4714,2004,Nottinghamshire,9
+GoingAheadPrivate,200432B104804,2004,Lincolnshire,14
+GoingAheadPrivate,200432C036804,2004,Lincolnshire,12
+GoingAheadPrivate,200432D100804,2004,Lincolnshire,7
+GoingAheadPrivate,200432D135404,2004,Lincolnshire,17
+GoingAheadPrivate,2.00433E+12,2004,Leicestershire,12
+GoingAheadPrivate,2.00433E+12,2004,Leicestershire,12
+GoingAheadPrivate,200434NC00299,2004,Northamptonshire,10
+GoingAheadPrivate,200434NN02667,2004,Northamptonshire,22
+GoingAheadPrivate,200434NN04799,2004,Northamptonshire,10
+GoingAheadPrivate,2.00435E+12,2004,Peterborough,22
+GoingAheadPrivate,2.00435E+12,2004,Cambridgeshire,18
+GoingAheadPrivate,2.00435E+12,2004,Cambridgeshire,8
+GoingAheadPrivate,2.00435E+12,2004,Cambridgeshire,12
+GoingAheadPrivate,2.00435E+12,2004,Peterborough,26
+GoingAheadPrivate,2.00435E+12,2004,Cambridgeshire,9
+GoingAheadPrivate,2.00435E+12,2004,Cambridgeshire,71
+GoingAheadPrivate,2.00435E+12,2004,Cambridgeshire,
+GoingAheadPrivate,2.00436E+12,2004,Norfolk,12
+GoingAheadPrivate,2.00436E+12,2004,Norfolk,15
+GoingAheadPrivate,200437B019297,2004,Suffolk,7
+GoingAheadPrivate,200437B020061,2004,Suffolk,8
+GoingAheadPrivate,200437B020481,2004,Suffolk,
+GoingAheadPrivate,200437G014964,2004,Suffolk,
+GoingAheadPrivate,200437G015174,2004,Suffolk,34
+GoingAheadPrivate,2004400B01982,2004,Bedford Borough Council,54
+GoingAheadPrivate,2004400B03775,2004,Bedford Borough Council,22
+GoingAheadPrivate,2004400C02555,2004,Luton,13
+GoingAheadPrivate,2004400D01701,2004,Central Bedfordshire,39
+GoingAheadPrivate,2004400D03127,2004,Central Bedfordshire,35
+GoingAheadPrivate,20044100A0481,2004,Hertfordshire,7
+GoingAheadPrivate,20044100A0745,2004,Hertfordshire,34
+GoingAheadPrivate,20044100A0854,2004,Hertfordshire,13
+GoingAheadPrivate,20044100B1081,2004,Hertfordshire,25
+GoingAheadPrivate,20044100C1172,2004,Hertfordshire,13
+GoingAheadPrivate,20044100D0523,2004,Hertfordshire,6
+GoingAheadPrivate,20044100F4568,2004,Hertfordshire,16
+GoingAheadPrivate,20044100F4574,2004,Hertfordshire,11
+GoingAheadPrivate,20044100G0683,2004,Hertfordshire,19
+GoingAheadPrivate,20044100G0741,2004,Hertfordshire,32
+GoingAheadPrivate,20044100G0945,2004,Hertfordshire,11
+GoingAheadPrivate,20044200E0345,2004,Essex,
+GoingAheadPrivate,20044200F0103,2004,Thurrock,12
+GoingAheadPrivate,20044200F0442,2004,Thurrock,
+GoingAheadPrivate,20044200H0252,2004,Southend on Sea,16
+GoingAheadPrivate,20044200J0318,2004,Essex,13
+GoingAheadPrivate,20044200J0424,2004,Essex,11
+GoingAheadPrivate,200443N155104,2004,Buckinghamshire,52
+GoingAheadPrivate,200443N227014,2004,Buckinghamshire,12
+GoingAheadPrivate,200443P183034,2004,Oxfordshire,68
+GoingAheadPrivate,200443P232094,2004,Oxfordshire,5
+GoingAheadPrivate,200443P248084,2004,Oxfordshire,20
+GoingAheadPrivate,200443S002064,2004,Milton Keynes,8
+GoingAheadPrivate,200443S019084,2004,Milton Keynes,10
+GoingAheadPrivate,200443S068104,2004,Milton Keynes,22
+GoingAheadPrivate,200443W005064,2004,Reading,30
+GoingAheadPrivate,200443W065014,2004,Windsor and Maidenhead,7
+GoingAheadPrivate,200443W086054,2004,Wokingham,18
+GoingAheadPrivate,200443W263074,2004,Reading,
+GoingAheadPrivate,200443W304094,2004,Windsor and Maidenhead,13
+GoingAheadPrivate,200443W316074,2004,West Berkshire,31
+GoingAheadPrivate,2004440HP0364,2004,Hampshire,12
+GoingAheadPrivate,2004440KK2097,2004,Portsmouth,18
+GoingAheadPrivate,2004440LA0384,2004,Hampshire,7
+GoingAheadPrivate,2004440NA0312,2004,Hampshire,13
+GoingAheadPrivate,200445EP51202,2004,Surrey,17
+GoingAheadPrivate,200445EP58990,2004,Surrey,
+GoingAheadPrivate,200445GU50829,2004,Surrey,46
+GoingAheadPrivate,200445RE51261,2004,Surrey,14
+GoingAheadPrivate,200445WA52106,2004,Surrey,42
+GoingAheadPrivate,200446NK03705,2004,Kent,35
+GoingAheadPrivate,200447K171372,2004,West Sussex,13
+GoingAheadPrivate,200447K182350,2004,West Sussex,15
+GoingAheadPrivate,200450A51E170,2004,Cornwall and Isles of Scilly,31
+GoingAheadPrivate,200450E52P649,2004,Plymouth,13
+GoingAheadPrivate,2.00452E+12,2004,South Gloucestershire,24
+GoingAheadPrivate,2.00452E+12,2004,Somerset,12
+GoingAheadPrivate,2.00452E+12,2004,South Gloucestershire,27
+GoingAheadPrivate,2.00452E+12,2004,South Gloucestershire,12
+GoingAheadPrivate,2004530AI0321,2004,Gloucestershire,67
+GoingAheadPrivate,2004530AI1212,2004,Gloucestershire,11
+GoingAheadPrivate,2004530AI1874,2004,Gloucestershire,13
+GoingAheadPrivate,200454DE58304,2004,Swindon,14
+GoingAheadPrivate,200501FH10377,2005,London,
+GoingAheadPrivate,200501JC30630,2005,London,
+GoingAheadPrivate,200501MM71236,2005,London,10
+GoingAheadPrivate,200501PL60800,2005,London,15
+GoingAheadPrivate,200501QK50440,2005,London,12
+GoingAheadPrivate,200501SX21062,2005,London,12
+GoingAheadPrivate,200501YE80294,2005,London,18
+GoingAheadPrivate,200501ZD30950,2005,London,12
+GoingAheadPrivate,200501ZT80184,2005,London,
+GoingAheadPrivate,200504D006705,2005,Lancashire,15
+GoingAheadPrivate,200504DL05027,2005,Lancashire,15
+GoingAheadPrivate,200504E029405,2005,Blackburn with Darwen,8
+GoingAheadPrivate,200504EA05023,2005,Blackburn with Darwen,63
+GoingAheadPrivate,200505AW01126,2005,Merseyside,11
+GoingAheadPrivate,200505BS00158,2005,Merseyside,14
+GoingAheadPrivate,200505BS01182,2005,Merseyside,65
+GoingAheadPrivate,200505BS01186,2005,Merseyside,44
+GoingAheadPrivate,200505ET00601,2005,Merseyside,53
+GoingAheadPrivate,200506F026425,2005,Salford,13
+GoingAheadPrivate,200506K025328,2005,Bolton,17
+GoingAheadPrivate,200506M029566,2005,Trafford,12
+GoingAheadPrivate,2.00507E+12,2005,Halton,18
+GoingAheadPrivate,2.00507E+12,2005,Cheshire West and Chester,14
+GoingAheadPrivate,2.0051E+12,2005,Gateshead,10
+GoingAheadPrivate,2.0051E+12,2005,North Tyneside,14
+GoingAheadPrivate,2.0051E+12,2005,Northumberland,15
+GoingAheadPrivate,2.0051E+12,2005,North Tyneside,16
+GoingAheadPrivate,2.00513E+12,2005,Bradford,25
+GoingAheadPrivate,200514A060205,2005,Doncaster,16
+GoingAheadPrivate,2005160A00880,2005,North East Lincolnshire,12
+GoingAheadPrivate,2005160A01060,2005,North East Lincolnshire,7
+GoingAheadPrivate,2005160A03060,2005,North East Lincolnshire,8
+GoingAheadPrivate,2005160B00320,2005,North Lincolnshire,18
+GoingAheadPrivate,2005160C02290,2005,East Riding of Yorkshire,11
+GoingAheadPrivate,2005160C03670,2005,East Riding of Yorkshire,7
+GoingAheadPrivate,2005160C06650,2005,East Riding of Yorkshire,5
+GoingAheadPrivate,2005160D03100,2005,East Riding of Yorkshire,8
+GoingAheadPrivate,2005160D03720,2005,Kingston Upon Hull,38
+GoingAheadPrivate,2005160D04570,2005,Kingston Upon Hull,9
+GoingAheadPrivate,2005170H11155,2005,Hartlepool,11
+GoingAheadPrivate,2005170M31375,2005,Middlesbrough,4
+GoingAheadPrivate,2005170S42635,2005,Stockton on Tees,9
+GoingAheadPrivate,200520D267802,2005,Birmingham,15
+GoingAheadPrivate,200520D271201,2005,Birmingham,9
+GoingAheadPrivate,200520E094303,2005,Birmingham,12
+GoingAheadPrivate,200520F105403,2005,Birmingham,16
+GoingAheadPrivate,200520J081501,2005,Dudley,
+GoingAheadPrivate,200520K025802,2005,Sandwell,11
+GoingAheadPrivate,200520K072401,2005,Sandwell,9
+GoingAheadPrivate,200520M034601,2005,Coventry,
+GoingAheadPrivate,200520M066202,2005,Coventry,7
+GoingAheadPrivate,2.00522E+12,2005,Staffordshire,6
+GoingAheadPrivate,200522CC48517,2005,Worcestershire,9
+GoingAheadPrivate,200522GB38564,2005,Telford and Wrekin,13
+GoingAheadPrivate,200522GB39243,2005,Telford and Wrekin,35
+GoingAheadPrivate,2.00523E+12,2005,Warwickshire,
+GoingAheadPrivate,2.00523E+12,2005,Warwickshire,11
+GoingAheadPrivate,2.00523E+12,2005,Warwickshire,34
+GoingAheadPrivate,2.00523E+12,2005,Warwickshire,14
+GoingAheadPrivate,2.00523E+12,2005,Warwickshire,6
+GoingAheadPrivate,200530B000243,2005,Derbyshire,13
+GoingAheadPrivate,200530C000263,2005,Derbyshire,10
+GoingAheadPrivate,20053102A0724,2005,Nottinghamshire,13
+GoingAheadPrivate,20053102B2540,2005,Nottinghamshire,17
+GoingAheadPrivate,20053102B3538,2005,Nottinghamshire,43
+GoingAheadPrivate,20053102B3746,2005,Nottinghamshire,14
+GoingAheadPrivate,20053102C1441,2005,Nottingham,7
+GoingAheadPrivate,20053102C2177,2005,Nottingham,21
+GoingAheadPrivate,20053102C3157,2005,Nottingham,63
+GoingAheadPrivate,200532B055905,2005,Lincolnshire,10
+GoingAheadPrivate,200532C050305,2005,Lincolnshire,11
+GoingAheadPrivate,200532D518405,2005,Lincolnshire,12
+GoingAheadPrivate,2.00533E+12,2005,Leicestershire,14
+GoingAheadPrivate,200534NN02888,2005,Northamptonshire,13
+GoingAheadPrivate,200534NW01191,2005,Northamptonshire,12
+GoingAheadPrivate,2.00535E+12,2005,Cambridgeshire,12
+GoingAheadPrivate,2.00535E+12,2005,Cambridgeshire,15
+GoingAheadPrivate,2.00535E+12,2005,Cambridgeshire,8
+GoingAheadPrivate,2.00535E+12,2005,Cambridgeshire,13
+GoingAheadPrivate,2.00535E+12,2005,Cambridgeshire,21
+GoingAheadPrivate,2.00536E+12,2005,Norfolk,14
+GoingAheadPrivate,200537B022464,2005,Suffolk,14
+GoingAheadPrivate,200537G017630,2005,Suffolk,14
+GoingAheadPrivate,200537G017909,2005,Suffolk,13
+GoingAheadPrivate,200537L011599,2005,Suffolk,15
+GoingAheadPrivate,200540C024480,2005,Luton,77
+GoingAheadPrivate,20054100C0398,2005,Hertfordshire,72
+GoingAheadPrivate,20054100D0722,2005,Hertfordshire,15
+GoingAheadPrivate,20054100D0757,2005,Hertfordshire,44
+GoingAheadPrivate,2.01E+305,2005,Hertfordshire,14
+GoingAheadPrivate,200542A046308,2005,Essex,
+GoingAheadPrivate,200542B046511,2005,Essex,12
+GoingAheadPrivate,200542C068411,2005,Essex,13
+GoingAheadPrivate,200542E037909,2005,Essex,83
+GoingAheadPrivate,200542E058310,2005,Essex,24
+GoingAheadPrivate,200542H006301,2005,Southend on Sea,
+GoingAheadPrivate,200542H013903,2005,Southend on Sea,12
+GoingAheadPrivate,200542H029607,2005,Southend on Sea,51
+GoingAheadPrivate,200542J040910,2005,Essex,13
+GoingAheadPrivate,200543N025095,2005,Buckinghamshire,11
+GoingAheadPrivate,200543N205065,2005,Buckinghamshire,37
+GoingAheadPrivate,200543N234075,2005,Buckinghamshire,19
+GoingAheadPrivate,200543N310095,2005,Milton Keynes,15
+GoingAheadPrivate,200543N433095,2005,Buckinghamshire,10
+GoingAheadPrivate,200543W008025,2005,Reading,34
+GoingAheadPrivate,200543W074115,2005,Wokingham,15
+GoingAheadPrivate,200543W087065,2005,West Berkshire,8
+GoingAheadPrivate,200543W278055,2005,Windsor and Maidenhead,
+GoingAheadPrivate,200543W323055,2005,Reading,20
+GoingAheadPrivate,200543W382045,2005,Reading,17
+GoingAheadPrivate,200543W389095,2005,West Berkshire,13
+GoingAheadPrivate,200543W494085,2005,Wokingham,33
+GoingAheadPrivate,2.00544E+12,2005,Isle of Wight,6
+GoingAheadPrivate,2.00544E+12,2005,Hampshire,38
+GoingAheadPrivate,2.00544E+12,2005,Hampshire,13
+GoingAheadPrivate,2.00544E+12,2005,Hampshire,34
+GoingAheadPrivate,2.00544E+12,2005,Portsmouth,29
+GoingAheadPrivate,2.00544E+12,2005,Hampshire,9
+GoingAheadPrivate,200545EL71522,2005,Surrey,59
+GoingAheadPrivate,200545EL75388,2005,Surrey,
+GoingAheadPrivate,200545EP77759,2005,Surrey,15
+GoingAheadPrivate,200545SU67691,2005,Surrey,15
+GoingAheadPrivate,200545WA67298,2005,Surrey,
+GoingAheadPrivate,200545WO69010,2005,Surrey,25
+GoingAheadPrivate,2.00546E+12,2005,Medway,16
+GoingAheadPrivate,2.00546E+12,2005,Kent,38
+GoingAheadPrivate,2.00546E+12,2005,Kent,13
+GoingAheadPrivate,2.00546E+12,2005,Kent,32
+GoingAheadPrivate,2.00546E+12,2005,Kent,11
+GoingAheadPrivate,2.00547E+12,2005,West Sussex,11
+GoingAheadPrivate,200550F45K064,2005,Devon,8
+GoingAheadPrivate,2.00552E+12,2005,Somerset,14
+GoingAheadPrivate,2.00552E+12,2005,Somerset,17
+GoingAheadPrivate,2.00553E+12,2005,Gloucestershire,9
+GoingAheadPrivate,2.00553E+12,2005,Gloucestershire,18
+GoingAheadPrivate,2.00553E+12,2005,Gloucestershire,11
+GoingAheadPrivate,2.00553E+12,2005,Gloucestershire,24
+GoingAheadPrivate,2.00553E+12,2005,Gloucestershire,13
+GoingAheadPrivate,200554AN27205,2005,Wiltshire,8
+GoingAheadPrivate,2005555B02258,2005,Bournemouth,14
+GoingAheadPrivate,2005555B03114,2005,Bournemouth,14
+GoingAheadPrivate,2005555B03541,2005,Bournemouth,11
+GoingAheadPrivate,2005555B04328,2005,Bournemouth,15
+GoingAheadPrivate,2005555B04533,2005,Bournemouth,13
+GoingAheadPrivate,2005555E02601,2005,Dorset,8
+GoingAheadPrivate,2005555P02229,2005,Poole,25
+GoingAheadPrivate,2005555W01784,2005,Dorset,10
+GoingAheadPrivate,2005555W05391,2005,Dorset,16
+GoingAheadPrivate,200601CW11806,2006,London,18
+GoingAheadPrivate,200601JC30155,2006,London,13
+GoingAheadPrivate,200601JI40522,2006,London,10
+GoingAheadPrivate,200601LX50593,2006,London,7
+GoingAheadPrivate,200601MM70265,2006,London,8
+GoingAheadPrivate,200601PL60605,2006,London,13
+GoingAheadPrivate,200601QA10287,2006,London,10
+GoingAheadPrivate,200601RY10285,2006,London,11
+GoingAheadPrivate,200601RY10307,2006,London,44
+GoingAheadPrivate,200601YE80309,2006,London,8
+GoingAheadPrivate,200601ZT80176,2006,London,13
+GoingAheadPrivate,200601ZT80404,2006,London,
+GoingAheadPrivate,200604CA06107,2006,Lancashire,14
+GoingAheadPrivate,200604DF06156,2006,Lancashire,9
+GoingAheadPrivate,200605FF09355,2006,Merseyside,29
+GoingAheadPrivate,200606C052465,2006,Manchester,25
+GoingAheadPrivate,200606C062634,2006,Manchester,21
+GoingAheadPrivate,200606F061879,2006,Salford,15
+GoingAheadPrivate,200606M044488,2006,Trafford,10
+GoingAheadPrivate,200606P062285,2006,Rochdale,18
+GoingAheadPrivate,2.0061E+12,2006,South Tyneside,20
+GoingAheadPrivate,200611DC20920,2006,Durham,11
+GoingAheadPrivate,200614A053706,2006,Doncaster,50
+GoingAheadPrivate,200614G038906,2006,Sheffield,
+GoingAheadPrivate,200614G041206,2006,Sheffield,15
+GoingAheadPrivate,200614H061306,2006,Sheffield,12
+GoingAheadPrivate,2006160A01480,2006,North East Lincolnshire,12
+GoingAheadPrivate,2006160B00330,2006,North Lincolnshire,18
+GoingAheadPrivate,2006160B04270,2006,North Lincolnshire,15
+GoingAheadPrivate,2006160C03120,2006,East Riding of Yorkshire,13
+GoingAheadPrivate,2006160C05810,2006,East Riding of Yorkshire,12
+GoingAheadPrivate,2006160D01620,2006,Kingston Upon Hull,14
+GoingAheadPrivate,2006160D02140,2006,Kingston Upon Hull,10
+GoingAheadPrivate,2006160D03790,2006,Kingston Upon Hull,15
+GoingAheadPrivate,2006160D03850,2006,Kingston Upon Hull,11
+GoingAheadPrivate,2006160D04910,2006,Kingston Upon Hull,9
+GoingAheadPrivate,2006160D05720,2006,Kingston Upon Hull,10
+GoingAheadPrivate,2006160D05880,2006,Kingston Upon Hull,14
+GoingAheadPrivate,2006160D06850,2006,Kingston Upon Hull,10
+GoingAheadPrivate,2006170M11656,2006,Middlesbrough,11
+GoingAheadPrivate,200620E060101,2006,Birmingham,26
+GoingAheadPrivate,200620E157701,2006,Birmingham,12
+GoingAheadPrivate,200620E194603,2006,Birmingham,45
+GoingAheadPrivate,200620G022501,2006,Wolverhampton,6
+GoingAheadPrivate,200620G050901,2006,Wolverhampton,49
+GoingAheadPrivate,200620H029902,2006,Walsall,16
+GoingAheadPrivate,200620H044502,2006,Walsall,6
+GoingAheadPrivate,200620H050902,2006,Walsall,20
+GoingAheadPrivate,200620H055402,2006,Walsall,14
+GoingAheadPrivate,200620H062502,2006,Walsall,14
+GoingAheadPrivate,200620H065902,2006,Walsall,20
+GoingAheadPrivate,200620K035701,2006,Sandwell,12
+GoingAheadPrivate,200620K092401,2006,Sandwell,13
+GoingAheadPrivate,200620L111401,2006,Solihull,13
+GoingAheadPrivate,200620M034402,2006,Coventry,12
+GoingAheadPrivate,200620M036002,2006,Coventry,34
+GoingAheadPrivate,200620M049803,2006,Coventry,13
+GoingAheadPrivate,2.00622E+12,2006,Staffordshire,26
+GoingAheadPrivate,2.00622E+12,2006,Stoke on Trent,17
+GoingAheadPrivate,2.00622E+12,2006,Staffordshire,90
+GoingAheadPrivate,2.00622E+12,2006,Staffordshire,14
+GoingAheadPrivate,2.00622E+12,2006,Staffordshire,26
+GoingAheadPrivate,2.00622E+12,2006,Staffordshire,36
+GoingAheadPrivate,2.00622E+12,2006,Staffordshire,15
+GoingAheadPrivate,2.00622E+12,2006,Staffordshire,15
+GoingAheadPrivate,2.00622E+12,2006,Staffordshire,14
+GoingAheadPrivate,200622DE53634,2006,Worcestershire,16
+GoingAheadPrivate,200622EA35808,2006,Herefordshire,6
+GoingAheadPrivate,200622FB46981,2006,Shropshire,35
+GoingAheadPrivate,200622GA43469,2006,Telford and Wrekin,34
+GoingAheadPrivate,2.00623E+12,2006,Warwickshire,26
+GoingAheadPrivate,2.00623E+12,2006,Warwickshire,16
+GoingAheadPrivate,2.00623E+12,2006,Warwickshire,14
+GoingAheadPrivate,2.00623E+12,2006,Warwickshire,15
+GoingAheadPrivate,2.00623E+12,2006,Warwickshire,8
+GoingAheadPrivate,2.00623E+12,2006,Warwickshire,39
+GoingAheadPrivate,2.00623E+12,2006,Warwickshire,15
+GoingAheadPrivate,2.00623E+12,2006,Warwickshire,30
+GoingAheadPrivate,200630A000459,2006,Derbyshire,10
+GoingAheadPrivate,20063102A2232,2006,Nottinghamshire,12
+GoingAheadPrivate,20063102A2312,2006,Nottinghamshire,5
+GoingAheadPrivate,20063102A3151,2006,Nottinghamshire,46
+GoingAheadPrivate,20063102A3530,2006,Nottinghamshire,13
+GoingAheadPrivate,20063102B1872,2006,Nottinghamshire,8
+GoingAheadPrivate,20063102B3225,2006,Nottinghamshire,13
+GoingAheadPrivate,20063102C3186,2006,Nottingham,
+GoingAheadPrivate,200632D361806,2006,Lincolnshire,8
+GoingAheadPrivate,2.00633E+12,2006,Leicestershire,8
+GoingAheadPrivate,2.00633E+12,2006,Leicestershire,10
+GoingAheadPrivate,2.00633E+12,2006,Leicestershire,17
+GoingAheadPrivate,2.00633E+12,2006,Leicestershire,10
+GoingAheadPrivate,2.00633E+12,2006,Leicestershire,8
+GoingAheadPrivate,2.00633E+12,2006,Leicestershire,13
+GoingAheadPrivate,2.00633E+12,2006,Leicestershire,15
+GoingAheadPrivate,2.00633E+12,2006,Leicestershire,13
+GoingAheadPrivate,200634NC03188,2006,Northamptonshire,6
+GoingAheadPrivate,2.00635E+12,2006,Cambridgeshire,16
+GoingAheadPrivate,2.00635E+12,2006,Peterborough,44
+GoingAheadPrivate,2.00635E+12,2006,Cambridgeshire,19
+GoingAheadPrivate,2.00635E+12,2006,Peterborough,13
+GoingAheadPrivate,2.00635E+12,2006,Cambridgeshire,8
+GoingAheadPrivate,2.00635E+12,2006,Cambridgeshire,21
+GoingAheadPrivate,2.00635E+12,2006,Peterborough,47
+GoingAheadPrivate,2.00635E+12,2006,Cambridgeshire,16
+GoingAheadPrivate,2.00636E+12,2006,Norfolk,11
+GoingAheadPrivate,200636T060094,2006,Norfolk,70
+GoingAheadPrivate,200636T060236,2006,Norfolk,12
+GoingAheadPrivate,200637L013680,2006,Suffolk,21
+GoingAheadPrivate,20064100A0235,2006,Hertfordshire,7
+GoingAheadPrivate,20064100A0293,2006,Hertfordshire,33
+GoingAheadPrivate,20064100B0857,2006,Hertfordshire,29
+GoingAheadPrivate,20064100B0972,2006,Hertfordshire,24
+GoingAheadPrivate,20064100C0451,2006,Hertfordshire,13
+GoingAheadPrivate,20064100C0810,2006,Hertfordshire,10
+GoingAheadPrivate,20064100G0319,2006,Hertfordshire,12
+GoingAheadPrivate,20064100J2021,2006,Hertfordshire,66
+GoingAheadPrivate,200642E017305,2006,Essex,9
+GoingAheadPrivate,200642I286807,2006,Essex,12
+GoingAheadPrivate,200642I325908,2006,Essex,16
+GoingAheadPrivate,200642I393309,2006,Essex,13
+GoingAheadPrivate,200642I529212,2006,Essex,
+GoingAheadPrivate,200642J021206,2006,Essex,17
+GoingAheadPrivate,200643N064056,2006,Buckinghamshire,8
+GoingAheadPrivate,200643N102026,2006,Milton Keynes,45
+GoingAheadPrivate,200643N135016,2006,Milton Keynes,13
+GoingAheadPrivate,200643N179056,2006,Buckinghamshire,36
+GoingAheadPrivate,200643N198096,2006,Buckinghamshire,11
+GoingAheadPrivate,200643N253066,2006,Buckinghamshire,10
+GoingAheadPrivate,200643P157086,2006,Oxfordshire,41
+GoingAheadPrivate,200643P318076,2006,Oxfordshire,12
+GoingAheadPrivate,200643R189106,2006,Slough,23
+GoingAheadPrivate,200643R236096,2006,Windsor and Maidenhead,16
+GoingAheadPrivate,200643W265056,2006,West Berkshire,10
+GoingAheadPrivate,200643W296096,2006,Wokingham,45
+GoingAheadPrivate,200643W368026,2006,Slough,15
+GoingAheadPrivate,200643W404036,2006,Slough,
+GoingAheadPrivate,2.00644E+12,2006,Southampton ,26
+GoingAheadPrivate,2.00644E+12,2006,Hampshire,15
+GoingAheadPrivate,2.00644E+12,2006,Hampshire,14
+GoingAheadPrivate,2.00644E+12,2006,Hampshire,20
+GoingAheadPrivate,2.00644E+12,2006,Hampshire,46
+GoingAheadPrivate,2.00644E+12,2006,Isle of Wight,13
+GoingAheadPrivate,2.00644E+12,2006,Hampshire,12
+GoingAheadPrivate,2.00644E+12,2006,Hampshire,27
+GoingAheadPrivate,2.00644E+12,2006,Hampshire,17
+GoingAheadPrivate,2.00644E+12,2006,Southampton ,12
+GoingAheadPrivate,200645EP87072,2006,Surrey,7
+GoingAheadPrivate,200645GU93490,2006,Surrey,
+GoingAheadPrivate,2.00646E+12,2006,Medway,9
+GoingAheadPrivate,2.00646E+12,2006,Kent,34
+GoingAheadPrivate,2.00647E+12,2006,West Sussex,20
+GoingAheadPrivate,200650B41G275,2006,Cornwall and Isles of Scilly,16
+GoingAheadPrivate,200650D21F255,2006,Devon,12
+GoingAheadPrivate,200650E41B103,2006,Plymouth,23
+GoingAheadPrivate,200650E52K465,2006,Plymouth,
+GoingAheadPrivate,2.00652E+12,2006,Bath and North East Somerset,31
+GoingAheadPrivate,2.00652E+12,2006,Somerset,13
+GoingAheadPrivate,2.00653E+12,2006,Gloucestershire,21
+GoingAheadPrivate,2.00653E+12,2006,Gloucestershire,38
+GoingAheadPrivate,2.00653E+12,2006,Gloucestershire,15
+GoingAheadPrivate,200654CS24106,2006,Wiltshire,10
+GoingAheadPrivate,2006556B02449,2006,Bournemouth,16
+GoingAheadPrivate,2006556B05142,2006,Bournemouth,37
+GoingAheadPrivate,2006556E00645,2006,Dorset,14
+GoingAheadPrivate,2006556E03425,2006,Dorset,21
+GoingAheadPrivate,2006556E03426,2006,Dorset,10
+GoingAheadPrivate,2006556E03629,2006,Dorset,8
+GoingAheadPrivate,2006556E04458,2006,Dorset,12
+GoingAheadPrivate,2006556E04915,2006,Dorset,16
+GoingAheadPrivate,2006556E05009,2006,Dorset,14
+GoingAheadPrivate,2006556P01655,2006,Poole,6
+GoingAheadPrivate,2006556P02702,2006,Poole,26
+GoingAheadPrivate,2006556P04420,2006,Poole,15
+GoingAheadPrivate,200701MM70424,2007,London,9
+GoingAheadPrivate,200701PL64620,2007,London,
+GoingAheadPrivate,200701YE80025,2007,London,
+GoingAheadPrivate,2.00703E+12,2007,Cumbria,33
+GoingAheadPrivate,200704AX07109,2007,Blackpool,28
+GoingAheadPrivate,200704DF07173,2007,Lancashire,49
+GoingAheadPrivate,200704DF07199,2007,Lancashire,14
+GoingAheadPrivate,200704FE07041,2007,Lancashire,13
+GoingAheadPrivate,200705AA14327,2007,Merseyside,9
+GoingAheadPrivate,200705AA17661,2007,Merseyside,20
+GoingAheadPrivate,200705BB19810,2007,Merseyside,12
+GoingAheadPrivate,200706C080505,2007,Manchester,12
+GoingAheadPrivate,200706C083553,2007,Manchester,21
+GoingAheadPrivate,200706G072009,2007,Tameside,11
+GoingAheadPrivate,200706Q074744,2007,Oldham,30
+GoingAheadPrivate,2.0071E+12,2007,Northumberland,10
+GoingAheadPrivate,2.0071E+12,2007,South Tyneside,13
+GoingAheadPrivate,2.0071E+12,2007,Gateshead,10
+GoingAheadPrivate,2.0071E+12,2007,Northumberland,11
+GoingAheadPrivate,2.0071E+12,2007,Newcastle upon Tyne,45
+GoingAheadPrivate,2.0071E+12,2007,Newcastle upon Tyne,14
+GoingAheadPrivate,2.0071E+12,2007,Northumberland,34
+GoingAheadPrivate,200711DJ02070,2007,Darlington,14
+GoingAheadPrivate,200711DJ14610,2007,Darlington,37
+GoingAheadPrivate,2.00712E+12,2007,North Yorkshire,50
+GoingAheadPrivate,2.00713E+12,2007,Bradford,67
+GoingAheadPrivate,200714A079707,2007,Doncaster,14
+GoingAheadPrivate,200714A235007,2007,Doncaster,
+GoingAheadPrivate,200714A262007,2007,Doncaster,26
+GoingAheadPrivate,200714B070607,2007,Barnsley,11
+GoingAheadPrivate,200714G015807,2007,Sheffield,18
+GoingAheadPrivate,200714G126907,2007,Sheffield,16
+GoingAheadPrivate,2007160A03770,2007,North East Lincolnshire,14
+GoingAheadPrivate,2007160B01990,2007,North Lincolnshire,12
+GoingAheadPrivate,2007160C04020,2007,East Riding of Yorkshire,15
+GoingAheadPrivate,2007160C06780,2007,East Riding of Yorkshire,17
+GoingAheadPrivate,2007160D06750,2007,Kingston Upon Hull,61
+GoingAheadPrivate,2007160D06790,2007,Kingston Upon Hull,14
+GoingAheadPrivate,2007170L42077,2007,Redcar and Cleveland,14
+GoingAheadPrivate,200720D183403,2007,Birmingham,
+GoingAheadPrivate,200720E038603,2007,Birmingham,17
+GoingAheadPrivate,200720E060403,2007,Birmingham,12
+GoingAheadPrivate,200720E175803,2007,Birmingham,21
+GoingAheadPrivate,200720F087003,2007,Birmingham,5
+GoingAheadPrivate,200720G033202,2007,Wolverhampton,13
+GoingAheadPrivate,200720K027702,2007,Sandwell,12
+GoingAheadPrivate,200720K051601,2007,Sandwell,13
+GoingAheadPrivate,200720K062502,2007,Sandwell,32
+GoingAheadPrivate,200720K082302,2007,Sandwell,6
+GoingAheadPrivate,200720M033803,2007,Coventry,14
+GoingAheadPrivate,200720M061003,2007,Coventry,
+GoingAheadPrivate,2.00722E+12,2007,Staffordshire,4
+GoingAheadPrivate,2.00722E+12,2007,Staffordshire,14
+GoingAheadPrivate,2.00722E+12,2007,Staffordshire,12
+GoingAheadPrivate,2.00722E+12,2007,Staffordshire,9
+GoingAheadPrivate,2.00722E+12,2007,Staffordshire,8
+GoingAheadPrivate,2.00722E+12,2007,Staffordshire,8
+GoingAheadPrivate,200722CA86573,2007,Worcestershire,53
+GoingAheadPrivate,200722CA86756,2007,Worcestershire,13
+GoingAheadPrivate,200722EA86311,2007,Herefordshire,5
+GoingAheadPrivate,200722FA86716,2007,Shropshire,11
+GoingAheadPrivate,200722FA87440,2007,Shropshire,14
+GoingAheadPrivate,200722GA86272,2007,Telford and Wrekin,26
+GoingAheadPrivate,2.00723E+12,2007,Warwickshire,
+GoingAheadPrivate,2.00723E+12,2007,Warwickshire,24
+GoingAheadPrivate,2.00723E+12,2007,Warwickshire,15
+GoingAheadPrivate,200730C000160,2007,Derbyshire,10
+GoingAheadPrivate,200730D000370,2007,Derby,
+GoingAheadPrivate,20073102A2203,2007,Nottinghamshire,51
+GoingAheadPrivate,20073102A3735,2007,Nottinghamshire,
+GoingAheadPrivate,20073102B0483,2007,Nottinghamshire,13
+GoingAheadPrivate,20073102B1593,2007,Nottinghamshire,38
+GoingAheadPrivate,20073102C1985,2007,Nottingham,36
+GoingAheadPrivate,20073102C4186,2007,Nottingham,12
+GoingAheadPrivate,200732B157807,2007,Lincolnshire,21
+GoingAheadPrivate,200732B303307,2007,Lincolnshire,5
+GoingAheadPrivate,2.00733E+12,2007,Leicestershire,18
+GoingAheadPrivate,2.00733E+12,2007,Leicestershire,14
+GoingAheadPrivate,2.00733E+12,2007,Leicestershire,35
+GoingAheadPrivate,200734WD58297,2007,Northamptonshire,15
+GoingAheadPrivate,2.00735E+12,2007,Cambridgeshire,34
+GoingAheadPrivate,2.00735E+12,2007,Cambridgeshire,15
+GoingAheadPrivate,2.00735E+12,2007,Cambridgeshire,64
+GoingAheadPrivate,2.00735E+12,2007,Peterborough,10
+GoingAheadPrivate,2.00735E+12,2007,Cambridgeshire,12
+GoingAheadPrivate,2.00735E+12,2007,Peterborough,31
+GoingAheadPrivate,2.00735E+12,2007,Peterborough,11
+GoingAheadPrivate,2.00736E+12,2007,Norfolk,17
+GoingAheadPrivate,2.00736E+12,2007,Norfolk,14
+GoingAheadPrivate,2.00736E+12,2007,Norfolk,25
+GoingAheadPrivate,2.00736E+12,2007,Norfolk,4
+GoingAheadPrivate,2007400B02056,2007,Bedford Borough Council,35
+GoingAheadPrivate,2007400B03124,2007,Bedford Borough Council,29
+GoingAheadPrivate,20074100B0269,2007,Hertfordshire,
+GoingAheadPrivate,200742I032201,2007,Essex,21
+GoingAheadPrivate,200742I091503,2007,Essex,37
+GoingAheadPrivate,200742I186505,2007,Essex,44
+GoingAheadPrivate,200742I234106,2007,Thurrock,48
+GoingAheadPrivate,200742I241306,2007,Essex,33
+GoingAheadPrivate,200742I247806,2007,Essex,16
+GoingAheadPrivate,200742I418910,2007,Essex,17
+GoingAheadPrivate,200743P108117,2007,Oxfordshire,22
+GoingAheadPrivate,200743P392087,2007,Oxfordshire,13
+GoingAheadPrivate,200743R045067,2007,Windsor and Maidenhead,17
+GoingAheadPrivate,200743R072047,2007,Bracknell Forest,37
+GoingAheadPrivate,200743R083097,2007,Windsor and Maidenhead,19
+GoingAheadPrivate,200743R103017,2007,Windsor and Maidenhead,25
+GoingAheadPrivate,200743W216047,2007,Reading,52
+GoingAheadPrivate,2.00744E+12,2007,Hampshire,75
+GoingAheadPrivate,2.00744E+12,2007,Hampshire,48
+GoingAheadPrivate,2.00744E+12,2007,Isle of Wight,27
+GoingAheadPrivate,2.00744E+12,2007,Hampshire,14
+GoingAheadPrivate,2.00744E+12,2007,Portsmouth,10
+GoingAheadPrivate,2.00744E+12,2007,Portsmouth,36
+GoingAheadPrivate,2.00744E+12,2007,Hampshire,18
+GoingAheadPrivate,2.00744E+12,2007,Hampshire,14
+GoingAheadPrivate,2.00744E+12,2007,Hampshire,9
+GoingAheadPrivate,2.00744E+12,2007,Hampshire,6
+GoingAheadPrivate,200745RE02577,2007,Surrey,13
+GoingAheadPrivate,2.00746E+12,2007,Medway,15
+GoingAheadPrivate,2.00746E+12,2007,Kent,15
+GoingAheadPrivate,2.00746E+12,2007,Kent,16
+GoingAheadPrivate,2.00746E+12,2007,Kent,9
+GoingAheadPrivate,2.00747E+12,2007,West Sussex,37
+GoingAheadPrivate,200750D21J060,2007,Devon,19
+GoingAheadPrivate,2.00752E+12,2007,City of Bristol,35
+GoingAheadPrivate,2.00752E+12,2007,City of Bristol,47
+GoingAheadPrivate,2.00752E+12,2007,South Gloucestershire,21
+GoingAheadPrivate,2.00753E+12,2007,Gloucestershire,12
+GoingAheadPrivate,2.00753E+12,2007,Gloucestershire,16
+GoingAheadPrivate,2.00753E+12,2007,Gloucestershire,70
+GoingAheadPrivate,200754DN29207,2007,Swindon,9
+GoingAheadPrivate,200754ED02407,2007,Wiltshire,20
+GoingAheadPrivate,200754ED04807,2007,Wiltshire,13
+GoingAheadPrivate,2007557B00029,2007,Bournemouth,17
+GoingAheadPrivate,2007557P03021,2007,Poole,44
+GoingAheadPrivate,2007557W03750,2007,Dorset,49
+GoingAheadPrivate,200801CW72366,2008,London,35
+GoingAheadPrivate,200801LX59174,2008,London,57
+GoingAheadPrivate,200801MM70366,2008,London,13
+GoingAheadPrivate,200801PL60591,2008,London,13
+GoingAheadPrivate,200801TX20026,2008,London,12
+GoingAheadPrivate,200801TX20350,2008,London,13
+GoingAheadPrivate,200801TX20591,2008,London,47
+GoingAheadPrivate,200801WW50327,2008,London,37
+GoingAheadPrivate,200801WW73209,2008,London,27
+GoingAheadPrivate,200801YR90338,2008,London,27
+GoingAheadPrivate,200801ZD30870,2008,London,18
+GoingAheadPrivate,200804DA08090,2008,Lancashire,13
+GoingAheadPrivate,200804FB08073,2008,Lancashire,10
+GoingAheadPrivate,200805AA24343,2008,Merseyside,14
+GoingAheadPrivate,200806A004165,2008,Manchester,26
+GoingAheadPrivate,200806F093950,2008,Salford,13
+GoingAheadPrivate,200806G094343,2008,Tameside,9
+GoingAheadPrivate,200806J098516,2008,Stockport,9
+GoingAheadPrivate,200806K002500,2008,Bolton,13
+GoingAheadPrivate,200806K090585,2008,Bolton,14
+GoingAheadPrivate,200806K098567,2008,Bolton,35
+GoingAheadPrivate,200806L099392,2008,Wigan,5
+GoingAheadPrivate,200806M007166,2008,Trafford,40
+GoingAheadPrivate,200806M007478,2008,Trafford,52
+GoingAheadPrivate,200806M099079,2008,Trafford,40
+GoingAheadPrivate,200806N003418,2008,Bury,8
+GoingAheadPrivate,200806N095660,2008,Bury,15
+GoingAheadPrivate,200806P002879,2008,Rochdale,12
+GoingAheadPrivate,2.00807E+12,2008,Warrington,42
+GoingAheadPrivate,2.0081E+12,2008,Newcastle upon Tyne,12
+GoingAheadPrivate,2.0081E+12,2008,Gateshead,11
+GoingAheadPrivate,2.0081E+12,2008,South Tyneside,63
+GoingAheadPrivate,2.0081E+12,2008,Northumberland,27
+GoingAheadPrivate,2.0081E+12,2008,Northumberland,39
+GoingAheadPrivate,2.0081E+12,2008,Newcastle upon Tyne,38
+GoingAheadPrivate,2.0081E+12,2008,Northumberland,12
+GoingAheadPrivate,2.00813E+12,2008,Leeds,24
+GoingAheadPrivate,2.00813E+12,2008,Kirklees,17
+GoingAheadPrivate,2008160B00800,2008,North Lincolnshire,20
+GoingAheadPrivate,2008160B02490,2008,North Lincolnshire,16
+GoingAheadPrivate,2008160B04660,2008,North Lincolnshire,37
+GoingAheadPrivate,2008160C02660,2008,East Riding of Yorkshire,10
+GoingAheadPrivate,2008160C02870,2008,East Riding of Yorkshire,14
+GoingAheadPrivate,2008160C02880,2008,East Riding of Yorkshire,80
+GoingAheadPrivate,2008160C03030,2008,East Riding of Yorkshire,10
+GoingAheadPrivate,2008160C06330,2008,East Riding of Yorkshire,15
+GoingAheadPrivate,2008160D06300,2008,Kingston Upon Hull,8
+GoingAheadPrivate,2008160D07650,2008,Kingston Upon Hull,69
+GoingAheadPrivate,200820G055201,2008,Wolverhampton,11
+GoingAheadPrivate,200820H046402,2008,Walsall,15
+GoingAheadPrivate,200820J080501,2008,Dudley,6
+GoingAheadPrivate,200820K015801,2008,Sandwell,16
+GoingAheadPrivate,200820K058102,2008,Sandwell,60
+GoingAheadPrivate,200820K066102,2008,Sandwell,11
+GoingAheadPrivate,200820M023001,2008,Coventry,29
+GoingAheadPrivate,200820M047302,2008,Coventry,16
+GoingAheadPrivate,200820M050402,2008,Coventry,16
+GoingAheadPrivate,2.00822E+12,2008,Staffordshire,9
+GoingAheadPrivate,200822FA87935,2008,Shropshire,15
+GoingAheadPrivate,2.00823E+12,2008,Warwickshire,8
+GoingAheadPrivate,2.00823E+12,2008,Warwickshire,12
+GoingAheadPrivate,200830A000439,2008,Derbyshire,20
+GoingAheadPrivate,200830B000419,2008,Derbyshire,4
+GoingAheadPrivate,200830C000510,2008,Derbyshire,13
+GoingAheadPrivate,20083102B2458,2008,Nottinghamshire,
+GoingAheadPrivate,20083102D0142,2008,Nottinghamshire,36
+GoingAheadPrivate,20083102D1257,2008,Nottinghamshire,25
+GoingAheadPrivate,20083102D1347,2008,Nottinghamshire,9
+GoingAheadPrivate,20083102D1722,2008,Nottinghamshire,11
+GoingAheadPrivate,20083102D3289,2008,Nottinghamshire,10
+GoingAheadPrivate,20083104C0206,2008,Nottingham,13
+GoingAheadPrivate,2.00833E+12,2008,Leicestershire,26
+GoingAheadPrivate,2.00833E+12,2008,Leicestershire,5
+GoingAheadPrivate,2.00833E+12,2008,Leicestershire,18
+GoingAheadPrivate,2.00835E+12,2008,Cambridgeshire,14
+GoingAheadPrivate,2.00835E+12,2008,Cambridgeshire,13
+GoingAheadPrivate,2.00835E+12,2008,Cambridgeshire,14
+GoingAheadPrivate,2.00835E+12,2008,Cambridgeshire,9
+GoingAheadPrivate,2.00835E+12,2008,Cambridgeshire,31
+GoingAheadPrivate,2.00836E+12,2008,Norfolk,45
+GoingAheadPrivate,2.00836E+12,2008,Norfolk,13
+GoingAheadPrivate,20084100B0396,2008,Hertfordshire,43
+GoingAheadPrivate,20084100C0529,2008,Hertfordshire,39
+GoingAheadPrivate,20084100D0877,2008,Hertfordshire,18
+GoingAheadPrivate,2.01E+266,2008,Hertfordshire,8
+GoingAheadPrivate,20084100F5004,2008,Hertfordshire,11
+GoingAheadPrivate,20084100J2458,2008,Hertfordshire,11
+GoingAheadPrivate,200842I193904,2008,Essex,11
+GoingAheadPrivate,200842I206306,2008,Essex,16
+GoingAheadPrivate,200842I350109,2008,Southend on Sea,38
+GoingAheadPrivate,200843N033058,2008,Buckinghamshire,18
+GoingAheadPrivate,200843N141078,2008,Buckinghamshire,12
+GoingAheadPrivate,200843N234068,2008,Buckinghamshire,8
+GoingAheadPrivate,200843P006058,2008,Oxfordshire,45
+GoingAheadPrivate,200843P017058,2008,Oxfordshire,11
+GoingAheadPrivate,200843P123078,2008,Oxfordshire,22
+GoingAheadPrivate,200843P221088,2008,Oxfordshire,37
+GoingAheadPrivate,200843P300058,2008,Oxfordshire,8
+GoingAheadPrivate,200843R095058,2008,Bracknell Forest,11
+GoingAheadPrivate,200843R126108,2008,Windsor and Maidenhead,14
+GoingAheadPrivate,200843R154108,2008,Windsor and Maidenhead,13
+GoingAheadPrivate,200843R189108,2008,Windsor and Maidenhead,17
+GoingAheadPrivate,200843R310108,2008,Slough,25
+GoingAheadPrivate,200843W272118,2008,Reading,50
+GoingAheadPrivate,2.00844E+12,2008,Southampton ,25
+GoingAheadPrivate,2.00844E+12,2008,Portsmouth,16
+GoingAheadPrivate,2.00844E+12,2008,Hampshire,23
+GoingAheadPrivate,2.00844E+12,2008,Hampshire,21
+GoingAheadPrivate,2.00844E+12,2008,Hampshire,14
+GoingAheadPrivate,2.00844E+12,2008,Hampshire,12
+GoingAheadPrivate,200845RU21109,2008,Surrey,66
+GoingAheadPrivate,200845WO21401,2008,Surrey,21
+GoingAheadPrivate,2.00846E+12,2008,Kent,
+GoingAheadPrivate,2.00846E+12,2008,Kent,13
+GoingAheadPrivate,200850AI3H005,2008,Cornwall and Isles of Scilly,34
+GoingAheadPrivate,200850D21B822,2008,Devon,56
+GoingAheadPrivate,200850DE2K011,2008,Devon,10
+GoingAheadPrivate,200850ED2N015,2008,Plymouth,
+GoingAheadPrivate,200850FT2K021,2008,Torbay,18
+GoingAheadPrivate,2.00852E+12,2008,Bath and North East Somerset,15
+GoingAheadPrivate,2.00852E+12,2008,City of Bristol,12
+GoingAheadPrivate,2.00852E+12,2008,South Gloucestershire,21
+GoingAheadPrivate,2.00852E+12,2008,South Gloucestershire,16
+GoingAheadPrivate,2.00853E+12,2008,Gloucestershire,20
+GoingAheadPrivate,2.00853E+12,2008,Gloucestershire,31
+GoingAheadPrivate,200854EF52408,2008,Wiltshire,11
+GoingAheadPrivate,200854EG10708,2008,Wiltshire,68
+GoingAheadPrivate,200854ES17708,2008,Wiltshire,9
+GoingAheadPrivate,2008558D01743,2008,Dorset,9
+GoingAheadPrivate,2008558D02009,2008,Dorset,15
+GoingAheadPrivate,2008558D03578,2008,Dorset,9
+GoingAheadPrivate,200901CW11170,2009,London,16
+GoingAheadPrivate,200901QK50448,2009,London,26
+GoingAheadPrivate,200901RY10184,2009,London,14
+GoingAheadPrivate,200901XH76849,2009,London,18
+GoingAheadPrivate,200901YE80502,2009,London,27
+GoingAheadPrivate,200904AL09061,2009,Lancashire,21
+GoingAheadPrivate,200904CK09198,2009,Lancashire,22
+GoingAheadPrivate,200905AA01699,2009,Merseyside,22
+GoingAheadPrivate,200905FF01141,2009,Merseyside,33
+GoingAheadPrivate,200906B010578,2009,Manchester,15
+GoingAheadPrivate,200906C020952,2009,Manchester,11
+GoingAheadPrivate,200906F017806,2009,Salford,9
+GoingAheadPrivate,200906G018566,2009,Tameside,15
+GoingAheadPrivate,200906G025519,2009,Tameside,39
+GoingAheadPrivate,200906J013676,2009,Stockport,11
+GoingAheadPrivate,200906J017992,2009,Stockport,11
+GoingAheadPrivate,200906J021739,2009,Stockport,13
+GoingAheadPrivate,200906L014835,2009,Wigan,4
+GoingAheadPrivate,200906L015453,2009,Wigan,14
+GoingAheadPrivate,200906M015811,2009,Trafford,38
+GoingAheadPrivate,200906N017110,2009,Bury,9
+GoingAheadPrivate,200906P024005,2009,Rochdale,21
+GoingAheadPrivate,2.0091E+12,2009,South Tyneside,31
+GoingAheadPrivate,2.0091E+12,2009,Gateshead,21
+GoingAheadPrivate,200911NF14429,2009,Durham,10
+GoingAheadPrivate,2.00912E+12,2009,York,14
+GoingAheadPrivate,2.00912E+12,2009,North Yorkshire,16
+GoingAheadPrivate,2.00913E+12,2009,Kirklees,14
+GoingAheadPrivate,200914B018509,2009,Barnsley,7
+GoingAheadPrivate,200914C057809,2009,Rotherham,11
+GoingAheadPrivate,200914K266509,2009,Sheffield,15
+GoingAheadPrivate,2009160A03280,2009,North East Lincolnshire,48
+GoingAheadPrivate,2009160A03460,2009,North East Lincolnshire,16
+GoingAheadPrivate,2009160A03840,2009,North East Lincolnshire,21
+GoingAheadPrivate,2009160D02980,2009,Kingston Upon Hull,25
+GoingAheadPrivate,2009160D03790,2009,Kingston Upon Hull,12
+GoingAheadPrivate,2009160D05960,2009,Kingston Upon Hull,36
+GoingAheadPrivate,2009170H10699,2009,Hartlepool,8
+GoingAheadPrivate,200920D234603,2009,Birmingham,17
+GoingAheadPrivate,200920E170602,2009,Birmingham,34
+GoingAheadPrivate,200920G017401,2009,Wolverhampton,22
+GoingAheadPrivate,200920H015501,2009,Walsall,17
+GoingAheadPrivate,200920L091901,2009,Solihull,14
+GoingAheadPrivate,200920M054601,2009,Coventry,35
+GoingAheadPrivate,2.00922E+12,2009,Staffordshire,39
+GoingAheadPrivate,2.00922E+12,2009,Staffordshire,42
+GoingAheadPrivate,2.00922E+12,2009,Staffordshire,40
+GoingAheadPrivate,2.00922E+12,2009,Staffordshire,10
+GoingAheadPrivate,2.00922E+12,2009,Staffordshire,15
+GoingAheadPrivate,2.00922E+12,2009,Staffordshire,14
+GoingAheadPrivate,2.00922E+12,2009,Staffordshire,67
+GoingAheadPrivate,200922C904898,2009,Worcestershire,35
+GoingAheadPrivate,200922F903861,2009,Shropshire,23
+GoingAheadPrivate,2.00923E+12,2009,Warwickshire,50
+GoingAheadPrivate,2.00923E+12,2009,Warwickshire,20
+GoingAheadPrivate,200930A000235,2009,Derbyshire,12
+GoingAheadPrivate,200930D000142,2009,Derby,18
+GoingAheadPrivate,20093102A0718,2009,Nottinghamshire,5
+GoingAheadPrivate,20093102A1582,2009,Nottinghamshire,15
+GoingAheadPrivate,20093102B1288,2009,Nottinghamshire,14
+GoingAheadPrivate,20093102B1529,2009,Nottinghamshire,20
+GoingAheadPrivate,20093102B2516,2009,Nottinghamshire,32
+GoingAheadPrivate,20093102C1561,2009,Nottingham,42
+GoingAheadPrivate,20093102C3001,2009,Nottingham,25
+GoingAheadPrivate,20093102D1978,2009,Nottinghamshire,14
+GoingAheadPrivate,20093102D2591,2009,Nottinghamshire,38
+GoingAheadPrivate,20093102D2688,2009,Nottinghamshire,12
+GoingAheadPrivate,20093104A1917,2009,Nottinghamshire,6
+GoingAheadPrivate,200932B106609,2009,Lincolnshire,75
+GoingAheadPrivate,200932C243309,2009,Lincolnshire,5
+GoingAheadPrivate,200932D285909,2009,Lincolnshire,15
+GoingAheadPrivate,2.00933E+12,2009,Leicestershire,15
+GoingAheadPrivate,2.00933E+12,2009,Leicestershire,24
+GoingAheadPrivate,2.00933E+12,2009,Leicestershire,37
+GoingAheadPrivate,2.00933E+12,2009,Leicestershire,15
+GoingAheadPrivate,2.00933E+12,2009,Leicestershire,10
+GoingAheadPrivate,2.00933E+12,2009,Leicestershire,15
+GoingAheadPrivate,2.00933E+12,2009,Leicestershire,40
+GoingAheadPrivate,2.00935E+12,2009,Peterborough,55
+GoingAheadPrivate,2.00935E+12,2009,Cambridgeshire,50
+GoingAheadPrivate,2.00935E+12,2009,Cambridgeshire,58
+GoingAheadPrivate,2.00935E+12,2009,Peterborough,16
+GoingAheadPrivate,2.00935E+12,2009,Cambridgeshire,35
+GoingAheadPrivate,2.00935E+12,2009,Cambridgeshire,7
+GoingAheadPrivate,2.00935E+12,2009,Peterborough,57
+GoingAheadPrivate,2.00935E+12,2009,Cambridgeshire,20
+GoingAheadPrivate,2.00936E+12,2009,Norfolk,8
+GoingAheadPrivate,200937B042951,2009,Suffolk,39
+GoingAheadPrivate,20094100A0457,2009,Hertfordshire,9
+GoingAheadPrivate,20094100J0067,2009,Hertfordshire,8
+GoingAheadPrivate,20094100K0384,2009,Hertfordshire,34
+GoingAheadPrivate,200942I051002,2009,Thurrock,10
+GoingAheadPrivate,200942I213006,2009,Southend on Sea,25
+GoingAheadPrivate,200942I220007,2009,Thurrock,
+GoingAheadPrivate,200942I225707,2009,Essex,
+GoingAheadPrivate,200942I324310,2009,Essex,11
+GoingAheadPrivate,200943P134099,2009,Oxfordshire,16
+GoingAheadPrivate,200943P232039,2009,Oxfordshire,39
+GoingAheadPrivate,200943P325109,2009,Oxfordshire,19
+GoingAheadPrivate,200943R233109,2009,Windsor and Maidenhead,15
+GoingAheadPrivate,200943S017059,2009,Milton Keynes,51
+GoingAheadPrivate,200943W032049,2009,West Berkshire,10
+GoingAheadPrivate,200943W123099,2009,West Berkshire,11
+GoingAheadPrivate,200943W126109,2009,West Berkshire,9
+GoingAheadPrivate,200943W182119,2009,Reading,15
+GoingAheadPrivate,200943W197079,2009,West Berkshire,11
+GoingAheadPrivate,2.00944E+12,2009,Southampton ,37
+GoingAheadPrivate,2.00944E+12,2009,Hampshire,22
+GoingAheadPrivate,2.00944E+12,2009,Hampshire,15
+GoingAheadPrivate,2.00944E+12,2009,Hampshire,10
+GoingAheadPrivate,2.00944E+12,2009,Hampshire,36
+GoingAheadPrivate,200945EL36170,2009,Surrey,51
+GoingAheadPrivate,200945RE39516,2009,Surrey,32
+GoingAheadPrivate,200945WA38579,2009,Surrey,47
+GoingAheadPrivate,200945WA44562,2009,Surrey,8
+GoingAheadPrivate,200945WO40846,2009,Surrey,7
+GoingAheadPrivate,2.00946E+12,2009,Kent,13
+GoingAheadPrivate,2.00946E+12,2009,Kent,27
+GoingAheadPrivate,2.00946E+12,2009,Kent,28
+GoingAheadPrivate,2.00946E+12,2009,Kent,16
+GoingAheadPrivate,2.00947E+12,2009,Brighton and Hove,43
+GoingAheadPrivate,2.00947E+12,2009,West Sussex,23
+GoingAheadPrivate,200950AH2E004,2009,Cornwall and Isles of Scilly,12
+GoingAheadPrivate,200950DE2E024,2009,Devon,50
+GoingAheadPrivate,200950EL2C009,2009,Plymouth,13
+GoingAheadPrivate,200950GA2R002,2009,Cornwall and Isles of Scilly,6
+GoingAheadPrivate,2.00952E+12,2009,City of Bristol,11
+GoingAheadPrivate,2.00953E+12,2009,Gloucestershire,31
+GoingAheadPrivate,200954DC44109,2009,Swindon,42
+GoingAheadPrivate,200954DE04109,2009,Swindon,23
+GoingAheadPrivate,2009559C01629,2009,Poole,7
+GoingAheadPrivate,2009559C03560,2009,Poole,15
+GoingAheadPrivate,2009559C03576,2009,Bournemouth,24
+GoingAheadPrivate,2009559D01639,2009,Dorset,60
+GoingAheadPrivate,2009559D04386,2009,Dorset,13
+GoingAheadPrivate,201001CW10867,2010,London,14
+GoingAheadPrivate,201001FH10326,2010,London,15
+GoingAheadPrivate,201001GD10657,2010,London,13
+GoingAheadPrivate,201001LX50695,2010,London,25
+GoingAheadPrivate,201001MM70654,2010,London,42
+GoingAheadPrivate,201001MM70851,2010,London,55
+GoingAheadPrivate,201001QK50351,2010,London,45
+GoingAheadPrivate,201001RG40658,2010,London,24
+GoingAheadPrivate,201001RY10393,2010,London,14
+GoingAheadPrivate,201001YR90521,2010,London,
+GoingAheadPrivate,2.01003E+12,2010,Cumbria,9
+GoingAheadPrivate,201004AL10115,2010,Lancashire,51
+GoingAheadPrivate,201004AL10182,2010,Lancashire,14
+GoingAheadPrivate,201004BA10176,2010,Lancashire,49
+GoingAheadPrivate,201004DL10104,2010,Lancashire,52
+GoingAheadPrivate,201005AA03147,2010,Merseyside,17
+GoingAheadPrivate,201005AA03402,2010,Merseyside,50
+GoingAheadPrivate,201005AA07114,2010,Merseyside,15
+GoingAheadPrivate,201005EE04160,2010,Merseyside,18
+GoingAheadPrivate,201005EE05393,2010,Merseyside,56
+GoingAheadPrivate,201006F030915,2010,Salford,14
+GoingAheadPrivate,201006F034599,2010,Salford,6
+GoingAheadPrivate,201006J033902,2010,Stockport,12
+GoingAheadPrivate,201006M030361,2010,Trafford,17
+GoingAheadPrivate,201006P034089,2010,Rochdale,11
+GoingAheadPrivate,201006P034860,2010,Rochdale,13
+GoingAheadPrivate,201006P036481,2010,Rochdale,12
+GoingAheadPrivate,201006Q031341,2010,Oldham,12
+GoingAheadPrivate,201006Q031359,2010,Oldham,5
+GoingAheadPrivate,201006Q035133,2010,Oldham,4
+GoingAheadPrivate,2.01007E+12,2010,Cheshire East,26
+GoingAheadPrivate,2.01012E+12,2010,North Yorkshire,35
+GoingAheadPrivate,2.01012E+12,2010,York,12
+GoingAheadPrivate,2.01013E+12,2010,Bradford,8
+GoingAheadPrivate,2.01013E+12,2010,Bradford,8
+GoingAheadPrivate,2.01013E+12,2010,Bradford,8
+GoingAheadPrivate,2.01013E+12,2010,Bradford,7
+GoingAheadPrivate,2.01013E+12,2010,Wakefield,8
+GoingAheadPrivate,201014A054110,2010,Doncaster,55
+GoingAheadPrivate,201014A163910,2010,Doncaster,63
+GoingAheadPrivate,201014K260110,2010,Sheffield,11
+GoingAheadPrivate,2010160A00771,2010,North East Lincolnshire,11
+GoingAheadPrivate,2010160A01461,2010,North East Lincolnshire,14
+GoingAheadPrivate,2010160B01951,2010,North Lincolnshire,7
+GoingAheadPrivate,2010160C05771,2010,East Riding of Yorkshire,16
+GoingAheadPrivate,2010160D04181,2010,Kingston Upon Hull,15
+GoingAheadPrivate,2010160D05371,2010,Kingston Upon Hull,12
+GoingAheadPrivate,2010160D05641,2010,Kingston Upon Hull,24
+GoingAheadPrivate,2010160D05691,2010,Kingston Upon Hull,11
+GoingAheadPrivate,2010160D05781,2010,Kingston Upon Hull,13
+GoingAheadPrivate,201020H010200,2010,Walsall,13
+GoingAheadPrivate,201020K005450,2010,Sandwell,12
+GoingAheadPrivate,201020K005780,2010,Sandwell,7
+GoingAheadPrivate,201020L007160,2010,Solihull,17
+GoingAheadPrivate,201020L620210,2010,Solihull,38
+GoingAheadPrivate,201020M008850,2010,Coventry,11
+GoingAheadPrivate,201020N016640,2010,Birmingham,39
+GoingAheadPrivate,201020S016900,2010,Birmingham,15
+GoingAheadPrivate,201020S019010,2010,Birmingham,12
+GoingAheadPrivate,201020S040970,2010,Birmingham,33
+GoingAheadPrivate,201020T014110,2010,Birmingham,30
+GoingAheadPrivate,201020T043620,2010,Birmingham,15
+GoingAheadPrivate,2.01021E+12,2010,Staffordshire,12
+GoingAheadPrivate,2.01021E+12,2010,Staffordshire,10
+GoingAheadPrivate,2.01021E+12,2010,Staffordshire,21
+GoingAheadPrivate,2.01021E+12,2010,Staffordshire,9
+GoingAheadPrivate,2.01021E+12,2010,Stoke on Trent,8
+GoingAheadPrivate,2.01021E+12,2010,Staffordshire,11
+GoingAheadPrivate,2.01023E+12,2010,Warwickshire,6
+GoingAheadPrivate,2.01023E+12,2010,Warwickshire,46
+GoingAheadPrivate,2.01023E+12,2010,Warwickshire,16
+GoingAheadPrivate,201030D000690,2010,Derby,16
+GoingAheadPrivate,20103102A1641,2010,Nottinghamshire,11
+GoingAheadPrivate,20103102A2385,2010,Nottinghamshire,22
+GoingAheadPrivate,20103102B1585,2010,Nottinghamshire,13
+GoingAheadPrivate,20103102B2459,2010,Nottinghamshire,19
+GoingAheadPrivate,20103102D1111,2010,Nottinghamshire,17
+GoingAheadPrivate,20103102D1164,2010,Nottinghamshire,14
+GoingAheadPrivate,201032B242310,2010,Lincolnshire,48
+GoingAheadPrivate,201032C197910,2010,Lincolnshire,16
+GoingAheadPrivate,201032D309910,2010,Lincolnshire,21
+GoingAheadPrivate,2.01033E+12,2010,Leicestershire,25
+GoingAheadPrivate,2.01033E+12,2010,Leicestershire,33
+GoingAheadPrivate,2.01033E+12,2010,Leicestershire,8
+GoingAheadPrivate,2.01033E+12,2010,Leicestershire,19
+GoingAheadPrivate,2.01033E+12,2010,Leicestershire,25
+GoingAheadPrivate,2.01035E+12,2010,Peterborough,19
+GoingAheadPrivate,2.01035E+12,2010,Cambridgeshire,14
+GoingAheadPrivate,2.01035E+12,2010,Cambridgeshire,24
+GoingAheadPrivate,2.01035E+12,2010,Cambridgeshire,66
+GoingAheadPrivate,2.01035E+12,2010,Peterborough,41
+GoingAheadPrivate,2.01035E+12,2010,Cambridgeshire,14
+GoingAheadPrivate,2.01035E+12,2010,Cambridgeshire,39
+GoingAheadPrivate,2.01035E+12,2010,Cambridgeshire,34
+GoingAheadPrivate,2.01035E+12,2010,Cambridgeshire,35
+GoingAheadPrivate,2.01036E+12,2010,Norfolk,9
+GoingAheadPrivate,2.01036E+12,2010,Norfolk,13
+GoingAheadPrivate,201037G029181,2010,Suffolk,20
+GoingAheadPrivate,201037L018226,2010,Suffolk,10
+GoingAheadPrivate,2010400D01779,2010,Central Bedfordshire,7
+GoingAheadPrivate,20104100A0353,2010,Hertfordshire,21
+GoingAheadPrivate,20104100D0371,2010,Hertfordshire,51
+GoingAheadPrivate,20104100J0207,2010,Hertfordshire,79
+GoingAheadPrivate,20104100K0325,2010,Hertfordshire,48
+GoingAheadPrivate,201043P143110,2010,Oxfordshire,24
+GoingAheadPrivate,201043P325090,2010,Oxfordshire,18
+GoingAheadPrivate,201043W117080,2010,Reading,20
+GoingAheadPrivate,2.01044E+12,2010,Hampshire,15
+GoingAheadPrivate,2.01044E+12,2010,Hampshire,13
+GoingAheadPrivate,2.01044E+12,2010,Portsmouth,18
+GoingAheadPrivate,2.01044E+12,2010,Southampton ,30
+GoingAheadPrivate,2.01044E+12,2010,Hampshire,15
+GoingAheadPrivate,2.01044E+12,2010,Hampshire,31
+GoingAheadPrivate,2.01044E+12,2010,Hampshire,11
+GoingAheadPrivate,2.01044E+12,2010,Hampshire,11
+GoingAheadPrivate,2.01044E+12,2010,Hampshire,16
+GoingAheadPrivate,2.01044E+12,2010,Portsmouth,11
+GoingAheadPrivate,2.01044E+12,2010,Hampshire,21
+GoingAheadPrivate,2.01046E+12,2010,Kent,26
+GoingAheadPrivate,2.01047E+12,2010,West Sussex,14
+GoingAheadPrivate,2.01052E+12,2010,Somerset,38
+GoingAheadPrivate,2.01052E+12,2010,Bath and North East Somerset,40
+GoingAheadPrivate,2.01052E+12,2010,North Somerset,27
+GoingAheadPrivate,2.01052E+12,2010,South Gloucestershire,42
+GoingAheadPrivate,2.01052E+12,2010,South Gloucestershire,12
+GoingAheadPrivate,2.01053E+12,2010,Gloucestershire,6
+GoingAheadPrivate,2.01053E+12,2010,Gloucestershire,63
+GoingAheadPrivate,2.01053E+12,2010,Gloucestershire,21
+GoingAheadPrivate,2.01053E+12,2010,Gloucestershire,29
+GoingAheadPrivate,201054DW30510,2010,Swindon,30
+GoingAheadPrivate,201054EC35210,2010,Wiltshire,10
+GoingAheadPrivate,201054ED12010,2010,Wiltshire,8
+GoingAheadPrivate,201054EU42110,2010,Wiltshire,13
+GoingAheadPrivate,2010550C27897,2010,Bournemouth,33
+GoingAheadPrivate,2010550C30307,2010,Poole,51
+GoingAheadPrivate,2010550C36109,2010,Poole,62
+GoingAheadPrivate,2010550D32427,2010,Dorset,19
+GoingAheadPrivate,2011201101LX50327,2011,London,35
+GoingAheadPrivate,2011201101LX50478,2011,London,11
+GoingAheadPrivate,2011201101TB00755,2011,London,18
+GoingAheadPrivate,2011201101ZD30390,2011,London,14
+GoingAheadPrivate,2011201101ZD30689,2011,London,30
+GoingAheadPrivate,2011201101ZD31017,2011,London,31
+GoingAheadPrivate,2011201101ZT80234,2011,London,47
+GoingAheadPrivate,2.0112E+16,2011,Cumbria,11
+GoingAheadPrivate,2.0112E+16,2011,Cumbria,49
+GoingAheadPrivate,2011201104DA11070,2011,Lancashire,25
+GoingAheadPrivate,2011201105AA01541,2011,Merseyside,13
+GoingAheadPrivate,2011201106C048678,2011,Manchester,30
+GoingAheadPrivate,2011201106CM52582,2011,Manchester,51
+GoingAheadPrivate,2011201106G044455,2011,Tameside,8
+GoingAheadPrivate,2011201106J048412,2011,Stockport,8
+GoingAheadPrivate,2011201106P045387,2011,Rochdale,32
+GoingAheadPrivate,2011201106Q044435,2011,Oldham,5
+GoingAheadPrivate,2.0112E+16,2011,Northumberland,43
+GoingAheadPrivate,2.0112E+16,2011,North Yorkshire,40
+GoingAheadPrivate,2.0112E+16,2011,North Yorkshire,52
+GoingAheadPrivate,2.0112E+16,2011,Calderdale,41
+GoingAheadPrivate,2.0112E+16,2011,Leeds,13
+GoingAheadPrivate,2.0112E+16,2011,Wakefield,40
+GoingAheadPrivate,2011201114A128911,2011,Doncaster,22
+GoingAheadPrivate,2011201114A207011,2011,Doncaster,16
+GoingAheadPrivate,2011201114B066011,2011,Barnsley,19
+GoingAheadPrivate,20112011160A02481,2011,North East Lincolnshire,10
+GoingAheadPrivate,20112011160B02661,2011,North Lincolnshire,15
+GoingAheadPrivate,20112011160C04121,2011,East Riding of Yorkshire,10
+GoingAheadPrivate,20112011160C08701,2011,East Riding of Yorkshire,55
+GoingAheadPrivate,20112011160D03081,2011,Kingston Upon Hull,-1
+GoingAheadPrivate,20112011170H11141,2011,Hartlepool,16
+GoingAheadPrivate,2011201120K007291,2011,Sandwell,21
+GoingAheadPrivate,2011201120K008761,2011,Sandwell,10
+GoingAheadPrivate,2011201120M011271,2011,Coventry,36
+GoingAheadPrivate,2011201120M012741,2011,Coventry,37
+GoingAheadPrivate,2011201120N033091,2011,Birmingham,29
+GoingAheadPrivate,2011201120N063331,2011,Birmingham,30
+GoingAheadPrivate,2011201120S021611,2011,Birmingham,15
+GoingAheadPrivate,2011201120S024731,2011,Birmingham,43
+GoingAheadPrivate,2011201120T041791,2011,Birmingham,36
+GoingAheadPrivate,2011201120T061781,2011,Birmingham,16
+GoingAheadPrivate,2.0112E+16,2011,Stoke on Trent,18
+GoingAheadPrivate,2.0112E+16,2011,Staffordshire,23
+GoingAheadPrivate,2.0112E+16,2011,Staffordshire,15
+GoingAheadPrivate,2.0112E+16,2011,Staffordshire,34
+GoingAheadPrivate,2.0112E+16,2011,Staffordshire,24
+GoingAheadPrivate,2.0112E+16,2011,Staffordshire,10
+GoingAheadPrivate,2.0112E+16,2011,Stoke on Trent,12
+GoingAheadPrivate,2.0112E+16,2011,Staffordshire,27
+GoingAheadPrivate,2.0112E+16,2011,Staffordshire,-1
+GoingAheadPrivate,201120112110X1930,2011,Staffordshire,19
+GoingAheadPrivate,2011201122C104241,2011,Worcestershire,47
+GoingAheadPrivate,2011201122E104988,2011,Herefordshire,14
+GoingAheadPrivate,2.0112E+16,2011,Warwickshire,25
+GoingAheadPrivate,2.0112E+16,2011,Warwickshire,13
+GoingAheadPrivate,2.0112E+16,2011,Warwickshire,8
+GoingAheadPrivate,2011201130D000672,2011,Derby,16
+GoingAheadPrivate,2011201131A176711,2011,Nottinghamshire,27
+GoingAheadPrivate,2011201131A207411,2011,Nottinghamshire,31
+GoingAheadPrivate,2011201131B134611,2011,Nottinghamshire,15
+GoingAheadPrivate,2011201131B244411,2011,Nottinghamshire,16
+GoingAheadPrivate,2011201131C254311,2011,Nottingham,48
+GoingAheadPrivate,2011201132B344211,2011,Lincolnshire,-1
+GoingAheadPrivate,2011201132N202511,2011,Lincolnshire,57
+GoingAheadPrivate,2011201132N228611,2011,Lincolnshire,46
+GoingAheadPrivate,2.0112E+16,2011,Leicestershire,15
+GoingAheadPrivate,2.0112E+16,2011,Leicestershire,9
+GoingAheadPrivate,2.0112E+16,2011,Leicestershire,56
+GoingAheadPrivate,2.0112E+16,2011,Leicestershire,21
+GoingAheadPrivate,2.0112E+16,2011,Cambridgeshire,20
+GoingAheadPrivate,2.0112E+16,2011,Cambridgeshire,43
+GoingAheadPrivate,2.0112E+16,2011,Peterborough,16
+GoingAheadPrivate,2.0112E+16,2011,Cambridgeshire,28
+GoingAheadPrivate,2.0112E+16,2011,Peterborough,24
+GoingAheadPrivate,2.0112E+16,2011,Cambridgeshire,29
+GoingAheadPrivate,2.0112E+16,2011,Cambridgeshire,23
+GoingAheadPrivate,2.0112E+16,2011,Norfolk,33
+GoingAheadPrivate,2.0112E+16,2011,Norfolk,12
+GoingAheadPrivate,2.0112E+16,2011,Norfolk,35
+GoingAheadPrivate,2.0112E+16,2011,Norfolk,22
+GoingAheadPrivate,2.0112E+16,2011,Norfolk,20
+GoingAheadPrivate,2011201136T110082,2011,Norfolk,63
+GoingAheadPrivate,2.0112E+16,2011,Suffolk,7
+GoingAheadPrivate,20112011400B00382,2011,Bedford Borough Council,18
+GoingAheadPrivate,20112011400B00927,2011,Bedford Borough Council,18
+GoingAheadPrivate,20112011400D00644,2011,Central Bedfordshire,13
+GoingAheadPrivate,20112011400DA0079,2011,Central Bedfordshire,22
+GoingAheadPrivate,201120114100C0616,2011,Hertfordshire,50
+GoingAheadPrivate,201120114100C0624,2011,Hertfordshire,20
+GoingAheadPrivate,201120114100D0500,2011,Hertfordshire,10
+GoingAheadPrivate,201120114100D0668,2011,Hertfordshire,45
+GoingAheadPrivate,201120114100K0191,2011,Hertfordshire,6
+GoingAheadPrivate,2011201142I050602,2011,Southend on Sea,15
+GoingAheadPrivate,2011201143N054081,2011,Buckinghamshire,45
+GoingAheadPrivate,2011201143N069121,2011,Buckinghamshire,26
+GoingAheadPrivate,2011201143N190101,2011,Buckinghamshire,38
+GoingAheadPrivate,2011201143P017081,2011,Oxfordshire,11
+GoingAheadPrivate,2011201143P025081,2011,Oxfordshire,8
+GoingAheadPrivate,2011201143R013091,2011,Slough,22
+GoingAheadPrivate,2011201143R074051,2011,Windsor and Maidenhead,13
+GoingAheadPrivate,2011201143R082091,2011,Bracknell Forest,29
+GoingAheadPrivate,2011201143R195021,2011,Windsor and Maidenhead,19
+GoingAheadPrivate,2011201143R216121,2011,Wokingham,15
+GoingAheadPrivate,2011201143S013071,2011,Milton Keynes,23
+GoingAheadPrivate,2011201143S032051,2011,Milton Keynes,9
+GoingAheadPrivate,2011201143S035031,2011,Milton Keynes,16
+GoingAheadPrivate,2011201143W030071,2011,Reading,7
+GoingAheadPrivate,2011201143W159091,2011,Reading,14
+GoingAheadPrivate,2.0112E+16,2011,Hampshire,23
+GoingAheadPrivate,2.0112E+16,2011,Hampshire,13
+GoingAheadPrivate,2.0112E+16,2011,Southampton ,64
+GoingAheadPrivate,2.0112E+16,2011,Portsmouth,16
+GoingAheadPrivate,2.0112E+16,2011,Isle of Wight,36
+GoingAheadPrivate,2.0112E+16,2011,Hampshire,16
+GoingAheadPrivate,2.0112E+16,2011,Hampshire,15
+GoingAheadPrivate,2011201145RE59365,2011,Surrey,16
+GoingAheadPrivate,2011201145RE64569,2011,Surrey,11
+GoingAheadPrivate,2011201145WO58758,2011,Surrey,44
+GoingAheadPrivate,2.0112E+16,2011,Medway,15
+GoingAheadPrivate,2.0112E+16,2011,Kent,43
+GoingAheadPrivate,2.0112E+16,2011,Kent,10
+GoingAheadPrivate,2.0112E+16,2011,Kent,42
+GoingAheadPrivate,2.0112E+16,2011,Kent,15
+GoingAheadPrivate,2.0112E+16,2011,Medway,13
+GoingAheadPrivate,2011201150BT2D012,2011,Cornwall and Isles of Scilly,30
+GoingAheadPrivate,2011201150BW3R010,2011,Cornwall and Isles of Scilly,10
+GoingAheadPrivate,2011201150DE2K017,2011,Devon,32
+GoingAheadPrivate,2.0112E+16,2011,Somerset,13
+GoingAheadPrivate,2.0112E+16,2011,Somerset,14
+GoingAheadPrivate,2.0112E+16,2011,City of Bristol,31
+GoingAheadPrivate,2.0112E+16,2011,City of Bristol,14
+GoingAheadPrivate,2.0112E+16,2011,City of Bristol,20
+GoingAheadPrivate,2.0112E+16,2011,South Gloucestershire,53
+GoingAheadPrivate,2.0112E+16,2011,City of Bristol,45
+GoingAheadPrivate,2.0112E+16,2011,Gloucestershire,36
+GoingAheadPrivate,2.0112E+16,2011,Gloucestershire,27
+GoingAheadPrivate,2.0112E+16,2011,Gloucestershire,35
+GoingAheadPrivate,2.0112E+16,2011,Gloucestershire,18
+GoingAheadPrivate,2.0112E+16,2011,Swindon,21
+GoingAheadPrivate,20112011551C09339,2011,Poole,31
+GoingAheadPrivate,20112011551D18371,2011,Dorset,14
+GoingAheadPrivate,20112011551D23118,2011,Dorset,63
+GoingAheadPrivate,2012201201CW11223,2012,London,41
+GoingAheadPrivate,2012201201KG70013,2012,London,8
+GoingAheadPrivate,2012201201LX50357,2012,London,15
+GoingAheadPrivate,2012201201MM70503,2012,London,38
+GoingAheadPrivate,2012201201PY20166,2012,London,25
+GoingAheadPrivate,2012201201RG40272,2012,London,42
+GoingAheadPrivate,2012201201TB01233,2012,London,52
+GoingAheadPrivate,2012201201XH30208,2012,London,36
+GoingAheadPrivate,2012201201ZD30055,2012,London,44
+GoingAheadPrivate,2012201204AN12043,2012,Blackpool,49
+GoingAheadPrivate,2012201204AX12064,2012,Blackpool,8
+GoingAheadPrivate,2012201204CJ12235,2012,Lancashire,32
+GoingAheadPrivate,2012201204CL12129,2012,Lancashire,9
+GoingAheadPrivate,2012201204EA12073,2012,Blackburn with Darwen,22
+GoingAheadPrivate,2012201204FJ12027,2012,Lancashire,12
+GoingAheadPrivate,2012201205AA02995,2012,Merseyside,27
+GoingAheadPrivate,2012201205BB02231,2012,Merseyside,31
+GoingAheadPrivate,2012201205BB03900,2012,Merseyside,30
+GoingAheadPrivate,2012201205DD04297,2012,Merseyside,8
+GoingAheadPrivate,2012201206A063013,2012,Manchester,47
+GoingAheadPrivate,2012201206L060859,2012,Wigan,23
+GoingAheadPrivate,2012201206L062299,2012,Wigan,7
+GoingAheadPrivate,2.0122E+16,2012,Warrington,19
+GoingAheadPrivate,2.0122E+16,2012,Warrington,17
+GoingAheadPrivate,2.0122E+16,2012,Cheshire East,17
+GoingAheadPrivate,2.0122E+16,2012,Northumberland,9
+GoingAheadPrivate,2.0122E+16,2012,Newcastle upon Tyne,58
+GoingAheadPrivate,2.0122E+16,2012,Leeds,17
+GoingAheadPrivate,2.0122E+16,2012,Kirklees,22
+GoingAheadPrivate,2.0122E+16,2012,Leeds,42
+GoingAheadPrivate,2.0122E+16,2012,Wakefield,21
+GoingAheadPrivate,2.0122E+16,2012,Bradford,16
+GoingAheadPrivate,2.0122E+16,2012,Leeds,29
+GoingAheadPrivate,2012201214A079712,2012,Doncaster,10
+GoingAheadPrivate,2012201214C116212,2012,Rotherham,33
+GoingAheadPrivate,2012201214K121112,2012,Sheffield,7
+GoingAheadPrivate,2012201214K196412,2012,Sheffield,51
+GoingAheadPrivate,20122012160A03971,2012,North East Lincolnshire,41
+GoingAheadPrivate,20122012160B01671,2012,North Lincolnshire,13
+GoingAheadPrivate,20122012160B03121,2012,North Lincolnshire,24
+GoingAheadPrivate,20122012160C01371,2012,East Riding of Yorkshire,54
+GoingAheadPrivate,20122012160C05051,2012,East Riding of Yorkshire,17
+GoingAheadPrivate,20122012160C05551,2012,East Riding of Yorkshire,51
+GoingAheadPrivate,20122012160C06771,2012,East Riding of Yorkshire,60
+GoingAheadPrivate,20122012160D00411,2012,Kingston Upon Hull,25
+GoingAheadPrivate,20122012160D02581,2012,Kingston Upon Hull,55
+GoingAheadPrivate,2012201220J003552,2012,Dudley,16
+GoingAheadPrivate,2012201220K008752,2012,Sandwell,27
+GoingAheadPrivate,2012201220M014772,2012,Coventry,28
+GoingAheadPrivate,2012201220W010202,2012,Birmingham,31
+GoingAheadPrivate,2.0122E+16,2012,Staffordshire,6
+GoingAheadPrivate,2.0122E+16,2012,Staffordshire,10
+GoingAheadPrivate,2.0122E+16,2012,Staffordshire,42
+GoingAheadPrivate,2.0122E+16,2012,Staffordshire,26
+GoingAheadPrivate,2.0122E+16,2012,Stoke on Trent,26
+GoingAheadPrivate,2.0122E+16,2012,Staffordshire,30
+GoingAheadPrivate,2.0122E+16,2012,Staffordshire,38
+GoingAheadPrivate,2012201222F201144,2012,Shropshire,14
+GoingAheadPrivate,2.0122E+16,2012,Warwickshire,10
+GoingAheadPrivate,2.0122E+16,2012,Warwickshire,25
+GoingAheadPrivate,2012201230B001624,2012,Derbyshire,9
+GoingAheadPrivate,2012201230B002254,2012,Derbyshire,26
+GoingAheadPrivate,2012201231C139612,2012,Nottingham,14
+GoingAheadPrivate,2012201231C236712,2012,Nottingham,14
+GoingAheadPrivate,2012201231D105412,2012,Nottinghamshire,33
+GoingAheadPrivate,2012201232B266812,2012,Lincolnshire,19
+GoingAheadPrivate,2.0122E+16,2012,Leicestershire,14
+GoingAheadPrivate,2.0122E+16,2012,Leicestershire,37
+GoingAheadPrivate,2.0122E+16,2012,Leicestershire,16
+GoingAheadPrivate,2.0122E+16,2012,Leicestershire,16
+GoingAheadPrivate,2.0122E+16,2012,Leicestershire,10
+GoingAheadPrivate,2.0122E+16,2012,Leicestershire,17
+GoingAheadPrivate,2.0122E+16,2012,Leicestershire,20
+GoingAheadPrivate,2.0122E+16,2012,Leicestershire,18
+GoingAheadPrivate,2.0122E+16,2012,Leicestershire,20
+GoingAheadPrivate,2012201234NW32262,2012,Northamptonshire,37
+GoingAheadPrivate,2.0122E+16,2012,Cambridgeshire,16
+GoingAheadPrivate,2.0122E+16,2012,Cambridgeshire,17
+GoingAheadPrivate,2.0122E+16,2012,Cambridgeshire,45
+GoingAheadPrivate,2.0122E+16,2012,Cambridgeshire,35
+GoingAheadPrivate,2.0122E+16,2012,Peterborough,59
+GoingAheadPrivate,2.0122E+16,2012,Peterborough,10
+GoingAheadPrivate,2012201236T120054,2012,Norfolk,11
+GoingAheadPrivate,2.0122E+16,2012,Suffolk,13
+GoingAheadPrivate,20122012400CA0648,2012,Luton,21
+GoingAheadPrivate,201220124100B0259,2012,Hertfordshire,10
+GoingAheadPrivate,201220124100F0170,2012,Hertfordshire,30
+GoingAheadPrivate,201220124100J0462,2012,Hertfordshire,10
+GoingAheadPrivate,201220124100K0491,2012,Hertfordshire,15
+GoingAheadPrivate,2012201242I099704,2012,Essex,13
+GoingAheadPrivate,2012201242I283209,2012,Essex,11
+GoingAheadPrivate,2012201242I353311,2012,Essex,35
+GoingAheadPrivate,2012201243N256112,2012,Buckinghamshire,55
+GoingAheadPrivate,2012201243P045012,2012,Oxfordshire,29
+GoingAheadPrivate,2012201243R068092,2012,Bracknell Forest,28
+GoingAheadPrivate,2012201243W018092,2012,Wokingham,20
+GoingAheadPrivate,2012201243W050062,2012,Reading,32
+GoingAheadPrivate,2012201243W086112,2012,Wokingham,18
+GoingAheadPrivate,2012201243W235022,2012,Wokingham,69
+GoingAheadPrivate,2012201243W251112,2012,Wokingham,14
+GoingAheadPrivate,2.0122E+16,2012,Hampshire,16
+GoingAheadPrivate,2.0122E+16,2012,Portsmouth,15
+GoingAheadPrivate,2.0122E+16,2012,Hampshire,17
+GoingAheadPrivate,2.0122E+16,2012,Isle of Wight,15
+GoingAheadPrivate,2.0122E+16,2012,Hampshire,17
+GoingAheadPrivate,2.0122E+16,2012,Hampshire,17
+GoingAheadPrivate,2.0122E+16,2012,Isle of Wight,17
+GoingAheadPrivate,2.0122E+16,2012,Hampshire,56
+GoingAheadPrivate,2.0122E+16,2012,Isle of Wight,44
+GoingAheadPrivate,2.0122E+16,2012,Hampshire,18
+GoingAheadPrivate,2.0122E+16,2012,Portsmouth,45
+GoingAheadPrivate,2.0122E+16,2012,Hampshire,36
+GoingAheadPrivate,2012201245GU73613,2012,Surrey,43
+GoingAheadPrivate,2012201245MO66981,2012,Surrey,-1
+GoingAheadPrivate,2012201245MO74797,2012,Surrey,37
+GoingAheadPrivate,2012201245WO70657,2012,Surrey,59
+GoingAheadPrivate,2.0122E+16,2012,Kent,14
+GoingAheadPrivate,2.0122E+16,2012,Kent,14
+GoingAheadPrivate,2.0122E+16,2012,Kent,14
+GoingAheadPrivate,2.0122E+16,2012,Kent,-1
+GoingAheadPrivate,2.0122E+16,2012,East Sussex,12
+GoingAheadPrivate,2.0122E+16,2012,East Sussex,16
+GoingAheadPrivate,2.0122E+16,2012,West Sussex,23
+GoingAheadPrivate,2.0122E+16,2012,West Sussex,71
+GoingAheadPrivate,2012201250FT2H026,2012,Torbay,40
+GoingAheadPrivate,2012201250JS2M003,2012,Devon,11
+GoingAheadPrivate,2012201250KE2E002,2012,Devon,83
+GoingAheadPrivate,2.0122E+16,2012,Somerset,21
+GoingAheadPrivate,2.0122E+16,2012,Bath and North East Somerset,15
+GoingAheadPrivate,2.0122E+16,2012,City of Bristol,17
+GoingAheadPrivate,2.0122E+16,2012,Gloucestershire,13
+GoingAheadPrivate,2.0122E+16,2012,Gloucestershire,19
+GoingAheadPrivate,2.0122E+16,2012,Gloucestershire,56
+GoingAheadPrivate,2.0122E+16,2012,Gloucestershire,27
+GoingAheadPrivate,2.0122E+16,2012,Wiltshire,47
+GoingAheadPrivate,2.0122E+16,2012,Swindon,14
+GoingAheadPrivate,2012201254B331912,2012,Wiltshire,53
+GoingAheadPrivate,20122012552C29896,2012,Bournemouth,25
+GoingAheadPrivate,20122012552C42068,2012,Bournemouth,15
+GoingAheadPrivate,20122012552C42576,2012,Bournemouth,51
+GoingAheadPrivate,20122012552D30907,2012,Dorset,23

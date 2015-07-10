@@ -1,0 +1,200 @@
+Scenario,urn,accyr,LAName,Age
+EnteringLeftCarPrivate,200504DF05166,2005,Lancashire,24
+EnteringLeftCarPrivate,200506F036482,2005,Salford,19
+EnteringLeftCarPrivate,2.0051E+12,2005,Newcastle upon Tyne,17
+EnteringLeftCarPrivate,200511BE15940,2005,Durham,13
+EnteringLeftCarPrivate,200520E096901,2005,Birmingham,13
+EnteringLeftCarPrivate,200520E145101,2005,Birmingham,37
+EnteringLeftCarPrivate,200520E181103,2005,Birmingham,25
+EnteringLeftCarPrivate,200520K060601,2005,Sandwell,
+EnteringLeftCarPrivate,200520L075701,2005,Solihull,16
+EnteringLeftCarPrivate,200520L157101,2005,Solihull,43
+EnteringLeftCarPrivate,200520M086602,2005,Coventry,40
+EnteringLeftCarPrivate,2.00523E+12,2005,Warwickshire,51
+EnteringLeftCarPrivate,200530C000353,2005,Derbyshire,11
+EnteringLeftCarPrivate,20053102B3542,2005,Nottinghamshire,24
+EnteringLeftCarPrivate,2.00533E+12,2005,Leicestershire,14
+EnteringLeftCarPrivate,2.00533E+12,2005,Leicestershire,18
+EnteringLeftCarPrivate,2.00533E+12,2005,Leicestershire,19
+EnteringLeftCarPrivate,2.00535E+12,2005,Peterborough,15
+EnteringLeftCarPrivate,2.00535E+12,2005,Peterborough,28
+EnteringLeftCarPrivate,20054100C1064,2005,Hertfordshire,45
+EnteringLeftCarPrivate,2.00552E+12,2005,City of Bristol,8
+EnteringLeftCarPrivate,2.00552E+12,2005,City of Bristol,22
+EnteringLeftCarPrivate,200601ZD30697,2006,London,48
+EnteringLeftCarPrivate,200601ZT80098,2006,London,17
+EnteringLeftCarPrivate,2.0061E+12,2006,South Tyneside,77
+EnteringLeftCarPrivate,2.0061E+12,2006,South Tyneside,34
+EnteringLeftCarPrivate,2.00613E+12,2006,Bradford,54
+EnteringLeftCarPrivate,2006170M13246,2006,Middlesbrough,14
+EnteringLeftCarPrivate,200620H038801,2006,Walsall,18
+EnteringLeftCarPrivate,200620K104602,2006,Sandwell,36
+EnteringLeftCarPrivate,2.00622E+12,2006,Staffordshire,16
+EnteringLeftCarPrivate,200622FA49824,2006,Shropshire,31
+EnteringLeftCarPrivate,200630C000270,2006,Derbyshire,7
+EnteringLeftCarPrivate,200630D000826,2006,Derby,24
+EnteringLeftCarPrivate,20063102C2607,2006,Nottingham,22
+EnteringLeftCarPrivate,2.00635E+12,2006,Cambridgeshire,46
+EnteringLeftCarPrivate,2.00635E+12,2006,Peterborough,13
+EnteringLeftCarPrivate,2.00635E+12,2006,Peterborough,58
+EnteringLeftCarPrivate,2.00636E+12,2006,Norfolk,63
+EnteringLeftCarPrivate,2.00636E+12,2006,Norfolk,58
+EnteringLeftCarPrivate,200640D025250,2006,Central Bedfordshire,26
+EnteringLeftCarPrivate,20064100B0399,2006,Hertfordshire,23
+EnteringLeftCarPrivate,20064100G0302,2006,Hertfordshire,42
+EnteringLeftCarPrivate,200642B004902,2006,Essex,13
+EnteringLeftCarPrivate,200643N205026,2006,Buckinghamshire,13
+EnteringLeftCarPrivate,200643N254086,2006,Buckinghamshire,31
+EnteringLeftCarPrivate,200643R166086,2006,Slough,
+EnteringLeftCarPrivate,2.00652E+12,2006,North Somerset,39
+EnteringLeftCarPrivate,2006556B02496,2006,Bournemouth,26
+EnteringLeftCarPrivate,200701RG62886,2007,London,34
+EnteringLeftCarPrivate,200704BA07114,2007,Lancashire,57
+EnteringLeftCarPrivate,200720D179502,2007,Birmingham,18
+EnteringLeftCarPrivate,200720E179602,2007,Birmingham,37
+EnteringLeftCarPrivate,200720L146001,2007,Solihull,
+EnteringLeftCarPrivate,200720L210001,2007,Solihull,31
+EnteringLeftCarPrivate,200720M023202,2007,Coventry,10
+EnteringLeftCarPrivate,200730A000390,2007,Derbyshire,11
+EnteringLeftCarPrivate,200730D000763,2007,Derby,44
+EnteringLeftCarPrivate,200737B027083,2007,Suffolk,34
+EnteringLeftCarPrivate,200737B029538,2007,Suffolk,16
+EnteringLeftCarPrivate,20074100A0646,2007,Hertfordshire,19
+EnteringLeftCarPrivate,20074100B0234,2007,Hertfordshire,47
+EnteringLeftCarPrivate,200743R151047,2007,Windsor and Maidenhead,35
+EnteringLeftCarPrivate,200743W077057,2007,Reading,28
+EnteringLeftCarPrivate,200743W121077,2007,West Berkshire,30
+EnteringLeftCarPrivate,2.00746E+12,2007,Kent,15
+EnteringLeftCarPrivate,2.00752E+12,2007,Bath and North East Somerset,
+EnteringLeftCarPrivate,200801FH10269,2008,London,18
+EnteringLeftCarPrivate,200801MM71261,2008,London,36
+EnteringLeftCarPrivate,200801TX20117,2008,London,27
+EnteringLeftCarPrivate,200801TX20538,2008,London,20
+EnteringLeftCarPrivate,2.00813E+12,2008,Kirklees,39
+EnteringLeftCarPrivate,2008160C03650,2008,East Riding of Yorkshire,54
+EnteringLeftCarPrivate,2008160D06610,2008,Kingston Upon Hull,47
+EnteringLeftCarPrivate,2008170L20778,2008,Redcar and Cleveland,37
+EnteringLeftCarPrivate,200820E105301,2008,Birmingham,18
+EnteringLeftCarPrivate,200820F149902,2008,Birmingham,48
+EnteringLeftCarPrivate,200820K032902,2008,Sandwell,
+EnteringLeftCarPrivate,200822GA86400,2008,Telford and Wrekin,33
+EnteringLeftCarPrivate,200830C000042,2008,Derbyshire,35
+EnteringLeftCarPrivate,200830D000580,2008,Derby,
+EnteringLeftCarPrivate,20083102C2644,2008,Nottingham,
+EnteringLeftCarPrivate,20083102D3454,2008,Nottinghamshire,52
+EnteringLeftCarPrivate,20083104C2561,2008,Nottingham,17
+EnteringLeftCarPrivate,2.00833E+12,2008,Leicestershire,18
+EnteringLeftCarPrivate,2.00833E+12,2008,Leicestershire,
+EnteringLeftCarPrivate,2.00833E+12,2008,Leicestershire,50
+EnteringLeftCarPrivate,2.00833E+12,2008,Leicestershire,35
+EnteringLeftCarPrivate,2.00833E+12,2008,Leicestershire,36
+EnteringLeftCarPrivate,2.00835E+12,2008,Cambridgeshire,27
+EnteringLeftCarPrivate,2.00835E+12,2008,Peterborough,39
+EnteringLeftCarPrivate,2008400D01030,2008,Central Bedfordshire,16
+EnteringLeftCarPrivate,200843R003128,2008,Slough,23
+EnteringLeftCarPrivate,2.00844E+12,2008,Southampton ,20
+EnteringLeftCarPrivate,2.00852E+12,2008,South Gloucestershire,34
+EnteringLeftCarPrivate,2.00852E+12,2008,South Gloucestershire,24
+EnteringLeftCarPrivate,2008558P00208,2008,Poole,14
+EnteringLeftCarPrivate,200901TX20158,2009,London,21
+EnteringLeftCarPrivate,2.0091E+12,2009,Newcastle upon Tyne,30
+EnteringLeftCarPrivate,200914A053609,2009,Doncaster,43
+EnteringLeftCarPrivate,2009170S32929,2009,Stockton on Tees,11
+EnteringLeftCarPrivate,200920E047101,2009,Birmingham,17
+EnteringLeftCarPrivate,200920E055801,2009,Birmingham,14
+EnteringLeftCarPrivate,200920E058701,2009,Birmingham,18
+EnteringLeftCarPrivate,200920F066503,2009,Birmingham,
+EnteringLeftCarPrivate,200920G007601,2009,Wolverhampton,57
+EnteringLeftCarPrivate,200920G054701,2009,Wolverhampton,14
+EnteringLeftCarPrivate,200920K079602,2009,Sandwell,17
+EnteringLeftCarPrivate,2.00922E+12,2009,Stoke on Trent,16
+EnteringLeftCarPrivate,200930D000285,2009,Derby,13
+EnteringLeftCarPrivate,20093102C1243,2009,Nottingham,11
+EnteringLeftCarPrivate,20093102C2790,2009,Nottingham,20
+EnteringLeftCarPrivate,20093102C3140,2009,Nottingham,
+EnteringLeftCarPrivate,20093102D3124,2009,Nottinghamshire,19
+EnteringLeftCarPrivate,2.00935E+12,2009,Cambridgeshire,34
+EnteringLeftCarPrivate,2.00936E+12,2009,Norfolk,13
+EnteringLeftCarPrivate,20094100G0278,2009,Hertfordshire,11
+EnteringLeftCarPrivate,20094100K0332,2009,Hertfordshire,35
+EnteringLeftCarPrivate,200943P080039,2009,Oxfordshire,26
+EnteringLeftCarPrivate,2.00944E+12,2009,Portsmouth,18
+EnteringLeftCarPrivate,2.00952E+12,2009,City of Bristol,14
+EnteringLeftCarPrivate,2.00952E+12,2009,City of Bristol,43
+EnteringLeftCarPrivate,2.00952E+12,2009,South Gloucestershire,23
+EnteringLeftCarPrivate,2009559C01503,2009,Bournemouth,6
+EnteringLeftCarPrivate,201001ZT80262,2010,London,41
+EnteringLeftCarPrivate,2.01003E+12,2010,Cumbria,49
+EnteringLeftCarPrivate,2.01013E+12,2010,Bradford,17
+EnteringLeftCarPrivate,2.01013E+12,2010,Bradford,18
+EnteringLeftCarPrivate,2010160C00831,2010,East Riding of Yorkshire,12
+EnteringLeftCarPrivate,201020J003230,2010,Dudley,
+EnteringLeftCarPrivate,201020M003550,2010,Coventry,23
+EnteringLeftCarPrivate,2.01021E+12,2010,Stoke on Trent,37
+EnteringLeftCarPrivate,2.01021E+12,2010,Stoke on Trent,12
+EnteringLeftCarPrivate,20103102D0137,2010,Nottinghamshire,56
+EnteringLeftCarPrivate,20103102D1696,2010,Nottinghamshire,36
+EnteringLeftCarPrivate,20103104A0113,2010,Nottinghamshire,53
+EnteringLeftCarPrivate,2.01033E+12,2010,Leicestershire,
+EnteringLeftCarPrivate,2.01035E+12,2010,Cambridgeshire,24
+EnteringLeftCarPrivate,201043N129080,2010,Buckinghamshire,
+EnteringLeftCarPrivate,201043R110040,2010,Bracknell Forest,33
+EnteringLeftCarPrivate,2.01046E+12,2010,Kent,39
+EnteringLeftCarPrivate,201054DC23110,2010,Swindon,55
+EnteringLeftCarPrivate,201054ES00710,2010,Wiltshire,33
+EnteringLeftCarPrivate,20105500D1173,2010,Dorset,49
+EnteringLeftCarPrivate,2011201101RG40738,2011,London,44
+EnteringLeftCarPrivate,2011201101TB00448,2011,London,34
+EnteringLeftCarPrivate,2011201101TB00550,2011,London,14
+EnteringLeftCarPrivate,2.0112E+16,2011,South Tyneside,17
+EnteringLeftCarPrivate,2.0112E+16,2011,North Yorkshire,14
+EnteringLeftCarPrivate,2.0112E+16,2011,Bradford,45
+EnteringLeftCarPrivate,2011201114B044911,2011,Barnsley,-1
+EnteringLeftCarPrivate,20112011160C07321,2011,East Riding of Yorkshire,50
+EnteringLeftCarPrivate,2011201120G006181,2011,Wolverhampton,17
+EnteringLeftCarPrivate,2011201120M016961,2011,Coventry,17
+EnteringLeftCarPrivate,2011201120W050661,2011,Birmingham,33
+EnteringLeftCarPrivate,2.0112E+16,2011,Staffordshire,17
+EnteringLeftCarPrivate,2011201131A076111,2011,Nottinghamshire,13
+EnteringLeftCarPrivate,2011201131C226411,2011,Nottingham,16
+EnteringLeftCarPrivate,2011201131D019511,2011,Nottinghamshire,35
+EnteringLeftCarPrivate,2011201132E167211,2011,Lincolnshire,49
+EnteringLeftCarPrivate,2011201132N314811,2011,Lincolnshire,32
+EnteringLeftCarPrivate,2011201132N376711,2011,Lincolnshire,71
+EnteringLeftCarPrivate,2.0112E+16,2011,Leicestershire,56
+EnteringLeftCarPrivate,2.0112E+16,2011,Leicestershire,32
+EnteringLeftCarPrivate,2.0112E+16,2011,Cambridgeshire,24
+EnteringLeftCarPrivate,2.0112E+16,2011,Cambridgeshire,42
+EnteringLeftCarPrivate,2.0112E+16,2011,Cambridgeshire,26
+EnteringLeftCarPrivate,20112011400C01661,2011,Luton,29
+EnteringLeftCarPrivate,201120114100C0144,2011,Hertfordshire,37
+EnteringLeftCarPrivate,201120114100K0053,2011,Hertfordshire,44
+EnteringLeftCarPrivate,2011201143P197091,2011,Oxfordshire,12
+EnteringLeftCarPrivate,2011201143R005031,2011,Bracknell Forest,68
+EnteringLeftCarPrivate,2011201143W100041,2011,Wokingham,53
+EnteringLeftCarPrivate,2.0112E+16,2011,Hampshire,23
+EnteringLeftCarPrivate,2.0112E+16,2011,South Gloucestershire,23
+EnteringLeftCarPrivate,2.0112E+16,2011,South Gloucestershire,31
+EnteringLeftCarPrivate,2.0112E+16,2011,Swindon,61
+EnteringLeftCarPrivate,2011201154EL04611,2011,Wiltshire,11
+EnteringLeftCarPrivate,20112011551D02851,2011,Dorset,37
+EnteringLeftCarPrivate,20112011551D20313,2011,Dorset,52
+EnteringLeftCarPrivate,2012201204CJ12097,2012,Lancashire,32
+EnteringLeftCarPrivate,2012201214A125212,2012,Doncaster,27
+EnteringLeftCarPrivate,20122012160D08501,2012,Kingston Upon Hull,32
+EnteringLeftCarPrivate,2012201220J006352,2012,Dudley,58
+EnteringLeftCarPrivate,2012201220K014852,2012,Sandwell,15
+EnteringLeftCarPrivate,2012201230B000322,2012,Derbyshire,19
+EnteringLeftCarPrivate,2012201230D000485,2012,Derby,47
+EnteringLeftCarPrivate,2012201231B122812,2012,Nottinghamshire,22
+EnteringLeftCarPrivate,2012201231D199312,2012,Nottinghamshire,15
+EnteringLeftCarPrivate,2.0122E+16,2012,Leicestershire,33
+EnteringLeftCarPrivate,2.0122E+16,2012,Cambridgeshire,55
+EnteringLeftCarPrivate,20122012400BA0895,2012,Bedford Borough Council,13
+EnteringLeftCarPrivate,20122012400DA0133,2012,Central Bedfordshire,14
+EnteringLeftCarPrivate,2012201242I366507,2012,Essex,13
+EnteringLeftCarPrivate,2012201243P303082,2012,Oxfordshire,37
+EnteringLeftCarPrivate,2012201243W145092,2012,Reading,29
+EnteringLeftCarPrivate,2012201243W227022,2012,West Berkshire,36
+EnteringLeftCarPrivate,2.0122E+16,2012,Hampshire,61
+EnteringLeftCarPrivate,2.0122E+16,2012,North Somerset,29
