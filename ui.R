@@ -1,6 +1,7 @@
 library(shiny)
 VectCasAccCycl <- read.csv("data/VectCasAccCycl.csv", na.strings = c("..","x"),  as.is = default.stringsAsFactors())
 scenarios <- read.csv("data/scenarios.csv", na.strings = c("..","x"),  as.is = default.stringsAsFactors())
+SortBikeAcc <- read.csv("data/SortBikeAcc.csv", na.strings = c("..","x"),  as.is = default.stringsAsFactors())
 
 # Define UI for application that draws a histogram
 shinyUI(navbarPage("Impact of Bikeability on road collisions",
@@ -21,7 +22,7 @@ shinyUI(navbarPage("Impact of Bikeability on road collisions",
                                 helpText("In this application, we study the impact of Bikeability delivery on road collisions.")
                               ),
                               column(4,
-                                imageOutput("image_homepage")
+                                img(src="bikeability_logo.jpg", alt="Logo", width=300)
                               )
                               ),
                             hr(),
@@ -56,15 +57,15 @@ shinyUI(navbarPage("Impact of Bikeability on road collisions",
                             titlePanel(""),
                             verticalLayout(
                               wellPanel(
-                                 radioButtons("var", label = h3("Choose the graph"),  choices = list("Local authorities sorted by Bikeability delivery rate" = "Bikeability", "Local authorities sorted by collisions rate" = "Accidents", "Bikeability delivery rate against collisons rate" = "Other"),
-                                               selected = "Bikeability"),
+                                 radioButtons("var", label = h3("Choose the graph"),  choices = list("Bikeability delivery rate against collisions rate" = "Other", "Local authorities sorted by Bikeability delivery rate" = "Bikeability", "Local authorities sorted by collisions rate" = "Accidents"),
+                                               selected = "Other"),
                                  hr(),
                                  h3("Explanations"),
-                                 helpText("On the first and second graphs:", align="justify"),
-                                 helpText("Red points represent the Bikeability rate. It is the number of fifth-or-sixth-year pupils who attended Bikeability from 2006 to 2012 divided by the population of the local authority.", align = "justify"), 
+                                 helpText("On the first graph:", align="justify"),
+                                 helpText("The correlation coefficient is", round(cor(SortBikeAcc$RatioBikeSince2006, SortBikeAcc$RatioAcc), digits = 3), ". There is no correlation between Bikeability delivery rate and road collisions rate.", align="justify"),
+                                 helpText("On the second and third graphs:", align="justify"),
+                                 helpText("Red points represent the Bikeability rate. It is the number of pupils in Years 5 or 6 who attended Bikeability from 2006 to 2012 divided by the population of the local authority.", align = "justify"), 
                                  helpText("Blue points represent the collisions rate. It is the number of collisions involving 9 to 17 years old cyclists in 2012 divided by the population of the local authority.", align = "justify"),
-                                 helpText("On the third graph:", align="justify"),
-                                 helpText("The correlation coefficient is", cor(SortBikeAcc$RatioBikeSince2006, SortBikeAcc$RatioAcc), ". There is no correlation between Bikeability delivery rate and road collisions rate.", align="justify"),
                                  hr(),
                                  h3("Local authority selected"),
                                  verbatimTextOutput("plot_clickinfo")

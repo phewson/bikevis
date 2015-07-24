@@ -70,14 +70,6 @@ description <- read.csv("data/description.csv", na.strings = c("..","x"),  as.is
 shinyServer(function(input, output) {
   
   # Homepage
-  output$image_homepage <- renderImage({ 
-    return ( list (
-      src = "images/bikeability_logo.jpg",
-      filetype = "image/jpg",
-      alt = paste("Illustration"),
-      width=300
-      ))
-  }, deleteFile = FALSE)
   
   
   # Tab maps
